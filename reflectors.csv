@@ -1,4 +1,11 @@
 reflector_ip,ip_version,description
+146.112.61.106,4,OpenDNS: hit-adult.opendns.com
+146.112.61.104,4,OpenDNS: hit-block.opendns.com
+146.112.61.109,4,OpenDNS: hit-block.opendns.com
+146.112.61.105,4,OpenDNS: hit-botnet.opendns.com
+146.112.61.107,4,OpenDNS: hit-malware.opendns.com
+146.112.61.110,4,OpenDNS: hit-malware.opendns.com
+146.112.61.108,4,OpenDNS: hit-phish.opendns.com
 119.252.175.130,4,Ookla Speedtest server: 1speedtest.iconpln.net.id
 203.47.10.37,4,Ookla Speedtest server: ade1.speedtest.telstra.net
 2.78.44.187,4,Ookla Speedtest server: ala-st-01.kcell.kz
@@ -35,7 +42,6 @@ reflector_ip,ip_version,description
 212.215.133.38,4,Ookla Speedtest server: jed-speedtest.saudi.net.sa
 91.244.247.41,4,Ookla Speedtest server: joinet.ro
 194.126.108.76,4,Ookla Speedtest server: kiirustest.elion.ee
-146.112.61.109,4,Ookla Speedtest server: kr.speedtest.net
 118.232.78.110,4,Ookla Speedtest server: ks-sptest.kbro.com.tw
 80.67.167.77,4,Ookla Speedtest server: lafibre.info
 121.54.32.194,4,Ookla Speedtest server: laspinas1.smart.com.ph
@@ -236,7 +242,6 @@ reflector_ip,ip_version,description
 217.112.96.250,4,Ookla Speedtest server: speedtest.ivoweb.it
 216.31.50.150,4,Ookla Speedtest server: speedtest.ixnm.net
 91.144.164.84,4,Ookla Speedtest server: speedtest.izhevsk.ertelecom.ru
-146.112.61.106,4,Ookla Speedtest server: speedtest.izhnet.ru
 185.61.26.150,4,Ookla Speedtest server: speedtest.izmuroma.ru
 208.131.167.106,4,Ookla Speedtest server: speedtest.jam.lime.com
 197.80.150.123,4,Ookla Speedtest server: speedtest.jhb.mweb.co.za
