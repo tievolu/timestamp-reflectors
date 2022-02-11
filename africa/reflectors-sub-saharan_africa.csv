@@ -366,7 +366,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 41.185.8.117,4,hrsroofing.co.za,ZA,South Africa,Africa,Sub-Saharan Africa
 196.40.97.130,4,hulamin.co.za,ZA,South Africa,Africa,Sub-Saharan Africa
 129.232.251.209,4,hypemagazine.co.za,ZA,South Africa,Africa,Sub-Saharan Africa
-41.220.128.10,4,iaa.ac.tz,TZ,Tanzania, United Republic of,Africa,Sub-Saharan Africa
+41.220.128.10,4,iaa.ac.tz,TZ,"Tanzania, United Republic of",Africa,Sub-Saharan Africa
 197.221.27.170,4,icasa.org.za,ZA,South Africa,Africa,Sub-Saharan Africa
 154.0.173.140,4,icitp.org.za,ZA,South Africa,Africa,Sub-Saharan Africa
 41.203.16.248,4,iconicsurveillance.co.za,ZA,South Africa,Africa,Sub-Saharan Africa
@@ -427,7 +427,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 196.22.132.140,4,klaradynretirementvillage.co.za,ZA,South Africa,Africa,Sub-Saharan Africa
 41.203.30.126,4,kmhosting.co.za,ZA,South Africa,Africa,Sub-Saharan Africa
 197.248.5.17,4,kplc.co.ke,KE,Kenya,Africa,Sub-Saharan Africa
-154.72.53.4,4,kprod.cd,CD,Congo, Democratic Republic of the,Africa,Sub-Saharan Africa
+154.72.53.4,4,kprod.cd,CD,"Congo, Democratic Republic of the",Africa,Sub-Saharan Africa
 193.233.15.59,4,ktk.kz,SC,Seychelles,Africa,Sub-Saharan Africa
 193.233.15.108,4,kuponarama.ru,SC,Seychelles,Africa,Sub-Saharan Africa
 41.78.27.215,4,kura.go.ke,KE,Kenya,Africa,Sub-Saharan Africa
@@ -594,8 +594,8 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 129.232.176.244,4,onshape.co.za,ZA,South Africa,Africa,Sub-Saharan Africa
 197.211.236.25,4,Ookla Speedtest server: harare.speedtest.co.zw,ZW,Zimbabwe,Africa,Sub-Saharan Africa
 196.202.252.34,4,Ookla Speedtest server: speed.netcabo.co.ao,AO,Angola,Africa,Sub-Saharan Africa
-41.79.69.24,4,Ookla Speedtest server: speedtest.aptus.co.tz,TZ,Tanzania, United Republic of,Africa,Sub-Saharan Africa
-41.222.88.31,4,Ookla Speedtest server: speedtest.bellafrica.net,TZ,Tanzania, United Republic of,Africa,Sub-Saharan Africa
+41.79.69.24,4,Ookla Speedtest server: speedtest.aptus.co.tz,TZ,"Tanzania, United Republic of",Africa,Sub-Saharan Africa
+41.222.88.31,4,Ookla Speedtest server: speedtest.bellafrica.net,TZ,"Tanzania, United Republic of",Africa,Sub-Saharan Africa
 197.84.150.123,4,Ookla Speedtest server: speedtest.cpt.mweb.co.za,ZA,South Africa,Africa,Sub-Saharan Africa
 41.73.156.132,4,Ookla Speedtest server: speedtest.isnigeria.com.ng,NG,Nigeria,Africa,Sub-Saharan Africa
 196.216.98.11,4,Ookla Speedtest server: speedtest.ispace.co.za,ZA,South Africa,Africa,Sub-Saharan Africa
@@ -613,7 +613,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 156.38.197.170,4,ouds.co.za,ZA,South Africa,Africa,Sub-Saharan Africa
 156.38.221.243,4,ourfuturetalentmanagement.co.za,ZA,South Africa,Africa,Sub-Saharan Africa
 164.160.91.15,4,ourhomebusiness.co.za,ZA,South Africa,Africa,Sub-Saharan Africa
-196.216.247.18,4,out.ac.tz,TZ,Tanzania, United Republic of,Africa,Sub-Saharan Africa
+196.216.247.18,4,out.ac.tz,TZ,"Tanzania, United Republic of",Africa,Sub-Saharan Africa
 5.135.78.244,4,ovaciones.com,ZA,South Africa,Africa,Sub-Saharan Africa
 41.203.18.4,4,pacecarrental.co.za,ZA,South Africa,Africa,Sub-Saharan Africa
 154.0.171.186,4,palladian-as.com,ZA,South Africa,Africa,Sub-Saharan Africa
@@ -819,7 +819,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 197.221.2.20,4,taqfashions.co.za,ZA,South Africa,Africa,Sub-Saharan Africa
 197.221.12.138,4,tarsusdistribution.co.za,ZA,South Africa,Africa,Sub-Saharan Africa
 197.242.145.253,4,tbhivcare.org,ZA,South Africa,Africa,Sub-Saharan Africa
-196.32.240.37,4,tcra.go.tz,TZ,Tanzania, United Republic of,Africa,Sub-Saharan Africa
+196.32.240.37,4,tcra.go.tz,TZ,"Tanzania, United Republic of",Africa,Sub-Saharan Africa
 105.247.104.170,4,telesacomms.co.za,ZA,South Africa,Africa,Sub-Saharan Africa
 197.221.14.36,4,temlaw.co.za,ZA,South Africa,Africa,Sub-Saharan Africa
 41.63.32.5,4,teveta.org.zm,ZM,Zambia,Africa,Sub-Saharan Africa
@@ -958,7 +958,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 41.72.99.142,4,zamtel.zm,ZM,Zambia,Africa,Sub-Saharan Africa
 165.57.108.2,4,zamtel.zm,ZM,Zambia,Africa,Sub-Saharan Africa
 129.232.249.82,4,zapagaming.co.za,ZA,South Africa,Africa,Sub-Saharan Africa
-102.223.7.56,4,zcsra.go.tz,TZ,Tanzania, United Republic of,Africa,Sub-Saharan Africa
+102.223.7.56,4,zcsra.go.tz,TZ,"Tanzania, United Republic of",Africa,Sub-Saharan Africa
 160.119.103.10,4,zebnickel.com,ZA,South Africa,Africa,Sub-Saharan Africa
 69.167.136.124,4,zeecom.host,LS,Lesotho,Africa,Sub-Saharan Africa
 154.0.171.78,4,zestyillustration.co.za,ZA,South Africa,Africa,Sub-Saharan Africa

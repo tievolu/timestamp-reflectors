@@ -7,7 +7,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 103.104.175.77,4,0l0tz.com,CN,China,Asia,Eastern Asia
 118.27.114.199,4,1000mg.jp,JP,Japan,Asia,Eastern Asia
 123.57.52.61,4,100mian.com,CN,China,Asia,Eastern Asia
-133.186.251.119,4,1020bag.com,KR,Korea, Republic of,Asia,Eastern Asia
+133.186.251.119,4,1020bag.com,KR,"Korea, Republic of",Asia,Eastern Asia
 1.14.246.52,4,1024sou.com,CN,China,Asia,Eastern Asia
 113.10.242.104,4,1090dy.com,HK,Hong Kong,Asia,Eastern Asia
 162.43.116.100,4,10to1travel.com,JP,Japan,Asia,Eastern Asia
@@ -49,12 +49,12 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 110.40.247.201,4,24kdh.cn,CN,China,Asia,Eastern Asia
 202.172.25.40,4,269g.net,JP,Japan,Asia,Eastern Asia
 150.109.64.105,4,293.net,HK,Hong Kong,Asia,Eastern Asia
-104.155.202.223,4,2book.co,TW,Taiwan, Province of China,Asia,Eastern Asia
+104.155.202.223,4,2book.co,TW,"Taiwan, Province of China",Asia,Eastern Asia
 47.52.135.21,4,2fdeal.com,HK,Hong Kong,Asia,Eastern Asia
 47.242.55.145,4,2r4ijpdu.com,HK,Hong Kong,Asia,Eastern Asia
 118.27.122.28,4,30biyou.com,JP,Japan,Asia,Eastern Asia
-60.248.112.145,4,3311590.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
-59.124.137.49,4,34c.cc,TW,Taiwan, Province of China,Asia,Eastern Asia
+60.248.112.145,4,3311590.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
+59.124.137.49,4,34c.cc,TW,"Taiwan, Province of China",Asia,Eastern Asia
 39.106.161.119,4,360doc.cn,CN,China,Asia,Eastern Asia
 47.93.235.158,4,360doc.cn,CN,China,Asia,Eastern Asia
 39.106.173.98,4,360doc.com,CN,China,Asia,Eastern Asia
@@ -75,9 +75,9 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 129.211.129.109,4,4399.com,CN,China,Asia,Eastern Asia
 150.95.54.180,4,4430.info,JP,Japan,Asia,Eastern Asia
 47.90.61.23,4,444.cn,HK,Hong Kong,Asia,Eastern Asia
-34.80.64.137,4,4497tw.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+34.80.64.137,4,4497tw.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 115.31.193.160,4,4628.jp,JP,Japan,Asia,Eastern Asia
-112.121.83.24,4,486shop.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+112.121.83.24,4,486shop.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 133.18.11.158,4,4900.co.jp,JP,Japan,Asia,Eastern Asia
 103.139.239.2,4,4gamer.net,JP,Japan,Asia,Eastern Asia
 113.106.94.62,4,4px.com,CN,China,Asia,Eastern Asia
@@ -140,14 +140,14 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 106.75.78.165,4,8684.cn,CN,China,Asia,Eastern Asia
 103.20.237.110,4,881903.com,HK,Hong Kong,Asia,Eastern Asia
 43.129.163.177,4,88new.cc,HK,Hong Kong,Asia,Eastern Asia
-202.79.172.2,4,88tingshu.com,KR,Korea, Republic of,Asia,Eastern Asia
+202.79.172.2,4,88tingshu.com,KR,"Korea, Republic of",Asia,Eastern Asia
 183.181.81.133,4,8wa.jp,JP,Japan,Asia,Eastern Asia
 124.156.100.5,4,9020date.com,HK,Hong Kong,Asia,Eastern Asia
 47.112.215.65,4,90ers.com,CN,China,Asia,Eastern Asia
 124.108.39.129,4,919.jp,JP,Japan,Asia,Eastern Asia
 119.28.6.136,4,91easyplay.com,CN,China,Asia,Eastern Asia
 119.147.149.111,4,9377s.com,CN,China,Asia,Eastern Asia
-202.133.247.70,4,9453p.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+202.133.247.70,4,9453p.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 115.231.227.26,4,95516.com,CN,China,Asia,Eastern Asia
 118.178.95.115,4,95epay.com,CN,China,Asia,Eastern Asia
 47.57.184.121,4,96yinpin.com,HK,Hong Kong,Asia,Eastern Asia
@@ -223,9 +223,9 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.90.237.33,4,airw.net,JP,Japan,Asia,Eastern Asia
 47.91.159.3,4,aishuaijiao.com,HK,Hong Kong,Asia,Eastern Asia
 39.105.184.166,4,aisoutu.com,CN,China,Asia,Eastern Asia
-35.189.191.133,4,ajpeace.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
-27.96.133.83,4,ajudaily.com,KR,Korea, Republic of,Asia,Eastern Asia
-27.96.132.231,4,ajunews.com,KR,Korea, Republic of,Asia,Eastern Asia
+35.189.191.133,4,ajpeace.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
+27.96.133.83,4,ajudaily.com,KR,"Korea, Republic of",Asia,Eastern Asia
+27.96.132.231,4,ajunews.com,KR,"Korea, Republic of",Asia,Eastern Asia
 163.44.187.218,4,akegata-movie.com,JP,Japan,Asia,Eastern Asia
 183.90.240.16,4,aki418.com,JP,Japan,Asia,Eastern Asia
 118.27.122.158,4,akihiroblod-2021.com,JP,Japan,Asia,Eastern Asia
@@ -289,9 +289,9 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.181.91.121,4,angel-number.fun,JP,Japan,Asia,Eastern Asia
 172.96.185.183,4,angkajitu4d.xyz,HK,Hong Kong,Asia,Eastern Asia
 162.43.116.110,4,anglerbuddy.com,JP,Japan,Asia,Eastern Asia
-210.205.6.175,4,anmyon.net,KR,Korea, Republic of,Asia,Eastern Asia
+210.205.6.175,4,anmyon.net,KR,"Korea, Republic of",Asia,Eastern Asia
 103.141.97.3,4,anne-net50.com,JP,Japan,Asia,Eastern Asia
-35.229.200.16,4,anntw.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.229.200.16,4,anntw.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 183.181.84.105,4,ansan-life.com,JP,Japan,Asia,Eastern Asia
 133.18.66.203,4,anshin.co.jp,JP,Japan,Asia,Eastern Asia
 133.167.96.21,4,anshindo.net,JP,Japan,Asia,Eastern Asia
@@ -314,7 +314,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 118.27.34.80,4,app-story.net,JP,Japan,Asia,Eastern Asia
 153.120.12.142,4,appcount.net,JP,Japan,Asia,Eastern Asia
 116.62.151.250,4,appinn.net,CN,China,Asia,Eastern Asia
-203.74.95.128,4,appledaily.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+203.74.95.128,4,appledaily.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 157.112.183.2,4,applelinkage.com,JP,Japan,Asia,Eastern Asia
 121.42.12.75,4,applicationloader.net,CN,China,Asia,Eastern Asia
 202.172.25.52,4,applistation.net,JP,Japan,Asia,Eastern Asia
@@ -326,13 +326,13 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.181.90.55,4,arecore.app,JP,Japan,Asia,Eastern Asia
 150.95.219.90,4,ariapat.org,JP,Japan,Asia,Eastern Asia
 35.220.167.137,4,arihanttrade.com,HK,Hong Kong,Asia,Eastern Asia
-203.66.57.71,4,art106.com,TW,Taiwan, Province of China,Asia,Eastern Asia
-115.68.52.47,4,artinsight.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+203.66.57.71,4,art106.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
+115.68.52.47,4,artinsight.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 162.43.117.62,4,arturbanism.jp,JP,Japan,Asia,Eastern Asia
 183.181.90.49,4,aruki-plus.com,JP,Japan,Asia,Eastern Asia
 159.75.2.104,4,asbid.cn,CN,China,Asia,Eastern Asia
 103.11.101.42,4,asiantigersgroup.com,HK,Hong Kong,Asia,Eastern Asia
-114.108.137.72,4,asil.kr,KR,Korea, Republic of,Asia,Eastern Asia
+114.108.137.72,4,asil.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 157.112.189.11,4,asmore-tax.jp,JP,Japan,Asia,Eastern Asia
 23.10.5.114,4,aspentech.com,JP,Japan,Asia,Eastern Asia
 164.46.124.148,4,assouken.gr.jp,JP,Japan,Asia,Eastern Asia
@@ -344,13 +344,13 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.90.241.144,4,atsumal.jp,JP,Japan,Asia,Eastern Asia
 150.95.52.125,4,attrip.jp,JP,Japan,Asia,Eastern Asia
 121.41.229.97,4,aucmaoverseas.com,CN,China,Asia,Eastern Asia
-61.218.179.136,4,audio-technica.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+61.218.179.136,4,audio-technica.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 183.181.81.62,4,auspiciousdream.com,JP,Japan,Asia,Eastern Asia
 180.92.182.83,4,australianwinner.com,HK,Hong Kong,Asia,Eastern Asia
 202.254.236.27,4,auto-worker.com,JP,Japan,Asia,Eastern Asia
 124.250.78.6,4,autohome.com.cn,CN,China,Asia,Eastern Asia
 27.111.83.21,4,autoidasia.com,HK,Hong Kong,Asia,Eastern Asia
-222.96.156.143,4,autonics.com,KR,Korea, Republic of,Asia,Eastern Asia
+222.96.156.143,4,autonics.com,KR,"Korea, Republic of",Asia,Eastern Asia
 202.171.152.237,4,autowebdirect.com,JP,Japan,Asia,Eastern Asia
 183.90.183.155,4,av2ch.net,JP,Japan,Asia,Eastern Asia
 202.254.236.26,4,avachara.com,JP,Japan,Asia,Eastern Asia
@@ -372,54 +372,54 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.90.238.3,4,b-risk.jp,JP,Japan,Asia,Eastern Asia
 183.181.91.49,4,b-seeds.com,JP,Japan,Asia,Eastern Asia
 49.212.140.156,4,b-smile.jp,JP,Japan,Asia,Eastern Asia
-211.20.187.118,4,b2bmit.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+211.20.187.118,4,b2bmit.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 23.224.149.44,4,b5200.net,HK,Hong Kong,Asia,Eastern Asia
 50.7.159.106,4,b9game.com,JP,Japan,Asia,Eastern Asia
 50.7.159.108,4,b9good.com,JP,Japan,Asia,Eastern Asia
 156.234.180.68,4,babatb.com,HK,Hong Kong,Asia,Eastern Asia
 162.43.117.18,4,bablishe.com,JP,Japan,Asia,Eastern Asia
 118.27.99.147,4,backofficemagazine.com,JP,Japan,Asia,Eastern Asia
-115.22.68.46,4,badatime.com,KR,Korea, Republic of,Asia,Eastern Asia
+115.22.68.46,4,badatime.com,KR,"Korea, Republic of",Asia,Eastern Asia
 8.210.218.219,4,baipaiyun.com,HK,Hong Kong,Asia,Eastern Asia
 103.120.80.80,4,balltv.cc,HK,Hong Kong,Asia,Eastern Asia
-52.79.86.85,4,bandicam.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
-122.147.187.105,4,bangqu.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+52.79.86.85,4,bandicam.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
+122.147.187.105,4,bangqu.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 133.167.72.72,4,banikabeer.com,JP,Japan,Asia,Eastern Asia
 104.233.165.85,4,banyingong8.com,JP,Japan,Asia,Eastern Asia
 118.178.224.141,4,bao315.com,CN,China,Asia,Eastern Asia
 133.130.104.18,4,baonghiep.edu.vn,JP,Japan,Asia,Eastern Asia
 172.96.185.181,4,baotintuc24h.online,HK,Hong Kong,Asia,Eastern Asia
-115.22.68.91,4,basic4mcu.com,KR,Korea, Republic of,Asia,Eastern Asia
+115.22.68.91,4,basic4mcu.com,KR,"Korea, Republic of",Asia,Eastern Asia
 183.90.238.16,4,battlecats-db.com,JP,Japan,Asia,Eastern Asia
-35.221.204.229,4,bazubu.com,TW,Taiwan, Province of China,Asia,Eastern Asia
-104.199.172.236,4,bcc2000.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.221.204.229,4,bazubu.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
+104.199.172.236,4,bcc2000.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 163.44.169.13,4,bchessclub.vn,JP,Japan,Asia,Eastern Asia
-121.78.144.172,4,bcwnews.com,KR,Korea, Republic of,Asia,Eastern Asia
+121.78.144.172,4,bcwnews.com,KR,"Korea, Republic of",Asia,Eastern Asia
 157.112.176.70,4,bd-tsumiki.com,JP,Japan,Asia,Eastern Asia
-58.229.253.12,4,bdsplanet.com,KR,Korea, Republic of,Asia,Eastern Asia
+58.229.253.12,4,bdsplanet.com,KR,"Korea, Republic of",Asia,Eastern Asia
 39.106.123.209,4,beareyes.com.cn,CN,China,Asia,Eastern Asia
 172.104.99.206,4,bearteach.com,JP,Japan,Asia,Eastern Asia
 157.112.176.24,4,beauty-trendblog.com,JP,Japan,Asia,Eastern Asia
 183.181.84.15,4,beauty-worthen.com,JP,Japan,Asia,Eastern Asia
-163.171.213.18,4,becomeacanadian.org,KR,Korea, Republic of,Asia,Eastern Asia
+163.171.213.18,4,becomeacanadian.org,KR,"Korea, Republic of",Asia,Eastern Asia
 8.210.73.92,4,bee.com,HK,Hong Kong,Asia,Eastern Asia
 43.128.59.216,4,bees.pub,HK,Hong Kong,Asia,Eastern Asia
 163.44.185.184,4,bellwether.click,JP,Japan,Asia,Eastern Asia
 133.18.72.60,4,benefon.com,JP,Japan,Asia,Eastern Asia
 133.208.95.233,4,benesse.jp,JP,Japan,Asia,Eastern Asia
 124.248.157.116,4,best-hit.tv,JP,Japan,Asia,Eastern Asia
-35.194.237.172,4,best-legal.jp,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.194.237.172,4,best-legal.jp,TW,"Taiwan, Province of China",Asia,Eastern Asia
 103.141.97.130,4,best-note.site,JP,Japan,Asia,Eastern Asia
 183.90.237.113,4,best-w.com,JP,Japan,Asia,Eastern Asia
 152.32.226.199,4,bestandfirst.co,HK,Hong Kong,Asia,Eastern Asia
-35.206.217.218,4,bestj.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.206.217.218,4,bestj.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 59.106.211.56,4,besttrendnews.net,JP,Japan,Asia,Eastern Asia
 150.95.219.27,4,bethjudah.org,JP,Japan,Asia,Eastern Asia
 88.218.193.16,4,bfcm.vip,HK,Hong Kong,Asia,Eastern Asia
 122.114.61.136,4,bfsu-bw.com,CN,China,Asia,Eastern Asia
 84.17.37.44,4,bg3.co,HK,Hong Kong,Asia,Eastern Asia
 43.129.227.113,4,bianquzy.com,HK,Hong Kong,Asia,Eastern Asia
-61.216.58.144,4,biggo.co.th,TW,Taiwan, Province of China,Asia,Eastern Asia
+61.216.58.144,4,biggo.co.th,TW,"Taiwan, Province of China",Asia,Eastern Asia
 47.52.220.47,4,bigjpg.com,HK,Hong Kong,Asia,Eastern Asia
 133.208.59.141,4,biglobe.ne.jp,JP,Japan,Asia,Eastern Asia
 202.254.239.3,4,bignews77.com,JP,Japan,Asia,Eastern Asia
@@ -428,7 +428,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 120.24.74.178,4,bikesky.net,CN,China,Asia,Eastern Asia
 143.92.60.125,4,bili2bili201.xyz,HK,Hong Kong,Asia,Eastern Asia
 164.52.28.62,4,bilibili.tv,HK,Hong Kong,Asia,Eastern Asia
-61.31.168.92,4,bingo.hi.cn,TW,Taiwan, Province of China,Asia,Eastern Asia
+61.31.168.92,4,bingo.hi.cn,TW,"Taiwan, Province of China",Asia,Eastern Asia
 8.211.171.18,4,biocomma.com,JP,Japan,Asia,Eastern Asia
 111.231.249.134,4,biohazard.club,CN,China,Asia,Eastern Asia
 47.107.70.50,4,bionav.cc,CN,China,Asia,Eastern Asia
@@ -456,12 +456,12 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 154.198.252.131,4,bling2c.com,HK,Hong Kong,Asia,Eastern Asia
 34.96.215.233,4,blinkvpn.com,HK,Hong Kong,Asia,Eastern Asia
 8.217.54.133,4,blockwhy.net,HK,Hong Kong,Asia,Eastern Asia
-115.68.106.114,4,blogchart.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+115.68.106.114,4,blogchart.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 153.120.49.123,4,blogcircle.jp,JP,Japan,Asia,Eastern Asia
 156.241.84.172,4,blogcog.com,HK,Hong Kong,Asia,Eastern Asia
 172.96.185.196,4,bloggertemplate.info,HK,Hong Kong,Asia,Eastern Asia
 45.204.37.122,4,bloggingwithgypsy.com,HK,Hong Kong,Asia,Eastern Asia
-221.160.135.15,4,bloghelper.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+221.160.135.15,4,bloghelper.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 157.112.176.61,4,blognote01.com,JP,Japan,Asia,Eastern Asia
 153.120.62.148,4,blogofmobile.com,JP,Japan,Asia,Eastern Asia
 150.95.219.91,4,blogrank.jp,JP,Japan,Asia,Eastern Asia
@@ -493,7 +493,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 103.141.97.9,4,bossmania.club,JP,Japan,Asia,Eastern Asia
 183.90.237.49,4,bot-assistant.com,JP,Japan,Asia,Eastern Asia
 117.18.8.12,4,boya-mic.com,HK,Hong Kong,Asia,Eastern Asia
-104.199.187.167,4,brac.net,TW,Taiwan, Province of China,Asia,Eastern Asia
+104.199.187.167,4,brac.net,TW,"Taiwan, Province of China",Asia,Eastern Asia
 203.90.226.56,4,braemarhillnurseryschool.edu.hk,HK,Hong Kong,Asia,Eastern Asia
 203.90.226.55,4,braemarhillnurseryschool.edu.hk,HK,Hong Kong,Asia,Eastern Asia
 103.15.22.10,4,brainworksrnd.com,HK,Hong Kong,Asia,Eastern Asia
@@ -505,8 +505,8 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 47.243.133.114,4,breo.com,HK,Hong Kong,Asia,Eastern Asia
 133.208.167.14,4,bridgestone.co.jp,JP,Japan,Asia,Eastern Asia
 34.85.121.137,4,bridgestonetire.com,JP,Japan,Asia,Eastern Asia
-104.199.214.191,4,brilio.net,TW,Taiwan, Province of China,Asia,Eastern Asia
-104.199.248.22,4,brilio.net,TW,Taiwan, Province of China,Asia,Eastern Asia
+104.199.214.191,4,brilio.net,TW,"Taiwan, Province of China",Asia,Eastern Asia
+104.199.248.22,4,brilio.net,TW,"Taiwan, Province of China",Asia,Eastern Asia
 58.158.55.230,4,brooksbrothers.co.jp,JP,Japan,Asia,Eastern Asia
 149.56.198.193,4,brossard.ca,HK,Hong Kong,Asia,Eastern Asia
 183.90.235.29,4,brush-stock.com,JP,Japan,Asia,Eastern Asia
@@ -517,7 +517,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 59.188.16.204,4,bthaha.monster,HK,Hong Kong,Asia,Eastern Asia
 103.97.178.118,4,btmovi.store,HK,Hong Kong,Asia,Eastern Asia
 164.46.123.200,4,buddha-art.com,JP,Japan,Asia,Eastern Asia
-35.201.192.156,4,buhitter.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.201.192.156,4,buhitter.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 183.90.228.19,4,build-lifetime.com,JP,Japan,Asia,Eastern Asia
 118.144.89.197,4,buildhr.com,CN,China,Asia,Eastern Asia
 163.44.187.217,4,buildsalon.co.jp,JP,Japan,Asia,Eastern Asia
@@ -526,8 +526,8 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 47.100.208.111,4,bunze.com,CN,China,Asia,Eastern Asia
 183.90.255.7,4,businesschatmaster.com,JP,Japan,Asia,Eastern Asia
 183.90.242.33,4,businessclinic.tokyo,JP,Japan,Asia,Eastern Asia
-112.121.107.62,4,businessweekly.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
-61.221.12.36,4,buttercard.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+112.121.107.62,4,businessweekly.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
+61.221.12.36,4,buttercard.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 183.90.237.102,4,buyclub.jp,JP,Japan,Asia,Eastern Asia
 160.16.111.30,4,buyer-life.com,JP,Japan,Asia,Eastern Asia
 120.136.10.40,4,buyersdrive.com,JP,Japan,Asia,Eastern Asia
@@ -535,11 +535,11 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.181.88.59,4,buyma-forest.com,JP,Japan,Asia,Eastern Asia
 183.181.86.113,4,by-standard.jp,JP,Japan,Asia,Eastern Asia
 150.95.219.150,4,by-the-salon.com,JP,Japan,Asia,Eastern Asia
-115.68.78.36,4,byapps.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+115.68.78.36,4,byapps.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 118.27.95.21,4,c-c-ccc.com,JP,Japan,Asia,Eastern Asia
 183.181.88.140,4,c-c-labo.com,JP,Japan,Asia,Eastern Asia
 133.242.165.188,4,c1k.jp,JP,Japan,Asia,Eastern Asia
-61.219.144.84,4,c2racing.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+61.219.144.84,4,c2racing.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 139.129.182.33,4,cacafrica.com,CN,China,Asia,Eastern Asia
 153.122.33.231,4,cadenas-w2c.net,JP,Japan,Asia,Eastern Asia
 118.27.99.83,4,cadiy3d.com,JP,Japan,Asia,Eastern Asia
@@ -550,7 +550,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 150.95.54.226,4,calm-days.net,JP,Japan,Asia,Eastern Asia
 133.242.28.6,4,caloo.jp,JP,Japan,Asia,Eastern Asia
 160.16.117.230,4,cambridgeanalytica.org,JP,Japan,Asia,Eastern Asia
-35.194.199.77,4,camdemy.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.194.199.77,4,camdemy.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 47.90.38.124,4,camhr.com,HK,Hong Kong,Asia,Eastern Asia
 183.181.84.84,4,campballoon.com,JP,Japan,Asia,Eastern Asia
 150.95.219.25,4,campmanavis.com,JP,Japan,Asia,Eastern Asia
@@ -564,12 +564,12 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 52.197.205.34,4,carewiz.ai,JP,Japan,Asia,Eastern Asia
 52.199.143.99,4,carewiz.ai,JP,Japan,Asia,Eastern Asia
 183.90.250.27,4,carryme.jp,JP,Japan,Asia,Eastern Asia
-61.221.12.96,4,carstuff.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+61.221.12.96,4,carstuff.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 118.27.26.250,4,cashing-knowledge.jp,JP,Japan,Asia,Eastern Asia
 202.254.236.25,4,casino-get.com,JP,Japan,Asia,Eastern Asia
 176.97.71.195,4,casphy.com,JP,Japan,Asia,Eastern Asia
 183.90.242.49,4,cat-press.com,JP,Japan,Asia,Eastern Asia
-103.17.9.237,4,catholic.org.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+103.17.9.237,4,catholic.org.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 23.226.3.224,4,cavlim.com,HK,Hong Kong,Asia,Eastern Asia
 172.96.185.245,4,caycanhhatinh.com,HK,Hong Kong,Asia,Eastern Asia
 163.44.185.217,4,cayest.net,JP,Japan,Asia,Eastern Asia
@@ -580,16 +580,16 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 157.7.94.185,4,ccd.cloud,JP,Japan,Asia,Eastern Asia
 157.112.176.62,4,cci-nenkin.jp,JP,Japan,Asia,Eastern Asia
 119.161.169.39,4,ccidnet.com,CN,China,Asia,Eastern Asia
-203.66.68.66,4,ccr.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+203.66.68.66,4,ccr.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 123.56.141.63,4,ccw.com.cn,CN,China,Asia,Eastern Asia
 118.123.4.155,4,cd.com.cn,CN,China,Asia,Eastern Asia
 112.65.244.90,4,cda.cn,CN,China,Asia,Eastern Asia
 101.33.127.188,4,cdkeyoffer.com,HK,Hong Kong,Asia,Eastern Asia
 103.120.80.6,4,cdylhg.com,HK,Hong Kong,Asia,Eastern Asia
 47.242.137.229,4,ceconline.com,HK,Hong Kong,Asia,Eastern Asia
-13.125.75.35,4,cello.bz,KR,Korea, Republic of,Asia,Eastern Asia
-52.78.140.72,4,cello.bz,KR,Korea, Republic of,Asia,Eastern Asia
-3.35.123.247,4,cello.bz,KR,Korea, Republic of,Asia,Eastern Asia
+13.125.75.35,4,cello.bz,KR,"Korea, Republic of",Asia,Eastern Asia
+52.78.140.72,4,cello.bz,KR,"Korea, Republic of",Asia,Eastern Asia
+3.35.123.247,4,cello.bz,KR,"Korea, Republic of",Asia,Eastern Asia
 39.107.50.8,4,cena.com.cn,CN,China,Asia,Eastern Asia
 118.27.100.87,4,centralisland.tech,JP,Japan,Asia,Eastern Asia
 54.65.238.247,4,ceron.jp,JP,Japan,Asia,Eastern Asia
@@ -615,11 +615,11 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 27.133.240.17,4,chem-agilent.com,JP,Japan,Asia,Eastern Asia
 144.48.140.236,4,chemnet.com.tw,HK,Hong Kong,Asia,Eastern Asia
 47.111.141.215,4,chengdaauto.com,CN,China,Asia,Eastern Asia
-14.52.99.14,4,cheric.org,KR,Korea, Republic of,Asia,Eastern Asia
+14.52.99.14,4,cheric.org,KR,"Korea, Republic of",Asia,Eastern Asia
 138.113.55.72,4,cherryswap.net,HK,Hong Kong,Asia,Eastern Asia
 124.251.51.59,4,chetx.com,CN,China,Asia,Eastern Asia
 183.90.241.125,4,chiakimemoblog.com,JP,Japan,Asia,Eastern Asia
-35.221.238.180,4,chieftec.eu,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.221.238.180,4,chieftec.eu,TW,"Taiwan, Province of China",Asia,Eastern Asia
 150.95.52.99,4,chihirowada.com,JP,Japan,Asia,Eastern Asia
 156.234.139.80,4,child123.cn,HK,Hong Kong,Asia,Eastern Asia
 47.114.79.0,4,china10.net,CN,China,Asia,Eastern Asia
@@ -628,7 +628,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 39.100.7.23,4,chinahaoyuan.com,CN,China,Asia,Eastern Asia
 114.118.21.16,4,chinahuida.cn,CN,China,Asia,Eastern Asia
 43.128.5.6,4,chinajusticeobserver.com,HK,Hong Kong,Asia,Eastern Asia
-45.135.118.186,4,chinamidi.cn,KR,Korea, Republic of,Asia,Eastern Asia
+45.135.118.186,4,chinamidi.cn,KR,"Korea, Republic of",Asia,Eastern Asia
 13.75.113.39,4,chinaplay.store,HK,Hong Kong,Asia,Eastern Asia
 47.94.161.189,4,chinatrucks.com,CN,China,Asia,Eastern Asia
 59.56.79.249,4,chinatt.com,CN,China,Asia,Eastern Asia
@@ -644,7 +644,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 219.234.25.123,4,choice.com,CN,China,Asia,Eastern Asia
 164.46.45.18,4,chojiro-kyoto.com,JP,Japan,Asia,Eastern Asia
 183.90.240.5,4,chokichoki-m.com,JP,Japan,Asia,Eastern Asia
-203.237.99.12,4,chosun.ac.kr,KR,Korea, Republic of,Asia,Eastern Asia
+203.237.99.12,4,chosun.ac.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 175.25.22.130,4,chouti.com,CN,China,Asia,Eastern Asia
 47.75.143.178,4,chromecj.com,HK,Hong Kong,Asia,Eastern Asia
 157.112.145.7,4,chromesoku.com,JP,Japan,Asia,Eastern Asia
@@ -656,10 +656,10 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 163.44.164.144,4,chura58.net,JP,Japan,Asia,Eastern Asia
 121.40.188.75,4,cico.com,CN,China,Asia,Eastern Asia
 157.112.150.10,4,cien-byarhair.com,JP,Japan,Asia,Eastern Asia
-45.140.91.178,4,ciligou.live,KR,Korea, Republic of,Asia,Eastern Asia
+45.140.91.178,4,ciligou.live,KR,"Korea, Republic of",Asia,Eastern Asia
 39.107.246.202,4,cilizhai.com,CN,China,Asia,Eastern Asia
 183.181.82.151,4,cimax.jp,JP,Japan,Asia,Eastern Asia
-115.68.207.226,4,cine21.com,KR,Korea, Republic of,Asia,Eastern Asia
+115.68.207.226,4,cine21.com,KR,"Korea, Republic of",Asia,Eastern Asia
 163.44.185.195,4,cinematic-vlog.com,JP,Japan,Asia,Eastern Asia
 202.254.239.112,4,cinemercato.com,JP,Japan,Asia,Eastern Asia
 210.51.190.232,4,cingreen.cn,CN,China,Asia,Eastern Asia
@@ -668,11 +668,11 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 121.40.39.36,4,cisau.com.cn,CN,China,Asia,Eastern Asia
 47.57.4.95,4,cismea.net,HK,Hong Kong,Asia,Eastern Asia
 47.52.46.99,4,cityu.edu.mo,HK,Hong Kong,Asia,Eastern Asia
-141.164.47.179,4,ck-joker.club,KR,Korea, Republic of,Asia,Eastern Asia
+141.164.47.179,4,ck-joker.club,KR,"Korea, Republic of",Asia,Eastern Asia
 8.210.194.48,4,ckb.pw,HK,Hong Kong,Asia,Eastern Asia
 47.75.117.99,4,ckcoinpro.cn,HK,Hong Kong,Asia,Eastern Asia
 120.136.11.59,4,classtream.jp,JP,Japan,Asia,Eastern Asia
-163.171.198.156,4,claudiepierlot.cn,KR,Korea, Republic of,Asia,Eastern Asia
+163.171.198.156,4,claudiepierlot.cn,KR,"Korea, Republic of",Asia,Eastern Asia
 183.181.84.87,4,cleaning-yuriya.com,JP,Japan,Asia,Eastern Asia
 60.188.225.9,4,click.com.cn,CN,China,Asia,Eastern Asia
 60.188.225.11,4,click.com.cn,CN,China,Asia,Eastern Asia
@@ -688,7 +688,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 133.125.34.186,4,cloud-line.com,JP,Japan,Asia,Eastern Asia
 8.217.37.235,4,cloundtoken.top,HK,Hong Kong,Asia,Eastern Asia
 119.3.239.198,4,cltlbook.com,CN,China,Asia,Eastern Asia
-121.78.175.221,4,clubbox.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+121.78.175.221,4,clubbox.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 157.65.27.7,4,cman.jp,JP,Japan,Asia,Eastern Asia
 47.90.35.235,4,cmd.im,HK,Hong Kong,Asia,Eastern Asia
 8.210.202.213,4,cmdw.top,HK,Hong Kong,Asia,Eastern Asia
@@ -735,8 +735,8 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 162.43.116.78,4,company-supporter.com,JP,Japan,Asia,Eastern Asia
 153.122.54.115,4,comptia.jp,JP,Japan,Asia,Eastern Asia
 202.254.238.16,4,conlabo.co.jp,JP,Japan,Asia,Eastern Asia
-133.186.250.249,4,cookevermall.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
-61.221.12.52,4,coolaler.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+133.186.250.249,4,cookevermall.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
+61.221.12.52,4,coolaler.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 116.251.205.136,4,coolmindshk.com,HK,Hong Kong,Asia,Eastern Asia
 183.181.98.117,4,copel.co.jp,JP,Japan,Asia,Eastern Asia
 49.233.208.106,4,copipi.com,CN,China,Asia,Eastern Asia
@@ -746,14 +746,14 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.181.99.191,4,cosmetic-info.jp,JP,Japan,Asia,Eastern Asia
 162.43.116.37,4,cosmetic-ingredients.org,JP,Japan,Asia,Eastern Asia
 153.120.9.89,4,cospatio.com,JP,Japan,Asia,Eastern Asia
-223.27.33.83,4,costring.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+223.27.33.83,4,costring.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 183.181.85.49,4,cosydesign.com,JP,Japan,Asia,Eastern Asia
-34.80.221.226,4,coture.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+34.80.221.226,4,coture.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 162.43.117.86,4,country-crossing.com,JP,Japan,Asia,Eastern Asia
 183.181.79.54,4,couronne.co.jp,JP,Japan,Asia,Eastern Asia
 172.96.185.225,4,coursesdl.com,HK,Hong Kong,Asia,Eastern Asia
-222.239.78.150,4,cox.kr,KR,Korea, Republic of,Asia,Eastern Asia
-104.155.198.226,4,cozxy.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+222.239.78.150,4,cox.kr,KR,"Korea, Republic of",Asia,Eastern Asia
+104.155.198.226,4,cozxy.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 202.181.185.165,4,cpap100.com,HK,Hong Kong,Asia,Eastern Asia
 202.181.185.166,4,cpap100.com,HK,Hong Kong,Asia,Eastern Asia
 202.181.185.167,4,cpap100.com,HK,Hong Kong,Asia,Eastern Asia
@@ -792,7 +792,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 218.45.242.8,4,csj.jp,JP,Japan,Asia,Eastern Asia
 39.102.37.68,4,css8.cn,CN,China,Asia,Eastern Asia
 47.104.231.24,4,csser.top,CN,China,Asia,Eastern Asia
-45.140.91.67,4,cssn1.com,KR,Korea, Republic of,Asia,Eastern Asia
+45.140.91.67,4,cssn1.com,KR,"Korea, Republic of",Asia,Eastern Asia
 47.242.164.27,4,cstimer.net,HK,Hong Kong,Asia,Eastern Asia
 47.56.193.8,4,ctdisk.com,HK,Hong Kong,Asia,Eastern Asia
 160.16.149.7,4,cube-soft.jp,JP,Japan,Asia,Eastern Asia
@@ -804,18 +804,18 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 162.43.116.64,4,custom-life.net,JP,Japan,Asia,Eastern Asia
 120.25.242.186,4,cvc.org.cn,CN,China,Asia,Eastern Asia
 115.166.151.25,4,cvh.jp,JP,Japan,Asia,Eastern Asia
-222.232.238.243,4,cvv-union.at,KR,Korea, Republic of,Asia,Eastern Asia
-61.255.185.201,4,cvv-union.at,KR,Korea, Republic of,Asia,Eastern Asia
+222.232.238.243,4,cvv-union.at,KR,"Korea, Republic of",Asia,Eastern Asia
+61.255.185.201,4,cvv-union.at,KR,"Korea, Republic of",Asia,Eastern Asia
 43.155.97.242,4,cxmtrading.com,HK,Hong Kong,Asia,Eastern Asia
 163.44.161.169,4,cyberagent.co.jp,JP,Japan,Asia,Eastern Asia
 158.101.143.5,4,cybergadget.co.jp,JP,Japan,Asia,Eastern Asia
-61.222.218.99,4,cybermedia.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+61.222.218.99,4,cybermedia.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 183.90.255.43,4,cyblog.jp,JP,Japan,Asia,Eastern Asia
 116.153.4.44,4,cyc2018.xyz,CN,China,Asia,Eastern Asia
 42.63.66.152,4,cyc2018.xyz,CN,China,Asia,Eastern Asia
 58.144.137.8,4,cyc2018.xyz,CN,China,Asia,Eastern Asia
 111.202.85.21,4,cyc2018.xyz,CN,China,Asia,Eastern Asia
-121.78.246.91,4,cyhds-event.com,KR,Korea, Republic of,Asia,Eastern Asia
+121.78.246.91,4,cyhds-event.com,KR,"Korea, Republic of",Asia,Eastern Asia
 172.105.239.47,4,d-pedia.co.id,JP,Japan,Asia,Eastern Asia
 27.133.148.230,4,d-rise-ex.jp,JP,Japan,Asia,Eastern Asia
 163.44.185.205,4,d-web-design.com,JP,Japan,Asia,Eastern Asia
@@ -824,39 +824,39 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.181.89.117,4,dadanyu.com,JP,Japan,Asia,Eastern Asia
 43.132.163.187,4,dahua.com,HK,Hong Kong,Asia,Eastern Asia
 182.254.211.199,4,daifazhu.com,CN,China,Asia,Eastern Asia
-61.100.186.47,4,dailynk.com,KR,Korea, Republic of,Asia,Eastern Asia
+61.100.186.47,4,dailynk.com,KR,"Korea, Republic of",Asia,Eastern Asia
 163.44.185.209,4,daitaideit.com,JP,Japan,Asia,Eastern Asia
 183.90.238.25,4,dajya-ranger.com,JP,Japan,Asia,Eastern Asia
 162.43.116.70,4,dan-chan.com,JP,Japan,Asia,Eastern Asia
 180.235.132.68,4,dandreapartners.com,HK,Hong Kong,Asia,Eastern Asia
 114.215.191.157,4,dangbei.com,CN,China,Asia,Eastern Asia
 221.122.104.41,4,dangdang.com,CN,China,Asia,Eastern Asia
-104.199.250.167,4,daodu.tech,TW,Taiwan, Province of China,Asia,Eastern Asia
-121.78.88.131,4,daplus.net,KR,Korea, Republic of,Asia,Eastern Asia
+104.199.250.167,4,daodu.tech,TW,"Taiwan, Province of China",Asia,Eastern Asia
+121.78.88.131,4,daplus.net,KR,"Korea, Republic of",Asia,Eastern Asia
 183.181.98.82,4,dappsmarket.net,JP,Japan,Asia,Eastern Asia
 118.27.99.149,4,daredemo-ec.jp,JP,Japan,Asia,Eastern Asia
-210.242.68.59,4,Data Communication Business Group,TW,Taiwan, Province of China,Asia,Eastern Asia
+210.242.68.59,4,Data Communication Business Group,TW,"Taiwan, Province of China",Asia,Eastern Asia
 35.243.124.129,4,data-be.at,JP,Japan,Asia,Eastern Asia
 183.90.242.8,4,data-link-plus.com,JP,Japan,Asia,Eastern Asia
 107.191.61.107,4,data-school.mn,JP,Japan,Asia,Eastern Asia
 133.242.243.165,4,datadeliver.net,JP,Japan,Asia,Eastern Asia
 100.42.56.28,4,dataprolix.com,JP,Japan,Asia,Eastern Asia
-115.68.110.141,4,datasheet26.com,KR,Korea, Republic of,Asia,Eastern Asia
-49.247.9.204,4,datasheet4u.com,KR,Korea, Republic of,Asia,Eastern Asia
-115.68.120.142,4,datasheetcafe.com,KR,Korea, Republic of,Asia,Eastern Asia
+115.68.110.141,4,datasheet26.com,KR,"Korea, Republic of",Asia,Eastern Asia
+49.247.9.204,4,datasheet4u.com,KR,"Korea, Republic of",Asia,Eastern Asia
+115.68.120.142,4,datasheetcafe.com,KR,"Korea, Republic of",Asia,Eastern Asia
 172.96.185.163,4,dathangtrungquoc.vn,HK,Hong Kong,Asia,Eastern Asia
 198.13.32.91,4,daudaumedia.net,JP,Japan,Asia,Eastern Asia
 202.254.234.82,4,days-file.com,JP,Japan,Asia,Eastern Asia
 101.36.110.132,4,dazhuanlan.com,HK,Hong Kong,Asia,Eastern Asia
-104.199.130.28,4,dbclmatrix.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+104.199.130.28,4,dbclmatrix.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 103.139.2.57,4,dbestech.com,HK,Hong Kong,Asia,Eastern Asia
 203.194.138.68,4,dcfever.com,HK,Hong Kong,Asia,Eastern Asia
 114.215.65.53,4,dcpfb.com,CN,China,Asia,Eastern Asia
-219.84.168.140,4,ddcar.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
-49.247.25.149,4,ddengle.com,KR,Korea, Republic of,Asia,Eastern Asia
+219.84.168.140,4,ddcar.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
+49.247.25.149,4,ddengle.com,KR,"Korea, Republic of",Asia,Eastern Asia
 207.148.102.241,4,ddkoin.com,JP,Japan,Asia,Eastern Asia
 45.253.65.181,4,ddnsto.com,CN,China,Asia,Eastern Asia
-218.154.65.213,4,debc.or.kr,KR,Korea, Republic of,Asia,Eastern Asia
+218.154.65.213,4,debc.or.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 183.181.91.70,4,debtmama.com,JP,Japan,Asia,Eastern Asia
 153.127.31.154,4,decotra.net,JP,Japan,Asia,Eastern Asia
 61.133.125.202,4,dedecms.com,CN,China,Asia,Eastern Asia
@@ -869,7 +869,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.90.250.24,4,delaymania.com,JP,Japan,Asia,Eastern Asia
 47.242.211.252,4,delphitop.com,HK,Hong Kong,Asia,Eastern Asia
 150.95.202.79,4,delta-tracer.com,JP,Japan,Asia,Eastern Asia
-125.228.93.78,4,demo.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+125.228.93.78,4,demo.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 133.18.73.113,4,dempa-digital.com,JP,Japan,Asia,Eastern Asia
 223.29.54.107,4,denwabango.com,JP,Japan,Asia,Eastern Asia
 183.181.89.114,4,depachika-world.com,JP,Japan,Asia,Eastern Asia
@@ -892,7 +892,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 54.248.126.242,4,dezshira.com,JP,Japan,Asia,Eastern Asia
 219.94.203.175,4,dgtrends.com,JP,Japan,Asia,Eastern Asia
 121.201.110.232,4,dgxspx.com,CN,China,Asia,Eastern Asia
-222.97.189.189,4,dhchem.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+222.97.189.189,4,dhchem.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 138.113.151.38,4,dhgate.com,HK,Hong Kong,Asia,Eastern Asia
 103.141.96.100,4,di-acc2.com,JP,Japan,Asia,Eastern Asia
 34.97.23.114,4,diamondarts.co.jp,JP,Japan,Asia,Eastern Asia
@@ -906,13 +906,13 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 133.18.66.250,4,digipoke.com,JP,Japan,Asia,Eastern Asia
 120.136.14.68,4,digital-illust.com,JP,Japan,Asia,Eastern Asia
 202.254.236.32,4,digital-marketing.jp,JP,Japan,Asia,Eastern Asia
-104.155.217.204,4,digital-transformation.media,TW,Taiwan, Province of China,Asia,Eastern Asia
+104.155.217.204,4,digital-transformation.media,TW,"Taiwan, Province of China",Asia,Eastern Asia
 172.104.89.253,4,digitalfilipino.com,JP,Japan,Asia,Eastern Asia
 69.175.18.196,4,digitechwebdesignaustin.com,CN,China,Asia,Eastern Asia
 35.200.29.181,4,digjapan.travel,JP,Japan,Asia,Eastern Asia
 101.33.118.90,4,diklearn.com,HK,Hong Kong,Asia,Eastern Asia
 180.235.137.21,4,dindinkj.com,HK,Hong Kong,Asia,Eastern Asia
-61.221.12.18,4,dino-lite.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+61.221.12.18,4,dino-lite.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 160.16.54.78,4,discovery-japan.me,JP,Japan,Asia,Eastern Asia
 49.212.160.36,4,discypus.jp,JP,Japan,Asia,Eastern Asia
 139.162.95.99,4,disp.cc,JP,Japan,Asia,Eastern Asia
@@ -921,7 +921,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 18.163.31.232,4,diytrade.com,HK,Hong Kong,Asia,Eastern Asia
 101.200.149.226,4,dizang.org,CN,China,Asia,Eastern Asia
 183.181.79.31,4,djmikanyc.com,JP,Japan,Asia,Eastern Asia
-49.247.131.113,4,dkspeech.com,KR,Korea, Republic of,Asia,Eastern Asia
+49.247.131.113,4,dkspeech.com,KR,"Korea, Republic of",Asia,Eastern Asia
 121.42.77.209,4,dm1314.net,CN,China,Asia,Eastern Asia
 157.112.159.206,4,dmix.co.jp,JP,Japan,Asia,Eastern Asia
 120.136.14.28,4,dmlab.jp,JP,Japan,Asia,Eastern Asia
@@ -974,8 +974,8 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 133.208.167.8,4,dtod.ne.jp,JP,Japan,Asia,Eastern Asia
 103.120.80.249,4,dtone.cc,HK,Hong Kong,Asia,Eastern Asia
 118.27.122.189,4,dubdesign.net,JP,Japan,Asia,Eastern Asia
-13.209.132.215,4,dunamu.com,KR,Korea, Republic of,Asia,Eastern Asia
-15.165.192.252,4,dunamu.com,KR,Korea, Republic of,Asia,Eastern Asia
+13.209.132.215,4,dunamu.com,KR,"Korea, Republic of",Asia,Eastern Asia
+15.165.192.252,4,dunamu.com,KR,"Korea, Republic of",Asia,Eastern Asia
 128.1.132.183,4,duoduokou.com,HK,Hong Kong,Asia,Eastern Asia
 115.29.193.189,4,duoic.com,CN,China,Asia,Eastern Asia
 101.200.44.206,4,dutyfreeauto.cn,CN,China,Asia,Eastern Asia
@@ -984,17 +984,17 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 101.32.34.58,4,dzpknews.com,HK,Hong Kong,Asia,Eastern Asia
 157.112.176.6,4,e-creators.info,JP,Japan,Asia,Eastern Asia
 210.188.201.36,4,e-grammar.info,JP,Japan,Asia,Eastern Asia
-133.186.244.16,4,e-linklearn.com,KR,Korea, Republic of,Asia,Eastern Asia
+133.186.244.16,4,e-linklearn.com,KR,"Korea, Republic of",Asia,Eastern Asia
 103.141.96.36,4,e-manabi-kobetsu.com,JP,Japan,Asia,Eastern Asia
 153.122.50.240,4,e-maple.net,JP,Japan,Asia,Eastern Asia
-61.219.168.150,4,e-ms.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
-101.1.57.202,4,e-pit.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+61.219.168.150,4,e-ms.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
+101.1.57.202,4,e-pit.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 183.181.98.61,4,e-poketsearch.com,JP,Japan,Asia,Eastern Asia
 133.18.67.75,4,e-sakaya.com,JP,Japan,Asia,Eastern Asia
 183.90.228.22,4,e-texteditor.com,JP,Japan,Asia,Eastern Asia
 183.181.98.90,4,ea-bank.com,JP,Japan,Asia,Eastern Asia
 163.44.185.199,4,eastcapital.jp,JP,Japan,Asia,Eastern Asia
-103.118.26.55,4,eastking.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+103.118.26.55,4,eastking.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 121.42.122.23,4,eastsunlite.com,CN,China,Asia,Eastern Asia
 118.27.100.147,4,easy-wordpress.work,JP,Japan,Asia,Eastern Asia
 47.96.176.239,4,easyhaitao.com,CN,China,Asia,Eastern Asia
@@ -1034,9 +1034,9 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 172.104.95.48,4,effecthub.com,JP,Japan,Asia,Eastern Asia
 103.141.97.153,4,effectorbox.com,JP,Japan,Asia,Eastern Asia
 47.52.151.57,4,efnchina.com,HK,Hong Kong,Asia,Eastern Asia
-35.201.146.81,4,efroip.com,TW,Taiwan, Province of China,Asia,Eastern Asia
-35.185.159.24,4,efroip.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
-203.75.181.33,4,efunfun.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.201.146.81,4,efroip.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
+35.185.159.24,4,efroip.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
+203.75.181.33,4,efunfun.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 106.75.250.189,4,eggvod.cn,CN,China,Asia,Eastern Asia
 183.90.183.159,4,egolf.jp,JP,Japan,Asia,Eastern Asia
 103.141.96.16,4,eikaiwajourney.com,JP,Japan,Asia,Eastern Asia
@@ -1047,10 +1047,10 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.181.94.217,4,electrictoolboy.com,JP,Japan,Asia,Eastern Asia
 159.75.222.7,4,elex-tech.com,CN,China,Asia,Eastern Asia
 106.14.81.102,4,elfsack.com,CN,China,Asia,Eastern Asia
-203.239.131.1,4,ELIMNET INC.,KR,Korea, Republic of,Asia,Eastern Asia
+203.239.131.1,4,ELIMNET INC.,KR,"Korea, Republic of",Asia,Eastern Asia
 150.95.55.166,4,elivestream.online,JP,Japan,Asia,Eastern Asia
 157.112.176.18,4,elplanning.co.jp,JP,Japan,Asia,Eastern Asia
-34.80.13.57,4,elvis-fun.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+34.80.13.57,4,elvis-fun.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 183.181.98.111,4,emma.tools,JP,Japan,Asia,Eastern Asia
 103.141.96.35,4,emo-kimi.com,JP,Japan,Asia,Eastern Asia
 119.28.54.186,4,emojixd.com,CN,China,Asia,Eastern Asia
@@ -1070,17 +1070,17 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 103.13.50.72,4,ensure-guard.com,HK,Hong Kong,Asia,Eastern Asia
 114.31.94.144,4,enterprisezine.jp,JP,Japan,Asia,Eastern Asia
 120.133.28.165,4,entgroup.cn,CN,China,Asia,Eastern Asia
-115.68.102.171,4,eomisae.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+115.68.102.171,4,eomisae.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 183.90.237.50,4,epidemicsound.jp,JP,Japan,Asia,Eastern Asia
 119.28.10.184,4,epionelife.ca,HK,Hong Kong,Asia,Eastern Asia
-219.84.168.188,4,eprice.com.hk,TW,Taiwan, Province of China,Asia,Eastern Asia
-219.84.168.168,4,eprice.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+219.84.168.188,4,eprice.com.hk,TW,"Taiwan, Province of China",Asia,Eastern Asia
+219.84.168.168,4,eprice.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 121.40.103.103,4,er.run,CN,China,Asia,Eastern Asia
 202.254.234.89,4,ereceipt.jp,JP,Japan,Asia,Eastern Asia
 183.90.183.161,4,ero-movies.net,JP,Japan,Asia,Eastern Asia
 103.244.44.91,4,eronb.net,JP,Japan,Asia,Eastern Asia
-35.185.172.255,4,erzap.com,TW,Taiwan, Province of China,Asia,Eastern Asia
-175.193.253.181,4,esignal.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+35.185.172.255,4,erzap.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
+175.193.253.181,4,esignal.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 183.90.245.23,4,esirdesign.com,JP,Japan,Asia,Eastern Asia
 119.9.116.93,4,esp8266.com,HK,Hong Kong,Asia,Eastern Asia
 157.112.183.67,4,esports-spirit.com,JP,Japan,Asia,Eastern Asia
@@ -1090,8 +1090,8 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.90.241.110,4,eternalcollegest.com,JP,Japan,Asia,Eastern Asia
 121.199.161.239,4,eteste.com,CN,China,Asia,Eastern Asia
 183.181.98.96,4,etoile.co.jp,JP,Japan,Asia,Eastern Asia
-116.204.169.56,4,eu4cn.com,KR,Korea, Republic of,Asia,Eastern Asia
-67.215.15.226,4,euroconsultants.edu.pk,KR,Korea, Republic of,Asia,Eastern Asia
+116.204.169.56,4,eu4cn.com,KR,"Korea, Republic of",Asia,Eastern Asia
+67.215.15.226,4,euroconsultants.edu.pk,KR,"Korea, Republic of",Asia,Eastern Asia
 61.139.126.8,4,ev-baobo.com,CN,China,Asia,Eastern Asia
 183.90.238.30,4,ev-news.jp,JP,Japan,Asia,Eastern Asia
 161.189.171.63,4,evatmaster.com,CN,China,Asia,Eastern Asia
@@ -1111,17 +1111,17 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 101.200.186.172,4,exeysoft.com,CN,China,Asia,Eastern Asia
 47.242.43.101,4,expatsholidays.com,HK,Hong Kong,Asia,Eastern Asia
 183.90.228.53,4,eye-found.com,JP,Japan,Asia,Eastern Asia
-211.115.88.230,4,eyes.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+211.115.88.230,4,eyes.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 160.16.66.49,4,eyescream.jp,JP,Japan,Asia,Eastern Asia
 47.75.111.113,4,eyesfi.com,HK,Hong Kong,Asia,Eastern Asia
 58.158.29.70,4,ez-oz.net,JP,Japan,Asia,Eastern Asia
-103.118.26.148,4,ezplay.mobi,TW,Taiwan, Province of China,Asia,Eastern Asia
+103.118.26.148,4,ezplay.mobi,TW,"Taiwan, Province of China",Asia,Eastern Asia
 202.254.236.107,4,f-w.co.jp,JP,Japan,Asia,Eastern Asia
 183.90.240.55,4,f1-jewel.jp,JP,Japan,Asia,Eastern Asia
 163.44.185.164,4,factsanddetails.com,JP,Japan,Asia,Eastern Asia
 183.181.81.92,4,familia2020.net,JP,Japan,Asia,Eastern Asia
-13.124.45.7,4,fanding.kr,KR,Korea, Republic of,Asia,Eastern Asia
-3.36.154.87,4,fanding.kr,KR,Korea, Republic of,Asia,Eastern Asia
+13.124.45.7,4,fanding.kr,KR,"Korea, Republic of",Asia,Eastern Asia
+3.36.154.87,4,fanding.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 124.251.87.37,4,fang.com,CN,China,Asia,Eastern Asia
 116.213.214.4,4,fanli.com,CN,China,Asia,Eastern Asia
 163.44.187.22,4,fantastech.net,JP,Japan,Asia,Eastern Asia
@@ -1132,7 +1132,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 103.123.100.98,4,fastzone.org,HK,Hong Kong,Asia,Eastern Asia
 157.7.174.95,4,fate-go.jp,JP,Japan,Asia,Eastern Asia
 183.181.88.14,4,fca.ac.jp,JP,Japan,Asia,Eastern Asia
-60.199.208.47,4,feebee.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+60.199.208.47,4,feebee.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 160.16.113.176,4,feedwatcher.net,JP,Japan,Asia,Eastern Asia
 183.181.82.9,4,feel-log.net,JP,Japan,Asia,Eastern Asia
 183.181.90.99,4,feezero.jp,JP,Japan,Asia,Eastern Asia
@@ -1140,12 +1140,12 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 114.215.17.123,4,fengbao.com,CN,China,Asia,Eastern Asia
 106.75.21.246,4,fengniao.com,CN,China,Asia,Eastern Asia
 160.16.144.67,4,fenice-sacay.jp,JP,Japan,Asia,Eastern Asia
-140.238.13.243,4,fenle.net,KR,Korea, Republic of,Asia,Eastern Asia
+140.238.13.243,4,fenle.net,KR,"Korea, Republic of",Asia,Eastern Asia
 203.78.138.254,4,festivalwalk.com.hk,HK,Hong Kong,Asia,Eastern Asia
 164.46.114.104,4,fet-system.com,JP,Japan,Asia,Eastern Asia
 183.90.245.21,4,ff14eolifessblog.info,JP,Japan,Asia,Eastern Asia
 164.52.73.165,4,ffesports.com,HK,Hong Kong,Asia,Eastern Asia
-103.118.24.35,4,fftc.org.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+103.118.24.35,4,fftc.org.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 156.236.116.30,4,fhrl2018.com,HK,Hong Kong,Asia,Eastern Asia
 103.120.80.144,4,fiamforum.com,HK,Hong Kong,Asia,Eastern Asia
 202.254.236.76,4,field-r.com,JP,Japan,Asia,Eastern Asia
@@ -1153,16 +1153,16 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 35.187.214.155,4,find-model.jp,JP,Japan,Asia,Eastern Asia
 183.181.82.143,4,fine-39.net,JP,Japan,Asia,Eastern Asia
 47.104.192.2,4,finereport.com,CN,China,Asia,Eastern Asia
-60.249.45.208,4,finewriting.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+60.249.45.208,4,finewriting.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 183.90.237.139,4,fireforkus.com,JP,Japan,Asia,Eastern Asia
 153.127.1.216,4,fishing.ne.jp,JP,Japan,Asia,Eastern Asia
-104.155.197.171,4,fit.com.my,TW,Taiwan, Province of China,Asia,Eastern Asia
+104.155.197.171,4,fit.com.my,TW,"Taiwan, Province of China",Asia,Eastern Asia
 158.247.193.111,4,fitnesswiza.xyz,JP,Japan,Asia,Eastern Asia
 156.255.145.215,4,fiverrup.com,HK,Hong Kong,Asia,Eastern Asia
-133.186.208.35,4,fixnothing.com,KR,Korea, Republic of,Asia,Eastern Asia
+133.186.208.35,4,fixnothing.com,KR,"Korea, Republic of",Asia,Eastern Asia
 118.107.45.132,4,fjisu2.com,HK,Hong Kong,Asia,Eastern Asia
-140.136.200.88,4,fju.edu.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
-61.221.35.28,4,fl-ad.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+140.136.200.88,4,fju.edu.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
+61.221.35.28,4,fl-ad.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 157.112.152.58,4,flagcolor.jp,JP,Japan,Asia,Eastern Asia
 133.18.65.174,4,flame-product.com,JP,Japan,Asia,Eastern Asia
 153.121.60.120,4,flamma.jp,JP,Japan,Asia,Eastern Asia
@@ -1191,13 +1191,13 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 219.94.237.96,4,forcus.co.jp,JP,Japan,Asia,Eastern Asia
 118.238.26.162,4,forge.jp,JP,Japan,Asia,Eastern Asia
 157.112.151.184,4,forincs.com,JP,Japan,Asia,Eastern Asia
-104.199.143.242,4,formsphilippines.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+104.199.143.242,4,formsphilippines.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 152.32.216.87,4,fortefinance.io,HK,Hong Kong,Asia,Eastern Asia
 218.247.83.29,4,foruchem.com,HK,Hong Kong,Asia,Eastern Asia
 125.31.3.60,4,forumchinaplp.org.mo,MO,Macao,Asia,Eastern Asia
 150.95.52.112,4,found-er.com,JP,Japan,Asia,Eastern Asia
-3.38.233.223,4,fow.kr,KR,Korea, Republic of,Asia,Eastern Asia
-3.38.57.191,4,fow.kr,KR,Korea, Republic of,Asia,Eastern Asia
+3.38.233.223,4,fow.kr,KR,"Korea, Republic of",Asia,Eastern Asia
+3.38.57.191,4,fow.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 183.90.240.23,4,fox-wp.com,JP,Japan,Asia,Eastern Asia
 183.181.91.167,4,foxinc.jp,JP,Japan,Asia,Eastern Asia
 112.213.107.89,4,foxy604.net,HK,Hong Kong,Asia,Eastern Asia
@@ -1208,7 +1208,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 202.32.158.52,4,free-avx.jp,JP,Japan,Asia,Eastern Asia
 202.32.158.53,4,free-avx.jp,JP,Japan,Asia,Eastern Asia
 202.32.158.54,4,free-avx.jp,JP,Japan,Asia,Eastern Asia
-115.68.114.62,4,free-powerpoint-templates-design.com,KR,Korea, Republic of,Asia,Eastern Asia
+115.68.114.62,4,free-powerpoint-templates-design.com,KR,"Korea, Republic of",Asia,Eastern Asia
 162.43.116.13,4,free-worker1.com,JP,Japan,Asia,Eastern Asia
 18.166.152.84,4,freedoge.city,HK,Hong Kong,Asia,Eastern Asia
 183.181.79.123,4,freesense.click,JP,Japan,Asia,Eastern Asia
@@ -1218,8 +1218,8 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 150.95.55.32,4,frima-prize.com,JP,Japan,Asia,Eastern Asia
 52.69.55.235,4,frontier-w.co.jp,JP,Japan,Asia,Eastern Asia
 183.181.98.64,4,frontier4u.jp,JP,Japan,Asia,Eastern Asia
-3.34.81.228,4,ftsy.io,KR,Korea, Republic of,Asia,Eastern Asia
-15.164.128.84,4,ftsy.io,KR,Korea, Republic of,Asia,Eastern Asia
+3.34.81.228,4,ftsy.io,KR,"Korea, Republic of",Asia,Eastern Asia
+15.164.128.84,4,ftsy.io,KR,"Korea, Republic of",Asia,Eastern Asia
 116.62.226.58,4,ftuan.com,CN,China,Asia,Eastern Asia
 103.3.49.217,4,fudbkyk.info,JP,Japan,Asia,Eastern Asia
 59.106.213.247,4,fudosanbito.jp,JP,Japan,Asia,Eastern Asia
@@ -1262,12 +1262,12 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 164.52.123.110,4,gameskharido.in,HK,Hong Kong,Asia,Eastern Asia
 64.120.89.163,4,gamevh.net,HK,Hong Kong,Asia,Eastern Asia
 207.148.90.49,4,gameviethoa.vn,JP,Japan,Asia,Eastern Asia
-61.219.16.131,4,gamexdd.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+61.219.16.131,4,gamexdd.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 160.16.205.146,4,gaming-city.com,JP,Japan,Asia,Eastern Asia
 185.160.27.119,4,ganpermo.com,JP,Japan,Asia,Eastern Asia
-103.82.143.122,4,gaoloumi.cc,KR,Korea, Republic of,Asia,Eastern Asia
+103.82.143.122,4,gaoloumi.cc,KR,"Korea, Republic of",Asia,Eastern Asia
 183.181.81.21,4,gaprise.com,JP,Japan,Asia,Eastern Asia
-133.186.241.212,4,gatoblanco.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+133.186.241.212,4,gatoblanco.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 36.55.243.151,4,gazu-ba.com,JP,Japan,Asia,Eastern Asia
 120.24.6.196,4,gcbnt.com,CN,China,Asia,Eastern Asia
 118.27.95.216,4,gcgx.games,JP,Japan,Asia,Eastern Asia
@@ -1280,16 +1280,16 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 108.61.163.52,4,geekvape.com,JP,Japan,Asia,Eastern Asia
 183.90.238.20,4,genepa.com,JP,Japan,Asia,Eastern Asia
 118.27.125.228,4,gensaka.com,JP,Japan,Asia,Eastern Asia
-121.78.116.221,4,gentlemonster.com,KR,Korea, Republic of,Asia,Eastern Asia
+121.78.116.221,4,gentlemonster.com,KR,"Korea, Republic of",Asia,Eastern Asia
 47.106.134.185,4,gerpgo.com,CN,China,Asia,Eastern Asia
 210.239.8.163,4,gfl.jp,JP,Japan,Asia,Eastern Asia
-27.101.137.129,4,gg.go.kr,KR,Korea, Republic of,Asia,Eastern Asia
+27.101.137.129,4,gg.go.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 61.132.228.185,4,ggret.com,CN,China,Asia,Eastern Asia
 183.63.131.100,4,ghbank.com.cn,CN,China,Asia,Eastern Asia
 183.90.240.21,4,ghostmap.net,JP,Japan,Asia,Eastern Asia
 211.14.1.95,4,giannichiarini.co.jp,JP,Japan,Asia,Eastern Asia
 165.154.74.187,4,gicfo.com,HK,Hong Kong,Asia,Eastern Asia
-35.185.163.165,4,giftcart.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.185.163.165,4,giftcart.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 54.248.66.16,4,giftnet.jp,JP,Japan,Asia,Eastern Asia
 54.250.43.211,4,giftnet.jp,JP,Japan,Asia,Eastern Asia
 54.248.178.243,4,giftshow.co.jp,JP,Japan,Asia,Eastern Asia
@@ -1312,7 +1312,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 47.90.61.208,4,globevisa.com,HK,Hong Kong,Asia,Eastern Asia
 43.154.92.85,4,glofang.com,HK,Hong Kong,Asia,Eastern Asia
 219.94.203.162,4,gm-chk.com,JP,Japan,Asia,Eastern Asia
-203.66.15.1,4,gm99.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+203.66.15.1,4,gm99.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 114.55.32.144,4,go-eos.com,CN,China,Asia,Eastern Asia
 183.90.245.39,4,go-journey.club,JP,Japan,Asia,Eastern Asia
 103.141.97.45,4,go-naminori.com,JP,Japan,Asia,Eastern Asia
@@ -1320,12 +1320,12 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 180.178.38.83,4,goawin11.com,HK,Hong Kong,Asia,Eastern Asia
 103.29.71.77,4,godfat.org,JP,Japan,Asia,Eastern Asia
 8.217.87.213,4,godox.com,HK,Hong Kong,Asia,Eastern Asia
-114.31.57.141,4,godpeople.com,KR,Korea, Republic of,Asia,Eastern Asia
+114.31.57.141,4,godpeople.com,KR,"Korea, Republic of",Asia,Eastern Asia
 120.136.14.29,4,goiryoku.com,JP,Japan,Asia,Eastern Asia
-133.186.247.172,4,goldgold.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+133.186.247.172,4,goldgold.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 154.23.182.116,4,goldrushmall.com,HK,Hong Kong,Asia,Eastern Asia
-115.68.17.172,4,golemfactory.com,KR,Korea, Republic of,Asia,Eastern Asia
-35.229.139.28,4,golfcamp.jp,TW,Taiwan, Province of China,Asia,Eastern Asia
+115.68.17.172,4,golemfactory.com,KR,"Korea, Republic of",Asia,Eastern Asia
+35.229.139.28,4,golfcamp.jp,TW,"Taiwan, Province of China",Asia,Eastern Asia
 172.104.90.66,4,golfdigestweb.com.tw,JP,Japan,Asia,Eastern Asia
 163.44.185.222,4,golfgear.top,JP,Japan,Asia,Eastern Asia
 115.182.14.162,4,gome.com.cn,CN,China,Asia,Eastern Asia
@@ -1334,11 +1334,11 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.181.99.102,4,good-appeal.com,JP,Japan,Asia,Eastern Asia
 101.32.183.12,4,goodao.net,HK,Hong Kong,Asia,Eastern Asia
 47.97.206.109,4,goodgo.com,CN,China,Asia,Eastern Asia
-133.186.151.250,4,goodgold.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+133.186.151.250,4,goodgold.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 183.90.228.49,4,goodlifeyou.info,JP,Japan,Asia,Eastern Asia
 175.28.4.13,4,goodshot-golf.com,JP,Japan,Asia,Eastern Asia
 183.181.96.2,4,goodsmile.support,JP,Japan,Asia,Eastern Asia
-211.115.125.42,4,goodtimepack.com,KR,Korea, Republic of,Asia,Eastern Asia
+211.115.125.42,4,goodtimepack.com,KR,"Korea, Republic of",Asia,Eastern Asia
 103.11.101.35,4,goodwin.com.hk,HK,Hong Kong,Asia,Eastern Asia
 103.255.200.217,4,gooooal.com,CN,China,Asia,Eastern Asia
 182.50.104.135,4,gorch-brothers.jp,JP,Japan,Asia,Eastern Asia
@@ -1391,7 +1391,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 156.255.236.130,4,habibltdbd.com,HK,Hong Kong,Asia,Eastern Asia
 157.112.176.57,4,hachioji-komuten.net,JP,Japan,Asia,Eastern Asia
 150.95.52.84,4,hadaka.work,JP,Japan,Asia,Eastern Asia
-104.155.210.11,4,hahow.in,TW,Taiwan, Province of China,Asia,Eastern Asia
+104.155.210.11,4,hahow.in,TW,"Taiwan, Province of China",Asia,Eastern Asia
 219.94.201.34,4,haier.co.jp,JP,Japan,Asia,Eastern Asia
 183.90.238.87,4,haihinkaisyuu.com,JP,Japan,Asia,Eastern Asia
 47.99.92.10,4,haitianinter.com,CN,China,Asia,Eastern Asia
@@ -1408,14 +1408,14 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 45.121.197.42,4,hangyip168.com.hk,HK,Hong Kong,Asia,Eastern Asia
 157.112.152.28,4,haniwaman.com,JP,Japan,Asia,Eastern Asia
 193.42.25.77,4,hanjutvaa.com,HK,Hong Kong,Asia,Eastern Asia
-61.97.179.67,4,hankookilbo.com,KR,Korea, Republic of,Asia,Eastern Asia
+61.97.179.67,4,hankookilbo.com,KR,"Korea, Republic of",Asia,Eastern Asia
 121.42.88.152,4,hao1981.com,CN,China,Asia,Eastern Asia
 122.114.52.64,4,haolaba.org,CN,China,Asia,Eastern Asia
 125.254.139.49,4,haoliv.com,CN,China,Asia,Eastern Asia
 192.161.87.198,4,haonren.com,HK,Hong Kong,Asia,Eastern Asia
 183.236.196.132,4,haoyao8.com,CN,China,Asia,Eastern Asia
 157.112.176.39,4,hapi-ena.com,JP,Japan,Asia,Eastern Asia
-104.199.245.184,4,happierwork.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+104.199.245.184,4,happierwork.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 162.43.117.11,4,happo-one.jp,JP,Japan,Asia,Eastern Asia
 110.50.96.159,4,happy-egg.net,JP,Japan,Asia,Eastern Asia
 118.27.95.24,4,happy-kakehashi.com,JP,Japan,Asia,Eastern Asia
@@ -1441,13 +1441,13 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 163.43.84.22,4,heaaart.com,JP,Japan,Asia,Eastern Asia
 163.43.84.21,4,heaaart.com,JP,Japan,Asia,Eastern Asia
 183.90.240.52,4,headsfirm.com,JP,Japan,Asia,Eastern Asia
-103.17.11.133,4,healthnews.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+103.17.11.133,4,healthnews.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 183.181.90.45,4,healthy-beautia.com,JP,Japan,Asia,Eastern Asia
 150.95.44.67,4,heart-p.jp,JP,Japan,Asia,Eastern Asia
 210.224.191.25,4,hedgehog-studio.co.jp,JP,Japan,Asia,Eastern Asia
 114.55.30.112,4,heidianer.com,CN,China,Asia,Eastern Asia
 202.254.236.21,4,heikinnenshu.jp,JP,Japan,Asia,Eastern Asia
-35.234.55.107,4,hekouky.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.234.55.107,4,hekouky.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 183.181.94.96,4,hello-sensei.com,JP,Japan,Asia,Eastern Asia
 39.105.96.82,4,hellorf.com,CN,China,Asia,Eastern Asia
 172.105.239.173,4,hellowp.cc,JP,Japan,Asia,Eastern Asia
@@ -1492,7 +1492,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 43.241.73.79,4,hksme.com,HK,Hong Kong,Asia,Eastern Asia
 43.241.73.92,4,hkuptown.com,HK,Hong Kong,Asia,Eastern Asia
 183.181.91.151,4,hm-hm.net,JP,Japan,Asia,Eastern Asia
-132.145.84.111,4,hmm21.com,KR,Korea, Republic of,Asia,Eastern Asia
+132.145.84.111,4,hmm21.com,KR,"Korea, Republic of",Asia,Eastern Asia
 119.28.18.182,4,hmtoy.com,HK,Hong Kong,Asia,Eastern Asia
 43.242.32.147,4,hnbocon.com,HK,Hong Kong,Asia,Eastern Asia
 43.129.94.128,4,hndd.net,HK,Hong Kong,Asia,Eastern Asia
@@ -1519,7 +1519,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 157.112.189.66,4,houchikokka.net,JP,Japan,Asia,Eastern Asia
 103.141.97.4,4,house-support.com,JP,Japan,Asia,Eastern Asia
 133.242.19.233,4,housesupport.net,JP,Japan,Asia,Eastern Asia
-122.146.12.23,4,housetube.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+122.146.12.23,4,housetube.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 183.90.238.9,4,howto-life.net,JP,Japan,Asia,Eastern Asia
 43.129.77.160,4,hoylar.com,HK,Hong Kong,Asia,Eastern Asia
 182.173.76.90,4,hrw.hk,HK,Hong Kong,Asia,Eastern Asia
@@ -1529,7 +1529,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 115.236.16.241,4,huamu.cn,CN,China,Asia,Eastern Asia
 47.92.77.182,4,huanruidigital.com,CN,China,Asia,Eastern Asia
 116.62.236.82,4,huanyutv.com,CN,China,Asia,Eastern Asia
-121.78.126.12,4,hugmom.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+121.78.126.12,4,hugmom.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 101.132.96.112,4,huiparts.com,CN,China,Asia,Eastern Asia
 183.90.238.41,4,hunade.com,JP,Japan,Asia,Eastern Asia
 8.135.38.190,4,hungkingroup.cn,CN,China,Asia,Eastern Asia
@@ -1543,7 +1543,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 202.61.87.72,4,hy-jm.com,HK,Hong Kong,Asia,Eastern Asia
 47.75.188.155,4,hypersku.com,HK,Hong Kong,Asia,Eastern Asia
 157.112.187.13,4,hyperts.net,JP,Japan,Asia,Eastern Asia
-58.87.54.140,4,hyundai-wia.com,KR,Korea, Republic of,Asia,Eastern Asia
+58.87.54.140,4,hyundai-wia.com,KR,"Korea, Republic of",Asia,Eastern Asia
 47.75.108.178,4,hyzlin.com,HK,Hong Kong,Asia,Eastern Asia
 47.242.174.111,4,hzcarparts.cn,HK,Hong Kong,Asia,Eastern Asia
 121.42.115.163,4,hzhongxinedu.com,CN,China,Asia,Eastern Asia
@@ -1581,7 +1581,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 47.56.131.119,4,iflight-rc.com,HK,Hong Kong,Asia,Eastern Asia
 8.210.184.23,4,igxedu.cn,HK,Hong Kong,Asia,Eastern Asia
 47.95.3.20,4,ihain.cn,CN,China,Asia,Eastern Asia
-58.229.150.222,4,ihall.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+58.229.150.222,4,ihall.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 47.104.23.231,4,ihanhua.com,CN,China,Asia,Eastern Asia
 139.162.84.169,4,ihappy.tw,JP,Japan,Asia,Eastern Asia
 47.90.106.125,4,ihcbyclubwyndham.com,HK,Hong Kong,Asia,Eastern Asia
@@ -1601,9 +1601,9 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 116.214.81.45,4,image-rentracks.com,JP,Japan,Asia,Eastern Asia
 202.254.238.11,4,imai-eyecl.com,JP,Japan,Asia,Eastern Asia
 183.181.98.115,4,imcf-international.com,JP,Japan,Asia,Eastern Asia
-133.186.212.60,4,imdak.com,KR,Korea, Republic of,Asia,Eastern Asia
-133.186.132.99,4,imdak.com,KR,Korea, Republic of,Asia,Eastern Asia
-133.186.208.37,4,imdak.com,KR,Korea, Republic of,Asia,Eastern Asia
+133.186.212.60,4,imdak.com,KR,"Korea, Republic of",Asia,Eastern Asia
+133.186.132.99,4,imdak.com,KR,"Korea, Republic of",Asia,Eastern Asia
+133.186.208.37,4,imdak.com,KR,"Korea, Republic of",Asia,Eastern Asia
 8.217.74.242,4,imerl.com,HK,Hong Kong,Asia,Eastern Asia
 120.78.124.72,4,imiker.com,CN,China,Asia,Eastern Asia
 183.90.237.88,4,import-tiger.com,JP,Japan,Asia,Eastern Asia
@@ -1619,7 +1619,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 103.141.96.157,4,inest-inc.co.jp,JP,Japan,Asia,Eastern Asia
 47.98.63.47,4,infinitynewtab.com,CN,China,Asia,Eastern Asia
 183.181.88.22,4,info-pile.com,JP,Japan,Asia,Eastern Asia
-211.119.243.194,4,info21c.net,KR,Korea, Republic of,Asia,Eastern Asia
+211.119.243.194,4,info21c.net,KR,"Korea, Republic of",Asia,Eastern Asia
 202.172.28.148,4,inforati.jp,JP,Japan,Asia,Eastern Asia
 106.14.225.59,4,inftnews.com,CN,China,Asia,Eastern Asia
 34.146.100.244,4,inhouse-plus.jp,JP,Japan,Asia,Eastern Asia
@@ -1629,7 +1629,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 133.242.83.17,4,inopuri.com,JP,Japan,Asia,Eastern Asia
 163.44.185.218,4,inruit.me,JP,Japan,Asia,Eastern Asia
 162.43.116.158,4,insatsu-tatsujin.net,JP,Japan,Asia,Eastern Asia
-218.146.254.37,4,instablank.com,KR,Korea, Republic of,Asia,Eastern Asia
+218.146.254.37,4,instablank.com,KR,"Korea, Republic of",Asia,Eastern Asia
 183.181.85.114,4,instatry.jp,JP,Japan,Asia,Eastern Asia
 175.45.56.246,4,insurances.net,HK,Hong Kong,Asia,Eastern Asia
 129.226.138.188,4,intchain.io,HK,Hong Kong,Asia,Eastern Asia
@@ -1667,7 +1667,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 202.172.25.109,4,ishampoo.jp,JP,Japan,Asia,Eastern Asia
 47.91.134.209,4,ishipx.net,HK,Hong Kong,Asia,Eastern Asia
 121.199.74.149,4,istv.com.cn,CN,China,Asia,Eastern Asia
-192.83.191.8,4,isu.edu.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+192.83.191.8,4,isu.edu.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 163.44.187.16,4,it-media2.net,JP,Japan,Asia,Eastern Asia
 183.181.79.40,4,it-skill-memo.work,JP,Japan,Asia,Eastern Asia
 42.62.98.171,4,it168.com,CN,China,Asia,Eastern Asia
@@ -1702,9 +1702,9 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 63.250.52.21,4,jadikabar.com,JP,Japan,Asia,Eastern Asia
 160.16.109.9,4,jafico.tokyo,JP,Japan,Asia,Eastern Asia
 219.94.248.68,4,jakartaclassifieds.com,JP,Japan,Asia,Eastern Asia
-133.186.223.7,4,jakomo.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+133.186.223.7,4,jakomo.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 210.233.78.67,4,jakyoto.com,JP,Japan,Asia,Eastern Asia
-103.17.10.31,4,japaholic.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+103.17.10.31,4,japaholic.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 140.227.151.86,4,japan-insurance.co.jp,JP,Japan,Asia,Eastern Asia
 103.141.96.13,4,japan-leather-journal.com,JP,Japan,Asia,Eastern Asia
 163.44.187.21,4,japanesetealabel.com,JP,Japan,Asia,Eastern Asia
@@ -1733,7 +1733,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 101.200.237.192,4,jgwy.net,CN,China,Asia,Eastern Asia
 172.93.220.249,4,jiajia33.com,JP,Japan,Asia,Eastern Asia
 47.92.108.93,4,jianshu.io,CN,China,Asia,Eastern Asia
-103.214.68.211,4,jianzhirenren.com,KR,Korea, Republic of,Asia,Eastern Asia
+103.214.68.211,4,jianzhirenren.com,KR,"Korea, Republic of",Asia,Eastern Asia
 124.251.46.67,4,jiatx.com,CN,China,Asia,Eastern Asia
 123.1.194.54,4,jidapharm.com,HK,Hong Kong,Asia,Eastern Asia
 118.178.237.162,4,jiegeng.com,CN,China,Asia,Eastern Asia
@@ -1758,7 +1758,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.181.91.96,4,jma-hcj.com,JP,Japan,Asia,Eastern Asia
 157.112.145.11,4,jmatsuzaki.com,JP,Japan,Asia,Eastern Asia
 27.133.132.80,4,jmedj.co.jp,JP,Japan,Asia,Eastern Asia
-222.234.220.47,4,jnilbo.com,KR,Korea, Republic of,Asia,Eastern Asia
+222.234.220.47,4,jnilbo.com,KR,"Korea, Republic of",Asia,Eastern Asia
 165.154.61.201,4,jntxcc.com,HK,Hong Kong,Asia,Eastern Asia
 183.90.242.38,4,job-stage.jp,JP,Japan,Asia,Eastern Asia
 47.102.121.74,4,jobplus.com.cn,CN,China,Asia,Eastern Asia
@@ -1766,9 +1766,9 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 157.112.189.62,4,johnnysnews.info,JP,Japan,Asia,Eastern Asia
 113.59.241.38,4,jointowin.net,HK,Hong Kong,Asia,Eastern Asia
 183.90.237.24,4,jooi-work.io,JP,Japan,Asia,Eastern Asia
-133.186.250.123,4,jooyonshop.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+133.186.250.123,4,jooyonshop.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 121.42.97.89,4,jorimachine.com,CN,China,Asia,Eastern Asia
-222.234.220.38,4,journalist.or.kr,KR,Korea, Republic of,Asia,Eastern Asia
+222.234.220.38,4,journalist.or.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 150.109.148.247,4,joyk.com,HK,Hong Kong,Asia,Eastern Asia
 175.28.7.246,4,jqb-solutions.com,JP,Japan,Asia,Eastern Asia
 163.44.185.204,4,jquerystudy.info,JP,Japan,Asia,Eastern Asia
@@ -1779,7 +1779,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 133.125.44.111,4,jtca.org,JP,Japan,Asia,Eastern Asia
 152.32.133.49,4,jtnets.com,HK,Hong Kong,Asia,Eastern Asia
 172.96.185.224,4,jun88vn.com,HK,Hong Kong,Asia,Eastern Asia
-45.135.118.161,4,jungeseo.com,KR,Korea, Republic of,Asia,Eastern Asia
+45.135.118.161,4,jungeseo.com,KR,"Korea, Republic of",Asia,Eastern Asia
 162.43.117.27,4,junichi-manga.com,JP,Japan,Asia,Eastern Asia
 183.90.232.189,4,junmai.net,JP,Japan,Asia,Eastern Asia
 61.147.79.10,4,junpin360.com,CN,China,Asia,Eastern Asia
@@ -1797,7 +1797,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 162.43.116.39,4,k-solution.info,JP,Japan,Asia,Eastern Asia
 133.130.97.91,4,k2pro.jp,JP,Japan,Asia,Eastern Asia
 103.89.137.176,4,k7w7.com,HK,Hong Kong,Asia,Eastern Asia
-35.185.141.218,4,kaaspro.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.185.141.218,4,kaaspro.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 202.254.234.19,4,kabu-sokuhou.com,JP,Japan,Asia,Eastern Asia
 133.242.62.196,4,kachimai.jp,JP,Japan,Asia,Eastern Asia
 133.18.68.43,4,kagukuro.com,JP,Japan,Asia,Eastern Asia
@@ -1805,7 +1805,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.181.88.48,4,kaishu-panda.net,JP,Japan,Asia,Eastern Asia
 163.44.176.11,4,kaitosou.jp,JP,Japan,Asia,Eastern Asia
 183.181.89.96,4,kajisabo.com,JP,Japan,Asia,Eastern Asia
-110.10.168.180,4,kakinter.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+110.10.168.180,4,kakinter.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 133.18.66.113,4,kamigumi.co.jp,JP,Japan,Asia,Eastern Asia
 118.27.122.88,4,kamisamanoiutoori.com,JP,Japan,Asia,Eastern Asia
 133.130.71.195,4,kamui-skilinks.com,JP,Japan,Asia,Eastern Asia
@@ -1817,7 +1817,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 163.44.2.56,4,kandera.jp,JP,Japan,Asia,Eastern Asia
 218.244.140.200,4,kaneko.com.cn,CN,China,Asia,Eastern Asia
 202.254.238.13,4,kanemotilevel.com,JP,Japan,Asia,Eastern Asia
-203.238.178.245,4,kangnampride.com,KR,Korea, Republic of,Asia,Eastern Asia
+203.238.178.245,4,kangnampride.com,KR,"Korea, Republic of",Asia,Eastern Asia
 175.28.4.18,4,kankoku-seoul.jp,JP,Japan,Asia,Eastern Asia
 183.181.79.65,4,kansaipado.co.jp,JP,Japan,Asia,Eastern Asia
 183.90.253.27,4,kantei7.com,JP,Japan,Asia,Eastern Asia
@@ -1837,26 +1837,26 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 157.112.189.71,4,kazunosuke.net,JP,Japan,Asia,Eastern Asia
 103.141.97.124,4,kba-simm.com,JP,Japan,Asia,Eastern Asia
 165.154.21.185,4,kbaccm.com,HK,Hong Kong,Asia,Eastern Asia
-211.45.37.180,4,kcar.com,KR,Korea, Republic of,Asia,Eastern Asia
+211.45.37.180,4,kcar.com,KR,"Korea, Republic of",Asia,Eastern Asia
 165.154.0.244,4,kdejc.com,HK,Hong Kong,Asia,Eastern Asia
 183.181.85.128,4,kdi.ac,JP,Japan,Asia,Eastern Asia
 129.204.115.242,4,kdnet.net,CN,China,Asia,Eastern Asia
 106.14.236.64,4,kdslife.com,CN,China,Asia,Eastern Asia
 121.41.4.219,4,kdwatch.net,CN,China,Asia,Eastern Asia
-133.186.213.235,4,kdx.kr,KR,Korea, Republic of,Asia,Eastern Asia
+133.186.213.235,4,kdx.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 34.92.221.79,4,kec-app.com,HK,Hong Kong,Asia,Eastern Asia
 34.92.249.158,4,kec-app.com,HK,Hong Kong,Asia,Eastern Asia
 34.96.133.212,4,kec-app.com,HK,Hong Kong,Asia,Eastern Asia
 35.220.183.219,4,kec-app.com,HK,Hong Kong,Asia,Eastern Asia
 35.241.91.237,4,kec-app.com,HK,Hong Kong,Asia,Eastern Asia
-115.85.178.169,4,kedglobal.com,KR,Korea, Republic of,Asia,Eastern Asia
-61.97.176.143,4,kedglobal.com,KR,Korea, Republic of,Asia,Eastern Asia
+115.85.178.169,4,kedglobal.com,KR,"Korea, Republic of",Asia,Eastern Asia
+61.97.176.143,4,kedglobal.com,KR,"Korea, Republic of",Asia,Eastern Asia
 212.64.63.174,4,keep.com,CN,China,Asia,Eastern Asia
 163.44.187.82,4,keiei-note.com,JP,Japan,Asia,Eastern Asia
 150.95.180.125,4,keisanki.me,JP,Japan,Asia,Eastern Asia
 164.46.35.93,4,keiseitravel.co.jp,JP,Japan,Asia,Eastern Asia
 183.181.79.128,4,keisosha.com,JP,Japan,Asia,Eastern Asia
-123.195.172.194,4,kelvinwang1977.direct.quickconnect.to,TW,Taiwan, Province of China,Asia,Eastern Asia
+123.195.172.194,4,kelvinwang1977.direct.quickconnect.to,TW,"Taiwan, Province of China",Asia,Eastern Asia
 45.253.64.203,4,kemaowang.org.cn,CN,China,Asia,Eastern Asia
 183.181.91.10,4,keneloper.com,JP,Japan,Asia,Eastern Asia
 150.95.54.217,4,kenjiblog.info,JP,Japan,Asia,Eastern Asia
@@ -1869,7 +1869,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 139.162.69.95,4,keva.app,JP,Japan,Asia,Eastern Asia
 153.120.63.233,4,keywordfinder.jp,JP,Japan,Asia,Eastern Asia
 183.90.248.4,4,kfg.co.jp,JP,Japan,Asia,Eastern Asia
-221.139.49.8,4,kfmejn.com,KR,Korea, Republic of,Asia,Eastern Asia
+221.139.49.8,4,kfmejn.com,KR,"Korea, Republic of",Asia,Eastern Asia
 202.21.121.3,4,khanbank.com,MN,Mongolia,Asia,Eastern Asia
 172.96.185.214,4,khudothisaigon.com.vn,HK,Hong Kong,Asia,Eastern Asia
 156.240.25.126,4,kiasell.net,HK,Hong Kong,Asia,Eastern Asia
@@ -1896,7 +1896,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.90.250.20,4,kinocolog.com,JP,Japan,Asia,Eastern Asia
 43.252.167.252,4,kinsmart.com,HK,Hong Kong,Asia,Eastern Asia
 150.95.219.215,4,kinugyokutoan.com,JP,Japan,Asia,Eastern Asia
-1.201.168.13,4,kinx.net,KR,Korea, Republic of,Asia,Eastern Asia
+1.201.168.13,4,kinx.net,KR,"Korea, Republic of",Asia,Eastern Asia
 172.96.185.210,4,kipgm.net,HK,Hong Kong,Asia,Eastern Asia
 183.90.231.5,4,kiracs.co.jp,JP,Japan,Asia,Eastern Asia
 183.90.238.35,4,kireino-lesson.com,JP,Japan,Asia,Eastern Asia
@@ -1906,7 +1906,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 211.125.123.32,4,kiwa-group.co.jp,JP,Japan,Asia,Eastern Asia
 120.136.14.8,4,kiwi-english.net,JP,Japan,Asia,Eastern Asia
 124.248.202.154,4,kk80s.com,HK,Hong Kong,Asia,Eastern Asia
-222.235.64.19,4,kmclubb2b.com,KR,Korea, Republic of,Asia,Eastern Asia
+222.235.64.19,4,kmclubb2b.com,KR,"Korea, Republic of",Asia,Eastern Asia
 43.241.73.201,4,kmp.com.hk,HK,Hong Kong,Asia,Eastern Asia
 119.28.25.206,4,kmplayer.cn,HK,Hong Kong,Asia,Eastern Asia
 157.112.176.23,4,knock.co.jp,JP,Japan,Asia,Eastern Asia
@@ -1930,15 +1930,15 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 39.107.64.172,4,kongfz.com,CN,China,Asia,Eastern Asia
 183.90.255.115,4,konocode.jp,JP,Japan,Asia,Eastern Asia
 164.46.98.83,4,kontex.jp,JP,Japan,Asia,Eastern Asia
-168.126.63.1,4,Korea Telecom,KR,Korea, Republic of,Asia,Eastern Asia
-139.150.249.4,4,korea.net,KR,Korea, Republic of,Asia,Eastern Asia
-139.150.249.134,4,korea.net,KR,Korea, Republic of,Asia,Eastern Asia
-139.150.252.17,4,korea.net,KR,Korea, Republic of,Asia,Eastern Asia
-139.150.252.137,4,korea.net,KR,Korea, Republic of,Asia,Eastern Asia
-121.78.33.166,4,korea.net,KR,Korea, Republic of,Asia,Eastern Asia
-121.78.33.186,4,korea.net,KR,Korea, Republic of,Asia,Eastern Asia
-222.98.107.155,4,koree.kr,KR,Korea, Republic of,Asia,Eastern Asia
-210.96.79.22,4,koroad.or.kr,KR,Korea, Republic of,Asia,Eastern Asia
+168.126.63.1,4,Korea Telecom,KR,"Korea, Republic of",Asia,Eastern Asia
+139.150.249.4,4,korea.net,KR,"Korea, Republic of",Asia,Eastern Asia
+139.150.249.134,4,korea.net,KR,"Korea, Republic of",Asia,Eastern Asia
+139.150.252.17,4,korea.net,KR,"Korea, Republic of",Asia,Eastern Asia
+139.150.252.137,4,korea.net,KR,"Korea, Republic of",Asia,Eastern Asia
+121.78.33.166,4,korea.net,KR,"Korea, Republic of",Asia,Eastern Asia
+121.78.33.186,4,korea.net,KR,"Korea, Republic of",Asia,Eastern Asia
+222.98.107.155,4,koree.kr,KR,"Korea, Republic of",Asia,Eastern Asia
+210.96.79.22,4,koroad.or.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 183.90.253.13,4,kotamusic.com,JP,Japan,Asia,Eastern Asia
 183.181.91.72,4,kotodori.jp,JP,Japan,Asia,Eastern Asia
 183.90.242.40,4,koujiya-kodomo.com,JP,Japan,Asia,Eastern Asia
@@ -1951,8 +1951,8 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.181.88.158,4,kredo.jp,JP,Japan,Asia,Eastern Asia
 149.56.9.13,4,krishna.org,HK,Hong Kong,Asia,Eastern Asia
 183.90.241.81,4,kshouse.jp,JP,Japan,Asia,Eastern Asia
-1.234.46.26,4,ksidc.net,KR,Korea, Republic of,Asia,Eastern Asia
-210.127.209.47,4,ksnve.or.kr,KR,Korea, Republic of,Asia,Eastern Asia
+1.234.46.26,4,ksidc.net,KR,"Korea, Republic of",Asia,Eastern Asia
+210.127.209.47,4,ksnve.or.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 117.50.1.222,4,ku6.com,CN,China,Asia,Eastern Asia
 129.226.176.142,4,kuai8.com,HK,Hong Kong,Asia,Eastern Asia
 123.58.217.8,4,kuaibo.com,HK,Hong Kong,Asia,Eastern Asia
@@ -1963,7 +1963,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 49.7.81.4,4,kugou.com,CN,China,Asia,Eastern Asia
 163.44.185.172,4,kuki-recycle.jp,JP,Japan,Asia,Eastern Asia
 210.166.219.12,4,kumamoto-pt.org,JP,Japan,Asia,Eastern Asia
-103.118.26.53,4,kuos.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+103.118.26.53,4,kuos.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 114.142.191.221,4,kuretake.co.jp,JP,Japan,Asia,Eastern Asia
 103.141.97.58,4,kuritaroh.com,JP,Japan,Asia,Eastern Asia
 160.16.96.233,4,kurobas.com,JP,Japan,Asia,Eastern Asia
@@ -1982,7 +1982,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.181.96.27,4,kyuyokaitori.com,JP,Japan,Asia,Eastern Asia
 18.167.115.47,4,kzing11.com,HK,Hong Kong,Asia,Eastern Asia
 202.254.236.118,4,kzoohawaii.com,JP,Japan,Asia,Eastern Asia
-202.31.187.204,4,l2one.com,KR,Korea, Republic of,Asia,Eastern Asia
+202.31.187.204,4,l2one.com,KR,"Korea, Republic of",Asia,Eastern Asia
 183.181.91.69,4,la-mere-poulard.jp,JP,Japan,Asia,Eastern Asia
 222.73.209.114,4,laawoo.com,CN,China,Asia,Eastern Asia
 202.181.132.161,4,labiosthetique.com.hk,HK,Hong Kong,Asia,Eastern Asia
@@ -2009,7 +2009,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 101.33.127.5,4,laravelacademy.org,HK,Hong Kong,Asia,Eastern Asia
 183.181.98.106,4,lastdeal-movie.com,JP,Japan,Asia,Eastern Asia
 111.119.15.130,4,latestly.com,JP,Japan,Asia,Eastern Asia
-35.221.147.185,4,lawchain.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.221.147.185,4,lawchain.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 123.176.101.8,4,layerstack.com,HK,Hong Kong,Asia,Eastern Asia
 162.43.116.140,4,lb-jissen.net,JP,Japan,Asia,Eastern Asia
 47.243.87.89,4,ldcap.com,HK,Hong Kong,Asia,Eastern Asia
@@ -2017,14 +2017,14 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 47.57.235.27,4,ldplayer.tw,HK,Hong Kong,Asia,Eastern Asia
 202.172.28.8,4,leaf-hide.jp,JP,Japan,Asia,Eastern Asia
 101.132.169.39,4,learnblockchain.cn,CN,China,Asia,Eastern Asia
-43.254.19.44,4,leatai.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+43.254.19.44,4,leatai.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 133.18.34.17,4,leavescoffee.jp,JP,Japan,Asia,Eastern Asia
 203.160.54.109,4,leizhangyong.com,HK,Hong Kong,Asia,Eastern Asia
 202.254.239.91,4,lemon818.com,JP,Japan,Asia,Eastern Asia
 202.172.26.2,4,lenlino.com,JP,Japan,Asia,Eastern Asia
 183.181.97.21,4,lesplusbeauxvillages.com,JP,Japan,Asia,Eastern Asia
 47.89.52.84,4,leyifan.com,CN,China,Asia,Eastern Asia
-121.254.134.99,4,LG DACOM Corporation,KR,Korea, Republic of,Asia,Eastern Asia
+121.254.134.99,4,LG DACOM Corporation,KR,"Korea, Republic of",Asia,Eastern Asia
 150.109.79.20,4,lianchaguan.com,HK,Hong Kong,Asia,Eastern Asia
 47.102.140.63,4,lianlianpay.com,CN,China,Asia,Eastern Asia
 150.95.201.222,4,liberaluni.com,JP,Japan,Asia,Eastern Asia
@@ -2038,7 +2038,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.181.90.38,4,lifunext.com,JP,Japan,Asia,Eastern Asia
 202.254.234.81,4,ligare.news,JP,Japan,Asia,Eastern Asia
 47.115.170.83,4,lightmove.tech,CN,China,Asia,Eastern Asia
-104.199.202.226,4,liidda.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+104.199.202.226,4,liidda.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 117.27.143.36,4,likefont.com,CN,China,Asia,Eastern Asia
 183.90.242.16,4,liments.co.jp,JP,Japan,Asia,Eastern Asia
 157.112.150.107,4,line-line-line.com,JP,Japan,Asia,Eastern Asia
@@ -2046,26 +2046,26 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.90.253.33,4,line-step.net,JP,Japan,Asia,Eastern Asia
 157.7.190.233,4,linestepmastery.com,JP,Japan,Asia,Eastern Asia
 183.90.232.27,4,linexat.com,JP,Japan,Asia,Eastern Asia
-140.114.89.221,4,linggle.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+140.114.89.221,4,linggle.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 103.120.83.63,4,lingtongglobal.com,HK,Hong Kong,Asia,Eastern Asia
 160.16.126.131,4,linkedbrain.jp,JP,Japan,Asia,Eastern Asia
 47.91.19.148,4,linkhaitao.cn,JP,Japan,Asia,Eastern Asia
 1.33.191.237,4,linkshare.ne.jp,JP,Japan,Asia,Eastern Asia
 160.16.206.221,4,linkties.com,JP,Japan,Asia,Eastern Asia
 157.112.176.25,4,linx-ltd.jp,JP,Japan,Asia,Eastern Asia
-35.185.141.245,4,liskul.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.185.141.245,4,liskul.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 118.27.122.93,4,listentorisumi.com,JP,Japan,Asia,Eastern Asia
 82.156.58.215,4,litchiads.com,CN,China,Asia,Eastern Asia
 103.141.97.74,4,littlespeck.com,JP,Japan,Asia,Eastern Asia
 42.193.131.189,4,liuzhijin.cn,CN,China,Asia,Eastern Asia
 118.27.125.209,4,live-drum.com,JP,Japan,Asia,Eastern Asia
 157.112.183.100,4,live2d.com,JP,Japan,Asia,Eastern Asia
-13.124.246.72,4,liveconnect.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
-52.79.159.147,4,liveconnect.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+13.124.246.72,4,liveconnect.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
+52.79.159.147,4,liveconnect.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 157.112.183.119,4,livingnaturexperience.com,JP,Japan,Asia,Eastern Asia
 18.182.74.195,4,lixil.co.jp,JP,Japan,Asia,Eastern Asia
 183.181.83.142,4,lme.jp,JP,Japan,Asia,Eastern Asia
-104.199.205.140,4,localplace.jp,TW,Taiwan, Province of China,Asia,Eastern Asia
+104.199.205.140,4,localplace.jp,TW,"Taiwan, Province of China",Asia,Eastern Asia
 210.188.201.77,4,logo-colle.com,JP,Japan,Asia,Eastern Asia
 202.254.236.127,4,logo-tank.net,JP,Japan,Asia,Eastern Asia
 157.112.150.6,4,logodaku.com,JP,Japan,Asia,Eastern Asia
@@ -2078,22 +2078,22 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 103.225.196.211,4,lolhd.com,HK,Hong Kong,Asia,Eastern Asia
 23.226.191.128,4,long-way.net,HK,Hong Kong,Asia,Eastern Asia
 47.117.34.216,4,longjoin.com,CN,China,Asia,Eastern Asia
-175.181.38.134,4,longwin.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+175.181.38.134,4,longwin.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 8.212.24.67,4,loo09.com,HK,Hong Kong,Asia,Eastern Asia
 202.70.45.238,4,looktv.mn,MN,Mongolia,Asia,Eastern Asia
 202.70.45.237,4,looktv.mn,MN,Mongolia,Asia,Eastern Asia
 183.181.82.127,4,lotopia.net,JP,Japan,Asia,Eastern Asia
-124.243.74.18,4,lotteglogis.com,KR,Korea, Republic of,Asia,Eastern Asia
+124.243.74.18,4,lotteglogis.com,KR,"Korea, Republic of",Asia,Eastern Asia
 138.113.43.225,4,lottehotel.com,JP,Japan,Asia,Eastern Asia
 138.113.44.200,4,lottehotel.com,JP,Japan,Asia,Eastern Asia
 138.113.54.82,4,lottehotel.com,JP,Japan,Asia,Eastern Asia
-124.243.26.39,4,lottehotelmagazine.com,KR,Korea, Republic of,Asia,Eastern Asia
+124.243.26.39,4,lottehotelmagazine.com,KR,"Korea, Republic of",Asia,Eastern Asia
 154.91.32.144,4,lpls.net,HK,Hong Kong,Asia,Eastern Asia
 112.74.73.181,4,lsystxy.com,CN,China,Asia,Eastern Asia
 47.114.108.219,4,ltd.com,CN,China,Asia,Eastern Asia
 164.46.90.92,4,luck-online.jp,JP,Japan,Asia,Eastern Asia
 119.28.82.165,4,luckchain.org,HK,Hong Kong,Asia,Eastern Asia
-104.155.207.152,4,luckyhelpers.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+104.155.207.152,4,luckyhelpers.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 168.63.150.77,4,lucullus.com.hk,HK,Hong Kong,Asia,Eastern Asia
 114.116.39.220,4,ludashi.com,CN,China,Asia,Eastern Asia
 39.104.203.135,4,lukstudiodesign.com,CN,China,Asia,Eastern Asia
@@ -2106,7 +2106,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 144.48.141.65,4,lvfashion.club,HK,Hong Kong,Asia,Eastern Asia
 8.210.228.221,4,lvse.cn,HK,Hong Kong,Asia,Eastern Asia
 8.210.103.19,4,lwmfg.com,HK,Hong Kong,Asia,Eastern Asia
-101.33.78.107,4,ly-printingmachinery.com,KR,Korea, Republic of,Asia,Eastern Asia
+101.33.78.107,4,ly-printingmachinery.com,KR,"Korea, Republic of",Asia,Eastern Asia
 117.48.156.199,4,ly.com,CN,China,Asia,Eastern Asia
 94.188.234.12,4,m1.com.sg,HK,Hong Kong,Asia,Eastern Asia
 165.154.44.22,4,mabinogi.club,HK,Hong Kong,Asia,Eastern Asia
@@ -2127,9 +2127,9 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 207.148.107.17,4,make9.tw,JP,Japan,Asia,Eastern Asia
 47.75.12.68,4,makeblock.com,HK,Hong Kong,Asia,Eastern Asia
 47.56.203.25,4,malgenomeproject.org,HK,Hong Kong,Asia,Eastern Asia
-35.201.236.79,4,mallbic.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.201.236.79,4,mallbic.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 1.15.34.39,4,malllib.com,CN,China,Asia,Eastern Asia
-121.78.251.8,4,malltail.com,KR,Korea, Republic of,Asia,Eastern Asia
+121.78.251.8,4,malltail.com,KR,"Korea, Republic of",Asia,Eastern Asia
 183.181.96.45,4,mame-yaro.com,JP,Japan,Asia,Eastern Asia
 183.181.84.18,4,manabi-info.com,JP,Japan,Asia,Eastern Asia
 210.224.191.14,4,manekilogo.com,JP,Japan,Asia,Eastern Asia
@@ -2137,7 +2137,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.90.237.40,4,manga-tei.com,JP,Japan,Asia,Eastern Asia
 133.18.64.112,4,manila-shimbun.com,JP,Japan,Asia,Eastern Asia
 133.242.95.184,4,mansion-review.jp,JP,Japan,Asia,Eastern Asia
-61.218.179.181,4,manufacturers.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+61.218.179.181,4,manufacturers.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 119.29.153.132,4,manyee.net,HK,Hong Kong,Asia,Eastern Asia
 116.251.204.40,4,manyprofit.com,HK,Hong Kong,Asia,Eastern Asia
 172.105.238.174,4,maoup.com.tw,JP,Japan,Asia,Eastern Asia
@@ -2146,7 +2146,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.90.250.23,4,marcdesign.jp,JP,Japan,Asia,Eastern Asia
 172.96.185.186,4,marinariverside.vn,HK,Hong Kong,Asia,Eastern Asia
 129.226.63.243,4,markdown.com.cn,HK,Hong Kong,Asia,Eastern Asia
-61.218.179.183,4,market-prospects.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+61.218.179.183,4,market-prospects.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 103.141.96.122,4,marketinghero.jp,JP,Japan,Asia,Eastern Asia
 183.90.240.9,4,marketresearch.co.jp,JP,Japan,Asia,Eastern Asia
 114.31.94.142,4,markezine.jp,JP,Japan,Asia,Eastern Asia
@@ -2170,7 +2170,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 118.27.122.183,4,mayama-pdd.com,JP,Japan,Asia,Eastern Asia
 47.57.247.207,4,mb5u.com,HK,Hong Kong,Asia,Eastern Asia
 43.243.130.12,4,mbalib.com,CN,China,Asia,Eastern Asia
-121.254.134.116,4,mbc.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+121.254.134.116,4,mbc.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 203.142.202.71,4,mc-copy.jp,JP,Japan,Asia,Eastern Asia
 152.136.223.245,4,mdnice.com,CN,China,Asia,Eastern Asia
 183.90.237.122,4,meaning-dictionary.com,JP,Japan,Asia,Eastern Asia
@@ -2229,7 +2229,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 101.32.34.78,4,minirpa.net,HK,Hong Kong,Asia,Eastern Asia
 111.229.249.180,4,miniwechat.com,CN,China,Asia,Eastern Asia
 116.255.195.47,4,minxue.net,CN,China,Asia,Eastern Asia
-203.66.161.178,4,mio.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+203.66.161.178,4,mio.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 210.172.192.7,4,mirai.ne.jp,JP,Japan,Asia,Eastern Asia
 202.254.239.130,4,mirokumama.net,JP,Japan,Asia,Eastern Asia
 47.110.134.28,4,mitao521.com,CN,China,Asia,Eastern Asia
@@ -2246,7 +2246,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 47.52.26.78,4,mlog.club,HK,Hong Kong,Asia,Eastern Asia
 119.13.92.51,4,mmycwatches.io,CN,China,Asia,Eastern Asia
 103.143.40.201,4,mnfansubs.net,MN,Mongolia,Asia,Eastern Asia
-35.201.234.200,4,mobile01.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.201.234.200,4,mobile01.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 163.44.136.228,4,mobilegabriel.com,JP,Japan,Asia,Eastern Asia
 210.188.201.73,4,mobilegrande.com,JP,Japan,Asia,Eastern Asia
 107.148.199.33,4,mobilemovie21.com,JP,Japan,Asia,Eastern Asia
@@ -2257,7 +2257,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 132.226.2.26,4,moe.am,JP,Japan,Asia,Eastern Asia
 120.27.200.236,4,moe123.net,CN,China,Asia,Eastern Asia
 163.44.187.153,4,mogtrip.net,JP,Japan,Asia,Eastern Asia
-115.68.106.111,4,mojelim.com,KR,Korea, Republic of,Asia,Eastern Asia
+115.68.106.111,4,mojelim.com,KR,"Korea, Republic of",Asia,Eastern Asia
 103.141.96.42,4,mojinavi.com,JP,Japan,Asia,Eastern Asia
 164.46.93.48,4,moki-ss.co.jp,JP,Japan,Asia,Eastern Asia
 101.200.157.68,4,moko.cc,CN,China,Asia,Eastern Asia
@@ -2289,7 +2289,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.90.240.4,4,muffin-berry.com,JP,Japan,Asia,Eastern Asia
 183.181.84.4,4,mugen-wifi.com,JP,Japan,Asia,Eastern Asia
 103.140.238.166,4,multiverse-muer.com,HK,Hong Kong,Asia,Eastern Asia
-35.221.236.242,4,mumushop.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.221.236.242,4,mumushop.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 202.254.236.73,4,murakami-motors7.com,JP,Japan,Asia,Eastern Asia
 117.28.255.18,4,murrelektronik.com.cn,CN,China,Asia,Eastern Asia
 183.181.90.93,4,museca.com,JP,Japan,Asia,Eastern Asia
@@ -2299,11 +2299,11 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 8.210.61.255,4,mxkpay.com,HK,Hong Kong,Asia,Eastern Asia
 183.181.97.29,4,my-last-adventure.com,JP,Japan,Asia,Eastern Asia
 133.242.207.115,4,my33p.com,JP,Japan,Asia,Eastern Asia
-114.32.254.20,4,myav.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+114.32.254.20,4,myav.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 210.188.201.75,4,mycare.co.jp,JP,Japan,Asia,Eastern Asia
 43.134.205.104,4,mycointool.com,HK,Hong Kong,Asia,Eastern Asia
 154.23.47.11,4,myfizone.com,HK,Hong Kong,Asia,Eastern Asia
-34.64.216.180,4,myhairhunter.com,KR,Korea, Republic of,Asia,Eastern Asia
+34.64.216.180,4,myhairhunter.com,KR,"Korea, Republic of",Asia,Eastern Asia
 61.139.126.236,4,myhostadmin.net,CN,China,Asia,Eastern Asia
 183.181.88.57,4,mymakie.com,JP,Japan,Asia,Eastern Asia
 8.210.34.76,4,mynestbest.com,HK,Hong Kong,Asia,Eastern Asia
@@ -2333,7 +2333,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 150.95.52.95,4,naonews.jp,JP,Japan,Asia,Eastern Asia
 103.30.43.132,4,naot.shop,HK,Hong Kong,Asia,Eastern Asia
 103.3.49.201,4,natuna.jp,JP,Japan,Asia,Eastern Asia
-223.27.33.85,4,nav123.net,TW,Taiwan, Province of China,Asia,Eastern Asia
+223.27.33.85,4,nav123.net,TW,"Taiwan, Province of China",Asia,Eastern Asia
 120.24.75.202,4,navicat.com.cn,CN,China,Asia,Eastern Asia
 218.78.25.41,4,navinfo.com,CN,China,Asia,Eastern Asia
 150.95.54.167,4,nbblog.jp,JP,Japan,Asia,Eastern Asia
@@ -2350,28 +2350,28 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 47.240.56.113,4,netinbag.com,HK,Hong Kong,Asia,Eastern Asia
 118.27.100.20,4,netprice.co.jp,JP,Japan,Asia,Eastern Asia
 202.172.28.133,4,netventure-news.com,JP,Japan,Asia,Eastern Asia
-210.61.40.165,4,netvox.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
-113.196.55.130,4,New Century InfoComm Tech Co. Ltd.,TW,Taiwan, Province of China,Asia,Eastern Asia
+210.61.40.165,4,netvox.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
+113.196.55.130,4,New Century InfoComm Tech Co. Ltd.,TW,"Taiwan, Province of China",Asia,Eastern Asia
 60.188.225.8,4,newbalance.com.cn,CN,China,Asia,Eastern Asia
 60.188.225.16,4,newbalance.com.cn,CN,China,Asia,Eastern Asia
 60.188.225.17,4,newbalance.com.cn,CN,China,Asia,Eastern Asia
-60.249.45.213,4,newenergy.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+60.249.45.213,4,newenergy.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 103.141.96.64,4,newinfomarke.com,JP,Japan,Asia,Eastern Asia
 34.92.229.2,4,newnikond3100.com,HK,Hong Kong,Asia,Eastern Asia
 146.196.54.196,4,neworld.tv,HK,Hong Kong,Asia,Eastern Asia
 101.132.39.205,4,newrocktech.com,CN,China,Asia,Eastern Asia
-115.68.222.156,4,newsen.com,KR,Korea, Republic of,Asia,Eastern Asia
-115.68.221.213,4,newsen.com,KR,Korea, Republic of,Asia,Eastern Asia
-115.68.222.134,4,newsen.com,KR,Korea, Republic of,Asia,Eastern Asia
+115.68.222.156,4,newsen.com,KR,"Korea, Republic of",Asia,Eastern Asia
+115.68.221.213,4,newsen.com,KR,"Korea, Republic of",Asia,Eastern Asia
+115.68.222.134,4,newsen.com,KR,"Korea, Republic of",Asia,Eastern Asia
 150.95.52.116,4,newshop-info.com,JP,Japan,Asia,Eastern Asia
 45.76.50.120,4,newsleaf.in,JP,Japan,Asia,Eastern Asia
 103.29.70.202,4,newsonjapan.com,JP,Japan,Asia,Eastern Asia
 183.181.89.127,4,newspolitics.net,JP,Japan,Asia,Eastern Asia
-121.78.144.197,4,newspower.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+121.78.144.197,4,newspower.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 157.112.182.161,4,newssokuhou.com,JP,Japan,Asia,Eastern Asia
 47.90.52.165,4,newstarsec.com,HK,Hong Kong,Asia,Eastern Asia
 163.44.185.165,4,newstory-inc.com,JP,Japan,Asia,Eastern Asia
-121.254.217.81,4,newswire.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+121.254.217.81,4,newswire.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 183.181.88.157,4,next-ipo-club.jp,JP,Japan,Asia,Eastern Asia
 120.79.132.214,4,nextsls.com,CN,China,Asia,Eastern Asia
 133.18.11.221,4,nexway.co.jp,JP,Japan,Asia,Eastern Asia
@@ -2405,7 +2405,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 39.106.152.195,4,nolovr.com,CN,China,Asia,Eastern Asia
 183.90.238.15,4,nomad-salaryman.com,JP,Japan,Asia,Eastern Asia
 121.40.165.55,4,norwii.com,CN,China,Asia,Eastern Asia
-49.247.213.44,4,note22.kr,KR,Korea, Republic of,Asia,Eastern Asia
+49.247.213.44,4,note22.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 172.105.235.147,4,notebook-driver.com,JP,Japan,Asia,Eastern Asia
 183.90.238.43,4,nowkore.net,JP,Japan,Asia,Eastern Asia
 47.243.188.78,4,nowmsg.com,HK,Hong Kong,Asia,Eastern Asia
@@ -2424,7 +2424,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 1.33.184.220,4,NTT PC Communications Inc.,JP,Japan,Asia,Eastern Asia
 1.33.184.230,4,NTT PC Communications Inc.,JP,Japan,Asia,Eastern Asia
 1.33.184.158,4,NTT PC Communications Inc.,JP,Japan,Asia,Eastern Asia
-140.118.31.99,4,ntust.edu.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+140.118.31.99,4,ntust.edu.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 172.105.198.18,4,nuansamusik.com,JP,Japan,Asia,Eastern Asia
 183.181.82.16,4,nudge-solution.com,JP,Japan,Asia,Eastern Asia
 35.215.175.146,4,nunheng.com,HK,Hong Kong,Asia,Eastern Asia
@@ -2433,12 +2433,12 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.90.242.71,4,nyuka-now.com,JP,Japan,Asia,Eastern Asia
 150.95.59.17,4,o-dan.net,JP,Japan,Asia,Eastern Asia
 118.27.122.90,4,o0mamuru0o.com,JP,Japan,Asia,Eastern Asia
-61.97.177.192,4,oasis.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+61.97.177.192,4,oasis.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 47.243.165.123,4,obsbot.com,HK,Hong Kong,Asia,Eastern Asia
 202.172.28.196,4,oceankids-clinic.com,JP,Japan,Asia,Eastern Asia
 43.154.124.232,4,oddpp.com,HK,Hong Kong,Asia,Eastern Asia
 138.113.34.72,4,oddsshark.com,HK,Hong Kong,Asia,Eastern Asia
-163.171.209.222,4,oddsshark.com,KR,Korea, Republic of,Asia,Eastern Asia
+163.171.209.222,4,oddsshark.com,KR,"Korea, Republic of",Asia,Eastern Asia
 162.43.117.37,4,office-ep.com,JP,Japan,Asia,Eastern Asia
 27.133.155.79,4,office-hack.com,JP,Japan,Asia,Eastern Asia
 202.172.26.37,4,office-matsubara.com,JP,Japan,Asia,Eastern Asia
@@ -2472,27 +2472,27 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 163.44.185.239,4,omatomesan.com,JP,Japan,Asia,Eastern Asia
 153.122.35.130,4,omiai-dakimakura.com,JP,Japan,Asia,Eastern Asia
 47.244.246.192,4,omobi.cc,HK,Hong Kong,Asia,Eastern Asia
-104.155.209.55,4,onead.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+104.155.209.55,4,onead.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 163.44.185.243,4,ongakukan.tokyo,JP,Japan,Asia,Eastern Asia
 163.44.185.203,4,onichie.com,JP,Japan,Asia,Eastern Asia
 118.27.125.193,4,onl.la,JP,Japan,Asia,Eastern Asia
 18.181.55.210,4,onstove.com,JP,Japan,Asia,Eastern Asia
-123.195.238.110,4,Ookla Speedtest server: ct-sptest.kbro.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
-118.232.76.110,4,Ookla Speedtest server: fm-sptest.kbro.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
-118.232.78.110,4,Ookla Speedtest server: ks-sptest.kbro.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
-118.232.77.110,4,Ookla Speedtest server: nt-sptest.kbro.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
-123.195.236.110,4,Ookla Speedtest server: ntp-sptest.kbro.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
-60.199.206.252,4,Ookla Speedtest server: speedtest.anet.net.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+123.195.238.110,4,Ookla Speedtest server: ct-sptest.kbro.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
+118.232.76.110,4,Ookla Speedtest server: fm-sptest.kbro.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
+118.232.78.110,4,Ookla Speedtest server: ks-sptest.kbro.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
+118.232.77.110,4,Ookla Speedtest server: nt-sptest.kbro.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
+123.195.236.110,4,Ookla Speedtest server: ntp-sptest.kbro.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
+60.199.206.252,4,Ookla Speedtest server: speedtest.anet.net.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 103.26.94.94,4,Ookla Speedtest server: speedtest.telin.hk,HK,Hong Kong,Asia,Eastern Asia
-211.77.43.1,4,Ookla Speedtest server: spt1.seed.net.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
-211.77.43.4,4,Ookla Speedtest server: spthc1.seed.net.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
-211.77.43.10,4,Ookla Speedtest server: sptpt1.seed.net.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
-211.77.43.8,4,Ookla Speedtest server: spttn1.seed.net.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+211.77.43.1,4,Ookla Speedtest server: spt1.seed.net.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
+211.77.43.4,4,Ookla Speedtest server: spthc1.seed.net.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
+211.77.43.10,4,Ookla Speedtest server: sptpt1.seed.net.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
+211.77.43.8,4,Ookla Speedtest server: spttn1.seed.net.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 119.9.104.237,4,openit.com,HK,Hong Kong,Asia,Eastern Asia
 210.166.236.149,4,or.tv,JP,Japan,Asia,Eastern Asia
 45.76.217.207,4,oracleblog.org,JP,Japan,Asia,Eastern Asia
 183.181.94.197,4,orange-sha.co.jp,JP,Japan,Asia,Eastern Asia
-118.163.60.153,4,orbitek.co,TW,Taiwan, Province of China,Asia,Eastern Asia
+118.163.60.153,4,orbitek.co,TW,"Taiwan, Province of China",Asia,Eastern Asia
 133.242.143.152,4,orca-live.net,JP,Japan,Asia,Eastern Asia
 47.52.248.125,4,oreilly.com.cn,HK,Hong Kong,Asia,Eastern Asia
 157.112.183.157,4,oreno-it3.info,JP,Japan,Asia,Eastern Asia
@@ -2517,7 +2517,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 118.27.122.219,4,oue-c-clinic.com,JP,Japan,Asia,Eastern Asia
 47.99.134.58,4,ouou.cn,CN,China,Asia,Eastern Asia
 202.172.28.10,4,overcome1.com,JP,Japan,Asia,Eastern Asia
-117.52.96.100,4,ownerclan.com,KR,Korea, Republic of,Asia,Eastern Asia
+117.52.96.100,4,ownerclan.com,KR,"Korea, Republic of",Asia,Eastern Asia
 183.181.81.53,4,oxider.jp,JP,Japan,Asia,Eastern Asia
 39.99.159.228,4,oxygn.cn,CN,China,Asia,Eastern Asia
 163.44.185.200,4,oyatsucafe-nicoplus.com,JP,Japan,Asia,Eastern Asia
@@ -2528,8 +2528,8 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 52.197.185.232,4,pagamo.org,JP,Japan,Asia,Eastern Asia
 18.176.192.5,4,paiza.io,JP,Japan,Asia,Eastern Asia
 125.77.166.116,4,paizia.com,CN,China,Asia,Eastern Asia
-222.239.176.253,4,pandalive.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
-222.239.176.254,4,pandalive.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+222.239.176.253,4,pandalive.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
+222.239.176.254,4,pandalive.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 27.96.51.203,4,pandora-2.com,JP,Japan,Asia,Eastern Asia
 47.89.14.241,4,paneland.com,CN,China,Asia,Eastern Asia
 120.132.118.50,4,panelook.com,CN,China,Asia,Eastern Asia
@@ -2537,13 +2537,13 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 118.107.47.3,4,panle.net,HK,Hong Kong,Asia,Eastern Asia
 47.56.83.44,4,panzhoushanghui.com,HK,Hong Kong,Asia,Eastern Asia
 183.181.86.65,4,parafam186.com,JP,Japan,Asia,Eastern Asia
-34.81.161.109,4,partipost.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+34.81.161.109,4,partipost.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 183.181.97.34,4,paso-jiyu.com,JP,Japan,Asia,Eastern Asia
 118.27.23.106,4,pasoble.jp,JP,Japan,Asia,Eastern Asia
 47.75.142.180,4,passhot.com,HK,Hong Kong,Asia,Eastern Asia
 202.254.234.62,4,passing-notes.com,JP,Japan,Asia,Eastern Asia
 39.108.237.97,4,patozon.net,CN,China,Asia,Eastern Asia
-15.164.113.145,4,paxnetnews.com,KR,Korea, Republic of,Asia,Eastern Asia
+15.164.113.145,4,paxnetnews.com,KR,"Korea, Republic of",Asia,Eastern Asia
 43.229.153.170,4,pb7k2r.com,HK,Hong Kong,Asia,Eastern Asia
 103.118.41.223,4,pb7k2r.com,HK,Hong Kong,Asia,Eastern Asia
 202.45.166.117,4,pc-farm.co.jp,JP,Japan,Asia,Eastern Asia
@@ -2570,7 +2570,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 157.112.187.9,4,ph-seiton.com,JP,Japan,Asia,Eastern Asia
 183.90.250.26,4,phablet.jp,JP,Japan,Asia,Eastern Asia
 164.46.112.190,4,pharm.or.jp,JP,Japan,Asia,Eastern Asia
-49.247.36.127,4,pharmatalk.org,KR,Korea, Republic of,Asia,Eastern Asia
+49.247.36.127,4,pharmatalk.org,KR,"Korea, Republic of",Asia,Eastern Asia
 47.91.199.140,4,phmtools.com,HK,Hong Kong,Asia,Eastern Asia
 120.26.106.156,4,phoenixos.com,CN,China,Asia,Eastern Asia
 103.141.96.156,4,photo-therapy.jp,JP,Japan,Asia,Eastern Asia
@@ -2594,18 +2594,18 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 47.243.15.146,4,pipiads.com,HK,Hong Kong,Asia,Eastern Asia
 210.150.110.215,4,pisuke-code.com,JP,Japan,Asia,Eastern Asia
 103.141.97.152,4,pizzalover.jp,JP,Japan,Asia,Eastern Asia
-61.221.12.58,4,pl3c.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+61.221.12.58,4,pl3c.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 27.133.130.186,4,planex.co.jp,JP,Japan,Asia,Eastern Asia
 35.215.137.160,4,planoinfalivel.com,HK,Hong Kong,Asia,Eastern Asia
-210.205.6.135,4,playdapp.io,KR,Korea, Republic of,Asia,Eastern Asia
-103.118.27.95,4,playjoylube.com,TW,Taiwan, Province of China,Asia,Eastern Asia
-35.201.141.82,4,playworld.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+210.205.6.135,4,playdapp.io,KR,"Korea, Republic of",Asia,Eastern Asia
+103.118.27.95,4,playjoylube.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
+35.201.141.82,4,playworld.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 160.16.214.133,4,plumoi.jp,JP,Japan,Asia,Eastern Asia
 161.202.113.132,4,plus-1do.jp,JP,Japan,Asia,Eastern Asia
 183.90.240.51,4,plusdesign.jp,JP,Japan,Asia,Eastern Asia
 163.43.31.168,4,pmi-japan.org,JP,Japan,Asia,Eastern Asia
-34.81.209.242,4,pmtone.com,TW,Taiwan, Province of China,Asia,Eastern Asia
-14.129.200.21,4,podbbang.com,KR,Korea, Republic of,Asia,Eastern Asia
+34.81.209.242,4,pmtone.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
+14.129.200.21,4,podbbang.com,KR,"Korea, Republic of",Asia,Eastern Asia
 150.95.54.154,4,poetasdelfindelmundo.com,JP,Japan,Asia,Eastern Asia
 183.90.245.30,4,poin10.com,JP,Japan,Asia,Eastern Asia
 183.181.96.120,4,point-of-view.blog,JP,Japan,Asia,Eastern Asia
@@ -2629,7 +2629,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 36.155.192.250,4,pplive.com,CN,China,Asia,Eastern Asia
 36.155.192.251,4,pplive.com,CN,China,Asia,Eastern Asia
 58.215.136.250,4,pplive.com,CN,China,Asia,Eastern Asia
-59.120.118.168,4,ppt.cc,TW,Taiwan, Province of China,Asia,Eastern Asia
+59.120.118.168,4,ppt.cc,TW,"Taiwan, Province of China",Asia,Eastern Asia
 172.96.185.208,4,ppta.org,HK,Hong Kong,Asia,Eastern Asia
 111.202.85.126,4,pptbest.com,CN,China,Asia,Eastern Asia
 112.90.43.134,4,pptbest.com,CN,China,Asia,Eastern Asia
@@ -2652,14 +2652,14 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 202.254.234.60,4,premedi-life.com,JP,Japan,Asia,Eastern Asia
 133.18.26.60,4,premedi.co.jp,JP,Japan,Asia,Eastern Asia
 27.96.48.114,4,premoa.co.jp,JP,Japan,Asia,Eastern Asia
-14.0.44.244,4,president.go.kr,KR,Korea, Republic of,Asia,Eastern Asia
-14.0.112.199,4,president.go.kr,KR,Korea, Republic of,Asia,Eastern Asia
-14.0.113.230,4,president.go.kr,KR,Korea, Republic of,Asia,Eastern Asia
+14.0.44.244,4,president.go.kr,KR,"Korea, Republic of",Asia,Eastern Asia
+14.0.112.199,4,president.go.kr,KR,"Korea, Republic of",Asia,Eastern Asia
+14.0.113.230,4,president.go.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 14.128.1.123,4,president.go.kr,JP,Japan,Asia,Eastern Asia
-14.0.41.14,4,president.go.kr,KR,Korea, Republic of,Asia,Eastern Asia
-14.0.43.207,4,president.go.kr,KR,Korea, Republic of,Asia,Eastern Asia
+14.0.41.14,4,president.go.kr,KR,"Korea, Republic of",Asia,Eastern Asia
+14.0.43.207,4,president.go.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 163.44.187.20,4,press-feed.com,JP,Japan,Asia,Eastern Asia
-222.234.220.46,4,pressian.com,KR,Korea, Republic of,Asia,Eastern Asia
+222.234.220.46,4,pressian.com,KR,"Korea, Republic of",Asia,Eastern Asia
 45.192.227.190,4,pricewisher.com,HK,Hong Kong,Asia,Eastern Asia
 16.162.103.172,4,primeaibot.com,HK,Hong Kong,Asia,Eastern Asia
 183.181.90.120,4,primo-clinic.jp,JP,Japan,Asia,Eastern Asia
@@ -2675,21 +2675,21 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 119.188.196.1,4,processon.com,CN,China,Asia,Eastern Asia
 120.27.239.119,4,procg.cn,CN,China,Asia,Eastern Asia
 103.231.30.24,4,projectdlondon.com,HK,Hong Kong,Asia,Eastern Asia
-103.118.24.39,4,prolux.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+103.118.24.39,4,prolux.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 153.120.50.214,4,property-bank.co.jp,JP,Japan,Asia,Eastern Asia
 103.195.4.149,4,prostoprosto.info,HK,Hong Kong,Asia,Eastern Asia
 133.130.70.158,4,proteinexpress.jp,JP,Japan,Asia,Eastern Asia
 154.222.108.58,4,protexnow.com,HK,Hong Kong,Asia,Eastern Asia
 150.95.52.74,4,ps4pro.jp,JP,Japan,Asia,Eastern Asia
 49.235.84.138,4,ps6b.com,CN,China,Asia,Eastern Asia
-140.112.172.5,4,ptt.cc,TW,Taiwan, Province of China,Asia,Eastern Asia
-140.112.172.11,4,ptt.cc,TW,Taiwan, Province of China,Asia,Eastern Asia
-140.112.172.1,4,ptt.cc,TW,Taiwan, Province of China,Asia,Eastern Asia
-140.112.172.2,4,ptt.cc,TW,Taiwan, Province of China,Asia,Eastern Asia
-140.112.172.3,4,ptt.cc,TW,Taiwan, Province of China,Asia,Eastern Asia
-140.112.172.4,4,ptt.cc,TW,Taiwan, Province of China,Asia,Eastern Asia
+140.112.172.5,4,ptt.cc,TW,"Taiwan, Province of China",Asia,Eastern Asia
+140.112.172.11,4,ptt.cc,TW,"Taiwan, Province of China",Asia,Eastern Asia
+140.112.172.1,4,ptt.cc,TW,"Taiwan, Province of China",Asia,Eastern Asia
+140.112.172.2,4,ptt.cc,TW,"Taiwan, Province of China",Asia,Eastern Asia
+140.112.172.3,4,ptt.cc,TW,"Taiwan, Province of China",Asia,Eastern Asia
+140.112.172.4,4,ptt.cc,TW,"Taiwan, Province of China",Asia,Eastern Asia
 162.43.116.58,4,publicdomainq.net,JP,Japan,Asia,Eastern Asia
-115.68.47.124,4,publog.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+115.68.47.124,4,publog.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 43.129.250.20,4,pukelian.net,HK,Hong Kong,Asia,Eastern Asia
 183.181.81.105,4,purikuro.com,JP,Japan,Asia,Eastern Asia
 133.18.201.177,4,purpledice.jp,JP,Japan,Asia,Eastern Asia
@@ -2705,14 +2705,14 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 43.132.233.54,4,qingmo.net,HK,Hong Kong,Asia,Eastern Asia
 49.233.52.177,4,qiushibaike.com,CN,China,Asia,Eastern Asia
 116.62.49.51,4,qiuvps.com,CN,China,Asia,Eastern Asia
-104.199.187.107,4,qmaxtest.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+104.199.187.107,4,qmaxtest.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 39.107.255.223,4,qmjm.com,CN,China,Asia,Eastern Asia
 116.251.205.20,4,qpsoftware.net,HK,Hong Kong,Asia,Eastern Asia
 122.114.74.191,4,qqbaobao.com,CN,China,Asia,Eastern Asia
 69.16.194.52,4,qrcodehub.io,CN,China,Asia,Eastern Asia
 202.254.236.36,4,qu-bic.jp,JP,Japan,Asia,Eastern Asia
 139.162.118.226,4,quanben.io,JP,Japan,Asia,Eastern Asia
-115.68.199.108,4,quant-k.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+115.68.199.108,4,quant-k.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 120.24.76.252,4,quanxue.cn,CN,China,Asia,Eastern Asia
 182.50.105.36,4,quel.jp,JP,Japan,Asia,Eastern Asia
 112.74.31.130,4,questcomposite.com,CN,China,Asia,Eastern Asia
@@ -2764,7 +2764,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 120.133.2.151,4,renren.com,CN,China,Asia,Eastern Asia
 120.133.2.152,4,renren.com,CN,China,Asia,Eastern Asia
 160.16.63.134,4,renso-ruigo.com,JP,Japan,Asia,Eastern Asia
-117.52.31.234,4,rentalline.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+117.52.31.234,4,rentalline.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 119.9.71.102,4,rentmystay.com,HK,Hong Kong,Asia,Eastern Asia
 183.181.98.145,4,rentry.jp,JP,Japan,Asia,Eastern Asia
 162.43.116.79,4,repairlab-nara.com,JP,Japan,Asia,Eastern Asia
@@ -2773,7 +2773,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 149.56.9.37,4,repumatic.com,HK,Hong Kong,Asia,Eastern Asia
 183.90.248.195,4,resortbaito.com,JP,Japan,Asia,Eastern Asia
 54.250.199.208,4,restir.com,JP,Japan,Asia,Eastern Asia
-35.185.130.121,4,reurl.cc,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.185.130.121,4,reurl.cc,TW,"Taiwan, Province of China",Asia,Eastern Asia
 34.84.30.38,4,review-tantei.com,JP,Japan,Asia,Eastern Asia
 139.162.85.106,4,reviewdobep.com,JP,Japan,Asia,Eastern Asia
 202.181.209.46,4,rhenish-hk.org.hk,HK,Hong Kong,Asia,Eastern Asia
@@ -2784,7 +2784,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 118.123.249.169,4,rightol.com,CN,China,Asia,Eastern Asia
 183.181.90.80,4,rikagaku.co.jp,JP,Japan,Asia,Eastern Asia
 183.90.232.46,4,rikei-miler.com,JP,Japan,Asia,Eastern Asia
-104.155.238.199,4,riotec.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+104.155.238.199,4,riotec.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 183.181.89.42,4,ripro1.com,JP,Japan,Asia,Eastern Asia
 118.27.95.149,4,rittsun.com,JP,Japan,Asia,Eastern Asia
 118.27.33.4,4,roaster.co.jp,JP,Japan,Asia,Eastern Asia
@@ -2794,7 +2794,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 113.10.156.5,4,roland.net.cn,HK,Hong Kong,Asia,Eastern Asia
 183.181.83.102,4,ronronblog.com,JP,Japan,Asia,Eastern Asia
 210.233.70.28,4,roommarket.jp,JP,Japan,Asia,Eastern Asia
-113.196.231.224,4,rootfocus.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+113.196.231.224,4,rootfocus.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 54.222.255.158,4,rosedaleedu.com,CN,China,Asia,Eastern Asia
 118.114.247.221,4,rosedata.com,CN,China,Asia,Eastern Asia
 43.129.75.228,4,round.cool,HK,Hong Kong,Asia,Eastern Asia
@@ -2802,7 +2802,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.181.84.57,4,royalucky.com,JP,Japan,Asia,Eastern Asia
 183.90.228.42,4,rt-h.jp,JP,Japan,Asia,Eastern Asia
 120.25.147.194,4,rtb56.com,CN,China,Asia,Eastern Asia
-202.55.233.140,4,rti.org.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+202.55.233.140,4,rti.org.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 202.61.141.77,4,rttks.com,JP,Japan,Asia,Eastern Asia
 120.24.45.86,4,ruiling.com,CN,China,Asia,Eastern Asia
 157.112.189.24,4,ruka-ch.jp,JP,Japan,Asia,Eastern Asia
@@ -2825,7 +2825,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 210.188.194.158,4,sakekakui.jp,JP,Japan,Asia,Eastern Asia
 120.136.14.23,4,sakekoba.com,JP,Japan,Asia,Eastern Asia
 210.224.191.22,4,sakeweb.jp,JP,Japan,Asia,Eastern Asia
-130.211.255.226,4,sakraworldhospital.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+130.211.255.226,4,sakraworldhospital.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 163.43.24.70,4,sakura.ne.jp,JP,Japan,Asia,Eastern Asia
 160.16.52.33,4,salalive.com,JP,Japan,Asia,Eastern Asia
 47.57.191.47,4,saleyee.com,HK,Hong Kong,Asia,Eastern Asia
@@ -2841,7 +2841,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 209.58.186.37,4,savethechildren.net.ph,HK,Hong Kong,Asia,Eastern Asia
 202.254.239.89,4,saycon.co.jp,JP,Japan,Asia,Eastern Asia
 139.162.118.221,4,saydigi.com,JP,Japan,Asia,Eastern Asia
-117.52.164.229,4,sbcplan.or.kr,KR,Korea, Republic of,Asia,Eastern Asia
+117.52.164.229,4,sbcplan.or.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 47.57.146.242,4,scentedniche.com,HK,Hong Kong,Asia,Eastern Asia
 160.16.239.71,4,schone-kleider.com,JP,Japan,Asia,Eastern Asia
 180.235.133.142,4,schooland.hk,HK,Hong Kong,Asia,Eastern Asia
@@ -2860,10 +2860,10 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 121.4.16.170,4,sdo.com,CN,China,Asia,Eastern Asia
 157.112.144.216,4,searchdesk.com,JP,Japan,Asia,Eastern Asia
 103.141.96.70,4,seashell-spa.com,JP,Japan,Asia,Eastern Asia
-35.194.229.175,4,seasongroup.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.194.229.175,4,seasongroup.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 192.95.15.215,4,secretsofsongwriting.com,CN,China,Asia,Eastern Asia
 39.97.100.45,4,seedsufe.com,CN,China,Asia,Eastern Asia
-60.245.57.169,4,seemoon.biz,TW,Taiwan, Province of China,Asia,Eastern Asia
+60.245.57.169,4,seemoon.biz,TW,"Taiwan, Province of China",Asia,Eastern Asia
 183.90.242.4,4,sekai-e.com,JP,Japan,Asia,Eastern Asia
 160.16.229.246,4,sekai-kabuka.com,JP,Japan,Asia,Eastern Asia
 34.97.120.176,4,sekaihonyaku.com,JP,Japan,Asia,Eastern Asia
@@ -2873,7 +2873,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 116.251.204.27,4,sekkeistudio.com,HK,Hong Kong,Asia,Eastern Asia
 133.167.77.58,4,self-development.info,JP,Japan,Asia,Eastern Asia
 118.27.122.86,4,self-methods.com,JP,Japan,Asia,Eastern Asia
-133.186.209.117,4,sellstart.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+133.186.209.117,4,sellstart.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 101.133.130.236,4,selmuch.com,CN,China,Asia,Eastern Asia
 103.210.237.152,4,semdb.com,HK,Hong Kong,Asia,Eastern Asia
 162.43.112.106,4,semeru-shigyo.com,JP,Japan,Asia,Eastern Asia
@@ -2884,14 +2884,14 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 160.16.208.126,4,sentakubin.net,JP,Japan,Asia,Eastern Asia
 150.95.59.9,4,senzuri.net,JP,Japan,Asia,Eastern Asia
 183.90.246.8,4,seo-lpo-consultant.com,JP,Japan,Asia,Eastern Asia
-192.99.220.43,4,seobacklinksites.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+192.99.220.43,4,seobacklinksites.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 103.240.12.171,4,seojapan.com,JP,Japan,Asia,Eastern Asia
 47.52.153.215,4,seomandarin.com,HK,Hong Kong,Asia,Eastern Asia
 202.254.236.134,4,seonet.jp,JP,Japan,Asia,Eastern Asia
 183.90.231.53,4,seotools.jp,JP,Japan,Asia,Eastern Asia
 103.45.109.188,4,seowhy.com,CN,China,Asia,Eastern Asia
 116.251.205.142,4,server207.com,HK,Hong Kong,Asia,Eastern Asia
-211.20.119.31,4,serverfield.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+211.20.119.31,4,serverfield.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 202.254.236.92,4,sevendex.com,JP,Japan,Asia,Eastern Asia
 157.112.150.5,4,seventencho.com,JP,Japan,Asia,Eastern Asia
 119.8.35.9,4,sfexvip.com,CN,China,Asia,Eastern Asia
@@ -2904,7 +2904,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 8.210.95.132,4,shangc.net,HK,Hong Kong,Asia,Eastern Asia
 121.41.224.230,4,shanghairanking.com,CN,China,Asia,Eastern Asia
 121.40.147.161,4,sharebank.com.cn,CN,China,Asia,Eastern Asia
-104.155.203.153,4,sharecourse.net,TW,Taiwan, Province of China,Asia,Eastern Asia
+104.155.203.153,4,sharecourse.net,TW,"Taiwan, Province of China",Asia,Eastern Asia
 106.75.35.218,4,shejipi.com,CN,China,Asia,Eastern Asia
 82.157.173.209,4,shenfendaquan.com,CN,China,Asia,Eastern Asia
 101.226.241.20,4,shgqdz.com,CN,China,Asia,Eastern Asia
@@ -2913,7 +2913,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.181.82.7,4,shibaurahouse.jp,JP,Japan,Asia,Eastern Asia
 219.94.203.119,4,shigotoyametai2.com,JP,Japan,Asia,Eastern Asia
 47.114.34.183,4,shijueiot.com,CN,China,Asia,Eastern Asia
-61.218.179.155,4,shinemed.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+61.218.179.155,4,shinemed.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 123.56.130.89,4,shinetechchina.com.cn,CN,China,Asia,Eastern Asia
 106.14.113.169,4,shinezone.com,CN,China,Asia,Eastern Asia
 163.44.185.244,4,shinjuku-home-clinic.com,JP,Japan,Asia,Eastern Asia
@@ -2953,7 +2953,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 103.24.249.148,4,sinnoelec.com,HK,Hong Kong,Asia,Eastern Asia
 45.112.204.245,4,sinotrackpro.com,HK,Hong Kong,Asia,Eastern Asia
 120.79.169.253,4,sinovo-vfd.com,CN,China,Asia,Eastern Asia
-220.130.107.8,4,sinya.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+220.130.107.8,4,sinya.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 164.46.97.238,4,siretoko.com,JP,Japan,Asia,Eastern Asia
 202.55.137.80,4,sit.ac.jp,JP,Japan,Asia,Eastern Asia
 183.90.232.87,4,site-hikkoshi.com,JP,Japan,Asia,Eastern Asia
@@ -2964,7 +2964,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 116.62.15.110,4,sjlexpress.com,CN,China,Asia,Eastern Asia
 118.31.71.25,4,skyincg.com,CN,China,Asia,Eastern Asia
 118.27.122.186,4,slacker73.com,JP,Japan,Asia,Eastern Asia
-34.80.4.196,4,sleekr.co,TW,Taiwan, Province of China,Asia,Eastern Asia
+34.80.4.196,4,sleekr.co,TW,"Taiwan, Province of China",Asia,Eastern Asia
 120.24.166.190,4,sleepace.net,CN,China,Asia,Eastern Asia
 185.160.27.110,4,slevlopen.com,JP,Japan,Asia,Eastern Asia
 160.16.71.187,4,slidingled.tokyo,JP,Japan,Asia,Eastern Asia
@@ -2979,7 +2979,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 150.242.58.156,4,smsl-audio.com,CN,China,Asia,Eastern Asia
 183.181.84.16,4,smtrends.net,JP,Japan,Asia,Eastern Asia
 163.43.29.164,4,snap-up.jp,JP,Japan,Asia,Eastern Asia
-13.209.198.205,4,snaps.com,KR,Korea, Republic of,Asia,Eastern Asia
+13.209.198.205,4,snaps.com,KR,"Korea, Republic of",Asia,Eastern Asia
 202.254.236.2,4,sneakergate.jp,JP,Japan,Asia,Eastern Asia
 202.168.215.21,4,snickers-cp.jp,HK,Hong Kong,Asia,Eastern Asia
 153.127.8.143,4,snjhkk.com,JP,Japan,Asia,Eastern Asia
@@ -2991,7 +2991,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 172.105.219.100,4,snug.com.tw,JP,Japan,Asia,Eastern Asia
 47.114.87.245,4,socialmarketings.com,CN,China,Asia,Eastern Asia
 118.27.5.213,4,socialup.tokyo,JP,Japan,Asia,Eastern Asia
-104.155.207.58,4,socialwire.net,TW,Taiwan, Province of China,Asia,Eastern Asia
+104.155.207.58,4,socialwire.net,TW,"Taiwan, Province of China",Asia,Eastern Asia
 157.112.152.33,4,socratesbiz.net,JP,Japan,Asia,Eastern Asia
 160.16.209.204,4,softel.co.jp,JP,Japan,Asia,Eastern Asia
 130.158.6.121,4,softether.net,JP,Japan,Asia,Eastern Asia
@@ -3022,7 +3022,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 157.112.145.112,4,spintheearth.net,JP,Japan,Asia,Eastern Asia
 39.103.219.62,4,spiritsoft.cn,CN,China,Asia,Eastern Asia
 47.57.105.9,4,spiscs.net,HK,Hong Kong,Asia,Eastern Asia
-118.44.178.50,4,spmainnet.com,KR,Korea, Republic of,Asia,Eastern Asia
+118.44.178.50,4,spmainnet.com,KR,"Korea, Republic of",Asia,Eastern Asia
 47.242.65.106,4,spogoal.com,HK,Hong Kong,Asia,Eastern Asia
 50.31.240.224,4,sportsdfpro.com,JP,Japan,Asia,Eastern Asia
 163.44.185.212,4,spread-sheets.com,JP,Japan,Asia,Eastern Asia
@@ -3042,11 +3042,11 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 112.78.117.100,4,stars.ne.jp,JP,Japan,Asia,Eastern Asia
 157.112.176.19,4,startelc.com,JP,Japan,Asia,Eastern Asia
 165.154.60.33,4,stcmt.com,HK,Hong Kong,Asia,Eastern Asia
-35.221.244.252,4,steachs.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.221.244.252,4,steachs.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 202.254.239.34,4,steam-kouryaku.com,JP,Japan,Asia,Eastern Asia
 148.66.55.200,4,stechcol.com,HK,Hong Kong,Asia,Eastern Asia
 202.254.236.151,4,stellar-girls.com,JP,Japan,Asia,Eastern Asia
-220.68.87.4,4,step.or.kr,KR,Korea, Republic of,Asia,Eastern Asia
+220.68.87.4,4,step.or.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 210.166.223.214,4,stepnet.co.jp,JP,Japan,Asia,Eastern Asia
 183.90.235.119,4,sticpay.jp,JP,Japan,Asia,Eastern Asia
 210.129.39.39,4,storematch.jp,JP,Japan,Asia,Eastern Asia
@@ -3054,7 +3054,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.181.91.105,4,strive.vc,JP,Japan,Asia,Eastern Asia
 119.3.231.139,4,strongest.cn,CN,China,Asia,Eastern Asia
 183.181.99.21,4,studio728.jp,JP,Japan,Asia,Eastern Asia
-163.16.5.180,4,study-area.org,TW,Taiwan, Province of China,Asia,Eastern Asia
+163.16.5.180,4,study-area.org,TW,"Taiwan, Province of China",Asia,Eastern Asia
 150.95.55.41,4,study-ksj.com,JP,Japan,Asia,Eastern Asia
 112.78.117.10,4,stutsbeats.com,JP,Japan,Asia,Eastern Asia
 124.158.93.2,4,STXCitinet. Leading Internet & VOIP Service Provider. Ulaanbaatar. Mongolia,MN,Mongolia,Asia,Eastern Asia
@@ -3062,14 +3062,14 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 47.98.96.201,4,sublog.net,CN,China,Asia,Eastern Asia
 209.58.188.21,4,subyshare.com,HK,Hong Kong,Asia,Eastern Asia
 103.141.97.22,4,sugukataduketai.com,JP,Japan,Asia,Eastern Asia
-210.127.209.115,4,suidc.com,KR,Korea, Republic of,Asia,Eastern Asia
+210.127.209.115,4,suidc.com,KR,"Korea, Republic of",Asia,Eastern Asia
 183.181.99.31,4,suido-gesuido.co.jp,JP,Japan,Asia,Eastern Asia
 150.95.52.72,4,sukoshiten.com,JP,Japan,Asia,Eastern Asia
 103.141.97.149,4,sumahodigest.com,JP,Japan,Asia,Eastern Asia
 202.254.234.47,4,sumari.jp,JP,Japan,Asia,Eastern Asia
 118.27.125.232,4,sumry.org,JP,Japan,Asia,Eastern Asia
-122.146.16.36,4,suncolor.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
-118.163.15.107,4,sungta.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+122.146.16.36,4,suncolor.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
+118.163.15.107,4,sungta.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 103.104.172.97,4,sunland.us,CN,China,Asia,Eastern Asia
 119.28.61.54,4,sunlons.com,HK,Hong Kong,Asia,Eastern Asia
 103.117.146.250,4,sunnexproducts.com,HK,Hong Kong,Asia,Eastern Asia
@@ -3118,12 +3118,12 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 202.172.28.188,4,tagindex.com,JP,Japan,Asia,Eastern Asia
 153.122.54.92,4,taguchi-clinic.jp,JP,Japan,Asia,Eastern Asia
 183.90.225.235,4,taimaru.jp,JP,Japan,Asia,Eastern Asia
-35.194.180.219,4,taipeifun.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.194.180.219,4,taipeifun.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 103.117.146.106,4,taipeipools.com,HK,Hong Kong,Asia,Eastern Asia
 103.117.146.130,4,taipeipools.com,HK,Hong Kong,Asia,Eastern Asia
 43.225.198.10,4,taipeipools.com,HK,Hong Kong,Asia,Eastern Asia
-101.101.101.101,4,Taiwan Network Information Center,TW,Taiwan, Province of China,Asia,Eastern Asia
-101.102.103.104,4,Taiwan Network Information Center,TW,Taiwan, Province of China,Asia,Eastern Asia
+101.101.101.101,4,Taiwan Network Information Center,TW,"Taiwan, Province of China",Asia,Eastern Asia
+101.102.103.104,4,Taiwan Network Information Center,TW,"Taiwan, Province of China",Asia,Eastern Asia
 157.112.183.15,4,takahashi-hajime.jp,JP,Japan,Asia,Eastern Asia
 157.112.183.50,4,takamarubuyma.com,JP,Japan,Asia,Eastern Asia
 183.90.245.13,4,takara2727.com,JP,Japan,Asia,Eastern Asia
@@ -3136,7 +3136,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 118.27.95.22,4,takewind.net,JP,Japan,Asia,Eastern Asia
 162.43.116.133,4,takuhai-jubei.com,JP,Japan,Asia,Eastern Asia
 183.181.89.122,4,takulog2020.com,JP,Japan,Asia,Eastern Asia
-34.80.22.202,4,talentxo.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+34.80.22.202,4,talentxo.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 162.43.116.144,4,talknote.com,JP,Japan,Asia,Eastern Asia
 183.90.228.15,4,tamapon.com,JP,Japan,Asia,Eastern Asia
 150.95.164.240,4,tamiya.com,JP,Japan,Asia,Eastern Asia
@@ -3148,7 +3148,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 106.75.75.234,4,tantanapp.com,CN,China,Asia,Eastern Asia
 140.205.220.96,4,taobao.com,CN,China,Asia,Eastern Asia
 140.205.94.189,4,taobao.com,CN,China,Asia,Eastern Asia
-103.17.10.38,4,taodining.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+103.17.10.38,4,taodining.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 159.138.31.63,4,taoli99.com,CN,China,Asia,Eastern Asia
 182.173.76.110,4,target-n1.com,HK,Hong Kong,Asia,Eastern Asia
 157.112.183.112,4,tarot-plot.com,JP,Japan,Asia,Eastern Asia
@@ -3174,7 +3174,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 43.252.40.171,4,techapple.com,HK,Hong Kong,Asia,Eastern Asia
 52.192.4.211,4,techbang.com,JP,Japan,Asia,Eastern Asia
 183.181.91.95,4,techflare.blog,JP,Japan,Asia,Eastern Asia
-121.78.145.37,4,techno-press.org,KR,Korea, Republic of,Asia,Eastern Asia
+121.78.145.37,4,techno-press.org,KR,"Korea, Republic of",Asia,Eastern Asia
 157.7.184.29,4,technorati.jp,JP,Japan,Asia,Eastern Asia
 45.76.211.96,4,ted2srt.org,JP,Japan,Asia,Eastern Asia
 103.109.101.216,4,teddybear.world,HK,Hong Kong,Asia,Eastern Asia
@@ -3188,7 +3188,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 157.112.187.142,4,template-soko.com,JP,Japan,Asia,Eastern Asia
 154.39.170.201,4,templatestyle.in,HK,Hong Kong,Asia,Eastern Asia
 134.175.172.169,4,tenclass.com,CN,China,Asia,Eastern Asia
-104.155.217.104,4,tendrum.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+104.155.217.104,4,tendrum.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 160.16.144.30,4,tenhou.net,JP,Japan,Asia,Eastern Asia
 153.122.35.95,4,tenshoku-plus.com,JP,Japan,Asia,Eastern Asia
 163.44.187.151,4,tensui.or.jp,JP,Japan,Asia,Eastern Asia
@@ -3208,7 +3208,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.181.97.42,4,the-buyers.jp,JP,Japan,Asia,Eastern Asia
 47.106.71.222,4,theblockbeats.info,CN,China,Asia,Eastern Asia
 183.181.98.26,4,thegoods.jp,JP,Japan,Asia,Eastern Asia
-34.80.88.101,4,theinterface.asia,TW,Taiwan, Province of China,Asia,Eastern Asia
+34.80.88.101,4,theinterface.asia,TW,"Taiwan, Province of China",Asia,Eastern Asia
 116.251.205.203,4,theinventors.org,HK,Hong Kong,Asia,Eastern Asia
 149.56.9.68,4,theprestigeprojects.com,HK,Hong Kong,Asia,Eastern Asia
 164.46.45.43,4,therma.co.jp,JP,Japan,Asia,Eastern Asia
@@ -3223,7 +3223,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 164.90.97.157,4,tiki.video,HK,Hong Kong,Asia,Eastern Asia
 112.124.39.123,4,timberland.com.cn,CN,China,Asia,Eastern Asia
 118.27.122.181,4,time-prism.com,JP,Japan,Asia,Eastern Asia
-101.79.5.201,4,timeforum.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+101.79.5.201,4,timeforum.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 183.90.242.15,4,timeless-edition.com,JP,Japan,Asia,Eastern Asia
 202.181.171.78,4,timway.com,HK,Hong Kong,Asia,Eastern Asia
 158.199.195.104,4,tina-aircon.co.jp,JP,Japan,Asia,Eastern Asia
@@ -3236,12 +3236,12 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 140.205.130.99,4,tmall.com,CN,China,Asia,Eastern Asia
 140.205.94.193,4,tmall.com,CN,China,Asia,Eastern Asia
 154.39.170.194,4,tmd45.in,HK,Hong Kong,Asia,Eastern Asia
-60.248.200.202,4,tmnewa.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+60.248.200.202,4,tmnewa.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 47.90.7.218,4,to43.com,HK,Hong Kong,Asia,Eastern Asia
 133.18.5.213,4,tobikan.jp,JP,Japan,Asia,Eastern Asia
 103.141.96.116,4,tochigi-koimusubi.com,JP,Japan,Asia,Eastern Asia
-34.64.180.130,4,todaybeststory.com,KR,Korea, Republic of,Asia,Eastern Asia
-61.100.186.155,4,todaysppc.com,KR,Korea, Republic of,Asia,Eastern Asia
+34.64.180.130,4,todaybeststory.com,KR,"Korea, Republic of",Asia,Eastern Asia
+61.100.186.155,4,todaysppc.com,KR,"Korea, Republic of",Asia,Eastern Asia
 172.104.88.234,4,todepay.xyz,JP,Japan,Asia,Eastern Asia
 103.141.96.25,4,tohaz.com,JP,Japan,Asia,Eastern Asia
 183.181.82.89,4,tohitsu.co.jp,JP,Japan,Asia,Eastern Asia
@@ -3265,16 +3265,16 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 114.215.201.167,4,tool.lu,CN,China,Asia,Eastern Asia
 8.136.83.38,4,tool.lu,CN,China,Asia,Eastern Asia
 114.215.177.88,4,tool.lu,CN,China,Asia,Eastern Asia
-65.49.30.179,4,toomics.es,KR,Korea, Republic of,Asia,Eastern Asia
-65.49.30.176,4,toomics.es,KR,Korea, Republic of,Asia,Eastern Asia
-65.49.30.177,4,toomics.es,KR,Korea, Republic of,Asia,Eastern Asia
-65.49.30.178,4,toomics.es,KR,Korea, Republic of,Asia,Eastern Asia
+65.49.30.179,4,toomics.es,KR,"Korea, Republic of",Asia,Eastern Asia
+65.49.30.176,4,toomics.es,KR,"Korea, Republic of",Asia,Eastern Asia
+65.49.30.177,4,toomics.es,KR,"Korea, Republic of",Asia,Eastern Asia
+65.49.30.178,4,toomics.es,KR,"Korea, Republic of",Asia,Eastern Asia
 107.150.121.209,4,top-trx.com,HK,Hong Kong,Asia,Eastern Asia
 39.96.64.206,4,top100.cn,CN,China,Asia,Eastern Asia
-203.74.151.31,4,top1game.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+203.74.151.31,4,top1game.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 193.84.85.75,4,tophd.fun,HK,Hong Kong,Asia,Eastern Asia
 172.96.185.175,4,topnhacai.blog,HK,Hong Kong,Asia,Eastern Asia
-221.149.41.86,4,topten10mall.com,KR,Korea, Republic of,Asia,Eastern Asia
+221.149.41.86,4,topten10mall.com,KR,"Korea, Republic of",Asia,Eastern Asia
 103.127.81.96,4,toptv66.pw,HK,Hong Kong,Asia,Eastern Asia
 183.181.99.199,4,toraiz.jp,JP,Japan,Asia,Eastern Asia
 210.188.201.193,4,torano-maki.net,JP,Japan,Asia,Eastern Asia
@@ -3312,10 +3312,10 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 118.193.47.153,4,tron.nz,HK,Hong Kong,Asia,Eastern Asia
 117.18.5.73,4,tron.tel,HK,Hong Kong,Asia,Eastern Asia
 39.109.104.216,4,trontrx.co,HK,Hong Kong,Asia,Eastern Asia
-101.33.77.157,4,trontrx.org,KR,Korea, Republic of,Asia,Eastern Asia
+101.33.77.157,4,trontrx.org,KR,"Korea, Republic of",Asia,Eastern Asia
 158.247.223.31,4,tronurx.com,JP,Japan,Asia,Eastern Asia
 183.181.97.10,4,tropica.jp,JP,Japan,Asia,Eastern Asia
-14.0.113.172,4,truefriend.com,KR,Korea, Republic of,Asia,Eastern Asia
+14.0.113.172,4,truefriend.com,KR,"Korea, Republic of",Asia,Eastern Asia
 183.181.82.40,4,trust-material.com,JP,Japan,Asia,Eastern Asia
 103.241.129.231,4,truststage.com,JP,Japan,Asia,Eastern Asia
 172.96.185.177,4,truyenngan.net,HK,Hong Kong,Asia,Eastern Asia
@@ -3339,14 +3339,14 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 58.144.138.37,4,tupianzj.com,CN,China,Asia,Eastern Asia
 119.36.33.85,4,tupianzj.com,CN,China,Asia,Eastern Asia
 58.144.136.99,4,tupianzj.com,CN,China,Asia,Eastern Asia
-141.164.54.54,4,tv-nolgoga.com,KR,Korea, Republic of,Asia,Eastern Asia
-210.58.98.151,4,tw560.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+141.164.54.54,4,tv-nolgoga.com,KR,"Korea, Republic of",Asia,Eastern Asia
+210.58.98.151,4,tw560.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 163.44.185.198,4,twh-inc.com,JP,Japan,Asia,Eastern Asia
 202.218.175.136,4,twitcasting.tv,JP,Japan,Asia,Eastern Asia
 160.16.143.63,4,twowin.jp,JP,Japan,Asia,Eastern Asia
 45.128.147.100,4,txcsjlb.com,HK,Hong Kong,Asia,Eastern Asia
 43.129.242.151,4,txtepub.com,HK,Hong Kong,Asia,Eastern Asia
-113.196.154.133,4,tyan.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+113.196.154.133,4,tyan.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 139.162.81.126,4,tylee.tw,JP,Japan,Asia,Eastern Asia
 160.16.110.88,4,typea.info,JP,Japan,Asia,Eastern Asia
 121.42.91.51,4,tzfilter.com,CN,China,Asia,Eastern Asia
@@ -3374,18 +3374,18 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 43.248.190.245,4,uimaker.com,CN,China,Asia,Eastern Asia
 103.127.81.247,4,uivita.com,HK,Hong Kong,Asia,Eastern Asia
 101.200.202.226,4,ulab360.com,CN,China,Asia,Eastern Asia
-103.82.143.153,4,ulzdk.com,KR,Korea, Republic of,Asia,Eastern Asia
+103.82.143.153,4,ulzdk.com,KR,"Korea, Republic of",Asia,Eastern Asia
 47.91.28.140,4,umamill.jp,JP,Japan,Asia,Eastern Asia
 162.43.116.101,4,unavailable.jp,JP,Japan,Asia,Eastern Asia
 183.181.96.34,4,unazuki.online,JP,Japan,Asia,Eastern Asia
 210.224.191.17,4,under-bar.com,JP,Japan,Asia,Eastern Asia
 118.27.100.92,4,unicorn-blog.jp,JP,Japan,Asia,Eastern Asia
 45.124.126.130,4,unionpayintl.com,CN,China,Asia,Eastern Asia
-222.231.31.149,4,unipost.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+222.231.31.149,4,unipost.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 202.70.46.254,4,unitel.mn,MN,Mongolia,Asia,Eastern Asia
 163.44.176.13,4,univarie.com,JP,Japan,Asia,Eastern Asia
 84.22.143.37,4,univers.su,JP,Japan,Asia,Eastern Asia
-35.229.131.21,4,universal88.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.229.131.21,4,universal88.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 183.90.240.50,4,universe-web.jp,JP,Japan,Asia,Eastern Asia
 202.21.123.171,4,unuudur.mn,MN,Mongolia,Asia,Eastern Asia
 103.141.97.13,4,updated-today.com,JP,Japan,Asia,Eastern Asia
@@ -3401,8 +3401,8 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 101.36.106.175,4,usd-cny.com,HK,Hong Kong,Asia,Eastern Asia
 157.112.150.103,4,usedoor.jp,JP,Japan,Asia,Eastern Asia
 47.56.250.71,4,usoair.com,HK,Hong Kong,Asia,Eastern Asia
-35.236.155.166,4,uspace.city,TW,Taiwan, Province of China,Asia,Eastern Asia
-60.199.171.6,4,ut-232.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.236.155.166,4,uspace.city,TW,"Taiwan, Province of China",Asia,Eastern Asia
+60.199.171.6,4,ut-232.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 103.210.23.126,4,uubjx.com,CN,China,Asia,Eastern Asia
 43.132.119.180,4,uuoobe.kr,HK,Hong Kong,Asia,Eastern Asia
 45.116.13.31,4,uuyuuy.com,JP,Japan,Asia,Eastern Asia
@@ -3411,8 +3411,8 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 118.27.122.184,4,v0w0vww.com,JP,Japan,Asia,Eastern Asia
 152.136.206.90,4,v1tx.com,CN,China,Asia,Eastern Asia
 101.132.253.209,4,vaillant.cn,CN,China,Asia,Eastern Asia
-118.107.170.195,4,valofe.com,KR,Korea, Republic of,Asia,Eastern Asia
-61.218.179.156,4,valtec.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+118.107.170.195,4,valofe.com,KR,"Korea, Republic of",Asia,Eastern Asia
+61.218.179.156,4,valtec.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 54.178.202.64,4,valu.is,JP,Japan,Asia,Eastern Asia
 59.106.220.129,4,valuegolf.co.jp,JP,Japan,Asia,Eastern Asia
 103.242.31.31,4,valueserver.jp,JP,Japan,Asia,Eastern Asia
@@ -3432,9 +3432,9 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.90.231.55,4,vef.jp,JP,Japan,Asia,Eastern Asia
 183.90.242.47,4,vektor-inc.co.jp,JP,Japan,Asia,Eastern Asia
 47.90.13.101,4,ventoy.net,HK,Hong Kong,Asia,Eastern Asia
-1.250.0.14,4,Verizon (Newark NJ),KR,Korea, Republic of,Asia,Eastern Asia
-1.252.0.14,4,Verizon (Reston VA),KR,Korea, Republic of,Asia,Eastern Asia
-1.252.0.12,4,Verizon (Reston VA),KR,Korea, Republic of,Asia,Eastern Asia
+1.250.0.14,4,Verizon (Newark NJ),KR,"Korea, Republic of",Asia,Eastern Asia
+1.252.0.14,4,Verizon (Reston VA),KR,"Korea, Republic of",Asia,Eastern Asia
+1.252.0.12,4,Verizon (Reston VA),KR,"Korea, Republic of",Asia,Eastern Asia
 159.138.6.192,4,vernee.cc,CN,China,Asia,Eastern Asia
 103.100.208.38,4,vernee.cc,HK,Hong Kong,Asia,Eastern Asia
 157.112.152.12,4,versleciel.net,JP,Japan,Asia,Eastern Asia
@@ -3446,11 +3446,11 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 202.254.236.84,4,vicryptopix.com,JP,Japan,Asia,Eastern Asia
 183.181.89.126,4,videolab.jp,JP,Japan,Asia,Eastern Asia
 202.254.234.18,4,view.cafe,JP,Japan,Asia,Eastern Asia
-104.199.136.236,4,vigattintrade.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+104.199.136.236,4,vigattintrade.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 198.50.209.173,4,vikral.com,HK,Hong Kong,Asia,Eastern Asia
 160.16.197.231,4,vinovangoghfl.com,JP,Japan,Asia,Eastern Asia
 43.255.31.93,4,vip-scdkey.com,HK,Hong Kong,Asia,Eastern Asia
-59.25.185.52,4,virditech.com,KR,Korea, Republic of,Asia,Eastern Asia
+59.25.185.52,4,virditech.com,KR,"Korea, Republic of",Asia,Eastern Asia
 103.117.146.251,4,visibleone.com,HK,Hong Kong,Asia,Eastern Asia
 23.229.58.100,4,visitbuild.com,CN,China,Asia,Eastern Asia
 148.66.55.2,4,visitorcms.com,HK,Hong Kong,Asia,Eastern Asia
@@ -3472,7 +3472,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.181.86.74,4,vslab.jp,JP,Japan,Asia,Eastern Asia
 101.133.146.86,4,vspn.com,CN,China,Asia,Eastern Asia
 118.27.95.211,4,vtuber.nagoya,JP,Japan,Asia,Eastern Asia
-34.80.64.223,4,vuclip.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+34.80.64.223,4,vuclip.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 129.226.170.70,4,vv.com,HK,Hong Kong,Asia,Eastern Asia
 160.16.86.244,4,w-health.jp,JP,Japan,Asia,Eastern Asia
 162.43.117.48,4,w3g.jp,JP,Japan,Asia,Eastern Asia
@@ -3482,7 +3482,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 47.107.77.144,4,waimaob2c.com,CN,China,Asia,Eastern Asia
 47.115.93.205,4,waimaomike.com,CN,China,Asia,Eastern Asia
 120.24.146.174,4,waitsun.com,CN,China,Asia,Eastern Asia
-219.84.202.209,4,wakool.net,TW,Taiwan, Province of China,Asia,Eastern Asia
+219.84.202.209,4,wakool.net,TW,"Taiwan, Province of China",Asia,Eastern Asia
 103.72.144.221,4,wakuoo.com,CN,China,Asia,Eastern Asia
 103.192.176.215,4,wali-news.com,HK,Hong Kong,Asia,Eastern Asia
 175.41.202.246,4,walkerland.com.tw,JP,Japan,Asia,Eastern Asia
@@ -3519,7 +3519,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.57.48.91,4,weiyun.com,CN,China,Asia,Eastern Asia
 162.43.116.30,4,wel-osaka.jp,JP,Japan,Asia,Eastern Asia
 121.199.59.176,4,wendaxiaowu.com,CN,China,Asia,Eastern Asia
-34.81.65.149,4,wenti.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+34.81.65.149,4,wenti.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 150.158.41.173,4,wenxh.cn,CN,China,Asia,Eastern Asia
 112.74.190.224,4,wenzhixin.net.cn,CN,China,Asia,Eastern Asia
 61.139.126.229,4,west.cn,CN,China,Asia,Eastern Asia
@@ -3544,13 +3544,13 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.90.241.138,4,win11lab.info,JP,Japan,Asia,Eastern Asia
 107.149.146.175,4,win60percent.com,JP,Japan,Asia,Eastern Asia
 182.173.77.80,4,wingshingmet.com.hk,HK,Hong Kong,Asia,Eastern Asia
-222.239.176.201,4,winktv.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
-175.126.168.36,4,winktv.co.kr,KR,Korea, Republic of,Asia,Eastern Asia
+222.239.176.201,4,winktv.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
+175.126.168.36,4,winktv.co.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 120.77.244.118,4,winshang.com,CN,China,Asia,Eastern Asia
 120.76.247.121,4,wintodoor.com,CN,China,Asia,Eastern Asia
 133.223.61.200,4,wirebag.jp,JP,Japan,Asia,Eastern Asia
 153.120.49.85,4,with2.net,JP,Japan,Asia,Eastern Asia
-103.86.47.254,4,wjdrying.com,KR,Korea, Republic of,Asia,Eastern Asia
+103.86.47.254,4,wjdrying.com,KR,"Korea, Republic of",Asia,Eastern Asia
 175.6.29.229,4,wjx.cn,CN,China,Asia,Eastern Asia
 175.6.29.226,4,wjx.top,CN,China,Asia,Eastern Asia
 162.43.117.28,4,wkwkjapan.com,JP,Japan,Asia,Eastern Asia
@@ -3560,7 +3560,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 116.251.205.200,4,wol-lighting.com,HK,Hong Kong,Asia,Eastern Asia
 39.106.136.61,4,wolearn.org,CN,China,Asia,Eastern Asia
 183.90.232.21,4,womanslabo.com,JP,Japan,Asia,Eastern Asia
-59.124.114.85,4,wonder.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+59.124.114.85,4,wonder.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 120.27.225.99,4,wondershare.cn,CN,China,Asia,Eastern Asia
 120.132.99.13,4,woniu.com,CN,China,Asia,Eastern Asia
 47.245.30.103,4,woopie.jp,JP,Japan,Asia,Eastern Asia
@@ -3573,8 +3573,8 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.90.238.46,4,world-mylife.com,JP,Japan,Asia,Eastern Asia
 185.251.45.132,4,world68.com,HK,Hong Kong,Asia,Eastern Asia
 163.44.185.211,4,worldbuyersshop.jp,JP,Japan,Asia,Eastern Asia
-125.227.192.241,4,worldgymtaiwan.com,TW,Taiwan, Province of China,Asia,Eastern Asia
-211.75.205.133,4,worldgymtaiwan.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+125.227.192.241,4,worldgymtaiwan.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
+211.75.205.133,4,worldgymtaiwan.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 115.29.179.49,4,woshipm.com,CN,China,Asia,Eastern Asia
 43.129.64.28,4,wp-autoblog.net,HK,Hong Kong,Asia,Eastern Asia
 120.136.10.20,4,wp-customize.net,JP,Japan,Asia,Eastern Asia
@@ -3659,7 +3659,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 121.42.116.4,4,xzqzzx.com,CN,China,Asia,Eastern Asia
 180.131.138.179,4,y-ml.com,JP,Japan,Asia,Eastern Asia
 202.218.143.20,4,y2u.be,JP,Japan,Asia,Eastern Asia
-202.79.170.254,4,yabo-net.com,KR,Korea, Republic of,Asia,Eastern Asia
+202.79.170.254,4,yabo-net.com,KR,"Korea, Republic of",Asia,Eastern Asia
 193.187.117.89,4,yabook.org,HK,Hong Kong,Asia,Eastern Asia
 116.255.145.229,4,yac8.com,CN,China,Asia,Eastern Asia
 133.18.64.91,4,yajima-jizake.co.jp,JP,Japan,Asia,Eastern Asia
@@ -3668,23 +3668,23 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.90.238.5,4,yamato-signage.com,JP,Japan,Asia,Eastern Asia
 183.90.235.31,4,yamatonadeshiko8.com,JP,Japan,Asia,Eastern Asia
 183.181.83.156,4,yanag-webflow-studio.com,JP,Japan,Asia,Eastern Asia
-202.39.255.1,4,yangming.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+202.39.255.1,4,yangming.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 39.99.228.94,4,yangyingming.com,CN,China,Asia,Eastern Asia
 101.201.237.92,4,yanyue.cn,CN,China,Asia,Eastern Asia
 103.108.195.147,4,yarrapaper.com,HK,Hong Kong,Asia,Eastern Asia
 163.44.185.174,4,yasui-notepc.com,JP,Japan,Asia,Eastern Asia
 157.112.145.109,4,yayoi-b.com,JP,Japan,Asia,Eastern Asia
 47.52.25.184,4,ybsvision.com,HK,Hong Kong,Asia,Eastern Asia
-61.221.12.28,4,yczball.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+61.221.12.28,4,yczball.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 180.76.174.20,4,yeelight.com,CN,China,Asia,Eastern Asia
 58.83.141.70,4,yeepay.com,CN,China,Asia,Eastern Asia
 58.83.141.74,4,yeepay.com,CN,China,Asia,Eastern Asia
 58.83.141.75,4,yeepay.com,CN,China,Asia,Eastern Asia
 121.40.26.233,4,yeeyan.org,CN,China,Asia,Eastern Asia
-34.80.94.99,4,yes319.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+34.80.94.99,4,yes319.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 167.179.66.238,4,yeuvungtau.com,JP,Japan,Asia,Eastern Asia
 42.51.48.9,4,yfphp.cn,CN,China,Asia,Eastern Asia
-121.170.228.5,4,yg1.kr,KR,Korea, Republic of,Asia,Eastern Asia
+121.170.228.5,4,yg1.kr,KR,"Korea, Republic of",Asia,Eastern Asia
 164.46.106.4,4,yglpc.com,JP,Japan,Asia,Eastern Asia
 121.42.226.227,4,ygo-sem.cn,CN,China,Asia,Eastern Asia
 116.213.43.70,4,yhdm530.com,HK,Hong Kong,Asia,Eastern Asia
@@ -3732,7 +3732,7 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 183.181.89.27,4,yourroot.co.jp,JP,Japan,Asia,Eastern Asia
 54.178.5.152,4,yours-evergreen.com,JP,Japan,Asia,Eastern Asia
 111.229.229.200,4,yousukao.com,CN,China,Asia,Eastern Asia
-35.201.160.212,4,youtils.cc,TW,Taiwan, Province of China,Asia,Eastern Asia
+35.201.160.212,4,youtils.cc,TW,"Taiwan, Province of China",Asia,Eastern Asia
 106.75.121.202,4,youzan.com,CN,China,Asia,Eastern Asia
 154.23.180.66,4,yp294.com,HK,Hong Kong,Asia,Eastern Asia
 165.154.60.132,4,ytogi.com,HK,Hong Kong,Asia,Eastern Asia
@@ -3791,11 +3791,11 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 117.159.70.226,4,zhld.com,CN,China,Asia,Eastern Asia
 8.210.102.254,4,zhongfox.com,HK,Hong Kong,Asia,Eastern Asia
 119.28.52.120,4,zhujiceping.com,HK,Hong Kong,Asia,Eastern Asia
-223.27.33.82,4,zhupiter.com,TW,Taiwan, Province of China,Asia,Eastern Asia
+223.27.33.82,4,zhupiter.com,TW,"Taiwan, Province of China",Asia,Eastern Asia
 47.102.145.178,4,zijianshao.com,CN,China,Asia,Eastern Asia
 43.231.114.74,4,zindaa.mn,MN,Mongolia,Asia,Eastern Asia
 16.162.182.161,4,ziniao.com,HK,Hong Kong,Asia,Eastern Asia
-103.17.8.51,4,ziqiang-dental.com.tw,TW,Taiwan, Province of China,Asia,Eastern Asia
+103.17.8.51,4,ziqiang-dental.com.tw,TW,"Taiwan, Province of China",Asia,Eastern Asia
 129.211.87.139,4,ziruchu.com,CN,China,Asia,Eastern Asia
 202.53.138.125,4,ziyuantu.com,HK,Hong Kong,Asia,Eastern Asia
 172.104.90.184,4,zodiac.tw,JP,Japan,Asia,Eastern Asia
@@ -3821,4 +3821,4 @@ reflector_ip,ip_version,description,country_code,country_name,region,sub_region
 39.103.140.55,4,zziit.com,CN,China,Asia,Eastern Asia
 47.106.183.134,4,zzll.org,CN,China,Asia,Eastern Asia
 59.56.106.39,4,zzpzh.com,CN,China,Asia,Eastern Asia
-112.146.150.99,4,zzxx373014.synology.me,KR,Korea, Republic of,Asia,Eastern Asia
+112.146.150.99,4,zzxx373014.synology.me,KR,"Korea, Republic of",Asia,Eastern Asia
