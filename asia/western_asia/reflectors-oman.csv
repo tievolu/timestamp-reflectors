@@ -1,5 +1,7 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-5.37.56.186,4,omaninfo.om,OM,Oman,Asia,Western Asia
-5.37.56.184,4,omannews.gov.om,OM,Oman,Asia,Western Asia
-5.21.229.74,4,Ookla Speedtest server: speedtest.nawras.om,OM,Oman,Asia,Western Asia
-82.178.33.35,4,Ookla Speedtest server: speedtest.omantel.om,OM,Oman,Asia,Western Asia
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+5.21.5.130,4,-555721585,DNS Server: dynamic.isp.ooredoo.om,OM,Oman,Asia,Western Asia
+5.37.56.186,4,-51720152,omaninfo.om,OM,Oman,Asia,Western Asia
+5.37.56.184,4,-51720152,omannews.gov.om,OM,Oman,Asia,Western Asia
+82.178.33.35,4,1170807,Ookla Speedtest Server 1717: speedtest.omantel.om,OM,Oman,Asia,Western Asia
+134.0.216.42,4,-2725951,Ookla Speedtest Server 4570: speedtest2.omantel.om,OM,Oman,Asia,Western Asia
+185.186.206.21,4,773,Ookla Speedtest Server 22385: speed.omren.om,OM,Oman,Asia,Western Asia

@@ -1,6 +1,12 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-41.220.16.236,4,jsmconsulting.co.zw,ZW,Zimbabwe,Africa,Sub-Saharan Africa
-197.211.236.25,4,Ookla Speedtest server: harare.speedtest.co.zw,ZW,Zimbabwe,Africa,Sub-Saharan Africa
-197.221.227.139,4,zim.gov.zw,ZW,Zimbabwe,Africa,Sub-Saharan Africa
-196.44.176.146,4,zimsec.co.zw,ZW,Zimbabwe,Africa,Sub-Saharan Africa
-196.43.100.105,4,zimsec.co.zw,ZW,Zimbabwe,Africa,Sub-Saharan Africa
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+41.216.125.179,4,57,DNS Server: 41.216.125.179.liquidtelecom.net,ZW,Zimbabwe,Africa,Sub-Saharan Africa
+196.27.107.192,4,-1102,DNS Server: 517291.customer.zol.co.zw,ZW,Zimbabwe,Africa,Sub-Saharan Africa
+197.211.217.72,4,28,DNS Server: 518646.customer.zol.co.zw,ZW,Zimbabwe,Africa,Sub-Saharan Africa
+41.220.16.236,4,47,jsmconsulting.co.zw,ZW,Zimbabwe,Africa,Sub-Saharan Africa
+197.221.227.149,4,11,mohcc.gov.zw,ZW,Zimbabwe,Africa,Sub-Saharan Africa
+196.43.100.34,4,571625,Ookla Speedtest Server 61087: speedtest.utande.co.zw,ZW,Zimbabwe,Africa,Sub-Saharan Africa
+197.211.236.25,4,338,Ookla Speedtest Server: harare.speedtest.co.zw,ZW,Zimbabwe,Africa,Sub-Saharan Africa
+196.43.100.220,4,13,utande.co.zw,ZW,Zimbabwe,Africa,Sub-Saharan Africa
+197.221.227.139,4,9,zim.gov.zw,ZW,Zimbabwe,Africa,Sub-Saharan Africa
+196.44.176.146,4,1990606,zimsec.co.zw,ZW,Zimbabwe,Africa,Sub-Saharan Africa
+196.43.100.105,4,1453115,zimsec.co.zw,ZW,Zimbabwe,Africa,Sub-Saharan Africa

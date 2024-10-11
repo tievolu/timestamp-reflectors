@@ -1,9 +1,55 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-199.217.113.218,4,last-memories.com,VE,Venezuela,Americas,Latin America and the Caribbean
-192.99.91.196,4,muimperio.site,VE,Venezuela,Americas,Latin America and the Caribbean
-150.185.5.100,4,Ookla Speedtest server: speedtest1.reacciun.ve,VE,Venezuela,Americas,Latin America and the Caribbean
-190.111.120.15,4,Ookla Speedtest server: www.ewinet.com,VE,Venezuela,Americas,Latin America and the Caribbean
-158.69.184.12,4,prouditaliancook.com,VE,Venezuela,Americas,Latin America and the Caribbean
-190.9.128.241,4,radiomundial.com.ve,VE,Venezuela,Americas,Latin America and the Caribbean
-158.69.184.15,4,sidewalkshoes.com,VE,Venezuela,Americas,Latin America and the Caribbean
-159.90.100.206,4,usb.ve,VE,Venezuela,Americas,Latin America and the Caribbean
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+186.166.142.196,4,-645736153,DNS Server: 186-166-142-196.genericrev.telcel.net.ve,VE,Venezuela,Americas,Latin America and the Caribbean
+190.120.250.221,4,62,DNS Server: 190-120-250-221.tvcablelitoral.com,VE,Venezuela,Americas,Latin America and the Caribbean
+190.94.212.10,4,-20485150,DNS Server: 190-94-212-10.ifxnw.com.ve,VE,Venezuela,Americas,Latin America and the Caribbean
+190.94.247.154,4,-2,DNS Server: 190-94-247-154.ifxnw.com.ve,VE,Venezuela,Americas,Latin America and the Caribbean
+200.44.190.134,4,17,DNS Server: 190.44.200.134.estatic.cantv.net,VE,Venezuela,Americas,Latin America and the Caribbean
+190.75.143.216,4,1324,DNS Server: 190.75-143-216.dyn.dsl.cantv.net,VE,Venezuela,Americas,Latin America and the Caribbean
+200.44.171.178,4,1,DNS Server: 200-44-171-178.genericrev.cantv.net,VE,Venezuela,Americas,Latin America and the Caribbean
+201.234.236.126,4,8539,DNS Server: 201-234-236.static.gblx.net,VE,Venezuela,Americas,Latin America and the Caribbean
+190.205.109.36,4,27,DNS Server: dns1.enf.edu.ve.109.205.190.in-addr.arpa,VE,Venezuela,Americas,Latin America and the Caribbean
+200.35.106.210,4,281,DNS Server: mx.tramas.com.ve,VE,Venezuela,Americas,Latin America and the Caribbean
+200.44.50.150,4,10452,ine.gov.ve,VE,Venezuela,Americas,Latin America and the Caribbean
+199.217.113.218,4,1,last-memories.com,VE,Venezuela,Americas,Latin America and the Caribbean
+167.114.188.133,4,-4237978,oerlive.com,VE,Venezuela,Americas,Latin America and the Caribbean
+38.51.157.5,4,366,Ookla Speedtest Server 35041: barquisimeto.somosthunder.net,VE,Venezuela,Americas,Latin America and the Caribbean
+206.85.164.2,4,405,Ookla Speedtest Server 41533: speedguanare.somosthunder.net,VE,Venezuela,Americas,Latin America and the Caribbean
+45.236.31.199,4,388,Ookla Speedtest Server 44132: speedtest.nervicom.net,VE,Venezuela,Americas,Latin America and the Caribbean
+204.157.96.13,4,245,Ookla Speedtest Server 45626: st1.barquisimeto.intercomservicios.com,VE,Venezuela,Americas,Latin America and the Caribbean
+45.187.7.70,4,264,Ookla Speedtest Server 52361: speedtesttvzamora.com,VE,Venezuela,Americas,Latin America and the Caribbean
+206.85.166.4,4,275,Ookla Speedtest Server 52503: speedtucacas.somosthunder.net,VE,Venezuela,Americas,Latin America and the Caribbean
+186.166.142.179,4,241,Ookla Speedtest Server 52505: speedsanfelipe.somosthunder.net,VE,Venezuela,Americas,Latin America and the Caribbean
+181.233.89.114,4,184,Ookla Speedtest Server 53107: speedtest.interancha.net,VE,Venezuela,Americas,Latin America and the Caribbean
+45.186.203.114,4,237,Ookla Speedtest Server 53826: speedtest2.fulldata.com.ve,VE,Venezuela,Americas,Latin America and the Caribbean
+45.179.164.186,4,133,Ookla Speedtest Server 55405: speedtest.icarosoft.com,VE,Venezuela,Americas,Latin America and the Caribbean
+200.59.184.52,4,214,Ookla Speedtest Server 55898: speedtest.nitr0.net,VE,Venezuela,Americas,Latin America and the Caribbean
+189.127.167.18,4,225,Ookla Speedtest Server 56048: speedtest-telecom.ddns.net,VE,Venezuela,Americas,Latin America and the Caribbean
+190.89.30.202,4,303,Ookla Speedtest Server 57305: speedtest-maracay.fibextelecom.net,VE,Venezuela,Americas,Latin America and the Caribbean
+156.235.91.38,4,299,Ookla Speedtest Server 57313: st-01.kmnet.com.ve,VE,Venezuela,Americas,Latin America and the Caribbean
+38.254.112.113,4,345,Ookla Speedtest Server 57413: speedtest.techpre.io,VE,Venezuela,Americas,Latin America and the Caribbean
+45.7.141.220,4,291,Ookla Speedtest Server 57441: speedtest.vidanet.com.ve,VE,Venezuela,Americas,Latin America and the Caribbean
+170.81.144.18,4,291,Ookla Speedtest Server 58134: speedtest2.datalink.com.ve,VE,Venezuela,Americas,Latin America and the Caribbean
+190.97.252.57,4,285,Ookla Speedtest Server 58147: speed.intersatlosandes.com,VE,Venezuela,Americas,Latin America and the Caribbean
+179.63.36.72,4,267,Ookla Speedtest Server 58247: testookla.powerlink.com.ve,VE,Venezuela,Americas,Latin America and the Caribbean
+38.10.80.127,4,416,Ookla Speedtest Server 58446: speedtest.servidatatelecom.com,VE,Venezuela,Americas,Latin America and the Caribbean
+38.7.7.0,4,356,Ookla Speedtest Server 58751: speedtest.mservica.com,VE,Venezuela,Americas,Latin America and the Caribbean
+138.59.10.238,4,384,Ookla Speedtest Server 58916: speedtest4.fonet.com.ve,VE,Venezuela,Americas,Latin America and the Caribbean
+190.121.236.116,4,283,Ookla Speedtest Server 59087: okltstsrv.sucrenet.com.ve,VE,Venezuela,Americas,Latin America and the Caribbean
+190.97.238.27,4,236,Ookla Speedtest Server 59346: speedtest-porlamar.ddns.net,VE,Venezuela,Americas,Latin America and the Caribbean
+38.50.162.128,4,333,Ookla Speedtest Server 59904: speedtest.redeselias.com,VE,Venezuela,Americas,Latin America and the Caribbean
+38.252.184.3,4,272,Ookla Speedtest Server 60344: cabimas.4net.com.ve,VE,Venezuela,Americas,Latin America and the Caribbean
+190.97.237.14,4,152664,Ookla Speedtest Server 61246: speedchichiriviche.somosthunder.net,VE,Venezuela,Americas,Latin America and the Caribbean
+143.255.84.91,4,196,Ookla Speedtest Server 62311: speedtest.vnet.com.ve,VE,Venezuela,Americas,Latin America and the Caribbean
+138.122.5.97,4,3041,Ookla Speedtest Server 62887: speedlanonlineca.yapagos.com,VE,Venezuela,Americas,Latin America and the Caribbean
+8.243.249.94,4,248,Ookla Speedtest Server 62896: speedtest.latinamericancable.com,VE,Venezuela,Americas,Latin America and the Caribbean
+201.249.152.178,4,13327,Ookla Speedtest Server 63157: speed.redmovil.net,VE,Venezuela,Americas,Latin America and the Caribbean
+38.255.85.102,4,304,Ookla Speedtest Server 63533: speedtest.latinatvdosca.net,VE,Venezuela,Americas,Latin America and the Caribbean
+38.188.200.3,4,15763,Ookla Speedtest Server 63723: speedtest.fiveninternet.com,VE,Venezuela,Americas,Latin America and the Caribbean
+190.103.31.10,4,327,Ookla Speedtest Server 63967: speedtest-valencia.fibextelecom.net,VE,Venezuela,Americas,Latin America and the Caribbean
+38.196.244.2,4,370,Ookla Speedtest Server 64464: speedtest.holanet.com.ve,VE,Venezuela,Americas,Latin America and the Caribbean
+38.51.178.141,4,288,Ookla Speedtest Server: speedsanfernando.somosthunder.net,VE,Venezuela,Americas,Latin America and the Caribbean
+190.111.120.15,4,1,Ookla Speedtest Server: www.ewinet.com,VE,Venezuela,Americas,Latin America and the Caribbean
+158.69.184.12,4,11,prouditaliancook.com,VE,Venezuela,Americas,Latin America and the Caribbean
+190.9.128.241,4,12,radiomundial.com.ve,VE,Venezuela,Americas,Latin America and the Caribbean
+167.114.188.212,4,16,recantodasletras.com.br,VE,Venezuela,Americas,Latin America and the Caribbean
+159.90.100.206,4,1201900,usb.ve,VE,Venezuela,Americas,Latin America and the Caribbean

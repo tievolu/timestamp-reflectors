@@ -1,209 +1,466 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-35.229.134.56,4,1680380.com,TW,Taiwan,Asia,Eastern Asia
-34.80.142.182,4,1687370.com,TW,Taiwan,Asia,Eastern Asia
-103.118.26.35,4,31app.com,TW,Taiwan,Asia,Eastern Asia
-103.98.17.232,4,58qiqu.com,TW,Taiwan,Asia,Eastern Asia
-35.201.177.191,4,7-eleven.com.ph,TW,Taiwan,Asia,Eastern Asia
-104.199.182.123,4,882531.com,TW,Taiwan,Asia,Eastern Asia
-203.204.183.147,4,8fun.net,TW,Taiwan,Asia,Eastern Asia
-125.227.253.159,4,abonmax.com.tw,TW,Taiwan,Asia,Eastern Asia
-103.118.26.155,4,acd.com.tw,TW,Taiwan,Asia,Eastern Asia
-34.80.143.74,4,achang.tw,TW,Taiwan,Asia,Eastern Asia
-35.229.219.183,4,adimohinimohankanjilal.com,TW,Taiwan,Asia,Eastern Asia
-103.118.24.39,4,akagrant.com,TW,Taiwan,Asia,Eastern Asia
-210.65.47.53,4,amtb.tw,TW,Taiwan,Asia,Eastern Asia
-60.248.187.195,4,andestech.com,TW,Taiwan,Asia,Eastern Asia
-210.244.72.15,4,archi.com.tw,TW,Taiwan,Asia,Eastern Asia
-210.65.113.35,4,asuswebstorage.com,TW,Taiwan,Asia,Eastern Asia
-104.155.238.199,4,atbearing.com.tw,TW,Taiwan,Asia,Eastern Asia
-61.221.12.18,4,autism.org.tw,TW,Taiwan,Asia,Eastern Asia
-211.20.187.118,4,b2bmit.com,TW,Taiwan,Asia,Eastern Asia
-104.199.182.238,4,backpackers.com.tw,TW,Taiwan,Asia,Eastern Asia
-35.221.204.229,4,bazubu.com,TW,Taiwan,Asia,Eastern Asia
-104.199.162.225,4,bbkz.com,TW,Taiwan,Asia,Eastern Asia
-118.163.203.164,4,beautiful-spacetime.com,TW,Taiwan,Asia,Eastern Asia
-35.194.237.172,4,best-legal.jp,TW,Taiwan,Asia,Eastern Asia
-103.144.33.71,4,bghut.com,TW,Taiwan,Asia,Eastern Asia
-104.199.146.31,4,bioasiataiwan.com,TW,Taiwan,Asia,Eastern Asia
-103.118.24.38,4,bizph.com,TW,Taiwan,Asia,Eastern Asia
-104.155.230.5,4,bookfere.com,TW,Taiwan,Asia,Eastern Asia
-210.59.219.18,4,bridgewell.com,TW,Taiwan,Asia,Eastern Asia
-104.199.214.191,4,brilio.net,TW,Taiwan,Asia,Eastern Asia
-112.121.107.62,4,businessweekly.com.tw,TW,Taiwan,Asia,Eastern Asia
-211.23.95.250,4,carstuff.com.tw,TW,Taiwan,Asia,Eastern Asia
-103.17.9.237,4,catholic.org.tw,TW,Taiwan,Asia,Eastern Asia
-103.129.178.18,4,chung-pei.com,TW,Taiwan,Asia,Eastern Asia
-35.234.49.191,4,cmmedia.com.tw,TW,Taiwan,Asia,Eastern Asia
-103.129.176.84,4,colofor.com.tw,TW,Taiwan,Asia,Eastern Asia
-61.221.12.52,4,coolaler.com,TW,Taiwan,Asia,Eastern Asia
-140.112.30.240,4,csie.org,TW,Taiwan,Asia,Eastern Asia
-35.194.185.226,4,ct.org.tw,TW,Taiwan,Asia,Eastern Asia
-210.65.88.201,4,ctc.com.tw,TW,Taiwan,Asia,Eastern Asia
-210.65.10.197,4,da-vinci.com.tw,TW,Taiwan,Asia,Eastern Asia
-112.121.121.186,4,darencademy.com,TW,Taiwan,Asia,Eastern Asia
-210.242.68.59,4,Data Communication Business Group,TW,Taiwan,Asia,Eastern Asia
-203.145.220.155,4,dataportal.asia,TW,Taiwan,Asia,Eastern Asia
-104.155.230.68,4,daviteq.com,TW,Taiwan,Asia,Eastern Asia
-103.1.221.109,4,dengren.com.tw,TW,Taiwan,Asia,Eastern Asia
-104.199.215.112,4,directrooms.com,TW,Taiwan,Asia,Eastern Asia
-103.222.251.50,4,dreye.com.cn,TW,Taiwan,Asia,Eastern Asia
-122.117.41.80,4,duckart.pro,TW,Taiwan,Asia,Eastern Asia
-103.116.15.88,4,dx.com.tw,TW,Taiwan,Asia,Eastern Asia
-211.20.51.44,4,e-quit.org,TW,Taiwan,Asia,Eastern Asia
-104.199.233.184,4,enermax.com.tw,TW,Taiwan,Asia,Eastern Asia
-219.84.168.188,4,eprice.com.hk,TW,Taiwan,Asia,Eastern Asia
-219.84.168.168,4,eprice.com.tw,TW,Taiwan,Asia,Eastern Asia
-122.117.2.250,4,everlead.com,TW,Taiwan,Asia,Eastern Asia
-210.242.49.19,4,f-2.com.tw,TW,Taiwan,Asia,Eastern Asia
-60.251.60.22,4,farmsbiotech.com,TW,Taiwan,Asia,Eastern Asia
-103.118.24.35,4,fftc.org.tw,TW,Taiwan,Asia,Eastern Asia
-220.135.0.149,4,fingermedia.tw,TW,Taiwan,Asia,Eastern Asia
-61.221.35.28,4,fl-ad.com,TW,Taiwan,Asia,Eastern Asia
-107.167.182.246,4,forbeautylove.com,TW,Taiwan,Asia,Eastern Asia
-59.120.254.212,4,foxpro.com.tw,TW,Taiwan,Asia,Eastern Asia
-103.129.178.72,4,fswl.com.hk,TW,Taiwan,Asia,Eastern Asia
-122.146.41.161,4,gainward.com,TW,Taiwan,Asia,Eastern Asia
-61.222.15.159,4,gamania.com,TW,Taiwan,Asia,Eastern Asia
-34.80.246.181,4,gamebase.com.tw,TW,Taiwan,Asia,Eastern Asia
-103.138.106.47,4,gb-co.com.tw,TW,Taiwan,Asia,Eastern Asia
-203.205.137.76,4,gdtimg.com,TW,Taiwan,Asia,Eastern Asia
-203.205.137.181,4,gdtimg.com,TW,Taiwan,Asia,Eastern Asia
-203.205.136.80,4,gdtimg.com,TW,Taiwan,Asia,Eastern Asia
-60.251.58.173,4,genesyslogic.com.tw,TW,Taiwan,Asia,Eastern Asia
-203.69.102.15,4,giottos.com,TW,Taiwan,Asia,Eastern Asia
-210.242.25.172,4,goodtv.tv,TW,Taiwan,Asia,Eastern Asia
-35.234.39.85,4,greenpeace.org.cn,TW,Taiwan,Asia,Eastern Asia
-104.199.236.4,4,groupbuyforms.tw,TW,Taiwan,Asia,Eastern Asia
-118.194.253.217,4,gsoc.cn,TW,Taiwan,Asia,Eastern Asia
-130.211.253.109,4,gwangju2015.com,TW,Taiwan,Asia,Eastern Asia
-118.150.164.96,4,hamtalk.net,TW,Taiwan,Asia,Eastern Asia
-210.17.16.248,4,hemidemi.com,TW,Taiwan,Asia,Eastern Asia
-61.221.12.13,4,herenow.city,TW,Taiwan,Asia,Eastern Asia
-103.118.27.64,4,hi940.com.tw,TW,Taiwan,Asia,Eastern Asia
-103.136.211.216,4,ho.net.tw,TW,Taiwan,Asia,Eastern Asia
-35.234.58.5,4,hockeycurve.com,TW,Taiwan,Asia,Eastern Asia
-118.163.63.158,4,hsihou.com,TW,Taiwan,Asia,Eastern Asia
-219.87.145.180,4,ibase.com.tw,TW,Taiwan,Asia,Eastern Asia
-192.83.191.8,4,isu.edu.tw,TW,Taiwan,Asia,Eastern Asia
-211.75.158.225,4,iware.com.tw,TW,Taiwan,Asia,Eastern Asia
-122.116.240.223,4,jct.tw,TW,Taiwan,Asia,Eastern Asia
-211.72.198.2,4,jiye.com.tw,TW,Taiwan,Asia,Eastern Asia
-60.251.42.10,4,jm168.tw,TW,Taiwan,Asia,Eastern Asia
-175.183.3.134,4,jofu.tw,TW,Taiwan,Asia,Eastern Asia
-59.120.131.6,4,joyso.cloud,TW,Taiwan,Asia,Eastern Asia
-203.74.71.12,4,kgibank.com,TW,Taiwan,Asia,Eastern Asia
-60.251.29.7,4,kgibank.com,TW,Taiwan,Asia,Eastern Asia
-128.14.237.126,4,kimi.com.tw,TW,Taiwan,Asia,Eastern Asia
-103.153.177.40,4,koc.com.tw,TW,Taiwan,Asia,Eastern Asia
-128.14.230.88,4,komoejoy.com,TW,Taiwan,Asia,Eastern Asia
-203.69.102.20,4,kotsms.com.tw,TW,Taiwan,Asia,Eastern Asia
-103.118.26.55,4,kuangta.com.tw,TW,Taiwan,Asia,Eastern Asia
-103.118.26.53,4,kuos.com,TW,Taiwan,Asia,Eastern Asia
-34.81.152.152,4,lia-roc.org.tw,TW,Taiwan,Asia,Eastern Asia
-140.114.89.237,4,linggle.com,TW,Taiwan,Asia,Eastern Asia
-60.249.179.122,4,lionfree.net,TW,Taiwan,Asia,Eastern Asia
-35.185.141.245,4,liskul.com,TW,Taiwan,Asia,Eastern Asia
-104.199.205.140,4,localplace.jp,TW,Taiwan,Asia,Eastern Asia
-202.39.210.46,4,lohasnet.tw,TW,Taiwan,Asia,Eastern Asia
-104.199.204.141,4,lokerjambi.info,TW,Taiwan,Asia,Eastern Asia
-175.181.38.134,4,longwin.com.tw,TW,Taiwan,Asia,Eastern Asia
-114.32.146.202,4,manyhit.com,TW,Taiwan,Asia,Eastern Asia
-104.155.219.139,4,mashup.com.tw,TW,Taiwan,Asia,Eastern Asia
-107.149.223.12,4,meijutt.net,TW,Taiwan,Asia,Eastern Asia
-103.129.178.130,4,meiman.org.tw,TW,Taiwan,Asia,Eastern Asia
-211.72.215.60,4,meritlilin.com,TW,Taiwan,Asia,Eastern Asia
-125.228.212.38,4,microsys.com.tw,TW,Taiwan,Asia,Eastern Asia
-113.196.154.168,4,mitac.com,TW,Taiwan,Asia,Eastern Asia
-45.121.50.90,4,mobileaction.com,TW,Taiwan,Asia,Eastern Asia
-35.194.215.179,4,mofang.com.tw,TW,Taiwan,Asia,Eastern Asia
-35.201.142.96,4,moneynet.com.tw,TW,Taiwan,Asia,Eastern Asia
-163.22.17.50,4,moztw.org,TW,Taiwan,Asia,Eastern Asia
-103.123.242.14,4,mylumens.com,TW,Taiwan,Asia,Eastern Asia
-113.196.137.217,4,navman.com,TW,Taiwan,Asia,Eastern Asia
-103.17.8.51,4,netete.com,TW,Taiwan,Asia,Eastern Asia
-104.199.165.123,4,neti.cc,TW,Taiwan,Asia,Eastern Asia
-104.199.204.72,4,neticrm.tw,TW,Taiwan,Asia,Eastern Asia
-113.196.55.130,4,New Century InfoComm Tech Co. Ltd.,TW,Taiwan,Asia,Eastern Asia
-203.69.141.26,4,nextmag.com.tw,TW,Taiwan,Asia,Eastern Asia
-59.124.223.222,4,nj192.com.tw,TW,Taiwan,Asia,Eastern Asia
-192.83.188.10,4,nmns.edu.tw,TW,Taiwan,Asia,Eastern Asia
-220.130.87.30,4,norbelbaby.com.tw,TW,Taiwan,Asia,Eastern Asia
-210.70.253.15,4,npu.edu.tw,TW,Taiwan,Asia,Eastern Asia
-140.118.31.99,4,ntust.edu.tw,TW,Taiwan,Asia,Eastern Asia
-123.195.238.110,4,Ookla Speedtest server: ct-sptest.kbro.com.tw,TW,Taiwan,Asia,Eastern Asia
-118.232.76.110,4,Ookla Speedtest server: fm-sptest.kbro.com.tw,TW,Taiwan,Asia,Eastern Asia
-118.232.78.110,4,Ookla Speedtest server: ks-sptest.kbro.com.tw,TW,Taiwan,Asia,Eastern Asia
-118.232.77.110,4,Ookla Speedtest server: nt-sptest.kbro.com.tw,TW,Taiwan,Asia,Eastern Asia
-123.195.236.110,4,Ookla Speedtest server: ntp-sptest.kbro.com.tw,TW,Taiwan,Asia,Eastern Asia
-60.199.206.252,4,Ookla Speedtest server: speedtest.anet.net.tw,TW,Taiwan,Asia,Eastern Asia
-211.77.43.1,4,Ookla Speedtest server: spt1.seed.net.tw,TW,Taiwan,Asia,Eastern Asia
-211.77.43.4,4,Ookla Speedtest server: spthc1.seed.net.tw,TW,Taiwan,Asia,Eastern Asia
-211.77.43.10,4,Ookla Speedtest server: sptpt1.seed.net.tw,TW,Taiwan,Asia,Eastern Asia
-211.77.43.8,4,Ookla Speedtest server: spttn1.seed.net.tw,TW,Taiwan,Asia,Eastern Asia
-210.69.123.228,4,otop.tw,TW,Taiwan,Asia,Eastern Asia
-103.118.26.7,4,ownlines.com,TW,Taiwan,Asia,Eastern Asia
-223.27.52.19,4,paper88.com.tw,TW,Taiwan,Asia,Eastern Asia
-60.250.107.110,4,patriotmemory.com,TW,Taiwan,Asia,Eastern Asia
-118.163.222.239,4,pc119.com.tw,TW,Taiwan,Asia,Eastern Asia
-140.137.1.17,4,pccu.edu.tw,TW,Taiwan,Asia,Eastern Asia
-112.121.106.199,4,photosharp.com.tw,TW,Taiwan,Asia,Eastern Asia
-202.39.234.47,4,phpbb-tw.net,TW,Taiwan,Asia,Eastern Asia
-103.118.26.99,4,piejade.com,TW,Taiwan,Asia,Eastern Asia
-59.120.118.168,4,ppt.cc,TW,Taiwan,Asia,Eastern Asia
-140.112.172.5,4,ptt.cc,TW,Taiwan,Asia,Eastern Asia
-140.112.172.11,4,ptt.cc,TW,Taiwan,Asia,Eastern Asia
-140.112.172.1,4,ptt.cc,TW,Taiwan,Asia,Eastern Asia
-140.112.172.2,4,ptt.cc,TW,Taiwan,Asia,Eastern Asia
-140.112.172.3,4,ptt.cc,TW,Taiwan,Asia,Eastern Asia
-140.112.172.4,4,ptt.cc,TW,Taiwan,Asia,Eastern Asia
-104.199.128.210,4,ramayanawaterpark.com,TW,Taiwan,Asia,Eastern Asia
-35.185.130.121,4,reurl.cc,TW,Taiwan,Asia,Eastern Asia
-35.221.195.135,4,salvationarmy.org.hk,TW,Taiwan,Asia,Eastern Asia
-210.59.219.77,4,scupio.com,TW,Taiwan,Asia,Eastern Asia
-210.61.2.247,4,secda.info,TW,Taiwan,Asia,Eastern Asia
-203.205.136.157,4,sf-international.com,TW,Taiwan,Asia,Eastern Asia
-103.129.178.20,4,shinko-tw.com,TW,Taiwan,Asia,Eastern Asia
-211.20.50.36,4,soe-parrot.com,TW,Taiwan,Asia,Eastern Asia
-103.129.176.146,4,spot-digital.com.tw,TW,Taiwan,Asia,Eastern Asia
-43.254.19.58,4,steachs.com,TW,Taiwan,Asia,Eastern Asia
-163.16.5.180,4,study-area.org,TW,Taiwan,Asia,Eastern Asia
-113.196.136.168,4,sunplus.com,TW,Taiwan,Asia,Eastern Asia
-35.221.158.12,4,superbowl-commercials.org,TW,Taiwan,Asia,Eastern Asia
-203.69.82.11,4,tada2002.org.tw,TW,Taiwan,Asia,Eastern Asia
-34.80.73.97,4,taishinart.org.tw,TW,Taiwan,Asia,Eastern Asia
-101.101.101.101,4,Taiwan Network Information Center,TW,Taiwan,Asia,Eastern Asia
-101.102.103.104,4,Taiwan Network Information Center,TW,Taiwan,Asia,Eastern Asia
-35.185.142.145,4,taiwan-healthcare.org,TW,Taiwan,Asia,Eastern Asia
-114.34.39.114,4,taiwanschoolnet.org,TW,Taiwan,Asia,Eastern Asia
-104.199.225.102,4,taiwantimes.com.tw,TW,Taiwan,Asia,Eastern Asia
-125.228.135.114,4,talk.tw,TW,Taiwan,Asia,Eastern Asia
-59.125.33.123,4,tattpe.org.tw,TW,Taiwan,Asia,Eastern Asia
-61.218.129.139,4,tcbbank.com.tw,TW,Taiwan,Asia,Eastern Asia
-61.66.121.235,4,tcbbank.com.tw,TW,Taiwan,Asia,Eastern Asia
-60.248.81.189,4,terasic.com.tw,TW,Taiwan,Asia,Eastern Asia
-104.199.212.185,4,thegrounds.com.au,TW,Taiwan,Asia,Eastern Asia
-59.124.185.58,4,theonestyle.com,TW,Taiwan,Asia,Eastern Asia
-60.249.45.229,4,tou-ming.com,TW,Taiwan,Asia,Eastern Asia
-103.118.26.245,4,tpof.org,TW,Taiwan,Asia,Eastern Asia
-220.128.205.242,4,transcend.com.tw,TW,Taiwan,Asia,Eastern Asia
-59.125.33.57,4,trolley-store.com.tw,TW,Taiwan,Asia,Eastern Asia
-34.80.36.145,4,twmotel.com,TW,Taiwan,Asia,Eastern Asia
-203.145.220.59,4,twtainan.net,TW,Taiwan,Asia,Eastern Asia
-113.196.154.133,4,tyan.com,TW,Taiwan,Asia,Eastern Asia
-59.125.103.205,4,uforadio.com.tw,TW,Taiwan,Asia,Eastern Asia
-122.117.102.125,4,uio.com.tw,TW,Taiwan,Asia,Eastern Asia
-35.229.134.237,4,unbox.tw,TW,Taiwan,Asia,Eastern Asia
-61.219.98.250,4,unisonic.com.tw,TW,Taiwan,Asia,Eastern Asia
-34.80.38.188,4,uukt.com.tw,TW,Taiwan,Asia,Eastern Asia
-203.205.137.236,4,v.qq.com,TW,Taiwan,Asia,Eastern Asia
-34.80.170.74,4,vigattintourism.com,TW,Taiwan,Asia,Eastern Asia
-34.80.64.223,4,vuclip.com,TW,Taiwan,Asia,Eastern Asia
-211.21.137.6,4,waibel.com.tw,TW,Taiwan,Asia,Eastern Asia
-59.125.176.83,4,wanyuantemple.tw,TW,Taiwan,Asia,Eastern Asia
-125.227.135.211,4,watts-studio.com,TW,Taiwan,Asia,Eastern Asia
-103.138.106.62,4,why3s.cc,TW,Taiwan,Asia,Eastern Asia
-60.245.34.225,4,winhill.com.tw,TW,Taiwan,Asia,Eastern Asia
-104.199.239.202,4,wuwuji.tw,TW,Taiwan,Asia,Eastern Asia
-125.227.94.21,4,ysponder.com.tw,TW,Taiwan,Asia,Eastern Asia
-103.129.178.67,4,yu-kuang.com.tw,TW,Taiwan,Asia,Eastern Asia
-154.55.64.52,4,yxfrx.com,TW,Taiwan,Asia,Eastern Asia
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+35.229.134.56,4,6,1680380.com,TW,Taiwan,Asia,Eastern Asia
+34.80.142.182,4,8,1687370.com,TW,Taiwan,Asia,Eastern Asia
+103.118.26.35,4,11,31app.com,TW,Taiwan,Asia,Eastern Asia
+103.98.17.232,4,2,58qiqu.com,TW,Taiwan,Asia,Eastern Asia
+35.201.177.191,4,4,7-eleven.com.ph,TW,Taiwan,Asia,Eastern Asia
+35.221.162.74,4,3,882531.com,TW,Taiwan,Asia,Eastern Asia
+203.204.183.147,4,20,8fun.net,TW,Taiwan,Asia,Eastern Asia
+125.227.253.159,4,-368,abonmax.com.tw,TW,Taiwan,Asia,Eastern Asia
+103.118.26.155,4,21,acd.com.tw,TW,Taiwan,Asia,Eastern Asia
+34.80.143.74,4,18,achang.tw,TW,Taiwan,Asia,Eastern Asia
+35.229.219.183,4,7,adimohinimohankanjilal.com,TW,Taiwan,Asia,Eastern Asia
+103.118.24.39,4,14101,akagrant.com,TW,Taiwan,Asia,Eastern Asia
+210.65.47.53,4,0,amtb.tw,TW,Taiwan,Asia,Eastern Asia
+210.244.72.15,4,10624,archi.com.tw,TW,Taiwan,Asia,Eastern Asia
+210.65.113.35,4,0,asuswebstorage.com,TW,Taiwan,Asia,Eastern Asia
+61.221.12.18,4,32,autism.org.tw,TW,Taiwan,Asia,Eastern Asia
+211.20.187.118,4,-162,b2bmit.com,TW,Taiwan,Asia,Eastern Asia
+104.199.182.238,4,7,backpackers.com.tw,TW,Taiwan,Asia,Eastern Asia
+35.221.204.229,4,54,bazubu.com,TW,Taiwan,Asia,Eastern Asia
+104.199.162.225,4,10,bbkz.com,TW,Taiwan,Asia,Eastern Asia
+118.163.203.164,4,-10,beautiful-spacetime.com,TW,Taiwan,Asia,Eastern Asia
+35.194.237.172,4,6,best-legal.jp,TW,Taiwan,Asia,Eastern Asia
+103.144.33.71,4,8,bghut.com,TW,Taiwan,Asia,Eastern Asia
+104.199.146.31,4,3,bioasiataiwan.com,TW,Taiwan,Asia,Eastern Asia
+103.118.24.38,4,58,bizph.com,TW,Taiwan,Asia,Eastern Asia
+104.155.230.5,4,6,bookfere.com,TW,Taiwan,Asia,Eastern Asia
+210.59.219.18,4,5,bridgewell.com,TW,Taiwan,Asia,Eastern Asia
+104.199.214.191,4,28,brilio.net,TW,Taiwan,Asia,Eastern Asia
+112.121.107.62,4,4,businessweekly.com.tw,TW,Taiwan,Asia,Eastern Asia
+211.23.95.250,4,4,carstuff.com.tw,TW,Taiwan,Asia,Eastern Asia
+103.17.9.237,4,1542,catholic.org.tw,TW,Taiwan,Asia,Eastern Asia
+103.129.178.18,4,0,chung-pei.com,TW,Taiwan,Asia,Eastern Asia
+35.234.49.191,4,4,cmmedia.com.tw,TW,Taiwan,Asia,Eastern Asia
+103.129.176.84,4,2564,colofor.com.tw,TW,Taiwan,Asia,Eastern Asia
+61.221.12.52,4,2,coolaler.com,TW,Taiwan,Asia,Eastern Asia
+140.112.30.240,4,16,csie.org,TW,Taiwan,Asia,Eastern Asia
+35.194.185.226,4,2,ct.org.tw,TW,Taiwan,Asia,Eastern Asia
+210.65.10.197,4,34994,da-vinci.com.tw,TW,Taiwan,Asia,Eastern Asia
+112.121.121.186,4,-4,darencademy.com,TW,Taiwan,Asia,Eastern Asia
+203.145.220.155,4,20,dataportal.asia,TW,Taiwan,Asia,Eastern Asia
+104.155.230.68,4,6,daviteq.com,TW,Taiwan,Asia,Eastern Asia
+1.160.203.160,4,2188,DNS Server: 1-160-203-160.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.160.208.251,4,-28801347,DNS Server: 1-160-208-251.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.160.236.166,4,-28801605,DNS Server: 1-160-236-166.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.160.241.190,4,301,DNS Server: 1-160-241-190.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.161.112.161,4,-28801528,DNS Server: 1-161-112-161.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.161.116.85,4,16791,DNS Server: 1-161-116-85.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.161.124.248,4,-28799957,DNS Server: 1-161-124-248.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.161.206.237,4,-28801180,DNS Server: 1-161-206-237.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.161.67.235,4,73,DNS Server: 1-161-67-235.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.161.73.202,4,50,DNS Server: 1-161-73-202.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.161.74.82,4,394,DNS Server: 1-161-74-82.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.161.76.240,4,30,DNS Server: 1-161-76-240.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.162.111.11,4,-87,DNS Server: 1-162-111-11.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.162.160.145,4,38,DNS Server: 1-162-160-145.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.162.232.134,4,-150991,DNS Server: 1-162-232-134.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.162.60.2,4,264157,DNS Server: 1-162-60-2.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.163.10.161,4,9157959,DNS Server: 1-163-10-161.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.163.112.77,4,-17936,DNS Server: 1-163-112-77.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.163.116.192,4,2007,DNS Server: 1-163-116-192.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.163.118.29,4,305,DNS Server: 1-163-118-29.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.163.121.36,4,1842,DNS Server: 1-163-121-36.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.163.128.138,4,-28800110,DNS Server: 1-163-128-138.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.163.144.129,4,36,DNS Server: 1-163-144-129.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.163.18.45,4,44,DNS Server: 1-163-18-45.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.163.217.116,4,1451,DNS Server: 1-163-217-116.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.163.221.245,4,12,DNS Server: 1-163-221-245.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.163.45.130,4,257,DNS Server: 1-163-45-130.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.163.53.52,4,1579,DNS Server: 1-163-53-52.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.163.82.130,4,1879,DNS Server: 1-163-82-130.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.163.85.8,4,1576,DNS Server: 1-163-85-8.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.163.87.146,4,-28801080,DNS Server: 1-163-87-146.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.163.91.124,4,344,DNS Server: 1-163-91-124.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.163.99.234,4,1530,DNS Server: 1-163-99-234.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.164.103.15,4,22,DNS Server: 1-164-103-15.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.164.12.228,4,-53,DNS Server: 1-164-12-228.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.164.13.74,4,47,DNS Server: 1-164-13-74.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.164.160.195,4,-28803423,DNS Server: 1-164-160-195.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.164.224.120,4,2046,DNS Server: 1-164-224-120.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.164.246.100,4,-28803793,DNS Server: 1-164-246-100.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.164.250.8,4,200,DNS Server: 1-164-250-8.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.164.46.40,4,-118,DNS Server: 1-164-46-40.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.164.47.121,4,3753,DNS Server: 1-164-47-121.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.164.84.31,4,-28800187,DNS Server: 1-164-84-31.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.165.109.122,4,1812,DNS Server: 1-165-109-122.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.165.119.247,4,26,DNS Server: 1-165-119-247.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.165.132.227,4,79,DNS Server: 1-165-132-227.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.165.139.196,4,2125,DNS Server: 1-165-139-196.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.165.161.82,4,1701,DNS Server: 1-165-161-82.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.165.206.119,4,-28801017,DNS Server: 1-165-206-119.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.165.207.91,4,461,DNS Server: 1-165-207-91.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.165.71.245,4,60,DNS Server: 1-165-71-245.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.165.71.62,4,-113633,DNS Server: 1-165-71-62.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.168.103.181,4,545,DNS Server: 1-168-103-181.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.168.137.52,4,-28800411,DNS Server: 1-168-137-52.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.168.142.151,4,1656,DNS Server: 1-168-142-151.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.168.18.227,4,307,DNS Server: 1-168-18-227.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.168.202.187,4,-28799984,DNS Server: 1-168-202-187.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.168.215.109,4,-28800217,DNS Server: 1-168-215-109.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.168.226.195,4,2216,DNS Server: 1-168-226-195.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.168.228.19,4,191,DNS Server: 1-168-228-19.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.168.229.130,4,441,DNS Server: 1-168-229-130.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.168.24.51,4,1707,DNS Server: 1-168-24-51.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.168.245.230,4,45070,DNS Server: 1-168-245-230.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.168.250.26,4,1524,DNS Server: 1-168-250-26.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.168.3.6,4,1,DNS Server: 1-168-3-6.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.168.38.147,4,-635047690,DNS Server: 1-168-38-147.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.168.6.24,4,-28802359,DNS Server: 1-168-6-24.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.168.78.113,4,509,DNS Server: 1-168-78-113.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.168.97.101,4,694,DNS Server: 1-168-97-101.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.169.152.96,4,367,DNS Server: 1-169-152-96.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.169.155.239,4,561,DNS Server: 1-169-155-239.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.169.187.28,4,-4416064,DNS Server: 1-169-187-28.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.169.231.211,4,39,DNS Server: 1-169-231-211.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.169.238.225,4,82,DNS Server: 1-169-238-225.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.170.109.114,4,-28800120,DNS Server: 1-170-109-114.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.170.109.31,4,1552,DNS Server: 1-170-109-31.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.170.116.145,4,85,DNS Server: 1-170-116-145.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.170.131.230,4,48,DNS Server: 1-170-131-230.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.170.162.221,4,417,DNS Server: 1-170-162-221.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.170.164.42,4,187,DNS Server: 1-170-164-42.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.170.172.242,4,2,DNS Server: 1-170-172-242.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.170.209.100,4,-2978369551,DNS Server: 1-170-209-100.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.170.248.131,4,612,DNS Server: 1-170-248-131.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.170.36.148,4,89774,DNS Server: 1-170-36-148.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.170.69.223,4,157,DNS Server: 1-170-69-223.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.170.74.143,4,33,DNS Server: 1-170-74-143.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.170.80.130,4,-28799414,DNS Server: 1-170-80-130.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.170.81.222,4,1855,DNS Server: 1-170-81-222.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.170.83.123,4,1669,DNS Server: 1-170-83-123.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.170.84.216,4,140891,DNS Server: 1-170-84-216.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.170.96.73,4,-28800033,DNS Server: 1-170-96-73.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.170.98.115,4,-121,DNS Server: 1-170-98-115.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.171.116.142,4,8,DNS Server: 1-171-116-142.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.171.117.163,4,-226,DNS Server: 1-171-117-163.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.171.130.152,4,-212,DNS Server: 1-171-130-152.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.171.136.59,4,-263,DNS Server: 1-171-136-59.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.171.19.160,4,-119,DNS Server: 1-171-19-160.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.171.199.120,4,91,DNS Server: 1-171-199-120.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.171.20.167,4,1545,DNS Server: 1-171-20-167.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.171.23.72,4,-145,DNS Server: 1-171-23-72.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.171.245.57,4,2273,DNS Server: 1-171-245-57.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.171.32.217,4,-362,DNS Server: 1-171-32-217.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.171.56.200,4,1878,DNS Server: 1-171-56-200.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.172.102.65,4,-28795924,DNS Server: 1-172-102-65.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.172.115.215,4,290,DNS Server: 1-172-115-215.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.172.118.93,4,-191,DNS Server: 1-172-118-93.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.172.146.101,4,2127,DNS Server: 1-172-146-101.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.172.149.20,4,72874,DNS Server: 1-172-149-20.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.172.155.159,4,1891,DNS Server: 1-172-155-159.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.172.155.162,4,-176,DNS Server: 1-172-155-162.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.172.157.200,4,1931,DNS Server: 1-172-157-200.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.172.170.204,4,-28803847,DNS Server: 1-172-170-204.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.172.174.64,4,-26642594,DNS Server: 1-172-174-64.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.172.178.132,4,389,DNS Server: 1-172-178-132.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.172.179.226,4,19658,DNS Server: 1-172-179-226.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.172.18.160,4,562,DNS Server: 1-172-18-160.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.172.228.178,4,1971,DNS Server: 1-172-228-178.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.172.48.85,4,1885,DNS Server: 1-172-48-85.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.172.66.91,4,31,DNS Server: 1-172-66-91.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.172.92.100,4,579,DNS Server: 1-172-92-100.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.173.197.102,4,387,DNS Server: 1-173-197-102.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.173.197.202,4,22607,DNS Server: 1-173-197-202.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.173.93.104,4,61,DNS Server: 1-173-93-104.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.100.184,4,57,DNS Server: 1-174-100-184.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.101.131,4,141,DNS Server: 1-174-101-131.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.103.23,4,1732,DNS Server: 1-174-103-23.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.104.98,4,-178,DNS Server: 1-174-104-98.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.106.2,4,-140,DNS Server: 1-174-106-2.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.109.131,4,2178,DNS Server: 1-174-109-131.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.109.99,4,1857,DNS Server: 1-174-109-99.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.115.128,4,289,DNS Server: 1-174-115-128.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.115.168,4,-28800518,DNS Server: 1-174-115-168.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.116.45,4,1747,DNS Server: 1-174-116-45.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.117.128,4,2275,DNS Server: 1-174-117-128.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.129.11,4,1664,DNS Server: 1-174-129-11.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.129.208,4,2228,DNS Server: 1-174-129-208.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.13.137,4,62,DNS Server: 1-174-13-137.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.140.46,4,1817,DNS Server: 1-174-140-46.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.203.53,4,307,DNS Server: 1-174-203-53.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.29.111,4,1793,DNS Server: 1-174-29-111.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.33.115,4,26,DNS Server: 1-174-33-115.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.33.186,4,-3809457212,DNS Server: 1-174-33-186.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.34.101,4,98,DNS Server: 1-174-34-101.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.68.13,4,-28799356,DNS Server: 1-174-68-13.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.69.208,4,-28803530,DNS Server: 1-174-69-208.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.89.8,4,-28794343,DNS Server: 1-174-89-8.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.92.23,4,88,DNS Server: 1-174-92-23.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.174.95.187,4,-81359,DNS Server: 1-174-95-187.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.175.11.24,4,-28,DNS Server: 1-175-11-24.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.175.113.160,4,1405,DNS Server: 1-175-113-160.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.175.149.49,4,288,DNS Server: 1-175-149-49.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.175.158.210,4,2278,DNS Server: 1-175-158-210.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.175.184.180,4,-8403254,DNS Server: 1-175-184-180.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.175.192.61,4,574,DNS Server: 1-175-192-61.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.175.2.133,4,-30187647,DNS Server: 1-175-2-133.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.175.206.85,4,242,DNS Server: 1-175-206-85.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.175.48.208,4,215,DNS Server: 1-175-48-208.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.175.48.215,4,-141,DNS Server: 1-175-48-215.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.175.5.129,4,-142,DNS Server: 1-175-5-129.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.175.52.181,4,-28800023,DNS Server: 1-175-52-181.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.175.52.61,4,-38,DNS Server: 1-175-52-61.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.175.7.179,4,1526,DNS Server: 1-175-7-179.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.34.189.116,4,6,DNS Server: 1-34-189-116.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.34.253.240,4,-4230621,DNS Server: 1-34-253-240.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.34.29.58,4,2216,DNS Server: 1-34-29-58.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+1.34.58.188,4,-108679,DNS Server: 1-34-58-188.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+106.107.243.251,4,-28798957,DNS Server: 106.107.243.251.adsl.dynamic.seed.net.tw,TW,Taiwan,Asia,Eastern Asia
+111.243.151.164,4,-130,DNS Server: 111-243-151-164.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+111.254.27.209,4,-28802008,DNS Server: 111-254-27-209.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+111.255.97.111,4,2115,DNS Server: 111-255-97-111.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+111.70.15.133,4,110,DNS Server: 111-70-15-133.emome-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+111.70.20.131,4,1395,DNS Server: 111-70-20-131.emome-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+114.27.134.49,4,2062,DNS Server: 114-27-134-49.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+114.32.150.81,4,73787,DNS Server: 114-32-150-81.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+114.32.195.47,4,72,DNS Server: 114-32-195-47.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+114.32.196.168,4,5,DNS Server: 114-32-196-168.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+114.32.3.60,4,6,DNS Server: 114-32-3-60.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+114.33.103.75,4,1276,DNS Server: 114-33-103-75.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+114.33.236.233,4,-28962545,DNS Server: 114-33-236-233.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+114.33.53.151,4,-26048008,DNS Server: 114-33-53-151.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+114.35.171.139,4,-30287035,DNS Server: 114-35-171-139.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+114.35.183.212,4,-26861855,DNS Server: 114-35-183-212.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+114.36.2.10,4,-28801436,DNS Server: 114-36-2-10.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+114.42.201.212,4,-6279674,DNS Server: 114-42-201-212.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+118.163.188.168,4,21252014,DNS Server: 118-163-188-168.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+118.163.191.231,4,20002627,DNS Server: 118-163-191-231.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+118.163.191.7,4,9,DNS Server: 118-163-191-7.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+118.163.207.91,4,326,DNS Server: 118-163-207-91.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+118.163.245.5,4,25152804,DNS Server: 118-163-245-5.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+118.163.72.98,4,246908,DNS Server: 118-163-72-98.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+118.163.85.184,4,28,DNS Server: 118-163-85-184.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+118.166.14.219,4,6,DNS Server: 118-166-14-219.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+118.232.137.224,4,277,DNS Server: 118-232-137-224.dynamic.kbronet.com.tw,TW,Taiwan,Asia,Eastern Asia
+122.116.198.84,4,95,DNS Server: 122-116-198-84.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+122.117.143.113,4,106,DNS Server: 122-117-143-113.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+122.117.151.111,4,7,DNS Server: 122-117-151-111.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+123.110.129.114,4,-28807659,DNS Server: 123-110-129-114.best.dynamic.tbcnet.net.tw,TW,Taiwan,Asia,Eastern Asia
+123.205.156.16,4,16,DNS Server: 123-205-156-16.adsl.dynamic.seed.net.tw,TW,Taiwan,Asia,Eastern Asia
+123.241.252.251,4,11,DNS Server: 123-241-252-251.cctv.dynamic.tbcnet.net.tw,TW,Taiwan,Asia,Eastern Asia
+125.227.208.223,4,-68,DNS Server: 125-227-208-223.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+125.227.235.49,4,4,DNS Server: 125-227-235-49.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+125.227.35.90,4,92,DNS Server: 125-227-35-90.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+125.227.38.20,4,-8,DNS Server: 125-227-38-20.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+125.227.77.87,4,114535,DNS Server: 125-227-77-87.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+125.227.89.44,4,-171,DNS Server: 125-227-89-44.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+125.228.116.54,4,0,DNS Server: 125-228-116-54.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+125.228.169.101,4,-13,DNS Server: 125-228-169-101.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+125.228.85.217,4,27478,DNS Server: 125-228-85-217.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+125.229.152.3,4,22,DNS Server: 125-229-152-3.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+125.229.180.81,4,-53337,DNS Server: 125-229-180-81.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+125.229.181.204,4,-72251,DNS Server: 125-229-181-204.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+125.230.144.214,4,1896,DNS Server: 125-230-144-214.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+175.98.134.195,4,27,DNS Server: 175-98-134-195.static.tfn.net.tw,TW,Taiwan,Asia,Eastern Asia
+202.39.212.253,4,46,DNS Server: 202-39-212-253.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+203.145.214.77,4,90,DNS Server: 203-145-214-77.twcc.ai,TW,Taiwan,Asia,Eastern Asia
+210.61.97.241,4,97,DNS Server: 210-61-97-241.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+211.22.209.2,4,4,DNS Server: 211-22-209-2.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+211.22.72.62,4,9045161,DNS Server: 211-22-72-62.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+211.23.246.116,4,15,DNS Server: 211-23-246-116.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+211.23.45.157,4,-1704497,DNS Server: 211-23-45-157.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+211.23.95.73,4,32,DNS Server: 211-23-95-73.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+211.72.173.25,4,69,DNS Server: 211-72-173-25.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+211.72.22.210,4,47,DNS Server: 211-72-22-210.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+211.72.95.74,4,133,DNS Server: 211-72-95-74.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+211.72.99.88,4,5,DNS Server: 211-72-99-88.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+211.75.15.177,4,-168,DNS Server: 211-75-15-177.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+218.161.101.130,4,128,DNS Server: 218-161-101-130.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+218.161.118.51,4,-28799145,DNS Server: 218-161-118-51.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+218.161.68.137,4,17399,DNS Server: 218-161-68-137.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+220.130.130.141,4,40736,DNS Server: 220-130-130-141.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+220.130.175.12,4,-8,DNS Server: 220-130-175-12.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+220.130.184.237,4,16162892,DNS Server: 220-130-184-237.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+220.132.15.103,4,1132,DNS Server: 220-132-15-103.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+220.132.88.194,4,2,DNS Server: 220-132-88-194.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+220.133.135.95,4,171688,DNS Server: 220-133-135-95.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+220.133.247.128,4,-50997,DNS Server: 220-133-247-128.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+220.134.162.104,4,-128897,DNS Server: 220-134-162-104.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+220.134.170.52,4,7,DNS Server: 220-134-170-52.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+220.134.34.30,4,-1033,DNS Server: 220-134-34-30.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+220.135.105.31,4,9,DNS Server: 220-135-105-31.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+220.135.185.74,4,176115,DNS Server: 220-135-185-74.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+220.135.22.145,4,-28800137,DNS Server: 220-135-22-145.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+220.135.28.237,4,7,DNS Server: 220-135-28-237.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+220.135.45.76,4,1357,DNS Server: 220-135-45-76.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+220.143.111.7,4,-2905412335,DNS Server: 220-143-111-7.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+223.26.73.222,4,17,DNS Server: 222-73-26-223-static.chief.net.tw,TW,Taiwan,Asia,Eastern Asia
+36.230.103.219,4,1989,DNS Server: 36-230-103-219.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+36.233.184.183,4,-28801369,DNS Server: 36-233-184-183.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+36.235.11.172,4,-2748166271,DNS Server: 36-235-11-172.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+36.236.167.193,4,7,DNS Server: 36-236-167-193.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+59.120.116.235,4,-28799724,DNS Server: 59-120-116-235.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+59.124.231.152,4,24318,DNS Server: 59-124-231-152.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+59.125.119.204,4,3874,DNS Server: 59-125-119-204.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+59.125.155.62,4,31589930,DNS Server: 59-125-155-62.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+59.125.83.54,4,31207055,DNS Server: 59-125-83-54.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+59.126.68.42,4,-886,DNS Server: 59-126-68-42.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+59.127.173.45,4,37,DNS Server: 59-127-173-45.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+59.127.38.136,4,12,DNS Server: 59-127-38-136.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+59.127.40.140,4,-2324,DNS Server: 59-127-40-140.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+59.127.80.104,4,2,DNS Server: 59-127-80-104.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+60.248.238.241,4,61,DNS Server: 60-248-238-241.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+60.249.145.122,4,3,DNS Server: 60-249-145-122.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+60.249.216.49,4,-13160,DNS Server: 60-249-216-49.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+60.250.215.250,4,-197,DNS Server: 60-250-215-250.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+60.250.216.116,4,17,DNS Server: 60-250-216-116.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+60.250.84.108,4,-1454690,DNS Server: 60-250-84-108.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+60.251.102.36,4,22,DNS Server: 60-251-102-36.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+61.221.125.100,4,11,DNS Server: 61-221-125-100.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+61.221.28.31,4,54,DNS Server: 61-221-28-31.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+61.222.79.20,4,85,DNS Server: 61-222-79-20.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+61.224.92.124,4,385,DNS Server: 61-224-92-124.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+61.228.65.185,4,-28802045,DNS Server: 61-228-65-185.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+163.22.188.3,4,2866213,DNS Server: dns.iktcds.edu.tw,TW,Taiwan,Asia,Eastern Asia
+61.221.126.186,4,27643023,DNS Server: dns.mactech.com.tw,TW,Taiwan,Asia,Eastern Asia
+60.250.43.173,4,6,DNS Server: dns.ucheer.com.tw,TW,Taiwan,Asia,Eastern Asia
+59.125.124.83,4,-2500996974,DNS Server: dns1.grca.com.tw,TW,Taiwan,Asia,Eastern Asia
+220.130.144.200,4,-89808,DNS Server: dns3.kingstate.com.tw,TW,Taiwan,Asia,Eastern Asia
+218.32.150.199,4,129788,DNS Server: dynamic.sdtv.net.tw,TW,Taiwan,Asia,Eastern Asia
+118.163.119.20,4,-276786,DNS Server: fdp.com.tw,TW,Taiwan,Asia,Eastern Asia
+58.114.160.7,4,9507,DNS Server: host-58-114-160-7.dynamic.kbtelecom.net,TW,Taiwan,Asia,Eastern Asia
+60.250.51.167,4,365,DNS Server: mail.fastrong.com.tw,TW,Taiwan,Asia,Eastern Asia
+118.163.92.56,4,87,DNS Server: npomx.naipo.com.tw,TW,Taiwan,Asia,Eastern Asia
+38.55.209.148,4,1,dongzhanxcl.com,TW,Taiwan,Asia,Eastern Asia
+103.222.251.50,4,35,dreye.com.cn,TW,Taiwan,Asia,Eastern Asia
+122.117.41.80,4,7,duckart.pro,TW,Taiwan,Asia,Eastern Asia
+103.116.15.88,4,2,dx.com.tw,TW,Taiwan,Asia,Eastern Asia
+219.84.168.188,4,612,eprice.com.hk,TW,Taiwan,Asia,Eastern Asia
+219.84.168.168,4,595,eprice.com.tw,TW,Taiwan,Asia,Eastern Asia
+210.242.49.19,4,9,f-2.com.tw,TW,Taiwan,Asia,Eastern Asia
+60.251.60.22,4,7,farmsbiotech.com,TW,Taiwan,Asia,Eastern Asia
+203.64.237.7,4,16,feu.edu.tw,TW,Taiwan,Asia,Eastern Asia
+103.118.24.35,4,125,fftc.org.tw,TW,Taiwan,Asia,Eastern Asia
+220.135.0.149,4,101303,fingermedia.tw,TW,Taiwan,Asia,Eastern Asia
+61.221.35.28,4,4,fl-ad.com,TW,Taiwan,Asia,Eastern Asia
+107.167.182.246,4,2,forbeautylove.com,TW,Taiwan,Asia,Eastern Asia
+59.120.254.212,4,-1232,foxpro.com.tw,TW,Taiwan,Asia,Eastern Asia
+103.129.178.72,4,0,fswl.com.hk,TW,Taiwan,Asia,Eastern Asia
+122.146.41.161,4,3,gainward.com,TW,Taiwan,Asia,Eastern Asia
+61.222.15.159,4,228,gamania.com,TW,Taiwan,Asia,Eastern Asia
+34.80.246.181,4,10,gamebase.com.tw,TW,Taiwan,Asia,Eastern Asia
+103.138.106.47,4,39,gb-co.com.tw,TW,Taiwan,Asia,Eastern Asia
+210.242.25.172,4,13532,goodtv.tv,TW,Taiwan,Asia,Eastern Asia
+35.234.39.85,4,4,greenpeace.org.cn,TW,Taiwan,Asia,Eastern Asia
+104.199.236.4,4,59,groupbuyforms.tw,TW,Taiwan,Asia,Eastern Asia
+45.43.59.201,4,2,growthman.cn,TW,Taiwan,Asia,Eastern Asia
+118.194.253.217,4,1,gsoc.cn,TW,Taiwan,Asia,Eastern Asia
+130.211.253.109,4,1,gwangju2015.com,TW,Taiwan,Asia,Eastern Asia
+118.150.164.96,4,-576561728,hamtalk.net,TW,Taiwan,Asia,Eastern Asia
+210.17.16.248,4,508,hemidemi.com,TW,Taiwan,Asia,Eastern Asia
+103.136.211.216,4,19,ho.net.tw,TW,Taiwan,Asia,Eastern Asia
+35.234.58.5,4,3,hockeycurve.com,TW,Taiwan,Asia,Eastern Asia
+118.163.63.158,4,263,hsihou.com,TW,Taiwan,Asia,Eastern Asia
+219.87.145.180,4,0,ibase.com.tw,TW,Taiwan,Asia,Eastern Asia
+192.83.191.8,4,796,isu.edu.tw,TW,Taiwan,Asia,Eastern Asia
+211.75.158.225,4,-2,iware.com.tw,TW,Taiwan,Asia,Eastern Asia
+211.72.198.2,4,152134,jiye.com.tw,TW,Taiwan,Asia,Eastern Asia
+175.183.3.134,4,26,jofu.tw,TW,Taiwan,Asia,Eastern Asia
+59.120.131.6,4,3,joyso.cloud,TW,Taiwan,Asia,Eastern Asia
+128.14.237.126,4,3,kimi.com.tw,TW,Taiwan,Asia,Eastern Asia
+103.153.177.40,4,5,kocpc.com.tw,TW,Taiwan,Asia,Eastern Asia
+128.14.230.88,4,6,komoejoy.com,TW,Taiwan,Asia,Eastern Asia
+103.118.26.55,4,2,kuangta.com.tw,TW,Taiwan,Asia,Eastern Asia
+103.118.26.53,4,5,kuos.com,TW,Taiwan,Asia,Eastern Asia
+34.81.152.152,4,3,lia-roc.org.tw,TW,Taiwan,Asia,Eastern Asia
+140.114.89.237,4,7,linggle.com,TW,Taiwan,Asia,Eastern Asia
+60.249.179.122,4,2,lionfree.net,TW,Taiwan,Asia,Eastern Asia
+35.185.141.245,4,2,liskul.com,TW,Taiwan,Asia,Eastern Asia
+104.199.205.140,4,5,localplace.jp,TW,Taiwan,Asia,Eastern Asia
+175.181.38.134,4,7,longwin.com.tw,TW,Taiwan,Asia,Eastern Asia
+114.32.146.202,4,-1994420425,manyhit.com,TW,Taiwan,Asia,Eastern Asia
+104.155.219.139,4,2,mashup.com.tw,TW,Taiwan,Asia,Eastern Asia
+103.129.178.130,4,-3,meiman.org.tw,TW,Taiwan,Asia,Eastern Asia
+211.72.215.60,4,-6821,meritlilin.com,TW,Taiwan,Asia,Eastern Asia
+125.228.212.38,4,29,microsys.com.tw,TW,Taiwan,Asia,Eastern Asia
+113.196.154.168,4,6,mitac.com,TW,Taiwan,Asia,Eastern Asia
+45.121.50.90,4,-6,mobileaction.com,TW,Taiwan,Asia,Eastern Asia
+35.194.215.179,4,-42692338,mofang.com.tw,TW,Taiwan,Asia,Eastern Asia
+35.201.142.96,4,6,moneynet.com.tw,TW,Taiwan,Asia,Eastern Asia
+163.22.17.50,4,-3,moztw.org,TW,Taiwan,Asia,Eastern Asia
+113.196.137.217,4,9,navman.com,TW,Taiwan,Asia,Eastern Asia
+103.17.8.51,4,8,netete.com,TW,Taiwan,Asia,Eastern Asia
+104.199.165.123,4,23,neti.cc,TW,Taiwan,Asia,Eastern Asia
+104.199.204.72,4,2,neticrm.tw,TW,Taiwan,Asia,Eastern Asia
+59.124.223.222,4,-153070,nj192.com.tw,TW,Taiwan,Asia,Eastern Asia
+192.83.188.10,4,27,nmns.edu.tw,TW,Taiwan,Asia,Eastern Asia
+220.130.87.30,4,-2,norbelbaby.com.tw,TW,Taiwan,Asia,Eastern Asia
+210.70.253.15,4,394,npu.edu.tw,TW,Taiwan,Asia,Eastern Asia
+140.118.31.99,4,67,ntust.edu.tw,TW,Taiwan,Asia,Eastern Asia
+111.71.228.33,4,106288,Ookla Speedtest Server 18452: ty1.chtm.hinet.net,TW,Taiwan,Asia,Eastern Asia
+111.71.230.33,4,207,Ookla Speedtest Server 18458: kh1.chtm.hinet.net,TW,Taiwan,Asia,Eastern Asia
+111.71.230.41,4,74,Ookla Speedtest Server 18607: tn1.chtm.hinet.net,TW,Taiwan,Asia,Eastern Asia
+111.71.229.41,4,110,Ookla Speedtest Server 18611: ch1.chtm.hinet.net,TW,Taiwan,Asia,Eastern Asia
+115.43.115.15,4,6900040,Ookla Speedtest Server 24429: tp-speedtest.homeplus.net.tw,TW,Taiwan,Asia,Eastern Asia
+123.205.190.221,4,24592,Ookla Speedtest Server 36122: speedtestookla.hya.tw,TW,Taiwan,Asia,Eastern Asia
+103.147.22.134,4,271,Ookla Speedtest Server 44603: speedtest.twds.com.tw,TW,Taiwan,Asia,Eastern Asia
+60.199.147.49,4,203,Ookla Speedtest Server 55674: sptkh1.taiwanmobile.com,TW,Taiwan,Asia,Eastern Asia
+203.105.239.22,4,282,Ookla Speedtest Server 56277: sptdl2.taiwanmobile.com,TW,Taiwan,Asia,Eastern Asia
+118.232.76.110,4,308,Ookla Speedtest Server: fm-sptest.kbro.com.tw,TW,Taiwan,Asia,Eastern Asia
+118.232.78.110,4,286,Ookla Speedtest Server: ks-sptest.kbro.com.tw,TW,Taiwan,Asia,Eastern Asia
+210.69.123.228,4,26,otop.tw,TW,Taiwan,Asia,Eastern Asia
+103.118.26.7,4,6,ownlines.com,TW,Taiwan,Asia,Eastern Asia
+223.27.52.19,4,19,paper88.com.tw,TW,Taiwan,Asia,Eastern Asia
+60.250.107.110,4,28,patriotmemory.com,TW,Taiwan,Asia,Eastern Asia
+140.137.1.17,4,195987,pccu.edu.tw,TW,Taiwan,Asia,Eastern Asia
+104.199.215.112,4,14,phuket.net,TW,Taiwan,Asia,Eastern Asia
+103.118.26.99,4,36,piejade.com,TW,Taiwan,Asia,Eastern Asia
+59.120.118.168,4,12,ppt.cc,TW,Taiwan,Asia,Eastern Asia
+140.112.172.5,4,45,ptt.cc,TW,Taiwan,Asia,Eastern Asia
+140.112.172.1,4,12,ptt.cc,TW,Taiwan,Asia,Eastern Asia
+140.112.172.3,4,16,ptt.cc,TW,Taiwan,Asia,Eastern Asia
+140.112.172.11,4,40,ptt.cc,TW,Taiwan,Asia,Eastern Asia
+140.112.172.4,4,39,ptt.cc,TW,Taiwan,Asia,Eastern Asia
+140.112.172.2,4,11,ptt.cc,TW,Taiwan,Asia,Eastern Asia
+104.199.128.210,4,9,ramayanawaterpark.com,TW,Taiwan,Asia,Eastern Asia
+35.185.130.121,4,41,reurl.cc,TW,Taiwan,Asia,Eastern Asia
+35.221.195.135,4,5,salvationarmy.org.hk,TW,Taiwan,Asia,Eastern Asia
+210.59.219.77,4,5,scupio.com,TW,Taiwan,Asia,Eastern Asia
+103.129.178.20,4,-3,shinko-tw.com,TW,Taiwan,Asia,Eastern Asia
+112.121.100.100,4,38,shopunt.com,TW,Taiwan,Asia,Eastern Asia
+211.20.50.36,4,47,soe-parrot.com,TW,Taiwan,Asia,Eastern Asia
+43.254.19.58,4,7,steachs.com,TW,Taiwan,Asia,Eastern Asia
+163.16.5.180,4,29,study-area.org,TW,Taiwan,Asia,Eastern Asia
+103.1.221.109,4,1485,sunpingcctv.com,TW,Taiwan,Asia,Eastern Asia
+113.196.136.168,4,32140,sunplus.com,TW,Taiwan,Asia,Eastern Asia
+35.221.158.12,4,6,superbowlcommercials.tv,TW,Taiwan,Asia,Eastern Asia
+34.80.73.97,4,6,taishinart.org.tw,TW,Taiwan,Asia,Eastern Asia
+101.101.101.101,4,5,Taiwan Network Information Center 1,TW,Taiwan,Asia,Eastern Asia
+35.185.142.145,4,5,taiwan-healthcare.org,TW,Taiwan,Asia,Eastern Asia
+114.34.39.114,4,24,taiwanschoolnet.org,TW,Taiwan,Asia,Eastern Asia
+104.199.225.102,4,4,taiwantimes.com.tw,TW,Taiwan,Asia,Eastern Asia
+125.228.135.114,4,295,talk.tw,TW,Taiwan,Asia,Eastern Asia
+59.125.33.123,4,3,tattpe.org.tw,TW,Taiwan,Asia,Eastern Asia
+61.218.129.139,4,11,tcbbank.com.tw,TW,Taiwan,Asia,Eastern Asia
+61.66.121.235,4,10,tcbbank.com.tw,TW,Taiwan,Asia,Eastern Asia
+60.248.81.189,4,-1411,terasic.com.tw,TW,Taiwan,Asia,Eastern Asia
+104.199.212.185,4,6,thegrounds.com.au,TW,Taiwan,Asia,Eastern Asia
+59.124.185.58,4,11,theonestyle.com,TW,Taiwan,Asia,Eastern Asia
+211.21.23.49,4,146,tmst.com.tw,TW,Taiwan,Asia,Eastern Asia
+60.249.45.229,4,7,tou-ming.com,TW,Taiwan,Asia,Eastern Asia
+103.118.26.245,4,6,tpof.org,TW,Taiwan,Asia,Eastern Asia
+220.128.205.242,4,10,transcend-info.com,TW,Taiwan,Asia,Eastern Asia
+59.125.33.57,4,5,trolley-store.com.tw,TW,Taiwan,Asia,Eastern Asia
+34.80.36.145,4,16,twmotel.com,TW,Taiwan,Asia,Eastern Asia
+113.196.154.133,4,8,tyan.com,TW,Taiwan,Asia,Eastern Asia
+59.125.103.205,4,-36284950,uforadio.com.tw,TW,Taiwan,Asia,Eastern Asia
+122.117.102.125,4,6,uio.com.tw,TW,Taiwan,Asia,Eastern Asia
+35.229.134.237,4,6,unbox.tw,TW,Taiwan,Asia,Eastern Asia
+61.219.98.250,4,149854,unisonic.com.tw,TW,Taiwan,Asia,Eastern Asia
+104.155.238.199,4,9,unisonic.com.tw,TW,Taiwan,Asia,Eastern Asia
+34.80.38.188,4,4,uukt.com.tw,TW,Taiwan,Asia,Eastern Asia
+104.199.204.141,4,8,vegas338.com.in,TW,Taiwan,Asia,Eastern Asia
+34.80.170.74,4,3,vigattintourism.com,TW,Taiwan,Asia,Eastern Asia
+34.80.64.223,4,3,vuclip.com,TW,Taiwan,Asia,Eastern Asia
+211.21.137.6,4,198,waibel.com.tw,TW,Taiwan,Asia,Eastern Asia
+59.125.176.83,4,3,wanyuantemple.tw,TW,Taiwan,Asia,Eastern Asia
+125.227.135.211,4,1995162,watts-studio.com,TW,Taiwan,Asia,Eastern Asia
+103.138.106.62,4,19,why3s.cc,TW,Taiwan,Asia,Eastern Asia
+60.245.34.225,4,227,winhill.com.tw,TW,Taiwan,Asia,Eastern Asia
+104.199.239.202,4,0,wuwuji.tw,TW,Taiwan,Asia,Eastern Asia
+35.229.163.10,4,3,xm-studios.com,TW,Taiwan,Asia,Eastern Asia
+103.129.176.146,4,2897,yachiyo.com.tw,TW,Taiwan,Asia,Eastern Asia
+125.227.94.21,4,2,ysponder.com.tw,TW,Taiwan,Asia,Eastern Asia
+103.129.178.67,4,3,yu-kuang.com.tw,TW,Taiwan,Asia,Eastern Asia
+154.55.64.52,4,1,yxfrx.com,TW,Taiwan,Asia,Eastern Asia

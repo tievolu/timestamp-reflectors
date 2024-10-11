@@ -1,2 +1,2 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-5.10.250.249,4,bins.su,AX,Åland Islands,Europe,Northern Europe
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+5.10.250.249,4,4,bins.su,AX,Åland Islands,Europe,Northern Europe

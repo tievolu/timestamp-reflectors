@@ -1,22 +1,21 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-190.64.140.243,4,Administracion Nacional de Telecomunicaciones,UY,Uruguay,Americas,Latin America and the Caribbean
-200.40.230.36,4,Administracion Nacional de Telecomunicaciones,UY,Uruguay,Americas,Latin America and the Caribbean
-190.64.16.36,4,anep.edu.uy,UY,Uruguay,Americas,Latin America and the Caribbean
-45.228.65.55,4,bicocas.com,UY,Uruguay,Americas,Latin America and the Caribbean
-190.64.211.149,4,ceip.edu.uy,UY,Uruguay,Americas,Latin America and the Caribbean
-190.0.134.20,4,ces.edu.uy,UY,Uruguay,Americas,Latin America and the Caribbean
-164.73.76.13,4,cienciassociales.edu.uy,UY,Uruguay,Americas,Latin America and the Caribbean
-179.27.60.69,4,correo.com.uy,UY,Uruguay,Americas,Latin America and the Caribbean
-200.40.79.215,4,cronicas.com.uy,UY,Uruguay,Americas,Latin America and the Caribbean
-164.73.98.153,4,csic.edu.uy,UY,Uruguay,Americas,Latin America and the Caribbean
-200.40.79.197,4,cuti.org.uy,UY,Uruguay,Americas,Latin America and the Caribbean
-200.40.79.199,4,henciclopedia.org.uy,UY,Uruguay,Americas,Latin America and the Caribbean
-200.40.79.41,4,internet.com.uy,UY,Uruguay,Americas,Latin America and the Caribbean
-45.228.65.108,4,mbww.uy,UY,Uruguay,Americas,Latin America and the Caribbean
-70.38.9.116,4,practicallyedible.com,UY,Uruguay,Americas,Latin America and the Caribbean
-164.73.128.105,4,rau.edu.uy,UY,Uruguay,Americas,Latin America and the Caribbean
-164.73.144.23,4,scielo.edu.uy,UY,Uruguay,Americas,Latin America and the Caribbean
-164.73.128.29,4,universidad.edu.uy,UY,Uruguay,Americas,Latin America and the Caribbean
-200.40.204.186,4,uruguaynatural.com,UY,Uruguay,Americas,Latin America and the Caribbean
-200.40.135.139,4,uruguaytotal.com,UY,Uruguay,Americas,Latin America and the Caribbean
-190.0.150.11,4,utu.edu.uy,UY,Uruguay,Americas,Latin America and the Caribbean
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+190.64.16.36,4,783387,anep.edu.uy,UY,Uruguay,Americas,Latin America and the Caribbean
+108.163.234.178,4,57,askbd.org,UY,Uruguay,Americas,Latin America and the Caribbean
+45.228.65.55,4,1,bicocas.com,UY,Uruguay,Americas,Latin America and the Caribbean
+190.64.211.149,4,59932,ceip.edu.uy,UY,Uruguay,Americas,Latin America and the Caribbean
+190.0.134.20,4,3,ces.edu.uy,UY,Uruguay,Americas,Latin America and the Caribbean
+164.73.76.13,4,17556,cienciassociales.edu.uy,UY,Uruguay,Americas,Latin America and the Caribbean
+179.27.60.69,4,-1,correo.com.uy,UY,Uruguay,Americas,Latin America and the Caribbean
+200.40.79.215,4,678,cronicas.com.uy,UY,Uruguay,Americas,Latin America and the Caribbean
+164.73.98.153,4,3,csic.edu.uy,UY,Uruguay,Americas,Latin America and the Caribbean
+200.40.79.197,4,468,cuti.org.uy,UY,Uruguay,Americas,Latin America and the Caribbean
+152.156.126.74,4,23,DNS Server: 152.156.126-74-dynamic.movinet.com.uy,UY,Uruguay,Americas,Latin America and the Caribbean
+200.40.79.199,4,116,henciclopedia.org.uy,UY,Uruguay,Americas,Latin America and the Caribbean
+45.228.65.108,4,8,mbww.uy,UY,Uruguay,Americas,Latin America and the Caribbean
+164.73.128.105,4,25,rau.edu.uy,UY,Uruguay,Americas,Latin America and the Caribbean
+164.73.144.23,4,-452877,scielo.edu.uy,UY,Uruguay,Americas,Latin America and the Caribbean
+70.38.9.116,4,200,thejaps.org.pk,UY,Uruguay,Americas,Latin America and the Caribbean
+164.73.128.29,4,-1,universidad.edu.uy,UY,Uruguay,Americas,Latin America and the Caribbean
+200.40.204.186,4,-1,uruguaynatural.com,UY,Uruguay,Americas,Latin America and the Caribbean
+200.40.135.139,4,1170,uruguaytotal.com,UY,Uruguay,Americas,Latin America and the Caribbean
+190.0.150.11,4,101,utu.edu.uy,UY,Uruguay,Americas,Latin America and the Caribbean

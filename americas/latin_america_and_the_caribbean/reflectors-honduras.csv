@@ -1,4 +1,19 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-201.220.136.186,4,CABLECOLOR S.A.,HN,Honduras,Americas,Latin America and the Caribbean
-198.50.139.125,4,elvis-collectors.com,HN,Honduras,Americas,Latin America and the Caribbean
-190.124.166.8,4,Redes y Telecomunicaciones,HN,Honduras,Americas,Latin America and the Caribbean
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+190.6.201.202,4,19,DNS Server: 190-6-201-202.reverse.cablecolor.hn,HN,Honduras,Americas,Latin America and the Caribbean
+190.92.38.210,4,2045,DNS Server: 190-92-38-210.reverse.cablecolor.hn,HN,Honduras,Americas,Latin America and the Caribbean
+190.5.96.134,4,-3742,DNS Server: 190.5.96.134.multidatahn.net,HN,Honduras,Americas,Latin America and the Caribbean
+201.220.142.54,4,27106302,DNS Server: 201-220-142-54.reverse.cablecolor.hn,HN,Honduras,Americas,Latin America and the Caribbean
+179.49.112.116,4,429,DNS Server: block1-112-static-116.asinetwork.hn,HN,Honduras,Americas,Latin America and the Caribbean
+131.108.233.13,4,4352,DNS Server: block108-233-static-13.asinetwork.hn,HN,Honduras,Americas,Latin America and the Caribbean
+190.124.166.45,4,-7414,DNS Server: block166-static45.reytelhn.net,HN,Honduras,Americas,Latin America and the Caribbean
+198.50.139.125,4,6,elvis-collectors.com,HN,Honduras,Americas,Latin America and the Caribbean
+170.247.84.11,4,-70400,Ookla Speedtest Server 19018: speedtest.metronethn.com,HN,Honduras,Americas,Latin America and the Caribbean
+45.182.21.146,4,338,Ookla Speedtest Server 42790: speedtest.powernet.hn,HN,Honduras,Americas,Latin America and the Caribbean
+181.199.177.238,4,13119,Ookla Speedtest Server 45703: sp2.pronto.hn,HN,Honduras,Americas,Latin America and the Caribbean
+170.247.84.18,4,212,Ookla Speedtest Server 55567: speedtest2.metronethn.com,HN,Honduras,Americas,Latin America and the Caribbean
+190.5.94.74,4,4630,Ookla Speedtest Server 57241: speedtest.cableceiba.net,HN,Honduras,Americas,Latin America and the Caribbean
+131.161.80.185,4,334,Ookla Speedtest Server 58133: speedtest.mayavision.hn,HN,Honduras,Americas,Latin America and the Caribbean
+190.61.116.50,4,9178,Ookla Speedtest Server 58705: test.bdnethn.com,HN,Honduras,Americas,Latin America and the Caribbean
+179.49.112.27,4,241,Ookla Speedtest Server 59767: speedtest02.asinetwork.hn,HN,Honduras,Americas,Latin America and the Caribbean
+190.61.116.155,4,-23417,Ookla Speedtest Server 64447: multicolor.bdnethn.com,HN,Honduras,Americas,Latin America and the Caribbean
+190.124.166.8,4,2547,Redes y Telecomunicaciones,HN,Honduras,Americas,Latin America and the Caribbean

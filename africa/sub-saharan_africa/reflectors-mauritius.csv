@@ -1,6 +1,15 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-102.222.106.88,4,lexpress.mu,MU,Mauritius,Africa,Sub-Saharan Africa
-102.222.106.87,4,lexpress.mu,MU,Mauritius,Africa,Sub-Saharan Africa
-102.222.106.220,4,msaw-mu.org,MU,Mauritius,Africa,Sub-Saharan Africa
-54.39.35.48,4,onebigphoto.com,MU,Mauritius,Africa,Sub-Saharan Africa
-41.160.0.40,4,Ookla Speedtest server: speedtest.neotel.co.za,MU,Mauritius,Africa,Sub-Saharan Africa
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+197.155.92.20,4,-2,DNS Server: 197.155.92.20.liquidtelecom.net,MU,Mauritius,Africa,Sub-Saharan Africa
+197.155.92.21,4,-4,DNS Server: 197.155.92.21.liquidtelecom.net,MU,Mauritius,Africa,Sub-Saharan Africa
+41.218.114.72,4,30,DNS Server: c19137.cust.ao.afrisp.net,MU,Mauritius,Africa,Sub-Saharan Africa
+41.204.224.38,4,-10866460,DNS Server: ns2.directontv.com,MU,Mauritius,Africa,Sub-Saharan Africa
+102.222.106.87,4,-42,lexpress.mu,MU,Mauritius,Africa,Sub-Saharan Africa
+102.222.106.88,4,10,lexpress.mu,MU,Mauritius,Africa,Sub-Saharan Africa
+102.222.106.220,4,4,msaw-mu.org,MU,Mauritius,Africa,Sub-Saharan Africa
+102.163.100.29,4,418,Ookla Speedtest Server 13766: speedtest-asn-10g.emtelnet.com,MU,Mauritius,Africa,Sub-Saharan Africa
+102.163.100.2,4,316,Ookla Speedtest Server 24020: speedtest-bdr-10g.emtelnet.com,MU,Mauritius,Africa,Sub-Saharan Africa
+102.222.106.253,4,258,Ookla Speedtest Server 44697: speedtest-mu1.cloud.mu,MU,Mauritius,Africa,Sub-Saharan Africa
+102.163.100.58,4,206,Ookla Speedtest Server 63399: speedtest-rod-10g.emtelnet.com,MU,Mauritius,Africa,Sub-Saharan Africa
+41.160.0.40,4,293,Ookla Speedtest Server: speedtest.neotel.co.za,MU,Mauritius,Africa,Sub-Saharan Africa
+196.216.56.162,4,132,Ookla Speedtest Server: speedtest.paratus.ao,MU,Mauritius,Africa,Sub-Saharan Africa
+54.39.35.48,4,17,ultras-tifo.net,MU,Mauritius,Africa,Sub-Saharan Africa

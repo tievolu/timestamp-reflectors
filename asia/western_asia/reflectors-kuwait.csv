@@ -1,7 +1,19 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-194.54.192.98,4,Ookla Speedtest server: speedtest.gulfnet.com.kw,KW,Kuwait,Asia,Western Asia
-94.128.15.9,4,Ookla Speedtest server: speedtest1.viva.com.kw,KW,Kuwait,Asia,Western Asia
-212.43.17.251,4,Ookla Speedtest server: speedtest1.zain.net,KW,Kuwait,Asia,Western Asia
-62.215.170.104,4,Ookla Speedtest server: test.fasttelco.com,KW,Kuwait,Asia,Western Asia
-168.187.226.28,4,q8mazad.com,KW,Kuwait,Asia,Western Asia
-168.187.161.250,4,Zajil International Telecom Company W.L.L.,KW,Kuwait,Asia,Western Asia
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+94.128.4.182,4,254,Ookla Speedtest Server 2319: speedtest15.stc.com.kw,KW,Kuwait,Asia,Western Asia
+78.89.136.210,4,307,Ookla Speedtest Server 5816: ookla5.ooredoo.com.kw,KW,Kuwait,Asia,Western Asia
+168.187.226.26,4,277,Ookla Speedtest Server 43256: speedtest.zajil.com,KW,Kuwait,Asia,Western Asia
+78.89.136.252,4,286,Ookla Speedtest Server 43390: ookla3.ooredoo.com.kw,KW,Kuwait,Asia,Western Asia
+78.89.136.251,4,255,Ookla Speedtest Server 43396: ookla2.ooredoo.com.kw,KW,Kuwait,Asia,Western Asia
+95.66.17.254,4,1089076,Ookla Speedtest Server 55652: speedest8.kw.zain.com,KW,Kuwait,Asia,Western Asia
+78.89.136.250,4,121,Ookla Speedtest Server: ookla1.ooredoo.com.kw,KW,Kuwait,Asia,Western Asia
+95.66.17.252,4,555927,Ookla Speedtest Server: speedest4.kw.zain.com,KW,Kuwait,Asia,Western Asia
+212.43.17.254,4,26890,Ookla Speedtest Server: speedest6.kw.zain.com,KW,Kuwait,Asia,Western Asia
+194.54.192.98,4,315,Ookla Speedtest Server: speedtest.gulfnet.com.kw,KW,Kuwait,Asia,Western Asia
+217.69.181.16,4,337,Ookla Speedtest Server: speedtest.ooredoo.com.kw,KW,Kuwait,Asia,Western Asia
+94.128.15.9,4,9,Ookla Speedtest Server: speedtest1.viva.com.kw,KW,Kuwait,Asia,Western Asia
+212.43.17.251,4,31414,Ookla Speedtest Server: speedtest1.zain.net,KW,Kuwait,Asia,Western Asia
+94.128.4.178,4,-1,Ookla Speedtest Server: speedtest14.stc.com.kw,KW,Kuwait,Asia,Western Asia
+94.128.4.186,4,20,Ookla Speedtest Server: speedtest16.stc.com.kw,KW,Kuwait,Asia,Western Asia
+62.215.171.122,4,-33,Ookla Speedtest Server: st03.fasttelco.com,KW,Kuwait,Asia,Western Asia
+168.187.226.28,4,-5,q8mazad.com,KW,Kuwait,Asia,Western Asia
+168.187.161.250,4,389269,Zajil International Telecom Company W.L.L.,KW,Kuwait,Asia,Western Asia

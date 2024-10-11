@@ -1,2 +1,7 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-196.192.16.2,4,uac.bj,BJ,Benin,Africa,Sub-Saharan Africa
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+154.66.140.72,4,967,DNS Server: c.140-072.dynamic.isoceltelecom.net,BJ,Benin,Africa,Sub-Saharan Africa
+154.66.140.80,4,1049,DNS Server: c.140-080.dynamic.isoceltelecom.net,BJ,Benin,Africa,Sub-Saharan Africa
+154.66.140.120,4,292,DNS Server: c.140-120.dynamic.isoceltelecom.net,BJ,Benin,Africa,Sub-Saharan Africa
+154.66.140.132,4,212,DNS Server: c.140-132.dynamic.isoceltelecom.net,BJ,Benin,Africa,Sub-Saharan Africa
+154.66.140.224,4,-22362313,DNS Server: c.140-224.dynamic.isoceltelecom.net,BJ,Benin,Africa,Sub-Saharan Africa
+196.192.16.2,4,-22172,uac.bj,BJ,Benin,Africa,Sub-Saharan Africa

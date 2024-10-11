@@ -1,3 +1,5 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-154.126.27.58,4,assemblee-nationale.mg,MG,Madagascar,Africa,Sub-Saharan Africa
-102.16.18.42,4,presidence.gov.mg,MG,Madagascar,Africa,Sub-Saharan Africa
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+154.126.27.58,4,6,assemblee-nationale.mg,MG,Madagascar,Africa,Sub-Saharan Africa
+102.16.2.254,4,-10906542,csi.gov.mg,MG,Madagascar,Africa,Sub-Saharan Africa
+102.16.10.2,4,222,Ookla Speedtest Server 17987: speedtest.telma.mg,MG,Madagascar,Africa,Sub-Saharan Africa
+102.16.18.42,4,59,presidence.gov.mg,MG,Madagascar,Africa,Sub-Saharan Africa

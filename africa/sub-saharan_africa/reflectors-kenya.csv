@@ -1,29 +1,35 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-62.12.118.98,4,1xbet.co.ke,KE,Kenya,Africa,Sub-Saharan Africa
-62.12.114.25,4,Angani Limited,KE,Kenya,Africa,Sub-Saharan Africa
-41.204.161.150,4,dkut.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
-41.89.1.225,4,egerton.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
-197.136.17.19,4,embuni.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
-197.136.52.32,4,helb.co.ke,KE,Kenya,Africa,Sub-Saharan Africa
-41.204.161.167,4,jooust.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
-197.136.17.40,4,kabarak.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
-102.220.22.104,4,kbc.co.ke,KE,Kenya,Africa,Sub-Saharan Africa
-197.136.17.51,4,kemu.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
-194.201.253.121,4,kenyaweb.com,KE,Kenya,Africa,Sub-Saharan Africa
-102.220.23.26,4,kicc.co.ke,KE,Kenya,Africa,Sub-Saharan Africa
-41.78.27.200,4,ksg.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
-197.136.17.5,4,maseno.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
-194.201.253.11,4,mokila.co.ke,KE,Kenya,Africa,Sub-Saharan Africa
-41.204.161.129,4,mu.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
-197.136.17.21,4,must.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
-41.204.160.15,4,mut.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
-62.12.113.140,4,nationalbank.co.ke,KE,Kenya,Africa,Sub-Saharan Africa
-41.212.3.250,4,Ookla Speedtest server: speedtest.zuku.co.ke,KE,Kenya,Africa,Sub-Saharan Africa
-41.89.129.38,4,pu.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
-105.16.115.20,4,seacom.mu,KE,Kenya,Africa,Sub-Saharan Africa
-41.89.56.46,4,tukenya.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
-197.136.17.31,4,uoeld.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
-197.136.17.32,4,uoeld.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
-41.204.161.206,4,uonbi.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
-41.204.167.84,4,usiu.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
-41.242.2.139,4,whiteafrican.com,KE,Kenya,Africa,Sub-Saharan Africa
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+41.204.161.150,4,218178,dkut.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
+102.68.79.77,4,38,DNS Server: 102.68.79.77.unwired.co.ke,KE,Kenya,Africa,Sub-Saharan Africa
+196.201.228.22,4,1274,DNS Server: 196.201.228.22.liquidtelecom.net,KE,Kenya,Africa,Sub-Saharan Africa
+196.207.28.46,4,5675,DNS Server: 196.207.28.46.accesskenya.com,KE,Kenya,Africa,Sub-Saharan Africa
+197.248.116.74,4,-6660411,DNS Server: 197-248-116-74.safaricombusiness.co.ke,KE,Kenya,Africa,Sub-Saharan Africa
+197.248.195.135,4,-10154,DNS Server: 197-248-195-135.safaricombusiness.co.ke,KE,Kenya,Africa,Sub-Saharan Africa
+41.206.60.22,4,699,DNS Server: 41.206.60.22.accesskenya.com,KE,Kenya,Africa,Sub-Saharan Africa
+154.159.248.54,4,1962,DNS Server: 54-248-159-154.r.airtelkenya.com,KE,Kenya,Africa,Sub-Saharan Africa
+41.89.1.225,4,-1,egerton.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
+197.136.17.19,4,387481,embuni.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
+41.204.161.167,4,-1870234,jooust.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
+197.136.17.40,4,-2,kabarak.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
+102.220.22.104,4,6,kbc.co.ke,KE,Kenya,Africa,Sub-Saharan Africa
+197.136.17.51,4,-4,kemu.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
+194.201.253.121,4,4,kenyaweb.com,KE,Kenya,Africa,Sub-Saharan Africa
+102.220.23.26,4,-23,kicc.co.ke,KE,Kenya,Africa,Sub-Saharan Africa
+41.78.27.200,4,-16,ksg.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
+197.136.17.5,4,-3,maseno.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
+194.201.253.11,4,4,mokila.co.ke,KE,Kenya,Africa,Sub-Saharan Africa
+41.204.161.129,4,4,mu.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
+197.136.17.21,4,2740,must.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
+41.204.160.15,4,-406,mut.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
+62.12.113.140,4,64625,nationalbank.co.ke,KE,Kenya,Africa,Sub-Saharan Africa
+102.214.252.7,4,-10993254,Ookla Speedtest Server 21184: speedtest.fibrelinkltd.co.ke,KE,Kenya,Africa,Sub-Saharan Africa
+102.217.64.202,4,319,Ookla Speedtest Server 38255: speedtest.limesol.com,KE,Kenya,Africa,Sub-Saharan Africa
+41.89.129.38,4,16,pu.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
+41.84.146.78,4,25,realplan.co.ke,KE,Kenya,Africa,Sub-Saharan Africa
+105.16.115.20,4,12,seacom.mu,KE,Kenya,Africa,Sub-Saharan Africa
+41.89.56.46,4,-7,tukenya.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
+197.136.17.31,4,23,uoeld.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
+197.136.17.32,4,-6,uoeld.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
+41.204.161.206,4,-1300,uonbi.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
+41.204.167.84,4,2485049,usiu.ac.ke,KE,Kenya,Africa,Sub-Saharan Africa
+41.242.2.139,4,3,whiteafrican.com,KE,Kenya,Africa,Sub-Saharan Africa

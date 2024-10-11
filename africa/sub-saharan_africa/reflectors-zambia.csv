@@ -1,6 +1,4 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-41.63.3.8,4,cbu.ac.zm,ZM,Zambia,Africa,Sub-Saharan Africa
-41.77.145.34,4,parliament.gov.zm,ZM,Zambia,Africa,Sub-Saharan Africa
-41.72.99.142,4,times.co.zm,ZM,Zambia,Africa,Sub-Saharan Africa
-41.63.1.33,4,unza.zm,ZM,Zambia,Africa,Sub-Saharan Africa
-196.46.192.29,4,zamnet.zm,ZM,Zambia,Africa,Sub-Saharan Africa
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+41.63.3.8,4,-39,cbu.ac.zm,ZM,Zambia,Africa,Sub-Saharan Africa
+41.77.145.34,4,-2143459107,parliament.gov.zm,ZM,Zambia,Africa,Sub-Saharan Africa
+41.72.99.142,4,-6745,times.co.zm,ZM,Zambia,Africa,Sub-Saharan Africa

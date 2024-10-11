@@ -1,2 +1,2 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-200.2.162.34,4,Ookla Speedtest server: parbo.speedtest.sr,SR,Suriname,Americas,Latin America and the Caribbean
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+200.2.162.34,4,256,Ookla Speedtest Server: parbo.speedtest.sr,SR,Suriname,Americas,Latin America and the Caribbean

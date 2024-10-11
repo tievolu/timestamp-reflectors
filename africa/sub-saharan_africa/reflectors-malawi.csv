@@ -1,7 +1,8 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-196.11.86.221,4,health.gov.mw,MW,Malawi,Africa,Sub-Saharan Africa
-196.11.86.138,4,nsomalawi.mw,MW,Malawi,Africa,Sub-Saharan Africa
-41.77.9.5,4,rbm.mw,MW,Malawi,Africa,Sub-Saharan Africa
-196.45.190.6,4,sdnp.org.mw,MW,Malawi,Africa,Sub-Saharan Africa
-41.87.2.157,4,sdnp.org.mw,MW,Malawi,Africa,Sub-Saharan Africa
-41.87.5.165,4,sdnp.org.mw,MW,Malawi,Africa,Sub-Saharan Africa
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+196.11.86.221,4,205003,malawi.gov.mw,MW,Malawi,Africa,Sub-Saharan Africa
+196.11.86.138,4,6,nsomalawi.mw,MW,Malawi,Africa,Sub-Saharan Africa
+105.234.168.106,4,287,Ookla Speedtest Server 51929: speedtestbt.airtel.mw,MW,Malawi,Africa,Sub-Saharan Africa
+41.78.250.238,4,363,Ookla Speedtest Server 58029: bt-speedtest.tnm.co.mw,MW,Malawi,Africa,Sub-Saharan Africa
+41.87.2.157,4,569550,sdnp.org.mw,MW,Malawi,Africa,Sub-Saharan Africa
+196.45.190.6,4,569550,sdnp.org.mw,MW,Malawi,Africa,Sub-Saharan Africa
+41.87.5.165,4,569549,sdnp.org.mw,MW,Malawi,Africa,Sub-Saharan Africa

@@ -1,16 +1,20 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-144.217.178.194,4,cocoandash.com,PA,Panama,Americas,Latin America and the Caribbean
-144.217.178.222,4,dontgobaconmyheart.co.uk,PA,Panama,Americas,Latin America and the Caribbean
-144.217.178.206,4,easyhealthyrecipes.com,PA,Panama,Americas,Latin America and the Caribbean
-104.145.235.231,4,ecf.org.il,PA,Panama,Americas,Latin America and the Caribbean
-144.217.178.192,4,foodapparel.com,PA,Panama,Americas,Latin America and the Caribbean
-104.145.235.88,4,harmj0y.net,PA,Panama,Americas,Latin America and the Caribbean
-200.46.135.89,4,hidromet.com.pa,PA,Panama,Americas,Latin America and the Caribbean
-144.217.178.204,4,lepetiteats.com,PA,Panama,Americas,Latin America and the Caribbean
-144.217.178.193,4,myberryforest.com,PA,Panama,Americas,Latin America and the Caribbean
-190.123.45.35,4,online-modafinil.com,PA,Panama,Americas,Latin America and the Caribbean
-190.102.56.76,4,Ookla Speedtest server: speed.digicelpanama.com,PA,Panama,Americas,Latin America and the Caribbean
-144.217.178.205,4,seat42f.com,PA,Panama,Americas,Latin America and the Caribbean
-144.217.178.223,4,veggieinspiredjourney.com,PA,Panama,Americas,Latin America and the Caribbean
-200.74.241.124,4,verifyjohns.com,PA,Panama,Americas,Latin America and the Caribbean
-190.14.39.211,4,yemenileopard.org,PA,Panama,Americas,Latin America and the Caribbean
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+144.217.178.194,4,982,cocoandash.com,PA,Panama,Americas,Latin America and the Caribbean
+200.46.99.178,4,376,DNS Server: 178-99-46-200-ip.alianzaviva.net,PA,Panama,Americas,Latin America and the Caribbean
+190.14.203.242,4,-281,DNS Server: 242.203.14.190.clarocom.com,PA,Panama,Americas,Latin America and the Caribbean
+201.218.125.251,4,24,DNS Server: cm-201-218-125-251.cpe-statics.cableonda.net,PA,Panama,Americas,Latin America and the Caribbean
+64.210.64.138,4,8,DNS Server: host-64-210-64-138.metrompls.com,PA,Panama,Americas,Latin America and the Caribbean
+144.217.178.222,4,979,dontgobaconmyheart.co.uk,PA,Panama,Americas,Latin America and the Caribbean
+144.217.178.206,4,976,easyhealthyrecipes.com,PA,Panama,Americas,Latin America and the Caribbean
+104.145.235.231,4,-2,ecf.org.il,PA,Panama,Americas,Latin America and the Caribbean
+144.217.178.192,4,1043,foodapparel.com,PA,Panama,Americas,Latin America and the Caribbean
+104.145.235.88,4,1,harmj0y.net,PA,Panama,Americas,Latin America and the Caribbean
+200.46.135.89,4,800,hidromet.com.pa,PA,Panama,Americas,Latin America and the Caribbean
+144.217.178.204,4,979,lepetiteats.com,PA,Panama,Americas,Latin America and the Caribbean
+143.202.155.134,4,109,lola-nu.top,PA,Panama,Americas,Latin America and the Caribbean
+144.217.178.193,4,1004,myberryforest.com,PA,Panama,Americas,Latin America and the Caribbean
+190.123.45.35,4,-3,online-modafinil.com,PA,Panama,Americas,Latin America and the Caribbean
+144.217.178.205,4,993,seat42f.com,PA,Panama,Americas,Latin America and the Caribbean
+144.217.178.223,4,981,veggieinspiredjourney.com,PA,Panama,Americas,Latin America and the Caribbean
+200.74.241.124,4,1277,verifyjohns.com,PA,Panama,Americas,Latin America and the Caribbean
+190.14.39.211,4,1,yemenileopard.org,PA,Panama,Americas,Latin America and the Caribbean

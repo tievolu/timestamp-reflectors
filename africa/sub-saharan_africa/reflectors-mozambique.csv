@@ -1,7 +1,10 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-196.3.101.3,4,jornalnoticias.co.mz,MZ,Mozambique,Africa,Sub-Saharan Africa
-41.76.145.100,4,Ookla Speedtest server: speedtest.vm.co.mz,MZ,Mozambique,Africa,Sub-Saharan Africa
-196.3.100.162,4,rm.co.mz,MZ,Mozambique,Africa,Sub-Saharan Africa
-197.249.0.15,4,tvcabo.mz,MZ,Mozambique,Africa,Sub-Saharan Africa
-196.3.96.206,4,uem.mz,MZ,Mozambique,Africa,Sub-Saharan Africa
-196.3.96.207,4,unitiva.ac.mz,MZ,Mozambique,Africa,Sub-Saharan Africa
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+196.10.148.37,4,-1489,DNS Server: dns02.webmasters.co.mz,MZ,Mozambique,Africa,Sub-Saharan Africa
+196.22.60.4,4,287,DNS Server: ip-196-22-60-4.teledata.mz,MZ,Mozambique,Africa,Sub-Saharan Africa
+196.3.101.3,4,3,jornalnoticias.co.mz,MZ,Mozambique,Africa,Sub-Saharan Africa
+41.76.145.100,4,5646892,Ookla Speedtest Server 16881: speedtest.vm.co.mz,MZ,Mozambique,Africa,Sub-Saharan Africa
+197.218.5.246,4,392,Ookla Speedtest Server 32923: speedtest2.movitel.co.mz,MZ,Mozambique,Africa,Sub-Saharan Africa
+196.3.100.162,4,278,rm.co.mz,MZ,Mozambique,Africa,Sub-Saharan Africa
+197.249.0.15,4,2032,tvcabo.mz,MZ,Mozambique,Africa,Sub-Saharan Africa
+196.3.96.206,4,355,uem.mz,MZ,Mozambique,Africa,Sub-Saharan Africa
+196.3.96.207,4,704,unitiva.ac.mz,MZ,Mozambique,Africa,Sub-Saharan Africa

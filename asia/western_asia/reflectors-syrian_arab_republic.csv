@@ -1,2 +1,2 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-185.216.135.10,4,shamra.sy,SY,Syrian Arab Republic,Asia,Western Asia
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+185.216.135.10,4,8,shamra.sy,SY,Syrian Arab Republic,Asia,Western Asia

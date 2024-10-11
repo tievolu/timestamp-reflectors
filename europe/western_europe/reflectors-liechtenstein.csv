@@ -1,4 +1,6 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-85.31.17.164,4,laumat.at,LI,Liechtenstein,Europe,Western Europe
-85.31.17.163,4,laumat.at,LI,Liechtenstein,Europe,Western Europe
-212.77.63.30,4,Ookla Speedtest server: speedtest.supra.net,LI,Liechtenstein,Europe,Western Europe
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+85.31.17.163,4,4,laumat.at,LI,Liechtenstein,Europe,Western Europe
+85.31.17.164,4,26,laumat.at,LI,Liechtenstein,Europe,Western Europe
+217.173.225.98,4,137,Ookla Speedtest Server 17048: speedtest.fl1.li,LI,Liechtenstein,Europe,Western Europe
+82.117.12.18,4,389,Ookla Speedtest Server 20085: speedtest.hoi.li,LI,Liechtenstein,Europe,Western Europe
+212.77.63.5,4,172,Ookla Speedtest Server 54600: speedtest.lie.net,LI,Liechtenstein,Europe,Western Europe

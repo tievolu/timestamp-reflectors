@@ -1,2 +1,5 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-61.6.254.106,4,brunet.bn,BN,Brunei Darussalam,Asia,South-eastern Asia
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+61.6.254.106,4,-30139664,brunet.bn,BN,Brunei Darussalam,Asia,South-eastern Asia
+202.160.29.218,4,20,Ookla Speedtest Server: speedtest1unn.brunet.bn,BN,Brunei Darussalam,Asia,South-eastern Asia
+202.160.27.38,4,215,Ookla Speedtest Server: speedtest4unn.brunet.bn,BN,Brunei Darussalam,Asia,South-eastern Asia
+202.160.5.178,4,-88,unissa.edu.bn,BN,Brunei Darussalam,Asia,South-eastern Asia

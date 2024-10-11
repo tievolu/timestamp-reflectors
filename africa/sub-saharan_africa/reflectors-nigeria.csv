@@ -1,34 +1,37 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-196.220.67.227,4,abu.edu.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-197.159.69.181,4,airforce.mil.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-102.164.38.81,4,anambrastate.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-197.159.78.201,4,budgetoffice.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-197.159.70.171,4,foreignaffairs.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-197.159.71.120,4,frsc.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-197.159.74.26,4,icpc.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-83.143.8.249,4,MTN NIGERIA Communication limited,NG,Nigeria,Africa,Sub-Saharan Africa
-41.138.161.61,4,nafdac.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-197.159.78.29,4,nationalpopulation.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-197.159.78.216,4,navy.mil.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-197.159.70.90,4,ncaa.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-197.159.66.203,4,nde.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-197.159.66.207,4,neiti.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-197.159.67.12,4,nema.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-197.159.74.87,4,nerc.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-154.113.177.235,4,newscentral.africa,NG,Nigeria,Africa,Sub-Saharan Africa
-197.159.69.92,4,nigerianstat.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-197.159.70.254,4,nimasa.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-41.222.79.4,4,nira.org.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-197.159.69.112,4,npf.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-197.159.67.40,4,nphcda.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-41.73.156.132,4,Ookla Speedtest server: speedtest.isnigeria.com.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-41.79.4.25,4,Ookla Speedtest server: web.hyperia.com,NG,Nigeria,Africa,Sub-Saharan Africa
-41.78.83.207,4,osgof.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-102.219.189.129,4,pastorchrisonline.org,NG,Nigeria,Africa,Sub-Saharan Africa
-41.242.54.153,4,policerecruitment.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-197.159.68.50,4,population.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-197.159.67.13,4,son.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-197.255.160.237,4,spectranet.com.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-197.159.78.84,4,tetfund.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-41.78.224.48,4,udusok.edu.ng,NG,Nigeria,Africa,Sub-Saharan Africa
-197.159.67.22,4,von.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+196.220.67.227,4,16,abu.edu.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+197.159.69.181,4,789,airforce.mil.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+102.164.38.81,4,38,anambrastate.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+41.184.148.252,4,-122,DNS Server: 41-184-148-252.rv.ipnxtelecoms.com,NG,Nigeria,Africa,Sub-Saharan Africa
+41.184.157.101,4,146,DNS Server: 41-184-157-101.rv.ipnxtelecoms.com,NG,Nigeria,Africa,Sub-Saharan Africa
+41.184.167.3,4,120,DNS Server: 41-184-167-3.rv.ipnxtelecoms.com,NG,Nigeria,Africa,Sub-Saharan Africa
+41.184.212.17,4,54,DNS Server: 41-184-212-17.rv.ipnxtelecoms.com,NG,Nigeria,Africa,Sub-Saharan Africa
+41.184.246.20,4,650,DNS Server: 41-184-246-20.rv.ipnxtelecoms.com,NG,Nigeria,Africa,Sub-Saharan Africa
+41.184.254.44,4,588,DNS Server: 41-184-254-44.rv.ipnxtelecoms.com,NG,Nigeria,Africa,Sub-Saharan Africa
+197.159.70.171,4,930,foreignaffairs.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+197.159.71.120,4,478,frsc.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+197.159.74.26,4,141718,icpc.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+41.138.161.61,4,5948,nafdac.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+197.159.78.29,4,5,nationalpopulation.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+197.159.78.216,4,1459,navy.mil.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+197.159.68.249,4,-51926,nbc.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+197.159.67.12,4,4,nema.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+197.159.74.87,4,5,nerc.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+154.113.177.235,4,43,newscentral.africa,NG,Nigeria,Africa,Sub-Saharan Africa
+197.159.69.92,4,1020,nigerianstat.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+197.159.70.254,4,1280,nimasa.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+41.222.79.4,4,8,nira.org.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+197.159.69.112,4,970,npf.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+197.159.67.40,4,683,nphcda.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+105.112.48.68,4,351,Ookla Speedtest Server 15278: speedtest2.ng.airtel.com,NG,Nigeria,Africa,Sub-Saharan Africa
+197.159.66.45,4,555965,Ookla Speedtest Server 53092: speedtest.galaxybackbone.com.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+169.239.188.83,4,155,Ookla Speedtest Server 54795: speedtest.dng.dolphintelecom.net,NG,Nigeria,Africa,Sub-Saharan Africa
+102.223.1.254,4,334,Ookla Speedtest Server 64936: speedtest.wifiber.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+41.78.83.207,4,1398,osgof.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+102.219.189.129,4,31,pastorchrisonline.org,NG,Nigeria,Africa,Sub-Saharan Africa
+41.242.54.153,4,22,policerecruitment.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+197.159.68.50,4,2052168,population.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+197.159.67.13,4,11,son.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+197.255.160.237,4,1072,spectranet.com.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+197.159.78.84,4,472,tetfund.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa
+197.159.67.22,4,17,von.gov.ng,NG,Nigeria,Africa,Sub-Saharan Africa

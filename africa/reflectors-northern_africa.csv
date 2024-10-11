@@ -1,49 +1,70 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-67.215.1.58,4,adhoc-architectes.com,MA,Morocco,Africa,Northern Africa
-41.111.152.134,4,alelec.com,DZ,Algeria,Africa,Northern Africa
-41.77.113.115,4,alumetaux.com,MA,Morocco,Africa,Northern Africa
-196.61.234.53,4,amci.ma,MA,Morocco,Africa,Northern Africa
-41.128.143.175,4,amgad-hendy.com,EG,Egypt,Africa,Northern Africa
-164.160.104.175,4,arabfinance.com,EG,Egypt,Africa,Northern Africa
-102.50.246.97,4,bnrm.ma,MA,Morocco,Africa,Northern Africa
-159.8.122.149,4,caper-cogefi.com,MA,Morocco,Africa,Northern Africa
-67.215.1.242,4,chrc-ccdp.ca,MA,Morocco,Africa,Northern Africa
-196.200.131.40,4,cnrst.ma,MA,Morocco,Africa,Northern Africa
-196.219.220.152,4,customs.gov.eg,EG,Egypt,Africa,Northern Africa
-196.203.86.23,4,defense.tn,TN,Tunisia,Africa,Northern Africa
-41.225.8.74,4,discovertunisia.com,TN,Tunisia,Africa,Northern Africa
-102.220.31.36,4,domelec-dz.com,DZ,Algeria,Africa,Northern Africa
-196.32.219.194,4,festivalmarrakech.info,MA,Morocco,Africa,Northern Africa
-209.236.117.90,4,getblogo.com,MA,Morocco,Africa,Northern Africa
-156.200.108.122,4,hcww.com.eg,EG,Egypt,Africa,Northern Africa
-196.32.217.68,4,hps-worldwide.com,MA,Morocco,Africa,Northern Africa
-102.211.210.180,4,institutfrancais-tunisie.com,TN,Tunisia,Africa,Northern Africa
-193.95.69.66,4,interieur.gov.tn,TN,Tunisia,Africa,Northern Africa
-197.12.9.76,4,intouch.com.tn,TN,Tunisia,Africa,Northern Africa
-176.97.76.60,4,ist-budget.ru,EG,Egypt,Africa,Northern Africa
-134.255.244.178,4,klosterbrauerei.com,DZ,Algeria,Africa,Northern Africa
-196.32.219.106,4,madein.city,MA,Morocco,Africa,Northern Africa
-196.200.160.147,4,marwan.ma,MA,Morocco,Africa,Northern Africa
-102.219.179.122,4,mastodon.tn,TN,Tunisia,Africa,Northern Africa
-196.223.158.58,4,MAX NET FOR INTERNET SERVICES,SD,Sudan,Africa,Northern Africa
-159.8.122.141,4,metagrhyd.com,MA,Morocco,Africa,Northern Africa
-197.230.9.168,4,mincom.gov.ma,MA,Morocco,Africa,Northern Africa
-102.211.209.37,4,miss2l.com,TN,Tunisia,Africa,Northern Africa
-41.217.224.23,4,mistnews.com,EG,Egypt,Africa,Northern Africa
-62.140.73.195,4,moee.gov.eg,EG,Egypt,Africa,Northern Africa
-62.240.36.40,4,nic.ly,LY,Libya,Africa,Northern Africa
-41.206.128.146,4,Ookla Speedtest server: speedtest.vodafone.com.eg,EG,Egypt,Africa,Northern Africa
-217.139.39.84,4,premiere-securities.com,EG,Egypt,Africa,Northern Africa
-102.219.176.81,4,rnrt.tn,TN,Tunisia,Africa,Northern Africa
-197.13.10.54,4,rtci.tn,TN,Tunisia,Africa,Northern Africa
-197.140.11.226,4,safex.dz,DZ,Algeria,Africa,Northern Africa
-209.236.117.164,4,toodarkpark.org,MA,Morocco,Africa,Northern Africa
-193.95.75.124,4,tunicom.com.tn,TN,Tunisia,Africa,Northern Africa
-196.200.176.4,4,ucam.ac.ma,MA,Morocco,Africa,Northern Africa
-41.77.114.55,4,ueuromed.org,MA,Morocco,Africa,Northern Africa
-41.111.243.101,4,univ-blida.dz,DZ,Algeria,Africa,Northern Africa
-41.111.206.210,4,univ-msila.dz,DZ,Algeria,Africa,Northern Africa
-41.111.171.235,4,univ-oran1.dz,DZ,Algeria,Africa,Northern Africa
-41.110.190.124,4,univ-saida.dz,DZ,Algeria,Africa,Northern Africa
-41.111.224.35,4,univ-tebessa.dz,DZ,Algeria,Africa,Northern Africa
-41.111.224.45,4,univ-tebessa.dz,DZ,Algeria,Africa,Northern Africa
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+41.111.152.134,4,1112,alelec.com,DZ,Algeria,Africa,Northern Africa
+41.77.113.115,4,-2,alumetaux.com,MA,Morocco,Africa,Northern Africa
+196.61.234.53,4,-20,amci.ma,MA,Morocco,Africa,Northern Africa
+41.128.143.175,4,5,amgad-hendy.com,EG,Egypt,Africa,Northern Africa
+102.50.246.97,4,67,bnrm.ma,MA,Morocco,Africa,Northern Africa
+159.8.122.149,4,10,caper-cogefi.com,MA,Morocco,Africa,Northern Africa
+67.215.1.242,4,8,chrc-ccdp.ca,MA,Morocco,Africa,Northern Africa
+196.203.86.23,4,15348,defense.tn,TN,Tunisia,Africa,Northern Africa
+41.225.8.74,4,763,discovertunisia.com,TN,Tunisia,Africa,Northern Africa
+81.192.193.223,4,132,DNS Server: adsl-223-193-192-81.adsl.iam.net.ma,MA,Morocco,Africa,Northern Africa
+81.192.87.76,4,-729614,DNS Server: adsl-76-87-192-81.adsl2.iam.net.ma,MA,Morocco,Africa,Northern Africa
+196.203.86.4,4,723586,DNS Server: dns.defense.tn,TN,Tunisia,Africa,Northern Africa
+41.65.234.152,4,-15,DNS Server: HOST-152-234.65.41.nile-online.net,EG,Egypt,Africa,Northern Africa
+197.42.39.250,4,1,DNS Server: host-197.42.39.250.tedata.net,EG,Egypt,Africa,Northern Africa
+102.220.31.36,4,14,domelec-dz.com,DZ,Algeria,Africa,Northern Africa
+72.9.150.244,4,23,freewha.com,EG,Egypt,Africa,Northern Africa
+156.200.108.122,4,13,hcww.com.eg,EG,Egypt,Africa,Northern Africa
+196.32.217.68,4,4,hps-worldwide.com,MA,Morocco,Africa,Northern Africa
+196.200.131.40,4,43,imist.ma,MA,Morocco,Africa,Northern Africa
+102.211.210.180,4,8,institutfrancais-tunisie.com,TN,Tunisia,Africa,Northern Africa
+193.95.69.66,4,95,interieur.gov.tn,TN,Tunisia,Africa,Northern Africa
+197.12.9.76,4,35,intouch.com.tn,TN,Tunisia,Africa,Northern Africa
+134.255.244.178,4,5,klosterbrauerei.com,DZ,Algeria,Africa,Northern Africa
+213.179.181.28,4,12,lecourrier-dalgerie.com,DZ,Algeria,Africa,Northern Africa
+196.200.160.147,4,0,marwan.ma,MA,Morocco,Africa,Northern Africa
+102.219.179.122,4,-188,mastodon.tn,TN,Tunisia,Africa,Northern Africa
+196.203.16.137,4,1134,medianet.tn,TN,Tunisia,Africa,Northern Africa
+159.8.122.141,4,31,metagrhyd.com,MA,Morocco,Africa,Northern Africa
+197.230.9.168,4,363814,mincom.gov.ma,MA,Morocco,Africa,Northern Africa
+102.211.209.37,4,16,miss2l.com,TN,Tunisia,Africa,Northern Africa
+41.217.224.23,4,29,mistnews.com,EG,Egypt,Africa,Northern Africa
+62.240.36.40,4,6,nic.ly,LY,Libya,Africa,Northern Africa
+105.198.254.217,4,63433,Ookla Speedtest Server 7237: speedtest10.vodafone.com.eg,EG,Egypt,Africa,Northern Africa
+193.95.65.35,4,128,Ookla Speedtest Server 8860: speedtest.tunisietelecom.tn,TN,Tunisia,Africa,Northern Africa
+105.203.255.77,4,-20474149,Ookla Speedtest Server 9121: sp20.etisalatdata.net,EG,Egypt,Africa,Northern Africa
+196.217.248.25,4,-7513071,Ookla Speedtest Server 18752: fesst.iam.ma,MA,Morocco,Africa,Northern Africa
+105.203.254.97,4,2490185,Ookla Speedtest Server 18891: sp40.etisalatdata.net,EG,Egypt,Africa,Northern Africa
+196.179.255.10,4,377,Ookla Speedtest Server 21507: speedtest3.ooredoo.tn,TN,Tunisia,Africa,Northern Africa
+165.16.48.100,4,277,Ookla Speedtest Server 23273: ookla.orannge.ly,LY,Libya,Africa,Northern Africa
+195.234.120.245,4,295,Ookla Speedtest Server 28958: speedtest2.ltc.net.ly,LY,Libya,Africa,Northern Africa
+129.45.0.71,4,-423368,Ookla Speedtest Server 31853: speedtest3.djezzy.dz,DZ,Algeria,Africa,Northern Africa
+129.45.0.3,4,1004821,Ookla Speedtest Server 32700: speedtest4.djezzy.dz,DZ,Algeria,Africa,Northern Africa
+105.203.210.8,4,448,Ookla Speedtest Server 40845: sp90.etisalatdata.net,EG,Egypt,Africa,Northern Africa
+105.203.210.12,4,429,Ookla Speedtest Server 41251: sp100.etisalatdata.net,EG,Egypt,Africa,Northern Africa
+102.221.11.130,4,6808106,Ookla Speedtest Server 42104: speedtest.hti.ly,LY,Libya,Africa,Northern Africa
+62.68.238.130,4,1530891,Ookla Speedtest Server 42668: speedtest5.vodafone.com.eg,EG,Egypt,Africa,Northern Africa
+165.16.29.254,4,-29452,Ookla Speedtest Server 43507: hiclass.com.ly,LY,Libya,Africa,Northern Africa
+41.224.12.25,4,-1319587,Ookla Speedtest Server 50652: nextgen.orange.tn,TN,Tunisia,Africa,Northern Africa
+62.68.253.46,4,162,Ookla Speedtest Server 55369: speedtest4.vodafone.com.eg,EG,Egypt,Africa,Northern Africa
+197.199.237.45,4,338,Ookla Speedtest Server 57063: sp150.etisalatdata.net,EG,Egypt,Africa,Northern Africa
+105.203.210.9,4,415,Ookla Speedtest Server 58712: sp110.etisalatdata.net,EG,Egypt,Africa,Northern Africa
+105.203.210.10,4,396,Ookla Speedtest Server 58713: sp120.etisalatdata.net,EG,Egypt,Africa,Northern Africa
+197.199.237.47,4,331,Ookla Speedtest Server 58714: sp130.etisalatdata.net,EG,Egypt,Africa,Northern Africa
+165.16.33.18,4,261,Ookla Speedtest Server 62056: speedtest.aljuman.ly,LY,Libya,Africa,Northern Africa
+196.219.138.196,4,328,Ookla Speedtest Server 64536: st.speedtouch.net,EG,Egypt,Africa,Northern Africa
+102.164.97.162,4,176766,Ookla Speedtest Server 65518: speedtest.libyana.ly,LY,Libya,Africa,Northern Africa
+41.206.128.146,4,2257985,Ookla Speedtest Server: speedtest.vodafone.com.eg,EG,Egypt,Africa,Northern Africa
+176.97.76.60,4,48,redht.ru,EG,Egypt,Africa,Northern Africa
+102.219.176.81,4,857,rnrt.tn,TN,Tunisia,Africa,Northern Africa
+197.13.10.54,4,5,rtci.tn,TN,Tunisia,Africa,Northern Africa
+197.140.11.226,4,242,safex.dz,DZ,Algeria,Africa,Northern Africa
+196.200.176.4,4,-10458514,ucam.ac.ma,MA,Morocco,Africa,Northern Africa
+41.77.114.55,4,16,ueuromed.org,MA,Morocco,Africa,Northern Africa
+41.111.234.131,4,12,univ-boumerdes.dz,DZ,Algeria,Africa,Northern Africa
+41.111.206.210,4,2642336,univ-msila.dz,DZ,Algeria,Africa,Northern Africa
+41.111.171.235,4,21,univ-oran1.dz,DZ,Algeria,Africa,Northern Africa
+41.110.190.124,4,20,univ-saida.dz,DZ,Algeria,Africa,Northern Africa
+41.111.224.45,4,14,univ-tebessa.dz,DZ,Algeria,Africa,Northern Africa
+41.111.224.35,4,12,univ-tebessa.dz,DZ,Algeria,Africa,Northern Africa

@@ -1,3 +1,6 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-67.215.3.165,4,sibername.com,VG,Virgin Islands British,Americas,Latin America and the Caribbean
-179.48.251.117,4,veredictas.com,VG,Virgin Islands British,Americas,Latin America and the Caribbean
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+149.56.184.112,4,75,DNS Server: ns.ca.tilde.club,VG,Virgin Islands British,Americas,Latin America and the Caribbean
+74.113.105.206,4,2236388,Ookla Speedtest Server 7633: speedtest.cctwireless.com,VG,Virgin Islands British,Americas,Latin America and the Caribbean
+63.143.79.78,4,309,Ookla Speedtest Server 44368: speedtest.digicelbvi.com,VG,Virgin Islands British,Americas,Latin America and the Caribbean
+67.215.3.165,4,2,sibername.com,VG,Virgin Islands British,Americas,Latin America and the Caribbean
+179.48.251.117,4,10,veredictas.com,VG,Virgin Islands British,Americas,Latin America and the Caribbean

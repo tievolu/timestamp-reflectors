@@ -1,4 +1,26 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-62.201.225.12,4,Ookla Speedtest server: speedtest.iqnet.com,IQ,Iraq,Asia,Western Asia
-37.238.255.53,4,Ookla Speedtest server: speedtest1.earthlinktele.com,IQ,Iraq,Asia,Western Asia
-185.184.198.164,4,ramada.com,IQ,Iraq,Asia,Western Asia
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+185.14.249.46,4,23695,DNS Server: 185.14.249.46.tarinnet.info,IQ,Iraq,Asia,Western Asia
+185.38.213.57,4,1,DNS Server: 57-213.gsfastnet.net,IQ,Iraq,Asia,Western Asia
+176.241.82.85,4,176,Ookla Speedtest Server 5622: sp1.hayat-isp.net,IQ,Iraq,Asia,Western Asia
+109.107.155.5,4,-15185,Ookla Speedtest Server 16369: teste.mena-isp.net,IQ,Iraq,Asia,Western Asia
+188.72.4.230,4,205,Ookla Speedtest Server 16882: speedtest.alsardfiber.com,IQ,Iraq,Asia,Western Asia
+213.32.253.214,4,367,Ookla Speedtest Server 25218: speedtest2.o3-telecom.com,IQ,Iraq,Asia,Western Asia
+185.95.206.129,4,340,Ookla Speedtest Server 32669: speedtest-sulfm.asiacell.com,IQ,Iraq,Asia,Western Asia
+37.77.48.51,4,4594,Ookla Speedtest Server 39247: speedtest.jt.iq,IQ,Iraq,Asia,Western Asia
+89.46.202.239,4,287,Ookla Speedtest Server 44649: speedtest-njf.asiacell.com,IQ,Iraq,Asia,Western Asia
+82.199.220.239,4,217,Ookla Speedtest Server 44812: speedtest-msl.asiacell.com,IQ,Iraq,Asia,Western Asia
+151.236.178.18,4,160,Ookla Speedtest Server 46713: speedtestbas.iq.zain.com,IQ,Iraq,Asia,Western Asia
+151.236.172.18,4,272,Ookla Speedtest Server 46767: speedtestdiw.iq.zain.com,IQ,Iraq,Asia,Western Asia
+151.236.169.26,4,190,Ookla Speedtest Server 47065: speedtestkir.iq.zain.com,IQ,Iraq,Asia,Western Asia
+82.199.216.239,4,178,Ookla Speedtest Server 47123: speedtest-bgdap.asiacell.com,IQ,Iraq,Asia,Western Asia
+82.199.218.239,4,201,Ookla Speedtest Server 47157: speedtest-dyl.asiacell.com,IQ,Iraq,Asia,Western Asia
+91.106.32.23,4,209,Ookla Speedtest Server 56002: speedtest.halasat.com,IQ,Iraq,Asia,Western Asia
+91.192.7.6,4,311,Ookla Speedtest Server 56363: speedtest.nbtel.iq,IQ,Iraq,Asia,Western Asia
+185.91.19.67,4,242,Ookla Speedtest Server 59703: spt1.tishknet.com,IQ,Iraq,Asia,Western Asia
+185.164.216.38,4,327,Ookla Speedtest Server 59960: speedtest.livelinkisp.com,IQ,Iraq,Asia,Western Asia
+185.135.69.42,4,216,Ookla Speedtest Server 61970: speedtest.gntcld.net,IQ,Iraq,Asia,Western Asia
+185.16.25.249,4,304,Ookla Speedtest Server 62149: eitis.cloudns.nz,IQ,Iraq,Asia,Western Asia
+188.72.41.193,4,303,Ookla Speedtest Server 62150: kut.cloudns.nz,IQ,Iraq,Asia,Western Asia
+94.176.40.249,4,308,Ookla Speedtest Server 62164: wataniya.cloudns.nz,IQ,Iraq,Asia,Western Asia
+62.201.225.12,4,191,Ookla Speedtest Server: speedtest.iqnet.com,IQ,Iraq,Asia,Western Asia
+185.184.198.164,4,130047,ramada.com,IQ,Iraq,Asia,Western Asia

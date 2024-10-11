@@ -1,5 +1,4 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-83.143.25.198,4,bankofbotswana.bw,BW,Botswana,Africa,Sub-Saharan Africa
-168.167.253.15,4,Ookla Speedtest server: www.speedtest.co.bw,BW,Botswana,Africa,Sub-Saharan Africa
-213.193.44.222,4,weekendpost.co.bw,BW,Botswana,Africa,Sub-Saharan Africa
-168.167.228.94,4,www.gov.bw,BW,Botswana,Africa,Sub-Saharan Africa
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+83.143.25.198,4,7,bankofbotswana.bw,BW,Botswana,Africa,Sub-Saharan Africa
+168.167.16.14,4,285,Ookla Speedtest Server 944: speedtest.co.bw,BW,Botswana,Africa,Sub-Saharan Africa
+168.167.228.94,4,21723,www.gov.bw,BW,Botswana,Africa,Sub-Saharan Africa

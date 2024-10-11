@@ -1,2 +1,9 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-37.152.4.230,4,Ookla Speedtest server: speedtest.umniah.com,JO,Jordan,Asia,Western Asia
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+79.134.152.192,4,-10799138,DNS Server: gw192-152.jcsfiberlink.net,JO,Jordan,Asia,Western Asia
+188.247.93.122,4,40091,DNS Server: ip188-247-93-122.zaindata.jo,JO,Jordan,Asia,Western Asia
+185.176.44.2,4,141,Ookla Speedtest Server 19169: speedtest.blink.jo,JO,Jordan,Asia,Western Asia
+79.134.128.7,4,312,Ookla Speedtest Server 33140: speed2.jcs.jo,JO,Jordan,Asia,Western Asia
+176.29.210.254,4,136,Ookla Speedtest Server 55597: speedtest4.zaindata.com.jo,JO,Jordan,Asia,Western Asia
+91.106.104.18,4,152028,Ookla Speedtest Server 60288: speedtestzarqa.umniah.com,JO,Jordan,Asia,Western Asia
+91.106.104.122,4,25834,Ookla Speedtest Server 60306: speedtestaqaba.umniah.com,JO,Jordan,Asia,Western Asia
+37.152.4.230,4,324531,Ookla Speedtest Server: speedtest.umniah.com,JO,Jordan,Asia,Western Asia

@@ -1,3 +1,4 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-82.145.55.129,4,drp.su,JE,Jersey,Europe,Northern Europe
-82.145.55.65,4,shiaonlinelibrary.com,JE,Jersey,Europe,Northern Europe
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+185.3.52.19,4,31,DNS Server: 19.52.3.185.jtglobal.com,JE,Jersey,Europe,Northern Europe
+87.244.76.66,4,-22,DNS Server: 66.76.244.87.jtglobal.com,JE,Jersey,Europe,Northern Europe
+82.145.55.129,4,2,drp.su,JE,Jersey,Europe,Northern Europe

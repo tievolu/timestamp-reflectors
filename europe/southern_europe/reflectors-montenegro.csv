@@ -1,3 +1,4 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-94.102.233.24,4,djecijagarderoba.me,ME,Montenegro,Europe,Southern Europe
-94.102.233.29,4,monstat.org,ME,Montenegro,Europe,Southern Europe
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+94.102.233.24,4,1180,igraonica.me,ME,Montenegro,Europe,Southern Europe
+94.102.233.29,4,1001,monstat.org,ME,Montenegro,Europe,Southern Europe
+77.222.22.82,4,238091,Ookla Speedtest Server: speedtest.t-com.me,ME,Montenegro,Europe,Southern Europe

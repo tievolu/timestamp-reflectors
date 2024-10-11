@@ -1,22 +1,66 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-67.227.241.44,4,all-options.org,EC,Ecuador,Americas,Latin America and the Caribbean
-186.3.15.117,4,ecotec.edu.ec,EC,Ecuador,Americas,Latin America and the Caribbean
-67.227.241.204,4,eluta.ca,EC,Ecuador,Americas,Latin America and the Caribbean
-208.122.223.106,4,gatdaily.com,EC,Ecuador,Americas,Latin America and the Caribbean
-208.122.223.44,4,homoeroticus.com,EC,Ecuador,Americas,Latin America and the Caribbean
-190.155.53.131,4,libreriapapiros.com,EC,Ecuador,Americas,Latin America and the Caribbean
-67.227.241.48,4,listentotaxman.com,EC,Ecuador,Americas,Latin America and the Caribbean
-67.227.241.157,4,micollegeaccess.org,EC,Ecuador,Americas,Latin America and the Caribbean
-45.71.185.100,4,NEDETEL S.A.,EC,Ecuador,Americas,Latin America and the Caribbean
-190.95.206.99,4,olade.org,EC,Ecuador,Americas,Latin America and the Caribbean
-45.70.14.39,4,Ookla Speedtest server: speedtest.hsyns.net,EC,Ecuador,Americas,Latin America and the Caribbean
-67.227.241.94,4,petfriendly.ca,EC,Ecuador,Americas,Latin America and the Caribbean
-67.227.241.61,4,philipharland.com,EC,Ecuador,Americas,Latin America and the Caribbean
-208.122.223.58,4,pineapplesupport.org,EC,Ecuador,Americas,Latin America and the Caribbean
-51.222.209.214,4,shawinigan.ca,EC,Ecuador,Americas,Latin America and the Caribbean
-67.227.241.203,4,telepathy.com,EC,Ecuador,Americas,Latin America and the Caribbean
-200.1.161.62,4,uees.edu.ec,EC,Ecuador,Americas,Latin America and the Caribbean
-192.207.244.25,4,uleam.edu.ec,EC,Ecuador,Americas,Latin America and the Caribbean
-201.159.222.210,4,uti.edu.ec,EC,Ecuador,Americas,Latin America and the Caribbean
-190.15.136.231,4,utm.edu.ec,EC,Ecuador,Americas,Latin America and the Caribbean
-208.122.223.79,4,waltherarms.com,EC,Ecuador,Americas,Latin America and the Caribbean
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+67.227.241.44,4,36,all-options.org,EC,Ecuador,Americas,Latin America and the Caribbean
+181.112.60.126,4,-53416677,DNS Server: 126.60.112.181.static.anycast.cnt-grms.ec,EC,Ecuador,Americas,Latin America and the Caribbean
+190.152.182.150,4,-8275745,DNS Server: 150.182.152.190.static.anycast.cnt-grms.ec,EC,Ecuador,Americas,Latin America and the Caribbean
+204.199.157.70,4,-1003291,DNS Server: 204-199-157-70.dia.static.centurylink.com.ec,EC,Ecuador,Americas,Latin America and the Caribbean
+191.100.22.36,4,34,DNS Server: 36.191-100-22.etapanet.net,EC,Ecuador,Americas,Latin America and the Caribbean
+191.100.20.40,4,51,DNS Server: 40.191-100-20.etapanet.net,EC,Ecuador,Americas,Latin America and the Caribbean
+67.227.23.248,4,14,DNS Server: 67.227.23.248.rdns.ColocationAmerica.com,EC,Ecuador,Americas,Latin America and the Caribbean
+190.63.54.76,4,109077,DNS Server: customer-190-63-54-76.claro.com.ec,EC,Ecuador,Americas,Latin America and the Caribbean
+131.196.14.211,4,9,DNS Server: host-131-196-14-211.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
+157.100.55.226,4,24371,DNS Server: host-157-100-55-226.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
+157.100.63.111,4,9,DNS Server: host-157-100-63-111.ecua.net.ec,EC,Ecuador,Americas,Latin America and the Caribbean
+164.163.133.142,4,-39401372,DNS Server: host-164-163-133-142.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
+177.234.199.222,4,266,DNS Server: host-177-234-199-222.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
+177.234.229.75,4,-38064,DNS Server: host-177-234-229-75.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
+177.234.245.244,4,120,DNS Server: host-177-234-245-244.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
+177.234.249.65,4,892,DNS Server: host-177-234-249-65.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
+200.24.146.10,4,30750441,DNS Server: host-200-24-146-10.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
+200.24.159.207,4,11,DNS Server: host-200-24-159-207.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
+45.186.140.23,4,77,DNS Server: host-45-186-140-23.tecmesh.com.ec,EC,Ecuador,Americas,Latin America and the Caribbean
+45.224.148.158,4,31192370,DNS Server: host-45-224-148-158.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
+45.224.153.236,4,430936,DNS Server: host-45-224-153-236.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
+45.224.22.25,4,-8638052,DNS Server: host-45-224-22-25.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
+45.224.98.58,4,196,DNS Server: host-45-224-98-58.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
+45.225.105.117,4,88,DNS Server: host-45-225-105-117.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
+45.70.201.66,4,-35881961,DNS Server: host-45-70-201-66.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
+45.70.238.213,4,118,DNS Server: host-45-70-238-213.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
+45.71.186.42,4,113,DNS Server: host-45-71-186-42.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
+45.230.241.228,4,106,DNS Server: ip-45-230-241-228.alfanet.net.ec,EC,Ecuador,Americas,Latin America and the Caribbean
+186.3.15.117,4,7,ecotec.edu.ec,EC,Ecuador,Americas,Latin America and the Caribbean
+67.227.241.204,4,72,eluta.ca,EC,Ecuador,Americas,Latin America and the Caribbean
+108.170.59.170,4,1025,europeansafelist.com,EC,Ecuador,Americas,Latin America and the Caribbean
+208.122.223.106,4,23,gatdaily.com,EC,Ecuador,Americas,Latin America and the Caribbean
+208.122.223.44,4,1,homoeroticus.com,EC,Ecuador,Americas,Latin America and the Caribbean
+67.227.241.48,4,-522,listentotaxman.com,EC,Ecuador,Americas,Latin America and the Caribbean
+67.227.241.157,4,31,micollegeaccess.org,EC,Ecuador,Americas,Latin America and the Caribbean
+190.95.206.99,4,26,olade.org,EC,Ecuador,Americas,Latin America and the Caribbean
+45.71.252.25,4,-2057,Ookla Speedtest Server 15574: speedtest2.visionnet.ec,EC,Ecuador,Americas,Latin America and the Caribbean
+131.161.223.230,4,41,Ookla Speedtest Server 16715: speedtest1.gonet.ec,EC,Ecuador,Americas,Latin America and the Caribbean
+167.250.180.78,4,331,Ookla Speedtest Server 44180: se.sistemasempresariales.net,EC,Ecuador,Americas,Latin America and the Caribbean
+45.228.172.19,4,246,Ookla Speedtest Server 46276: speedtestavisa.teccial.com,EC,Ecuador,Americas,Latin America and the Caribbean
+138.122.108.91,4,-27465274,Ookla Speedtest Server 47486: speedtest.brinatel.com,EC,Ecuador,Americas,Latin America and the Caribbean
+200.31.6.98,4,173,Ookla Speedtest Server 55030: quito.speedtest.ciriontechnologies.com,EC,Ecuador,Americas,Latin America and the Caribbean
+181.198.102.179,4,1373,Ookla Speedtest Server 56928: speed.dfscom.net,EC,Ecuador,Americas,Latin America and the Caribbean
+177.234.249.77,4,327,Ookla Speedtest Server 57742: speedtest.fiberhome-patate.net.ec,EC,Ecuador,Americas,Latin America and the Caribbean
+45.161.33.234,4,121353,Ookla Speedtest Server 57970: speedtest.grupovelocity.com,EC,Ecuador,Americas,Latin America and the Caribbean
+45.161.34.210,4,379,Ookla Speedtest Server 58852: speedtestc.grupovelocity.com,EC,Ecuador,Americas,Latin America and the Caribbean
+200.24.135.133,4,276,Ookla Speedtest Server 59634: speedtestgui.rednuevaconexion.net,EC,Ecuador,Americas,Latin America and the Caribbean
+45.161.35.130,4,121307,Ookla Speedtest Server 60176: speedtestz.grupovelocity.com,EC,Ecuador,Americas,Latin America and the Caribbean
+45.236.141.213,4,6859,Ookla Speedtest Server 62155: speedtest.yiga5.com,EC,Ecuador,Americas,Latin America and the Caribbean
+45.233.101.59,4,173,Ookla Speedtest Server 63032: speedmw.internetdecalidad.com,EC,Ecuador,Americas,Latin America and the Caribbean
+45.164.66.238,4,-40384109,Ookla Speedtest Server 63106: speedtest.vilcanet.com.ec,EC,Ecuador,Americas,Latin America and the Caribbean
+45.189.57.130,4,-114929,Ookla Speedtest Server 63271: speedtest1.cbvision.net.ec,EC,Ecuador,Americas,Latin America and the Caribbean
+200.24.154.84,4,262,Ookla Speedtest Server: speedtest.concelnet.com,EC,Ecuador,Americas,Latin America and the Caribbean
+179.63.20.242,4,293,Ookla Speedtest Server: speedtest.dcnet.com.ec,EC,Ecuador,Americas,Latin America and the Caribbean
+45.70.13.74,4,181,Ookla Speedtest Server: speedtest.iplus.com.ec,EC,Ecuador,Americas,Latin America and the Caribbean
+67.227.241.94,4,26,petfriendly.ca,EC,Ecuador,Americas,Latin America and the Caribbean
+67.227.241.61,4,20,philipharland.com,EC,Ecuador,Americas,Latin America and the Caribbean
+208.122.223.58,4,17,pineapplesupport.org,EC,Ecuador,Americas,Latin America and the Caribbean
+51.222.209.214,4,0,shawinigan.ca,EC,Ecuador,Americas,Latin America and the Caribbean
+67.227.241.203,4,1101,telepathy.com,EC,Ecuador,Americas,Latin America and the Caribbean
+200.1.161.62,4,9,uees.edu.ec,EC,Ecuador,Americas,Latin America and the Caribbean
+192.207.244.25,4,10115,uleam.edu.ec,EC,Ecuador,Americas,Latin America and the Caribbean
+201.159.222.210,4,7,uti.edu.ec,EC,Ecuador,Americas,Latin America and the Caribbean
+190.15.136.231,4,201,utm.edu.ec,EC,Ecuador,Americas,Latin America and the Caribbean
+208.122.223.79,4,5,waltherarms.com,EC,Ecuador,Americas,Latin America and the Caribbean

@@ -1,54 +1,75 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-83.222.7.34,4,adti.uz,UZ,Uzbekistan,Asia,Central Asia
-185.8.212.55,4,agro.uz,UZ,Uzbekistan,Asia,Central Asia
-89.232.187.210,4,alutech-group.com,UZ,Uzbekistan,Asia,Central Asia
-91.212.89.54,4,arbuz.uz,UZ,Uzbekistan,Asia,Central Asia
-83.69.139.250,4,bastombuva.uz,UZ,Uzbekistan,Asia,Central Asia
-95.46.96.104,4,buxdu.uz,UZ,Uzbekistan,Asia,Central Asia
-84.54.115.70,4,cawater-info.net,UZ,Uzbekistan,Asia,Central Asia
-91.212.89.8,4,cctld.uz,UZ,Uzbekistan,Asia,Central Asia
-91.212.89.49,4,constitution.uz,UZ,Uzbekistan,Asia,Central Asia
-195.158.14.74,4,creditasia.uz,UZ,Uzbekistan,Asia,Central Asia
-213.148.20.70,4,daryo.uz,UZ,Uzbekistan,Asia,Central Asia
-185.74.7.84,4,data.gov.uz,UZ,Uzbekistan,Asia,Central Asia
-95.130.227.41,4,dunyo.info,UZ,Uzbekistan,Asia,Central Asia
-213.232.225.60,4,goldenpages.uz,UZ,Uzbekistan,Asia,Central Asia
-185.196.213.26,4,gotovim.uz,UZ,Uzbekistan,Asia,Central Asia
-91.212.89.224,4,gov.uz,UZ,Uzbekistan,Asia,Central Asia
-91.212.89.9,4,id.uz,UZ,Uzbekistan,Asia,Central Asia
-91.212.89.67,4,istiqbolsari.uz,UZ,Uzbekistan,Asia,Central Asia
-80.80.213.94,4,kansler.uz,UZ,Uzbekistan,Asia,Central Asia
-83.69.139.151,4,kathaq.uz,UZ,Uzbekistan,Asia,Central Asia
-91.212.89.57,4,mcfr.uz,UZ,Uzbekistan,Asia,Central Asia
-185.74.4.91,4,mtrk.uz,UZ,Uzbekistan,Asia,Central Asia
-91.212.89.68,4,muzaffar.uz,UZ,Uzbekistan,Asia,Central Asia
-83.69.139.158,4,norma.uz,UZ,Uzbekistan,Asia,Central Asia
-83.69.139.168,4,nurnews.uz,UZ,Uzbekistan,Asia,Central Asia
-185.196.213.39,4,nuu.uz,UZ,Uzbekistan,Asia,Central Asia
-80.80.209.206,4,Ookla Speedtest server: speedtest.tps.uz,UZ,Uzbekistan,Asia,Central Asia
-176.221.28.105,4,orzon.uz,UZ,Uzbekistan,Asia,Central Asia
-185.8.212.74,4,parliament.gov.uz,UZ,Uzbekistan,Asia,Central Asia
-84.54.74.198,4,pochta.uz,UZ,Uzbekistan,Asia,Central Asia
-95.46.96.61,4,podrobno.uz,UZ,Uzbekistan,Asia,Central Asia
-91.212.89.144,4,president.uz,UZ,Uzbekistan,Asia,Central Asia
-89.249.63.162,4,prokuratura.uz,UZ,Uzbekistan,Asia,Central Asia
-185.196.212.52,4,pv.uz,UZ,Uzbekistan,Asia,Central Asia
-185.8.212.42,4,regulation.gov.uz,UZ,Uzbekistan,Asia,Central Asia
-91.190.159.32,4,review.uz,UZ,Uzbekistan,Asia,Central Asia
-213.230.127.153,4,samo.uz,UZ,Uzbekistan,Asia,Central Asia
-195.158.11.139,4,sdtes.uz,UZ,Uzbekistan,Asia,Central Asia
-185.74.7.250,4,stat.uz,UZ,Uzbekistan,Asia,Central Asia
-185.196.212.206,4,tma.uz,UZ,Uzbekistan,Asia,Central Asia
-195.158.2.220,4,tuit.uz,UZ,Uzbekistan,Asia,Central Asia
-84.54.82.141,4,uzairways.com,UZ,Uzbekistan,Asia,Central Asia
-83.69.136.159,4,uzbekistan.travel,UZ,Uzbekistan,Asia,Central Asia
-185.8.212.70,4,uzbektourism.uz,UZ,Uzbekistan,Asia,Central Asia
-91.212.89.50,4,uzgeolcom.uz,UZ,Uzbekistan,Asia,Central Asia
-91.212.89.6,4,uzpse.uz,UZ,Uzbekistan,Asia,Central Asia
-81.95.225.242,4,uzreport.uz,UZ,Uzbekistan,Asia,Central Asia
-83.69.129.17,4,uzsci.net,UZ,Uzbekistan,Asia,Central Asia
-91.212.89.51,4,vinsanoat.uz,UZ,Uzbekistan,Asia,Central Asia
-91.212.89.42,4,www.uz,UZ,Uzbekistan,Asia,Central Asia
-91.190.159.49,4,yuz.uz,UZ,Uzbekistan,Asia,Central Asia
-91.212.89.46,4,ziyonet.uz,UZ,Uzbekistan,Asia,Central Asia
-91.212.89.11,4,zn.uz,UZ,Uzbekistan,Asia,Central Asia
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+83.222.7.34,4,-76246,adti.uz,UZ,Uzbekistan,Asia,Central Asia
+185.8.212.55,4,-4,agro.uz,UZ,Uzbekistan,Asia,Central Asia
+89.232.187.210,4,20,alutech-group.com,UZ,Uzbekistan,Asia,Central Asia
+91.212.89.54,4,92,arbuz.uz,UZ,Uzbekistan,Asia,Central Asia
+83.69.139.250,4,17,bastombuva.uz,UZ,Uzbekistan,Asia,Central Asia
+95.46.96.104,4,3,buxdu.uz,UZ,Uzbekistan,Asia,Central Asia
+84.54.115.70,4,1,cawater-info.net,UZ,Uzbekistan,Asia,Central Asia
+91.212.89.8,4,-15,cctld.uz,UZ,Uzbekistan,Asia,Central Asia
+91.212.89.49,4,7,constitution.uz,UZ,Uzbekistan,Asia,Central Asia
+195.158.14.74,4,-12,creditasia.uz,UZ,Uzbekistan,Asia,Central Asia
+213.148.20.70,4,2,daryo.uz,UZ,Uzbekistan,Asia,Central Asia
+185.74.7.84,4,536470,data.gov.uz,UZ,Uzbekistan,Asia,Central Asia
+146.120.18.67,4,10471,DNS Server: 146.120.18.67.ip.nano.uz,UZ,Uzbekistan,Asia,Central Asia
+146.120.19.15,4,6706680,DNS Server: 146.120.19.15.ip.nano.uz,UZ,Uzbekistan,Asia,Central Asia
+213.230.124.161,4,20,DNS Server: 161.64.uzpak.uz,UZ,Uzbekistan,Asia,Central Asia
+217.30.173.164,4,-2366,DNS Server: 217.30.173.164.static.ip.etc.uz,UZ,Uzbekistan,Asia,Central Asia
+213.230.126.228,4,-11,DNS Server: 228.126.uzpak.uz,UZ,Uzbekistan,Asia,Central Asia
+62.209.139.136,4,-492146684,DNS Server: 62.209.139.136.static.ip.tps.uz,UZ,Uzbekistan,Asia,Central Asia
+80.80.218.218,4,2852608,DNS Server: 80.80.218.218.static.ip.tps.uz,UZ,Uzbekistan,Asia,Central Asia
+87.237.232.106,4,-1,DNS Server: 87.237.232.106.static.ip.etc.uz,UZ,Uzbekistan,Asia,Central Asia
+87.237.233.65,4,18255,DNS Server: 87.237.233.65.static.ip.etc.uz,UZ,Uzbekistan,Asia,Central Asia
+87.237.238.150,4,-17238860,DNS Server: 87.237.238.150.static.ip.etc.uz,UZ,Uzbekistan,Asia,Central Asia
+87.237.238.170,4,6,DNS Server: 87.237.238.170.static.ip.etc.uz,UZ,Uzbekistan,Asia,Central Asia
+91.213.31.156,4,23843125,DNS Server: 91-213-31-156-ip.duplextel.uz,UZ,Uzbekistan,Asia,Central Asia
+91.213.31.40,4,179,DNS Server: 91-213-31-40-ip.duplextel.uz,UZ,Uzbekistan,Asia,Central Asia
+91.234.219.163,4,13470,DNS Server: 91.234.219.163.flink.uz,UZ,Uzbekistan,Asia,Central Asia
+91.240.13.86,4,50,DNS Server: 91.240.13.86.ip.nano.uz,UZ,Uzbekistan,Asia,Central Asia
+93.157.58.137,4,8694485,DNS Server: 93.157.58.137.ip-trans.turontelecom.uz,UZ,Uzbekistan,Asia,Central Asia
+94.158.53.158,4,4552,DNS Server: l3.uz,UZ,Uzbekistan,Asia,Central Asia
+84.54.64.35,4,131,DNS Server: ns3.uzpak.uz,UZ,Uzbekistan,Asia,Central Asia
+95.130.227.41,4,86,dunyo.info,UZ,Uzbekistan,Asia,Central Asia
+213.232.225.60,4,32,goldenpages.uz,UZ,Uzbekistan,Asia,Central Asia
+185.196.213.26,4,-9,gotovim.uz,UZ,Uzbekistan,Asia,Central Asia
+83.69.136.109,4,-9,gt-industrial.uk,UZ,Uzbekistan,Asia,Central Asia
+91.212.89.9,4,0,id.uz,UZ,Uzbekistan,Asia,Central Asia
+91.212.89.67,4,-14,istiqbolsari.uz,UZ,Uzbekistan,Asia,Central Asia
+185.228.88.15,4,1,kansler.uz,UZ,Uzbekistan,Asia,Central Asia
+83.69.139.151,4,29,kathaq.uz,UZ,Uzbekistan,Asia,Central Asia
+91.212.89.57,4,-12,mcfr.uz,UZ,Uzbekistan,Asia,Central Asia
+185.74.4.91,4,12,mtrk.uz,UZ,Uzbekistan,Asia,Central Asia
+83.69.139.158,4,136,nrm.uz,UZ,Uzbekistan,Asia,Central Asia
+83.69.139.168,4,-14,nurnews.uz,UZ,Uzbekistan,Asia,Central Asia
+185.196.213.39,4,84,nuu.uz,UZ,Uzbekistan,Asia,Central Asia
+81.95.225.174,4,77,Ookla Speedtest Server 5381: speed.uz,UZ,Uzbekistan,Asia,Central Asia
+91.188.128.147,4,52,Ookla Speedtest Server 17363: speedtest.ars.uz,UZ,Uzbekistan,Asia,Central Asia
+80.80.209.206,4,30,Ookla Speedtest Server: speedtest.tps.uz,UZ,Uzbekistan,Asia,Central Asia
+176.221.28.105,4,8,orzon.uz,UZ,Uzbekistan,Asia,Central Asia
+185.8.212.74,4,50,parliament.gov.uz,UZ,Uzbekistan,Asia,Central Asia
+84.54.74.198,4,-12,pochta.uz,UZ,Uzbekistan,Asia,Central Asia
+95.46.96.61,4,-28,podrobno.uz,UZ,Uzbekistan,Asia,Central Asia
+91.212.89.144,4,-3,president.uz,UZ,Uzbekistan,Asia,Central Asia
+89.249.63.162,4,58,prokuratura.uz,UZ,Uzbekistan,Asia,Central Asia
+185.8.212.42,4,36,regulation.gov.uz,UZ,Uzbekistan,Asia,Central Asia
+91.190.159.32,4,67,review.uz,UZ,Uzbekistan,Asia,Central Asia
+213.230.127.153,4,25,samo.uz,UZ,Uzbekistan,Asia,Central Asia
+195.158.11.139,4,69,sdtes.uz,UZ,Uzbekistan,Asia,Central Asia
+185.74.7.250,4,-135,stat.uz,UZ,Uzbekistan,Asia,Central Asia
+185.196.212.206,4,-10,tma.uz,UZ,Uzbekistan,Asia,Central Asia
+195.158.2.220,4,-2,tuit.uz,UZ,Uzbekistan,Asia,Central Asia
+91.212.89.68,4,-16,urganchshahar.uz,UZ,Uzbekistan,Asia,Central Asia
+194.93.25.170,4,-4,uwed.uz,UZ,Uzbekistan,Asia,Central Asia
+84.54.82.141,4,8,uzairways.com,UZ,Uzbekistan,Asia,Central Asia
+83.69.136.159,4,-5,uzbekistan.travel,UZ,Uzbekistan,Asia,Central Asia
+185.8.212.70,4,561,uzbektourism.uz,UZ,Uzbekistan,Asia,Central Asia
+91.212.89.6,4,-11,uzpse.uz,UZ,Uzbekistan,Asia,Central Asia
+81.95.225.242,4,-75,uzreport.uz,UZ,Uzbekistan,Asia,Central Asia
+83.69.129.17,4,-10,uzsci.net,UZ,Uzbekistan,Asia,Central Asia
+91.212.89.50,4,-10,uzsm.uz,UZ,Uzbekistan,Asia,Central Asia
+91.212.89.51,4,-11,vinsanoat.uz,UZ,Uzbekistan,Asia,Central Asia
+91.212.89.42,4,-14,www.uz,UZ,Uzbekistan,Asia,Central Asia
+185.196.212.52,4,-13,yugaysushi.ru,UZ,Uzbekistan,Asia,Central Asia
+91.190.159.49,4,-11,yuz.uz,UZ,Uzbekistan,Asia,Central Asia
+91.212.89.46,4,-14,ziyonet.uz,UZ,Uzbekistan,Asia,Central Asia
+91.212.89.11,4,-16,zn.uz,UZ,Uzbekistan,Asia,Central Asia

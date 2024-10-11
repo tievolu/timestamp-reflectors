@@ -1,6 +1,13 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-41.220.128.10,4,african-court.org,TZ,Tanzania,Africa,Sub-Saharan Africa
-41.222.56.186,4,kcmc.ac.tz,TZ,Tanzania,Africa,Sub-Saharan Africa
-41.79.69.24,4,Ookla Speedtest server: speedtest.aptus.co.tz,TZ,Tanzania,Africa,Sub-Saharan Africa
-41.222.88.31,4,Ookla Speedtest server: speedtest.bellafrica.net,TZ,Tanzania,Africa,Sub-Saharan Africa
-41.73.194.141,4,suanet.ac.tz,TZ,Tanzania,Africa,Sub-Saharan Africa
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+41.220.128.10,4,29,african-court.org,TZ,Tanzania,Africa,Sub-Saharan Africa
+41.222.56.186,4,1008,kcmc.ac.tz,TZ,Tanzania,Africa,Sub-Saharan Africa
+41.75.215.74,4,369,Ookla Speedtest Server 3174: speedtest.airtel.co.tz,TZ,Tanzania,Africa,Sub-Saharan Africa
+197.250.68.194,4,354,Ookla Speedtest Server 3846: speedtest1.vodacom.co.tz,TZ,Tanzania,Africa,Sub-Saharan Africa
+169.239.0.25,4,323,Ookla Speedtest Server 13902: speedtest.simply.co.tz,TZ,Tanzania,Africa,Sub-Saharan Africa
+41.222.56.166,4,301,Ookla Speedtest Server 15888: speedtest.cybernet.co.tz,TZ,Tanzania,Africa,Sub-Saharan Africa
+41.204.132.11,4,112,Ookla Speedtest Server 19417: speedtest.zantel.co.tz,TZ,Tanzania,Africa,Sub-Saharan Africa
+102.69.167.12,4,224,Ookla Speedtest Server 52566: speedtest.flashnet.co.tz,TZ,Tanzania,Africa,Sub-Saharan Africa
+154.72.20.118,4,148,Ookla Speedtest Server 55008: speedtest.ctv.co.tz,TZ,Tanzania,Africa,Sub-Saharan Africa
+217.29.137.163,4,1013224,Ookla Speedtest Server 55640: mwanza.speedtest.aptus.co.tz,TZ,Tanzania,Africa,Sub-Saharan Africa
+41.222.88.32,4,286,Ookla Speedtest Server: speedtest.bellafrica.net,TZ,Tanzania,Africa,Sub-Saharan Africa
+41.73.194.141,4,-19,suanet.ac.tz,TZ,Tanzania,Africa,Sub-Saharan Africa

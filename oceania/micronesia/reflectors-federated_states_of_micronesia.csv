@@ -1,2 +1,2 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-119.252.117.162,4,comfsm.fm,FM,Federated States of Micronesia,Oceania,Micronesia
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+119.252.117.162,4,40,comfsm.fm,FM,Federated States of Micronesia,Oceania,Micronesia

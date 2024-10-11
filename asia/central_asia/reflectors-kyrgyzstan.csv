@@ -1,26 +1,51 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-5.59.233.112,4,1c-kato.kg,KG,Kyrgyzstan,Asia,Central Asia
-212.112.120.195,4,airport.kg,KG,Kyrgyzstan,Asia,Central Asia
-212.112.96.87,4,aknet.kg,KG,Kyrgyzstan,Asia,Central Asia
-212.112.96.88,4,aknet.kg,KG,Kyrgyzstan,Asia,Central Asia
-212.112.96.89,4,aknet.kg,KG,Kyrgyzstan,Asia,Central Asia
-195.38.168.118,4,asmi.kg,KG,Kyrgyzstan,Asia,Central Asia
-212.42.119.10,4,bulbul.kg,KG,Kyrgyzstan,Asia,Central Asia
-176.126.165.71,4,climatehub.kg,KG,Kyrgyzstan,Asia,Central Asia
-195.38.162.93,4,data.gov.kg,KG,Kyrgyzstan,Asia,Central Asia
-85.113.15.230,4,edu.gov.kg,KG,Kyrgyzstan,Asia,Central Asia
-212.42.102.209,4,elcat.kg,KG,Kyrgyzstan,Asia,Central Asia
-176.126.165.70,4,infodesk.kg,KG,Kyrgyzstan,Asia,Central Asia
-176.126.165.32,4,islamdini.kg,KG,Kyrgyzstan,Asia,Central Asia
-85.113.10.226,4,kenesh.kg,KG,Kyrgyzstan,Asia,Central Asia
-81.20.16.84,4,krsu.edu.kg,KG,Kyrgyzstan,Asia,Central Asia
-212.42.122.145,4,mineconom.gov.kg,KG,Kyrgyzstan,Asia,Central Asia
-91.207.28.65,4,oe.kg,KG,Kyrgyzstan,Asia,Central Asia
-212.112.105.12,4,patent.kg,KG,Kyrgyzstan,Asia,Central Asia
-176.126.167.188,4,sputnik.kg,KG,Kyrgyzstan,Asia,Central Asia
-212.42.101.106,4,stat.gov.kg,KG,Kyrgyzstan,Asia,Central Asia
-212.42.101.113,4,stat.kg,KG,Kyrgyzstan,Asia,Central Asia
-91.207.28.94,4,super.kg,KG,Kyrgyzstan,Asia,Central Asia
-212.2.227.212,4,vb.kg,KG,Kyrgyzstan,Asia,Central Asia
-77.220.204.65,4,volunteer.kg,KG,Kyrgyzstan,Asia,Central Asia
-213.145.140.198,4,worldnomadgames.com,KG,Kyrgyzstan,Asia,Central Asia
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+212.112.120.195,4,281,airport.kg,KG,Kyrgyzstan,Asia,Central Asia
+212.112.96.88,4,6,aknet.kg,KG,Kyrgyzstan,Asia,Central Asia
+212.112.96.87,4,6,aknet.kg,KG,Kyrgyzstan,Asia,Central Asia
+212.112.96.89,4,30,aknet.kg,KG,Kyrgyzstan,Asia,Central Asia
+212.42.119.10,4,1,bulbul.kg,KG,Kyrgyzstan,Asia,Central Asia
+176.126.165.71,4,7,climatehub.kg,KG,Kyrgyzstan,Asia,Central Asia
+195.38.168.118,4,-77,co.kg,KG,Kyrgyzstan,Asia,Central Asia
+195.38.162.93,4,-69,data.gov.kg,KG,Kyrgyzstan,Asia,Central Asia
+212.42.113.175,4,-729097354,DNS Server: 212-42-113-175.elcat.kg,KG,Kyrgyzstan,Asia,Central Asia
+213.145.149.166,4,46,DNS Server: 213-145-149-166.static.ktnet.kg,KG,Kyrgyzstan,Asia,Central Asia
+5.57.8.249,4,290630,DNS Server: 5-57-8-249.elcat.kg,KG,Kyrgyzstan,Asia,Central Asia
+77.235.18.2,4,239,DNS Server: 77-235-18-2.mega.kg,KG,Kyrgyzstan,Asia,Central Asia
+77.235.18.74,4,18904,DNS Server: 77-235-18-74.mega.kg,KG,Kyrgyzstan,Asia,Central Asia
+77.235.18.98,4,2,DNS Server: 77-235-18-98.mega.kg,KG,Kyrgyzstan,Asia,Central Asia
+77.235.27.18,4,634,DNS Server: 77-235-27-18.mega.kg,KG,Kyrgyzstan,Asia,Central Asia
+77.235.27.235,4,2282,DNS Server: 77-235-27-235.mega.kg,KG,Kyrgyzstan,Asia,Central Asia
+77.235.28.102,4,-3111,DNS Server: 77-235-28-102.mega.kg,KG,Kyrgyzstan,Asia,Central Asia
+80.72.179.138,4,40375,DNS Server: 80-72-179-138.pppoe.ktnet.kg,KG,Kyrgyzstan,Asia,Central Asia
+80.72.179.30,4,12476,DNS Server: 80-72-179-30.pppoe.ktnet.kg,KG,Kyrgyzstan,Asia,Central Asia
+85.113.16.18,4,2616,DNS Server: 85-113-16-18.static.ktnet.kg,KG,Kyrgyzstan,Asia,Central Asia
+85.113.18.209,4,-8042017,DNS Server: 85-113-18-209.static.ktnet.kg,KG,Kyrgyzstan,Asia,Central Asia
+85.113.18.34,4,9423147,DNS Server: 85-113-18-34.static.ktnet.kg,KG,Kyrgyzstan,Asia,Central Asia
+85.113.21.118,4,768,DNS Server: 85-113-21-118.static.ktnet.kg,KG,Kyrgyzstan,Asia,Central Asia
+85.113.22.170,4,365,DNS Server: 85-113-22-170.static.ktnet.kg,KG,Kyrgyzstan,Asia,Central Asia
+85.113.28.117,4,72571,DNS Server: 85-113-28-117.static.ktnet.kg,KG,Kyrgyzstan,Asia,Central Asia
+85.113.30.10,4,386,DNS Server: 85-113-30-10.static.ktnet.kg,KG,Kyrgyzstan,Asia,Central Asia
+85.113.6.113,4,266,DNS Server: 85-113-6-113.static.ktnet.kg,KG,Kyrgyzstan,Asia,Central Asia
+85.113.7.154,4,24245,DNS Server: 85-113-7-154.static.ktnet.kg,KG,Kyrgyzstan,Asia,Central Asia
+85.113.9.73,4,1317,DNS Server: 85-113-9-73.static.ktnet.kg,KG,Kyrgyzstan,Asia,Central Asia
+92.245.114.129,4,946,DNS Server: 92-245-114-129.mega.kg,KG,Kyrgyzstan,Asia,Central Asia
+94.143.194.17,4,-8771,DNS Server: 94-143-194-17.elcat.kg,KG,Kyrgyzstan,Asia,Central Asia
+85.113.15.230,4,-15897789,edu.gov.kg,KG,Kyrgyzstan,Asia,Central Asia
+212.42.102.209,4,62,elcat.kg,KG,Kyrgyzstan,Asia,Central Asia
+176.126.165.70,4,3,infodesk.kg,KG,Kyrgyzstan,Asia,Central Asia
+176.126.165.32,4,1,islamdini.kg,KG,Kyrgyzstan,Asia,Central Asia
+85.113.10.226,4,7,kenesh.kg,KG,Kyrgyzstan,Asia,Central Asia
+81.20.16.84,4,4,krsu.edu.kg,KG,Kyrgyzstan,Asia,Central Asia
+212.42.122.145,4,319317,mineconom.gov.kg,KG,Kyrgyzstan,Asia,Central Asia
+91.207.28.65,4,8,oe.kg,KG,Kyrgyzstan,Asia,Central Asia
+212.2.230.79,4,1158,Ookla Speedtest Server 5308: oosrv.myhost.kg,KG,Kyrgyzstan,Asia,Central Asia
+91.192.65.166,4,204,Ookla Speedtest Server 5689: speedtest.beeline.kg,KG,Kyrgyzstan,Asia,Central Asia
+178.216.212.159,4,305,Ookla Speedtest Server 61344: test.tribute.kg,KG,Kyrgyzstan,Asia,Central Asia
+212.112.105.12,4,29,patent.kg,KG,Kyrgyzstan,Asia,Central Asia
+176.126.167.188,4,6,sputnik.kg,KG,Kyrgyzstan,Asia,Central Asia
+212.42.101.106,4,6,stat.gov.kg,KG,Kyrgyzstan,Asia,Central Asia
+212.42.101.113,4,94,stat.kg,KG,Kyrgyzstan,Asia,Central Asia
+91.207.28.94,4,-14,super.kg,KG,Kyrgyzstan,Asia,Central Asia
+212.2.227.212,4,27,vb.kg,KG,Kyrgyzstan,Asia,Central Asia
+77.220.204.65,4,-4,volunteer.kg,KG,Kyrgyzstan,Asia,Central Asia
+213.145.140.198,4,1304026,worldnomadgames.com,KG,Kyrgyzstan,Asia,Central Asia

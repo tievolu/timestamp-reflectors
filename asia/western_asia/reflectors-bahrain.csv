@@ -1,5 +1,8 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-15.184.254.14,4,cbb.gov.bh,BH,Bahrain,Asia,Western Asia
-157.175.142.30,4,cbb.gov.bh,BH,Bahrain,Asia,Western Asia
-15.184.239.121,4,lovindubai.com,BH,Bahrain,Asia,Western Asia
-37.131.66.51,4,Ookla Speedtest server: speedtest.viva.com.bh,BH,Bahrain,Asia,Western Asia
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+15.185.236.133,4,11,cbb.gov.bh,BH,Bahrain,Asia,Western Asia
+15.185.54.110,4,7,cbb.gov.bh,BH,Bahrain,Asia,Western Asia
+89.148.55.251,4,328,DNS Server: static.ip.89.148.55.251.batelco.com.bh,BH,Bahrain,Asia,Western Asia
+15.184.239.121,4,14,lovindubai.com,BH,Bahrain,Asia,Western Asia
+62.209.25.182,4,-257246,Ookla Speedtest Server 17574: stest.bh.zain.com,BH,Bahrain,Asia,Western Asia
+81.22.16.158,4,113,Ookla Speedtest Server 17711: speedtest.kalaam-telecom.com,BH,Bahrain,Asia,Western Asia
+87.252.96.194,4,246,Ookla Speedtest Server 20782: speedtest.viacloud.com,BH,Bahrain,Asia,Western Asia

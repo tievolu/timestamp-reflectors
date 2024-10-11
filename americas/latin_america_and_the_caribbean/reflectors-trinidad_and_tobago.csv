@@ -1,5 +1,7 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-190.58.238.204,4,news.gov.tt,TT,Trinidad and Tobago,Americas,Latin America and the Caribbean
-190.213.6.54,4,patnt.com,TT,Trinidad and Tobago,Americas,Latin America and the Caribbean
-196.3.132.153,4,Telecommunication Services of Trinidad and Tobago,TT,Trinidad and Tobago,Americas,Latin America and the Caribbean
-196.3.132.154,4,Telecommunication Services of Trinidad and Tobago,TT,Trinidad and Tobago,Americas,Latin America and the Caribbean
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+190.58.238.204,4,90977,news.gov.tt,TT,Trinidad and Tobago,Americas,Latin America and the Caribbean
+161.0.114.35,4,270,Ookla Speedtest Server 15151: myspeed1.rvrnetworks.com,TT,Trinidad and Tobago,Americas,Latin America and the Caribbean
+209.94.205.47,4,1120403,Ookla Speedtest Server 16773: speedtest.tstt.net.tt,TT,Trinidad and Tobago,Americas,Latin America and the Caribbean
+190.213.6.54,4,79,patnt.com,TT,Trinidad and Tobago,Americas,Latin America and the Caribbean
+196.3.132.153,4,78714,Telecommunication Services of Trinidad and Tobago 1,TT,Trinidad and Tobago,Americas,Latin America and the Caribbean
+196.3.132.154,4,78416,Telecommunication Services of Trinidad and Tobago 2,TT,Trinidad and Tobago,Americas,Latin America and the Caribbean

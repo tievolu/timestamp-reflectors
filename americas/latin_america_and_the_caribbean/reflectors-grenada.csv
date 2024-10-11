@@ -1,2 +1,2 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-104.245.95.14,4,Ookla Speedtest server: speedtest.flowgrenada.com,GD,Grenada,Americas,Latin America and the Caribbean
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+206.126.244.246,4,368,Ookla Speedtest Server 60562: speed.spice.gd,GD,Grenada,Americas,Latin America and the Caribbean

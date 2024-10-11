@@ -1,11 +1,14 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-41.111.152.134,4,alelec.com,DZ,Algeria,Africa,Northern Africa
-102.220.31.36,4,domelec-dz.com,DZ,Algeria,Africa,Northern Africa
-134.255.244.178,4,klosterbrauerei.com,DZ,Algeria,Africa,Northern Africa
-197.140.11.226,4,safex.dz,DZ,Algeria,Africa,Northern Africa
-41.111.243.101,4,univ-blida.dz,DZ,Algeria,Africa,Northern Africa
-41.111.206.210,4,univ-msila.dz,DZ,Algeria,Africa,Northern Africa
-41.111.171.235,4,univ-oran1.dz,DZ,Algeria,Africa,Northern Africa
-41.110.190.124,4,univ-saida.dz,DZ,Algeria,Africa,Northern Africa
-41.111.224.35,4,univ-tebessa.dz,DZ,Algeria,Africa,Northern Africa
-41.111.224.45,4,univ-tebessa.dz,DZ,Algeria,Africa,Northern Africa
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+41.111.152.134,4,1112,alelec.com,DZ,Algeria,Africa,Northern Africa
+102.220.31.36,4,14,domelec-dz.com,DZ,Algeria,Africa,Northern Africa
+134.255.244.178,4,5,klosterbrauerei.com,DZ,Algeria,Africa,Northern Africa
+213.179.181.28,4,12,lecourrier-dalgerie.com,DZ,Algeria,Africa,Northern Africa
+129.45.0.71,4,-423368,Ookla Speedtest Server 31853: speedtest3.djezzy.dz,DZ,Algeria,Africa,Northern Africa
+129.45.0.3,4,1004821,Ookla Speedtest Server 32700: speedtest4.djezzy.dz,DZ,Algeria,Africa,Northern Africa
+197.140.11.226,4,242,safex.dz,DZ,Algeria,Africa,Northern Africa
+41.111.234.131,4,12,univ-boumerdes.dz,DZ,Algeria,Africa,Northern Africa
+41.111.206.210,4,2642336,univ-msila.dz,DZ,Algeria,Africa,Northern Africa
+41.111.171.235,4,21,univ-oran1.dz,DZ,Algeria,Africa,Northern Africa
+41.110.190.124,4,20,univ-saida.dz,DZ,Algeria,Africa,Northern Africa
+41.111.224.45,4,14,univ-tebessa.dz,DZ,Algeria,Africa,Northern Africa
+41.111.224.35,4,12,univ-tebessa.dz,DZ,Algeria,Africa,Northern Africa

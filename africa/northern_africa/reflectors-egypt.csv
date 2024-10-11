@@ -1,10 +1,21 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-41.128.143.175,4,amgad-hendy.com,EG,Egypt,Africa,Northern Africa
-164.160.104.175,4,arabfinance.com,EG,Egypt,Africa,Northern Africa
-196.219.220.152,4,customs.gov.eg,EG,Egypt,Africa,Northern Africa
-156.200.108.122,4,hcww.com.eg,EG,Egypt,Africa,Northern Africa
-176.97.76.60,4,ist-budget.ru,EG,Egypt,Africa,Northern Africa
-41.217.224.23,4,mistnews.com,EG,Egypt,Africa,Northern Africa
-62.140.73.195,4,moee.gov.eg,EG,Egypt,Africa,Northern Africa
-41.206.128.146,4,Ookla Speedtest server: speedtest.vodafone.com.eg,EG,Egypt,Africa,Northern Africa
-217.139.39.84,4,premiere-securities.com,EG,Egypt,Africa,Northern Africa
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+41.128.143.175,4,5,amgad-hendy.com,EG,Egypt,Africa,Northern Africa
+41.65.234.152,4,-15,DNS Server: HOST-152-234.65.41.nile-online.net,EG,Egypt,Africa,Northern Africa
+197.42.39.250,4,1,DNS Server: host-197.42.39.250.tedata.net,EG,Egypt,Africa,Northern Africa
+72.9.150.244,4,23,freewha.com,EG,Egypt,Africa,Northern Africa
+156.200.108.122,4,13,hcww.com.eg,EG,Egypt,Africa,Northern Africa
+41.217.224.23,4,29,mistnews.com,EG,Egypt,Africa,Northern Africa
+105.198.254.217,4,63433,Ookla Speedtest Server 7237: speedtest10.vodafone.com.eg,EG,Egypt,Africa,Northern Africa
+105.203.255.77,4,-20474149,Ookla Speedtest Server 9121: sp20.etisalatdata.net,EG,Egypt,Africa,Northern Africa
+105.203.254.97,4,2490185,Ookla Speedtest Server 18891: sp40.etisalatdata.net,EG,Egypt,Africa,Northern Africa
+105.203.210.8,4,448,Ookla Speedtest Server 40845: sp90.etisalatdata.net,EG,Egypt,Africa,Northern Africa
+105.203.210.12,4,429,Ookla Speedtest Server 41251: sp100.etisalatdata.net,EG,Egypt,Africa,Northern Africa
+62.68.238.130,4,1530891,Ookla Speedtest Server 42668: speedtest5.vodafone.com.eg,EG,Egypt,Africa,Northern Africa
+62.68.253.46,4,162,Ookla Speedtest Server 55369: speedtest4.vodafone.com.eg,EG,Egypt,Africa,Northern Africa
+197.199.237.45,4,338,Ookla Speedtest Server 57063: sp150.etisalatdata.net,EG,Egypt,Africa,Northern Africa
+105.203.210.9,4,415,Ookla Speedtest Server 58712: sp110.etisalatdata.net,EG,Egypt,Africa,Northern Africa
+105.203.210.10,4,396,Ookla Speedtest Server 58713: sp120.etisalatdata.net,EG,Egypt,Africa,Northern Africa
+197.199.237.47,4,331,Ookla Speedtest Server 58714: sp130.etisalatdata.net,EG,Egypt,Africa,Northern Africa
+196.219.138.196,4,328,Ookla Speedtest Server 64536: st.speedtouch.net,EG,Egypt,Africa,Northern Africa
+41.206.128.146,4,2257985,Ookla Speedtest Server: speedtest.vodafone.com.eg,EG,Egypt,Africa,Northern Africa
+176.97.76.60,4,48,redht.ru,EG,Egypt,Africa,Northern Africa

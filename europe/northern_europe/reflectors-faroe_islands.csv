@@ -1,2 +1,2 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-80.77.128.140,4,in.fo,FO,Faroe Islands,Europe,Northern Europe
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+80.77.128.140,4,9,in.fo,FO,Faroe Islands,Europe,Northern Europe

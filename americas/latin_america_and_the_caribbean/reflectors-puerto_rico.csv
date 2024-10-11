@@ -1,21 +1,26 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-67.225.186.54,4,cancuniairport.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
-67.225.186.23,4,carhenge.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
-69.16.200.55,4,carolroth.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
-69.16.230.251,4,columban.org,PR,Puerto Rico,Americas,Latin America and the Caribbean
-69.16.230.73,4,cronicajalisco.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
-67.225.186.76,4,dyrectory.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
-69.16.230.56,4,honda.mx,PR,Puerto Rico,Americas,Latin America and the Caribbean
-199.116.57.181,4,IP SOLUTIONS INC.,PR,Puerto Rico,Americas,Latin America and the Caribbean
-74.120.24.129,4,IP SOLUTIONS INC.,PR,Puerto Rico,Americas,Latin America and the Caribbean
-74.120.24.81,4,IP SOLUTIONS INC.,PR,Puerto Rico,Americas,Latin America and the Caribbean
-74.120.24.97,4,IP SOLUTIONS INC.,PR,Puerto Rico,Americas,Latin America and the Caribbean
-69.16.200.92,4,mccollcenter.org,PR,Puerto Rico,Americas,Latin America and the Caribbean
-67.225.186.43,4,mycutegraphics.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
-66.50.108.210,4,Ookla Speedtest server: speedtest.claropr.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
-206.166.205.6,4,Ookla Speedtest server: speedtest.dmwirelesspr.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
-67.225.186.101,4,salesnexus.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
-69.16.230.209,4,seobrisk.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
-69.16.200.24,4,taylorcounselinggroup.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
-67.225.186.30,4,workoutanytime.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
-69.16.230.141,4,workplacefairness.org,PR,Puerto Rico,Americas,Latin America and the Caribbean
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+67.225.186.54,4,221,cancuniairport.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
+67.225.186.23,4,921,carhenge.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
+69.16.200.55,4,1162,carolroth.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
+69.16.230.251,4,4,columban.org,PR,Puerto Rico,Americas,Latin America and the Caribbean
+69.16.230.73,4,9,cronicajalisco.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
+173.228.213.89,4,42080,DNS Server: adsl-173-228-213-89.prtc.net,PR,Puerto Rico,Americas,Latin America and the Caribbean
+67.225.186.76,4,22,dyrectory.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
+69.16.230.56,4,3,honda.mx,PR,Puerto Rico,Americas,Latin America and the Caribbean
+69.16.200.92,4,6,mccollcenter.org,PR,Puerto Rico,Americas,Latin America and the Caribbean
+67.225.186.43,4,8,mycutegraphics.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
+23.179.193.102,4,44042,Ookla Speedtest Server 22285: speedtest.blackburn-pr.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
+196.28.56.14,4,817296,Ookla Speedtest Server 22504: speed2.claropr.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
+104.238.232.194,4,346,Ookla Speedtest Server 22807: speedtest.fiberx.net,PR,Puerto Rico,Americas,Latin America and the Caribbean
+192.92.193.7,4,344,Ookla Speedtest Server 33452: speedtest.boomsolutionspr.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
+200.25.18.124,4,196,Ookla Speedtest Server 46883: spt-sju1.edgeuno.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
+72.46.157.12,4,232114,Ookla Speedtest Server 49396: speedtest.tsnetworkpr.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
+198.52.242.146,4,296,Ookla Speedtest Server 51559: speedtest.fire-fi.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
+216.24.51.244,4,291,Ookla Speedtest Server: everydaydata.net,PR,Puerto Rico,Americas,Latin America and the Caribbean
+66.50.108.210,4,-27237614,Ookla Speedtest Server: speedtest.claropr.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
+67.225.186.101,4,273,salesnexus.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
+69.16.230.209,4,13,seobrisk.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
+69.16.230.226,4,30,sublimeblog.net,PR,Puerto Rico,Americas,Latin America and the Caribbean
+69.16.200.24,4,992,taylorcounselinggroup.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
+67.225.186.30,4,23,workoutanytime.com,PR,Puerto Rico,Americas,Latin America and the Caribbean
+69.16.230.141,4,6,workplacefairness.org,PR,Puerto Rico,Americas,Latin America and the Caribbean

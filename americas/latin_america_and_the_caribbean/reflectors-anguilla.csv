@@ -1,5 +1,5 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-209.59.119.34,4,offshore.com.ai,AI,Anguilla,Americas,Latin America and the Caribbean
-98.158.132.69,4,pygresql.org,AI,Anguilla,Americas,Latin America and the Caribbean
-98.158.132.75,4,vrplumber.com,AI,Anguilla,Americas,Latin America and the Caribbean
-209.59.119.1,4,whois.ai,AI,Anguilla,Americas,Latin America and the Caribbean
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+209.59.119.34,4,8,offshore.com.ai,AI,Anguilla,Americas,Latin America and the Caribbean
+98.158.132.69,4,12,pygresql.org,AI,Anguilla,Americas,Latin America and the Caribbean
+98.158.132.75,4,-1,vrplumber.com,AI,Anguilla,Americas,Latin America and the Caribbean
+209.59.119.1,4,14,whois.ai,AI,Anguilla,Americas,Latin America and the Caribbean

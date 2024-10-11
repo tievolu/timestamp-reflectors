@@ -1,14 +1,16 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-203.94.93.58,4,customs.gov.lk,LK,Sri Lanka,Asia,Southern Asia
-220.247.214.122,4,documents.gov.lk,LK,Sri Lanka,Asia,Southern Asia
-131.153.48.202,4,fastcoincard.com,LK,Sri Lanka,Asia,Southern Asia
-124.43.6.140,4,investsrilanka.com,LK,Sri Lanka,Asia,Southern Asia
-72.9.159.235,4,kiwiservices.com,LK,Sri Lanka,Asia,Southern Asia
-72.9.159.54,4,komar.org,LK,Sri Lanka,Asia,Southern Asia
-192.248.8.88,4,mrt.ac.lk,LK,Sri Lanka,Asia,Southern Asia
-192.248.80.11,4,nsf.ac.lk,LK,Sri Lanka,Asia,Southern Asia
-192.248.95.74,4,rjt.ac.lk,LK,Sri Lanka,Asia,Southern Asia
-192.248.48.3,4,ruh.ac.lk,LK,Sri Lanka,Asia,Southern Asia
-192.248.1.163,4,seu.ac.lk,LK,Sri Lanka,Asia,Southern Asia
-192.248.8.87,4,uom.lk,LK,Sri Lanka,Asia,Southern Asia
-192.248.93.7,4,uwu.ac.lk,LK,Sri Lanka,Asia,Southern Asia
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+220.247.214.122,4,991803,documents.gov.lk,LK,Sri Lanka,Asia,Southern Asia
+124.43.6.140,4,-1,investsrilanka.com,LK,Sri Lanka,Asia,Southern Asia
+72.9.159.235,4,5,kiwiservices.com,LK,Sri Lanka,Asia,Southern Asia
+72.9.159.54,4,51,komar.org,LK,Sri Lanka,Asia,Southern Asia
+192.248.8.88,4,-2,mrt.ac.lk,LK,Sri Lanka,Asia,Southern Asia
+192.248.80.11,4,-537055,nsf.ac.lk,LK,Sri Lanka,Asia,Southern Asia
+103.2.152.1,4,-912111,Ookla Speedtest Server 21051: speedtest2.mobitel.lk,LK,Sri Lanka,Asia,Southern Asia
+222.165.175.10,4,236,Ookla Speedtest Server 60180: hqspeedtest1.slt.lk,LK,Sri Lanka,Asia,Southern Asia
+131.153.48.202,4,54,rewcard.com,LK,Sri Lanka,Asia,Southern Asia
+192.248.95.74,4,-7,rjt.ac.lk,LK,Sri Lanka,Asia,Southern Asia
+192.248.48.3,4,11,ruh.ac.lk,LK,Sri Lanka,Asia,Southern Asia
+192.248.1.163,4,-19,seu.ac.lk,LK,Sri Lanka,Asia,Southern Asia
+103.140.194.254,4,85,sltda.gov.lk,LK,Sri Lanka,Asia,Southern Asia
+192.248.8.87,4,-58,uom.lk,LK,Sri Lanka,Asia,Southern Asia
+192.248.93.7,4,4473987,uwu.ac.lk,LK,Sri Lanka,Asia,Southern Asia

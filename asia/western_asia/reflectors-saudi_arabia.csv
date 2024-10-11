@@ -1,16 +1,33 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-156.247.63.55,4,56980.cc,SA,Saudi Arabia,Asia,Western Asia
-156.247.63.58,4,56980.cc,SA,Saudi Arabia,Asia,Western Asia
-34.166.77.54,4,ara.tv,SA,Saudi Arabia,Asia,Western Asia
-158.101.244.137,4,arib.com.sa,SA,Saudi Arabia,Asia,Western Asia
-77.232.100.183,4,dulani.gov.sa,SA,Saudi Arabia,Asia,Western Asia
-185.241.63.106,4,gelirortaklari.com,SA,Saudi Arabia,Asia,Western Asia
-185.216.40.107,4,ksau-hs.edu.sa,SA,Saudi Arabia,Asia,Western Asia
-8.213.25.125,4,masar3500.com,SA,Saudi Arabia,Asia,Western Asia
-185.230.209.102,4,mizbani.xyz,SA,Saudi Arabia,Asia,Western Asia
-138.128.170.188,4,mott.pe,SA,Saudi Arabia,Asia,Western Asia
-86.51.82.252,4,Ookla Speedtest server: dam.myspeed.net.sa,SA,Saudi Arabia,Asia,Western Asia
-212.215.133.38,4,Ookla Speedtest server: jed-speedtest.saudi.net.sa,SA,Saudi Arabia,Asia,Western Asia
-86.51.80.252,4,Ookla Speedtest server: jed.myspeed.net.sa,SA,Saudi Arabia,Asia,Western Asia
-86.51.167.14,4,pmu.edu.sa,SA,Saudi Arabia,Asia,Western Asia
-98.142.102.250,4,yog-sothoth.com,SA,Saudi Arabia,Asia,Western Asia
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+156.247.63.55,4,66,56980.cc,SA,Saudi Arabia,Asia,Western Asia
+156.247.63.58,4,65,56980.cc,SA,Saudi Arabia,Asia,Western Asia
+34.166.77.54,4,120,ara.tv,SA,Saudi Arabia,Asia,Western Asia
+158.101.244.137,4,28,arib.com.sa,SA,Saudi Arabia,Asia,Western Asia
+154.205.134.28,4,246,delaatbusiness.com,SA,Saudi Arabia,Asia,Western Asia
+77.232.100.183,4,77,dulani.gov.sa,SA,Saudi Arabia,Asia,Western Asia
+185.241.63.106,4,32,gelirortaklari.com,SA,Saudi Arabia,Asia,Western Asia
+185.216.40.107,4,-29965366,ksau-hs.edu.sa,SA,Saudi Arabia,Asia,Western Asia
+8.213.25.125,4,12,masar3500.com,SA,Saudi Arabia,Asia,Western Asia
+185.230.209.102,4,9,mizbani.xyz,SA,Saudi Arabia,Asia,Western Asia
+138.128.170.188,4,216,mott.pe,SA,Saudi Arabia,Asia,Western Asia
+86.51.82.252,4,211,Ookla Speedtest Server 1734: dam.myspeed.net.sa,SA,Saudi Arabia,Asia,Western Asia
+79.170.53.30,4,-1745851,Ookla Speedtest Server 3196: speedtest-jeddahnew.sa.zain.com,SA,Saudi Arabia,Asia,Western Asia
+79.170.51.55,4,398,Ookla Speedtest Server 3208: speedtest-riyadhnew.sa.zain.com,SA,Saudi Arabia,Asia,Western Asia
+87.109.44.122,4,198250,Ookla Speedtest Server 16051: dam-speedtest.saudi.net.sa,SA,Saudi Arabia,Asia,Western Asia
+5.42.226.10,4,-14821223,Ookla Speedtest Server 17373: ftthspeed-kho.itc.sa,SA,Saudi Arabia,Asia,Western Asia
+84.235.127.118,4,78018,Ookla Speedtest Server 24106: baha-speedtest.saudi.net.sa,SA,Saudi Arabia,Asia,Western Asia
+84.235.127.110,4,68751,Ookla Speedtest Server 24110: abha-speedtest.saudi.net.sa,SA,Saudi Arabia,Asia,Western Asia
+84.235.127.122,4,138641,Ookla Speedtest Server 24113: najran-speedtest.saudi.net.sa,SA,Saudi Arabia,Asia,Western Asia
+87.109.45.14,4,-112289,Ookla Speedtest Server 24115: kharj-speedtest.saudi.net.sa,SA,Saudi Arabia,Asia,Western Asia
+195.78.233.198,4,294874,Ookla Speedtest Server 24201: jubail-speedtest.saudi.net.sa,SA,Saudi Arabia,Asia,Western Asia
+84.235.127.126,4,386287,Ookla Speedtest Server 24203: bisha-speedtest.saudi.net.sa,SA,Saudi Arabia,Asia,Western Asia
+86.51.76.236,4,322,Ookla Speedtest Server 26065: krj.myspeed.net.sa,SA,Saudi Arabia,Asia,Western Asia
+86.51.25.17,4,394,Ookla Speedtest Server 26066: mdn.myspeed.net.sa,SA,Saudi Arabia,Asia,Western Asia
+86.51.29.190,4,421,Ookla Speedtest Server 26515: msr.myspeed.net.sa,SA,Saudi Arabia,Asia,Western Asia
+87.109.44.102,4,231320,Ookla Speedtest Server 43126: addiriyah-speedtest.saudi.net.sa,SA,Saudi Arabia,Asia,Western Asia
+87.109.44.110,4,120655,Ookla Speedtest Server 43127: tuwaiq-speedtest.saudi.net.sa,SA,Saudi Arabia,Asia,Western Asia
+86.51.77.205,4,397,Ookla Speedtest Server 47125: twq.myspeed.net.sa,SA,Saudi Arabia,Asia,Western Asia
+86.51.26.145,4,198,Ookla Speedtest Server 48995: dah.myspeed.net.sa,SA,Saudi Arabia,Asia,Western Asia
+185.23.125.246,4,247,Ookla Speedtest Server 49906: speedtest-khamismushait.sa.zain.com,SA,Saudi Arabia,Asia,Western Asia
+193.19.247.10,4,36231,Ookla Speedtest Server 56246: shaqra-speedtest.saudi.net.sa,SA,Saudi Arabia,Asia,Western Asia
+98.142.102.250,4,540,yog-sothoth.com,SA,Saudi Arabia,Asia,Western Asia

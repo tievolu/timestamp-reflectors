@@ -1,23 +1,27 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-45.156.250.107,4,fbihvlada.gov.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.99.1.232,4,fhmzbih.gov.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.212.108.2,4,hrsvijet.net,BA,Bosnia and Herzegovina,Europe,Southern Europe
-45.156.250.10,4,jpautoceste.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.99.1.212,4,mcm.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.212.108.195,4,mirvana.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.164.35.41,4,mozks-ksb.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-195.130.35.24,4,nic.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.164.35.81,4,oehelp.com,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.212.108.129,4,Ookla Speedtest server: www.missnet.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.212.108.33,4,paragraf.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.212.108.137,4,pedijatrijabambi.com,BA,Bosnia and Herzegovina,Europe,Southern Europe
-80.65.65.1,4,posta.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.99.1.85,4,preventiva.eu,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.99.1.230,4,primeessay.org,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.173.31.229,4,radiokameleon.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.212.108.4,4,rkelzas.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.164.35.72,4,serda.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-212.39.111.33,4,sum.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-195.130.61.199,4,unsa.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.212.108.77,4,unvi.edu.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.212.108.82,4,visitsarajevo.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+77.77.212.234,4,-5302,DNS Server: b2b-77-77-212-234.static.telemach.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+77.77.215.98,4,10955,DNS Server: b2b-77-77-215-98.static.telemach.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+80.65.70.1,4,7,DNS Server: dlp-c-1.as58.ob.bih.net.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+45.156.250.107,4,5,fbihvlada.gov.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+185.99.1.232,4,6,fhmzbih.gov.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+185.212.108.2,4,3,hrsvijet.net,BA,Bosnia and Herzegovina,Europe,Southern Europe
+45.156.250.10,4,5,jpautoceste.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+185.99.1.212,4,3330,mcm.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+185.212.108.195,4,4,mirvana.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+185.164.35.41,4,21,mozks-ksb.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+195.130.35.24,4,-19,nic.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+185.164.35.81,4,29,oehelp.com,BA,Bosnia and Herzegovina,Europe,Southern Europe
+195.222.53.135,4,349,Ookla Speedtest Server 3886: speedtest-1.mediasky.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+185.212.108.65,4,6,Ookla Speedtest Server: www.missnet.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+185.212.108.33,4,70,paragraf.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+185.212.108.137,4,21,pedijatrijabambi.com,BA,Bosnia and Herzegovina,Europe,Southern Europe
+80.65.65.1,4,-3179,posta.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+185.99.1.85,4,45,preventiva.eu,BA,Bosnia and Herzegovina,Europe,Southern Europe
+185.99.1.230,4,67,primeessay.org,BA,Bosnia and Herzegovina,Europe,Southern Europe
+185.173.31.229,4,94,radiokameleon.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+185.212.108.4,4,17,rkelzas.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+185.164.35.72,4,19,skbosna.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+212.39.111.33,4,3,sum.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+195.130.61.199,4,34,unsa.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+185.212.108.77,4,32,unvi.edu.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+185.212.108.82,4,4,visitsarajevo.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe

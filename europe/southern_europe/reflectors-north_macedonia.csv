@@ -1,15 +1,27 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-89.205.127.218,4,24.mk,MK,North Macedonia,Europe,Southern Europe
-82.214.118.146,4,alkaloid.com.mk,MK,North Macedonia,Europe,Southern Europe
-88.85.99.6,4,avmu.mk,MK,North Macedonia,Europe,Southern Europe
-212.13.82.30,4,fashionel.mk,MK,North Macedonia,Europe,Southern Europe
-195.26.153.167,4,idividi.com.mk,MK,North Macedonia,Europe,Southern Europe
-92.55.64.106,4,lifttech.mk,MK,North Macedonia,Europe,Southern Europe
-185.226.0.12,4,manu.edu.mk,MK,North Macedonia,Europe,Southern Europe
-198.133.206.11,4,press24.mk,MK,North Macedonia,Europe,Southern Europe
-95.156.8.233,4,sirera.mk,MK,North Macedonia,Europe,Southern Europe
-195.26.131.231,4,stat.gov.mk,MK,North Macedonia,Europe,Southern Europe
-195.26.149.198,4,telekom.mk,MK,North Macedonia,Europe,Southern Europe
-92.55.94.131,4,tocka.com.mk,MK,North Macedonia,Europe,Southern Europe
-194.149.131.34,4,ukim.edu.mk,MK,North Macedonia,Europe,Southern Europe
-194.149.131.36,4,ukim.mk,MK,North Macedonia,Europe,Southern Europe
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+89.205.127.218,4,4,24.mk,MK,North Macedonia,Europe,Southern Europe
+82.214.118.146,4,94,alkaloid.com.mk,MK,North Macedonia,Europe,Southern Europe
+88.85.99.6,4,16,avmu.mk,MK,North Macedonia,Europe,Southern Europe
+88.85.97.122,4,7,DNS Server: 88.85.97.122.neotel.mk,MK,North Macedonia,Europe,Southern Europe
+89.205.4.85,4,7,DNS Server: 89.205.4.85.robi.com.mk,MK,North Macedonia,Europe,Southern Europe
+89.205.95.33,4,3,DNS Server: 89.205.95.33.robi.com.mk,MK,North Macedonia,Europe,Southern Europe
+82.214.84.133,4,2422,DNS Server: c82-214-84-133.loc.akton.net,MK,North Macedonia,Europe,Southern Europe
+81.17.232.194,4,10809721,DNS Server: n232-h194.loc-d.akton.net,MK,North Macedonia,Europe,Southern Europe
+212.13.82.30,4,-33104,fashionel.mk,MK,North Macedonia,Europe,Southern Europe
+195.26.153.167,4,77,idividi.com.mk,MK,North Macedonia,Europe,Southern Europe
+185.226.0.12,4,57,manu.edu.mk,MK,North Macedonia,Europe,Southern Europe
+95.128.184.22,4,331,Ookla Speedtest Server 7283: speedtest.telesmart.mk,MK,North Macedonia,Europe,Southern Europe
+185.54.130.15,4,134,Ookla Speedtest Server 15590: speedtest.softnet.mk,MK,North Macedonia,Europe,Southern Europe
+89.205.127.215,4,122,Ookla Speedtest Server 18616: speedtest.telekabel.com.mk,MK,North Macedonia,Europe,Southern Europe
+31.3.91.229,4,237,Ookla Speedtest Server 24197: speedtest.ultranet.mk,MK,North Macedonia,Europe,Southern Europe
+185.83.255.194,4,369,Ookla Speedtest Server 33633: test-speedtestnet-1.interspace.com,MK,North Macedonia,Europe,Southern Europe
+146.255.89.2,4,327,Ookla Speedtest Server 38088: speedtest.gonet.mk,MK,North Macedonia,Europe,Southern Europe
+78.157.17.138,4,224,Ookla Speedtest Server 46000: speedtest2.a1.mk,MK,North Macedonia,Europe,Southern Europe
+80.77.144.78,4,239,Ookla Speedtest Server 52768: ookla.neotel.mk,MK,North Macedonia,Europe,Southern Europe
+198.133.206.11,4,-162520,press24.mk,MK,North Macedonia,Europe,Southern Europe
+92.55.64.106,4,47,roads.org.mk,MK,North Macedonia,Europe,Southern Europe
+195.26.131.231,4,19,stat.gov.mk,MK,North Macedonia,Europe,Southern Europe
+195.26.149.198,4,-52047,telekom.mk,MK,North Macedonia,Europe,Southern Europe
+92.55.94.131,4,5,tocka.com.mk,MK,North Macedonia,Europe,Southern Europe
+194.149.131.34,4,15,ukim.edu.mk,MK,North Macedonia,Europe,Southern Europe
+194.149.131.36,4,1046145,ukim.mk,MK,North Macedonia,Europe,Southern Europe

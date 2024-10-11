@@ -1,874 +1,1123 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-185.56.74.147,4,1202.org.il,IL,Israel,Asia,Western Asia
-171.22.184.46,4,15dayforecast.net,TR,Turkey,Asia,Western Asia
-185.162.18.37,4,24sports.com.cy,CY,Cyprus,Asia,Western Asia
-37.148.210.86,4,3boyutlubaski.com,TR,Turkey,Asia,Western Asia
-185.179.24.113,4,40ikindi.com,TR,Turkey,Asia,Western Asia
-95.173.161.190,4,46arti.com,TR,Turkey,Asia,Western Asia
-156.247.63.55,4,56980.cc,SA,Saudi Arabia,Asia,Western Asia
-156.247.63.58,4,56980.cc,SA,Saudi Arabia,Asia,Western Asia
-5.100.156.139,4,5minuteenglish.com,TR,Turkey,Asia,Western Asia
-5.100.156.31,4,5minuteenglish.com,TR,Turkey,Asia,Western Asia
-185.124.85.172,4,ab-ilan.com,TR,Turkey,Asia,Western Asia
-82.80.253.22,4,acpr.org.il,IL,Israel,Asia,Western Asia
-81.218.83.70,4,activestills.org,IL,Israel,Asia,Western Asia
-94.140.14.14,4,AdGuard,CY,Cyprus,Asia,Western Asia
-94.140.15.15,4,AdGuard,CY,Cyprus,Asia,Western Asia
-94.140.14.15,4,AdGuard Family,CY,Cyprus,Asia,Western Asia
-94.140.15.16,4,AdGuard Family,CY,Cyprus,Asia,Western Asia
-94.140.14.140,4,AdGuard Unfiltered,CY,Cyprus,Asia,Western Asia
-94.140.14.141,4,AdGuard Unfiltered,CY,Cyprus,Asia,Western Asia
-31.186.11.5,4,adhood.com,TR,Turkey,Asia,Western Asia
-5.100.253.198,4,adnart.com,IL,Israel,Asia,Western Asia
-77.223.141.17,4,adresgezgini.com,TR,Turkey,Asia,Western Asia
-185.18.206.241,4,adva.org,IL,Israel,Asia,Western Asia
-47.91.114.180,4,africabusinessheroes.org,AE,United Arab Emirates,Asia,Western Asia
-185.86.7.120,4,akinsoft.com.tr,TR,Turkey,Asia,Western Asia
-213.238.190.20,4,akmesegrup.com,TR,Turkey,Asia,Western Asia
-5.2.84.226,4,akvaryumportali.com,TR,Turkey,Asia,Western Asia
-185.85.207.122,4,alanya.bel.tr,TR,Turkey,Asia,Western Asia
-5.2.80.35,4,alastyr.com,TR,Turkey,Asia,Western Asia
-185.87.26.187,4,allalci.com,TR,Turkey,Asia,Western Asia
-66.22.84.26,4,alljobs.co.il,IL,Israel,Asia,Western Asia
-81.218.83.103,4,alooma.tv,IL,Israel,Asia,Western Asia
-89.252.159.145,4,alperencinar.com,TR,Turkey,Asia,Western Asia
-5.250.251.14,4,alterradyator.com.tr,TR,Turkey,Asia,Western Asia
-46.234.29.115,4,altinbas.edu.tr,TR,Turkey,Asia,Western Asia
-38.134.113.246,4,americasbestpics.com,CY,Cyprus,Asia,Western Asia
-45.151.250.72,4,anatolianlgs.com,TR,Turkey,Asia,Western Asia
-217.195.206.58,4,anayasa.gen.tr,TR,Turkey,Asia,Western Asia
-77.223.152.38,4,ankamet.com,TR,Turkey,Asia,Western Asia
-93.177.103.108,4,anlamlisozler.net,TR,Turkey,Asia,Western Asia
-95.173.189.51,4,antalyaaquarium.com,TR,Turkey,Asia,Western Asia
-104.247.173.252,4,antalyatekniktemizlik.com.tr,TR,Turkey,Asia,Western Asia
-104.247.165.99,4,antikaalanlar.com.tr,TR,Turkey,Asia,Western Asia
-45.84.190.82,4,antikaesyaalanlar.web.tr,TR,Turkey,Asia,Western Asia
-188.93.95.22,4,apa.gov.ge,GE,Georgia,Asia,Western Asia
-213.169.148.156,4,aphroditehills.com,CY,Cyprus,Asia,Western Asia
-77.223.141.21,4,aquafantasy.com,TR,Turkey,Asia,Western Asia
-34.166.77.54,4,ara.tv,SA,Saudi Arabia,Asia,Western Asia
-78.142.208.77,4,aracarizasi.com,TR,Turkey,Asia,Western Asia
-213.238.183.31,4,arasmotokurye.com,TR,Turkey,Asia,Western Asia
-185.56.75.80,4,arberobotics.com,IL,Israel,Asia,Western Asia
-81.218.117.82,4,archives.gov.il,IL,Israel,Asia,Western Asia
-158.101.244.137,4,arib.com.sa,SA,Saudi Arabia,Asia,Western Asia
-88.218.116.187,4,arims.org.il,IL,Israel,Asia,Western Asia
-185.124.85.148,4,arka-bahce.org,TR,Turkey,Asia,Western Asia
-185.99.199.203,4,arkeofili.com,TR,Turkey,Asia,Western Asia
-185.57.68.12,4,arminco.com,AM,Armenia,Asia,Western Asia
-185.57.68.15,4,arpinet.am,AM,Armenia,Asia,Western Asia
-193.223.76.70,4,arvento.com,TR,Turkey,Asia,Western Asia
-185.169.52.40,4,aslitarcanclinic.com,TR,Turkey,Asia,Western Asia
-212.150.130.237,4,asoccer.co.il,IL,Israel,Asia,Western Asia
-46.31.79.106,4,asofood.com,TR,Turkey,Asia,Western Asia
-72.10.160.82,4,aspq.org,TR,Turkey,Asia,Western Asia
-185.136.206.71,4,atasehirkarotcu.com.tr,TR,Turkey,Asia,Western Asia
-5.2.85.136,4,atlasmovers.com.tr,TR,Turkey,Asia,Western Asia
-2.59.117.222,4,avim.org.tr,TR,Turkey,Asia,Western Asia
-88.218.117.143,4,aviram.co.il,IL,Israel,Asia,Western Asia
-50.28.1.85,4,awai.com,CY,Cyprus,Asia,Western Asia
-85.111.48.119,4,ayakkabidunyasi.com.tr,TR,Turkey,Asia,Western Asia
-185.171.24.111,4,ayrancimetal.com,TR,Turkey,Asia,Western Asia
-89.252.183.249,4,ayslojistik.com,TR,Turkey,Asia,Western Asia
-83.150.213.58,4,aytastarim.net,TR,Turkey,Asia,Western Asia
-217.195.196.78,4,aytor.com,TR,Turkey,Asia,Western Asia
-85.132.122.26,4,azstat.org,AZ,Azerbaijan,Asia,Western Asia
-78.142.208.85,4,banabirmasaj.com,TR,Turkey,Asia,Western Asia
-213.159.30.131,4,basinlistem.com,TR,Turkey,Asia,Western Asia
-45.143.4.139,4,basinturu.news,TR,Turkey,Asia,Western Asia
-91.239.207.147,4,batumi.ge,GE,Georgia,Asia,Western Asia
-185.108.148.164,4,bauhaus-center.com,IL,Israel,Asia,Western Asia
-104.247.167.50,4,bence.net,TR,Turkey,Asia,Western Asia
-5.252.97.110,4,besatime.com,TR,Turkey,Asia,Western Asia
-5.250.242.52,4,bessogutma.com,TR,Turkey,Asia,Western Asia
-192.116.4.50,4,bethlehem.edu,IL,Israel,Asia,Western Asia
-188.132.193.52,4,beylikduzutabelaci.com,TR,Turkey,Asia,Western Asia
-37.247.115.40,4,bgmonline.net,TR,Turkey,Asia,Western Asia
-185.56.74.69,4,bgu.co.il,IL,Israel,Asia,Western Asia
-80.253.246.246,4,bib.az,TR,Turkey,Asia,Western Asia
-85.132.44.43,4,big.az,AZ,Azerbaijan,Asia,Western Asia
-89.252.134.35,4,bilcod.com,TR,Turkey,Asia,Western Asia
-84.54.13.119,4,bilgi360.com.tr,TR,Turkey,Asia,Western Asia
-185.226.161.16,4,bilgimak.net,TR,Turkey,Asia,Western Asia
-195.238.120.202,4,bimkom.org,IL,Israel,Asia,Western Asia
-185.126.219.187,4,bingolburada.com,TR,Turkey,Asia,Western Asia
-91.212.213.18,4,binuli.ge,GE,Georgia,Asia,Western Asia
-5.100.255.33,4,birds.org.il,IL,Israel,Asia,Western Asia
-185.220.206.88,4,bitheikuren.com,IL,Israel,Asia,Western Asia
-185.241.6.211,4,bizportal.co.il,IL,Israel,Asia,Western Asia
-81.218.117.73,4,blmj.org,IL,Israel,Asia,Western Asia
-37.58.16.91,4,bodo.com,TR,Turkey,Asia,Western Asia
-213.238.190.115,4,bodrum.bel.tr,TR,Turkey,Asia,Western Asia
-31.168.170.43,4,booknet.co.il,IL,Israel,Asia,Western Asia
-212.72.155.164,4,borjomi.com,GE,Georgia,Asia,Western Asia
-89.252.187.192,4,borsafix.com,TR,Turkey,Asia,Western Asia
-2.56.62.236,4,boxbilisim.com,TR,Turkey,Asia,Western Asia
-45.84.191.3,4,bozkurtantrepo.com,TR,Turkey,Asia,Western Asia
-185.56.73.50,4,breslev.co.il,IL,Israel,Asia,Western Asia
-79.171.16.250,4,brgk.org.tr,TR,Turkey,Asia,Western Asia
-185.86.165.174,4,brostranslation.com,TR,Turkey,Asia,Western Asia
-93.187.207.237,4,bsimuhendislik.com,TR,Turkey,Asia,Western Asia
-91.239.207.198,4,bsu.edu.ge,GE,Georgia,Asia,Western Asia
-104.247.167.166,4,bthaber.com,TR,Turkey,Asia,Western Asia
-31.168.170.45,4,bug.co.il,IL,Israel,Asia,Western Asia
-185.42.173.107,4,bursammo.com,TR,Turkey,Asia,Western Asia
-89.252.182.227,4,busenasaglik.com,TR,Turkey,Asia,Western Asia
-89.252.188.86,4,busser.com.tr,TR,Turkey,Asia,Western Asia
-104.247.161.227,4,buycialisonli.com,TR,Turkey,Asia,Western Asia
-91.151.95.70,4,buyfollowernow.com,TR,Turkey,Asia,Western Asia
-213.238.183.89,4,caddesaat.com,TR,Turkey,Asia,Western Asia
-159.253.44.174,4,cag.edu.tr,TR,Turkey,Asia,Western Asia
-5.2.85.161,4,cagalogluhamami.com.tr,TR,Turkey,Asia,Western Asia
-94.20.47.170,4,camera.az,AZ,Azerbaijan,Asia,Western Asia
-31.186.23.131,4,campaigntr.com,TR,Turkey,Asia,Western Asia
-185.92.2.7,4,canakkale.bel.tr,TR,Turkey,Asia,Western Asia
-89.252.183.243,4,canakkaleaynalipazar.com,TR,Turkey,Asia,Western Asia
-45.155.159.28,4,canakkaleolay.com,TR,Turkey,Asia,Western Asia
-5.180.184.231,4,carasrentacar.com,TR,Turkey,Asia,Western Asia
-185.108.148.81,4,carmelwines.co.il,IL,Israel,Asia,Western Asia
-50.28.1.116,4,caseclub.com,CY,Cyprus,Asia,Western Asia
-181.214.154.36,4,caykurrizespor.org.tr,TR,Turkey,Asia,Western Asia
-15.184.254.14,4,cbb.gov.bh,BH,Bahrain,Asia,Western Asia
-157.175.142.30,4,cbb.gov.bh,BH,Bahrain,Asia,Western Asia
-64.20.51.166,4,cberdata.org,AE,United Arab Emirates,Asia,Western Asia
-92.113.36.131,4,cbncuritiba.com.br,CY,Cyprus,Asia,Western Asia
-85.95.234.104,4,ceksansweepers.com,TR,Turkey,Asia,Western Asia
-91.195.255.228,4,celog.am,AM,Armenia,Asia,Western Asia
-5.250.254.48,4,cemkapoliuretan.com,TR,Turkey,Asia,Western Asia
-78.135.106.221,4,cetinpar.com.tr,TR,Turkey,Asia,Western Asia
-93.109.224.45,4,cfa.com.cy,CY,Cyprus,Asia,Western Asia
-212.64.200.58,4,chayatex.com,TR,Turkey,Asia,Western Asia
-185.242.163.2,4,cheese-burger.net,TR,Turkey,Asia,Western Asia
-212.199.177.172,4,chinanewsline.com,IL,Israel,Asia,Western Asia
-62.219.58.243,4,cinema.co.il,IL,Israel,Asia,Western Asia
-89.19.13.106,4,ciniciler.com.tr,TR,Turkey,Asia,Western Asia
-67.43.238.178,4,citedelenergie.com,TR,Turkey,Asia,Western Asia
-176.53.39.215,4,civilim.com,TR,Turkey,Asia,Western Asia
-104.247.165.146,4,cixiptvsatinal.com,TR,Turkey,Asia,Western Asia
-89.252.186.103,4,ckmdijital.com,TR,Turkey,Asia,Western Asia
-185.135.223.112,4,cmbilisim.com,TR,Turkey,Asia,Western Asia
-89.252.183.195,4,cnccode.com,TR,Turkey,Asia,Western Asia
-72.10.162.200,4,cngov.ca,TR,Turkey,Asia,Western Asia
-78.142.208.71,4,cobansut.com,TR,Turkey,Asia,Western Asia
-185.174.29.134,4,cocukludunya.com,TR,Turkey,Asia,Western Asia
-185.87.26.235,4,coffeerem.com,TR,Turkey,Asia,Western Asia
-95.173.164.19,4,coin-turk.com,TR,Turkey,Asia,Western Asia
-85.111.48.120,4,colins.com.tr,TR,Turkey,Asia,Western Asia
-84.95.247.228,4,collplant.com,IL,Israel,Asia,Western Asia
-185.131.144.182,4,comc.co.il,IL,Israel,Asia,Western Asia
-89.252.169.130,4,concord.com.tr,TR,Turkey,Asia,Western Asia
-88.218.116.137,4,conversioner.com,IL,Israel,Asia,Western Asia
-89.252.130.215,4,corneliaresort.com,TR,Turkey,Asia,Western Asia
-91.198.66.53,4,crosairsoft.com.tr,TR,Turkey,Asia,Western Asia
-176.120.26.109,4,ctv7.ru,AM,Armenia,Asia,Western Asia
-185.149.101.13,4,cultureroutesinturkey.com,TR,Turkey,Asia,Western Asia
-67.225.134.49,4,culturesonar.com,CY,Cyprus,Asia,Western Asia
-89.252.146.56,4,curebooking.com,TR,Turkey,Asia,Western Asia
-185.108.148.135,4,cyabra.com,IL,Israel,Asia,Western Asia
-212.68.46.11,4,cydd.org.tr,TR,Turkey,Asia,Western Asia
-5.100.156.60,4,cytel.com,TR,Turkey,Asia,Western Asia
-5.100.156.151,4,cytel.com,TR,Turkey,Asia,Western Asia
-192.116.109.25,4,cytoreason.com,IL,Israel,Asia,Western Asia
-89.252.138.240,4,dalbel.com.tr,TR,Turkey,Asia,Western Asia
-95.173.180.25,4,dalyanestate.com,TR,Turkey,Asia,Western Asia
-185.108.148.134,4,darrow.ai,IL,Israel,Asia,Western Asia
-81.16.14.33,4,datalex.am,AM,Armenia,Asia,Western Asia
-5.100.156.83,4,davidfoster.com,TR,Turkey,Asia,Western Asia
-5.100.156.155,4,davidfoster.com,TR,Turkey,Asia,Western Asia
-194.146.239.14,4,day.ir,AE,United Arab Emirates,Asia,Western Asia
-94.20.142.173,4,daytube.az,AZ,Azerbaijan,Asia,Western Asia
-185.179.25.160,4,dbulut.com,TR,Turkey,Asia,Western Asia
-5.100.156.89,4,deafwebsites.com,TR,Turkey,Asia,Western Asia
-104.247.161.249,4,dedektiflikburosu.com.tr,TR,Turkey,Asia,Western Asia
-94.102.13.172,4,defenceturkey.com,TR,Turkey,Asia,Western Asia
-185.243.77.60,4,deiramassage.net,AE,United Arab Emirates,Asia,Western Asia
-85.132.85.85,4,Delta Telecom Ltd,AZ,Azerbaijan,Asia,Western Asia
-104.247.160.136,4,demobul.net,TR,Turkey,Asia,Western Asia
-31.210.51.96,4,deneme.com,TR,Turkey,Asia,Western Asia
-31.186.11.136,4,dengealuminyum.com.tr,TR,Turkey,Asia,Western Asia
-104.247.165.83,4,denthaus.com.tr,TR,Turkey,Asia,Western Asia
-185.139.5.142,4,dersdoktoru.com,TR,Turkey,Asia,Western Asia
-212.20.142.41,4,deutsche-guggenheim.de,TR,Turkey,Asia,Western Asia
-67.215.9.138,4,devp.org,TR,Turkey,Asia,Western Asia
-85.237.211.9,4,dewa69.net,AE,United Arab Emirates,Asia,Western Asia
-188.132.193.38,4,diclelife.com,TR,Turkey,Asia,Western Asia
-213.238.168.80,4,dijitalpazarlamakocu.com,TR,Turkey,Asia,Western Asia
-185.93.52.188,4,dikgazete.com,TR,Turkey,Asia,Western Asia
-213.238.129.101,4,dinimizislam.com,TR,Turkey,Asia,Western Asia
-188.132.193.46,4,disperim.com,TR,Turkey,Asia,Western Asia
-185.19.92.133,4,diyadinnet.com,TR,Turkey,Asia,Western Asia
-213.238.181.172,4,diyetisyencim.com,TR,Turkey,Asia,Western Asia
-195.225.46.200,4,dldtelaviv.com,IL,Israel,Asia,Western Asia
-195.238.121.20,4,dmh.org.il,IL,Israel,Asia,Western Asia
-37.247.115.30,4,dmklinik.com,TR,Turkey,Asia,Western Asia
-89.252.137.67,4,doganlogistic.com,TR,Turkey,Asia,Western Asia
-159.253.41.154,4,dogruhaber.com.tr,TR,Turkey,Asia,Western Asia
-185.8.33.207,4,dogulumuzik.com.tr,TR,Turkey,Asia,Western Asia
-46.20.159.27,4,DoraTelekom,TR,Turkey,Asia,Western Asia
-185.111.246.114,4,doremed.com,TR,Turkey,Asia,Western Asia
-212.98.224.51,4,dorukmak.com.tr,TR,Turkey,Asia,Western Asia
-5.2.84.61,4,dostmedya.com,TR,Turkey,Asia,Western Asia
-185.7.176.20,4,doviz.com,TR,Turkey,Asia,Western Asia
-185.254.237.119,4,drkadirkilimcioglu.com,TR,Turkey,Asia,Western Asia
-66.22.104.170,4,dubaigolf.com,AE,United Arab Emirates,Asia,Western Asia
-185.229.111.110,4,dukani.ge,GE,Georgia,Asia,Western Asia
-77.232.100.183,4,dulani.gov.sa,SA,Saudi Arabia,Asia,Western Asia
-217.116.199.58,4,dunyaenerji.org.tr,TR,Turkey,Asia,Western Asia
-176.53.96.114,4,dunyaflor.com,TR,Turkey,Asia,Western Asia
-3.29.154.236,4,dxbchic.com,AE,United Arab Emirates,Asia,Western Asia
-188.132.158.132,4,e-iji.net,TR,Turkey,Asia,Western Asia
-182.54.236.24,4,e-mago.co.il,IL,Israel,Asia,Western Asia
-213.142.130.70,4,ecepromosyon.com,TR,Turkey,Asia,Western Asia
-88.218.116.151,4,econcretetech.com,IL,Israel,Asia,Western Asia
-77.92.140.232,4,econjournals.com,TR,Turkey,Asia,Western Asia
-77.223.141.30,4,efesveteriner.com.tr,TR,Turkey,Asia,Western Asia
-93.187.201.199,4,egegelisimailedanisma.com,TR,Turkey,Asia,Western Asia
-85.95.237.110,4,egemanservis.com,TR,Turkey,Asia,Western Asia
-154.53.165.46,4,ekonomiyontem.com.tr,TR,Turkey,Asia,Western Asia
-185.179.26.131,4,elektrikforum.com,TR,Turkey,Asia,Western Asia
-101.44.38.126,4,eleman.net,TR,Turkey,Asia,Western Asia
-192.116.71.77,4,elijah-interfaith.org,IL,Israel,Asia,Western Asia
-185.48.181.56,4,eliteworldhotels.com.tr,TR,Turkey,Asia,Western Asia
-5.2.84.81,4,ellinciyilmete.com,TR,Turkey,Asia,Western Asia
-193.140.173.247,4,emu.edu.tr,TR,Turkey,Asia,Western Asia
-31.192.214.122,4,endustrirulman.com,TR,Turkey,Asia,Western Asia
-83.150.214.2,4,engelliler.biz,TR,Turkey,Asia,Western Asia
-104.247.165.163,4,englishstudyhere.com,TR,Turkey,Asia,Western Asia
-176.53.12.17,4,entasend.com,TR,Turkey,Asia,Western Asia
-195.225.46.43,4,eran.org.il,IL,Israel,Asia,Western Asia
-185.198.197.125,4,erimti.com,TR,Turkey,Asia,Western Asia
-93.186.120.166,4,ertapazarlama.com.tr,TR,Turkey,Asia,Western Asia
-95.183.213.21,4,erzurum.edu.tr,TR,Turkey,Asia,Western Asia
-152.89.39.62,4,esiyok.av.tr,TR,Turkey,Asia,Western Asia
-93.180.133.17,4,eskidiyse.com,TR,Turkey,Asia,Western Asia
-212.175.156.125,4,eskisehir.bel.tr,TR,Turkey,Asia,Western Asia
-185.248.59.80,4,eskisehirdurum.com,TR,Turkey,Asia,Western Asia
-85.95.237.94,4,eskurye.com,TR,Turkey,Asia,Western Asia
-5.250.243.69,4,esporseti.com,TR,Turkey,Asia,Western Asia
-37.247.115.29,4,estudamdergi.org,TR,Turkey,Asia,Western Asia
-91.151.83.169,4,eterzi.com,TR,Turkey,Asia,Western Asia
-193.140.108.140,4,etu.edu.tr,TR,Turkey,Asia,Western Asia
-212.108.143.183,4,eul.edu.tr,TR,Turkey,Asia,Western Asia
-213.238.183.63,4,eurasian-research.org,TR,Turkey,Asia,Western Asia
-185.160.31.25,4,evimtasnakliyat.com.tr,TR,Turkey,Asia,Western Asia
-213.159.7.74,4,evkonprefabrik.com.tr,TR,Turkey,Asia,Western Asia
-83.150.212.196,4,expatguideturkey.com,TR,Turkey,Asia,Western Asia
-89.252.183.35,4,fakrocatimerdivenleri.com,TR,Turkey,Asia,Western Asia
-92.113.36.154,4,faradaysec.com,CY,Cyprus,Asia,Western Asia
-80.253.246.193,4,fatihmedya.com,TR,Turkey,Asia,Western Asia
-213.128.70.117,4,fbu.edu.tr,TR,Turkey,Asia,Western Asia
-188.93.88.93,4,fcsamgurali.ge,GE,Georgia,Asia,Western Asia
-217.195.207.25,4,fensorulari.com,TR,Turkey,Asia,Western Asia
-5.172.177.238,4,fitrast.com,TR,Turkey,Asia,Western Asia
-80.179.59.162,4,focuswildlife.com,IL,Israel,Asia,Western Asia
-212.154.96.250,4,fordyedekleri.com,TR,Turkey,Asia,Western Asia
-82.80.210.157,4,forms-wizard.biz,IL,Israel,Asia,Western Asia
-91.239.207.139,4,formulanews.ge,GE,Georgia,Asia,Western Asia
-178.210.175.22,4,fortiks.com,TR,Turkey,Asia,Western Asia
-188.93.95.26,4,forum.ge,GE,Georgia,Asia,Western Asia
-185.126.219.150,4,forumtek.net,TR,Turkey,Asia,Western Asia
-37.26.170.60,4,freenet.am,AM,Armenia,Asia,Western Asia
-85.117.41.12,4,frontnews.ge,GE,Georgia,Asia,Western Asia
-178.157.8.164,4,fsm.edu.tr,TR,Turkey,Asia,Western Asia
-104.247.167.147,4,fugamobilya.com,TR,Turkey,Asia,Western Asia
-195.142.105.13,4,galatasaray.org,TR,Turkey,Asia,Western Asia
-77.92.149.245,4,gamirasu.com,TR,Turkey,Asia,Western Asia
-103.224.23.188,4,gaqm.org,AE,United Arab Emirates,Asia,Western Asia
-185.92.1.236,4,gazete1453.com.tr,TR,Turkey,Asia,Western Asia
-104.247.165.35,4,gazeteport.com.tr,TR,Turkey,Asia,Western Asia
-185.171.88.103,4,gaziantepotoservis.com,TR,Turkey,Asia,Western Asia
-178.210.178.5,4,gedayapi.com,TR,Turkey,Asia,Western Asia
-185.241.63.106,4,gelirortaklari.com,SA,Saudi Arabia,Asia,Western Asia
-5.2.85.176,4,gencdergi.com,TR,Turkey,Asia,Western Asia
-213.238.183.199,4,genclerbirligi.org.tr,TR,Turkey,Asia,Western Asia
-67.43.238.130,4,genealogie.org,TR,Turkey,Asia,Western Asia
-185.201.148.70,4,geneva-accord.org,IL,Israel,Asia,Western Asia
-93.187.162.109,4,genocide-museum.am,AM,Armenia,Asia,Western Asia
-185.163.200.21,4,georgiantheatre.ge,GE,Georgia,Asia,Western Asia
-91.239.207.119,4,geotimes.ge,GE,Georgia,Asia,Western Asia
-94.138.206.130,4,geredekombiservisi.com,TR,Turkey,Asia,Western Asia
-89.252.174.4,4,gerosland.com,TR,Turkey,Asia,Western Asia
-89.252.186.212,4,gevezeyeri.com,TR,Turkey,Asia,Western Asia
-91.239.207.180,4,geworld.ge,GE,Georgia,Asia,Western Asia
-77.223.142.4,4,geze-gen.com,TR,Turkey,Asia,Western Asia
-78.135.114.215,4,gezilinki.com,TR,Turkey,Asia,Western Asia
-195.28.180.198,4,gfh.org.il,IL,Israel,Asia,Western Asia
-78.111.111.51,4,glactro.com,TR,Turkey,Asia,Western Asia
-2.51.251.176,4,globalconnections.ae,AE,United Arab Emirates,Asia,Western Asia
-83.150.212.167,4,gmehukuk.com,TR,Turkey,Asia,Western Asia
-45.133.105.123,4,GNC-Alfa CJSC,AM,Armenia,Asia,Western Asia
-195.54.178.116,4,gobatumi.com,GE,Georgia,Asia,Western Asia
-46.31.147.178,4,gocekyachtclub.org,TR,Turkey,Asia,Western Asia
-213.142.131.51,4,gokcebilgisayar.com,TR,Turkey,Asia,Western Asia
-193.162.43.101,4,goldburc.com.tr,TR,Turkey,Asia,Western Asia
-185.95.169.107,4,goldenbaycruisesagent.com,TR,Turkey,Asia,Western Asia
-194.146.239.57,4,goldenchance.ir,AE,United Arab Emirates,Asia,Western Asia
-31.210.51.52,4,gomail.com.tr,TR,Turkey,Asia,Western Asia
-31.22.115.180,4,goulandris.gr,CY,Cyprus,Asia,Western Asia
-5.2.86.96,4,goztepe.org.tr,TR,Turkey,Asia,Western Asia
-80.93.216.11,4,grafikerler.net,TR,Turkey,Asia,Western Asia
-213.142.131.224,4,grafikeryayin.com,TR,Turkey,Asia,Western Asia
-5.250.241.218,4,grafiport.com,TR,Turkey,Asia,Western Asia
-81.218.119.1,4,GreenTeamDNS,IL,Israel,Asia,Western Asia
-194.31.64.17,4,gruperel.com,TR,Turkey,Asia,Western Asia
-109.205.46.3,4,gtu.ge,GE,Georgia,Asia,Western Asia
-185.111.245.67,4,guestranet.com,TR,Turkey,Asia,Western Asia
-93.115.79.212,4,gunlukburc.net,TR,Turkey,Asia,Western Asia
-31.192.214.222,4,guvenpastane.com,TR,Turkey,Asia,Western Asia
-78.135.107.41,4,ha-xueli.com,TR,Turkey,Asia,Western Asia
-2.59.117.6,4,habata.com.tr,TR,Turkey,Asia,Western Asia
-89.252.159.131,4,haber-yazilimi.org,TR,Turkey,Asia,Western Asia
-31.210.55.214,4,haber1.com,TR,Turkey,Asia,Western Asia
-185.33.128.141,4,haber365.com.tr,TR,Turkey,Asia,Western Asia
-185.195.231.66,4,haber7.net,TR,Turkey,Asia,Western Asia
-45.151.251.6,4,haberimolsa.com.tr,TR,Turkey,Asia,Western Asia
-86.96.202.167,4,haggargroup.ae,AE,United Arab Emirates,Asia,Western Asia
-185.198.74.19,4,hammaddeleransiklopedisi.com,TR,Turkey,Asia,Western Asia
-213.128.77.82,4,hamzakocakoglu.com,TR,Turkey,Asia,Western Asia
-167.86.44.32,4,harel-group.co.il,IL,Israel,Asia,Western Asia
-89.252.178.48,4,hasanalisan.com,TR,Turkey,Asia,Western Asia
-31.14.52.157,4,haskarmedikal.com,TR,Turkey,Asia,Western Asia
-31.14.52.172,4,hastayataklari.co,TR,Turkey,Asia,Western Asia
-213.159.1.61,4,hatsan.com.tr,TR,Turkey,Asia,Western Asia
-188.93.90.240,4,hcore.ge,GE,Georgia,Asia,Western Asia
-89.252.161.35,4,hdemachine.com,TR,Turkey,Asia,Western Asia
-5.250.254.181,4,hebasanmakine.com,TR,Turkey,Asia,Western Asia
-80.244.175.181,4,hebpsy.net,IL,Israel,Asia,Western Asia
-80.179.142.74,4,hebron.org.il,IL,Israel,Asia,Western Asia
-45.59.70.115,4,hepbidolu.com.tr,TR,Turkey,Asia,Western Asia
-85.111.45.200,4,hepsiburada.com,TR,Turkey,Asia,Western Asia
-185.106.208.89,4,hermetics.org,TR,Turkey,Asia,Western Asia
-185.108.148.112,4,herzog.ac.il,IL,Israel,Asia,Western Asia
-66.22.84.27,4,hidabroot.org,IL,Israel,Asia,Western Asia
-94.102.13.165,4,hidayetcelik.com.tr,TR,Turkey,Asia,Western Asia
-95.173.179.170,4,hihoy.com,TR,Turkey,Asia,Western Asia
-5.100.156.218,4,historicbaseball.com,TR,Turkey,Asia,Western Asia
-5.100.156.58,4,historicbaseball.com,TR,Turkey,Asia,Western Asia
-80.179.226.37,4,hma.org.il,IL,Israel,Asia,Western Asia
-91.151.84.154,4,hsckablo.com,TR,Turkey,Asia,Western Asia
-93.187.202.7,4,hukuki.net,TR,Turkey,Asia,Western Asia
-45.139.222.22,4,humazeytinyag.com.tr,TR,Turkey,Asia,Western Asia
-31.186.13.243,4,hurhaber.com,TR,Turkey,Asia,Western Asia
-185.111.247.38,4,hurriyetmedikal.com,TR,Turkey,Asia,Western Asia
-185.126.218.24,4,hyundaiclubtr.com,TR,Turkey,Asia,Western Asia
-94.20.21.214,4,ibar.az,AZ,Azerbaijan,Asia,Western Asia
-141.98.204.170,4,ichotels.com.tr,TR,Turkey,Asia,Western Asia
-45.84.188.62,4,ictr.org,TR,Turkey,Asia,Western Asia
-185.56.73.24,4,idanraichelproject.com,IL,Israel,Asia,Western Asia
-88.218.116.134,4,idsf.org.il,IL,Israel,Asia,Western Asia
-92.42.38.132,4,iep.com.tr,TR,Turkey,Asia,Western Asia
-217.195.207.207,4,ihlamurarcelik.com,TR,Turkey,Asia,Western Asia
-141.98.205.235,4,ihu.edu.tr,TR,Turkey,Asia,Western Asia
-188.93.95.68,4,iknow.ge,GE,Georgia,Asia,Western Asia
-154.52.100.15,4,iku.edu.tr,TR,Turkey,Asia,Western Asia
-178.210.166.138,4,incirpalet.com.tr,TR,Turkey,Asia,Western Asia
-34.18.81.201,4,insightss.co,QA,Qatar,Asia,Western Asia
-195.28.181.44,4,insuranceusaauto.com,IL,Israel,Asia,Western Asia
-20.196.3.14,4,integratedproperties.ae,AE,United Arab Emirates,Asia,Western Asia
-80.241.247.46,4,intel-com.ge,GE,Georgia,Asia,Western Asia
-176.98.40.12,4,intheranostics.com,TR,Turkey,Asia,Western Asia
-185.229.109.222,4,investingeorgia.org,GE,Georgia,Asia,Western Asia
-185.241.138.100,4,ipekci.com.tr,TR,Turkey,Asia,Western Asia
-89.252.137.25,4,ipektesisat.com,TR,Turkey,Asia,Western Asia
-46.20.1.165,4,ipekyoluhaber.net,TR,Turkey,Asia,Western Asia
-88.218.117.196,4,ipo.co.il,IL,Israel,Asia,Western Asia
-89.252.131.198,4,isam.org.tr,TR,Turkey,Asia,Western Asia
-5.250.252.238,4,isinsu.com.tr,TR,Turkey,Asia,Western Asia
-217.195.206.9,4,isitan.com,TR,Turkey,Asia,Western Asia
-159.253.36.116,4,islamansiklopedisi.info,TR,Turkey,Asia,Western Asia
-95.173.181.44,4,islamveihsan.com,TR,Turkey,Asia,Western Asia
-91.191.173.162,4,isola.design,TR,Turkey,Asia,Western Asia
-62.219.50.49,4,isracast.com,IL,Israel,Asia,Western Asia
-199.203.52.202,4,isratrance.com,IL,Israel,Asia,Western Asia
-90.158.121.93,4,issanat.com.tr,TR,Turkey,Asia,Western Asia
-89.252.137.17,4,istabip.org.tr,TR,Turkey,Asia,Western Asia
-178.18.206.126,4,istanbulakvaryum.com,TR,Turkey,Asia,Western Asia
-85.95.237.217,4,istanbulexpresskurye.org,TR,Turkey,Asia,Western Asia
-104.247.162.35,4,istanbulotomatiktente.net,TR,Turkey,Asia,Western Asia
-213.128.77.10,4,istavder.com,TR,Turkey,Asia,Western Asia
-5.180.81.143,4,itikathali.com,TR,Turkey,Asia,Western Asia
-46.49.2.71,4,iversi.ge,GE,Georgia,Asia,Western Asia
-92.42.38.117,4,izfas.com.tr,TR,Turkey,Asia,Western Asia
-5.180.81.157,4,izipa.com,TR,Turkey,Asia,Western Asia
-185.99.199.250,4,izka.org.tr,TR,Turkey,Asia,Western Asia
-185.195.230.30,4,izle7.com,TR,Turkey,Asia,Western Asia
-185.7.176.4,4,izlesene.com,TR,Turkey,Asia,Western Asia
-185.28.154.101,4,jabotinsky.org,IL,Israel,Asia,Western Asia
-83.229.81.191,4,jamd.ac.il,IL,Israel,Asia,Western Asia
-213.238.183.62,4,jartiyercorap.com,TR,Turkey,Asia,Western Asia
-5.100.156.131,4,jennaburger.com,TR,Turkey,Asia,Western Asia
-5.100.156.68,4,jennaburger.com,TR,Turkey,Asia,Western Asia
-88.218.117.88,4,jerusalemfoundation.org,IL,Israel,Asia,Western Asia
-80.179.142.66,4,jerusaleminstitute.org.il,IL,Israel,Asia,Western Asia
-195.206.236.4,4,jexiste.org,TR,Turkey,Asia,Western Asia
-185.56.89.187,4,job4u.ae,AE,United Arab Emirates,Asia,Western Asia
-88.218.117.142,4,jordanretro.org,IL,Israel,Asia,Western Asia
-195.225.46.181,4,jppi.org.il,IL,Israel,Asia,Western Asia
-185.8.33.112,4,jssm.org,TR,Turkey,Asia,Western Asia
-212.150.243.220,4,julievino.com,IL,Israel,Asia,Western Asia
-66.22.104.59,4,jumeirahgolfestates.com,AE,United Arab Emirates,Asia,Western Asia
-188.132.200.45,4,kadincaforum.net,TR,Turkey,Asia,Western Asia
-91.191.173.181,4,kadincinayetlerinidurduracagiz.net,TR,Turkey,Asia,Western Asia
-91.239.207.211,4,kaizen.ge,GE,Georgia,Asia,Western Asia
-78.135.106.187,4,kaleraf.com.tr,TR,Turkey,Asia,Western Asia
-94.102.0.248,4,kameraarkasi.org,TR,Turkey,Asia,Western Asia
-213.238.190.118,4,kamyonpark.com,TR,Turkey,Asia,Western Asia
-185.87.120.114,4,karakoyelektronik.com,TR,Turkey,Asia,Western Asia
-159.253.43.43,4,karalahana.com,TR,Turkey,Asia,Western Asia
-77.92.141.173,4,karamanuyullu.av.tr,TR,Turkey,Asia,Western Asia
-185.136.206.60,4,karelservis.com.tr,TR,Turkey,Asia,Western Asia
-193.33.164.115,4,karmod.com,TR,Turkey,Asia,Western Asia
-185.162.18.35,4,kathimerini.com.cy,CY,Cyprus,Asia,Western Asia
-85.95.237.66,4,kayserispor.org,TR,Turkey,Asia,Western Asia
-185.56.72.170,4,kehilot.co.il,IL,Israel,Asia,Western Asia
-94.102.15.166,4,kehribarkolyebileklik.com,TR,Turkey,Asia,Western Asia
-46.31.146.148,4,kenthaber.com,TR,Turkey,Asia,Western Asia
-213.159.7.252,4,keskinrentacar.com.tr,TR,Turkey,Asia,Western Asia
-154.53.165.47,4,kevser.com.tr,TR,Turkey,Asia,Western Asia
-5.180.185.253,4,kiaclubtr.com,TR,Turkey,Asia,Western Asia
-83.229.74.30,4,kibutz-poalim.co.il,IL,Israel,Asia,Western Asia
-185.145.254.227,4,kidumatarim.org,IL,Israel,Asia,Western Asia
-195.225.46.15,4,kifkef.co.il,IL,Israel,Asia,Western Asia
-80.253.255.86,4,kilicalipasahamami.com,TR,Turkey,Asia,Western Asia
-193.124.133.79,4,kino35mm.ru,TR,Turkey,Asia,Western Asia
-217.116.199.238,4,kitabi.gen.tr,TR,Turkey,Asia,Western Asia
-93.177.100.132,4,kitapsec.com,TR,Turkey,Asia,Western Asia
-66.22.84.16,4,kkl-jnf.org,IL,Israel,Asia,Western Asia
-66.22.84.22,4,kkl.org.il,IL,Israel,Asia,Western Asia
-45.141.151.84,4,kktcgecealemi.com,TR,Turkey,Asia,Western Asia
-185.85.191.185,4,klsklaset.com.tr,TR,Turkey,Asia,Western Asia
-195.244.63.20,4,klup.com.tr,TR,Turkey,Asia,Western Asia
-5.2.85.126,4,konaksanotocekici.com,TR,Turkey,Asia,Western Asia
-178.157.9.11,4,konusarakogren.com,TR,Turkey,Asia,Western Asia
-213.142.130.60,4,konyaozgunmobilya.com,TR,Turkey,Asia,Western Asia
-5.250.252.165,4,korzayithalat.com,TR,Turkey,Asia,Western Asia
-95.173.190.140,4,kozabayi.com,TR,Turkey,Asia,Western Asia
-5.2.84.66,4,krallarintavugu.com,TR,Turkey,Asia,Western Asia
-185.216.40.107,4,ksau-hs.edu.sa,SA,Saudi Arabia,Asia,Western Asia
-213.238.179.223,4,kuflu.com,TR,Turkey,Asia,Western Asia
-82.80.25.204,4,kulam.org,IL,Israel,Asia,Western Asia
-185.153.222.104,4,kultur.istanbul,TR,Turkey,Asia,Western Asia
-78.142.209.94,4,kursara.com,TR,Turkey,Asia,Western Asia
-185.194.30.142,4,kurumsalfirmaadresleri.com,TR,Turkey,Asia,Western Asia
-195.175.54.82,4,kutahya.bel.tr,TR,Turkey,Asia,Western Asia
-178.210.174.16,4,kuzeycorapbaski.com,TR,Turkey,Asia,Western Asia
-188.93.95.105,4,kvira.ge,GE,Georgia,Asia,Western Asia
-78.142.208.58,4,kwturkiye.com,TR,Turkey,Asia,Western Asia
-213.226.119.12,4,lastikal.com.tr,TR,Turkey,Asia,Western Asia
-69.16.232.87,4,laws.com,IL,Israel,Asia,Western Asia
-50.28.1.223,4,leatherindia.org,CY,Cyprus,Asia,Western Asia
-93.113.63.158,4,lefzen.com,TR,Turkey,Asia,Western Asia
-94.20.59.201,4,lent.az,AZ,Azerbaijan,Asia,Western Asia
-31.43.191.18,4,letsupload.co,AZ,Azerbaijan,Asia,Western Asia
-185.85.205.31,4,lezzetci.com,TR,Turkey,Asia,Western Asia
-85.95.239.243,4,lfaturkiye.com,TR,Turkey,Asia,Western Asia
-104.115.80.64,4,ligatus.com,IL,Israel,Asia,Western Asia
-185.56.72.220,4,lihihod.com,IL,Israel,Asia,Western Asia
-176.88.66.88,4,limak.com.tr,TR,Turkey,Asia,Western Asia
-185.16.238.221,4,linkgroup.com.tr,TR,Turkey,Asia,Western Asia
-45.84.189.83,4,livuajans.net,TR,Turkey,Asia,Western Asia
-15.184.239.121,4,lovindubai.com,BH,Bahrain,Asia,Western Asia
-185.17.234.38,4,maan-ctr.org,IL,Israel,Asia,Western Asia
-212.150.209.230,4,maccabi.co.il,IL,Israel,Asia,Western Asia
-195.244.61.20,4,mackolik.com,TR,Turkey,Asia,Western Asia
-78.142.210.229,4,mafapliseperde.com,TR,Turkey,Asia,Western Asia
-46.31.77.50,4,magazincell.com.tr,TR,Turkey,Asia,Western Asia
-81.218.117.93,4,magmamagnets.com,IL,Israel,Asia,Western Asia
-94.138.218.202,4,magnetdunyasi.com,TR,Turkey,Asia,Western Asia
-5.2.85.131,4,maildeposu.com,TR,Turkey,Asia,Western Asia
-64.71.153.121,4,mailing-tube.com,IL,Israel,Asia,Western Asia
-185.67.122.76,4,makinecim.com,TR,Turkey,Asia,Western Asia
-66.22.84.55,4,mako.co.il,IL,Israel,Asia,Western Asia
-78.135.106.49,4,malatyahaber.com,TR,Turkey,Asia,Western Asia
-89.252.183.211,4,manevihayat.com,TR,Turkey,Asia,Western Asia
-104.247.162.20,4,mardo.com.tr,TR,Turkey,Asia,Western Asia
-185.230.15.2,4,marketing-website.com,TR,Turkey,Asia,Western Asia
-195.54.178.41,4,marneuli.net,GE,Georgia,Asia,Western Asia
-89.252.183.67,4,masallaroku.com,TR,Turkey,Asia,Western Asia
-8.213.25.125,4,masar3500.com,SA,Saudi Arabia,Asia,Western Asia
-91.239.207.212,4,matemotors.com,GE,Georgia,Asia,Western Asia
-185.241.4.171,4,matomy.com,IL,Israel,Asia,Western Asia
-78.142.209.222,4,mavvo.com.tr,TR,Turkey,Asia,Western Asia
-66.22.84.239,4,max.co.il,IL,Israel,Asia,Western Asia
-185.149.103.192,4,medikritik.com,TR,Turkey,Asia,Western Asia
-185.248.59.41,4,medyaege.com.tr,TR,Turkey,Asia,Western Asia
-95.173.181.90,4,mehmetakif.edu.tr,TR,Turkey,Asia,Western Asia
-37.148.211.123,4,mehmetefendi.com,TR,Turkey,Asia,Western Asia
-89.252.184.23,4,mehmetnuriarslan.com,TR,Turkey,Asia,Western Asia
-185.167.108.171,4,mekorot.co.il,IL,Israel,Asia,Western Asia
-213.142.130.58,4,memisaslan.com,TR,Turkey,Asia,Western Asia
-167.86.44.73,4,menoramivt.co.il,IL,Israel,Asia,Western Asia
-81.21.164.207,4,merithotels.com,TR,Turkey,Asia,Western Asia
-193.255.128.7,4,mersin.edu.tr,TR,Turkey,Asia,Western Asia
-5.250.251.6,4,mersinnakliyecilersitesi.com,TR,Turkey,Asia,Western Asia
-185.241.138.60,4,mesametal.com,TR,Turkey,Asia,Western Asia
-213.157.205.208,4,messenger.com.ge,GE,Georgia,Asia,Western Asia
-188.93.95.4,4,mestia.gov.ge,GE,Georgia,Asia,Western Asia
-5.2.84.101,4,metinhepyukselen.com,TR,Turkey,Asia,Western Asia
-185.37.149.106,4,mhmhmuseum.org,IL,Israel,Asia,Western Asia
-2.19.193.67,4,millipiyangoonline.com,TR,Turkey,Asia,Western Asia
-195.225.46.99,4,milog.co.il,IL,Israel,Asia,Western Asia
-185.42.173.200,4,mimarokan.com,TR,Turkey,Asia,Western Asia
-85.237.211.162,4,mimedia.in,AE,United Arab Emirates,Asia,Western Asia
-5.100.156.37,4,minedit.com,TR,Turkey,Asia,Western Asia
-5.100.156.159,4,minedit.com,TR,Turkey,Asia,Western Asia
-185.106.209.3,4,mircforumlari.net,TR,Turkey,Asia,Western Asia
-213.159.30.159,4,misyonkredi.com,TR,Turkey,Asia,Western Asia
-31.22.115.202,4,mitropolitiko.edu.gr,CY,Cyprus,Asia,Western Asia
-185.241.6.210,4,mivzakon.co.il,IL,Israel,Asia,Western Asia
-185.230.209.102,4,mizbani.xyz,SA,Saudi Arabia,Asia,Western Asia
-167.86.44.72,4,mizrahi-tefahot.co.il,IL,Israel,Asia,Western Asia
-5.250.248.27,4,mlsaturkey.com,TR,Turkey,Asia,Western Asia
-195.14.137.105,4,moec.gov.cy,CY,Cyprus,Asia,Western Asia
-138.128.170.188,4,mott.pe,SA,Saudi Arabia,Asia,Western Asia
-89.252.180.102,4,mrtkuaforekipmanlari.com,TR,Turkey,Asia,Western Asia
-89.252.141.23,4,msreklam.com.tr,TR,Turkey,Asia,Western Asia
-185.118.143.26,4,mtasaturkiye.com,TR,Turkey,Asia,Western Asia
-37.247.114.198,4,muhasebetr.com,TR,Turkey,Asia,Western Asia
-89.252.138.3,4,multeciler.org.tr,TR,Turkey,Asia,Western Asia
-188.93.95.125,4,museum.ge,GE,Georgia,Asia,Western Asia
-37.9.207.66,4,musiad.org.tr,TR,Turkey,Asia,Western Asia
-185.37.148.221,4,musictalk.co.il,IL,Israel,Asia,Western Asia
-213.159.7.26,4,mustafaayaz.com,TR,Turkey,Asia,Western Asia
-95.173.165.92,4,mustafainan.com.tr,TR,Turkey,Asia,Western Asia
-109.176.253.41,4,mutfaksirlari.com,TR,Turkey,Asia,Western Asia
-139.99.190.190,4,myassignmentwriting.com.au,AE,United Arab Emirates,Asia,Western Asia
-45.67.203.7,4,mybbkursu.com,TR,Turkey,Asia,Western Asia
-31.22.115.162,4,myphone.gr,CY,Cyprus,Asia,Western Asia
-185.56.74.98,4,nadlancenter.co.il,IL,Israel,Asia,Western Asia
-88.218.116.160,4,nalagaat.org.il,IL,Israel,Asia,Western Asia
-176.53.12.16,4,namlipastirma.com.tr,TR,Turkey,Asia,Western Asia
-80.179.226.44,4,nana10.co.il,IL,Israel,Asia,Western Asia
-185.165.46.83,4,nationalturk.com,TR,Turkey,Asia,Western Asia
-50.28.1.139,4,nativeconnections.org,CY,Cyprus,Asia,Western Asia
-91.212.213.2,4,nbcenter.ge,GE,Georgia,Asia,Western Asia
-93.113.60.84,4,Netinternet Bilisim Teknolojileri AS,TR,Turkey,Asia,Western Asia
-93.113.60.82,4,Netinternet Bilisim Teknolojileri AS,TR,Turkey,Asia,Western Asia
-81.218.80.226,4,nfc.co.il,IL,Israel,Asia,Western Asia
-45.151.250.18,4,nikeoutletstores.org,TR,Turkey,Asia,Western Asia
-185.145.255.98,4,nituv-eng.com,IL,Israel,Asia,Western Asia
-85.95.241.238,4,nkfu.com,TR,Turkey,Asia,Western Asia
-37.26.174.115,4,nla.am,AM,Armenia,Asia,Western Asia
-141.98.207.76,4,nobelyayin.com,TR,Turkey,Asia,Western Asia
-45.158.14.18,4,nobetci-eczane.org,TR,Turkey,Asia,Western Asia
-45.84.189.195,4,noktadanismanlik.net,TR,Turkey,Asia,Western Asia
-159.253.44.149,4,novihills.com,TR,Turkey,Asia,Western Asia
-78.135.82.165,4,nviss.ca,TR,Turkey,Asia,Western Asia
-109.172.196.173,4,oceanmining.ru,GE,Georgia,Asia,Western Asia
-69.16.232.94,4,officemuseum.com,IL,Israel,Asia,Western Asia
-185.136.206.14,4,oguzhankaraburgu.com.tr,TR,Turkey,Asia,Western Asia
-89.252.137.41,4,okeanostercume.com.tr,TR,Turkey,Asia,Western Asia
-46.31.78.216,4,okeyankara.com,TR,Turkey,Asia,Western Asia
-31.207.86.3,4,oktotech.com,TR,Turkey,Asia,Western Asia
-185.18.207.233,4,okun.su,IL,Israel,Asia,Western Asia
-185.165.46.126,4,olamare.com,TR,Turkey,Asia,Western Asia
-185.163.200.25,4,oldgroup.ge,GE,Georgia,Asia,Western Asia
-94.102.8.90,4,oliviabeckford.co.uk,TR,Turkey,Asia,Western Asia
-5.37.56.186,4,omaninfo.om,OM,Oman,Asia,Western Asia
-5.37.56.184,4,omannews.gov.om,OM,Oman,Asia,Western Asia
-45.158.12.45,4,omegletv.tv,TR,Turkey,Asia,Western Asia
-194.5.236.237,4,on5yirmi5.com,TR,Turkey,Asia,Western Asia
-45.94.4.244,4,onaysms.org,TR,Turkey,Asia,Western Asia
-78.142.210.147,4,ondernakliyat.gen.tr,TR,Turkey,Asia,Western Asia
-194.5.236.131,4,onlinesunucu.com,TR,Turkey,Asia,Western Asia
-94.20.71.19,4,Ookla Speedtest server: az-ix.net,AZ,Azerbaijan,Asia,Western Asia
-212.72.155.36,4,Ookla Speedtest server: connect.ge,GE,Georgia,Asia,Western Asia
-86.51.82.252,4,Ookla Speedtest server: dam.myspeed.net.sa,SA,Saudi Arabia,Asia,Western Asia
-212.215.133.38,4,Ookla Speedtest server: jed-speedtest.saudi.net.sa,SA,Saudi Arabia,Asia,Western Asia
-86.51.80.252,4,Ookla Speedtest server: jed.myspeed.net.sa,SA,Saudi Arabia,Asia,Western Asia
-82.166.201.37,4,Ookla Speedtest server: speed.013.net,IL,Israel,Asia,Western Asia
-185.57.68.2,4,Ookla Speedtest server: speed.arpinet.am,AM,Armenia,Asia,Western Asia
-176.28.83.17,4,Ookla Speedtest server: speedtest.bakcell.com,AZ,Azerbaijan,Asia,Western Asia
-178.160.240.74,4,Ookla Speedtest server: speedtest.beeline.am,AM,Armenia,Asia,Western Asia
-93.184.1.210,4,Ookla Speedtest server: speedtest.bnet.ps,IL,Israel,Asia,Western Asia
-213.140.208.247,4,Ookla Speedtest server: speedtest.cablenetcy.net,CY,Cyprus,Asia,Western Asia
-62.90.236.42,4,Ookla Speedtest server: speedtest.cellcom.co.il,IL,Israel,Asia,Western Asia
-195.14.142.1,4,Ookla Speedtest server: speedtest.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
-193.109.134.8,4,Ookla Speedtest server: speedtest.eso-es.net,TR,Turkey,Asia,Western Asia
-194.54.192.98,4,Ookla Speedtest server: speedtest.gulfnet.com.kw,KW,Kuwait,Asia,Western Asia
-185.37.148.243,4,Ookla Speedtest server: speedtest.interhost.co.il,IL,Israel,Asia,Western Asia
-62.201.225.12,4,Ookla Speedtest server: speedtest.iqnet.com,IQ,Iraq,Asia,Western Asia
-89.147.255.10,4,Ookla Speedtest server: speedtest.ivory.azstarnet.az,AZ,Azerbaijan,Asia,Western Asia
-46.43.64.247,4,Ookla Speedtest server: speedtest.mada.ps,IL,Israel,Asia,Western Asia
-5.21.229.74,4,Ookla Speedtest server: speedtest.nawras.om,OM,Oman,Asia,Western Asia
-82.178.33.35,4,Ookla Speedtest server: speedtest.omantel.om,OM,Oman,Asia,Western Asia
-213.243.33.131,4,Ookla Speedtest server: speedtest.smileadsl.com,TR,Turkey,Asia,Western Asia
-37.152.4.230,4,Ookla Speedtest server: speedtest.umniah.com,JO,Jordan,Asia,Western Asia
-37.131.66.51,4,Ookla Speedtest server: speedtest.viva.com.bh,BH,Bahrain,Asia,Western Asia
-37.238.255.53,4,Ookla Speedtest server: speedtest1.earthlinktele.com,IQ,Iraq,Asia,Western Asia
-94.128.15.9,4,Ookla Speedtest server: speedtest1.viva.com.kw,KW,Kuwait,Asia,Western Asia
-212.43.17.251,4,Ookla Speedtest server: speedtest1.zain.net,KW,Kuwait,Asia,Western Asia
-62.215.170.104,4,Ookla Speedtest server: test.fasttelco.com,KW,Kuwait,Asia,Western Asia
-194.1.192.82,4,opencart-tr.com,TR,Turkey,Asia,Western Asia
-80.179.148.114,4,opgal.com,IL,Israel,Asia,Western Asia
-104.247.168.227,4,opportunie.com,TR,Turkey,Asia,Western Asia
-5.100.156.187,4,opportunitiesforyouth.org,TR,Turkey,Asia,Western Asia
-5.100.156.80,4,opportunitiesforyouth.org,TR,Turkey,Asia,Western Asia
-176.97.67.105,4,orbitacenter.ru,AE,United Arab Emirates,Asia,Western Asia
-31.7.35.106,4,ore-met.com,TR,Turkey,Asia,Western Asia
-5.2.84.21,4,orjinalkutu.com,TR,Turkey,Asia,Western Asia
-88.218.116.38,4,orphaned-land.com,IL,Israel,Asia,Western Asia
-69.16.232.230,4,orrville.com,IL,Israel,Asia,Western Asia
-104.247.162.67,4,ortakoyhotel.com,TR,Turkey,Asia,Western Asia
-5.2.85.36,4,osmarmarine.com,TR,Turkey,Asia,Western Asia
-45.84.189.8,4,otelgazetesi.com,TR,Turkey,Asia,Western Asia
-104.247.165.3,4,ozsoynakliyat.com,TR,Turkey,Asia,Western Asia
-185.106.210.87,4,ozzadehaliyikama.com,TR,Turkey,Asia,Western Asia
-185.201.148.17,4,panorama.com,IL,Israel,Asia,Western Asia
-3.29.197.107,4,paragonfurniture.ae,AE,United Arab Emirates,Asia,Western Asia
-31.186.11.135,4,parandijital.com,TR,Turkey,Asia,Western Asia
-104.247.162.226,4,patidestek.com,TR,Turkey,Asia,Western Asia
-5.2.84.231,4,patisaray.org,TR,Turkey,Asia,Western Asia
-64.20.51.238,4,paxchristi.net,AE,United Arab Emirates,Asia,Western Asia
-213.142.131.226,4,pazarziraat.com,TR,Turkey,Asia,Western Asia
-62.128.52.39,4,peacenow.org.il,IL,Israel,Asia,Western Asia
-185.226.160.220,4,pegem.net,TR,Turkey,Asia,Western Asia
-2.59.117.5,4,peratinyhouse.com,TR,Turkey,Asia,Western Asia
-93.187.203.100,4,petromarsurvey.com,TR,Turkey,Asia,Western Asia
-178.20.231.184,4,peynirmatik.com.tr,TR,Turkey,Asia,Western Asia
-88.218.117.49,4,pitsou.com,IL,Israel,Asia,Western Asia
-104.247.168.18,4,platinyatak.net,TR,Turkey,Asia,Western Asia
-185.145.252.225,4,pluginsmarket.com,IL,Israel,Asia,Western Asia
-86.51.167.14,4,pmu.edu.sa,SA,Saudi Arabia,Asia,Western Asia
-85.190.230.243,4,pobedavkusa.com,CY,Cyprus,Asia,Western Asia
-89.252.182.131,4,polygonmach.com,TR,Turkey,Asia,Western Asia
-94.103.185.116,4,posta.co.il,IL,Israel,Asia,Western Asia
-89.252.188.244,4,printmatik.com,TR,Turkey,Asia,Western Asia
-50.28.1.193,4,productelectricity.com,CY,Cyprus,Asia,Western Asia
-88.218.116.178,4,prof-shapira.com,IL,Israel,Asia,Western Asia
-82.80.229.4,4,professorandpat.org,IL,Israel,Asia,Western Asia
-78.142.208.142,4,pronetnakliyat.com,TR,Turkey,Asia,Western Asia
-80.179.230.60,4,pvpanama.com,IL,Israel,Asia,Western Asia
-168.187.226.28,4,q8mazad.com,KW,Kuwait,Asia,Western Asia
-94.20.88.111,4,qarabagh.com,AZ,Azerbaijan,Asia,Western Asia
-213.238.190.244,4,qba.com.tr,TR,Turkey,Asia,Western Asia
-85.117.41.2,4,qebuli-climate.ge,GE,Georgia,Asia,Western Asia
-31.14.52.173,4,radikalmedikal.com,TR,Turkey,Asia,Western Asia
-46.45.187.181,4,Radore Veri Merkezi Hizmetleri A.S.,TR,Turkey,Asia,Western Asia
-46.45.187.163,4,Radore Veri Merkezi Hizmetleri A.S.,TR,Turkey,Asia,Western Asia
-46.45.187.184,4,Radore Veri Merkezi Hizmetleri A.S.,TR,Turkey,Asia,Western Asia
-46.45.187.186,4,Radore Veri Merkezi Hizmetleri A.S.,TR,Turkey,Asia,Western Asia
-194.146.50.113,4,railsystem.net,TR,Turkey,Asia,Western Asia
-185.184.198.164,4,ramada.com,IQ,Iraq,Asia,Western Asia
-89.252.182.99,4,rantardijital.com,TR,Turkey,Asia,Western Asia
-80.179.140.151,4,reader.co.il,IL,Israel,Asia,Western Asia
-188.132.193.36,4,redfiredoor.com,TR,Turkey,Asia,Western Asia
-77.92.149.248,4,rentacaristanbul.com.tr,TR,Turkey,Asia,Western Asia
-188.132.165.9,4,rentyachtturkey.com,TR,Turkey,Asia,Western Asia
-188.132.241.4,4,rizecanreklam.com,TR,Turkey,Asia,Western Asia
-109.207.76.211,4,rmmj.org.il,IL,Israel,Asia,Western Asia
-178.210.171.44,4,rmsgrup.com,TR,Turkey,Asia,Western Asia
-69.16.232.162,4,rssailing.com,IL,Israel,Asia,Western Asia
-31.186.11.123,4,rubikonltd.com,TR,Turkey,Asia,Western Asia
-185.149.100.87,4,ruzgarkarot.com.tr,TR,Turkey,Asia,Western Asia
-63.250.63.229,4,sabon.com,IL,Israel,Asia,Western Asia
-185.254.95.5,4,sacgolgemerkezi.com,TR,Turkey,Asia,Western Asia
-95.173.165.93,4,safahac.com,TR,Turkey,Asia,Western Asia
-212.235.89.107,4,safe-mail.net,IL,Israel,Asia,Western Asia
-213.238.183.121,4,sagadernegi.org,TR,Turkey,Asia,Western Asia
-92.42.39.112,4,saglikeczanesi.com.tr,TR,Turkey,Asia,Western Asia
-185.83.145.24,4,sagliknet.gen.tr,TR,Turkey,Asia,Western Asia
-178.210.173.37,4,sanatkedisi.com,TR,Turkey,Asia,Western Asia
-213.159.0.156,4,sanayigazetesi.com.tr,TR,Turkey,Asia,Western Asia
-93.177.103.130,4,sansli.com.tr,TR,Turkey,Asia,Western Asia
-104.247.162.115,4,saricahali.com.tr,TR,Turkey,Asia,Western Asia
-45.89.246.214,4,saritepe.com,TR,Turkey,Asia,Western Asia
-185.210.94.60,4,satilikutupaketmalzemeleri.com,TR,Turkey,Asia,Western Asia
-50.28.1.57,4,savannahcitymarket.com,CY,Cyprus,Asia,Western Asia
-5.100.156.52,4,savebay.org,TR,Turkey,Asia,Western Asia
-5.100.156.136,4,savebay.org,TR,Turkey,Asia,Western Asia
-31.186.15.180,4,sayyac.com,TR,Turkey,Asia,Western Asia
-5.100.156.98,4,schallfirm.com,TR,Turkey,Asia,Western Asia
-5.100.156.150,4,schallfirm.com,TR,Turkey,Asia,Western Asia
-195.14.137.4,4,schools.ac.cy,CY,Cyprus,Asia,Western Asia
-93.187.162.98,4,sci.am,AM,Armenia,Asia,Western Asia
-217.147.235.212,4,science.org.ge,GE,Georgia,Asia,Western Asia
-139.99.190.185,4,scivee.tv,AE,United Arab Emirates,Asia,Western Asia
-37.148.209.189,4,seanews.com.tr,TR,Turkey,Asia,Western Asia
-5.250.251.2,4,seatclublife.com,TR,Turkey,Asia,Western Asia
-185.210.93.139,4,seckinsogutma.com,TR,Turkey,Asia,Western Asia
-85.95.237.78,4,sefaatas.com.tr,TR,Turkey,Asia,Western Asia
-89.252.187.226,4,seismocode.com,TR,Turkey,Asia,Western Asia
-80.179.152.101,4,sensei.co.il,IL,Israel,Asia,Western Asia
-185.56.74.100,4,seo-analytic.co.il,IL,Israel,Asia,Western Asia
-31.192.208.162,4,seohocasi.com,TR,Turkey,Asia,Western Asia
-154.53.167.26,4,seoium.com,TR,Turkey,Asia,Western Asia
-89.252.182.195,4,seokoloji.com,TR,Turkey,Asia,Western Asia
-185.123.54.78,4,serbestiyet.com,TR,Turkey,Asia,Western Asia
-45.143.99.2,4,sergehotel.com,TR,Turkey,Asia,Western Asia
-176.103.130.130,4,Serveroid LLC,CY,Cyprus,Asia,Western Asia
-176.103.130.131,4,Serveroid LLC,CY,Cyprus,Asia,Western Asia
-89.43.28.53,4,sexshopistanbul.com.tr,TR,Turkey,Asia,Western Asia
-103.130.146.43,4,shahrequran.ir,TR,Turkey,Asia,Western Asia
-185.216.135.10,4,shamra.sy,SY,Syrian Arab Republic,Asia,Western Asia
-81.218.80.234,4,shaulravid.co.il,IL,Israel,Asia,Western Asia
-95.173.185.161,4,shopplus.com.tr,TR,Turkey,Asia,Western Asia
-199.203.226.2,4,sii.org.il,IL,Israel,Asia,Western Asia
-213.238.183.134,4,sinavanalizi.com,TR,Turkey,Asia,Western Asia
-185.7.176.10,4,sinemalar.com,TR,Turkey,Asia,Western Asia
-31.186.15.76,4,sirketara.net,TR,Turkey,Asia,Western Asia
-80.179.128.181,4,site-pro.co.il,IL,Israel,Asia,Western Asia
-195.54.178.33,4,site.ge,GE,Georgia,Asia,Western Asia
-185.123.54.77,4,sivasspor.org.tr,TR,Turkey,Asia,Western Asia
-45.84.189.51,4,sizetekstil.com,TR,Turkey,Asia,Western Asia
-185.114.22.213,4,smilehairclinic.com,TR,Turkey,Asia,Western Asia
-91.239.207.133,4,smr.gov.ge,GE,Georgia,Asia,Western Asia
-213.157.199.149,4,smsorg.ge,GE,Georgia,Asia,Western Asia
-89.43.65.139,4,sobepy.com,TR,Turkey,Asia,Western Asia
-80.179.230.22,4,social.org.il,IL,Israel,Asia,Western Asia
-5.100.156.29,4,socialstudieshelp.com,TR,Turkey,Asia,Western Asia
-5.100.156.201,4,socialstudieshelp.com,TR,Turkey,Asia,Western Asia
-185.113.223.5,4,sohbet.page,TR,Turkey,Asia,Western Asia
-45.84.189.66,4,sohbetodalar.com,TR,Turkey,Asia,Western Asia
-185.243.77.30,4,somonion.com,AE,United Arab Emirates,Asia,Western Asia
-78.135.105.7,4,sosyalboost.com.tr,TR,Turkey,Asia,Western Asia
-185.84.182.83,4,sosyalmedyahaber.com,TR,Turkey,Asia,Western Asia
-103.224.23.142,4,sportsmatik.com,AE,United Arab Emirates,Asia,Western Asia
-185.108.148.226,4,ssv.network,IL,Israel,Asia,Western Asia
-188.132.148.242,4,starkibris.net,TR,Turkey,Asia,Western Asia
-83.150.215.53,4,staticad.net,TR,Turkey,Asia,Western Asia
-5.100.156.0,4,steelpier.com,TR,Turkey,Asia,Western Asia
-5.100.156.47,4,stonetoss.com,TR,Turkey,Asia,Western Asia
-185.229.12.15,4,stopthenorthamericanunion.com,TR,Turkey,Asia,Western Asia
-193.33.164.20,4,sudeposu.org,TR,Turkey,Asia,Western Asia
-104.247.168.115,4,sultanbozum.net.tr,TR,Turkey,Asia,Western Asia
-78.135.106.104,4,sultantesisat.com,TR,Turkey,Asia,Western Asia
-178.210.173.19,4,sunnetrehberi.com,TR,Turkey,Asia,Western Asia
-31.186.23.157,4,taf.org.tr,TR,Turkey,Asia,Western Asia
-23.26.248.12,4,taflanelektronik.com,TR,Turkey,Asia,Western Asia
-194.36.90.166,4,takdin.co.il,IL,Israel,Asia,Western Asia
-45.84.190.42,4,takip-sepeti.com,TR,Turkey,Asia,Western Asia
-31.192.214.172,4,takipcim.com.tr,TR,Turkey,Asia,Western Asia
-89.252.138.99,4,takipcipaketim.com,TR,Turkey,Asia,Western Asia
-212.68.46.13,4,tanap.com,TR,Turkey,Asia,Western Asia
-185.237.83.151,4,tarihiolaylar.com,TR,Turkey,Asia,Western Asia
-213.159.30.23,4,tasam.org,TR,Turkey,Asia,Western Asia
-91.151.88.210,4,taslavabokurna.com,TR,Turkey,Asia,Western Asia
-185.56.75.185,4,tavisraeli.co.il,IL,Israel,Asia,Western Asia
-185.35.21.35,4,tdb.org.tr,TR,Turkey,Asia,Western Asia
-213.142.159.191,4,teknikelektrikcim.com,TR,Turkey,Asia,Western Asia
-185.95.165.134,4,teknikvideo.net,TR,Turkey,Asia,Western Asia
-185.179.27.180,4,teknolojen.com,TR,Turkey,Asia,Western Asia
-185.193.7.177,4,tema.org.tr,TR,Turkey,Asia,Western Asia
-104.247.166.253,4,tesay.com.tr,TR,Turkey,Asia,Western Asia
-46.28.238.153,4,tesev.org.tr,TR,Turkey,Asia,Western Asia
-77.75.39.254,4,testklima.com,TR,Turkey,Asia,Western Asia
-80.93.208.182,4,tev.org.tr,TR,Turkey,Asia,Western Asia
-5.100.156.137,4,thalhimer.com,TR,Turkey,Asia,Western Asia
-5.100.156.122,4,thalhimer.com,TR,Turkey,Asia,Western Asia
-31.186.16.92,4,theadx.com,TR,Turkey,Asia,Western Asia
-213.142.136.97,4,thealluretravel.com,TR,Turkey,Asia,Western Asia
-173.209.56.178,4,thebao.ca,TR,Turkey,Asia,Western Asia
-173.209.61.104,4,themeafordindependent.ca,TR,Turkey,Asia,Western Asia
-185.56.75.138,4,thenorman.com,IL,Israel,Asia,Western Asia
-185.108.148.219,4,theparentscircle.org,IL,Israel,Asia,Western Asia
-20.233.1.96,4,thewatchtower.com,AE,United Arab Emirates,Asia,Western Asia
-5.100.156.57,4,thewaterpage.com,TR,Turkey,Asia,Western Asia
-5.100.156.248,4,thewaterpage.com,TR,Turkey,Asia,Western Asia
-88.255.149.199,4,ticaret.edu.tr,TR,Turkey,Asia,Western Asia
-185.210.95.243,4,tider.org.tr,TR,Turkey,Asia,Western Asia
-91.191.172.11,4,tiyatrolar.com.tr,TR,Turkey,Asia,Western Asia
-31.186.13.106,4,tkyd.org,TR,Turkey,Asia,Western Asia
-185.56.89.53,4,toddlersintlnursery.com,AE,United Arab Emirates,Asia,Western Asia
-5.2.85.141,4,tomtomtextiles.com,TR,Turkey,Asia,Western Asia
-188.93.89.87,4,top.ge,GE,Georgia,Asia,Western Asia
-94.199.203.214,4,topkapi.edu.tr,TR,Turkey,Asia,Western Asia
-89.252.138.195,4,toshibaklima.org,TR,Turkey,Asia,Western Asia
-91.194.54.154,4,toyzzshop.com,TR,Turkey,Asia,Western Asia
-213.238.179.146,4,tpkmedya.com.tr,TR,Turkey,Asia,Western Asia
-88.218.117.138,4,traduc71.com,IL,Israel,Asia,Western Asia
-45.84.189.3,4,travestisvalencia.top,TR,Turkey,Asia,Western Asia
-193.140.99.42,4,trdizin.gov.tr,TR,Turkey,Asia,Western Asia
-78.142.211.32,4,tripuck.com,TR,Turkey,Asia,Western Asia
-176.235.206.134,4,tsf.org.tr,TR,Turkey,Asia,Western Asia
-185.145.252.165,4,tsipilates.com,IL,Israel,Asia,Western Asia
-78.142.210.105,4,ttgv.org.tr,TR,Turkey,Asia,Western Asia
-45.151.249.164,4,tugcularnakliyat.com,TR,Turkey,Asia,Western Asia
-185.179.24.7,4,tumteknoloji.com,TR,Turkey,Asia,Western Asia
-185.81.155.88,4,turasmobilya.com,TR,Turkey,Asia,Western Asia
-85.95.241.49,4,turizmajansi.com,TR,Turkey,Asia,Western Asia
-213.142.130.80,4,turizmdesonnokta.com,TR,Turkey,Asia,Western Asia
-213.159.6.140,4,turizmgunlugu.com,TR,Turkey,Asia,Western Asia
-89.19.20.58,4,turkedebiyati.org,TR,Turkey,Asia,Western Asia
-185.106.208.38,4,turkeymedicals.com,TR,Turkey,Asia,Western Asia
-185.106.208.6,4,turkishclassified.com,TR,Turkey,Asia,Western Asia
-78.135.107.148,4,turkishcymbals.com,TR,Turkey,Asia,Western Asia
-185.165.46.194,4,turkishdailynews.com.tr,TR,Turkey,Asia,Western Asia
-185.14.22.173,4,turklider.org,TR,Turkey,Asia,Western Asia
-95.173.180.21,4,turkmaxi.org,TR,Turkey,Asia,Western Asia
-185.106.210.122,4,turkpsikiyatri.com,TR,Turkey,Asia,Western Asia
-213.238.168.129,4,turkrus.com,TR,Turkey,Asia,Western Asia
-31.186.17.21,4,turkticaret.net,TR,Turkey,Asia,Western Asia
-178.210.176.10,4,turkwebajans.com,TR,Turkey,Asia,Western Asia
-185.244.145.16,4,turkyeri.net,TR,Turkey,Asia,Western Asia
-78.142.209.51,4,turuncudepolama.com,TR,Turkey,Asia,Western Asia
-195.142.109.186,4,tuzla.bel.tr,TR,Turkey,Asia,Western Asia
-185.243.77.80,4,uaeplusplus.com,AE,United Arab Emirates,Asia,Western Asia
-69.16.232.146,4,ub.org,IL,Israel,Asia,Western Asia
-31.186.11.118,4,uclg-mewa.org,TR,Turkey,Asia,Western Asia
-81.16.8.110,4,Ucom CJSC,AM,Armenia,Asia,Western Asia
-80.253.254.4,4,uetdsbildirim.com,TR,Turkey,Asia,Western Asia
-217.195.196.83,4,ukazyangin.com,TR,Turkey,Asia,Western Asia
-193.53.98.37,4,uludagfm.com.tr,TR,Turkey,Asia,Western Asia
-213.128.77.155,4,uludagsozluk.com,TR,Turkey,Asia,Western Asia
-31.186.23.241,4,umraniye.bel.tr,TR,Turkey,Asia,Western Asia
-5.2.85.51,4,uniaktivite.com,TR,Turkey,Asia,Western Asia
-176.32.195.163,4,unibank.am,AM,Armenia,Asia,Western Asia
-185.22.187.187,4,unisahealthturkey.com,TR,Turkey,Asia,Western Asia
-85.95.249.5,4,unlugaz.com,TR,Turkey,Asia,Western Asia
-185.145.252.17,4,up.co.il,IL,Israel,Asia,Western Asia
-5.180.185.126,4,urcuhotel.com,TR,Turkey,Asia,Western Asia
-31.186.11.120,4,urfakonukevim.xyz,TR,Turkey,Asia,Western Asia
-185.46.52.122,4,urkim.com.tr,TR,Turkey,Asia,Western Asia
-185.70.96.9,4,uskudar.edu.tr,TR,Turkey,Asia,Western Asia
-94.103.45.17,4,uwidata.com,TR,Turkey,Asia,Western Asia
-185.85.205.248,4,uyguras.com.tr,TR,Turkey,Asia,Western Asia
-185.171.88.90,4,uzmandns.com,TR,Turkey,Asia,Western Asia
-185.108.148.90,4,vanleer.org.il,IL,Israel,Asia,Western Asia
-185.56.74.212,4,vaxtestimonies.org,IL,Israel,Asia,Western Asia
-176.53.12.7,4,vedatpazarlama.com,TR,Turkey,Asia,Western Asia
-37.247.115.41,4,veranet.com.tr,TR,Turkey,Asia,Western Asia
-217.116.201.44,4,veribase.com,TR,Turkey,Asia,Western Asia
-45.158.14.59,4,vezirportal.com,TR,Turkey,Asia,Western Asia
-45.139.222.20,4,viacure.com.tr,TR,Turkey,Asia,Western Asia
-68.168.113.194,4,vifamagazine.ca,TR,Turkey,Asia,Western Asia
-31.22.115.178,4,vikoswater.gr,CY,Cyprus,Asia,Western Asia
-152.89.37.141,4,voyelletour.com,TR,Turkey,Asia,Western Asia
-89.252.182.100,4,wawainteriors.com,TR,Turkey,Asia,Western Asia
-178.211.56.195,4,wearetheartmakers.com,TR,Turkey,Asia,Western Asia
-31.186.14.111,4,web.tv,TR,Turkey,Asia,Western Asia
-199.203.51.141,4,weberdev.com,IL,Israel,Asia,Western Asia
-89.252.159.35,4,webirinci.com,TR,Turkey,Asia,Western Asia
-78.142.209.93,4,webturk.web.tr,TR,Turkey,Asia,Western Asia
-5.100.249.55,4,wesell.co.il,IL,Israel,Asia,Western Asia
-192.116.49.85,4,wikirefua.org.il,IL,Israel,Asia,Western Asia
-31.154.165.180,4,wildflowers.co.il,IL,Israel,Asia,Western Asia
-84.95.247.248,4,womenwagepeace.org.il,IL,Israel,Asia,Western Asia
-45.158.12.200,4,xn--aknmedical-yub.com,TR,Turkey,Asia,Western Asia
-31.192.214.142,4,xn--kadkyantikaalanyerler-kec96k.com,TR,Turkey,Asia,Western Asia
-91.205.41.80,4,yatirimadestek.gov.tr,TR,Turkey,Asia,Western Asia
-104.247.168.99,4,yatirimciyiz.net,TR,Turkey,Asia,Western Asia
-185.123.54.86,4,yazete.com,TR,Turkey,Asia,Western Asia
-109.226.41.138,4,ybook.co.il,IL,Israel,Asia,Western Asia
-104.247.161.174,4,yeniyuzyil.edu.tr,TR,Turkey,Asia,Western Asia
-31.186.17.17,4,yerebatansarnici.com,TR,Turkey,Asia,Western Asia
-37.26.168.23,4,yerphi.am,AM,Armenia,Asia,Western Asia
-212.64.215.125,4,ygm.com.tr,TR,Turkey,Asia,Western Asia
-89.252.187.235,4,yigitambulans.com,TR,Turkey,Asia,Western Asia
-176.53.94.114,4,yildevmadencilik.com,TR,Turkey,Asia,Western Asia
-5.2.84.221,4,yildirim.net,TR,Turkey,Asia,Western Asia
-195.225.46.185,4,yo-yoo.co.il,IL,Israel,Asia,Western Asia
-98.142.102.250,4,yog-sothoth.com,SA,Saudi Arabia,Asia,Western Asia
-89.19.19.125,4,yoldaolmak.com,TR,Turkey,Asia,Western Asia
-178.210.160.65,4,yucedevlet.com,TR,Turkey,Asia,Western Asia
-91.191.173.93,4,yunanadalariferibotlari.com,TR,Turkey,Asia,Western Asia
-168.187.161.250,4,Zajil International Telecom Company W.L.L.,KW,Kuwait,Asia,Western Asia
-141.11.120.80,4,zarinp.al,TR,Turkey,Asia,Western Asia
-45.83.42.168,4,zemereshet.co.il,IL,Israel,Asia,Western Asia
-78.142.209.112,4,zemlak.com,TR,Turkey,Asia,Western Asia
-80.179.141.28,4,zeustech.net,IL,Israel,Asia,Western Asia
-185.123.54.70,4,ziraatciyiz.biz,TR,Turkey,Asia,Western Asia
-46.28.239.165,4,zirkonzahnasya.com,TR,Turkey,Asia,Western Asia
-213.238.183.171,4,ziyayazici.com,TR,Turkey,Asia,Western Asia
-185.179.26.182,4,zksoftware.com.tr,TR,Turkey,Asia,Western Asia
-81.89.217.205,4,zvartnots.aero,AM,Armenia,Asia,Western Asia
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+185.56.74.147,4,2,1202.org.il,IL,Israel,Asia,Western Asia
+185.162.18.37,4,9,24sports.com.cy,CY,Cyprus,Asia,Western Asia
+185.179.24.113,4,429,40ikindi.com,TR,Turkey,Asia,Western Asia
+156.247.63.55,4,66,56980.cc,SA,Saudi Arabia,Asia,Western Asia
+156.247.63.58,4,65,56980.cc,SA,Saudi Arabia,Asia,Western Asia
+5.100.156.31,4,5,5minuteenglish.com,TR,Turkey,Asia,Western Asia
+5.100.156.139,4,8,5minuteenglish.com,TR,Turkey,Asia,Western Asia
+81.218.83.70,4,205,activestills.org,IL,Israel,Asia,Western Asia
+94.140.15.15,4,337,AdGuard 2,CY,Cyprus,Asia,Western Asia
+94.140.14.141,4,233,AdGuard Unfiltered 2,CY,Cyprus,Asia,Western Asia
+5.100.253.198,4,1019,adnart.com,IL,Israel,Asia,Western Asia
+77.223.141.17,4,51,adresgezgini.com,TR,Turkey,Asia,Western Asia
+185.18.206.241,4,728,adva.org,IL,Israel,Asia,Western Asia
+47.91.114.180,4,-33,africabusinessheroes.org,AE,United Arab Emirates,Asia,Western Asia
+85.238.41.121,4,21,airzena.com,GE,Georgia,Asia,Western Asia
+5.100.156.16,4,9,ajsocal.org,TR,Turkey,Asia,Western Asia
+5.100.156.213,4,8,ajsocal.org,TR,Turkey,Asia,Western Asia
+185.86.7.120,4,1868,akinsoft.com.tr,TR,Turkey,Asia,Western Asia
+213.238.190.20,4,210056,akmesegrup.com,TR,Turkey,Asia,Western Asia
+5.2.84.226,4,3100,akvaryumportali.com,TR,Turkey,Asia,Western Asia
+5.2.80.35,4,2617,alastyr.com,TR,Turkey,Asia,Western Asia
+185.87.26.187,4,-1077,allalci.com,TR,Turkey,Asia,Western Asia
+66.22.84.26,4,19,alljobs.co.il,IL,Israel,Asia,Western Asia
+81.218.83.103,4,1,alooma.tv,IL,Israel,Asia,Western Asia
+89.252.159.145,4,1934,alperencinar.com,TR,Turkey,Asia,Western Asia
+5.250.251.14,4,5,alterradyator.com.tr,TR,Turkey,Asia,Western Asia
+46.234.29.115,4,18,altinbas.edu.tr,TR,Turkey,Asia,Western Asia
+45.151.250.72,4,1040,anatolianlgs.com,TR,Turkey,Asia,Western Asia
+149.100.151.134,4,5,animhut.com,CY,Cyprus,Asia,Western Asia
+93.177.103.108,4,8,anlamlisozler.net,TR,Turkey,Asia,Western Asia
+95.173.189.51,4,2058,antalyaaquarium.com,TR,Turkey,Asia,Western Asia
+31.7.35.72,4,12,antalyaff.com,TR,Turkey,Asia,Western Asia
+104.247.173.252,4,8,antalyatekniktemizlik.com.tr,TR,Turkey,Asia,Western Asia
+104.247.165.99,4,23,antikaalanlar.com.tr,TR,Turkey,Asia,Western Asia
+45.84.190.82,4,1675,antikaesyaalanlar.web.tr,TR,Turkey,Asia,Western Asia
+188.93.95.22,4,-16,apa.gov.ge,GE,Georgia,Asia,Western Asia
+213.169.148.156,4,1459,aphroditehills.com,CY,Cyprus,Asia,Western Asia
+34.166.77.54,4,120,ara.tv,SA,Saudi Arabia,Asia,Western Asia
+78.142.208.77,4,-364,aracarizasi.com,TR,Turkey,Asia,Western Asia
+213.238.183.31,4,379,arasmotokurye.com,TR,Turkey,Asia,Western Asia
+185.56.75.80,4,168,arberobotics.com,IL,Israel,Asia,Western Asia
+81.218.117.82,4,60,archives.gov.il,IL,Israel,Asia,Western Asia
+158.101.244.137,4,28,arib.com.sa,SA,Saudi Arabia,Asia,Western Asia
+88.218.116.187,4,17,arims.org.il,IL,Israel,Asia,Western Asia
+185.124.85.148,4,2016,arka-bahce.org,TR,Turkey,Asia,Western Asia
+95.173.161.190,4,-4104,arkadaslik.com.tr,TR,Turkey,Asia,Western Asia
+185.99.199.203,4,61,arkeofili.com,TR,Turkey,Asia,Western Asia
+185.57.68.12,4,0,arminco.com,AM,Armenia,Asia,Western Asia
+185.57.68.15,4,20,arpinet.am,AM,Armenia,Asia,Western Asia
+31.207.80.43,4,-676,arsuhotel.com,TR,Turkey,Asia,Western Asia
+185.169.52.40,4,5,aslitarcanglobal.com,TR,Turkey,Asia,Western Asia
+212.150.130.237,4,598,asoccer.co.il,IL,Israel,Asia,Western Asia
+46.31.79.106,4,22,asofood.com,TR,Turkey,Asia,Western Asia
+72.10.160.82,4,63,aspq.org,TR,Turkey,Asia,Western Asia
+5.2.85.136,4,31,atlasmovers.com.tr,TR,Turkey,Asia,Western Asia
+50.28.1.85,4,6,awaionline.com,CY,Cyprus,Asia,Western Asia
+85.111.48.119,4,5,ayakkabidunyasi.com.tr,TR,Turkey,Asia,Western Asia
+185.171.24.111,4,17,ayrancimetal.com,TR,Turkey,Asia,Western Asia
+83.150.213.58,4,1921612,aytastarim.net,TR,Turkey,Asia,Western Asia
+217.195.196.78,4,532,aytor.com,TR,Turkey,Asia,Western Asia
+85.132.122.26,4,31,azstat.org,AZ,Azerbaijan,Asia,Western Asia
+45.66.245.211,4,5,badrairlines.com,AE,United Arab Emirates,Asia,Western Asia
+78.142.208.85,4,305,banabirmasaj.com,TR,Turkey,Asia,Western Asia
+62.60.199.199,4,132,basalam.com,AE,United Arab Emirates,Asia,Western Asia
+45.143.4.139,4,24,basinturu.news,TR,Turkey,Asia,Western Asia
+91.239.207.147,4,351761,batumi.ge,GE,Georgia,Asia,Western Asia
+185.108.148.164,4,-41,bauhaus-center.com,IL,Israel,Asia,Western Asia
+5.252.97.110,4,270477,besatime.com,TR,Turkey,Asia,Western Asia
+5.250.242.52,4,265,bessogutma.com,TR,Turkey,Asia,Western Asia
+192.116.4.50,4,19,bethlehem.edu,IL,Israel,Asia,Western Asia
+188.132.193.52,4,4,beylikduzutabelaci.com,TR,Turkey,Asia,Western Asia
+37.247.115.40,4,6875,bgmonline.net,TR,Turkey,Asia,Western Asia
+80.253.246.246,4,870,bib.az,TR,Turkey,Asia,Western Asia
+85.132.44.43,4,897,big.az,AZ,Azerbaijan,Asia,Western Asia
+84.54.13.119,4,0,bilgi360.com.tr,TR,Turkey,Asia,Western Asia
+185.226.161.16,4,1525,bilgimak.net,TR,Turkey,Asia,Western Asia
+195.238.120.202,4,2,bimkom.org,IL,Israel,Asia,Western Asia
+185.126.219.187,4,4,bingolburada.com,TR,Turkey,Asia,Western Asia
+91.212.213.18,4,56719,binuli.ge,GE,Georgia,Asia,Western Asia
+149.100.151.56,4,7,bionixwallpaper.com,CY,Cyprus,Asia,Western Asia
+185.220.206.88,4,35,bitheikuren.com,IL,Israel,Asia,Western Asia
+185.241.6.211,4,1,bizportal.co.il,IL,Israel,Asia,Western Asia
+81.218.117.73,4,33,blmj.org,IL,Israel,Asia,Western Asia
+37.58.16.91,4,70,bodo.com,TR,Turkey,Asia,Western Asia
+213.238.190.115,4,7,bodrum.bel.tr,TR,Turkey,Asia,Western Asia
+31.168.170.43,4,5,booknet.co.il,IL,Israel,Asia,Western Asia
+212.72.155.164,4,8,borjomi.com,GE,Georgia,Asia,Western Asia
+89.252.187.192,4,916,borsafix.com,TR,Turkey,Asia,Western Asia
+2.56.62.236,4,955,boxbilisim.com,TR,Turkey,Asia,Western Asia
+45.84.191.3,4,1715,bozkurtantrepo.com,TR,Turkey,Asia,Western Asia
+185.56.73.50,4,3,breslev.co.il,IL,Israel,Asia,Western Asia
+79.171.16.250,4,237,brgk.org.tr,TR,Turkey,Asia,Western Asia
+93.187.207.237,4,625,bsimuhendislik.com,TR,Turkey,Asia,Western Asia
+91.239.207.198,4,481,bsu.edu.ge,GE,Georgia,Asia,Western Asia
+104.247.167.166,4,106,bthaber.com,TR,Turkey,Asia,Western Asia
+149.100.151.229,4,38,buddiesreach.com,CY,Cyprus,Asia,Western Asia
+31.168.170.45,4,40,bug.co.il,IL,Israel,Asia,Western Asia
+95.173.190.25,4,2,bursabuluyor.com,TR,Turkey,Asia,Western Asia
+185.42.173.107,4,10,bursammo.com,TR,Turkey,Asia,Western Asia
+89.252.188.86,4,744,busser.com.tr,TR,Turkey,Asia,Western Asia
+104.247.161.227,4,517,buycialisonli.com,TR,Turkey,Asia,Western Asia
+91.151.95.70,4,560,buyfollowernow.com,TR,Turkey,Asia,Western Asia
+213.238.183.89,4,1464,caddesaat.com,TR,Turkey,Asia,Western Asia
+159.253.44.174,4,3,cag.edu.tr,TR,Turkey,Asia,Western Asia
+5.2.85.161,4,2677,cagalogluhamami.com.tr,TR,Turkey,Asia,Western Asia
+94.20.47.170,4,3,camera.az,AZ,Azerbaijan,Asia,Western Asia
+31.186.23.131,4,8,campaigntr.com,TR,Turkey,Asia,Western Asia
+185.92.2.7,4,19,canakkale.bel.tr,TR,Turkey,Asia,Western Asia
+89.252.183.243,4,735,canakkaleaynalipazar.com,TR,Turkey,Asia,Western Asia
+45.155.159.28,4,15,canakkaleolay.com,TR,Turkey,Asia,Western Asia
+185.108.148.65,4,-249,capitalise.ai,IL,Israel,Asia,Western Asia
+5.180.184.231,4,2636,carasrentacar.com,TR,Turkey,Asia,Western Asia
+185.108.148.81,4,-264,carmelwines.co.il,IL,Israel,Asia,Western Asia
+50.28.1.116,4,-1,caseclub.com,CY,Cyprus,Asia,Western Asia
+181.214.154.36,4,6335,caykurrizespor.org.tr,TR,Turkey,Asia,Western Asia
+15.185.236.133,4,11,cbb.gov.bh,BH,Bahrain,Asia,Western Asia
+15.185.54.110,4,7,cbb.gov.bh,BH,Bahrain,Asia,Western Asia
+91.195.255.228,4,62672,celog.am,AM,Armenia,Asia,Western Asia
+5.250.254.48,4,237839,cemkapoliuretan.com,TR,Turkey,Asia,Western Asia
+78.135.106.221,4,4,cetinpar.com.tr,TR,Turkey,Asia,Western Asia
+93.109.224.45,4,5,cfa.com.cy,CY,Cyprus,Asia,Western Asia
+212.64.200.58,4,-47859,chayatex.com,TR,Turkey,Asia,Western Asia
+185.242.163.2,4,953,cheese-burger.net,TR,Turkey,Asia,Western Asia
+212.199.177.172,4,5,chinanewsline.com,IL,Israel,Asia,Western Asia
+89.252.182.227,4,35934,cialisay.com,TR,Turkey,Asia,Western Asia
+62.219.58.243,4,6,cinema.co.il,IL,Israel,Asia,Western Asia
+89.19.13.106,4,56,ciniciler.com.tr,TR,Turkey,Asia,Western Asia
+104.247.165.146,4,91182,cixiptvsatinal.com,TR,Turkey,Asia,Western Asia
+89.252.186.103,4,878,ckmdijital.com,TR,Turkey,Asia,Western Asia
+185.135.223.112,4,5,cmbilisim.com,TR,Turkey,Asia,Western Asia
+89.252.183.195,4,379,cnccode.com,TR,Turkey,Asia,Western Asia
+78.142.208.71,4,-709,cobansut.com,TR,Turkey,Asia,Western Asia
+185.174.29.134,4,5,cocukludunya.com,TR,Turkey,Asia,Western Asia
+185.87.26.235,4,2129,coffeerem.com,TR,Turkey,Asia,Western Asia
+95.173.164.19,4,2177,coin-turk.com,TR,Turkey,Asia,Western Asia
+85.111.48.120,4,61,colins.com.tr,TR,Turkey,Asia,Western Asia
+84.95.247.228,4,1,collplant.com,IL,Israel,Asia,Western Asia
+185.131.144.182,4,-2,comc.co.il,IL,Israel,Asia,Western Asia
+89.252.169.130,4,24,concord.com.tr,TR,Turkey,Asia,Western Asia
+88.218.116.137,4,-10,conversioner.com,IL,Israel,Asia,Western Asia
+89.252.130.215,4,1785,corneliaresort.com,TR,Turkey,Asia,Western Asia
+91.198.66.53,4,6,crosairsoft.com.tr,TR,Turkey,Asia,Western Asia
+176.120.26.109,4,9,ctv7.ru,AM,Armenia,Asia,Western Asia
+185.149.101.13,4,854,cultureroutesinturkey.com,TR,Turkey,Asia,Western Asia
+67.225.134.49,4,5,culturesonar.com,CY,Cyprus,Asia,Western Asia
+185.108.148.135,4,131,cyabra.com,IL,Israel,Asia,Western Asia
+212.68.46.11,4,635,cydd.org.tr,TR,Turkey,Asia,Western Asia
+5.100.156.60,4,4,cytel.com,TR,Turkey,Asia,Western Asia
+5.100.156.151,4,4,cytel.com,TR,Turkey,Asia,Western Asia
+89.252.138.240,4,-82199,dalbel.com.tr,TR,Turkey,Asia,Western Asia
+95.173.180.25,4,26,dalyanestate.com,TR,Turkey,Asia,Western Asia
+185.108.148.134,4,122,darrow.ai,IL,Israel,Asia,Western Asia
+81.16.14.33,4,44156,datalex.am,AM,Armenia,Asia,Western Asia
+5.100.156.155,4,11,davidfoster.com,TR,Turkey,Asia,Western Asia
+5.100.156.83,4,4,davidfoster.com,TR,Turkey,Asia,Western Asia
+194.146.239.14,4,778,day.ir,AE,United Arab Emirates,Asia,Western Asia
+185.179.25.160,4,4,dbulut.com,TR,Turkey,Asia,Western Asia
+5.100.156.89,4,8,deafwebsites.com,TR,Turkey,Asia,Western Asia
+94.102.13.172,4,520,defenceturkey.com,TR,Turkey,Asia,Western Asia
+5.250.249.154,4,648180,definebilgi.com,TR,Turkey,Asia,Western Asia
+185.243.77.60,4,44,deiramassage.net,AE,United Arab Emirates,Asia,Western Asia
+154.205.134.28,4,246,delaatbusiness.com,SA,Saudi Arabia,Asia,Western Asia
+104.247.160.136,4,773,demobul.net,TR,Turkey,Asia,Western Asia
+31.186.11.136,4,33,dengealuminyum.com.tr,TR,Turkey,Asia,Western Asia
+185.86.165.174,4,1073,dentasave.com.tr,TR,Turkey,Asia,Western Asia
+104.247.165.83,4,3809,denthaus.com.tr,TR,Turkey,Asia,Western Asia
+149.100.151.165,4,6,designerwomen.co.uk,CY,Cyprus,Asia,Western Asia
+85.237.211.9,4,23,dewa69.net,AE,United Arab Emirates,Asia,Western Asia
+188.132.193.38,4,4,diclelife.com,TR,Turkey,Asia,Western Asia
+185.149.103.126,4,165420,dijital.link,TR,Turkey,Asia,Western Asia
+213.238.168.80,4,210073,dijitalpazarlamakocu.com,TR,Turkey,Asia,Western Asia
+188.132.193.46,4,5093,disperim.com,TR,Turkey,Asia,Western Asia
+185.19.92.133,4,2599,diyadinnet.com,TR,Turkey,Asia,Western Asia
+213.238.181.172,4,-29912,diyetisyencim.com,TR,Turkey,Asia,Western Asia
+195.225.46.200,4,3,dldtelaviv.com,IL,Israel,Asia,Western Asia
+195.238.121.20,4,-13,dmh.org.il,IL,Israel,Asia,Western Asia
+37.247.115.30,4,15738,dmklinik.com,TR,Turkey,Asia,Western Asia
+178.134.155.82,4,7120756,DNS Server: 178-134-155-82.dsl.utg.ge,GE,Georgia,Asia,Western Asia
+178.134.248.178,4,1073,DNS Server: 178-134-248-178.dsl.utg.ge,GE,Georgia,Asia,Western Asia
+178.134.27.51,4,178487,DNS Server: 178-134-27-51.dsl.utg.ge,GE,Georgia,Asia,Western Asia
+178.134.28.34,4,9760,DNS Server: 178-134-28-34.dsl.utg.ge,GE,Georgia,Asia,Western Asia
+178.134.36.178,4,17,DNS Server: 178-134-36-178.dsl.utg.ge,GE,Georgia,Asia,Western Asia
+185.14.249.46,4,23695,DNS Server: 185.14.249.46.tarinnet.info,IQ,Iraq,Asia,Western Asia
+188.169.176.78,4,-7121,DNS Server: 188-169-176-78.dsl.utg.ge,GE,Georgia,Asia,Western Asia
+188.169.44.18,4,2970,DNS Server: 188-169-44-18.dsl.utg.ge,GE,Georgia,Asia,Western Asia
+195.142.153.122,4,-1756,DNS Server: 195-142-153-122.rdns.saglayici.net,TR,Turkey,Asia,Western Asia
+2.52.252.252,4,7,DNS Server: 2-52-252-252.orange.net.il,IL,Israel,Asia,Western Asia
+2.55.96.176,4,22,DNS Server: 2-55-96-176.orange.net.il,IL,Israel,Asia,Western Asia
+212.154.19.244,4,-5316,DNS Server: 244.19.154.212.static.turk.net,TR,Turkey,Asia,Western Asia
+46.130.120.30,4,-128,DNS Server: 30.120.130.46.in-addr.mts.am,AM,Armenia,Asia,Western Asia
+31.146.5.166,4,10817,DNS Server: 31-146-5-166.dsl.utg.ge,GE,Georgia,Asia,Western Asia
+31.146.81.222,4,683,DNS Server: 31-146-81-222.dsl.utg.ge,GE,Georgia,Asia,Western Asia
+31.146.83.206,4,4451928,DNS Server: 31-146-83-206.dsl.utg.ge,GE,Georgia,Asia,Western Asia
+2.55.125.80,4,-31284408,DNS Server: 31-154-125-80.orange.net.il,IL,Israel,Asia,Western Asia
+2.55.127.105,4,124,DNS Server: 31-154-127-105.orange.net.il,IL,Israel,Asia,Western Asia
+2.55.72.107,4,199,DNS Server: 31-154-72-107.orange.net.il,IL,Israel,Asia,Western Asia
+2.55.88.248,4,-10800507,DNS Server: 31-154-88-248.orange.net.il,IL,Israel,Asia,Western Asia
+185.38.213.57,4,1,DNS Server: 57-213.gsfastnet.net,IQ,Iraq,Asia,Western Asia
+46.130.117.7,4,-10798495,DNS Server: 7.117.130.46.in-addr.mts.am,AM,Armenia,Asia,Western Asia
+77.92.226.154,4,-757,DNS Server: 77-92-226-154.dsl.utg.ge,GE,Georgia,Asia,Western Asia
+78.135.36.153,4,51,DNS Server: 78-135-36-153.extendbroadband.com,CY,Cyprus,Asia,Western Asia
+78.135.60.109,4,-4439,DNS Server: 78-135-60-109.extendbroadband.com,CY,Cyprus,Asia,Western Asia
+78.135.61.166,4,12,DNS Server: 78-135-61-166.extendbroadband.com,CY,Cyprus,Asia,Western Asia
+78.135.61.2,4,153,DNS Server: 78-135-61-2.extendbroadband.com,CY,Cyprus,Asia,Western Asia
+78.182.254.16,4,-1879,DNS Server: 78.182.254.16.dynamic.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+78.186.159.117,4,25661916,DNS Server: 78.186.159.117.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+78.186.206.121,4,877,DNS Server: 78.186.206.121.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+78.186.60.77,4,99,DNS Server: 78.186.60.77.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+78.188.215.107,4,-18625907,DNS Server: 78.188.215.107.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+78.188.63.155,4,-10754661,DNS Server: 78.188.63.155.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+78.188.74.191,4,91,DNS Server: 78.188.74.191.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+78.189.229.223,4,31598,DNS Server: 78.189.229.223.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+78.189.46.123,4,-6405,DNS Server: 78.189.46.123.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+81.214.190.74,4,8493,DNS Server: 81.214.190.74.dynamic.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+84.94.193.66,4,32,DNS Server: 84.94.193.66.cable.012.net.il,IL,Israel,Asia,Western Asia
+84.95.251.42,4,61,DNS Server: 84.95.251.42.forward.012.net.il,IL,Israel,Asia,Western Asia
+93.177.103.194,4,61,DNS Server: 93-177-103-194.hostlab.net.tr,TR,Turkey,Asia,Western Asia
+94.140.14.59,4,336,DNS Server: 94-140-14-59.adguard.com,CY,Cyprus,Asia,Western Asia
+94.43.11.23,4,68,DNS Server: 94-43-11-23.dsl.utg.ge,GE,Georgia,Asia,Western Asia
+94.43.99.154,4,1413,DNS Server: 94-43-99-154.dsl.utg.ge,GE,Georgia,Asia,Western Asia
+2.50.153.194,4,250,DNS Server: bba-2-50-153-194.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
+2.50.171.172,4,-14399573,DNS Server: bba-2-50-171-172.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
+217.165.186.107,4,238,DNS Server: bba-217-165-186-107.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
+217.165.89.165,4,347,DNS Server: bba-217-165-89-165.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
+83.110.107.240,4,72,DNS Server: bba-83-110-107-240.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
+83.110.81.2,4,-4242454401,DNS Server: bba-83-110-81-2.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
+83.110.90.89,4,77,DNS Server: bba-83-110-90-89.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
+86.98.53.56,4,24515,DNS Server: bba-86-98-53-56.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
+86.98.64.193,4,83,DNS Server: bba-86-98-64-193.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
+86.98.67.128,4,8,DNS Server: bba-86-98-67-128.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
+86.98.72.226,4,-14400009,DNS Server: bba-86-98-72-226.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
+86.98.74.199,4,20,DNS Server: bba597861.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
+85.112.66.89,4,-2492516220,DNS Server: broad-85-112-66-89.terra.net.lb,LB,Lebanon,Asia,Western Asia
+85.112.69.11,4,9558,DNS Server: broad-85-112-69-11.terra.net.lb,LB,Lebanon,Asia,Western Asia
+85.112.69.15,4,80204,DNS Server: broad-85-112-69-15.terra.net.lb,LB,Lebanon,Asia,Western Asia
+87.228.186.61,4,-15641,DNS Server: buscust11-61.static.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
+93.109.244.74,4,-2148103241,DNS Server: buscust19-74.static.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
+93.109.252.238,4,83053,DNS Server: buscust28-238.static.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
+87.228.232.7,4,62648,DNS Server: buscust5-07.static.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
+93.109.243.17,4,559,DNS Server: buscust74-17.static.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
+87.228.230.243,4,169001,DNS Server: buscust75-243.static.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
+2.59.119.25,4,28,DNS Server: buycryptoservices.com,TR,Turkey,Asia,Western Asia
+81.218.222.1,4,24,DNS Server: bzq-218-222-1.red.bezeqint.net,IL,Israel,Asia,Western Asia
+81.218.223.112,4,55,DNS Server: bzq-218-223-112.red.bezeqint.net,IL,Israel,Asia,Western Asia
+81.218.223.12,4,55,DNS Server: bzq-218-223-12.red.bezeqint.net,IL,Israel,Asia,Western Asia
+81.218.223.76,4,20,DNS Server: bzq-218-223-76.red.bezeqint.net,IL,Israel,Asia,Western Asia
+81.218.223.79,4,18,DNS Server: bzq-218-223-79.red.bezeqint.net,IL,Israel,Asia,Western Asia
+82.80.207.110,4,65,DNS Server: bzq-82-80-207-110.red.bezeqint.net,IL,Israel,Asia,Western Asia
+82.80.207.94,4,6,DNS Server: bzq-82-80-207-94.red.bezeqint.net,IL,Israel,Asia,Western Asia
+82.80.219.220,4,22,DNS Server: bzq-82-80-219-220.red.bezeqint.net,IL,Israel,Asia,Western Asia
+93.187.167.53,4,80,DNS Server: cmg-gw.asnet.am,AM,Armenia,Asia,Western Asia
+212.98.146.97,4,-2661678362,DNS Server: corp-212-98-146-97.terra.net.lb,LB,Lebanon,Asia,Western Asia
+212.98.156.53,4,20,DNS Server: corp-212-98-156-53.terra.net.lb,LB,Lebanon,Asia,Western Asia
+212.98.156.60,4,58,DNS Server: corp-212-98-156-60.terra.net.lb,LB,Lebanon,Asia,Western Asia
+81.89.215.193,4,11,DNS Server: customer215-193.crossnet.am,AM,Armenia,Asia,Western Asia
+93.184.144.5,4,64634,DNS Server: destek.sistemhost.com,TR,Turkey,Asia,Western Asia
+45.159.74.1,4,16,DNS Server: dns1.virusnet.am,AM,Armenia,Asia,Western Asia
+89.208.130.181,4,90,DNS Server: dynamic-181.130.208.89.itc.net.il,IL,Israel,Asia,Western Asia
+89.208.6.66,4,-9,DNS Server: dynamic-66.6.208.89.itc.net.il,IL,Israel,Asia,Western Asia
+89.208.5.78,4,-1021576,DNS Server: dynamic-78.5.208.89.itc.net.il,IL,Israel,Asia,Western Asia
+5.21.5.130,4,-555721585,DNS Server: dynamic.isp.ooredoo.om,OM,Oman,Asia,Western Asia
+79.134.152.192,4,-10799138,DNS Server: gw192-152.jcsfiberlink.net,JO,Jordan,Asia,Western Asia
+81.16.8.103,4,22208,DNS Server: host-103.8.16.81.ucom.am,AM,Armenia,Asia,Western Asia
+37.157.215.109,4,-15,DNS Server: host-109.215.157.37.ucom.am,AM,Armenia,Asia,Western Asia
+37.252.72.109,4,819,DNS Server: host-109.72.252.37.ucom.am,AM,Armenia,Asia,Western Asia
+37.252.78.115,4,2908,DNS Server: host-115.78.252.37.ucom.am,AM,Armenia,Asia,Western Asia
+81.16.1.131,4,11964,DNS Server: host-131.1.16.81.ucom.am,AM,Armenia,Asia,Western Asia
+5.77.240.131,4,1251,DNS Server: host-131.240.77.5.ucom.am,AM,Armenia,Asia,Western Asia
+149.255.154.122,4,367565,DNS Server: host-149.255.154.122.katv1.net,AZ,Azerbaijan,Asia,Western Asia
+81.16.10.162,4,7501,DNS Server: host-162.10.16.81.ucom.am,AM,Armenia,Asia,Western Asia
+81.16.9.173,4,-339,DNS Server: host-173.9.16.81.ucom.am,AM,Armenia,Asia,Western Asia
+37.157.212.188,4,1339,DNS Server: host-188.212.157.37.ucom.am,AM,Armenia,Asia,Western Asia
+91.196.37.196,4,-14367154,DNS Server: host-196-37-196-91.hnet.am,AM,Armenia,Asia,Western Asia
+109.75.41.201,4,98254,DNS Server: host-201.41.75.109.ucom.am,AM,Armenia,Asia,Western Asia
+212.57.11.185,4,4,DNS Server: host-212-57-11-185.reverse.superonline.net,TR,Turkey,Asia,Western Asia
+212.57.11.190,4,3,DNS Server: host-212-57-11-190.reverse.superonline.net,TR,Turkey,Asia,Western Asia
+212.72.130.20,4,4,DNS Server: host-212-72-130-20.customer.magticom.ge,GE,Georgia,Asia,Western Asia
+212.72.130.21,4,6,DNS Server: host-212-72-130-21.customer.magticom.ge,GE,Georgia,Asia,Western Asia
+213.131.40.230,4,127,DNS Server: host-213-131-40-230-customer.wanex.net,GE,Georgia,Asia,Western Asia
+213.153.223.21,4,23,DNS Server: host-213-153-223-21.reverse.superonline.net,TR,Turkey,Asia,Western Asia
+213.153.224.28,4,6,DNS Server: host-213-153-224-28.reverse.superonline.net,TR,Turkey,Asia,Western Asia
+213.153.224.29,4,3,DNS Server: host-213-153-224-29.reverse.superonline.net,TR,Turkey,Asia,Western Asia
+213.74.195.52,4,55927,DNS Server: host-213-74-195-52.superonline.net,TR,Turkey,Asia,Western Asia
+37.157.218.32,4,-11,DNS Server: host-32.218.157.37.ucom.am,AM,Armenia,Asia,Western Asia
+109.75.40.32,4,-269,DNS Server: host-32.40.75.109.ucom.am,AM,Armenia,Asia,Western Asia
+45.159.75.122,4,0,DNS Server: host-45.159.75.122.virusnet.am,AM,Armenia,Asia,Western Asia
+45.159.75.170,4,-10615,DNS Server: host-45.159.75.170.virusnet.am,AM,Armenia,Asia,Western Asia
+81.16.9.47,4,13665,DNS Server: host-47.9.16.81.ucom.am,AM,Armenia,Asia,Western Asia
+212.34.232.70,4,445,DNS Server: host-70.232.34.212.ucom.am,AM,Armenia,Asia,Western Asia
+37.252.74.76,4,89283,DNS Server: host-76.74.252.37.ucom.am,AM,Armenia,Asia,Western Asia
+80.241.248.162,4,-16884561,DNS Server: host-80-241-248-162.customer.magticom.ge,GE,Georgia,Asia,Western Asia
+82.222.60.46,4,339,DNS Server: host-82-222-60-46.reverse.superonline.net,TR,Turkey,Asia,Western Asia
+91.103.29.245,4,-39618281,DNS Server: host-91-103-29-245.customers.mts.am,AM,Armenia,Asia,Western Asia
+91.93.153.68,4,32,DNS Server: host-91-93-153-68.reverse.superonline.net,TR,Turkey,Asia,Western Asia
+91.93.153.73,4,99,DNS Server: host-91-93-153-73.reverse.superonline.net,TR,Turkey,Asia,Western Asia
+91.93.153.74,4,29317,DNS Server: host-91-93-153-74.reverse.superonline.net,TR,Turkey,Asia,Western Asia
+92.241.69.226,4,-1,DNS Server: host-92-241-69-226-customer.wanex.net,GE,Georgia,Asia,Western Asia
+92.241.72.162,4,497529,DNS Server: host-92-241-72-162-customer.wanex.net,GE,Georgia,Asia,Western Asia
+92.241.76.98,4,4201,DNS Server: host-92-241-76-98-customer.wanex.net,GE,Georgia,Asia,Western Asia
+92.241.86.42,4,-691,DNS Server: host-92-241-86-42-customer.wanex.net,GE,Georgia,Asia,Western Asia
+92.241.87.74,4,2694,DNS Server: host-92-241-87-74-customer.wanex.net,GE,Georgia,Asia,Western Asia
+92.241.92.218,4,5,DNS Server: host-92-241-92-218-customer.wanex.net,GE,Georgia,Asia,Western Asia
+95.104.115.98,4,140,DNS Server: host-95-104-115-98.customer.magticom.ge,GE,Georgia,Asia,Western Asia
+95.104.46.202,4,181,DNS Server: host-95-104-46-202.customer.magticom.ge,GE,Georgia,Asia,Western Asia
+95.140.203.92,4,30192262,DNS Server: host-95-140-203-92.customers.mts.am,AM,Armenia,Asia,Western Asia
+84.228.79.161,4,3204,DNS Server: IGLD-84-228-79-161.inter.net.il,IL,Israel,Asia,Western Asia
+130.193.122.173,4,-4737,DNS Server: ip-130-193-122-173.gnc.net,AM,Armenia,Asia,Western Asia
+37.186.115.160,4,-14394856,DNS Server: ip-37-186-115-160.gnc.net,AM,Armenia,Asia,Western Asia
+46.19.100.26,4,151,DNS Server: ip-46-19-100-26.gnc.net,AM,Armenia,Asia,Western Asia
+5.63.162.225,4,83,DNS Server: ip-5-63-162-225.gnc.net,AM,Armenia,Asia,Western Asia
+188.247.93.122,4,40091,DNS Server: ip188-247-93-122.zaindata.jo,JO,Jordan,Asia,Western Asia
+95.174.97.128,4,15970,DNS Server: ll-97-128.tagan.ru,AM,Armenia,Asia,Western Asia
+85.112.69.150,4,402,DNS Server: mail0.baroudilegal.com,LB,Lebanon,Asia,Western Asia
+199.203.131.145,4,131031,DNS Server: mailgw.polyram-group.com,IL,Israel,Asia,Western Asia
+81.4.149.154,4,-6959,DNS Server: nb29-154.static.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
+81.4.149.186,4,-380,DNS Server: nb29-186.static.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
+93.109.234.70,4,179517,DNS Server: nb41-70.static.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
+93.109.228.14,4,74302,DNS Server: nb42-14.static.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
+80.86.231.136,4,88,DNS Server: netsys.am,AM,Armenia,Asia,Western Asia
+31.210.69.163,4,86,DNS Server: news.superkuladebulten.com,TR,Turkey,Asia,Western Asia
+80.179.160.8,4,91,DNS Server: ns-cel61.012.net.il,IL,Israel,Asia,Western Asia
+94.20.20.20,4,13,DNS Server: ns1.az-ix.net,AZ,Azerbaijan,Asia,Western Asia
+80.81.147.82,4,6591,DNS Server: ppp-03-82.cyberia.net.lb,LB,Lebanon,Asia,Western Asia
+77.235.145.178,4,351,DNS Server: ptr.145-178.mobi.net.lb,LB,Lebanon,Asia,Western Asia
+77.235.145.30,4,17204,DNS Server: ptr.145-30.mobi.net.lb,LB,Lebanon,Asia,Western Asia
+85.112.70.118,4,137176,DNS Server: rev-85-112-70-118.terra.net.lb,LB,Lebanon,Asia,Western Asia
+78.111.106.90,4,609177,DNS Server: static-78-111-106-90.fibersunucu.com.tr,TR,Turkey,Asia,Western Asia
+78.111.106.91,4,609180,DNS Server: static-78-111-106-91.fibersunucu.com.tr,TR,Turkey,Asia,Western Asia
+89.148.55.251,4,328,DNS Server: static.ip.89.148.55.251.batelco.com.bh,BH,Bahrain,Asia,Western Asia
+89.252.137.67,4,734,doganlogistic.com,TR,Turkey,Asia,Western Asia
+159.253.41.154,4,925,dogruhaber.com.tr,TR,Turkey,Asia,Western Asia
+94.140.14.140,4,756,DoH server: dns-unfiltered.adguard.com,CY,Cyprus,Asia,Western Asia
+212.98.224.51,4,-112656,dorukmak.com.tr,TR,Turkey,Asia,Western Asia
+185.7.176.20,4,6,doviz.com,TR,Turkey,Asia,Western Asia
+149.100.151.86,4,4,downloadroot.com,CY,Cyprus,Asia,Western Asia
+185.254.237.119,4,3,drkadirkilimcioglu.com,TR,Turkey,Asia,Western Asia
+66.22.104.170,4,8,dubaigolf.com,AE,United Arab Emirates,Asia,Western Asia
+77.232.100.183,4,77,dulani.gov.sa,SA,Saudi Arabia,Asia,Western Asia
+217.116.199.58,4,-758,dunyaenerji.org.tr,TR,Turkey,Asia,Western Asia
+176.53.96.114,4,3,dunyaflor.com,TR,Turkey,Asia,Western Asia
+182.54.236.24,4,1656,e-mago.co.il,IL,Israel,Asia,Western Asia
+213.142.130.70,4,14272,ecepromosyon.com,TR,Turkey,Asia,Western Asia
+88.218.116.151,4,-1432,econcretetech.com,IL,Israel,Asia,Western Asia
+77.92.140.232,4,-367,econjournals.com,TR,Turkey,Asia,Western Asia
+77.223.141.30,4,15,efesveteriner.com.tr,TR,Turkey,Asia,Western Asia
+93.187.201.199,4,207,egegelisimailedanisma.com,TR,Turkey,Asia,Western Asia
+85.95.237.110,4,3460,egemanservis.com,TR,Turkey,Asia,Western Asia
+154.53.165.46,4,83122,ekonomiyontem.com.tr,TR,Turkey,Asia,Western Asia
+185.179.26.131,4,28,elektrikforum.com,TR,Turkey,Asia,Western Asia
+101.44.38.126,4,75,eleman.net,TR,Turkey,Asia,Western Asia
+192.116.71.77,4,61,elijah-interfaith.org,IL,Israel,Asia,Western Asia
+5.2.84.81,4,-1822,ellinciyilmete.com,TR,Turkey,Asia,Western Asia
+193.140.173.247,4,1,emu.edu.tr,CY,Cyprus,Asia,Western Asia
+31.192.214.122,4,1088,endustrirulman.com,TR,Turkey,Asia,Western Asia
+83.150.214.2,4,1,engelliler.biz,TR,Turkey,Asia,Western Asia
+104.247.165.163,4,1674,englishstudyhere.com,TR,Turkey,Asia,Western Asia
+195.225.46.43,4,5,eran.org.il,IL,Israel,Asia,Western Asia
+85.95.234.104,4,440,eratinyhouse.com,TR,Turkey,Asia,Western Asia
+185.198.197.125,4,7,erimti.com.tr,TR,Turkey,Asia,Western Asia
+93.186.120.166,4,17,ertatekstil.com.tr,TR,Turkey,Asia,Western Asia
+95.183.213.21,4,5,erzurum.edu.tr,TR,Turkey,Asia,Western Asia
+152.89.39.62,4,6,esiyok.av.tr,TR,Turkey,Asia,Western Asia
+93.180.133.17,4,7,eskidiyse.com,TR,Turkey,Asia,Western Asia
+212.175.156.125,4,150,eskisehir.bel.tr,TR,Turkey,Asia,Western Asia
+185.248.59.80,4,9,eskisehirdurum.com,TR,Turkey,Asia,Western Asia
+5.250.243.69,4,764,esporseti.com,TR,Turkey,Asia,Western Asia
+37.247.115.29,4,20151,estudamdergi.org,TR,Turkey,Asia,Western Asia
+91.151.83.169,4,21,eterzi.com,TR,Turkey,Asia,Western Asia
+193.140.108.140,4,25,etu.edu.tr,TR,Turkey,Asia,Western Asia
+212.108.143.183,4,4,eul.edu.tr,TR,Turkey,Asia,Western Asia
+213.238.183.63,4,7,eurasian-research.org,TR,Turkey,Asia,Western Asia
+185.160.31.25,4,14,evimtasnakliyat.com.tr,TR,Turkey,Asia,Western Asia
+149.100.151.49,4,41,exeideas.com,CY,Cyprus,Asia,Western Asia
+83.150.212.196,4,1066,expatguideturkey.com,TR,Turkey,Asia,Western Asia
+212.150.158.23,4,23,f2h.io,IL,Israel,Asia,Western Asia
+89.252.183.35,4,7,fakrocatimerdivenleri.com,TR,Turkey,Asia,Western Asia
+80.253.246.193,4,18,fatihmedya.com,TR,Turkey,Asia,Western Asia
+213.128.70.117,4,29,fbu.edu.tr,TR,Turkey,Asia,Western Asia
+188.93.88.93,4,13,fcsamgurali.ge,GE,Georgia,Asia,Western Asia
+217.195.207.25,4,1484,fensorulari.com,TR,Turkey,Asia,Western Asia
+212.154.96.250,4,95,fordyedekleri.com,TR,Turkey,Asia,Western Asia
+82.80.210.157,4,2,forms-wizard.biz,IL,Israel,Asia,Western Asia
+91.239.207.139,4,378609,formulanews.ge,GE,Georgia,Asia,Western Asia
+178.210.175.22,4,-6306,fortiks.com,TR,Turkey,Asia,Western Asia
+188.93.95.26,4,36,forum.ge,GE,Georgia,Asia,Western Asia
+185.126.219.150,4,2,forumtek.net,TR,Turkey,Asia,Western Asia
+37.26.170.60,4,707338,freenet.am,AM,Armenia,Asia,Western Asia
+85.117.41.12,4,47,frontnews.ge,GE,Georgia,Asia,Western Asia
+178.157.8.164,4,-464,fsm.edu.tr,TR,Turkey,Asia,Western Asia
+195.142.105.13,4,34,galatasaray.org,TR,Turkey,Asia,Western Asia
+103.224.23.188,4,13,gaqm.org,AE,United Arab Emirates,Asia,Western Asia
+185.92.1.236,4,3,gazete1453.com.tr,TR,Turkey,Asia,Western Asia
+185.171.88.103,4,6,gaziantepotoservis.com,TR,Turkey,Asia,Western Asia
+178.210.178.5,4,1064607,gedayapi.com,TR,Turkey,Asia,Western Asia
+185.241.63.106,4,32,gelirortaklari.com,SA,Saudi Arabia,Asia,Western Asia
+5.2.85.176,4,65,gencdergi.com,TR,Turkey,Asia,Western Asia
+213.238.183.199,4,5,genclerbirligi.org.tr,TR,Turkey,Asia,Western Asia
+185.201.148.70,4,-18,geneva-accord.org,IL,Israel,Asia,Western Asia
+93.187.162.109,4,3,genocide-museum.am,AM,Armenia,Asia,Western Asia
+185.163.200.21,4,-114029,georgiantheatre.ge,GE,Georgia,Asia,Western Asia
+91.239.207.119,4,204712,geotimes.ge,GE,Georgia,Asia,Western Asia
+89.252.174.4,4,31942,gerosland.com,TR,Turkey,Asia,Western Asia
+89.252.186.212,4,511,gevezeyeri.com,TR,Turkey,Asia,Western Asia
+91.239.207.180,4,10791200,geworld.ge,GE,Georgia,Asia,Western Asia
+77.223.142.4,4,733,geze-gen.com,TR,Turkey,Asia,Western Asia
+78.142.211.241,4,119,gezilinki.com,TR,Turkey,Asia,Western Asia
+2.51.251.176,4,15,globalconnections.ae,AE,United Arab Emirates,Asia,Western Asia
+195.54.178.116,4,177648,gobatumi.com,GE,Georgia,Asia,Western Asia
+109.61.18.22,4,-2,gofuture.games,AE,United Arab Emirates,Asia,Western Asia
+194.146.239.57,4,119645,goldenchance.ir,AE,United Arab Emirates,Asia,Western Asia
+31.22.115.180,4,1133,goulandris.gr,CY,Cyprus,Asia,Western Asia
+80.93.216.11,4,903,grafikerler.net,TR,Turkey,Asia,Western Asia
+5.250.241.218,4,15,grafiport.com,TR,Turkey,Asia,Western Asia
+194.31.64.17,4,-293,gruperel.com,TR,Turkey,Asia,Western Asia
+109.205.46.3,4,81389,gtu.ge,GE,Georgia,Asia,Western Asia
+185.111.245.67,4,1231834,guestranet.com,TR,Turkey,Asia,Western Asia
+93.115.79.212,4,7,gunlukburc.net,TR,Turkey,Asia,Western Asia
+78.135.107.41,4,3948,ha-xueli.com,TR,Turkey,Asia,Western Asia
+2.59.117.6,4,6,habata.com.tr,TR,Turkey,Asia,Western Asia
+89.252.159.131,4,1838,haber-yazilimi.org,TR,Turkey,Asia,Western Asia
+31.210.55.214,4,1046,haber1.com,TR,Turkey,Asia,Western Asia
+185.33.128.141,4,4,haber365.com.tr,TR,Turkey,Asia,Western Asia
+185.195.231.66,4,128,haber7.net,TR,Turkey,Asia,Western Asia
+45.151.251.6,4,1104,haberimolsa.com.tr,TR,Turkey,Asia,Western Asia
+86.96.202.167,4,-34,haggargroup.ae,AE,United Arab Emirates,Asia,Western Asia
+195.28.180.198,4,3,haifaff.co.il,IL,Israel,Asia,Western Asia
+185.198.74.19,4,934,hammaddeleransiklopedisi.com,TR,Turkey,Asia,Western Asia
+149.100.151.25,4,5,happilyblended.com,CY,Cyprus,Asia,Western Asia
+167.86.44.32,4,8,harel-group.co.il,IL,Israel,Asia,Western Asia
+31.14.52.157,4,1614,haskarmedikal.com,TR,Turkey,Asia,Western Asia
+31.14.52.172,4,1614,hastayataklari.co,TR,Turkey,Asia,Western Asia
+213.159.1.61,4,-229,hatsan.com.tr,TR,Turkey,Asia,Western Asia
+188.93.90.240,4,4,hcore.ge,GE,Georgia,Asia,Western Asia
+89.252.161.35,4,5,hdemachine.com,TR,Turkey,Asia,Western Asia
+149.100.151.45,4,6,healthysimpleyum.com,CY,Cyprus,Asia,Western Asia
+5.250.254.181,4,31,hebasanmakine.com,TR,Turkey,Asia,Western Asia
+80.179.142.74,4,-1,hebron.org.il,IL,Israel,Asia,Western Asia
+31.210.51.96,4,6,hemenpaylas.com,TR,Turkey,Asia,Western Asia
+45.59.70.115,4,9,hepbidolu.com,TR,Turkey,Asia,Western Asia
+85.111.45.200,4,15,hepsiburada.com,TR,Turkey,Asia,Western Asia
+72.10.160.242,4,4,herbmuseum.ca,TR,Turkey,Asia,Western Asia
+185.106.208.89,4,7389,hermetics.org,TR,Turkey,Asia,Western Asia
+185.108.148.112,4,7,herzog.ac.il,IL,Israel,Asia,Western Asia
+66.22.84.27,4,22,hidabroot.org,IL,Israel,Asia,Western Asia
+94.102.13.165,4,13,hidayetcelik.com.tr,TR,Turkey,Asia,Western Asia
+185.8.33.207,4,185875,hidromax.com.tr,TR,Turkey,Asia,Western Asia
+95.173.179.170,4,1262,hihoy.com,TR,Turkey,Asia,Western Asia
+5.100.156.58,4,46,historicbaseball.com,TR,Turkey,Asia,Western Asia
+5.100.156.218,4,51,historicbaseball.com,TR,Turkey,Asia,Western Asia
+80.179.226.37,4,608,hma.org.il,IL,Israel,Asia,Western Asia
+91.151.84.154,4,-58,hsckablo.com,TR,Turkey,Asia,Western Asia
+93.187.202.7,4,5,hukuki.net,TR,Turkey,Asia,Western Asia
+45.139.222.22,4,6,humazeytinyag.com.tr,TR,Turkey,Asia,Western Asia
+185.126.218.24,4,1429,hyundaiclubtr.com,TR,Turkey,Asia,Western Asia
+94.20.21.214,4,2,ibar.az,AZ,Azerbaijan,Asia,Western Asia
+149.100.151.197,4,11,icsve.org,CY,Cyprus,Asia,Western Asia
+45.84.188.62,4,9,ictr.org,TR,Turkey,Asia,Western Asia
+185.56.73.24,4,2,idanraichelproject.com,IL,Israel,Asia,Western Asia
+88.218.116.134,4,909,idsf.org.il,IL,Israel,Asia,Western Asia
+92.42.38.132,4,3173,iep.com.tr,TR,Turkey,Asia,Western Asia
+38.134.113.246,4,62,ifunny.co,CY,Cyprus,Asia,Western Asia
+217.195.207.207,4,44935,ihlamurarcelik.com,TR,Turkey,Asia,Western Asia
+141.98.205.235,4,7,ihu.edu.tr,TR,Turkey,Asia,Western Asia
+188.93.95.68,4,-10,iknow.ge,GE,Georgia,Asia,Western Asia
+34.18.81.201,4,3,insightss.co,QA,Qatar,Asia,Western Asia
+195.28.181.44,4,44,insuranceusaauto.com,IL,Israel,Asia,Western Asia
+80.241.247.46,4,2,intel-com.ge,GE,Georgia,Asia,Western Asia
+185.229.109.222,4,0,investingeorgia.org,GE,Georgia,Asia,Western Asia
+185.241.138.100,4,-65,ipekci.com.tr,TR,Turkey,Asia,Western Asia
+89.252.137.25,4,879,ipektesisat.com,TR,Turkey,Asia,Western Asia
+46.20.1.165,4,44,ipekyoluhaber.net,TR,Turkey,Asia,Western Asia
+88.218.117.196,4,-2847,ipo.co.il,IL,Israel,Asia,Western Asia
+89.252.131.198,4,14,isam.org.tr,TR,Turkey,Asia,Western Asia
+88.218.116.190,4,-172632,isciweb.org,IL,Israel,Asia,Western Asia
+5.250.252.238,4,4,isinsu.com.tr,TR,Turkey,Asia,Western Asia
+217.195.206.9,4,98,isitan.com,TR,Turkey,Asia,Western Asia
+159.253.36.116,4,599790,islamansiklopedisi.info,TR,Turkey,Asia,Western Asia
+95.173.181.44,4,316730,islamveihsan.com,TR,Turkey,Asia,Western Asia
+91.191.173.162,4,708628,isola.design,TR,Turkey,Asia,Western Asia
+62.219.50.49,4,1,isracast.com,IL,Israel,Asia,Western Asia
+199.203.52.202,4,10050340,isratrance.com,IL,Israel,Asia,Western Asia
+90.158.121.93,4,451,issanat.com.tr,TR,Turkey,Asia,Western Asia
+89.252.137.17,4,7,istabip.org.tr,TR,Turkey,Asia,Western Asia
+85.95.237.217,4,2931,istanbulexpresskurye.org,TR,Turkey,Asia,Western Asia
+104.247.162.35,4,4062,istanbulotomatiktente.net,TR,Turkey,Asia,Western Asia
+92.42.38.117,4,41,izfas.com.tr,TR,Turkey,Asia,Western Asia
+185.99.199.250,4,43,izka.org.tr,TR,Turkey,Asia,Western Asia
+185.7.176.4,4,12,izlesene.com,TR,Turkey,Asia,Western Asia
+149.100.151.76,4,5,jaar.site,CY,Cyprus,Asia,Western Asia
+83.229.81.191,4,12,jamd.ac.il,IL,Israel,Asia,Western Asia
+213.238.183.62,4,27,jartiyercorap.com,TR,Turkey,Asia,Western Asia
+5.100.156.68,4,3,jennaburger.com,TR,Turkey,Asia,Western Asia
+5.100.156.131,4,4,jennaburger.com,TR,Turkey,Asia,Western Asia
+80.179.142.66,4,35,jerusaleminstitute.org.il,IL,Israel,Asia,Western Asia
+185.56.89.187,4,1,job4u.ae,AE,United Arab Emirates,Asia,Western Asia
+88.218.117.142,4,-1045,jordanretro.org,IL,Israel,Asia,Western Asia
+195.225.46.181,4,3,jppi.org.il,IL,Israel,Asia,Western Asia
+185.8.33.112,4,5,jssm.org,TR,Turkey,Asia,Western Asia
+212.150.243.220,4,1151,julievino.com,IL,Israel,Asia,Western Asia
+66.22.104.59,4,9,jumeirahgolfestates.com,AE,United Arab Emirates,Asia,Western Asia
+31.210.50.164,4,7426,justanotherpanel.com,TR,Turkey,Asia,Western Asia
+93.115.79.240,4,-10947,kaanguler.com.tr,TR,Turkey,Asia,Western Asia
+188.132.200.45,4,8,kadincaforum.net,TR,Turkey,Asia,Western Asia
+91.239.207.211,4,19,kaizen.ge,GE,Georgia,Asia,Western Asia
+78.135.106.187,4,18,kaleraf.com.tr,TR,Turkey,Asia,Western Asia
+94.102.0.248,4,2040,kameraarkasi.org,TR,Turkey,Asia,Western Asia
+185.195.230.30,4,2,kanal7.com,TR,Turkey,Asia,Western Asia
+37.247.119.232,4,10,kangurubebe.com,TR,Turkey,Asia,Western Asia
+185.87.120.114,4,901,karakoyelektronik.com,TR,Turkey,Asia,Western Asia
+159.253.43.43,4,1170,karalahana.com,TR,Turkey,Asia,Western Asia
+185.136.206.60,4,-9974828,karelservis.com.tr,TR,Turkey,Asia,Western Asia
+193.33.164.115,4,1511,karmod.com,TR,Turkey,Asia,Western Asia
+185.162.18.35,4,35,kathimerini.com.cy,CY,Cyprus,Asia,Western Asia
+78.142.208.110,4,997,kayraprefabrik.com.tr,TR,Turkey,Asia,Western Asia
+85.95.237.66,4,-78,kayserispor.org,TR,Turkey,Asia,Western Asia
+185.56.72.170,4,20,kehilot.co.il,IL,Israel,Asia,Western Asia
+78.111.111.51,4,155185,kentelektrik27.com,TR,Turkey,Asia,Western Asia
+213.159.7.252,4,3,keskinrentacar.com.tr,TR,Turkey,Asia,Western Asia
+154.53.165.47,4,83332,kevser.com.tr,TR,Turkey,Asia,Western Asia
+5.180.185.253,4,3,kiaclubtr.com,TR,Turkey,Asia,Western Asia
+80.253.255.86,4,139,kilicalipasahamami.com,TR,Turkey,Asia,Western Asia
+88.218.117.88,4,114,kinneret.ac.il,IL,Israel,Asia,Western Asia
+217.116.199.238,4,176,kitabi.gen.tr,TR,Turkey,Asia,Western Asia
+93.177.100.132,4,3,kitapsec.com,TR,Turkey,Asia,Western Asia
+66.22.84.16,4,8,kkl-jnf.org,IL,Israel,Asia,Western Asia
+66.22.84.22,4,17,kkl.org.il,IL,Israel,Asia,Western Asia
+45.141.151.84,4,14,kktcgecealemi.com,TR,Turkey,Asia,Western Asia
+185.85.191.185,4,1058,klsklaset.com.tr,TR,Turkey,Asia,Western Asia
+195.244.63.20,4,-260342,klup.com.tr,TR,Turkey,Asia,Western Asia
+5.2.85.126,4,20,konaksanotocekici.com,TR,Turkey,Asia,Western Asia
+193.162.43.101,4,2823,koncnc.com,TR,Turkey,Asia,Western Asia
+178.157.9.11,4,52,konusarakogren.com,TR,Turkey,Asia,Western Asia
+95.173.190.140,4,1618,kozabayi.com,TR,Turkey,Asia,Western Asia
+5.2.84.66,4,63,krallarintavugu.com,TR,Turkey,Asia,Western Asia
+185.216.40.107,4,-29965366,ksau-hs.edu.sa,SA,Saudi Arabia,Asia,Western Asia
+213.238.179.223,4,30863,kuflu.com,TR,Turkey,Asia,Western Asia
+82.80.25.204,4,14,kulam.org,IL,Israel,Asia,Western Asia
+78.142.209.94,4,304,kursara.com,TR,Turkey,Asia,Western Asia
+195.175.54.82,4,-79,kutahya.bel.tr,TR,Turkey,Asia,Western Asia
+178.210.174.16,4,27484,kuzeycorapbaski.com,TR,Turkey,Asia,Western Asia
+188.93.95.105,4,2,kvira.ge,GE,Georgia,Asia,Western Asia
+78.142.208.58,4,447,kwturkiye.com,TR,Turkey,Asia,Western Asia
+2.56.153.33,4,952,lapintasergeblanco.com,TR,Turkey,Asia,Western Asia
+69.16.232.87,4,5,laws.com,IL,Israel,Asia,Western Asia
+50.28.1.223,4,24,leatherindia.org,CY,Cyprus,Asia,Western Asia
+93.113.63.158,4,814879,lefzen.com,TR,Turkey,Asia,Western Asia
+94.20.59.201,4,64,lent.az,AZ,Azerbaijan,Asia,Western Asia
+31.43.191.18,4,92,letsupload.co,AZ,Azerbaijan,Asia,Western Asia
+185.85.205.31,4,10,lezzetci.com,TR,Turkey,Asia,Western Asia
+85.95.239.243,4,5,lfaturkiye.com,TR,Turkey,Asia,Western Asia
+176.88.66.88,4,1,limak.com.tr,TR,Turkey,Asia,Western Asia
+185.16.238.221,4,11,linkgroup.com.tr,TR,Turkey,Asia,Western Asia
+45.84.189.83,4,4,livuajans.net,TR,Turkey,Asia,Western Asia
+15.184.239.121,4,14,lovindubai.com,BH,Bahrain,Asia,Western Asia
+185.111.247.38,4,1676,macityhotel.com,TR,Turkey,Asia,Western Asia
+195.244.61.20,4,5,mackolik.com,TR,Turkey,Asia,Western Asia
+149.100.151.192,4,1,madesports.net,CY,Cyprus,Asia,Western Asia
+46.31.77.50,4,61,magazincell.com.tr,TR,Turkey,Asia,Western Asia
+81.218.117.93,4,6,magmamagnets.com,IL,Israel,Asia,Western Asia
+94.138.218.202,4,55,magnetdunyasi.com,TR,Turkey,Asia,Western Asia
+5.2.85.131,4,9,maildeposu.com,TR,Turkey,Asia,Western Asia
+64.71.153.121,4,6,mailing-tube.com,IL,Israel,Asia,Western Asia
+66.22.84.55,4,8,mako.co.il,IL,Israel,Asia,Western Asia
+78.135.106.49,4,21,malatyahaber.com,TR,Turkey,Asia,Western Asia
+89.252.183.211,4,3304,manevihayat.com,TR,Turkey,Asia,Western Asia
+104.247.162.20,4,7817,mardo.com.tr,TR,Turkey,Asia,Western Asia
+185.230.15.2,4,92,marketing-website.com,TR,Turkey,Asia,Western Asia
+195.54.178.41,4,-66408,marneuli.net,GE,Georgia,Asia,Western Asia
+89.252.183.67,4,800,masallaroku.com,TR,Turkey,Asia,Western Asia
+8.213.25.125,4,12,masar3500.com,SA,Saudi Arabia,Asia,Western Asia
+91.239.207.212,4,72,matemotors.com,GE,Georgia,Asia,Western Asia
+185.241.4.171,4,1194,matomy.com,IL,Israel,Asia,Western Asia
+78.142.209.222,4,632,mavvo.com.tr,TR,Turkey,Asia,Western Asia
+66.22.84.239,4,58,max.co.il,IL,Israel,Asia,Western Asia
+185.149.103.192,4,835937,medikritik.com,TR,Turkey,Asia,Western Asia
+185.248.59.41,4,406,medyaege.com.tr,TR,Turkey,Asia,Western Asia
+95.173.181.90,4,17,mehmetakif.edu.tr,TR,Turkey,Asia,Western Asia
+37.148.211.123,4,5,mehmetefendi.com,TR,Turkey,Asia,Western Asia
+89.252.184.23,4,11,mehmetnuriarslan.com,TR,Turkey,Asia,Western Asia
+167.86.44.73,4,7,menoramivt.co.il,IL,Israel,Asia,Western Asia
+81.21.164.207,4,15,merithotels.com,TR,Turkey,Asia,Western Asia
+193.255.128.7,4,412,mersin.edu.tr,TR,Turkey,Asia,Western Asia
+5.250.251.6,4,14,mersinnakliyecilersitesi.com,TR,Turkey,Asia,Western Asia
+213.157.205.208,4,779,messenger.com.ge,GE,Georgia,Asia,Western Asia
+5.2.84.101,4,5,metinhepyukselen.com,TR,Turkey,Asia,Western Asia
+185.37.149.106,4,3,mhmhmuseum.org,IL,Israel,Asia,Western Asia
+3.29.154.236,4,2,mideastvibes.com,AE,United Arab Emirates,Asia,Western Asia
+188.132.158.132,4,-11714,migrationletters.com,TR,Turkey,Asia,Western Asia
+2.19.193.67,4,21,millipiyangoonline.com,TR,Turkey,Asia,Western Asia
+195.225.46.99,4,37,milog.co.il,IL,Israel,Asia,Western Asia
+85.237.211.162,4,14,mimedia.in,AE,United Arab Emirates,Asia,Western Asia
+5.100.156.159,4,4,minedit.com,TR,Turkey,Asia,Western Asia
+5.100.156.37,4,8,minedit.com,TR,Turkey,Asia,Western Asia
+185.106.209.3,4,2204,mircforumlari.net,TR,Turkey,Asia,Western Asia
+213.159.30.159,4,8,misyonkredi.com,TR,Turkey,Asia,Western Asia
+88.218.116.155,4,-644,mitvim.org.il,IL,Israel,Asia,Western Asia
+185.230.209.102,4,9,mizbani.xyz,SA,Saudi Arabia,Asia,Western Asia
+167.86.44.72,4,9,mizrahi-tefahot.co.il,IL,Israel,Asia,Western Asia
+5.250.248.27,4,1,mlsaturkey.com,TR,Turkey,Asia,Western Asia
+195.225.46.15,4,42,molad.org,IL,Israel,Asia,Western Asia
+138.128.170.188,4,216,mott.pe,SA,Saudi Arabia,Asia,Western Asia
+89.252.141.23,4,262,msreklam.com.tr,TR,Turkey,Asia,Western Asia
+185.118.143.26,4,6,mtasaturkiye.com,TR,Turkey,Asia,Western Asia
+37.247.114.198,4,56376,muhasebetr.com,TR,Turkey,Asia,Western Asia
+89.252.138.3,4,1145,multeciler.org.tr,TR,Turkey,Asia,Western Asia
+188.93.95.125,4,71,museum.ge,GE,Georgia,Asia,Western Asia
+37.9.207.66,4,1518,musiad.org.tr,TR,Turkey,Asia,Western Asia
+185.37.148.221,4,984,musictalk.co.il,IL,Israel,Asia,Western Asia
+95.173.165.92,4,-1181,mustafainan.com.tr,TR,Turkey,Asia,Western Asia
+185.179.24.100,4,53,mustafaozdemir.com.tr,TR,Turkey,Asia,Western Asia
+109.176.253.41,4,1,mutfaksirlari.com,TR,Turkey,Asia,Western Asia
+139.99.190.190,4,8,myassignmentwriting.com.au,AE,United Arab Emirates,Asia,Western Asia
+45.67.203.7,4,1186,mybbkursu.com,TR,Turkey,Asia,Western Asia
+89.252.183.249,4,762,myhomelogistic.com,TR,Turkey,Asia,Western Asia
+31.22.115.162,4,4,myphone.gr,CY,Cyprus,Asia,Western Asia
+66.22.84.58,4,9,n12.co.il,IL,Israel,Asia,Western Asia
+185.56.74.98,4,17,nadlancenter.co.il,IL,Israel,Asia,Western Asia
+185.18.205.221,4,2,naftalibike.co.il,IL,Israel,Asia,Western Asia
+88.218.116.160,4,-7,nalagaat.org.il,IL,Israel,Asia,Western Asia
+31.186.11.138,4,8,namikazeforum.com,TR,Turkey,Asia,Western Asia
+176.53.12.16,4,2,namlipastirma.com.tr,TR,Turkey,Asia,Western Asia
+80.179.226.44,4,6,nana10.co.il,IL,Israel,Asia,Western Asia
+185.165.46.83,4,4,nationalturk.com,TR,Turkey,Asia,Western Asia
+50.28.1.139,4,19,nativeconnections.org,CY,Cyprus,Asia,Western Asia
+91.212.213.2,4,2988437,nbcenter.ge,GE,Georgia,Asia,Western Asia
+78.142.210.53,4,1068,nesinkoyleri.org,TR,Turkey,Asia,Western Asia
+94.20.142.173,4,3,newstube.az,AZ,Azerbaijan,Asia,Western Asia
+45.151.250.18,4,1075,nikeoutletstores.org,TR,Turkey,Asia,Western Asia
+185.145.255.98,4,-1,nituv-eng.com,IL,Israel,Asia,Western Asia
+85.95.241.238,4,81938,nkfu.com,TR,Turkey,Asia,Western Asia
+37.26.174.115,4,-1,nla.am,AM,Armenia,Asia,Western Asia
+45.158.14.18,4,3,nobetci-eczane.org,TR,Turkey,Asia,Western Asia
+45.84.189.195,4,76,noktadanismanlik.net,TR,Turkey,Asia,Western Asia
+149.100.151.32,4,3,nolvadexstart.online,CY,Cyprus,Asia,Western Asia
+159.253.44.149,4,794,novihills.com,TR,Turkey,Asia,Western Asia
+78.135.82.165,4,4,nviss.ca,TR,Turkey,Asia,Western Asia
+69.16.232.94,4,6,officemuseum.com,IL,Israel,Asia,Western Asia
+185.8.129.233,4,4,offroad.ist,TR,Turkey,Asia,Western Asia
+212.68.42.217,4,11,ogunhaber.com,TR,Turkey,Asia,Western Asia
+185.136.206.14,4,43,oguzhankaraburgu.com.tr,TR,Turkey,Asia,Western Asia
+89.252.137.41,4,26,okeanostercume.com.tr,TR,Turkey,Asia,Western Asia
+46.31.78.216,4,26,okeyankara.com,TR,Turkey,Asia,Western Asia
+31.207.86.3,4,-602,oktotech.com,TR,Turkey,Asia,Western Asia
+185.165.46.126,4,47,olamare.com,TR,Turkey,Asia,Western Asia
+185.163.200.25,4,15,oldgroup.ge,GE,Georgia,Asia,Western Asia
+94.102.8.90,4,1969,oliviabeckford.co.uk,TR,Turkey,Asia,Western Asia
+5.37.56.186,4,-51720152,omaninfo.om,OM,Oman,Asia,Western Asia
+5.37.56.184,4,-51720152,omannews.gov.om,OM,Oman,Asia,Western Asia
+45.158.12.45,4,-253858,omegletv.tv,TR,Turkey,Asia,Western Asia
+194.5.236.237,4,8,on5yirmi5.com,TR,Turkey,Asia,Western Asia
+77.92.141.173,4,647209,onal-ongelen.av.tr,TR,Turkey,Asia,Western Asia
+45.94.4.244,4,24,onaysms.org,TR,Turkey,Asia,Western Asia
+78.142.210.147,4,547,ondernakliyat.gen.tr,TR,Turkey,Asia,Western Asia
+194.5.236.131,4,13,onlinesunucu.com,TR,Turkey,Asia,Western Asia
+82.102.79.130,4,833332,Ookla Speedtest Server 610: speedtest-node.prime-tel.com,CY,Cyprus,Asia,Western Asia
+82.178.33.35,4,1170807,Ookla Speedtest Server 1717: speedtest.omantel.om,OM,Oman,Asia,Western Asia
+86.51.82.252,4,211,Ookla Speedtest Server 1734: dam.myspeed.net.sa,SA,Saudi Arabia,Asia,Western Asia
+176.28.83.17,4,280,Ookla Speedtest Server 2221: speedtest.bakcell.com,AZ,Azerbaijan,Asia,Western Asia
+94.128.4.182,4,254,Ookla Speedtest Server 2319: speedtest15.stc.com.kw,KW,Kuwait,Asia,Western Asia
+79.170.53.30,4,-1745851,Ookla Speedtest Server 3196: speedtest-jeddahnew.sa.zain.com,SA,Saudi Arabia,Asia,Western Asia
+79.170.51.55,4,398,Ookla Speedtest Server 3208: speedtest-riyadhnew.sa.zain.com,SA,Saudi Arabia,Asia,Western Asia
+93.184.146.4,4,-1566008,Ookla Speedtest Server 4106: speedtest.fixnet.com.tr,TR,Turkey,Asia,Western Asia
+134.0.216.42,4,-2725951,Ookla Speedtest Server 4570: speedtest2.omantel.om,OM,Oman,Asia,Western Asia
+207.232.36.172,4,-1007915,Ookla Speedtest Server 5283: speed.cellcom.co.il,IL,Israel,Asia,Western Asia
+176.241.82.85,4,176,Ookla Speedtest Server 5622: sp1.hayat-isp.net,IQ,Iraq,Asia,Western Asia
+78.89.136.210,4,307,Ookla Speedtest Server 5816: ookla5.ooredoo.com.kw,KW,Kuwait,Asia,Western Asia
+82.148.98.214,4,288,Ookla Speedtest Server 6193: speedtest2a.ooredoo.qa,QA,Qatar,Asia,Western Asia
+95.173.191.102,4,265926,Ookla Speedtest Server 6507: sp1.ni.net.tr,TR,Turkey,Asia,Western Asia
+185.101.16.35,4,327,Ookla Speedtest Server 7485: speedtest1.wavenet-lb.net,LB,Lebanon,Asia,Western Asia
+94.230.90.4,4,297,Ookla Speedtest Server 9034: speedtest.018.co.il,IL,Israel,Asia,Western Asia
+94.20.71.210,4,14396619,Ookla Speedtest Server 9320: speedtest.datacenter.az,AZ,Azerbaijan,Asia,Western Asia
+185.162.127.2,4,32697,Ookla Speedtest Server 11616: speedtest.il-rh.kamatera.com,IL,Israel,Asia,Western Asia
+149.255.155.210,4,299,Ookla Speedtest Server 13292: sp1.katv1.net,AZ,Azerbaijan,Asia,Western Asia
+195.189.140.12,4,351,Ookla Speedtest Server 13940: speedtest2.spd.co.il,IL,Israel,Asia,Western Asia
+188.225.230.38,4,279,Ookla Speedtest Server 13973: speedtest.coolnet.ps,IL,Israel,Asia,Western Asia
+178.160.207.186,4,328,Ookla Speedtest Server 14851: speedtest-100g.telecomarmenia.am,AM,Armenia,Asia,Western Asia
+185.40.32.226,4,264,Ookla Speedtest Server 15402: speedtest.bossnet.az,AZ,Azerbaijan,Asia,Western Asia
+185.40.32.227,4,262,Ookla Speedtest Server 15542: speedtest.gotelecom.az,AZ,Azerbaijan,Asia,Western Asia
+185.40.32.228,4,359,Ookla Speedtest Server 15559: speedtest.duu.az,AZ,Azerbaijan,Asia,Western Asia
+217.195.202.233,4,129,Ookla Speedtest Server 15600: speedtest.sunucumerkezim.com,TR,Turkey,Asia,Western Asia
+212.179.15.194,4,122,Ookla Speedtest Server 15746: speedtest.bezeqint.net,IL,Israel,Asia,Western Asia
+149.34.192.16,4,69,Ookla Speedtest Server 15847: speedosmancik.lodosnet.com,TR,Turkey,Asia,Western Asia
+87.109.44.122,4,198250,Ookla Speedtest Server 16051: dam-speedtest.saudi.net.sa,SA,Saudi Arabia,Asia,Western Asia
+38.156.75.200,4,-6873,Ookla Speedtest Server 16244: speed.teraisp.com,TR,Turkey,Asia,Western Asia
+109.107.155.5,4,-15185,Ookla Speedtest Server 16369: teste.mena-isp.net,IQ,Iraq,Asia,Western Asia
+188.72.4.230,4,205,Ookla Speedtest Server 16882: speedtest.alsardfiber.com,IQ,Iraq,Asia,Western Asia
+80.179.160.70,4,108,Ookla Speedtest Server 17022: speedtest2.partner.co.il,IL,Israel,Asia,Western Asia
+5.42.226.10,4,-14821223,Ookla Speedtest Server 17373: ftthspeed-kho.itc.sa,SA,Saudi Arabia,Asia,Western Asia
+185.32.44.70,4,137700,Ookla Speedtest Server 17428: speedtest.izone.az,AZ,Azerbaijan,Asia,Western Asia
+62.209.25.182,4,-257246,Ookla Speedtest Server 17574: stest.bh.zain.com,BH,Bahrain,Asia,Western Asia
+81.22.16.158,4,113,Ookla Speedtest Server 17711: speedtest.kalaam-telecom.com,BH,Bahrain,Asia,Western Asia
+185.176.44.2,4,141,Ookla Speedtest Server 19169: speedtest.blink.jo,JO,Jordan,Asia,Western Asia
+83.139.0.19,4,948,Ookla Speedtest Server 19443: speedtesthost2.mts.am,AM,Armenia,Asia,Western Asia
+87.252.96.194,4,246,Ookla Speedtest Server 20782: speedtest.viacloud.com,BH,Bahrain,Asia,Western Asia
+46.197.126.22,4,8809683,Ookla Speedtest Server 20990: st-gaziantep-1.turksatkablo.com.tr,TR,Turkey,Asia,Western Asia
+176.240.231.22,4,9775302,Ookla Speedtest Server 20991: st-mersin-1.turksatkablo.com.tr,TR,Turkey,Asia,Western Asia
+212.18.121.252,4,361,Ookla Speedtest Server 21884: speedtest.netwifi.com.tr,TR,Turkey,Asia,Western Asia
+185.186.206.21,4,773,Ookla Speedtest Server 22385: speed.omren.om,OM,Oman,Asia,Western Asia
+95.86.132.54,4,289,Ookla Speedtest Server 22827: speedtest.smart.az,AZ,Azerbaijan,Asia,Western Asia
+84.235.127.118,4,78018,Ookla Speedtest Server 24106: baha-speedtest.saudi.net.sa,SA,Saudi Arabia,Asia,Western Asia
+84.235.127.110,4,68751,Ookla Speedtest Server 24110: abha-speedtest.saudi.net.sa,SA,Saudi Arabia,Asia,Western Asia
+84.235.127.122,4,138641,Ookla Speedtest Server 24113: najran-speedtest.saudi.net.sa,SA,Saudi Arabia,Asia,Western Asia
+87.109.45.14,4,-112289,Ookla Speedtest Server 24115: kharj-speedtest.saudi.net.sa,SA,Saudi Arabia,Asia,Western Asia
+195.78.233.198,4,294874,Ookla Speedtest Server 24201: jubail-speedtest.saudi.net.sa,SA,Saudi Arabia,Asia,Western Asia
+84.235.127.126,4,386287,Ookla Speedtest Server 24203: bisha-speedtest.saudi.net.sa,SA,Saudi Arabia,Asia,Western Asia
+195.137.223.146,4,238,Ookla Speedtest Server 24555: speedtest.ramtek.net.tr,TR,Turkey,Asia,Western Asia
+213.32.253.214,4,367,Ookla Speedtest Server 25218: speedtest2.o3-telecom.com,IQ,Iraq,Asia,Western Asia
+86.51.76.236,4,322,Ookla Speedtest Server 26065: krj.myspeed.net.sa,SA,Saudi Arabia,Asia,Western Asia
+86.51.25.17,4,394,Ookla Speedtest Server 26066: mdn.myspeed.net.sa,SA,Saudi Arabia,Asia,Western Asia
+213.172.73.149,4,401,Ookla Speedtest Server 26286: speedtest.aet.az,AZ,Azerbaijan,Asia,Western Asia
+86.51.29.190,4,421,Ookla Speedtest Server 26515: msr.myspeed.net.sa,SA,Saudi Arabia,Asia,Western Asia
+193.33.164.254,4,284,Ookla Speedtest Server 28778: hiztesti.codit.com.tr,TR,Turkey,Asia,Western Asia
+185.4.252.251,4,334,Ookla Speedtest Server 30063: speedtest.eaglenet.net.lb,LB,Lebanon,Asia,Western Asia
+195.191.187.111,4,439,Ookla Speedtest Server 32183: speedtest.skynet.am,AM,Armenia,Asia,Western Asia
+188.41.241.70,4,388,Ookla Speedtest Server 32362: geb1speedtest.turktelekom.com.tr,TR,Turkey,Asia,Western Asia
+185.95.206.129,4,340,Ookla Speedtest Server 32669: speedtest-sulfm.asiacell.com,IQ,Iraq,Asia,Western Asia
+79.134.128.7,4,312,Ookla Speedtest Server 33140: speed2.jcs.jo,JO,Jordan,Asia,Western Asia
+77.92.155.42,4,19847,Ookla Speedtest Server 33376: ookla.sh.com.tr,TR,Turkey,Asia,Western Asia
+37.77.48.51,4,4594,Ookla Speedtest Server 39247: speedtest.jt.iq,IQ,Iraq,Asia,Western Asia
+176.67.63.122,4,-32620,Ookla Speedtest Server 40393: speedtest3.mada.ps,PS,Palestine,Asia,Western Asia
+91.201.200.18,4,420,Ookla Speedtest Server 41093: speedtest.azincom.az,AZ,Azerbaijan,Asia,Western Asia
+193.33.204.20,4,379,Ookla Speedtest Server 41522: hiztesti-ist.codit.com.tr,TR,Turkey,Asia,Western Asia
+188.119.0.138,4,280,Ookla Speedtest Server 42517: speedtest16.turk.net,TR,Turkey,Asia,Western Asia
+159.146.91.26,4,373,Ookla Speedtest Server 42525: speedtest42.turk.net,TR,Turkey,Asia,Western Asia
+159.146.32.102,4,344,Ookla Speedtest Server 42526: speedtest06.turk.net,TR,Turkey,Asia,Western Asia
+31.223.124.2,4,290,Ookla Speedtest Server 42947: speedtest07.turk.net,TR,Turkey,Asia,Western Asia
+87.109.44.102,4,231320,Ookla Speedtest Server 43126: addiriyah-speedtest.saudi.net.sa,SA,Saudi Arabia,Asia,Western Asia
+87.109.44.110,4,120655,Ookla Speedtest Server 43127: tuwaiq-speedtest.saudi.net.sa,SA,Saudi Arabia,Asia,Western Asia
+168.187.226.26,4,277,Ookla Speedtest Server 43256: speedtest.zajil.com,KW,Kuwait,Asia,Western Asia
+78.89.136.252,4,286,Ookla Speedtest Server 43390: ookla3.ooredoo.com.kw,KW,Kuwait,Asia,Western Asia
+78.89.136.251,4,255,Ookla Speedtest Server 43396: ookla2.ooredoo.com.kw,KW,Kuwait,Asia,Western Asia
+45.15.43.7,4,320,Ookla Speedtest Server 43401: speedtest.beeonline.az,AZ,Azerbaijan,Asia,Western Asia
+85.132.110.11,4,330,Ookla Speedtest Server 43502: speedtest.selnet.az,AZ,Azerbaijan,Asia,Western Asia
+45.84.220.90,4,377,Ookla Speedtest Server 43748: speedtest.euronet.net.tr,TR,Turkey,Asia,Western Asia
+89.46.202.239,4,287,Ookla Speedtest Server 44649: speedtest-njf.asiacell.com,IQ,Iraq,Asia,Western Asia
+82.199.220.239,4,217,Ookla Speedtest Server 44812: speedtest-msl.asiacell.com,IQ,Iraq,Asia,Western Asia
+84.32.231.36,4,357,Ookla Speedtest Server 44822: speedtest.awmbilisim.com,TR,Turkey,Asia,Western Asia
+217.21.0.47,4,456459,Ookla Speedtest Server 45636: al-bireh-speedtest.paltel.ps,PS,Palestine,Asia,Western Asia
+151.236.178.18,4,160,Ookla Speedtest Server 46713: speedtestbas.iq.zain.com,IQ,Iraq,Asia,Western Asia
+151.236.172.18,4,272,Ookla Speedtest Server 46767: speedtestdiw.iq.zain.com,IQ,Iraq,Asia,Western Asia
+151.236.169.26,4,190,Ookla Speedtest Server 47065: speedtestkir.iq.zain.com,IQ,Iraq,Asia,Western Asia
+82.199.216.239,4,178,Ookla Speedtest Server 47123: speedtest-bgdap.asiacell.com,IQ,Iraq,Asia,Western Asia
+86.51.77.205,4,397,Ookla Speedtest Server 47125: twq.myspeed.net.sa,SA,Saudi Arabia,Asia,Western Asia
+82.199.218.239,4,201,Ookla Speedtest Server 47157: speedtest-dyl.asiacell.com,IQ,Iraq,Asia,Western Asia
+5.2.80.47,4,109,Ookla Speedtest Server 47198: speedtest.alastyr.com,TR,Turkey,Asia,Western Asia
+185.145.255.152,4,208,Ookla Speedtest Server 47785: speedtest.dreamvps.com,IL,Israel,Asia,Western Asia
+86.51.26.145,4,198,Ookla Speedtest Server 48995: dah.myspeed.net.sa,SA,Saudi Arabia,Asia,Western Asia
+37.32.78.100,4,257,Ookla Speedtest Server 49035: speedtest.artkom.az,AZ,Azerbaijan,Asia,Western Asia
+185.23.125.246,4,247,Ookla Speedtest Server 49906: speedtest-khamismushait.sa.zain.com,SA,Saudi Arabia,Asia,Western Asia
+212.174.87.104,4,283,Ookla Speedtest Server 51537: furat.xyz,TR,Turkey,Asia,Western Asia
+213.238.172.107,4,267,Ookla Speedtest Server 51661: speedtest.kapteyan.com.tr,TR,Turkey,Asia,Western Asia
+103.199.91.234,4,-60998,Ookla Speedtest Server 51669: speedtest03.vodafone.com.qa,QA,Qatar,Asia,Western Asia
+46.60.3.198,4,-2791078,Ookla Speedtest Server 52482: speedtest1.zaytona.ps,IL,Israel,Asia,Western Asia
+95.130.89.240,4,206,Ookla Speedtest Server 53193: speedtest.ooredoo.ps,PS,Palestine,Asia,Western Asia
+185.248.14.4,4,203,Ookla Speedtest Server 53195: speedtest1.atlantisnet.com.tr,TR,Turkey,Asia,Western Asia
+46.8.37.38,4,328,Ookla Speedtest Server 53306: speedtest.sia-com.com,GE,Georgia,Asia,Western Asia
+146.103.26.10,4,2051,Ookla Speedtest Server 53547: speedtest.ekiphost.com,TR,Turkey,Asia,Western Asia
+185.208.101.226,4,178,Ookla Speedtest Server 53659: aboalitik1.mooo.com,TR,Turkey,Asia,Western Asia
+93.177.102.133,4,247,Ookla Speedtest Server 54606: speedtest2.keyubu.com,TR,Turkey,Asia,Western Asia
+185.187.92.7,4,2730648,Ookla Speedtest Server 54660: speedtest.cbeyond.online,LB,Lebanon,Asia,Western Asia
+188.41.249.12,4,400,Ookla Speedtest Server 55150: bur1speedtest.turktelekom.com.tr,TR,Turkey,Asia,Western Asia
+147.236.122.62,4,214,Ookla Speedtest Server 55466: speed.xfiber.net.il,IL,Israel,Asia,Western Asia
+185.128.114.4,4,139,Ookla Speedtest Server 55519: speedtest.dynet.net,TR,Turkey,Asia,Western Asia
+176.29.210.254,4,136,Ookla Speedtest Server 55597: speedtest4.zaindata.com.jo,JO,Jordan,Asia,Western Asia
+95.66.17.254,4,1089076,Ookla Speedtest Server 55652: speedest8.kw.zain.com,KW,Kuwait,Asia,Western Asia
+91.106.32.23,4,209,Ookla Speedtest Server 56002: speedtest.halasat.com,IQ,Iraq,Asia,Western Asia
+193.19.247.10,4,36231,Ookla Speedtest Server 56246: shaqra-speedtest.saudi.net.sa,SA,Saudi Arabia,Asia,Western Asia
+91.192.7.6,4,311,Ookla Speedtest Server 56363: speedtest.nbtel.iq,IQ,Iraq,Asia,Western Asia
+188.132.222.86,4,11741,Ookla Speedtest Server 56515: speed.alnajjar.tech,TR,Turkey,Asia,Western Asia
+188.132.150.50,4,202,Ookla Speedtest Server 57821: harem-net.org,TR,Turkey,Asia,Western Asia
+217.64.16.222,4,353,Ookla Speedtest Server 58140: speedtest.baktelecom.az,AZ,Azerbaijan,Asia,Western Asia
+81.199.199.10,4,-264,Ookla Speedtest Server 58330: speedtest.noorcom.online,IL,Israel,Asia,Western Asia
+91.224.170.73,4,317,Ookla Speedtest Server 58404: speed.flix.net.tr,TR,Turkey,Asia,Western Asia
+195.87.202.82,4,339,Ookla Speedtest Server 58979: speed.radius2online.com.tr,TR,Turkey,Asia,Western Asia
+176.235.86.133,4,353,Ookla Speedtest Server 59020: speed1.yasarnet.xyz,TR,Turkey,Asia,Western Asia
+195.142.25.195,4,60067,Ookla Speedtest Server 59152: sky.almotafael.com,TR,Turkey,Asia,Western Asia
+185.118.141.16,4,671,Ookla Speedtest Server 59171: speedtest.anksoft.net,TR,Turkey,Asia,Western Asia
+38.156.73.77,4,326,Ookla Speedtest Server 59291: speedtest2.sam-isp.com,TR,Turkey,Asia,Western Asia
+109.110.101.196,4,-85692,Ookla Speedtest Server 59603: speedtest.elsanet.net,LB,Lebanon,Asia,Western Asia
+185.91.19.67,4,242,Ookla Speedtest Server 59703: spt1.tishknet.com,IQ,Iraq,Asia,Western Asia
+185.164.216.38,4,327,Ookla Speedtest Server 59960: speedtest.livelinkisp.com,IQ,Iraq,Asia,Western Asia
+185.169.7.10,4,414,Ookla Speedtest Server 60100: speedtest.vipnetx.net,LB,Lebanon,Asia,Western Asia
+91.106.104.18,4,152028,Ookla Speedtest Server 60288: speedtestzarqa.umniah.com,JO,Jordan,Asia,Western Asia
+91.106.104.122,4,25834,Ookla Speedtest Server 60306: speedtestaqaba.umniah.com,JO,Jordan,Asia,Western Asia
+194.39.82.13,4,179226,Ookla Speedtest Server 60445: speedtest.tins.am,AM,Armenia,Asia,Western Asia
+213.238.182.139,4,405,Ookla Speedtest Server 60783: speedtest.markahost.com.tr,TR,Turkey,Asia,Western Asia
+185.216.4.1,4,332,Ookla Speedtest Server 61043: speedtest.skywisp.com.cy,CY,Cyprus,Asia,Western Asia
+31.206.223.78,4,324,Ookla Speedtest Server 61080: hizbursa.durunet.com.tr,TR,Turkey,Asia,Western Asia
+31.206.223.81,4,333,Ookla Speedtest Server 61084: hizistanbul1.durunet.com.tr,TR,Turkey,Asia,Western Asia
+188.132.203.21,4,333,Ookla Speedtest Server 61108: str01.spnet.com.tr,TR,Turkey,Asia,Western Asia
+149.34.193.157,4,332,Ookla Speedtest Server 61539: konya.speedtest.gibir.net.tr,TR,Turkey,Asia,Western Asia
+185.135.69.42,4,216,Ookla Speedtest Server 61970: speedtest.gntcld.net,IQ,Iraq,Asia,Western Asia
+185.16.25.249,4,304,Ookla Speedtest Server 62149: eitis.cloudns.nz,IQ,Iraq,Asia,Western Asia
+188.72.41.193,4,303,Ookla Speedtest Server 62150: kut.cloudns.nz,IQ,Iraq,Asia,Western Asia
+94.176.40.249,4,308,Ookla Speedtest Server 62164: wataniya.cloudns.nz,IQ,Iraq,Asia,Western Asia
+89.187.219.2,4,284,Ookla Speedtest Server 62226: proservices.dns.navy,LB,Lebanon,Asia,Western Asia
+213.57.22.91,4,313,Ookla Speedtest Server 62236: speedtest-pt.hotnet.net.il,IL,Israel,Asia,Western Asia
+185.163.128.4,4,3206,Ookla Speedtest Server 62655: speedtest.hostopya.com,TR,Turkey,Asia,Western Asia
+45.131.20.19,4,350,Ookla Speedtest Server 62915: speedtest.tedinetlb.com,LB,Lebanon,Asia,Western Asia
+178.78.176.20,4,247,Ookla Speedtest Server 63160: sp3.ucom.am,AM,Armenia,Asia,Western Asia
+185.27.106.14,4,224,Ookla Speedtest Server 63255: speedtest.jetfiber.net,IL,Israel,Asia,Western Asia
+91.217.119.84,4,362,Ookla Speedtest Server 63540: speedtest.teknosos.com.tr,TR,Turkey,Asia,Western Asia
+185.103.21.128,4,-45695153,Ookla Speedtest Server 63597: speed.gigabitpro.net,LB,Lebanon,Asia,Western Asia
+216.9.227.11,4,330,Ookla Speedtest Server 63672: speedtest.sunucun.com.tr,TR,Turkey,Asia,Western Asia
+188.125.167.150,4,316,Ookla Speedtest Server 63913: speedtest.pulse.web.tr,TR,Turkey,Asia,Western Asia
+93.113.57.6,4,354,Ookla Speedtest Server 64104: spdtes.phoenix.net.tr,TR,Turkey,Asia,Western Asia
+194.124.37.226,4,381,Ookla Speedtest Server 64162: zdt-iptv.highspeed.com.tr,TR,Turkey,Asia,Western Asia
+193.8.72.10,4,425,Ookla Speedtest Server 64252: speedtest.voltnet.az,AZ,Azerbaijan,Asia,Western Asia
+104.247.160.10,4,307,Ookla Speedtest Server 64320: mars-speedtest.guzel.net.tr,TR,Turkey,Asia,Western Asia
+188.132.221.242,4,-1382,Ookla Speedtest Server 64615: zeusnet.almotafael.com,TR,Turkey,Asia,Western Asia
+195.142.16.16,4,320,Ookla Speedtest Server 64759: sp.tulipgroup.io,TR,Turkey,Asia,Western Asia
+139.45.212.81,4,436,Ookla Speedtest Server 65276: speedtest-tbs.retn.net,GE,Georgia,Asia,Western Asia
+188.41.242.24,4,338,Ookla Speedtest Server: ank1speedtest.turktelekom.com.tr,TR,Turkey,Asia,Western Asia
+94.20.71.19,4,337,Ookla Speedtest Server: az-ix.net,AZ,Azerbaijan,Asia,Western Asia
+212.72.155.36,4,505,Ookla Speedtest Server: connect.ge,GE,Georgia,Asia,Western Asia
+78.89.136.250,4,121,Ookla Speedtest Server: ookla1.ooredoo.com.kw,KW,Kuwait,Asia,Western Asia
+82.166.201.37,4,-1007724,Ookla Speedtest Server: speed.013.net,IL,Israel,Asia,Western Asia
+185.57.68.2,4,264,Ookla Speedtest Server: speed.arpinet.am,AM,Armenia,Asia,Western Asia
+95.66.17.252,4,555927,Ookla Speedtest Server: speedest4.kw.zain.com,KW,Kuwait,Asia,Western Asia
+212.43.17.254,4,26890,Ookla Speedtest Server: speedest6.kw.zain.com,KW,Kuwait,Asia,Western Asia
+195.14.142.1,4,186,Ookla Speedtest Server: speedtest.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
+194.54.192.98,4,315,Ookla Speedtest Server: speedtest.gulfnet.com.kw,KW,Kuwait,Asia,Western Asia
+185.217.98.94,4,1016,Ookla Speedtest Server: speedtest.interhost.co.il,IL,Israel,Asia,Western Asia
+62.201.225.12,4,191,Ookla Speedtest Server: speedtest.iqnet.com,IQ,Iraq,Asia,Western Asia
+185.17.234.130,4,235,Ookla Speedtest Server: speedtest.mada.ps,IL,Israel,Asia,Western Asia
+141.226.241.245,4,10746979,Ookla Speedtest Server: speedtest.makeapp.net.il,IL,Israel,Asia,Western Asia
+213.140.208.247,4,106,Ookla Speedtest Server: speedtest.nic-west.cy.cablenetcy.net,CY,Cyprus,Asia,Western Asia
+217.69.181.16,4,337,Ookla Speedtest Server: speedtest.ooredoo.com.kw,KW,Kuwait,Asia,Western Asia
+185.143.176.55,4,169,Ookla Speedtest Server: speedtest.ordunet.ge,GE,Georgia,Asia,Western Asia
+178.20.231.218,4,297,Ookla Speedtest Server: speedtest.spd.net.tr,TR,Turkey,Asia,Western Asia
+178.20.231.220,4,-59,Ookla Speedtest Server: speedtest.spd.net.tr,TR,Turkey,Asia,Western Asia
+37.152.4.230,4,324531,Ookla Speedtest Server: speedtest.umniah.com,JO,Jordan,Asia,Western Asia
+185.209.108.60,4,24,Ookla Speedtest Server: speedtest1.together-pal.com,PS,Palestine,Asia,Western Asia
+94.128.15.9,4,9,Ookla Speedtest Server: speedtest1.viva.com.kw,KW,Kuwait,Asia,Western Asia
+212.43.17.251,4,31414,Ookla Speedtest Server: speedtest1.zain.net,KW,Kuwait,Asia,Western Asia
+94.128.4.178,4,-1,Ookla Speedtest Server: speedtest14.stc.com.kw,KW,Kuwait,Asia,Western Asia
+94.128.4.186,4,20,Ookla Speedtest Server: speedtest16.stc.com.kw,KW,Kuwait,Asia,Western Asia
+188.225.225.117,4,74,Ookla Speedtest Server: speedtest2.coolnet.ps,IL,Israel,Asia,Western Asia
+62.215.171.122,4,-33,Ookla Speedtest Server: st03.fasttelco.com,KW,Kuwait,Asia,Western Asia
+194.1.192.82,4,18,opencart-tr.com,TR,Turkey,Asia,Western Asia
+91.239.206.128,4,0,opera.ge,GE,Georgia,Asia,Western Asia
+80.179.148.114,4,1,opgal.com,IL,Israel,Asia,Western Asia
+5.100.156.187,4,89,opportunitiesforyouth.org,TR,Turkey,Asia,Western Asia
+5.100.156.80,4,9,opportunitiesforyouth.org,TR,Turkey,Asia,Western Asia
+31.7.35.106,4,17,ore-met.com,TR,Turkey,Asia,Western Asia
+5.2.84.21,4,103,orjinalkutu.com,TR,Turkey,Asia,Western Asia
+88.218.116.38,4,-2551,orphaned-land.com,IL,Israel,Asia,Western Asia
+45.84.189.8,4,468,otelgazetesi.com,TR,Turkey,Asia,Western Asia
+104.247.165.3,4,52,ozsoynakliyat.com,TR,Turkey,Asia,Western Asia
+149.100.151.178,4,4,pacuarelodge.com,CY,Cyprus,Asia,Western Asia
+185.201.148.17,4,1985,panorama.com,IL,Israel,Asia,Western Asia
+31.186.11.135,4,7,parandijital.com,TR,Turkey,Asia,Western Asia
+104.247.162.226,4,49911,patidestek.com,TR,Turkey,Asia,Western Asia
+5.2.84.231,4,32,patisaray.org,TR,Turkey,Asia,Western Asia
+62.128.52.39,4,11,peacenow.org.il,IL,Israel,Asia,Western Asia
+185.226.160.220,4,-81966,pegem.net,TR,Turkey,Asia,Western Asia
+213.159.7.74,4,23,pentayikama.com,TR,Turkey,Asia,Western Asia
+93.187.203.100,4,5,petromarsurvey.com,TR,Turkey,Asia,Western Asia
+178.20.231.184,4,1008250,peynirmatik.com.tr,TR,Turkey,Asia,Western Asia
+88.218.117.49,4,36,pitsou.com,IL,Israel,Asia,Western Asia
+104.247.168.18,4,4088,platinyatak.net,TR,Turkey,Asia,Western Asia
+185.145.252.225,4,1348,pluginsmarket.com,IL,Israel,Asia,Western Asia
+85.190.230.243,4,5,pobedavkusa.com,CY,Cyprus,Asia,Western Asia
+89.252.182.131,4,999,polygonmach.com,TR,Turkey,Asia,Western Asia
+5.250.252.165,4,699,polymadeniyaglar.com,TR,Turkey,Asia,Western Asia
+94.103.185.116,4,27,posta.co.il,IL,Israel,Asia,Western Asia
+50.28.1.193,4,53,productelectricity.com,CY,Cyprus,Asia,Western Asia
+88.218.116.178,4,19,prof-shapira.com,IL,Israel,Asia,Western Asia
+78.142.208.142,4,790,pronetnakliyat.com,TR,Turkey,Asia,Western Asia
+3.29.197.107,4,0,prontosys.ae,AE,United Arab Emirates,Asia,Western Asia
+20.196.3.14,4,-1985,propertypanda.ae,AE,United Arab Emirates,Asia,Western Asia
+80.179.230.60,4,7,pvpanama.com,IL,Israel,Asia,Western Asia
+168.187.226.28,4,-5,q8mazad.com,KW,Kuwait,Asia,Western Asia
+94.20.88.111,4,6,qarabagh.com,AZ,Azerbaijan,Asia,Western Asia
+213.238.190.244,4,7,qba.com.tr,TR,Turkey,Asia,Western Asia
+85.117.41.2,4,4,qebuli-climate.ge,GE,Georgia,Asia,Western Asia
+31.14.52.173,4,1680,radikalmedikal.com,TR,Turkey,Asia,Western Asia
+194.146.50.113,4,271585,railsystem.net,TR,Turkey,Asia,Western Asia
+185.184.198.164,4,130047,ramada.com,IQ,Iraq,Asia,Western Asia
+80.179.140.151,4,8,reader.co.il,IL,Israel,Asia,Western Asia
+188.132.193.36,4,-132177,redfiredoor.com,TR,Turkey,Asia,Western Asia
+78.142.210.229,4,-293,renetextile.com,TR,Turkey,Asia,Western Asia
+188.132.165.9,4,8,rentyachtturkey.com,TR,Turkey,Asia,Western Asia
+149.100.151.163,4,83,requnix.com,CY,Cyprus,Asia,Western Asia
+104.247.167.147,4,1833,reyyanpeyzaj.com,TR,Turkey,Asia,Western Asia
+188.132.241.4,4,-1207,rizecanreklam.com,TR,Turkey,Asia,Western Asia
+178.210.171.44,4,-24649,rmsgrup.com,TR,Turkey,Asia,Western Asia
+216.201.81.212,4,32,rosieanimaladoption.ca,IL,Israel,Asia,Western Asia
+68.168.118.11,4,1,routeverte.com,TR,Turkey,Asia,Western Asia
+2.56.152.231,4,933,rozzycareeradventures.com,TR,Turkey,Asia,Western Asia
+69.16.232.162,4,54,rssailing.com,IL,Israel,Asia,Western Asia
+31.186.11.123,4,1071,rubikonltd.com,TR,Turkey,Asia,Western Asia
+185.149.100.87,4,626,ruzgarkarot.com.tr,TR,Turkey,Asia,Western Asia
+213.128.77.82,4,2089,rzfmuhasebe.com,TR,Turkey,Asia,Western Asia
+149.100.151.143,4,30,saasnovas.com,CY,Cyprus,Asia,Western Asia
+63.250.63.229,4,749,sabon.com,IL,Israel,Asia,Western Asia
+185.254.95.5,4,25,sacgolgemerkezi.com,TR,Turkey,Asia,Western Asia
+95.173.165.93,4,-1169,safahac.com,TR,Turkey,Asia,Western Asia
+212.235.89.107,4,-3852041426,safe-mail.net,IL,Israel,Asia,Western Asia
+213.238.183.121,4,670,sagadernegi.org,TR,Turkey,Asia,Western Asia
+185.83.145.24,4,9,sagliknet.gen.tr,TR,Turkey,Asia,Western Asia
+104.247.165.35,4,839,sahinozsanayiaks.com,TR,Turkey,Asia,Western Asia
+89.252.178.48,4,31,salkim.com,TR,Turkey,Asia,Western Asia
+178.210.173.37,4,22435,sanatkedisi.com,TR,Turkey,Asia,Western Asia
+213.159.0.156,4,25,sanayigazetesi.com.tr,TR,Turkey,Asia,Western Asia
+93.177.103.130,4,5,sansli.com.tr,TR,Turkey,Asia,Western Asia
+104.247.162.115,4,640,saricahali.com.tr,TR,Turkey,Asia,Western Asia
+45.89.246.214,4,11,saritepe.com,TR,Turkey,Asia,Western Asia
+50.28.1.57,4,939,savannahcitymarket.com,CY,Cyprus,Asia,Western Asia
+5.100.156.136,4,34,savebay.org,TR,Turkey,Asia,Western Asia
+5.100.156.52,4,14,savebay.org,TR,Turkey,Asia,Western Asia
+5.100.156.150,4,29,schallfirm.com,TR,Turkey,Asia,Western Asia
+5.100.156.98,4,22,schallfirm.com,TR,Turkey,Asia,Western Asia
+195.14.137.4,4,5,schools.ac.cy,CY,Cyprus,Asia,Western Asia
+93.187.162.98,4,5,sci.am,AM,Armenia,Asia,Western Asia
+217.147.235.212,4,1429,science.org.ge,GE,Georgia,Asia,Western Asia
+139.99.190.185,4,5,scivee.tv,AE,United Arab Emirates,Asia,Western Asia
+37.148.209.65,4,2,seanews.com.tr,TR,Turkey,Asia,Western Asia
+5.250.251.2,4,124,seatclublife.com,TR,Turkey,Asia,Western Asia
+85.95.237.78,4,901,sefaatas.com.tr,TR,Turkey,Asia,Western Asia
+92.42.39.112,4,16,senoleczanesi.com.tr,TR,Turkey,Asia,Western Asia
+80.179.152.101,4,40,sensei.co.il,IL,Israel,Asia,Western Asia
+185.56.74.100,4,0,seo-analytic.co.il,IL,Israel,Asia,Western Asia
+31.192.208.162,4,473,seohocasi.com,TR,Turkey,Asia,Western Asia
+154.53.167.26,4,93465,seoium.com,TR,Turkey,Asia,Western Asia
+185.123.54.78,4,88,serbestiyet.com,TR,Turkey,Asia,Western Asia
+77.223.152.38,4,-144279,serelyapi.com,TR,Turkey,Asia,Western Asia
+45.143.99.2,4,1466,sergehotel.com,TR,Turkey,Asia,Western Asia
+103.130.146.43,4,170,shahrequran.ir,TR,Turkey,Asia,Western Asia
+185.216.135.10,4,8,shamra.sy,SY,Syrian Arab Republic,Asia,Western Asia
+95.173.185.161,4,4097,shopplus.com.tr,TR,Turkey,Asia,Western Asia
+199.203.226.2,4,-3423195,sii.org.il,IL,Israel,Asia,Western Asia
+213.238.183.134,4,3,sinavanalizi.com,TR,Turkey,Asia,Western Asia
+176.53.12.17,4,1,sindonis.com,TR,Turkey,Asia,Western Asia
+185.7.176.10,4,13,sinemalar.com,TR,Turkey,Asia,Western Asia
+31.186.15.76,4,36045,sirketara.net,TR,Turkey,Asia,Western Asia
+80.179.128.181,4,-10797642,site-pro.co.il,IL,Israel,Asia,Western Asia
+195.54.178.33,4,-984998,site.ge,GE,Georgia,Asia,Western Asia
+185.123.54.77,4,4,sivasspor.org.tr,TR,Turkey,Asia,Western Asia
+45.84.189.51,4,934,sizetekstil.com,TR,Turkey,Asia,Western Asia
+85.95.237.94,4,53,sizisteyinbizyapalim.com,TR,Turkey,Asia,Western Asia
+185.114.22.213,4,3,smilehairclinic.com,TR,Turkey,Asia,Western Asia
+91.239.207.133,4,654,smr.gov.ge,GE,Georgia,Asia,Western Asia
+89.252.182.195,4,37,smsonayadresi.com,TR,Turkey,Asia,Western Asia
+213.157.199.149,4,4,smsorg.ge,GE,Georgia,Asia,Western Asia
+89.43.65.139,4,5,sobepy.com,TR,Turkey,Asia,Western Asia
+80.179.230.22,4,5,social.org.il,IL,Israel,Asia,Western Asia
+5.100.156.29,4,6,socialstudieshelp.com,TR,Turkey,Asia,Western Asia
+5.100.156.201,4,15,socialstudieshelp.com,TR,Turkey,Asia,Western Asia
+185.113.223.5,4,265,sohbet.page,TR,Turkey,Asia,Western Asia
+45.84.189.66,4,28474,sohbetodalar.com,TR,Turkey,Asia,Western Asia
+185.243.77.30,4,84,somonion.com,AE,United Arab Emirates,Asia,Western Asia
+185.194.30.142,4,26,sontopic.com,TR,Turkey,Asia,Western Asia
+78.135.105.7,4,-233,sosyalboost.com.tr,TR,Turkey,Asia,Western Asia
+185.84.182.83,4,48,sosyalmedyahaber.com,TR,Turkey,Asia,Western Asia
+2.56.152.252,4,931,spice9columbus.com,TR,Turkey,Asia,Western Asia
+103.224.23.142,4,-193,sportsmatik.com,AE,United Arab Emirates,Asia,Western Asia
+185.108.148.226,4,7,ssv.network,IL,Israel,Asia,Western Asia
+5.100.156.0,4,33,steelpier.com,TR,Turkey,Asia,Western Asia
+185.18.207.233,4,763,sterenstein.ru,IL,Israel,Asia,Western Asia
+5.100.156.47,4,47,stonetoss.com,TR,Turkey,Asia,Western Asia
+195.206.236.4,4,4,stools.net,TR,Turkey,Asia,Western Asia
+185.229.12.15,4,4,stopthenorthamericanunion.com,TR,Turkey,Asia,Western Asia
+104.247.168.115,4,445,sultanbozum.net.tr,TR,Turkey,Asia,Western Asia
+78.135.106.104,4,89456,sultantesisat.com,TR,Turkey,Asia,Western Asia
+141.98.204.235,4,1559,sunarozlem.com.tr,TR,Turkey,Asia,Western Asia
+178.210.173.19,4,20169,sunnetrehberi.com,TR,Turkey,Asia,Western Asia
+104.247.162.67,4,678,sutesisatcisikenan.com,TR,Turkey,Asia,Western Asia
+149.100.151.5,4,3,swayycases.com,CY,Cyprus,Asia,Western Asia
+31.186.23.157,4,3,taf.org.tr,TR,Turkey,Asia,Western Asia
+23.26.248.12,4,94,taflanelektronik.com,TR,Turkey,Asia,Western Asia
+194.36.90.166,4,8,takdin.co.il,IL,Israel,Asia,Western Asia
+45.84.190.42,4,1591,takip-sepeti.com,TR,Turkey,Asia,Western Asia
+31.192.214.172,4,1729,takipcim.com.tr,TR,Turkey,Asia,Western Asia
+212.68.46.13,4,607,tanap.com,TR,Turkey,Asia,Western Asia
+185.237.83.151,4,4,tarihiolaylar.com,TR,Turkey,Asia,Western Asia
+104.247.167.50,4,162370,tasinmaz.net,TR,Turkey,Asia,Western Asia
+91.151.88.210,4,63,taslavabokurna.com,TR,Turkey,Asia,Western Asia
+185.56.75.185,4,0,tavisraeli.co.il,IL,Israel,Asia,Western Asia
+185.35.21.35,4,14,tdb.org.tr,TR,Turkey,Asia,Western Asia
+149.100.151.79,4,103,technologynos.com,CY,Cyprus,Asia,Western Asia
+149.100.151.168,4,65,techwildcatters.com,CY,Cyprus,Asia,Western Asia
+213.142.159.191,4,43,teknikelektrikcim.com,TR,Turkey,Asia,Western Asia
+185.95.165.134,4,27,teknikvideo.net,TR,Turkey,Asia,Western Asia
+185.42.173.200,4,-63,teknobara.com.tr,TR,Turkey,Asia,Western Asia
+185.179.27.180,4,-1825989,teknolojen.com,TR,Turkey,Asia,Western Asia
+185.193.7.177,4,33,tema.org.tr,TR,Turkey,Asia,Western Asia
+89.252.180.102,4,1147,temizbirev.com,TR,Turkey,Asia,Western Asia
+104.247.166.253,4,319,tesay.com.tr,TR,Turkey,Asia,Western Asia
+46.28.238.153,4,-1848198,tesev.org.tr,TR,Turkey,Asia,Western Asia
+5.253.142.202,4,42244,tessube.org,TR,Turkey,Asia,Western Asia
+77.75.39.254,4,2025766,testklima.com,TR,Turkey,Asia,Western Asia
+5.100.156.137,4,17,thalhimer.com,TR,Turkey,Asia,Western Asia
+5.100.156.122,4,4,thalhimer.com,TR,Turkey,Asia,Western Asia
+31.186.16.92,4,24,theadx.com,TR,Turkey,Asia,Western Asia
+173.209.61.104,4,1,themeafordindependent.ca,TR,Turkey,Asia,Western Asia
+185.56.75.138,4,10,thenorman.com,IL,Israel,Asia,Western Asia
+185.108.148.219,4,-4,theparentscircle.org,IL,Israel,Asia,Western Asia
+185.56.74.250,4,17,thepulse.co.il,IL,Israel,Asia,Western Asia
+20.233.1.96,4,-1987,thewatchtower.com,AE,United Arab Emirates,Asia,Western Asia
+5.100.156.248,4,5,thewaterpage.com,TR,Turkey,Asia,Western Asia
+5.100.156.57,4,5,thewaterpage.com,TR,Turkey,Asia,Western Asia
+88.255.149.199,4,-2,ticaret.edu.tr,TR,Turkey,Asia,Western Asia
+185.210.95.243,4,6,tider.org.tr,TR,Turkey,Asia,Western Asia
+91.191.172.11,4,1047,tiyatrolar.com.tr,TR,Turkey,Asia,Western Asia
+31.186.13.106,4,119,tkyd.org,TR,Turkey,Asia,Western Asia
+185.56.89.53,4,20,toddlersintlnursery.com,AE,United Arab Emirates,Asia,Western Asia
+5.2.85.141,4,6,tomtomtextiles.com,TR,Turkey,Asia,Western Asia
+188.93.89.87,4,24,top.ge,GE,Georgia,Asia,Western Asia
+89.252.138.195,4,670,toshibaklima.org,TR,Turkey,Asia,Western Asia
+104.247.168.227,4,562,tour-paris-guide.com,TR,Turkey,Asia,Western Asia
+91.194.54.154,4,4,toyzzshop.com,TR,Turkey,Asia,Western Asia
+213.238.179.146,4,8,tpkmedya.com.tr,TR,Turkey,Asia,Western Asia
+88.218.117.138,4,13,traduc71.com,IL,Israel,Asia,Western Asia
+2.59.117.5,4,2314,trainertinyhouse.com,TR,Turkey,Asia,Western Asia
+149.100.151.247,4,20,travelcarma.com,CY,Cyprus,Asia,Western Asia
+185.17.234.38,4,1008,travelpalestine.ps,IL,Israel,Asia,Western Asia
+193.140.99.42,4,21,trdizin.gov.tr,TR,Turkey,Asia,Western Asia
+45.84.189.3,4,475,trezor-wallet.at,TR,Turkey,Asia,Western Asia
+149.100.151.35,4,3,tribunefox.com,CY,Cyprus,Asia,Western Asia
+78.142.211.32,4,2100957,tripuck.com,TR,Turkey,Asia,Western Asia
+185.145.252.165,4,0,tsipilates.com,IL,Israel,Asia,Western Asia
+78.142.210.105,4,-214,ttgv.org.tr,TR,Turkey,Asia,Western Asia
+45.151.249.164,4,725,tugcularnakliyat.com,TR,Turkey,Asia,Western Asia
+185.179.24.7,4,-1826008,tumteknoloji.com,TR,Turkey,Asia,Western Asia
+185.81.155.88,4,347345,turasmobilya.com,TR,Turkey,Asia,Western Asia
+213.159.6.140,4,15,turizmgunlugu.com,TR,Turkey,Asia,Western Asia
+89.19.20.58,4,779,turkedebiyati.org,TR,Turkey,Asia,Western Asia
+185.106.208.38,4,-250,turkeymedicals.com,TR,Turkey,Asia,Western Asia
+78.135.107.148,4,9,turkishcymbals.com,TR,Turkey,Asia,Western Asia
+185.165.46.194,4,1,turkishdailynews.com.tr,TR,Turkey,Asia,Western Asia
+185.14.22.173,4,7,turklider.org,TR,Turkey,Asia,Western Asia
+95.173.180.21,4,55,turkmaxi.org,TR,Turkey,Asia,Western Asia
+185.106.210.122,4,523,turkpsikiyatri.com,TR,Turkey,Asia,Western Asia
+31.186.17.21,4,11,turkticaret.net,TR,Turkey,Asia,Western Asia
+185.244.145.16,4,1026,turkyeri.net,TR,Turkey,Asia,Western Asia
+78.142.209.51,4,203,turuncudepolama.com,TR,Turkey,Asia,Western Asia
+149.100.151.22,4,11,twollow.com,CY,Cyprus,Asia,Western Asia
+69.16.232.146,4,2,ub.org,IL,Israel,Asia,Western Asia
+31.186.11.118,4,5,uclg-mewa.org,TR,Turkey,Asia,Western Asia
+217.195.196.83,4,68,ukazyangin.com,TR,Turkey,Asia,Western Asia
+109.172.196.173,4,1520,ultraviolettesting.ru,GE,Georgia,Asia,Western Asia
+193.53.98.37,4,3,uludagfm.com.tr,TR,Turkey,Asia,Western Asia
+213.128.77.155,4,-76,uludagsozluk.com,TR,Turkey,Asia,Western Asia
+31.186.23.241,4,16,umraniye.bel.tr,TR,Turkey,Asia,Western Asia
+83.139.13.250,4,-232166,unibank.am,AM,Armenia,Asia,Western Asia
+185.22.187.187,4,15,unisahealthturkey.com,TR,Turkey,Asia,Western Asia
+85.95.249.5,4,117701,unlugaz.com,TR,Turkey,Asia,Western Asia
+185.145.252.17,4,-2,up.co.il,IL,Israel,Asia,Western Asia
+5.180.185.126,4,6458,urcuhotel.com,TR,Turkey,Asia,Western Asia
+31.186.11.120,4,9,urfakonukevim.xyz,TR,Turkey,Asia,Western Asia
+185.111.246.114,4,15,ursaturkey.com,TR,Turkey,Asia,Western Asia
+185.70.96.9,4,-35052,uskudar.edu.tr,TR,Turkey,Asia,Western Asia
+94.103.45.17,4,0,uwidata.com,TR,Turkey,Asia,Western Asia
+185.85.205.248,4,691,uyguras.com.tr,TR,Turkey,Asia,Western Asia
+185.171.88.90,4,11,uzmandns.com,TR,Turkey,Asia,Western Asia
+91.239.206.213,4,32,vanillasky.ge,GE,Georgia,Asia,Western Asia
+185.108.148.90,4,739,vanleer.org.il,IL,Israel,Asia,Western Asia
+5.2.85.36,4,30,vatangarage.net,TR,Turkey,Asia,Western Asia
+185.56.74.212,4,1,vaxtestimonies.org,IL,Israel,Asia,Western Asia
+176.53.12.7,4,-144429,vedatpazarlama.com,TR,Turkey,Asia,Western Asia
+37.247.115.41,4,6840,veranet.com.tr,TR,Turkey,Asia,Western Asia
+217.116.201.44,4,79461,veribase.com,TR,Turkey,Asia,Western Asia
+94.102.15.166,4,-1147,vetgen.com.tr,TR,Turkey,Asia,Western Asia
+45.139.222.20,4,7,viacure.com.tr,TR,Turkey,Asia,Western Asia
+192.116.109.25,4,23,vibeisrael.com,IL,Israel,Asia,Western Asia
+68.168.113.194,4,6,vifamagazine.ca,TR,Turkey,Asia,Western Asia
+31.22.115.178,4,826,vikoswater.gr,CY,Cyprus,Asia,Western Asia
+88.218.117.143,4,3388,visit-tlv.co.il,IL,Israel,Asia,Western Asia
+185.56.74.69,4,2,vocabulary.co.il,IL,Israel,Asia,Western Asia
+152.89.37.141,4,825,voyelletour.com,TR,Turkey,Asia,Western Asia
+149.100.151.119,4,7,vwbblog.com,CY,Cyprus,Asia,Western Asia
+149.100.151.142,4,4,warsawuprising.org,CY,Cyprus,Asia,Western Asia
+66.22.104.122,4,7,wasl.ae,AE,United Arab Emirates,Asia,Western Asia
+89.252.182.100,4,-142,wawainteriors.com,TR,Turkey,Asia,Western Asia
+178.211.56.195,4,1838,wearetheartmakers.com,TR,Turkey,Asia,Western Asia
+31.186.14.111,4,30,web.tv,TR,Turkey,Asia,Western Asia
+185.106.210.87,4,1373,webcampromotion.com,TR,Turkey,Asia,Western Asia
+185.8.130.70,4,5,webdizaynizmir.com,TR,Turkey,Asia,Western Asia
+199.203.51.141,4,2,weberdev.com,IL,Israel,Asia,Western Asia
+89.252.159.35,4,2027,webirinci.com,TR,Turkey,Asia,Western Asia
+31.192.214.222,4,1740,wellbornhotel.com,TR,Turkey,Asia,Western Asia
+149.100.151.152,4,6,wellnessproposals.com,CY,Cyprus,Asia,Western Asia
+5.100.249.55,4,2,wesell.co.il,IL,Israel,Asia,Western Asia
+149.100.151.58,4,8,wifiwavlink.net,CY,Cyprus,Asia,Western Asia
+192.116.49.85,4,23,wikirefua.org.il,IL,Israel,Asia,Western Asia
+84.95.247.248,4,13,womenwagepeace.org.il,IL,Israel,Asia,Western Asia
+69.16.232.230,4,5,woosteroh.com,IL,Israel,Asia,Western Asia
+188.93.95.15,4,3,worldsport.ge,GE,Georgia,Asia,Western Asia
+185.139.5.142,4,-36384,xlisans.com,TR,Turkey,Asia,Western Asia
+45.158.12.200,4,46,xn--aknmedical-yub.com,TR,Turkey,Asia,Western Asia
+31.192.214.142,4,1888,xn--kadkyantikaalanyerler-kec96k.com,TR,Turkey,Asia,Western Asia
+149.100.151.53,4,5,xn--vsrolnijogostvnyt-6obbm3w.com,CY,Cyprus,Asia,Western Asia
+91.205.41.80,4,1593,yatirimadestek.gov.tr,TR,Turkey,Asia,Western Asia
+104.247.168.99,4,1506,yatirimciyiz.net,TR,Turkey,Asia,Western Asia
+185.123.54.86,4,1,yazete.com,TR,Turkey,Asia,Western Asia
+109.226.41.138,4,680,ybook.co.il,IL,Israel,Asia,Western Asia
+185.153.222.104,4,4,yerebatan.com,TR,Turkey,Asia,Western Asia
+31.186.11.5,4,3,yerebatansarnici.com,TR,Turkey,Asia,Western Asia
+89.252.138.99,4,-156,yerliakor.com,TR,Turkey,Asia,Western Asia
+185.244.144.147,4,911,yerlichat.net,TR,Turkey,Asia,Western Asia
+37.26.168.23,4,-11,yerphi.am,AM,Armenia,Asia,Western Asia
+89.252.187.235,4,406,yigitambulans.com,TR,Turkey,Asia,Western Asia
+176.53.94.114,4,1326,yildevmadencilik.com,TR,Turkey,Asia,Western Asia
+5.2.84.221,4,8,yildirim.net,TR,Turkey,Asia,Western Asia
+195.225.46.185,4,2,yo-yoo.co.il,IL,Israel,Asia,Western Asia
+98.142.102.250,4,540,yog-sothoth.com,SA,Saudi Arabia,Asia,Western Asia
+89.19.19.125,4,56,yoldaolmak.com,TR,Turkey,Asia,Western Asia
+178.210.160.65,4,7957,yucedevlet.com,TR,Turkey,Asia,Western Asia
+185.229.111.110,4,-76,yvavilebismovla.ge,GE,Georgia,Asia,Western Asia
+46.49.2.71,4,9,yversy.com,GE,Georgia,Asia,Western Asia
+168.187.161.250,4,389269,Zajil International Telecom Company W.L.L.,KW,Kuwait,Asia,Western Asia
+89.252.182.99,4,-137,zamandayolculuk.com,TR,Turkey,Asia,Western Asia
+141.11.120.200,4,-2,zarinpal.com,TR,Turkey,Asia,Western Asia
+78.142.209.112,4,566,zemlak.com,TR,Turkey,Asia,Western Asia
+80.179.141.28,4,5,zeustech.net,IL,Israel,Asia,Western Asia
+185.136.206.71,4,1,zeytinburnukarotcu.com.tr,TR,Turkey,Asia,Western Asia
+185.123.54.70,4,22,ziraatciyiz.biz,TR,Turkey,Asia,Western Asia
+46.28.239.165,4,6,zirkonzahnasya.com,TR,Turkey,Asia,Western Asia
+213.238.183.171,4,2,ziyayazici.com,TR,Turkey,Asia,Western Asia
+185.179.26.182,4,4,zksoftware.com.tr,TR,Turkey,Asia,Western Asia
+81.89.217.205,4,18026,zvartnots.aero,AM,Armenia,Asia,Western Asia

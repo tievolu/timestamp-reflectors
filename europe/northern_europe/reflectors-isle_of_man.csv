@@ -1,3 +1,3 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-81.27.111.192,4,orienteeringonline.net,IM,Isle of Man,Europe,Northern Europe
-83.218.15.54,4,sportpesa.com,IM,Isle of Man,Europe,Northern Europe
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+195.10.111.6,4,345,Ookla Speedtest Server 3778: speedtest.manx.net,IM,Isle of Man,Europe,Northern Europe
+83.218.15.54,4,19,sportpesa.com,IM,Isle of Man,Europe,Northern Europe

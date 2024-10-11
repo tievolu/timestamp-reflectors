@@ -1,3 +1,3 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-196.189.44.43,4,fanabc.com,ET,Ethiopia,Africa,Sub-Saharan Africa
-213.55.92.84,4,ju.edu.et,ET,Ethiopia,Africa,Sub-Saharan Africa
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+196.189.44.43,4,1221,fanabc.com,ET,Ethiopia,Africa,Sub-Saharan Africa
+213.55.92.84,4,-27,ju.edu.et,ET,Ethiopia,Africa,Sub-Saharan Africa

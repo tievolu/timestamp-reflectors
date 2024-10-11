@@ -1,2 +1,4 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-61.5.222.94,4,province-sud.nc,NC,New Caledonia,Oceania,Melanesia
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+113.21.100.87,4,-11,DNS Server: host-113-21-100-87.canl.nc,NC,New Caledonia,Oceania,Melanesia
+103.14.89.86,4,651780,Ookla Speedtest Server: speedtest2.online.net.pg,PG,Papua New Guinea,Oceania,Melanesia
+61.5.222.94,4,-48,province-sud.nc,NC,New Caledonia,Oceania,Melanesia

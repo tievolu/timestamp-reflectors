@@ -1,6 +1,9 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-195.24.207.184,4,camair-co.cm,CM,Cameroon,Africa,Sub-Saharan Africa
-165.210.33.192,4,cradat.cm,CM,Cameroon,Africa,Sub-Saharan Africa
-165.210.33.68,4,minepia.cm,CM,Cameroon,Africa,Sub-Saharan Africa
-195.24.207.145,4,minsante.cm,CM,Cameroon,Africa,Sub-Saharan Africa
-41.204.87.50,4,uninet.cm,CM,Cameroon,Africa,Sub-Saharan Africa
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+195.24.207.184,4,84,camair-co.cm,CM,Cameroon,Africa,Sub-Saharan Africa
+165.210.33.192,4,72,cradat.cm,CM,Cameroon,Africa,Sub-Saharan Africa
+41.211.108.4,4,167,DNS Server: ns2.iccnet.cm,CM,Cameroon,Africa,Sub-Saharan Africa
+165.210.33.68,4,80,minepia.cm,CM,Cameroon,Africa,Sub-Saharan Africa
+195.24.207.145,4,-26,minsante.cm,CM,Cameroon,Africa,Sub-Saharan Africa
+102.244.128.19,4,14844,Ookla Speedtest Server 17209: speedtest1.orange.cm,CM,Cameroon,Africa,Sub-Saharan Africa
+154.126.176.254,4,284,Ookla Speedtest Server 62328: creo-speedtest.creolink.cm,CM,Cameroon,Africa,Sub-Saharan Africa
+41.204.87.50,4,54,uninet.cm,CM,Cameroon,Africa,Sub-Saharan Africa

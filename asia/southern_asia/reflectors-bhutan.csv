@@ -1,5 +1,5 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-118.103.136.81,4,bfalbt.com,BT,Bhutan,Asia,Southern Asia
-202.144.128.216,4,bhutanpristine.com.bt,BT,Bhutan,Asia,Southern Asia
-202.144.128.219,4,hitm.bt,BT,Bhutan,Asia,Southern Asia
-202.144.128.201,4,nic.bt,BT,Bhutan,Asia,Southern Asia
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+118.103.136.81,4,6,bfalbt.com,BT,Bhutan,Asia,Southern Asia
+202.144.128.216,4,909,bhutanpristine.com.bt,BT,Bhutan,Asia,Southern Asia
+202.144.128.219,4,-16,hitm.bt,BT,Bhutan,Asia,Southern Asia
+202.144.128.201,4,-12,nic.bt,BT,Bhutan,Asia,Southern Asia

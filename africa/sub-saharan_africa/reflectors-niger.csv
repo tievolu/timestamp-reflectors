@@ -1,6 +1,6 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-41.138.48.135,4,coho.ne,NE,Niger,Africa,Sub-Saharan Africa
-74.82.135.93,4,linkpendium.com,NE,Niger,Africa,Sub-Saharan Africa
-72.29.184.100,4,mathtv.com,NE,Niger,Africa,Sub-Saharan Africa
-72.29.175.234,4,mbnep.org,NE,Niger,Africa,Sub-Saharan Africa
-72.29.184.214,4,monarchbutterfly.org,NE,Niger,Africa,Sub-Saharan Africa
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+41.138.48.135,4,-121,coho.ne,NE,Niger,Africa,Sub-Saharan Africa
+74.82.135.93,4,7,linkpendium.com,NE,Niger,Africa,Sub-Saharan Africa
+72.29.184.100,4,-1,mathtv.com,NE,Niger,Africa,Sub-Saharan Africa
+72.29.175.234,4,317,mbnep.org,NE,Niger,Africa,Sub-Saharan Africa
+72.29.184.214,4,27,monarchbutterfly.org,NE,Niger,Africa,Sub-Saharan Africa

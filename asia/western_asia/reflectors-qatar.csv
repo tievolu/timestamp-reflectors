@@ -1,2 +1,4 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-34.18.81.201,4,insightss.co,QA,Qatar,Asia,Western Asia
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+34.18.81.201,4,3,insightss.co,QA,Qatar,Asia,Western Asia
+82.148.98.214,4,288,Ookla Speedtest Server 6193: speedtest2a.ooredoo.qa,QA,Qatar,Asia,Western Asia
+103.199.91.234,4,-60998,Ookla Speedtest Server 51669: speedtest03.vodafone.com.qa,QA,Qatar,Asia,Western Asia

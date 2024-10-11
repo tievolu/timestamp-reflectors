@@ -1,5 +1,6 @@
-reflector_ip,ip_version,description,country_code,country_name,region,sub_region
-216.250.8.80,4,bt.com.tm,TM,Turkmenistan,Asia,Central Asia
-95.85.127.192,4,orient.tm,TM,Turkmenistan,Asia,Central Asia
-217.174.226.78,4,State Company of Electro Communications Turkmentelecom,TM,Turkmenistan,Asia,Central Asia
-217.174.238.28,4,tmembassy.gov.tm,TM,Turkmenistan,Asia,Central Asia
+reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
+216.250.8.80,4,72,business.com.tm,TM,Turkmenistan,Asia,Central Asia
+69.174.148.182,4,307,Ookla Speedtest Server 12947: speedtest.oswgilaa.metronetinc.com,TM,Turkmenistan,Asia,Central Asia
+95.85.127.192,4,17,orient.tm,TM,Turkmenistan,Asia,Central Asia
+217.174.226.78,4,145546,State Company of Electro Communications Turkmentelecom,TM,Turkmenistan,Asia,Central Asia
+217.174.238.28,4,-131509,turkmenistan.gov.tm,TM,Turkmenistan,Asia,Central Asia
