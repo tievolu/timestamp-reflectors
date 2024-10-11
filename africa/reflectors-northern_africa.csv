@@ -3,9 +3,11 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 41.77.113.115,4,-2,alumetaux.com,MA,Morocco,Africa,Northern Africa
 196.61.234.53,4,-20,amci.ma,MA,Morocco,Africa,Northern Africa
 41.128.143.175,4,5,amgad-hendy.com,EG,Egypt,Africa,Northern Africa
+41.77.117.117,4,8,ateliermoka.ma,MA,Morocco,Africa,Northern Africa
 102.50.246.97,4,67,bnrm.ma,MA,Morocco,Africa,Northern Africa
 159.8.122.149,4,10,caper-cogefi.com,MA,Morocco,Africa,Northern Africa
 67.215.1.242,4,8,chrc-ccdp.ca,MA,Morocco,Africa,Northern Africa
+41.77.118.2,4,159,comenciel.ma,MA,Morocco,Africa,Northern Africa
 196.203.86.23,4,15348,defense.tn,TN,Tunisia,Africa,Northern Africa
 41.225.8.74,4,763,discovertunisia.com,TN,Tunisia,Africa,Northern Africa
 81.192.193.223,4,132,DNS Server: adsl-223-193-192-81.adsl.iam.net.ma,MA,Morocco,Africa,Northern Africa
@@ -23,6 +25,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 197.12.9.76,4,35,intouch.com.tn,TN,Tunisia,Africa,Northern Africa
 134.255.244.178,4,5,klosterbrauerei.com,DZ,Algeria,Africa,Northern Africa
 213.179.181.28,4,12,lecourrier-dalgerie.com,DZ,Algeria,Africa,Northern Africa
+41.77.115.122,4,3,leseco.ma,MA,Morocco,Africa,Northern Africa
 196.200.160.147,4,0,marwan.ma,MA,Morocco,Africa,Northern Africa
 102.219.179.122,4,-188,mastodon.tn,TN,Tunisia,Africa,Northern Africa
 196.203.16.137,4,1134,medianet.tn,TN,Tunisia,Africa,Northern Africa
@@ -66,5 +69,6 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 41.111.206.210,4,2642336,univ-msila.dz,DZ,Algeria,Africa,Northern Africa
 41.111.171.235,4,21,univ-oran1.dz,DZ,Algeria,Africa,Northern Africa
 41.110.190.124,4,20,univ-saida.dz,DZ,Algeria,Africa,Northern Africa
+41.106.128.5,4,18,univ-sba.dz,DZ,Algeria,Africa,Northern Africa
 41.111.224.45,4,14,univ-tebessa.dz,DZ,Algeria,Africa,Northern Africa
 41.111.224.35,4,12,univ-tebessa.dz,DZ,Algeria,Africa,Northern Africa

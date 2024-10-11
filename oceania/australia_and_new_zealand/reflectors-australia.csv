@@ -356,6 +356,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 27.32.63.54,4,1043,DNS Server: 27-32-63-54.static.tpgi.com.au,AU,Australia,Oceania,Australia and New Zealand
 220.233.222.29,4,-7,DNS Server: 29.222.233.220.static.exetel.com.au,AU,Australia,Oceania,Australia and New Zealand
 211.27.151.57,4,160,DNS Server: 57.151.27.211.sta.wbroadband.net.au,AU,Australia,Oceania,Australia and New Zealand
+59.100.208.62,4,1435,DNS Server: 59-100-208-62.bri.static-ipl.aapt.com.au,AU,Australia,Oceania,Australia and New Zealand
 60.241.40.114,4,28,DNS Server: 60-241-40-114.static.tpgi.com.au,AU,Australia,Oceania,Australia and New Zealand
 61.69.106.78,4,-36014097,DNS Server: 61-69-106-78.bri.static-ipl.aapt.com.au,AU,Australia,Oceania,Australia and New Zealand
 103.42.141.62,4,-39603417,DNS Server: 62.141.42.103.buroserv.net.au,AU,Australia,Oceania,Australia and New Zealand
@@ -364,6 +365,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 110.143.3.83,4,1469299,DNS Server: abi1684415.lnk.telstra.net,AU,Australia,Oceania,Australia and New Zealand
 110.143.148.183,4,512363,DNS Server: abi1708756.lnk.telstra.net,AU,Australia,Oceania,Australia and New Zealand
 103.2.196.228,4,132,DNS Server: bingo.gadgetaccess.com,AU,Australia,Oceania,Australia and New Zealand
+203.45.58.208,4,744790,DNS Server: blooms42.lnk.telstra.net,AU,Australia,Oceania,Australia and New Zealand
 110.145.154.62,4,147,DNS Server: bmi-bgi007.cpe.netvault.net.au,AU,Australia,Oceania,Australia and New Zealand
 210.10.179.208,4,602,DNS Server: C-210-10-179-208.hay.connect.net.au,AU,Australia,Oceania,Australia and New Zealand
 139.130.2.22,4,1035851,DNS Server: cen3563285.lnk.telstra.net,AU,Australia,Oceania,Australia and New Zealand
@@ -378,6 +380,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 103.136.146.99,4,38065,DNS Server: dns.halvez.top,AU,Australia,Oceania,Australia and New Zealand
 103.230.158.212,4,-14,DNS Server: docker01-bl.schwetz.com.au,AU,Australia,Oceania,Australia and New Zealand
 54.66.128.66,4,26,DNS Server: ec2-54-66-128-66.ap-southeast-2.compute.amazonaws.com,AU,Australia,Oceania,Australia and New Zealand
+203.214.23.143,4,32,DNS Server: edge.home.twigglett.gg,AU,Australia,Oceania,Australia and New Zealand
 27.113.241.18,4,-26182,DNS Server: eldsure.wires.net.au,AU,Australia,Oceania,Australia and New Zealand
 210.79.19.1,4,34,DNS Server: hagon.apcs.com.pg,AU,Australia,Oceania,Australia and New Zealand
 139.99.133.27,4,80,DNS Server: igc.fmbm.com.au,AU,Australia,Oceania,Australia and New Zealand
@@ -808,6 +811,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 116.90.60.38,4,27,myvet.com.au,AU,Australia,Oceania,Australia and New Zealand
 110.232.143.4,4,-9,na.org.au,AU,Australia,Oceania,Australia and New Zealand
 104.96.178.169,4,-4,nais.gov.ua,AU,Australia,Oceania,Australia and New Zealand
+203.63.42.140,4,59,nantien.org.au,AU,Australia,Oceania,Australia and New Zealand
 103.25.160.66,4,17,nata.com.au,AU,Australia,Oceania,Australia and New Zealand
 172.105.178.208,4,0,nationaldirectory.com.au,AU,Australia,Oceania,Australia and New Zealand
 52.63.123.241,4,4,nationalretail.org.au,AU,Australia,Oceania,Australia and New Zealand
@@ -873,6 +877,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 110.145.177.190,4,266,Ookla Speedtest Server 18714: win1.speedtest.telstra.net,AU,Australia,Oceania,Australia and New Zealand
 218.185.233.242,4,303,Ookla Speedtest Server 21585: vic-speedtest.spirit.com.au,AU,Australia,Oceania,Australia and New Zealand
 67.159.27.4,4,187,Ookla Speedtest Server 54305: lg-syd.fdcservers.net,AU,Australia,Oceania,Australia and New Zealand
+203.12.3.242,4,343,Ookla Speedtest Server 64079: speedtest.bri01.launtel.net.au,AU,Australia,Oceania,Australia and New Zealand
 206.148.22.69,4,448,Ookla Speedtest Server 65090: sof.speedtest.gslnetworks.com,AU,Australia,Oceania,Australia and New Zealand
 43.252.115.254,4,59527,Ookla Speedtest Server: speedtest.occom.com.au,AU,Australia,Oceania,Australia and New Zealand
 198.142.236.4,4,53,Ookla Speedtest Server: speedtest.syd.optusnet.com.au,AU,Australia,Oceania,Australia and New Zealand
@@ -946,6 +951,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 110.232.143.74,4,-8,pixelcase.com.au,AU,Australia,Oceania,Australia and New Zealand
 147.79.92.179,4,24,planejadorweb.com.br,AU,Australia,Oceania,Australia and New Zealand
 116.90.50.25,4,28,plant-maintenance.com,AU,Australia,Oceania,Australia and New Zealand
+203.101.229.168,4,22,plantdatabases.org,AU,Australia,Oceania,Australia and New Zealand
 116.90.49.3,4,7,playandgo.com.au,AU,Australia,Oceania,Australia and New Zealand
 103.115.210.201,4,14,playerattack.com,AU,Australia,Oceania,Australia and New Zealand
 151.101.30.133,4,19,playrugbyleague.com,AU,Australia,Oceania,Australia and New Zealand
@@ -1235,6 +1241,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 61.8.0.113,4,38,Telstra Corporation Ltd,AU,Australia,Oceania,Australia and New Zealand
 139.134.5.51,4,33,Telstra Corporation Ltd 2,AU,Australia,Oceania,Australia and New Zealand
 139.134.2.190,4,158,Telstra Corporation Ltd 3,AU,Australia,Oceania,Australia and New Zealand
+203.50.2.71,4,38,Telstra Corporation Ltd 4,AU,Australia,Oceania,Australia and New Zealand
 103.230.158.142,4,-12,tenants.org.au,AU,Australia,Oceania,Australia and New Zealand
 202.74.68.43,4,18,tern.org.au,AU,Australia,Oceania,Australia and New Zealand
 2.18.55.207,4,11,tesla.com,AU,Australia,Oceania,Australia and New Zealand

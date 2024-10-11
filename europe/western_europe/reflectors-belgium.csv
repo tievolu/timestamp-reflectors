@@ -19,6 +19,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 188.65.220.59,4,38,adventure-valley.be,BE,Belgium,Europe,Western Europe
 185.86.18.110,4,-1,aertssen.be,BE,Belgium,Europe,Western Europe
 213.158.94.229,4,38,afdigitale.it,BE,Belgium,Europe,Western Europe
+93.94.104.22,4,147,agenceurope.eu,BE,Belgium,Europe,Western Europe
 213.158.94.136,4,16,aiju.es,BE,Belgium,Europe,Western Europe
 51.83.29.53,4,4,alessandrofiorio.it,BE,Belgium,Europe,Western Europe
 5.134.4.176,4,132,alfen.com,BE,Belgium,Europe,Western Europe
@@ -26,6 +27,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 34.140.206.68,4,94,alinea.fr,BE,Belgium,Europe,Western Europe
 79.99.200.4,4,37,all2all.org,BE,Belgium,Europe,Western Europe
 188.208.36.15,4,5,alterwood.nl,BE,Belgium,Europe,Western Europe
+94.139.39.10,4,15,amazone.be,BE,Belgium,Europe,Western Europe
 77.241.81.188,4,23,ambachtenmuseum.nl,BE,Belgium,Europe,Western Europe
 188.208.36.164,4,17,aml-cfwb.be,BE,Belgium,Europe,Western Europe
 54.38.125.114,4,35,amnestyinternational.be,BE,Belgium,Europe,Western Europe
@@ -68,6 +70,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 5.196.173.72,4,59,autotitre.com,BE,Belgium,Europe,Western Europe
 176.62.168.218,4,-16,autoveiligheid.be,BE,Belgium,Europe,Western Europe
 185.162.31.207,4,60,autoverzekering-berekenen.be,BE,Belgium,Europe,Western Europe
+93.94.104.91,4,72,autowereld.be,BE,Belgium,Europe,Western Europe
 5.134.7.232,4,71,autoworld.be,BE,Belgium,Europe,Western Europe
 91.183.195.100,4,4,awex-export.be,BE,Belgium,Europe,Western Europe
 34.76.142.176,4,8,awmagazin.de,BE,Belgium,Europe,Western Europe
@@ -139,6 +142,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 23.219.227.114,4,22,cardif.fr,BE,Belgium,Europe,Western Europe
 34.38.10.15,4,59,caristaapp.com,BE,Belgium,Europe,Western Europe
 176.62.170.21,4,-30,caritasinternational.be,BE,Belgium,Europe,Western Europe
+79.174.129.100,4,7,cartamundi.com,BE,Belgium,Europe,Western Europe
 83.217.70.117,4,4,cbcommerce.eu,BE,Belgium,Europe,Western Europe
 188.208.37.13,4,10,cbkrotterdam.nl,BE,Belgium,Europe,Western Europe
 194.32.153.73,4,5,ccdewerf.be,BE,Belgium,Europe,Western Europe
@@ -295,6 +299,10 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 149.202.236.191,4,11,ecahe.eu,BE,Belgium,Europe,Western Europe
 83.217.80.250,4,39,echteinstallateur.nl,BE,Belgium,Europe,Western Europe
 185.35.173.140,4,65,ecolo.be,BE,Belgium,Europe,Western Europe
+212.71.0.128,4,10,edpnet.be,BE,Belgium,Europe,Western Europe
+212.71.8.128,4,11,edpnet.be,BE,Belgium,Europe,Western Europe
+212.71.0.129,4,9,edpnet.be,BE,Belgium,Europe,Western Europe
+212.71.8.129,4,6,edpnet.be,BE,Belgium,Europe,Western Europe
 109.68.161.56,4,6,effectsdatabase.com,BE,Belgium,Europe,Western Europe
 178.33.73.209,4,10,eficiens.com,BE,Belgium,Europe,Western Europe
 188.208.36.138,4,8,efrag.org,BE,Belgium,Europe,Western Europe
@@ -444,6 +452,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 83.172.180.196,4,12,gratis-e-cards.nl,BE,Belgium,Europe,Western Europe
 83.217.81.68,4,9,gratis.nl,BE,Belgium,Europe,Western Europe
 5.134.5.198,4,9,gratiscursus.be,BE,Belgium,Europe,Western Europe
+79.174.131.185,4,28,gratisrijbewijsonline.be,BE,Belgium,Europe,Western Europe
 83.217.80.31,4,40,gratissoftware.nu,BE,Belgium,Europe,Western Europe
 35.187.110.250,4,10,greatercambridge.org.uk,BE,Belgium,Europe,Western Europe
 77.241.81.43,4,7,greencreatives.nl,BE,Belgium,Europe,Western Europe
@@ -451,6 +460,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.162.31.155,4,19,greenncap.com,BE,Belgium,Europe,Western Europe
 185.3.217.179,4,13,groenvanbijons.be,BE,Belgium,Europe,Western Europe
 83.217.83.196,4,10,grootsgedrukt.nl,BE,Belgium,Europe,Western Europe
+79.174.131.154,4,12,growfunding.be,BE,Belgium,Europe,Western Europe
 104.155.78.92,4,10,guide-electricite-verte.fr,BE,Belgium,Europe,Western Europe
 109.68.160.157,4,2,gwg.org,BE,Belgium,Europe,Western Europe
 178.208.36.107,4,4,gymfed.be,BE,Belgium,Europe,Western Europe
@@ -502,6 +512,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 176.62.165.131,4,14,iadllaw.org,BE,Belgium,Europe,Western Europe
 213.158.90.14,4,6,iatriko.gr,BE,Belgium,Europe,Western Europe
 185.2.55.150,4,13,ice.be,BE,Belgium,Europe,Western Europe
+79.174.131.240,4,16,iddcconsortium.net,BE,Belgium,Europe,Western Europe
 35.189.208.106,4,4,ideal4finance.com,BE,Belgium,Europe,Western Europe
 34.76.3.31,4,31,idealshape.com,BE,Belgium,Europe,Western Europe
 146.148.26.97,4,26,iebschool.com,BE,Belgium,Europe,Western Europe
@@ -537,6 +548,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 83.217.82.48,4,35,iq-leads.nl,BE,Belgium,Europe,Western Europe
 193.190.137.158,4,76189,irceline.be,BE,Belgium,Europe,Western Europe
 87.98.253.160,4,2,isfsports.org,BE,Belgium,Europe,Western Europe
+79.174.131.210,4,17,isolatie-info.nl,BE,Belgium,Europe,Western Europe
 23.41.178.129,4,2,istruzione.it,BE,Belgium,Europe,Western Europe
 23.41.178.65,4,6,istruzione.it,BE,Belgium,Europe,Western Europe
 83.217.70.27,4,5,itaa.be,BE,Belgium,Europe,Western Europe
@@ -695,6 +707,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 35.187.25.81,4,21,nashtackle.co.uk,BE,Belgium,Europe,Western Europe
 5.134.5.23,4,85,natan.be,BE,Belgium,Europe,Western Europe
 91.223.195.203,4,16,nationaalparkhogekempen.be,BE,Belgium,Europe,Western Europe
+79.174.131.131,4,27,natotigers.org,BE,Belgium,Europe,Western Europe
 35.205.115.169,4,8,navigine.com,BE,Belgium,Europe,Western Europe
 77.241.81.82,4,19,nedap-healthcare.com,BE,Belgium,Europe,Western Europe
 83.217.71.59,4,27,nedapidentification.com,BE,Belgium,Europe,Western Europe
@@ -739,6 +752,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 217.21.190.116,4,289,Ookla Speedtest Server 5151: speedtest.combell.com,BE,Belgium,Europe,Western Europe
 212.68.211.198,4,338,Ookla Speedtest Server 23320: speedtestnetgauge.voo.be,BE,Belgium,Europe,Western Europe
 212.224.131.126,4,320,Ookla Speedtest Server 37840: speedtest02.orange.be,BE,Belgium,Europe,Western Europe
+212.71.0.110,4,452,Ookla Speedtest Server 40400: speedtest.edpnet.net,BE,Belgium,Europe,Western Europe
 212.68.211.203,4,235,Ookla Speedtest Server 45280: speedtestnetgauge2.voo.be,BE,Belgium,Europe,Western Europe
 193.105.133.116,4,248,Ookla Speedtest Server 54889: speedtest.behostings.com,BE,Belgium,Europe,Western Europe
 91.223.195.25,4,358,Ookla Speedtest Server 56691: speedtest.level27.eu,BE,Belgium,Europe,Western Europe
@@ -965,6 +979,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 79.174.131.56,4,13,surfplaza.be,BE,Belgium,Europe,Western Europe
 83.217.75.76,4,26,sustainableworldports.org,BE,Belgium,Europe,Western Europe
 185.179.91.65,4,26550,sweetslyrics.com,BE,Belgium,Europe,Western Europe
+79.174.131.118,4,4,swing.be,BE,Belgium,Europe,Western Europe
 83.217.73.22,4,9,swissflex.com,BE,Belgium,Europe,Western Europe
 34.76.180.229,4,4,swiy.io,BE,Belgium,Europe,Western Europe
 5.134.4.220,4,3,syntra-mvl.be,BE,Belgium,Europe,Western Europe

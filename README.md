@@ -10,22 +10,21 @@ Reflector count by sub-region:
 
 | Sub-region | Reflector Count |
 | :--------- | :-------------- |
-| Western Europe | 26433 |
-| Northern America | 24885 |
-| Eastern Europe | 21749 |
-| Eastern Asia | 13358 |
-| Northern Europe | 11428 |
-| South-eastern Asia | 5205 |
-| Southern Europe | 4628 |
-| Southern Asia | 2632 |
-| Latin America and the Caribbean | 2567 |
-| Australia and New Zealand | 1571 |
-| Sub-Saharan Africa | 1184 |
-| Western Asia | 1122 |
+| Northern America | 40188 |
+| Western Europe | 32731 |
+| Eastern Europe | 22396 |
+| Eastern Asia | 15292 |
+| Northern Europe | 11689 |
+| South-eastern Asia | 5335 |
+| Southern Europe | 4744 |
+| Latin America and the Caribbean | 3324 |
+| Southern Asia | 2650 |
+| Australia and New Zealand | 1578 |
+| Sub-Saharan Africa | 1467 |
+| Western Asia | 1179 |
 | Central Asia | 540 |
-| Northern Africa | 69 |
+| Northern Africa | 73 |
 | Polynesia | 6 |
-| Melanesia | 3 |
 | Micronesia | 3 |
-| Unknown | 25815 |
+| Melanesia | 3 |
 | **Total** | **143198** |

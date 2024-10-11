@@ -20,6 +20,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 31.24.128.65,4,2,bergen-guide.com,NO,Norway,Europe,Northern Europe
 91.190.155.33,4,21,besteonlinecasinos.com,NO,Norway,Europe,Northern Europe
 185.181.62.139,4,12,bikez.com,NO,Norway,Europe,Northern Europe
+195.1.92.4,4,57,bitfocus.io,NO,Norway,Europe,Northern Europe
 2.56.126.145,4,21,bloom-consulting.com,NO,Norway,Europe,Northern Europe
 185.116.4.109,4,-538,bmobilized.com,NO,Norway,Europe,Northern Europe
 91.189.182.114,4,10,bodosjakk.no,NO,Norway,Europe,Northern Europe
@@ -33,19 +34,25 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 194.126.211.10,4,54,combats.com,NO,Norway,Europe,Northern Europe
 51.13.37.176,4,44,compendiamedlem.no,NO,Norway,Europe,Northern Europe
 104.37.38.109,4,53,completecasinolist.com,NO,Norway,Europe,Northern Europe
+195.254.219.69,4,3,connectid.no,NO,Norway,Europe,Northern Europe
 195.159.239.230,4,15,custompublish.com,NO,Norway,Europe,Northern Europe
+195.1.88.21,4,21,dagogtid.no,NO,Norway,Europe,Northern Europe
 94.46.55.82,4,9,dailyguideghana.com,NO,Norway,Europe,Northern Europe
 46.250.210.61,4,3,dailyscandinavian.com,NO,Norway,Europe,Northern Europe
 91.149.224.29,4,24,defendingtherepublic.org,NO,Norway,Europe,Northern Europe
 217.170.205.111,4,106,detsoteliv.no,NO,Norway,Europe,Northern Europe
 193.69.47.176,4,49,dialogapi.no,NO,Norway,Europe,Northern Europe
+79.161.9.164,4,91927,DNS Server: 164.79-161-9.customer.lyse.net,NO,Norway,Europe,Northern Europe
 171.22.155.252,4,14400115,DNS Server: 171-22-155-252.network.trollfjord.no,NO,Norway,Europe,Northern Europe
 178.164.26.122,4,69,DNS Server: 178-164-26.122.3p.ntebredband.no,NO,Norway,Europe,Northern Europe
+193.215.26.18,4,-18,DNS Server: 18.26.215.193.static.cust.telenor.com,NO,Norway,Europe,Northern Europe
 51.175.90.189,4,3,DNS Server: 189.51-175-90.customer.lyse.net,NO,Norway,Europe,Northern Europe
 195.159.253.130,4,3427,DNS Server: 195-159-253-130.customer.powertech.no,NO,Norway,Europe,Northern Europe
 178.23.97.242,4,25199613,DNS Server: 242.97.23.178.ardalsnett.no,NO,Norway,Europe,Northern Europe
 85.200.247.5,4,177,DNS Server: 5.85-200-247.bkkb.no,NO,Norway,Europe,Northern Europe
 85.200.209.58,4,-384784,DNS Server: 58.85-200-209.bkkb.no,NO,Norway,Europe,Northern Europe
+79.160.140.199,4,37,DNS Server: 79.160.140.199.static.lyse.net,NO,Norway,Europe,Northern Europe
+79.160.140.200,4,30,DNS Server: 79.160.140.200.static.lyse.net,NO,Norway,Europe,Northern Europe
 85.119.137.30,4,575939,DNS Server: 85-119-137-30.telio.no,NO,Norway,Europe,Northern Europe
 89.162.45.54,4,187083,DNS Server: 89-162-45-54.fiber.signal.no,NO,Norway,Europe,Northern Europe
 77.88.105.215,4,-56,DNS Server: cD769584D.static.as2116.net,NO,Norway,Europe,Northern Europe
@@ -136,6 +143,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.134.125.66,4,425,Ookla Speedtest Server 18316: osl-speedtest.dataoppdrag.no,NO,Norway,Europe,Northern Europe
 217.145.232.249,4,5363,Ookla Speedtest Server 51482: speedtest.vossfiber.no,NO,Norway,Europe,Northern Europe
 77.247.144.210,4,209,Ookla Speedtest Server 56503: speedtest.vevromerike.no,NO,Norway,Europe,Northern Europe
+79.160.115.225,4,344,Ookla Speedtest Server 63997: gmspeedtestben1.altibox.net,NO,Norway,Europe,Northern Europe
 185.125.168.212,4,367,Ookla Speedtest Server: speedtest-sandefjord-100g.terrahost.no,NO,Norway,Europe,Northern Europe
 217.149.113.138,4,4738,Ookla Speedtest Server: speedtest.enivest.net,NO,Norway,Europe,Northern Europe
 194.63.249.211,4,2,oslospektrum.no,NO,Norway,Europe,Northern Europe

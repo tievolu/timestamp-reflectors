@@ -205,6 +205,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 202.179.184.85,4,977,DNS Server: gasnet.id,ID,Indonesia,Asia,South-eastern Asia
 202.51.119.42,4,46,DNS Server: gateway-dkp.go.id,ID,Indonesia,Asia,South-eastern Asia
 103.172.172.51,4,4709,DNS Server: globalnet-vid1005-103.172.172.51.skynetwork.id,ID,Indonesia,Asia,South-eastern Asia
+103.172.0.102,4,167,DNS Server: host-102.0.cubiespot.net.id,ID,Indonesia,Asia,South-eastern Asia
 103.148.24.35,4,12,DNS Server: host-103-148-24-35.menaksopal.net.id,ID,Indonesia,Asia,South-eastern Asia
 103.176.182.34,4,25,DNS Server: host-103-176-182-34.mafia.net.id,ID,Indonesia,Asia,South-eastern Asia
 103.134.220.36,4,3,DNS Server: host-103.134.220-36.glosindo.net.id,ID,Indonesia,Asia,South-eastern Asia
@@ -338,6 +339,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 154.41.240.110,4,8,hugot.ph,ID,Indonesia,Asia,South-eastern Asia
 180.178.102.3,4,-12,hypernet.co.id,ID,Indonesia,Asia,South-eastern Asia
 103.245.56.6,4,-935,iain-bone.ac.id,ID,Indonesia,Asia,South-eastern Asia
+36.93.7.181,4,6,iain-manado.ac.id,ID,Indonesia,Asia,South-eastern Asia
 103.15.226.115,4,-21,iainantasari.ac.id,ID,Indonesia,Asia,South-eastern Asia
 163.53.187.123,4,42871,iaincurup.ac.id,ID,Indonesia,Asia,South-eastern Asia
 103.136.17.50,4,-26,iainkediri.ac.id,ID,Indonesia,Asia,South-eastern Asia
@@ -514,6 +516,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 153.92.9.148,4,13,niketn-pascher.fr,ID,Indonesia,Asia,South-eastern Asia
 154.62.111.4,4,14,nowjakarta.co.id,ID,Indonesia,Asia,South-eastern Asia
 103.253.212.250,4,11,nurrochma.com,ID,Indonesia,Asia,South-eastern Asia
+36.66.195.44,4,3,nusamandiri.ac.id,ID,Indonesia,Asia,South-eastern Asia
 35.219.43.86,4,-11,oaktech-nusantara.com,ID,Indonesia,Asia,South-eastern Asia
 103.147.154.188,4,3,ocbcnispventura.com,ID,Indonesia,Asia,South-eastern Asia
 93.127.219.206,4,7441,ojs.co.id,ID,Indonesia,Asia,South-eastern Asia
@@ -529,11 +532,13 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 113.192.30.51,4,244,Ookla Speedtest Server 15194: demak.demakpedia.my.id,ID,Indonesia,Asia,South-eastern Asia
 103.6.166.253,4,520924,Ookla Speedtest Server 15604: ooklaserver.hna.net.id,ID,Indonesia,Asia,South-eastern Asia
 179.61.140.2,4,298,Ookla Speedtest Server 15698: garuda.speedtest.kvm.systems,ID,Indonesia,Asia,South-eastern Asia
+103.169.9.8,4,209,Ookla Speedtest Server 15800: speedtest.jansae.net,ID,Indonesia,Asia,South-eastern Asia
 119.47.90.230,4,50571,Ookla Speedtest Server 16143: kudus.an-group.my.id,ID,Indonesia,Asia,South-eastern Asia
 103.214.187.17,4,271,Ookla Speedtest Server 16267: speedtest.theconnect.net.id,ID,Indonesia,Asia,South-eastern Asia
 103.229.131.1,4,-38649,Ookla Speedtest Server 16351: speedtest.interasolusindo.id,ID,Indonesia,Asia,South-eastern Asia
 103.124.137.169,4,-4763,Ookla Speedtest Server 16360: kediri.cellolink.my.id,ID,Indonesia,Asia,South-eastern Asia
 103.178.153.224,4,280,Ookla Speedtest Server 16363: tte.skylink.web.id,ID,Indonesia,Asia,South-eastern Asia
+103.222.254.209,4,242,Ookla Speedtest Server 16400: speedtest.gadzaly.com,ID,Indonesia,Asia,South-eastern Asia
 202.65.116.73,4,130,Ookla Speedtest Server 16428: stembayo.sch.id,ID,Indonesia,Asia,South-eastern Asia
 202.4.186.17,4,326,Ookla Speedtest Server 16810: speedtest.usk.ac.id,ID,Indonesia,Asia,South-eastern Asia
 103.52.46.122,4,1890,Ookla Speedtest Server 16919: speedtest.primacom.id,ID,Indonesia,Asia,South-eastern Asia
@@ -569,6 +574,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 103.21.95.98,4,210,Ookla Speedtest Server 48161: speedtest.cic.net.id,ID,Indonesia,Asia,South-eastern Asia
 103.236.188.44,4,149,Ookla Speedtest Server 48237: speedtest.victory.net.id,ID,Indonesia,Asia,South-eastern Asia
 103.141.21.248,4,534,Ookla Speedtest Server 48386: bpnspeed.adizka.net.id,ID,Indonesia,Asia,South-eastern Asia
+103.172.1.26,4,274,Ookla Speedtest Server 48457: speedtest.cubiespot.net.id,ID,Indonesia,Asia,South-eastern Asia
 103.145.180.210,4,214,Ookla Speedtest Server 48470: speedtest-banjarmasin.iconpln.net.id,ID,Indonesia,Asia,South-eastern Asia
 103.172.196.66,4,282919,Ookla Speedtest Server 48473: speedtest.csnet.id,ID,Indonesia,Asia,South-eastern Asia
 103.162.205.15,4,313,Ookla Speedtest Server 49178: speedtest2jkt.jiex.co.id,ID,Indonesia,Asia,South-eastern Asia
@@ -607,6 +613,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 103.126.172.8,4,245,Ookla Speedtest Server 57243: bwtest.mms.net.id,ID,Indonesia,Asia,South-eastern Asia
 103.100.172.51,4,337,Ookla Speedtest Server 57251: speedtestmdl.mtmbali.com,ID,Indonesia,Asia,South-eastern Asia
 103.179.217.14,4,555,Ookla Speedtest Server 57415: speedtestsby.ldm.net.id,ID,Indonesia,Asia,South-eastern Asia
+103.165.250.37,4,23138,Ookla Speedtest Server 57624: speedtest.auliasm.net,ID,Indonesia,Asia,South-eastern Asia
 103.186.35.42,4,339,Ookla Speedtest Server 57663: speedtest.viberlink.net.id,ID,Indonesia,Asia,South-eastern Asia
 103.99.27.125,4,395,Ookla Speedtest Server 57717: speedtestjkt.lintasnetwork.net,ID,Indonesia,Asia,South-eastern Asia
 58.147.185.234,4,339,Ookla Speedtest Server 57772: ooklaspeedtest.transhybrid.net.id,ID,Indonesia,Asia,South-eastern Asia
@@ -616,6 +623,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 202.138.224.16,4,6736,Ookla Speedtest Server 58481: speedtest-bdg.melsa.net.id,ID,Indonesia,Asia,South-eastern Asia
 103.120.76.206,4,269,Ookla Speedtest Server 58725: speedtest.jakarta.hacinet.com,ID,Indonesia,Asia,South-eastern Asia
 103.145.34.37,4,362,Ookla Speedtest Server 58756: sptbdl.lintasdata.net.id,ID,Indonesia,Asia,South-eastern Asia
+103.169.9.52,4,341,Ookla Speedtest Server 58785: speedtest.takalink.com,ID,Indonesia,Asia,South-eastern Asia
 103.186.33.4,4,374,Ookla Speedtest Server 58991: speedtest.ali-medianetwork.net,ID,Indonesia,Asia,South-eastern Asia
 103.156.75.20,4,333,Ookla Speedtest Server 59418: speedtest22.trikamedia.com,ID,Indonesia,Asia,South-eastern Asia
 120.89.91.22,4,245,Ookla Speedtest Server 59489: testspeed.gigainternet.my.id,ID,Indonesia,Asia,South-eastern Asia
@@ -740,6 +748,8 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 114.6.41.77,4,26,polinema.ac.id,ID,Indonesia,Asia,South-eastern Asia
 103.214.229.107,4,21,polines.ac.id,ID,Indonesia,Asia,South-eastern Asia
 103.247.9.242,4,41,polines.ac.id,ID,Indonesia,Asia,South-eastern Asia
+202.154.56.16,4,16,polisma.ac.id,ID,Indonesia,Asia,South-eastern Asia
+36.91.26.132,4,37,politanikoe.ac.id,ID,Indonesia,Asia,South-eastern Asia
 202.180.24.30,4,311,politanisamarinda.ac.id,ID,Indonesia,Asia,South-eastern Asia
 103.190.214.42,4,12,poliupg.ac.id,ID,Indonesia,Asia,South-eastern Asia
 103.241.192.17,4,2042,polman-babel.ac.id,ID,Indonesia,Asia,South-eastern Asia
@@ -750,6 +760,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 103.241.24.98,4,-1,polnustar.ac.id,ID,Indonesia,Asia,South-eastern Asia
 103.30.147.113,4,14,poltekganesha.ac.id,ID,Indonesia,Asia,South-eastern Asia
 103.166.147.6,4,44,poltekharber.ac.id,ID,Indonesia,Asia,South-eastern Asia
+36.92.22.174,4,2,poltekkes-banjarmasin.ac.id,ID,Indonesia,Asia,South-eastern Asia
 103.163.138.104,4,31,poltekkes-kaltim.ac.id,ID,Indonesia,Asia,South-eastern Asia
 103.75.137.30,4,11,poltekkes-mataram.ac.id,ID,Indonesia,Asia,South-eastern Asia
 118.97.164.21,4,582,poltekkes-medan.ac.id,ID,Indonesia,Asia,South-eastern Asia
@@ -903,6 +914,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 157.15.77.18,4,33,stttekstil.ac.id,ID,Indonesia,Asia,South-eastern Asia
 103.16.139.10,4,52,studykarona.com,ID,Indonesia,Asia,South-eastern Asia
 203.175.8.93,4,7,sugalilawyer.com,ID,Indonesia,Asia,South-eastern Asia
+202.148.12.230,4,19,tac.link,ID,Indonesia,Asia,South-eastern Asia
 153.92.10.184,4,7,taiwansouji.com.tw,ID,Indonesia,Asia,South-eastern Asia
 153.92.8.21,4,8,tak.ru,ID,Indonesia,Asia,South-eastern Asia
 119.2.43.40,4,-25186343,tamanrasuna.id,ID,Indonesia,Asia,South-eastern Asia
@@ -985,6 +997,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 103.211.161.32,4,1,umrahjannahfirdaus.com,ID,Indonesia,Asia,South-eastern Asia
 103.247.11.100,4,10,umsb.ac.id,ID,Indonesia,Asia,South-eastern Asia
 103.139.25.68,4,7378,umsida.ac.id,ID,Indonesia,Asia,South-eastern Asia
+36.88.21.22,4,1,umsu.ac.id,ID,Indonesia,Asia,South-eastern Asia
 103.245.38.182,4,8,unaimwamena.ac.id,ID,Indonesia,Asia,South-eastern Asia
 210.57.208.253,4,12,unair.ac.id,ID,Indonesia,Asia,South-eastern Asia
 36.50.77.32,4,-15,unanda.ac.id,ID,Indonesia,Asia,South-eastern Asia
@@ -1041,6 +1054,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 103.146.62.243,4,-1,unsulbar.ac.id,ID,Indonesia,Asia,South-eastern Asia
 103.245.72.82,4,8,untad.ac.id,ID,Indonesia,Asia,South-eastern Asia
 103.111.251.59,4,7,untag-sby.ac.id,ID,Indonesia,Asia,South-eastern Asia
+118.97.208.182,4,11,untag-smd.ac.id,ID,Indonesia,Asia,South-eastern Asia
 202.51.209.3,4,-1084,untagsmg.ac.id,ID,Indonesia,Asia,South-eastern Asia
 103.233.102.26,4,740,untama.ac.id,ID,Indonesia,Asia,South-eastern Asia
 103.126.83.4,4,-151681,untan.ac.id,ID,Indonesia,Asia,South-eastern Asia
@@ -1114,6 +1128,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 154.41.240.39,4,10,xosohn.org,ID,Indonesia,Asia,South-eastern Asia
 103.146.203.49,4,1415,yaahowu.id,ID,Indonesia,Asia,South-eastern Asia
 103.55.39.243,4,-92,yapri.ac.id,ID,Indonesia,Asia,South-eastern Asia
+139.255.58.233,4,36,yarsi.ac.id,ID,Indonesia,Asia,South-eastern Asia
 117.54.238.74,4,5,yasunli.co.id,ID,Indonesia,Asia,South-eastern Asia
 103.28.12.168,4,3018,yrama-widya.co.id,ID,Indonesia,Asia,South-eastern Asia
 153.92.11.109,4,11,yuanhang0519.com,ID,Indonesia,Asia,South-eastern Asia

@@ -196,6 +196,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.38.249.42,4,11,bph.pl,PL,Poland,Europe,Eastern Europe
 89.161.149.8,4,11,bpn.com.pl,PL,Poland,Europe,Eastern Europe
 79.96.223.228,4,21,bpp.pl,PL,Poland,Europe,Eastern Europe
+46.248.167.111,4,35,brand24.net,PL,Poland,Europe,Eastern Europe
 89.161.183.141,4,47,brashka.pl,PL,Poland,Europe,Eastern Europe
 185.123.160.70,4,42,brbud.pl,PL,Poland,Europe,Eastern Europe
 91.198.89.38,4,11,brenna-ski.pl,PL,Poland,Europe,Eastern Europe
@@ -466,6 +467,11 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 84.10.21.22,4,297017,DNS Server: 84-10-21-22.static.chello.pl,PL,Poland,Europe,Eastern Europe
 84.10.60.186,4,-3267428445,DNS Server: 84-10-60-186.static.chello.pl,PL,Poland,Europe,Eastern Europe
 84.38.16.146,4,5170,DNS Server: 84-38-16-146.metrolink.pl,PL,Poland,Europe,Eastern Europe
+85.222.104.150,4,49001,DNS Server: 85-222-104-150.dynamic.chello.pl,PL,Poland,Europe,Eastern Europe
+85.222.120.162,4,-84375,DNS Server: 85-222-120-162.dynamic.chello.pl,PL,Poland,Europe,Eastern Europe
+85.222.124.6,4,-33012,DNS Server: 85-222-124-6.dynamic.chello.pl,PL,Poland,Europe,Eastern Europe
+85.222.66.158,4,-683447846,DNS Server: 85-222-66-158.dynamic.chello.pl,PL,Poland,Europe,Eastern Europe
+85.222.94.42,4,30,DNS Server: 85-222-94-42.dynamic.chello.pl,PL,Poland,Europe,Eastern Europe
 86.63.124.78,4,5158,DNS Server: 86-63-124-78.sta.asta-net.com.pl,PL,Poland,Europe,Eastern Europe
 86.63.125.7,4,-1864,DNS Server: 86-63-125-7.sta.asta-net.com.pl,PL,Poland,Europe,Eastern Europe
 86.63.127.182,4,27,DNS Server: 86-63-127-182.sta.asta-net.com.pl,PL,Poland,Europe,Eastern Europe
@@ -552,6 +558,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 88.221.163.91,4,22,DNS Server: a88-221-163-91.deploy.static.akamaitechnologies.com,PL,Poland,Europe,Eastern Europe
 83.17.70.38,4,61852,DNS Server: amo38.internetdsl.tpnet.pl,PL,Poland,Europe,Eastern Europe
 83.17.70.39,4,62055,DNS Server: amo39.internetdsl.tpnet.pl,PL,Poland,Europe,Eastern Europe
+31.0.169.75,4,233727,DNS Server: apn-31-0-169-75.static.gprs.plus.pl,PL,Poland,Europe,Eastern Europe
 46.77.105.229,4,231090,DNS Server: apn-46-77-105-229.static.m2m.netia.pl,PL,Poland,Europe,Eastern Europe
 87.251.254.116,4,163219,DNS Server: apn-87-251-254-116.static.gprs.plus.pl,PL,Poland,Europe,Eastern Europe
 83.17.231.90,4,14356,DNS Server: ast90.internetdsl.tpnet.pl,PL,Poland,Europe,Eastern Europe
@@ -560,6 +567,23 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 81.15.151.6,4,125,DNS Server: boza-wola,PL,Poland,Europe,Eastern Europe
 83.18.232.26,4,49,DNS Server: bwy26.internetdsl.tpnet.pl,PL,Poland,Europe,Eastern Europe
 93.105.142.185,4,5347,DNS Server: c-093105142185.vectranet.pl,PL,Poland,Europe,Eastern Europe
+85.221.161.50,4,97379,DNS Server: c161-50.icpnet.pl,PL,Poland,Europe,Eastern Europe
+85.221.172.18,4,511316,DNS Server: c172-18.icpnet.pl,PL,Poland,Europe,Eastern Europe
+85.221.172.30,4,7112,DNS Server: c172-30.icpnet.pl,PL,Poland,Europe,Eastern Europe
+85.221.176.86,4,81072,DNS Server: c176-86.icpnet.pl,PL,Poland,Europe,Eastern Europe
+85.221.191.177,4,-45543,DNS Server: c191-177.icpnet.pl,PL,Poland,Europe,Eastern Europe
+85.221.196.198,4,9,DNS Server: c196-198.icpnet.pl,PL,Poland,Europe,Eastern Europe
+85.221.199.90,4,8,DNS Server: c199-90.icpnet.pl,PL,Poland,Europe,Eastern Europe
+85.221.206.162,4,28406693,DNS Server: c206-162.icpnet.pl,PL,Poland,Europe,Eastern Europe
+85.221.206.6,4,4719,DNS Server: c206-6.icpnet.pl,PL,Poland,Europe,Eastern Europe
+85.221.216.174,4,-9606,DNS Server: c216-174.icpnet.pl,PL,Poland,Europe,Eastern Europe
+85.221.217.218,4,79430,DNS Server: c217-218.icpnet.pl,PL,Poland,Europe,Eastern Europe
+85.221.226.147,4,-5834,DNS Server: c226-147.icpnet.pl,PL,Poland,Europe,Eastern Europe
+85.221.226.33,4,8,DNS Server: c226-33.icpnet.pl,PL,Poland,Europe,Eastern Europe
+85.221.232.10,4,8874,DNS Server: c232-10.icpnet.pl,PL,Poland,Europe,Eastern Europe
+85.221.234.236,4,130,DNS Server: c234-236.icpnet.pl,PL,Poland,Europe,Eastern Europe
+85.221.241.82,4,3466,DNS Server: c241-82.icpnet.pl,PL,Poland,Europe,Eastern Europe
+85.221.254.3,4,86,DNS Server: c254-3.icpnet.pl,PL,Poland,Europe,Eastern Europe
 176.115.14.63,4,34,DNS Server: c63.14.comtelnet.pl,PL,Poland,Europe,Eastern Europe
 79.110.204.133,4,9016,DNS Server: cathrine.static.korbank.pl,PL,Poland,Europe,Eastern Europe
 213.109.47.229,4,90,DNS Server: chabrowe.korbank.pl,PL,Poland,Europe,Eastern Europe
@@ -610,6 +634,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 83.3.89.186,4,34967,DNS Server: gnl186.internetdsl.tpnet.pl,PL,Poland,Europe,Eastern Europe
 83.3.178.78,4,-36887491,DNS Server: gqw78.internetdsl.tpnet.pl,PL,Poland,Europe,Eastern Europe
 80.52.181.134,4,83268,DNS Server: gwb134.internetdsl.tpnet.pl,PL,Poland,Europe,Eastern Europe
+80.52.206.90,4,13,DNS Server: gxa90.internetdsl.tpnet.pl,PL,Poland,Europe,Eastern Europe
 93.175.162.24,4,4,DNS Server: h162024.psm.pulawy.pl,PL,Poland,Europe,Eastern Europe
 79.98.147.146,4,66,DNS Server: h4F629392.cli.nitronet.pl,PL,Poland,Europe,Eastern Europe
 91.192.166.36,4,4,DNS Server: h9119216636.nm.zetorzeszow.pl,PL,Poland,Europe,Eastern Europe
@@ -692,6 +717,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 81.162.208.105,4,-9924015,DNS Server: host208105.telnetropczyce.pl,PL,Poland,Europe,Eastern Europe
 185.146.97.211,4,24483145,DNS Server: host211.97.gci-net.pl,PL,Poland,Europe,Eastern Europe
 91.203.248.21,4,8,DNS Server: host9120324821.akselnet.pl,PL,Poland,Europe,Eastern Europe
+80.53.94.58,4,38,DNS Server: hq58.internetdsl.tpnet.pl,PL,Poland,Europe,Eastern Europe
 79.188.213.59,4,14,DNS Server: hsf59.internetdsl.tpnet.pl,PL,Poland,Europe,Eastern Europe
 79.189.20.42,4,63,DNS Server: iau42.internetdsl.tpnet.pl,PL,Poland,Europe,Eastern Europe
 79.189.52.202,4,35439,DNS Server: ica202.internetdsl.tpnet.pl,PL,Poland,Europe,Eastern Europe
@@ -838,6 +864,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 89.161.251.154,4,8,domtel-sport.pl,PL,Poland,Europe,Eastern Europe
 94.154.117.179,4,24,domus-sklep.pl,PL,Poland,Europe,Eastern Europe
 51.68.131.165,4,12,donovan.ie,PL,Poland,Europe,Eastern Europe
+46.248.164.29,4,3,dostartu.pl,PL,Poland,Europe,Eastern Europe
 37.233.101.162,4,5073467,dotacje-dla-firm.pl,PL,Poland,Europe,Eastern Europe
 5.252.229.24,4,20,downloadsource.es,PL,Poland,Europe,Eastern Europe
 5.252.229.153,4,5,dowozimy.pl,PL,Poland,Europe,Eastern Europe
@@ -942,6 +969,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 193.178.43.195,4,7,euro26.pl,PL,Poland,Europe,Eastern Europe
 185.72.196.125,4,3,eurobuildcee.com,PL,Poland,Europe,Eastern Europe
 185.69.192.93,4,4,eurofirany.com.pl,PL,Poland,Europe,Eastern Europe
+46.248.165.216,4,5,euroislam.pl,PL,Poland,Europe,Eastern Europe
 94.152.46.133,4,56,euseca.com,PL,Poland,Europe,Eastern Europe
 79.96.74.15,4,32,eventis.pl,PL,Poland,Europe,Eastern Europe
 94.152.49.171,4,-15,ever.eu,PL,Poland,Europe,Eastern Europe
@@ -988,6 +1016,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 51.75.224.49,4,4,fluxhome.com,PL,Poland,Europe,Eastern Europe
 185.36.169.30,4,-1,fmshop.pl,PL,Poland,Europe,Eastern Europe
 89.161.250.162,4,19,foodfakty.pl,PL,Poland,Europe,Eastern Europe
+46.248.166.148,4,-224,foorni.pl,PL,Poland,Europe,Eastern Europe
 87.98.233.198,4,1054,footballbettingtips.info,PL,Poland,Europe,Eastern Europe
 2.57.138.197,4,11,fortisrecovery.pl,PL,Poland,Europe,Eastern Europe
 94.152.164.10,4,-48,forty.pl,PL,Poland,Europe,Eastern Europe
@@ -1225,6 +1254,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 89.161.157.120,4,6,ipiss.com.pl,PL,Poland,Europe,Eastern Europe
 217.74.71.136,4,33,iplsc.com,PL,Poland,Europe,Eastern Europe
 194.110.77.157,4,350,iplus.com.pl,PL,Poland,Europe,Eastern Europe
+46.248.170.90,4,46,ipn.gov.pl,PL,Poland,Europe,Eastern Europe
 145.239.82.66,4,16,ipnet.ua,PL,Poland,Europe,Eastern Europe
 188.165.23.19,4,60,ipolmex.com,PL,Poland,Europe,Eastern Europe
 94.152.195.110,4,-11,ipoz.pl,PL,Poland,Europe,Eastern Europe
@@ -1594,6 +1624,8 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.208.164.36,4,17,muzeumwp.pl,PL,Poland,Europe,Eastern Europe
 2.57.138.200,4,22,muzeumwspolczesne.pl,PL,Poland,Europe,Eastern Europe
 212.182.125.67,4,12,muzeumzamoyskich.pl,PL,Poland,Europe,Eastern Europe
+78.8.151.68,4,21,muzyczny.pl,PL,Poland,Europe,Eastern Europe
+78.8.151.67,4,1,muzyczny.pl,PL,Poland,Europe,Eastern Europe
 188.128.201.192,4,12,mwk.com.pl,PL,Poland,Europe,Eastern Europe
 46.41.159.221,4,28,my-concept.pl,PL,Poland,Europe,Eastern Europe
 46.41.159.171,4,10,my-concept.pl,PL,Poland,Europe,Eastern Europe
@@ -1648,6 +1680,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 195.78.66.214,4,3,newsy.co.pl,PL,Poland,Europe,Eastern Europe
 54.38.50.40,4,9,newtemplates.ru,PL,Poland,Europe,Eastern Europe
 195.28.0.45,4,3,nexterio.pl,PL,Poland,Europe,Eastern Europe
+78.9.172.5,4,-1,ng.pl,PL,Poland,Europe,Eastern Europe
 54.38.195.113,4,4,ngo.pl,PL,Poland,Europe,Eastern Europe
 51.83.231.141,4,9,nice.pl,PL,Poland,Europe,Eastern Europe
 89.161.253.209,4,18,nid.pl,PL,Poland,Europe,Eastern Europe
@@ -1705,6 +1738,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 195.149.226.172,4,-28,oit.pl,PL,Poland,Europe,Eastern Europe
 185.36.169.158,4,36,ojcow.pl,PL,Poland,Europe,Eastern Europe
 80.85.224.76,4,4,okay.pl,PL,Poland,Europe,Eastern Europe
+46.248.165.108,4,2,oknoplast.com.pl,PL,Poland,Europe,Eastern Europe
 213.189.54.98,4,168,okwritemyessay.com,PL,Poland,Europe,Eastern Europe
 79.96.2.241,4,9,oldent.org,PL,Poland,Europe,Eastern Europe
 94.152.13.100,4,-21,olimpia-kowary.pl,PL,Poland,Europe,Eastern Europe
@@ -1767,6 +1801,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 195.88.115.106,4,256,Ookla Speedtest Server 20470: speedtest.hypernet.pl,PL,Poland,Europe,Eastern Europe
 93.159.185.5,4,142686,Ookla Speedtest Server 20983: speedtest.dsk-kielce.pl,PL,Poland,Europe,Eastern Europe
 91.212.242.6,4,272,Ookla Speedtest Server 21097: speedtest.aplitt.net,PL,Poland,Europe,Eastern Europe
+80.51.20.253,4,254,Ookla Speedtest Server 21112: speedtest.pgnet.com.pl,PL,Poland,Europe,Eastern Europe
 91.228.136.37,4,276,Ookla Speedtest Server 21212: speedtest.mpcnet.pl,PL,Poland,Europe,Eastern Europe
 193.33.175.16,4,249,Ookla Speedtest Server 21384: speedtest2.czajen.pl,PL,Poland,Europe,Eastern Europe
 109.233.89.131,4,-3406485,Ookla Speedtest Server 21615: speedtest.jmdi.pl,PL,Poland,Europe,Eastern Europe
@@ -2018,6 +2053,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 94.152.39.0,4,21,przemysl24.pl,PL,Poland,Europe,Eastern Europe
 91.225.28.134,4,47,przemyslkomornik.pl,PL,Poland,Europe,Eastern Europe
 94.152.181.7,4,45,przymorzu.pl,PL,Poland,Europe,Eastern Europe
+46.248.170.89,4,6,przystanekhistoria.pl,PL,Poland,Europe,Eastern Europe
 94.152.8.25,4,-18,przystaneknida.pl,PL,Poland,Europe,Eastern Europe
 195.78.67.30,4,8,psew.pl,PL,Poland,Europe,Eastern Europe
 150.254.186.218,4,45,psnc.pl,PL,Poland,Europe,Eastern Europe
@@ -2033,6 +2069,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 62.129.198.224,4,18,pti.org.pl,PL,Poland,Europe,Eastern Europe
 46.242.129.3,4,11,ptkardio.pl,PL,Poland,Europe,Eastern Europe
 193.143.77.18,4,12,ptta.pl,PL,Poland,Europe,Eastern Europe
+213.77.35.98,4,31,pttk.pl,PL,Poland,Europe,Eastern Europe
 185.208.164.46,4,10,publicat.pl,PL,Poland,Europe,Eastern Europe
 31.186.81.235,4,66,publisherspanel.com,PL,Poland,Europe,Eastern Europe
 212.85.97.154,4,50,puck.pl,PL,Poland,Europe,Eastern Europe
@@ -2264,6 +2301,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 109.95.159.39,4,70,smoglab.pl,PL,Poland,Europe,Eastern Europe
 79.96.133.112,4,8,smsbbts.pl,PL,Poland,Europe,Eastern Europe
 176.119.46.226,4,2,smseagle.eu,PL,Poland,Europe,Eastern Europe
+178.238.240.130,4,7,smslowianin.pl,PL,Poland,Europe,Eastern Europe
 91.199.101.105,4,3,smyk.com,PL,Poland,Europe,Eastern Europe
 91.199.101.104,4,9,smyk.com,PL,Poland,Europe,Eastern Europe
 94.23.88.105,4,3,sniperghostwarrior3.com,PL,Poland,Europe,Eastern Europe
@@ -2365,6 +2403,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 51.77.42.79,4,4,svforum.pl,PL,Poland,Europe,Eastern Europe
 176.31.6.195,4,7,svmlemag.fr,PL,Poland,Europe,Eastern Europe
 176.31.6.193,4,22,svmlemag.fr,PL,Poland,Europe,Eastern Europe
+78.11.16.235,4,2,swi.pl,PL,Poland,Europe,Eastern Europe
 2.57.137.18,4,12,swiatczytnikow.pl,PL,Poland,Europe,Eastern Europe
 109.125.199.37,4,203627,swiatkoni.pl,PL,Poland,Europe,Eastern Europe
 185.135.89.65,4,9,swiatksiazki.pl,PL,Poland,Europe,Eastern Europe
@@ -2599,6 +2638,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.123.160.72,4,9,warszawa24.ovh,PL,Poland,Europe,Eastern Europe
 146.59.20.160,4,8407,wartapoznan.pl,PL,Poland,Europe,Eastern Europe
 145.239.91.219,4,3,wartobycdobrym.pl,PL,Poland,Europe,Eastern Europe
+80.51.145.226,4,13,wartowiedziec.pl,PL,Poland,Europe,Eastern Europe
 109.95.158.227,4,5,waszaedukacja.pl,PL,Poland,Europe,Eastern Europe
 46.242.239.104,4,8,wawataxi.pl,PL,Poland,Europe,Eastern Europe
 62.121.136.161,4,6,wawel.com.pl,PL,Poland,Europe,Eastern Europe
@@ -2674,6 +2714,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 89.161.253.230,4,10,wkd.com.pl,PL,Poland,Europe,Eastern Europe
 80.72.42.228,4,10481090,wlaczpolske.pl,PL,Poland,Europe,Eastern Europe
 46.41.135.143,4,9,wlkp.pl,PL,Poland,Europe,Eastern Europe
+80.48.69.254,4,3,wlodawa.pl,PL,Poland,Europe,Eastern Europe
 79.96.3.84,4,13,wmasg.pl,PL,Poland,Europe,Eastern Europe
 188.68.252.48,4,16,wmeritum.pl,PL,Poland,Europe,Eastern Europe
 193.16.47.93,4,-295,wnet.ua,PL,Poland,Europe,Eastern Europe
@@ -2818,6 +2859,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 128.204.218.97,4,3,zpodworkanastadion.pl,PL,Poland,Europe,Eastern Europe
 193.177.165.17,4,3,zpopk.pl,PL,Poland,Europe,Eastern Europe
 79.96.115.198,4,6,zpp.net.pl,PL,Poland,Europe,Eastern Europe
+80.51.145.225,4,4,zpp.pl,PL,Poland,Europe,Eastern Europe
 193.17.184.242,4,2,zprp.pl,PL,Poland,Europe,Eastern Europe
 46.242.240.17,4,8,zs1goleniow.edu.pl,PL,Poland,Europe,Eastern Europe
 94.152.145.97,4,-12,zsmarcinkowice.edu.pl,PL,Poland,Europe,Eastern Europe

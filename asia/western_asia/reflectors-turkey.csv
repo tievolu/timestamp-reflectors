@@ -119,11 +119,38 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 78.189.229.223,4,31598,DNS Server: 78.189.229.223.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
 78.189.46.123,4,-6405,DNS Server: 78.189.46.123.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
 81.214.190.74,4,8493,DNS Server: 81.214.190.74.dynamic.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+85.102.10.64,4,-14715,DNS Server: 85.102.10.64.dynamic.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+85.105.18.139,4,122371,DNS Server: 85.105.18.139.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+85.105.81.252,4,5,DNS Server: 85.105.81.252.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+85.97.195.137,4,141,DNS Server: 85.97.195.137.dynamic.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+85.98.40.40,4,211641,DNS Server: 85.98.40.40.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+85.99.244.122,4,-2955,DNS Server: 85.99.244.122.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+85.99.244.74,4,87792,DNS Server: 85.99.244.74.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+88.225.219.169,4,-117,DNS Server: 88.225.219.169.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+88.225.232.205,4,12,DNS Server: 88.225.232.205.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+88.247.165.243,4,102,DNS Server: 88.247.165.243.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+88.247.20.13,4,16053,DNS Server: 88.247.20.13.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+88.248.51.121,4,22191,DNS Server: 88.248.51.121.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+88.248.56.216,4,27,DNS Server: 88.248.56.216.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+88.248.99.53,4,-10798832,DNS Server: 88.248.99.53.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+88.249.166.158,4,12,DNS Server: 88.249.166.158.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+88.249.37.14,4,13142,DNS Server: 88.249.37.14.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+88.249.41.163,4,-15,DNS Server: 88.249.41.163.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+88.249.58.86,4,-8566,DNS Server: 88.249.58.86.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+88.250.207.65,4,-554518624,DNS Server: 88.250.207.65.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+88.250.238.6,4,-133,DNS Server: 88.250.238.6.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+88.250.63.46,4,3024,DNS Server: 88.250.63.46.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
 93.177.103.194,4,61,DNS Server: 93-177-103-194.hostlab.net.tr,TR,Turkey,Asia,Western Asia
+95.9.250.227,4,-2032,DNS Server: 95.9.250.227.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+95.9.37.245,4,10,DNS Server: 95.9.37.245.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
+95.9.85.219,4,43,DNS Server: 95.9.85.219.static.ttnet.com.tr,TR,Turkey,Asia,Western Asia
 2.59.119.25,4,28,DNS Server: buycryptoservices.com,TR,Turkey,Asia,Western Asia
 93.184.144.5,4,64634,DNS Server: destek.sistemhost.com,TR,Turkey,Asia,Western Asia
+195.33.213.254,4,4,DNS Server: host-195-33-213-254.reverse.superonline.net,TR,Turkey,Asia,Western Asia
 212.57.11.185,4,4,DNS Server: host-212-57-11-185.reverse.superonline.net,TR,Turkey,Asia,Western Asia
 212.57.11.190,4,3,DNS Server: host-212-57-11-190.reverse.superonline.net,TR,Turkey,Asia,Western Asia
+213.14.11.162,4,144,DNS Server: host-213-14-11-162.reverse.superonline.net,TR,Turkey,Asia,Western Asia
+213.14.66.51,4,102,DNS Server: host-213-14-66-51.reverse.superonline.net,TR,Turkey,Asia,Western Asia
 213.153.223.21,4,23,DNS Server: host-213-153-223-21.reverse.superonline.net,TR,Turkey,Asia,Western Asia
 213.153.224.28,4,6,DNS Server: host-213-153-224-28.reverse.superonline.net,TR,Turkey,Asia,Western Asia
 213.153.224.29,4,3,DNS Server: host-213-153-224-29.reverse.superonline.net,TR,Turkey,Asia,Western Asia
@@ -132,7 +159,11 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 91.93.153.68,4,32,DNS Server: host-91-93-153-68.reverse.superonline.net,TR,Turkey,Asia,Western Asia
 91.93.153.73,4,99,DNS Server: host-91-93-153-73.reverse.superonline.net,TR,Turkey,Asia,Western Asia
 91.93.153.74,4,29317,DNS Server: host-91-93-153-74.reverse.superonline.net,TR,Turkey,Asia,Western Asia
+92.44.191.15,4,2218,DNS Server: host-92-44-191-15.reverse.superonline.net,TR,Turkey,Asia,Western Asia
+92.44.44.184,4,498,DNS Server: host-92-44-44-184.reverse.superonline.net,TR,Turkey,Asia,Western Asia
+95.9.81.100,4,392,DNS Server: mail.corobo.com,TR,Turkey,Asia,Western Asia
 31.210.69.163,4,86,DNS Server: news.superkuladebulten.com,TR,Turkey,Asia,Western Asia
+176.53.10.136,4,123,DNS Server: server-176.53.10.136.as42926.net,TR,Turkey,Asia,Western Asia
 78.111.106.90,4,609177,DNS Server: static-78-111-106-90.fibersunucu.com.tr,TR,Turkey,Asia,Western Asia
 78.111.106.91,4,609180,DNS Server: static-78-111-106-91.fibersunucu.com.tr,TR,Turkey,Asia,Western Asia
 89.252.137.67,4,734,doganlogistic.com,TR,Turkey,Asia,Western Asia
@@ -264,6 +295,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 80.253.255.86,4,139,kilicalipasahamami.com,TR,Turkey,Asia,Western Asia
 217.116.199.238,4,176,kitabi.gen.tr,TR,Turkey,Asia,Western Asia
 93.177.100.132,4,3,kitapsec.com,TR,Turkey,Asia,Western Asia
+92.45.25.135,4,-636875,kitapyurdu.com,TR,Turkey,Asia,Western Asia
 45.141.151.84,4,14,kktcgecealemi.com,TR,Turkey,Asia,Western Asia
 185.85.191.185,4,1058,klsklaset.com.tr,TR,Turkey,Asia,Western Asia
 195.244.63.20,4,-260342,klup.com.tr,TR,Turkey,Asia,Western Asia
@@ -277,6 +309,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 195.175.54.82,4,-79,kutahya.bel.tr,TR,Turkey,Asia,Western Asia
 178.210.174.16,4,27484,kuzeycorapbaski.com,TR,Turkey,Asia,Western Asia
 78.142.208.58,4,447,kwturkiye.com,TR,Turkey,Asia,Western Asia
+212.175.35.61,4,6,kyrenia.edu.tr,TR,Turkey,Asia,Western Asia
 2.56.153.33,4,952,lapintasergeblanco.com,TR,Turkey,Asia,Western Asia
 93.113.63.158,4,814879,lefzen.com,TR,Turkey,Asia,Western Asia
 185.85.205.31,4,10,lezzetci.com,TR,Turkey,Asia,Western Asia
@@ -308,9 +341,11 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 2.19.193.67,4,21,millipiyangoonline.com,TR,Turkey,Asia,Western Asia
 5.100.156.159,4,4,minedit.com,TR,Turkey,Asia,Western Asia
 5.100.156.37,4,8,minedit.com,TR,Turkey,Asia,Western Asia
+185.9.38.139,4,72,mircalemi.net,TR,Turkey,Asia,Western Asia
 185.106.209.3,4,2204,mircforumlari.net,TR,Turkey,Asia,Western Asia
 213.159.30.159,4,8,misyonkredi.com,TR,Turkey,Asia,Western Asia
 5.250.248.27,4,1,mlsaturkey.com,TR,Turkey,Asia,Western Asia
+178.18.199.150,4,189676,mshowto.org,TR,Turkey,Asia,Western Asia
 89.252.141.23,4,262,msreklam.com.tr,TR,Turkey,Asia,Western Asia
 185.118.143.26,4,6,mtasaturkiye.com,TR,Turkey,Asia,Western Asia
 37.247.114.198,4,56376,muhasebetr.com,TR,Turkey,Asia,Western Asia
@@ -324,6 +359,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 31.186.11.138,4,8,namikazeforum.com,TR,Turkey,Asia,Western Asia
 176.53.12.16,4,2,namlipastirma.com.tr,TR,Turkey,Asia,Western Asia
 185.165.46.83,4,4,nationalturk.com,TR,Turkey,Asia,Western Asia
+178.18.193.142,4,6,neolokal.com,TR,Turkey,Asia,Western Asia
 78.142.210.53,4,1068,nesinkoyleri.org,TR,Turkey,Asia,Western Asia
 45.151.250.18,4,1075,nikeoutletstores.org,TR,Turkey,Asia,Western Asia
 85.95.241.238,4,81938,nkfu.com,TR,Turkey,Asia,Western Asia
@@ -347,6 +383,8 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 194.5.236.131,4,13,onlinesunucu.com,TR,Turkey,Asia,Western Asia
 93.184.146.4,4,-1566008,Ookla Speedtest Server 4106: speedtest.fixnet.com.tr,TR,Turkey,Asia,Western Asia
 95.173.191.102,4,265926,Ookla Speedtest Server 6507: sp1.ni.net.tr,TR,Turkey,Asia,Western Asia
+176.235.153.160,4,373,Ookla Speedtest Server 13810: speedcumra.lodosnet.com,TR,Turkey,Asia,Western Asia
+176.236.239.15,4,197,Ookla Speedtest Server 15566: speedilgin.lodosnet.com,TR,Turkey,Asia,Western Asia
 217.195.202.233,4,129,Ookla Speedtest Server 15600: speedtest.sunucumerkezim.com,TR,Turkey,Asia,Western Asia
 149.34.192.16,4,69,Ookla Speedtest Server 15847: speedosmancik.lodosnet.com,TR,Turkey,Asia,Western Asia
 38.156.75.200,4,-6873,Ookla Speedtest Server 16244: speed.teraisp.com,TR,Turkey,Asia,Western Asia
@@ -365,9 +403,11 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 45.84.220.90,4,377,Ookla Speedtest Server 43748: speedtest.euronet.net.tr,TR,Turkey,Asia,Western Asia
 84.32.231.36,4,357,Ookla Speedtest Server 44822: speedtest.awmbilisim.com,TR,Turkey,Asia,Western Asia
 5.2.80.47,4,109,Ookla Speedtest Server 47198: speedtest.alastyr.com,TR,Turkey,Asia,Western Asia
+213.14.19.190,4,-21332,Ookla Speedtest Server 50529: speedtest.syriacom.co,TR,Turkey,Asia,Western Asia
 212.174.87.104,4,283,Ookla Speedtest Server 51537: furat.xyz,TR,Turkey,Asia,Western Asia
 213.238.172.107,4,267,Ookla Speedtest Server 51661: speedtest.kapteyan.com.tr,TR,Turkey,Asia,Western Asia
 185.248.14.4,4,203,Ookla Speedtest Server 53195: speedtest1.atlantisnet.com.tr,TR,Turkey,Asia,Western Asia
+176.236.159.217,4,253,Ookla Speedtest Server 53216: speedtest.sarnettelekom.net.tr,TR,Turkey,Asia,Western Asia
 146.103.26.10,4,2051,Ookla Speedtest Server 53547: speedtest.ekiphost.com,TR,Turkey,Asia,Western Asia
 185.208.101.226,4,178,Ookla Speedtest Server 53659: aboalitik1.mooo.com,TR,Turkey,Asia,Western Asia
 93.177.102.133,4,247,Ookla Speedtest Server 54606: speedtest2.keyubu.com,TR,Turkey,Asia,Western Asia
@@ -375,6 +415,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.128.114.4,4,139,Ookla Speedtest Server 55519: speedtest.dynet.net,TR,Turkey,Asia,Western Asia
 188.132.222.86,4,11741,Ookla Speedtest Server 56515: speed.alnajjar.tech,TR,Turkey,Asia,Western Asia
 188.132.150.50,4,202,Ookla Speedtest Server 57821: harem-net.org,TR,Turkey,Asia,Western Asia
+176.235.182.110,4,354,Ookla Speedtest Server 58398: yasarnet.xyz,TR,Turkey,Asia,Western Asia
 91.224.170.73,4,317,Ookla Speedtest Server 58404: speed.flix.net.tr,TR,Turkey,Asia,Western Asia
 195.87.202.82,4,339,Ookla Speedtest Server 58979: speed.radius2online.com.tr,TR,Turkey,Asia,Western Asia
 176.235.86.133,4,353,Ookla Speedtest Server 59020: speed1.yasarnet.xyz,TR,Turkey,Asia,Western Asia
@@ -398,12 +439,14 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 188.41.242.24,4,338,Ookla Speedtest Server: ank1speedtest.turktelekom.com.tr,TR,Turkey,Asia,Western Asia
 178.20.231.218,4,297,Ookla Speedtest Server: speedtest.spd.net.tr,TR,Turkey,Asia,Western Asia
 178.20.231.220,4,-59,Ookla Speedtest Server: speedtest.spd.net.tr,TR,Turkey,Asia,Western Asia
+46.196.229.222,4,-1,Ookla Speedtest Server: st-atakoy-1.turksatkablo.com.tr,TR,Turkey,Asia,Western Asia
 194.1.192.82,4,18,opencart-tr.com,TR,Turkey,Asia,Western Asia
 5.100.156.187,4,89,opportunitiesforyouth.org,TR,Turkey,Asia,Western Asia
 5.100.156.80,4,9,opportunitiesforyouth.org,TR,Turkey,Asia,Western Asia
 31.7.35.106,4,17,ore-met.com,TR,Turkey,Asia,Western Asia
 5.2.84.21,4,103,orjinalkutu.com,TR,Turkey,Asia,Western Asia
 45.84.189.8,4,468,otelgazetesi.com,TR,Turkey,Asia,Western Asia
+178.18.193.137,4,6,ozsever.com.tr,TR,Turkey,Asia,Western Asia
 104.247.165.3,4,52,ozsoynakliyat.com,TR,Turkey,Asia,Western Asia
 31.186.11.135,4,7,parandijital.com,TR,Turkey,Asia,Western Asia
 104.247.162.226,4,49911,patidestek.com,TR,Turkey,Asia,Western Asia
@@ -474,6 +517,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 78.135.105.7,4,-233,sosyalboost.com.tr,TR,Turkey,Asia,Western Asia
 185.84.182.83,4,48,sosyalmedyahaber.com,TR,Turkey,Asia,Western Asia
 2.56.152.252,4,931,spice9columbus.com,TR,Turkey,Asia,Western Asia
+212.156.70.82,4,27,sportoto.gov.tr,TR,Turkey,Asia,Western Asia
 5.100.156.0,4,33,steelpier.com,TR,Turkey,Asia,Western Asia
 5.100.156.47,4,47,stonetoss.com,TR,Turkey,Asia,Western Asia
 195.206.236.4,4,4,stools.net,TR,Turkey,Asia,Western Asia
@@ -521,7 +565,9 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 193.140.99.42,4,21,trdizin.gov.tr,TR,Turkey,Asia,Western Asia
 45.84.189.3,4,475,trezor-wallet.at,TR,Turkey,Asia,Western Asia
 78.142.211.32,4,2100957,tripuck.com,TR,Turkey,Asia,Western Asia
+176.235.206.134,4,4,tsf.org.tr,TR,Turkey,Asia,Western Asia
 78.142.210.105,4,-214,ttgv.org.tr,TR,Turkey,Asia,Western Asia
+212.156.70.122,4,-25,tuba.gov.tr,TR,Turkey,Asia,Western Asia
 45.151.249.164,4,725,tugcularnakliyat.com,TR,Turkey,Asia,Western Asia
 185.179.24.7,4,-1826008,tumteknoloji.com,TR,Turkey,Asia,Western Asia
 185.81.155.88,4,347345,turasmobilya.com,TR,Turkey,Asia,Western Asia

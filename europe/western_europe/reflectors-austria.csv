@@ -89,6 +89,10 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 78.132.50.222,4,-15726101,DNS Server: 078132050222.public.t-mobile.at,AT,Austria,Europe,Western Europe
 78.132.106.136,4,2,DNS Server: 078132106136.public.t-mobile.at,AT,Austria,Europe,Western Europe
 194.24.138.78,4,4,DNS Server: 194.24.138.78.wireless.dyn.drei.com,AT,Austria,Europe,Western Europe
+195.192.106.49,4,5348,DNS Server: 195-192-106-49.dyn.cablelink.at,AT,Austria,Europe,Western Europe
+195.192.18.201,4,220,DNS Server: 195-192-18-201.stat.cablelink.at,AT,Austria,Europe,Western Europe
+195.192.8.98,4,-2143643808,DNS Server: 195-192-8-98.stat.cablelink.at,AT,Austria,Europe,Western Europe
+195.192.86.170,4,11,DNS Server: 195-192-86-170.dyn.cablelink.at,AT,Austria,Europe,Western Europe
 2.56.163.36,4,71868,DNS Server: 2.56.163.36.dyn.kraftcom.at,AT,Austria,Europe,Western Europe
 212.236.18.126,4,101,DNS Server: 212-236-018-126.telecom5.net,AT,Austria,Europe,Western Europe
 151.236.4.50,4,4,DNS Server: 50-4-236-151.static.edis.at,AT,Austria,Europe,Western Europe
@@ -101,6 +105,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 82.194.131.72,4,33898,DNS Server: 82-194-131-72.dyn.salzburg-online.at,AT,Austria,Europe,Western Europe
 83.65.242.41,4,16,DNS Server: 83-65-242-41.static.upcbusiness.at,AT,Austria,Europe,Western Europe
 89.185.98.109,4,2,DNS Server: 89.185.98.109.net.netplanet.at,AT,Austria,Europe,Western Europe
+91.115.246.156,4,-1057,DNS Server: 91-115-246-156.adsl.highway.telekom.at,AT,Austria,Europe,Western Europe
 91.133.78.17,4,100,DNS Server: 91-133-78-17.stat.cablelink.at,AT,Austria,Europe,Western Europe
 94.136.99.250,4,5,DNS Server: 94-136-99-250.static.net4you.net,AT,Austria,Europe,Western Europe
 92.39.169.159,4,33038,DNS Server: customer.kabel-braunau.tv,AT,Austria,Europe,Western Europe
@@ -130,6 +135,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 193.58.164.15,4,90,erlebnistherme-zillertal.at,AT,Austria,Europe,Western Europe
 5.183.217.106,4,21,eurospine.org,AT,Austria,Europe,Western Europe
 92.42.139.5,4,9,evermeet.cx,AT,Austria,Europe,Western Europe
+80.243.171.226,4,288345,eww.at,AT,Austria,Europe,Western Europe
 38.180.59.132,4,9,explay.ru,AT,Austria,Europe,Western Europe
 94.247.146.105,4,4,fahrradwien.at,AT,Austria,Europe,Western Europe
 193.171.119.194,4,6,fh-kaernten.at,AT,Austria,Europe,Western Europe
@@ -197,6 +203,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 91.221.138.142,4,12,impulstanz.com,AT,Austria,Europe,Western Europe
 185.37.106.106,4,51,inits.at,AT,Austria,Europe,Western Europe
 82.150.218.3,4,49,innsbruck.info,AT,Austria,Europe,Western Europe
+212.126.64.28,4,6,internic.at,AT,Austria,Europe,Western Europe
 93.189.24.207,4,4,ipax.at,AT,Austria,Europe,Western Europe
 78.142.177.118,4,7,ipv6-spider.com,AT,Austria,Europe,Western Europe
 193.170.194.206,4,3,irational.org,AT,Austria,Europe,Western Europe
@@ -311,6 +318,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 87.247.212.71,4,238,Ookla Speedtest Server 6317: speedtest.telfs.com,AT,Austria,Europe,Western Europe
 94.136.28.254,4,436,Ookla Speedtest Server 7412: speedtest.kapper.net,AT,Austria,Europe,Western Europe
 193.187.212.6,4,323,Ookla Speedtest Server 12390: speedtest.a1.net,AT,Austria,Europe,Western Europe
+80.121.203.250,4,331,Ookla Speedtest Server 14296: speedtest.lucas.company,AT,Austria,Europe,Western Europe
 185.159.200.114,4,178,Ookla Speedtest Server 16161: speedtest-vix.cosys.cc,AT,Austria,Europe,Western Europe
 185.211.217.25,4,304,Ookla Speedtest Server 16472: speedtest.ama-networx.net,AT,Austria,Europe,Western Europe
 62.99.138.105,4,407,Ookla Speedtest Server 35566: speed.g.ml-net.at,AT,Austria,Europe,Western Europe
@@ -386,6 +394,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.51.8.82,4,2,schweizerhaus.at,AT,Austria,Europe,Western Europe
 185.51.8.90,4,26,sciencepark.at,AT,Austria,Europe,Western Europe
 146.185.92.40,4,-7,sciencetaskforce.ch,AT,Austria,Europe,Western Europe
+185.228.151.164,4,25,scra.at,AT,Austria,Europe,Western Europe
 37.252.250.172,4,3,scriptics.com,AT,Austria,Europe,Western Europe
 152.53.16.45,4,8,searx.be,AT,Austria,Europe,Western Europe
 83.218.168.152,4,37,secnd.me,AT,Austria,Europe,Western Europe
@@ -411,11 +420,13 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 37.252.187.168,4,27,sparklingscience.at,AT,Austria,Europe,Western Europe
 94.136.22.155,4,23,sportdata.org,AT,Austria,Europe,Western Europe
 213.145.225.90,4,54,sportlive.at,AT,Austria,Europe,Western Europe
+62.116.23.99,4,18,sra.at,AT,Austria,Europe,Western Europe
 5.183.217.155,4,3,srs.at,AT,Austria,Europe,Western Europe
 5.183.217.39,4,32,stanna.at,AT,Austria,Europe,Western Europe
 213.145.225.24,4,60,starlinger.com,AT,Austria,Europe,Western Europe
 195.190.26.242,4,52,starmovie.at,AT,Austria,Europe,Western Europe
 195.190.26.241,4,36,starmovie.at,AT,Austria,Europe,Western Europe
+80.123.128.10,4,62,steinbauer.cc,AT,Austria,Europe,Western Europe
 81.223.232.90,4,0,stephanscom.at,AT,Austria,Europe,Western Europe
 77.75.21.32,4,78,steyr-arms.com,AT,Austria,Europe,Western Europe
 195.190.26.234,4,2,stiegl.at,AT,Austria,Europe,Western Europe
@@ -423,6 +434,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 37.252.187.41,4,25,stift-st-florian.at,AT,Austria,Europe,Western Europe
 62.99.143.66,4,5,stifterhaus.at,AT,Austria,Europe,Western Europe
 94.247.146.82,4,2,stipendium.at,AT,Austria,Europe,Western Europe
+85.31.14.41,4,-8392806,stleonhard.at,AT,Austria,Europe,Western Europe
 93.189.28.229,4,6,stocker-verlag.com,AT,Austria,Europe,Western Europe
 178.255.156.84,4,11,stoos-muotatal.ch,AT,Austria,Europe,Western Europe
 37.252.186.144,4,34,storyclash.com,AT,Austria,Europe,Western Europe

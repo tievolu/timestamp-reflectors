@@ -19,6 +19,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.81.4.127,4,7,a21italy.it,IT,Italy,Europe,Southern Europe
 5.2.89.15,4,348848,a3exp.com,ES,Spain,Europe,Southern Europe
 185.58.73.239,4,8,aacihealthcare.com,HR,Croatia,Europe,Southern Europe
+185.21.118.104,4,36,aasfn.sm,SM,San Marino,Europe,Southern Europe
 185.47.244.35,4,18,abadiadesilos.es,ES,Spain,Europe,Southern Europe
 5.135.195.81,4,-19,abandonware-france.org,ES,Spain,Europe,Southern Europe
 5.196.169.220,4,5,abasiccurriculum.com,ES,Spain,Europe,Southern Europe
@@ -104,6 +105,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 194.79.57.58,4,4,aiafood.com,IT,Italy,Europe,Southern Europe
 77.39.208.70,4,9,aicel.org,IT,Italy,Europe,Southern Europe
 193.70.57.168,4,13,aididasyeezy.org.uk,IT,Italy,Europe,Southern Europe
+185.21.118.117,4,6,aiditalia.org,SM,San Marino,Europe,Southern Europe
 212.235.189.58,4,5,ailab.si,SI,Slovenia,Europe,Southern Europe
 83.240.239.145,4,13,aima.gov.pt,PT,Portugal,Europe,Southern Europe
 86.107.36.84,4,4360,aiom.it,IT,Italy,Europe,Southern Europe
@@ -127,6 +129,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 217.116.16.252,4,-1,alcazardesanjuan.es,ES,Spain,Europe,Southern Europe
 164.138.208.173,4,17,alcazardesegovia.com,ES,Spain,Europe,Southern Europe
 82.194.72.52,4,1846,alcazarsevilla.org,ES,Spain,Europe,Southern Europe
+77.227.201.23,4,-21,alcoi.org,ES,Spain,Europe,Southern Europe
 85.159.150.38,4,11,alde.eu,IT,Italy,Europe,Southern Europe
 87.98.227.17,4,4,aldeasabandonadas.com,ES,Spain,Europe,Southern Europe
 185.118.56.167,4,-2,aldeasinfantiles.es,ES,Spain,Europe,Southern Europe
@@ -159,6 +162,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 94.46.45.147,4,36,alxmedia.se,ES,Spain,Europe,Southern Europe
 164.138.208.187,4,5,alzfae.org,ES,Spain,Europe,Southern Europe
 51.38.169.100,4,5,amarehotels.com,ES,Spain,Europe,Southern Europe
+195.231.84.136,4,6,amathsdictionaryforkids.com,IT,Italy,Europe,Southern Europe
 185.148.116.235,4,98,ambientediritto.it,IT,Italy,Europe,Southern Europe
 94.46.170.232,4,7,ambitur.pt,PT,Portugal,Europe,Southern Europe
 80.88.87.160,4,177,ambrogiorobot.com,IT,Italy,Europe,Southern Europe
@@ -184,6 +188,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 109.71.40.14,4,30,anesaportugal.org,PT,Portugal,Europe,Southern Europe
 80.88.87.232,4,176,anev.org,IT,Italy,Europe,Southern Europe
 37.156.244.103,4,36,anfia.it,IT,Italy,Europe,Southern Europe
+151.2.101.57,4,2935,anica.it,IT,Italy,Europe,Southern Europe
 152.89.234.70,4,19,animateka.si,SI,Slovenia,Europe,Southern Europe
 185.156.219.10,4,13,anipedia.net,ES,Spain,Europe,Southern Europe
 54.37.100.37,4,12,anit.it,IT,Italy,Europe,Southern Europe
@@ -231,8 +236,10 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 46.16.62.251,4,53,ardeola.org,ES,Spain,Europe,Southern Europe
 195.14.102.127,4,22,areasciencepark.it,IT,Italy,Europe,Southern Europe
 188.165.130.76,4,53,arenysdemar.cat,ES,Spain,Europe,Southern Europe
+31.14.255.81,4,-1181,argentaceramica.com,ES,Spain,Europe,Southern Europe
 89.248.96.85,4,464,arguments.es,ES,Spain,Europe,Southern Europe
 213.212.133.250,4,30,ari-rivarolo.org,IT,Italy,Europe,Southern Europe
+151.8.40.20,4,72,ariete.net,IT,Italy,Europe,Southern Europe
 208.77.222.131,4,16,arizonahunting.net,IT,Italy,Europe,Southern Europe
 82.194.74.43,4,2435262,arkeero.com,ES,Spain,Europe,Southern Europe
 89.40.173.157,4,58,armandoalpantheon.it,IT,Italy,Europe,Southern Europe
@@ -310,11 +317,13 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 46.252.157.154,4,4,autodromogiannideluca.it,IT,Italy,Europe,Southern Europe
 213.174.182.1,4,6,autodromoimola.com,IT,Italy,Europe,Southern Europe
 185.32.190.127,4,45,autonoma.pt,PT,Portugal,Europe,Southern Europe
+212.170.49.16,4,31,autoprin.com,ES,Spain,Europe,Southern Europe
 94.46.135.179,4,381,autoreno.pt,PT,Portugal,Europe,Southern Europe
 178.218.165.202,4,46,autoskola-barbara.hr,HR,Croatia,Europe,Southern Europe
 185.58.73.6,4,2,avalon.hr,HR,Croatia,Europe,Southern Europe
 80.240.126.98,4,98,aventura-amazonia.com,ES,Spain,Europe,Southern Europe
 46.29.49.20,4,5,avepa.org,ES,Spain,Europe,Southern Europe
+195.231.7.13,4,101,averoprint.com,IT,Italy,Europe,Southern Europe
 94.46.176.92,4,88,avidaportuguesa.com,PT,Portugal,Europe,Southern Europe
 195.55.43.170,4,73,aviles.es,ES,Spain,Europe,Southern Europe
 94.177.174.58,4,1205,avmagazine.it,IT,Italy,Europe,Southern Europe
@@ -350,6 +359,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.34.194.199,4,7,barnalegal.com,ES,Spain,Europe,Southern Europe
 46.252.153.165,4,13,barpompi.it,IT,Italy,Europe,Southern Europe
 109.71.40.220,4,-331,barrocal.pt,PT,Portugal,Europe,Southern Europe
+195.231.8.205,4,287297,basilicasanclemente.com,IT,Italy,Europe,Southern Europe
 62.149.172.216,4,296,basilicasannicola.it,IT,Italy,Europe,Southern Europe
 81.46.216.115,4,846,baskonia.com,ES,Spain,Europe,Southern Europe
 178.33.119.193,4,47,batallador.es,ES,Spain,Europe,Southern Europe
@@ -374,6 +384,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 62.103.124.4,4,13,bestprice.gr,GR,Greece,Europe,Southern Europe
 5.8.101.21,4,641,beta-tools.com,IT,Italy,Europe,Southern Europe
 178.33.119.234,4,7,betrendymykid.com,ES,Spain,Europe,Southern Europe
+185.21.116.160,4,12,bft-automation.com,SM,San Marino,Europe,Southern Europe
 185.81.2.183,4,9,bgeek.it,IT,Italy,Europe,Southern Europe
 86.107.36.62,4,602,biancolavoro.it,IT,Italy,Europe,Southern Europe
 178.211.133.51,4,37,biblogtecarios.es,ES,Spain,Europe,Southern Europe
@@ -416,6 +427,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 195.192.255.158,4,17,blume.net,ES,Spain,Europe,Southern Europe
 37.99.252.9,4,2,bmsu.ac.ir,IT,Italy,Europe,Southern Europe
 213.0.77.134,4,29,bmwmotos.com,ES,Spain,Europe,Southern Europe
+193.137.201.84,4,3,boaventuradesousasantos.pt,PT,Portugal,Europe,Southern Europe
 185.99.235.6,4,59,bocadolobo.com,PT,Portugal,Europe,Southern Europe
 164.138.211.69,4,29,bodegasmuga.com,ES,Spain,Europe,Southern Europe
 134.0.9.203,4,9,bodegasramonbilbao.es,ES,Spain,Europe,Southern Europe
@@ -453,6 +465,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 178.33.7.138,4,24,bricozone.be,IT,Italy,Europe,Southern Europe
 185.31.158.102,4,5,briefing.pt,PT,Portugal,Europe,Southern Europe
 178.218.165.205,4,12,brodportal.hr,HR,Croatia,Europe,Southern Europe
+31.22.112.110,4,-1,bsbfashion.com,GR,Greece,Europe,Southern Europe
 149.202.241.86,4,4,bsif.co.uk,ES,Spain,Europe,Southern Europe
 46.252.152.156,4,4,btobaby.it,IT,Italy,Europe,Southern Europe
 195.246.15.175,4,7,bukla.si,SI,Slovenia,Europe,Southern Europe
@@ -526,10 +539,12 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 208.65.84.148,4,1,carros-en-venta.us,IT,Italy,Europe,Southern Europe
 94.23.67.76,4,41,casa-azienda.it,IT,Italy,Europe,Southern Europe
 200.234.237.23,4,2,casaarabe.es,ES,Spain,Europe,Southern Europe
+178.255.225.167,4,7,casacochecurro.com,ES,Spain,Europe,Southern Europe
 94.46.22.222,4,257,casadechadaboanova.pt,PT,Portugal,Europe,Southern Europe
 185.142.154.190,4,131,casadelcinema.it,IT,Italy,Europe,Southern Europe
 87.98.228.62,4,4,casafrica.es,ES,Spain,Europe,Southern Europe
 94.23.85.128,4,5,casaldelsinfants.org,ES,Spain,Europe,Southern Europe
+185.21.117.137,4,49,casartusi.it,SM,San Marino,Europe,Southern Europe
 51.38.21.102,4,8,casasilva.cl,ES,Spain,Europe,Southern Europe
 185.25.207.54,4,32,case1euro.it,IT,Italy,Europe,Southern Europe
 185.81.6.13,4,15,casea1euro.it,IT,Italy,Europe,Southern Europe
@@ -622,10 +637,12 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 94.23.87.46,4,1062,cheapnfljerseys17.com,ES,Spain,Europe,Southern Europe
 185.53.12.128,4,681,chem-soc.si,SI,Slovenia,Europe,Southern Europe
 178.255.74.137,4,31,chetariffa.it,IT,Italy,Europe,Southern Europe
+185.21.118.127,4,5,chiamamicitta.it,SM,San Marino,Europe,Southern Europe
 93.95.216.35,4,10,chiarapassion.com,IT,Italy,Europe,Southern Europe
 217.73.238.52,4,9,chiariglione.org,IT,Italy,Europe,Southern Europe
 185.226.232.103,4,3,chiemihara.com,ES,Spain,Europe,Southern Europe
 93.191.241.111,4,-2780,chieri.info,IT,Italy,Europe,Southern Europe
+195.231.74.56,4,6,chiesi.com,IT,Italy,Europe,Southern Europe
 46.254.39.158,4,11,chioggia.org,IT,Italy,Europe,Southern Europe
 86.107.36.138,4,67,chiostrisanteustorgio.it,IT,Italy,Europe,Southern Europe
 145.239.138.235,4,2,chrono-tm.org,ES,Spain,Europe,Southern Europe
@@ -677,6 +694,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 94.177.176.33,4,61,climalteranti.it,IT,Italy,Europe,Southern Europe
 31.214.178.53,4,28,clinicadelpiesanjuan.com,ES,Spain,Europe,Southern Europe
 54.37.168.114,4,19,clinicaferrusbratos.com,ES,Spain,Europe,Southern Europe
+193.147.107.22,4,25,cliplab.org,ES,Spain,Europe,Southern Europe
 194.124.73.18,4,3,clipperz.is,IT,Italy,Europe,Southern Europe
 94.46.23.114,4,42,clonlara.org,PT,Portugal,Europe,Southern Europe
 83.211.227.158,4,21,clouditalia.com,IT,Italy,Europe,Southern Europe
@@ -822,6 +840,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 178.218.164.30,4,17,danica.hr,HR,Croatia,Europe,Southern Europe
 212.92.50.181,4,4,danone.es,ES,Spain,Europe,Southern Europe
 178.211.133.72,4,23,dantealighieriasturias.es,ES,Spain,Europe,Southern Europe
+195.231.20.212,4,18,danteonline.it,IT,Italy,Europe,Southern Europe
 46.16.58.173,4,10,danzaballet.com,ES,Spain,Europe,Southern Europe
 93.95.216.123,4,5,dariosalvelli.com,IT,Italy,Europe,Southern Europe
 185.12.116.64,4,141,darkskyalqueva.com,PT,Portugal,Europe,Southern Europe
@@ -836,6 +855,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 178.211.133.68,4,44,deautonomos.com,ES,Spain,Europe,Southern Europe
 194.177.211.216,4,8,debian.com,GR,Greece,Europe,Southern Europe
 213.32.108.83,4,15,deceuninck.com,ES,Spain,Europe,Southern Europe
+195.231.25.172,4,96,decora.it,IT,Italy,Europe,Southern Europe
 46.231.5.145,4,129,decorablog.com,ES,Spain,Europe,Southern Europe
 34.175.177.228,4,91,decoratrix.com,ES,Spain,Europe,Southern Europe
 185.186.169.177,4,17,deepskycolors.com,ES,Spain,Europe,Southern Europe
@@ -865,6 +885,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 46.16.63.69,4,5,diadellibro.eu,ES,Spain,Europe,Southern Europe
 178.211.133.34,4,15,diamundialautismo.com,ES,Spain,Europe,Southern Europe
 185.37.226.43,4,26,diariobahiadecadiz.com,ES,Spain,Europe,Southern Europe
+195.231.87.26,4,8,diariodelweb.it,IT,Italy,Europe,Southern Europe
 91.146.101.133,4,6,diarioenfermero.es,ES,Spain,Europe,Southern Europe
 185.18.17.61,4,7,diariofinanciero.com,ES,Spain,Europe,Southern Europe
 34.175.78.19,4,54,diariomotor.com,ES,Spain,Europe,Southern Europe
@@ -889,9 +910,11 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 94.23.74.209,4,1034,directlenderloans.org,PT,Portugal,Europe,Southern Europe
 91.146.97.111,4,5,directoressociales.com,ES,Spain,Europe,Southern Europe
 193.43.130.5,4,5,disf.org,IT,Italy,Europe,Southern Europe
+178.255.228.84,4,4,disfrazzes.com,ES,Spain,Europe,Southern Europe
 95.154.242.124,4,7,dithepi.gr,GR,Greece,Europe,Southern Europe
 178.218.166.214,4,0,dizajn.hr,HR,Croatia,Europe,Southern Europe
 46.231.3.232,4,409,dlacalle.com,ES,Spain,Europe,Southern Europe
+80.65.85.148,4,5,dmservice.com.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
 185.81.4.25,4,6,dnaconcerti.com,IT,Italy,Europe,Southern Europe
 185.110.20.144,4,27,DNS Server: 0144.extnet.it,IT,Italy,Europe,Southern Europe
 185.95.125.1,4,-36,DNS Server: 1.125.95.185.dynamic.electronicamartinez.es,ES,Spain,Europe,Southern Europe
@@ -936,6 +959,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 149.210.88.227,4,-672,DNS Server: 149-210-88-227.mobile.ren.cosmote.net,GR,Greece,Europe,Southern Europe
 85.54.189.149,4,946,DNS Server: 149.pool85-54-189.dynamic.orange.es,ES,Spain,Europe,Southern Europe
 94.61.250.150,4,3095,DNS Server: 150.250.61.94.rev.vodafone.pt,PT,Portugal,Europe,Southern Europe
+151.0.153.122,4,-30415,DNS Server: 151-0-153-122.ip281.fastwebnet.it,IT,Italy,Europe,Southern Europe
 90.77.249.152,4,16411,DNS Server: 152.pool90-77-249.dynamic.orange.es,ES,Spain,Europe,Southern Europe
 2.140.161.158,4,-211,DNS Server: 158.red-2-140-161.dynamicip.rima-tde.net,ES,Spain,Europe,Southern Europe
 80.27.0.158,4,211,DNS Server: 158.red-80-27-0.staticip.rima-tde.net,ES,Spain,Europe,Southern Europe
@@ -947,6 +971,10 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 92.53.204.166,4,463,DNS Server: 166.204.53.92.dynamic.reverse-mundo-r.com,ES,Spain,Europe,Southern Europe
 178.255.191.166,4,7435,DNS Server: 166.block-191.ipv4.avanzati.it,IT,Italy,Europe,Southern Europe
 217.17.111.167,4,16732076,DNS Server: 167-111-17-217.static.stcable.net,RS,Serbia,Europe,Southern Europe
+178.220.121.98,4,72,DNS Server: 178-220-121-98.dynamic.isp.telekom.rs,RS,Serbia,Europe,Southern Europe
+178.222.249.245,4,6048,DNS Server: 178-222-249-245.static.isp.telekom.rs,RS,Serbia,Europe,Southern Europe
+178.222.250.29,4,5,DNS Server: 178-222-250-29.static.isp.telekom.rs,RS,Serbia,Europe,Southern Europe
+178.223.120.33,4,-81565,DNS Server: 178-223-120-33.dynamic.isp.telekom.rs,RS,Serbia,Europe,Southern Europe
 5.249.101.181,4,84,DNS Server: 181.101.249.5.rev.vodafone.pt,PT,Portugal,Europe,Southern Europe
 85.74.242.182,4,77270,DNS Server: 182.242.74.85.static.otenet.gr,GR,Greece,Europe,Southern Europe
 92.186.209.183,4,-5343651,DNS Server: 183.pool92-186-209.dynamic.orange.es,ES,Spain,Europe,Southern Europe
@@ -1027,6 +1055,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 80.27.7.47,4,3581,DNS Server: 47.red-80-27-7.staticip.rima-tde.net,ES,Spain,Europe,Southern Europe
 2.136.37.48,4,176,DNS Server: 48.red-2-136-37.staticip.rima-tde.net,ES,Spain,Europe,Southern Europe
 85.60.12.49,4,70,DNS Server: 49.pool85-60-12.dynamic.orange.es,ES,Spain,Europe,Southern Europe
+37.13.100.49,4,-294,DNS Server: 49.red-37-13-100.dynamicip.rima-tde.net,ES,Spain,Europe,Southern Europe
 46.40.0.5,4,29,DNS Server: 5-0-40-46.cpe.sattrakt.net,RS,Serbia,Europe,Southern Europe
 5.10.206.251,4,-13438976,DNS Server: 5-10-206-251-ebrecom.ip4.guifi.net,ES,Spain,Europe,Southern Europe
 5.134.36.15,4,145,DNS Server: 5-134-43-15.ipdinamica.dinfotec.com,ES,Spain,Europe,Southern Europe
@@ -1094,6 +1123,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 88.149.203.60,4,86566,DNS Server: 88-149-203-60.static.eolo.it,IT,Italy,Europe,Southern Europe
 88.149.205.195,4,23196,DNS Server: 88-149-205-195.static.eolo.it,IT,Italy,Europe,Southern Europe
 88.149.248.201,4,5,DNS Server: 88-149-248-201.static.eolo.it,IT,Italy,Europe,Southern Europe
+88.87.99.130,4,21947,DNS Server: 88-87-99-130-static.bbbell.com,IT,Italy,Europe,Southern Europe
 88.210.101.130,4,84,DNS Server: 88.210.101.130.rev.optimus.pt,PT,Portugal,Europe,Southern Europe
 88.85.97.122,4,7,DNS Server: 88.85.97.122.neotel.mk,MK,North Macedonia,Europe,Southern Europe
 89.201.137.2,4,-13,DNS Server: 89-201-137-2.static.optinet.hr,HR,Croatia,Europe,Southern Europe
@@ -1252,9 +1282,14 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 87.241.4.34,4,-4258964962,DNS Server: cpeit_rom000733.ia.colt.net,IT,Italy,Europe,Southern Europe
 188.117.197.78,4,-11524370,DNS Server: dhcp-188-117-197-78.cm.hcn.gr,GR,Greece,Europe,Southern Europe
 85.72.32.180,4,545,DNS Server: dimark.static.otenet.gr,GR,Greece,Europe,Southern Europe
+87.235.231.212,4,14,DNS Server: din-212-231-235-87.ipcom.comunitel.net,ES,Spain,Europe,Southern Europe
+87.235.231.213,4,18,DNS Server: din-213-231-235-87.ipcom.comunitel.net,ES,Spain,Europe,Southern Europe
+77.231.171.44,4,6,DNS Server: din-44-171-231-77.ipcom.comunitel.net,ES,Spain,Europe,Southern Europe
+195.222.45.135,4,-53689069,DNS Server: dlp-135.as54.ze-old.bih.net.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
 80.65.70.1,4,7,DNS Server: dlp-c-1.as58.ob.bih.net.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
 77.241.112.23,4,5,DNS Server: dns1.epresaenergia.es,ES,Spain,Europe,Southern Europe
 77.241.112.24,4,7,DNS Server: dns2.epresaenergia.es,ES,Spain,Europe,Southern Europe
+62.74.159.221,4,14895,DNS Server: dumy221.panafonet.gr,GR,Greece,Europe,Southern Europe
 83.149.178.26,4,159,DNS Server: esvacloud.security-mail.org,IT,Italy,Europe,Southern Europe
 83.103.38.74,4,-109,DNS Server: fastweb74.ietnet.net,IT,Italy,Europe,Southern Europe
 109.111.229.198,4,-25335525,DNS Server: free-229-198.mediaworksit.net,RS,Serbia,Europe,Southern Europe
@@ -1269,6 +1304,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 79.129.102.118,4,45,DNS Server: hell18.static.otenet.gr,GR,Greece,Europe,Southern Europe
 185.191.107.86,4,15,DNS Server: host-185-191-107-86.mywic.eu,IT,Italy,Europe,Southern Europe
 194.4.41.36,4,37,DNS Server: host-194-4-41-36.net.intranetwifi.it,IT,Italy,Europe,Southern Europe
+195.31.72.234,4,722871,DNS Server: host-195-31-72-234.business.telecomitalia.it,IT,Italy,Europe,Southern Europe
 2.113.76.38,4,23,DNS Server: host-2-113-76-38.business.telecomitalia.it,IT,Italy,Europe,Southern Europe
 2.114.91.193,4,-2518548684,DNS Server: host-2-114-91-193.business.telecomitalia.it,IT,Italy,Europe,Southern Europe
 2.119.131.34,4,-59,DNS Server: host-2-119-131-34.business.telecomitalia.it,IT,Italy,Europe,Southern Europe
@@ -1289,11 +1325,14 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 81.201.4.1,4,8,DNS Server: host001-pool081201004.albedo.it,IT,Italy,Europe,Southern Europe
 81.201.0.61,4,6,DNS Server: host061-pool081201000.albedo.it,IT,Italy,Europe,Southern Europe
 81.201.10.90,4,66,DNS Server: host090-pool081201010.albedo.it,IT,Italy,Europe,Southern Europe
+195.231.66.11,4,5,DNS Server: host11-66-231-195.serverdedicati.aruba.it,IT,Italy,Europe,Southern Europe
+195.231.70.110,4,34,DNS Server: host110-70-231-195.serverdedicati.aruba.it,IT,Italy,Europe,Southern Europe
 89.21.204.117,4,3,DNS Server: host117-204-21-89.convergenze.it,IT,Italy,Europe,Southern Europe
 80.211.179.15,4,13,DNS Server: host15-179-211-80.serverdedicati.aruba.it,IT,Italy,Europe,Southern Europe
 185.152.45.158,4,66,DNS Server: host158-45-152-185.dimensionesrl.eu,IT,Italy,Europe,Southern Europe
 5.249.157.17,4,114,DNS Server: host17-157-249-5.serverdedicati.aruba.it,IT,Italy,Europe,Southern Europe
 81.201.6.182,4,14,DNS Server: host182-pool081201006.albedo.it,IT,Italy,Europe,Southern Europe
+195.231.79.184,4,7,DNS Server: host184-79-231-195.serverdedicati.aruba.it,IT,Italy,Europe,Southern Europe
 95.110.225.187,4,6,DNS Server: host187-225-110-95.serverdedicati.aruba.it,IT,Italy,Europe,Southern Europe
 31.14.133.196,4,63,DNS Server: host196-133-14-31.serverdedicati.aruba.it,IT,Italy,Europe,Southern Europe
 81.201.4.221,4,9142729,DNS Server: host221-pool081201004.albedo.it,IT,Italy,Europe,Southern Europe
@@ -1445,10 +1484,12 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 94.250.130.250,4,-7227628,DNS Server: srv-94-250-130-250.static.a1.hr,HR,Croatia,Europe,Southern Europe
 95.60.135.1,4,325,DNS Server: static-1-135-60-95.ipcom.comunitel.net,ES,Spain,Europe,Southern Europe
 89.7.235.170,4,-20358824,DNS Server: static-170-235-7-89.ipcom.comunitel.net,ES,Spain,Europe,Southern Europe
+77.230.66.172,4,368,DNS Server: static-172-66-230-77.ipcom.comunitel.net,ES,Spain,Europe,Southern Europe
 185.132.201.202,4,16113,DNS Server: static-185.132.201.202.andorpac.ad\,AD,Andorra,Europe,Southern Europe
 77.225.175.37,4,472,DNS Server: static-37-175-225-77.ipcom.comunitel.net,ES,Spain,Europe,Southern Europe
 77.225.175.38,4,-3814090,DNS Server: static-38-175-225-77.ipcom.comunitel.net,ES,Spain,Europe,Southern Europe
 77.225.175.39,4,473,DNS Server: static-39-175-225-77.ipcom.comunitel.net,ES,Spain,Europe,Southern Europe
+77.228.75.54,4,280,DNS Server: static-54-75-228-77.ipcom.comunitel.net,ES,Spain,Europe,Southern Europe
 91.187.75.18,4,-1724,DNS Server: static-91-187-75-18.andorpac.ad,AD,Andorra,Europe,Southern Europe
 62.28.65.186,4,-2136545554,DNS Server: static-wan-bl3-65-186.rev.webside.pt,PT,Portugal,Europe,Southern Europe
 139.47.10.8,4,-3599036,DNS Server: static.masmovil.com,ES,Spain,Europe,Southern Europe
@@ -1472,10 +1513,12 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 94.126.169.3,4,19,dominios.pt,PT,Portugal,Europe,Southern Europe
 188.93.126.185,4,14,donacije.rs,RS,Serbia,Europe,Southern Europe
 81.31.156.162,4,9,donantoniopizza.com,IT,Italy,Europe,Southern Europe
+213.96.244.209,4,4760,donbalon.com,ES,Spain,Europe,Southern Europe
 185.66.173.231,4,496917,doncomos.com,ES,Spain,Europe,Southern Europe
 82.194.90.122,4,2,dondeestamicasa.com,ES,Spain,Europe,Southern Europe
 37.152.88.156,4,16,dondominio.com,ES,Spain,Europe,Southern Europe
 94.23.69.198,4,4,donnaomamma.it,IT,Italy,Europe,Southern Europe
+195.231.50.139,4,431,donnapop.it,IT,Italy,Europe,Southern Europe
 185.45.72.126,4,239,doriasbaixas.com,ES,Spain,Europe,Southern Europe
 185.129.250.83,4,-268945,dosmanzanas.com,ES,Spain,Europe,Southern Europe
 149.62.185.55,4,5,dossierimmigrazione.it,IT,Italy,Europe,Southern Europe
@@ -1543,6 +1586,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 95.110.184.104,4,14,edotto.com,IT,Italy,Europe,Southern Europe
 217.61.208.52,4,8,educaborras.com,ES,Spain,Europe,Southern Europe
 195.55.75.244,4,5,educared.org,ES,Spain,Europe,Southern Europe
+195.231.18.13,4,5753,educazionedigitale.it,IT,Italy,Europe,Southern Europe
 62.1.105.166,4,5,efa.gr,GR,Greece,Europe,Southern Europe
 62.149.215.139,4,820,effedieffe.com,IT,Italy,Europe,Southern Europe
 81.31.149.110,4,6,effimera.org,IT,Italy,Europe,Southern Europe
@@ -1678,6 +1722,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 89.40.173.176,4,3,eufcn.com,IT,Italy,Europe,Southern Europe
 130.185.87.163,4,245,eugosto.pt,PT,Portugal,Europe,Southern Europe
 85.208.102.23,4,4,eulawlive.com,ES,Spain,Europe,Southern Europe
+80.80.160.227,4,4,eulex-kosovo.eu,AL,Albania,Europe,Southern Europe
 217.26.214.171,4,500,eunethosting.com,RS,Serbia,Europe,Southern Europe
 34.175.128.105,4,3,euqulraqia.com,ES,Spain,Europe,Southern Europe
 89.40.174.228,4,3,eurispes.eu,IT,Italy,Europe,Southern Europe
@@ -1765,6 +1810,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 213.21.160.90,4,146333,fiab-onlus.it,IT,Italy,Europe,Southern Europe
 185.221.175.186,4,19,fiabilandia.it,IT,Italy,Europe,Southern Europe
 46.16.95.158,4,40,fiabitalia.it,IT,Italy,Europe,Southern Europe
+185.21.117.127,4,43,fiamm.com,SM,San Marino,Europe,Southern Europe
 82.180.47.169,4,7,fiamma.com,IT,Italy,Europe,Southern Europe
 81.46.216.10,4,3,fiapas.es,ES,Spain,Europe,Southern Europe
 195.130.253.192,4,7,fibrosicistica.it,IT,Italy,Europe,Southern Europe
@@ -1785,6 +1831,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 86.107.36.59,4,8,firenzemarathon.it,IT,Italy,Europe,Southern Europe
 46.16.94.68,4,16,firenzepost.it,IT,Italy,Europe,Southern Europe
 80.88.84.228,4,12,firriato.it,IT,Italy,Europe,Southern Europe
+195.231.73.80,4,14,fisco7.it,IT,Italy,Europe,Southern Europe
 185.186.169.193,4,20,fism.org,ES,Spain,Europe,Southern Europe
 94.46.23.119,4,625,fjuventude.pt,PT,Portugal,Europe,Southern Europe
 31.147.206.218,4,8,fkit.hr,HR,Croatia,Europe,Southern Europe
@@ -1842,6 +1889,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.118.56.105,4,44,fpmaragall.org,ES,Spain,Europe,Southern Europe
 130.185.84.7,4,983,fpo.pt,PT,Portugal,Europe,Southern Europe
 149.3.145.33,4,3,fqts2020.it,IT,Italy,Europe,Southern Europe
+195.231.16.177,4,36,francescodisilvestre.it,IT,Italy,Europe,Southern Europe
 213.202.101.170,4,23,franck.eu,HR,Croatia,Europe,Southern Europe
 46.254.39.130,4,74,fratellifrancia.it,IT,Italy,Europe,Southern Europe
 82.154.19.76,4,843,freegamedev.net,PT,Portugal,Europe,Southern Europe
@@ -1888,11 +1936,13 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 31.214.178.82,4,9,fxinteractive.com,ES,Spain,Europe,Southern Europe
 89.40.173.153,4,333,gabrielegalimberti.com,IT,Italy,Europe,Southern Europe
 176.221.51.116,4,46,gaggia.com,IT,Italy,Europe,Southern Europe
+195.231.20.209,4,12,gaia-gis.it,IT,Italy,Europe,Southern Europe
 185.31.67.114,4,6,gaia-onlus.org,IT,Italy,Europe,Southern Europe
 94.126.169.159,4,6,gaiacablecar.com,PT,Portugal,Europe,Southern Europe
 46.30.241.101,4,5,gaiaitalia.com,IT,Italy,Europe,Southern Europe
 83.212.170.182,4,24,gak.gr,GR,Greece,Europe,Southern Europe
 109.111.253.124,4,49,galerijamaticesrpske.rs,RS,Serbia,Europe,Southern Europe
+151.11.50.223,4,17,galleriacontinua.com,IT,Italy,Europe,Southern Europe
 62.149.199.218,4,732,galluccifaibano.com,IT,Italy,Europe,Southern Europe
 194.76.116.37,4,23,galluraoggi.it,IT,Italy,Europe,Southern Europe
 51.254.23.70,4,32,game-learn.com,IT,Italy,Europe,Southern Europe
@@ -1900,6 +1950,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.231.23.237,4,950,gandiablasco.com,ES,Spain,Europe,Southern Europe
 85.235.146.241,4,7,gangemieditore.com,IT,Italy,Europe,Southern Europe
 94.46.15.39,4,4,garagesale.es,PT,Portugal,Europe,Southern Europe
+195.231.17.51,4,17,garanteinfanzia.org,IT,Italy,Europe,Southern Europe
 95.110.230.204,4,6,gardiol.org,IT,Italy,Europe,Southern Europe
 87.98.227.69,4,36,garnica.one,ES,Spain,Europe,Southern Europe
 94.46.13.82,4,8,garrafeiranacional.com,PT,Portugal,Europe,Southern Europe
@@ -1912,6 +1963,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 91.146.97.74,4,7,geacron.com,ES,Spain,Europe,Southern Europe
 94.46.182.83,4,3,geira.pt,PT,Portugal,Europe,Southern Europe
 81.31.149.111,4,7,gekoproject.com,IT,Italy,Europe,Southern Europe
+185.21.118.33,4,6,gelateriaromana.com,SM,San Marino,Europe,Southern Europe
 188.213.169.243,4,87,genderbender.it,IT,Italy,Europe,Southern Europe
 85.208.20.158,4,76,genderdatalab.org,ES,Spain,Europe,Southern Europe
 185.34.194.187,4,65,genderportal.eu,ES,Spain,Europe,Southern Europe
@@ -1935,6 +1987,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 193.46.238.183,4,31,gigantes.com,ES,Spain,Europe,Southern Europe
 85.235.146.211,4,27,giglionews.it,IT,Italy,Europe,Southern Europe
 94.23.84.205,4,5,gijon.es,ES,Spain,Europe,Southern Europe
+151.1.210.216,4,24,gimatic.com,IT,Italy,Europe,Southern Europe
 5.134.116.16,4,713,ginernet.com,ES,Spain,Europe,Southern Europe
 185.195.96.114,4,3,ginferreradv.com,ES,Spain,Europe,Southern Europe
 194.76.116.40,4,23,gioca-responsabile.it,IT,Italy,Europe,Southern Europe
@@ -1987,6 +2040,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.221.174.14,4,559,grancaffegambrinus.com,IT,Italy,Europe,Southern Europe
 46.254.34.201,4,28,grandenapoli.it,IT,Italy,Europe,Southern Europe
 94.23.80.104,4,35,grandesmedios.com,ES,Spain,Europe,Southern Europe
+151.11.83.19,4,39,grandhotelnizza.it,IT,Italy,Europe,Southern Europe
 89.46.76.253,4,860,grandhotelparkers.it,IT,Italy,Europe,Southern Europe
 5.134.124.25,4,14,grandpriximola.it,IT,Italy,Europe,Southern Europe
 2.16.65.43,4,-29,grandvision.it,PT,Portugal,Europe,Southern Europe
@@ -2001,7 +2055,9 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 62.84.189.100,4,10,grcha.com,IT,Italy,Europe,Southern Europe
 185.78.220.246,4,-4,greeking.me,GR,Greece,Europe,Southern Europe
 185.138.42.100,4,6,greeklanguage.gr,GR,Greece,Europe,Southern Europe
+195.231.50.137,4,1186,greenbiz.it,IT,Italy,Europe,Southern Europe
 93.95.216.125,4,63,greenedgecycling.com,IT,Italy,Europe,Southern Europe
+195.231.50.133,4,943,greenme.it,IT,Italy,Europe,Southern Europe
 93.186.242.145,4,27,greenreport.it,IT,Italy,Europe,Southern Europe
 185.129.251.73,4,900,grespania.com,ES,Spain,Europe,Southern Europe
 172.232.216.141,4,8,gridforum.org,IT,Italy,Europe,Southern Europe
@@ -2026,6 +2082,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.58.73.26,4,8,gtm.hr,HR,Croatia,Europe,Southern Europe
 86.109.161.202,4,-1716365,guadalajaradiario.es,ES,Spain,Europe,Southern Europe
 185.209.61.55,4,5,guaguas.com,ES,Spain,Europe,Southern Europe
+151.0.187.146,4,716,guerini.it,IT,Italy,Europe,Southern Europe
 185.118.56.213,4,14,guggenheim-bilbao.eus,ES,Spain,Europe,Southern Europe
 94.46.181.206,4,13,guiadacidade.pt,PT,Portugal,Europe,Southern Europe
 185.140.32.104,4,92,guiafantasy.com,ES,Spain,Europe,Southern Europe
@@ -2116,9 +2173,11 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 46.252.148.143,4,4,i-com.it,IT,Italy,Europe,Southern Europe
 185.184.136.203,4,54,i-ticket.it,IT,Italy,Europe,Southern Europe
 78.108.40.230,4,8,i2dealer.gr,GR,Greece,Europe,Southern Europe
+195.231.24.247,4,28,iamcalcio.it,IT,Italy,Europe,Southern Europe
 85.235.137.192,4,24,ianseo.net,IT,Italy,Europe,Southern Europe
 93.95.221.24,4,8,iapb.it,IT,Italy,Europe,Southern Europe
 82.194.90.83,4,-1,iated.org,ES,Spain,Europe,Southern Europe
+193.136.192.231,4,0,iave.pt,PT,Portugal,Europe,Southern Europe
 95.100.105.194,4,33,iberdrola.com,ES,Spain,Europe,Southern Europe
 95.100.105.188,4,11,iberdrola.com,ES,Spain,Europe,Southern Europe
 95.100.105.193,4,32,iberdrola.es,ES,Spain,Europe,Southern Europe
@@ -2240,7 +2299,9 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 195.88.7.207,4,4,informazionecorretta.com,IT,Italy,Europe,Southern Europe
 94.23.71.123,4,94,infoterraemare.it,IT,Italy,Europe,Southern Europe
 86.109.167.76,4,35,infotossa.com,ES,Spain,Europe,Southern Europe
+185.21.117.169,4,44,ingegnoli.it,SM,San Marino,Europe,Southern Europe
 86.107.36.14,4,5,ingenere.it,IT,Italy,Europe,Southern Europe
+185.21.117.165,4,4,ingenio-web.it,SM,San Marino,Europe,Southern Europe
 94.23.68.92,4,33,ingoodtasteblog.net,IT,Italy,Europe,Southern Europe
 94.127.4.219,4,25,injuriesandsuspensions.com,RS,Serbia,Europe,Southern Europe
 135.125.41.30,4,50,inkspiration.es,ES,Spain,Europe,Southern Europe
@@ -2275,6 +2336,8 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 192.104.48.74,4,27,ipl.pt,PT,Portugal,Europe,Southern Europe
 93.108.226.5,4,31,ipn.pt,PT,Portugal,Europe,Southern Europe
 94.46.25.14,4,2,ipopi.org,PT,Portugal,Europe,Southern Europe
+193.136.58.74,4,36,ipp.pt,PT,Portugal,Europe,Southern Europe
+193.137.229.205,4,30,ipportalegre.pt,PT,Portugal,Europe,Southern Europe
 213.0.69.132,4,119,ipv6tf.org,ES,Spain,Europe,Southern Europe
 212.115.64.5,4,1,irisfmg.com,IT,Italy,Europe,Southern Europe
 77.39.212.86,4,7,irlandando.it,IT,Italy,Europe,Southern Europe
@@ -2286,6 +2349,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.78.221.199,4,30,isathens.gr,GR,Greece,Europe,Southern Europe
 93.42.238.31,4,1282,ischia.it,IT,Italy,Europe,Southern Europe
 185.221.175.3,4,497,ischiaonline.it,IT,Italy,Europe,Southern Europe
+193.136.189.102,4,13,iscte.pt,PT,Portugal,Europe,Southern Europe
 37.153.91.249,4,51,isde.es,ES,Spain,Europe,Southern Europe
 185.240.248.27,4,1196,iseki-food.net,PT,Portugal,Europe,Southern Europe
 213.191.133.163,4,60,iskon.hr,HR,Croatia,Europe,Southern Europe
@@ -2297,6 +2361,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 46.255.86.125,4,99,istruzioneer.it,IT,Italy,Europe,Southern Europe
 87.250.73.232,4,10,istruzionepiemonte.it,IT,Italy,Europe,Southern Europe
 93.186.242.78,4,136,istruzioneveneto.gov.it,IT,Italy,Europe,Southern Europe
+193.144.226.5,4,54,ita.es,ES,Spain,Europe,Southern Europe
 86.107.32.108,4,19,italamp.com,IT,Italy,Europe,Southern Europe
 81.31.147.104,4,8,italdesign.it,IT,Italy,Europe,Southern Europe
 46.28.2.60,4,1752,italia24.tv,IT,Italy,Europe,Southern Europe
@@ -2307,6 +2372,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.221.174.72,4,1375,italiani.coop,IT,Italy,Europe,Southern Europe
 149.3.148.83,4,28,italianieuropei.it,IT,Italy,Europe,Southern Europe
 185.81.2.164,4,8,italiaregina.it,IT,Italy,Europe,Southern Europe
+151.1.181.119,4,69427,italylawyer.net,IT,Italy,Europe,Southern Europe
 85.62.139.100,4,46,itec.es,ES,Spain,Europe,Southern Europe
 195.246.8.82,4,-426022,itena.si,SI,Slovenia,Europe,Southern Europe
 161.22.44.97,4,12,itene.com,ES,Spain,Europe,Southern Europe
@@ -2460,6 +2526,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.156.219.124,4,16,laparadeta.com,ES,Spain,Europe,Southern Europe
 213.192.239.75,4,-356,lapedrera.com,ES,Spain,Europe,Southern Europe
 185.123.206.29,4,-2,lapepica.com,ES,Spain,Europe,Southern Europe
+195.231.75.111,4,25,laprovinciadibiella.it,IT,Italy,Europe,Southern Europe
 151.80.170.89,4,51,laradiobbs.net,PT,Portugal,Europe,Southern Europe
 5.135.53.156,4,22,larche.org,ES,Spain,Europe,Southern Europe
 185.177.155.211,4,1,lareserva.com,ES,Spain,Europe,Southern Europe
@@ -2509,6 +2576,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 51.210.225.59,4,45,lemienozze.it,IT,Italy,Europe,Southern Europe
 193.162.14.166,4,32,lemmy.eus,ES,Spain,Europe,Southern Europe
 199.16.243.10,4,71240,lemmy.pt,PT,Portugal,Europe,Southern Europe
+195.231.20.198,4,51,lentepubblica.it,IT,Italy,Europe,Southern Europe
 185.81.2.54,4,7,leonardo.it,IT,Italy,Europe,Southern Europe
 149.62.185.28,4,10,lercio.it,IT,Italy,Europe,Southern Europe
 176.31.202.173,4,15244,leroy-somer.com,ES,Spain,Europe,Southern Europe
@@ -2525,6 +2593,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 178.211.133.29,4,2,lhardy.com,ES,Spain,Europe,Southern Europe
 188.165.179.195,4,4,lhommetendance.fr,IT,Italy,Europe,Southern Europe
 86.107.36.48,4,602,liberopensiero.eu,IT,Italy,Europe,Southern Europe
+185.21.118.141,4,6,libertas.sm,SM,San Marino,Europe,Southern Europe
 46.252.147.218,4,3,libertasicilia.it,IT,Italy,Europe,Southern Europe
 193.27.202.154,4,34,libraccio.it,IT,Italy,Europe,Southern Europe
 94.23.76.235,4,8,librarianinblack.net,PT,Portugal,Europe,Southern Europe
@@ -2571,6 +2640,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 91.146.96.100,4,3,loading.es,ES,Spain,Europe,Southern Europe
 86.107.32.153,4,615,localaromas.com,IT,Italy,Europe,Southern Europe
 149.62.185.88,4,7,localistorici.it,IT,Italy,Europe,Southern Europe
+195.231.67.171,4,336391,locandacipriani.com,IT,Italy,Europe,Southern Europe
 86.107.36.128,4,248,loccidentale.it,IT,Italy,Europe,Southern Europe
 194.53.148.143,4,-1,locomalito.com,ES,Spain,Europe,Southern Europe
 46.252.147.230,4,68,lofficinadelsapere.it,IT,Italy,Europe,Southern Europe
@@ -2638,6 +2708,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 149.3.148.56,4,76,malpensa24.it,IT,Italy,Europe,Southern Europe
 82.223.2.78,4,3,malta.com,ES,Spain,Europe,Southern Europe
 178.32.140.171,4,3,manifatturatabacchi.com,IT,Italy,Europe,Southern Europe
+195.231.19.235,4,15,mann-napoli.it,IT,Italy,Europe,Southern Europe
 86.107.36.17,4,31,mantellini.it,IT,Italy,Europe,Southern Europe
 2.139.249.93,4,47,manterolmorocco.com,ES,Spain,Europe,Southern Europe
 185.226.0.12,4,57,manu.edu.mk,MK,North Macedonia,Europe,Southern Europe
@@ -2752,6 +2823,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 178.218.162.14,4,15,mingo.hr,HR,Croatia,Europe,Southern Europe
 85.208.102.80,4,63,miniglu.es,ES,Spain,Europe,Southern Europe
 46.252.155.48,4,33677,minimaetmoralia.it,IT,Italy,Europe,Southern Europe
+195.231.68.238,4,1680,ministeroturismo.gov.it,IT,Italy,Europe,Southern Europe
 185.32.191.188,4,12,mintysquare.com,PT,Portugal,Europe,Southern Europe
 77.39.213.148,4,21,miolegale.it,IT,Italy,Europe,Southern Europe
 149.3.145.252,4,34,mipel.com,IT,Italy,Europe,Southern Europe
@@ -2766,6 +2838,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 178.32.143.34,4,19,misterfog.it,IT,Italy,Europe,Southern Europe
 94.23.70.18,4,3,misterimprese.it,IT,Italy,Europe,Southern Europe
 217.171.46.55,4,-97671,mitsubishielectric.it,IT,Italy,Europe,Southern Europe
+185.21.118.124,4,53,mitto.ch,SM,San Marino,Europe,Southern Europe
 62.97.82.34,4,26,mitula.us,ES,Spain,Europe,Southern Europe
 194.146.59.70,4,6,mjuznews.com,RS,Serbia,Europe,Southern Europe
 194.249.3.52,4,3,mklj.si,SI,Slovenia,Europe,Southern Europe
@@ -2827,6 +2900,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 82.194.91.193,4,506,mraos.com,ES,Spain,Europe,Southern Europe
 93.95.216.171,4,7,mrwebmaster.it,IT,Italy,Europe,Southern Europe
 85.94.220.144,4,3,msf.it,IT,Italy,Europe,Southern Europe
+185.21.118.135,4,7,mtbcult.it,SM,San Marino,Europe,Southern Europe
 109.168.97.34,4,387,mtmteatro.it,IT,Italy,Europe,Southern Europe
 185.228.39.61,4,49,mtrack.me,IT,Italy,Europe,Southern Europe
 178.33.115.51,4,4,mujerysalud.es,ES,Spain,Europe,Southern Europe
@@ -2885,6 +2959,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 151.80.201.181,4,49,naturalforum.net,IT,Italy,Europe,Southern Europe
 188.165.68.7,4,9,nature-vitalite.com,ES,Spain,Europe,Southern Europe
 86.109.170.198,4,40,natureduca.com,ES,Spain,Europe,Southern Europe
+193.136.192.180,4,35,nau.edu.pt,PT,Portugal,Europe,Southern Europe
 80.88.87.248,4,-390,nautorswan.com,IT,Italy,Europe,Southern Europe
 82.223.203.72,4,11,naviboard.de,ES,Spain,Europe,Southern Europe
 178.218.166.211,4,4,nbaknights.com,HR,Croatia,Europe,Southern Europe
@@ -2909,8 +2984,10 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 195.130.35.24,4,-19,nic.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
 192.12.192.40,4,4168,nic.it,IT,Italy,Europe,Southern Europe
 193.188.46.34,4,0,nic.org.mt,MT,Malta,Europe,Southern Europe
+185.21.117.188,4,19,niceforyou.com,SM,San Marino,Europe,Southern Europe
 185.138.42.154,4,52,nicholasrossis.me,GR,Greece,Europe,Southern Europe
 185.221.174.147,4,1105,nienteansia.it,IT,Italy,Europe,Southern Europe
+195.231.66.243,4,7868,nigrizia.it,IT,Italy,Europe,Southern Europe
 185.97.53.32,4,19,nijz.si,SI,Slovenia,Europe,Southern Europe
 94.23.86.11,4,10,nikcub.com,ES,Spain,Europe,Southern Europe
 77.105.36.17,4,6,nikolalepojevic5.com,RS,Serbia,Europe,Southern Europe
@@ -2940,6 +3017,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 51.255.117.202,4,86,nordicwalkingtaoverona.it,IT,Italy,Europe,Southern Europe
 93.95.216.64,4,33,notebookitalia.it,IT,Italy,Europe,Southern Europe
 178.32.139.137,4,122,notepadqq.com,IT,Italy,Europe,Southern Europe
+195.231.60.33,4,12,notiziaoggi.it,IT,Italy,Europe,Southern Europe
 188.165.121.145,4,20,nounou-top.fr,ES,Spain,Europe,Southern Europe
 46.54.177.247,4,19238,nova-gorica.si,SI,Slovenia,Europe,Southern Europe
 212.85.38.228,4,-319,nova.es,ES,Spain,Europe,Southern Europe
@@ -2964,12 +3042,14 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 95.110.185.242,4,80141,nuovavimaplast.it,IT,Italy,Europe,Southern Europe
 46.16.91.115,4,11,nuovincontri.org,IT,Italy,Europe,Southern Europe
 81.31.158.39,4,27,nuoviprofili.com,IT,Italy,Europe,Southern Europe
+185.21.118.89,4,13,nurse24.it,SM,San Marino,Europe,Southern Europe
 185.161.98.3,4,4,nutfruit.org,ES,Spain,Europe,Southern Europe
 94.46.183.147,4,2368,nutrimento.pt,PT,Portugal,Europe,Southern Europe
 193.70.109.204,4,-9,nyurbanventures.com,IT,Italy,Europe,Southern Europe
 178.33.160.224,4,4,oafifoundation.com,ES,Spain,Europe,Southern Europe
 185.138.42.76,4,-2,oanagnostis.gr,GR,Greece,Europe,Southern Europe
 31.22.113.54,4,1112,oasa.gr,GR,Greece,Europe,Southern Europe
+195.231.87.73,4,12,oasport.it,IT,Italy,Europe,Southern Europe
 188.164.200.35,4,-20378,oasth.gr,GR,Greece,Europe,Southern Europe
 50.28.50.196,4,5,obamapacman.com,GR,Greece,Europe,Southern Europe
 94.46.168.60,4,-129,obidos.pt,PT,Portugal,Europe,Southern Europe
@@ -2979,6 +3059,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 31.214.178.88,4,9,observatoriosostenibilidad.org,ES,Spain,Europe,Southern Europe
 185.56.218.202,4,-100,occhionotizie.it,IT,Italy,Europe,Southern Europe
 212.92.47.202,4,1,oceanhotels.net,ES,Spain,Europe,Southern Europe
+195.231.4.64,4,7,oceanreefgroup.com,IT,Italy,Europe,Southern Europe
 178.33.118.15,4,19,ocmjerez.org,ES,Spain,Europe,Southern Europe
 86.109.160.92,4,528,ocptecnology.com,ES,Spain,Europe,Southern Europe
 192.71.245.69,4,31,odessa-daily.com.ua,IT,Italy,Europe,Southern Europe
@@ -2988,6 +3069,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.164.35.81,4,29,oehelp.com,BA,Bosnia and Herzegovina,Europe,Southern Europe
 91.134.202.231,4,5,oei.es,ES,Spain,Europe,Southern Europe
 188.165.133.150,4,4,official.fm,ES,Spain,Europe,Southern Europe
+195.231.19.217,4,6,officinagrandi.it,IT,Italy,Europe,Southern Europe
 80.88.87.189,4,-84,officinalagana.it,IT,Italy,Europe,Southern Europe
 93.95.216.175,4,4,ofm.org,IT,Italy,Europe,Southern Europe
 94.23.83.240,4,3,ogallagher.link,ES,Spain,Europe,Southern Europe
@@ -3003,6 +3085,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 178.218.165.196,4,70,okud-istra.hr,HR,Croatia,Europe,Southern Europe
 5.196.169.249,4,54,olav.top,ES,Spain,Europe,Southern Europe
 164.138.211.147,4,4,oleand.es,ES,Spain,Europe,Southern Europe
+195.231.70.165,4,19,oltremare.org,IT,Italy,Europe,Southern Europe
 185.138.42.54,4,3,omhksea.org,GR,Greece,Europe,Southern Europe
 94.177.195.150,4,121,omnimoto.it,IT,Italy,Europe,Southern Europe
 67.225.175.248,4,7,on-rev.com,ES,Spain,Europe,Southern Europe
@@ -3014,12 +3097,14 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 213.32.44.182,4,-6,onlineformapro.com,ES,Spain,Europe,Southern Europe
 213.212.133.252,4,12,onuitalia.it,IT,Italy,Europe,Southern Europe
 195.96.192.202,4,358,Ookla Speedtest Server 1324: speedtest.fastnet.it,IT,Italy,Europe,Southern Europe
+195.222.38.106,4,443,Ookla Speedtest Server 1341: speedtest.bih.net.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
 217.15.103.2,4,221,Ookla Speedtest Server 1665: speedtest.go.com.mt,MT,Malta,Europe,Southern Europe
 62.217.126.171,4,138,Ookla Speedtest Server 1727: speedtest.gr-ix.gr,GR,Greece,Europe,Southern Europe
 91.213.30.22,4,242,Ookla Speedtest Server 2254: speedtest.catnix.cat,ES,Spain,Europe,Southern Europe
 212.66.97.26,4,327,Ookla Speedtest Server 2275: speedtest.panservice.it,IT,Italy,Europe,Southern Europe
 194.116.76.88,4,376,Ookla Speedtest Server 2316: speedtest1.top-ix.org,IT,Italy,Europe,Southern Europe
 194.158.74.66,4,-73309,Ookla Speedtest Server 2530: ooklaspeedtest1.andorratelecom.ad,AD,Andorra,Europe,Southern Europe
+80.80.160.222,4,-208824,Ookla Speedtest Server 2910: speed-test.ipko.com,AL,Albania,Europe,Southern Europe
 46.234.238.142,4,-876543,Ookla Speedtest Server 3284: speedtest.brennercom.net,IT,Italy,Europe,Southern Europe
 109.73.80.190,4,302,Ookla Speedtest Server 3301: speedtest.connesi.it,IT,Italy,Europe,Southern Europe
 213.163.97.30,4,360,Ookla Speedtest Server 3392: speedtest1.telekomi.net,AL,Albania,Europe,Southern Europe
@@ -3029,8 +3114,10 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 213.143.77.82,4,300,Ookla Speedtest Server 4303: speedtest.telemach.net,SI,Slovenia,Europe,Southern Europe
 213.212.129.36,4,224,Ookla Speedtest Server 4564: speedtest.itgate.net,IT,Italy,Europe,Southern Europe
 31.214.178.123,4,280,Ookla Speedtest Server 4988: speedtest.conectabalear.com,ES,Spain,Europe,Southern Europe
+31.22.112.100,4,815707,Ookla Speedtest Server 5377: speedtest.hyperhosting.gr,GR,Greece,Europe,Southern Europe
 147.156.200.174,4,227,Ookla Speedtest Server 5481: speedtest.uv.es,ES,Spain,Europe,Southern Europe
 176.62.0.58,4,324,Ookla Speedtest Server 5708: observium.terrakom.hr,HR,Croatia,Europe,Southern Europe
+92.118.251.78,4,158385,Ookla Speedtest Server 5804: speedtest.flexa.tv,ES,Spain,Europe,Southern Europe
 213.190.194.242,4,432,Ookla Speedtest Server 5874: speedtest.nosmadeira.com,PT,Portugal,Europe,Southern Europe
 185.26.198.132,4,248,Ookla Speedtest Server 5914: speedtest.4isp.it,IT,Italy,Europe,Southern Europe
 62.102.152.34,4,345,Ookla Speedtest Server 6129: st1.admmax.com,IT,Italy,Europe,Southern Europe
@@ -3050,6 +3137,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 88.148.8.109,4,441,Ookla Speedtest Server 12785: speedtest.telfy.com,ES,Spain,Europe,Southern Europe
 178.255.116.57,4,450,Ookla Speedtest Server 12799: speedtest.teleimpiantisrl.net,IT,Italy,Europe,Southern Europe
 185.158.171.8,4,325,Ookla Speedtest Server 13110: speedtest.fibra365.net,ES,Spain,Europe,Southern Europe
+84.22.32.210,4,286,Ookla Speedtest Server 13613: speedtest.artmotion.net,AL,Albania,Europe,Southern Europe
 185.133.99.162,4,145492,Ookla Speedtest Server 13707: testvelocidad.ibersontel.com,ES,Spain,Europe,Southern Europe
 62.87.67.36,4,379,Ookla Speedtest Server 14449: speedtestbarcelona2.vodafone.es,ES,Spain,Europe,Southern Europe
 109.245.25.164,4,373,Ookla Speedtest Server 14476: speedtest2.yettel.rs,RS,Serbia,Europe,Southern Europe
@@ -3063,6 +3151,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.54.130.15,4,134,Ookla Speedtest Server 15590: speedtest.softnet.mk,MK,North Macedonia,Europe,Southern Europe
 185.100.33.18,4,18471,Ookla Speedtest Server 15920: speedtest1.interfibra.it,IT,Italy,Europe,Southern Europe
 185.213.84.15,4,5,Ookla Speedtest Server 15939: speedtest1.fibratown.com,ES,Spain,Europe,Southern Europe
+31.185.4.254,4,165,Ookla Speedtest Server 15946: speedtest.vidnoe.net,SI,Slovenia,Europe,Southern Europe
 185.166.252.233,4,142,Ookla Speedtest Server 16233: speedtest.econet.hr,HR,Croatia,Europe,Southern Europe
 185.90.211.158,4,263,Ookla Speedtest Server 16860: speedtest.wirered.es,ES,Spain,Europe,Southern Europe
 185.215.140.10,4,205,Ookla Speedtest Server 17155: speedtest1.farecom.it,IT,Italy,Europe,Southern Europe
@@ -3095,6 +3184,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 188.214.241.247,4,383,Ookla Speedtest Server 21394: st1alguazas.borecom.com,ES,Spain,Europe,Southern Europe
 212.230.175.203,4,-1545117,Ookla Speedtest Server 21516: speedtest-bcn.masmovil.com,ES,Spain,Europe,Southern Europe
 194.36.75.14,4,330,Ookla Speedtest Server 22857: srv-st03.arcolink.it,IT,Italy,Europe,Southern Europe
+84.22.32.214,4,249,Ookla Speedtest Server 23333: speedtest2.artmotion.net,AL,Albania,Europe,Southern Europe
 185.110.20.18,4,241,Ookla Speedtest Server 24175: speedtest.extnet.it,IT,Italy,Europe,Southern Europe
 31.3.91.229,4,237,Ookla Speedtest Server 24197: speedtest.ultranet.mk,MK,North Macedonia,Europe,Southern Europe
 212.200.230.249,4,406,Ookla Speedtest Server 25034: speedtest3.mts.rs,RS,Serbia,Europe,Southern Europe
@@ -3120,6 +3210,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 195.39.194.14,4,349,Ookla Speedtest Server 33953: speedtest.uania.cloud,IT,Italy,Europe,Southern Europe
 95.176.233.25,4,397,Ookla Speedtest Server 35092: speedtest-mb.telekom.si,SI,Slovenia,Europe,Southern Europe
 185.249.208.28,4,344,Ookla Speedtest Server 35379: speed.telecablecartaya.es,ES,Spain,Europe,Southern Europe
+77.81.115.252,4,451,Ookla Speedtest Server 35992: speedtest.differnet.es,ES,Spain,Europe,Southern Europe
 217.70.240.142,4,-31216,Ookla Speedtest Server 38016: speedtest.dragonet.es,ES,Spain,Europe,Southern Europe
 185.82.225.142,4,342,Ookla Speedtest Server 38037: speed.mylinkfd.it,IT,Italy,Europe,Southern Europe
 146.255.89.2,4,327,Ookla Speedtest Server 38088: speedtest.gonet.mk,MK,North Macedonia,Europe,Southern Europe
@@ -3143,6 +3234,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.190.100.27,4,377,Ookla Speedtest Server 44255: speedtest.citelia.es,ES,Spain,Europe,Southern Europe
 193.37.66.42,4,159,Ookla Speedtest Server 44396: speedtestpals.infocelra.com,ES,Spain,Europe,Southern Europe
 185.113.142.188,4,205899,Ookla Speedtest Server 44427: speedtest.innov4web.pt,PT,Portugal,Europe,Southern Europe
+92.118.251.21,4,233,Ookla Speedtest Server 45063: speedtestvegafibra.com,ES,Spain,Europe,Southern Europe
 37.35.65.154,4,233,Ookla Speedtest Server 45273: atmfiberspeedtest.lindisite.com,XK,Kosovo,Europe,Southern Europe
 62.122.228.135,4,227,Ookla Speedtest Server 45282: speedmurcia.fibranet.tv,ES,Spain,Europe,Southern Europe
 45.15.117.127,4,254,Ookla Speedtest Server 45317: speedtest.beconet.es,ES,Spain,Europe,Southern Europe
@@ -3316,6 +3408,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.19.184.178,4,58,parcoartevivente.it,IT,Italy,Europe,Southern Europe
 46.252.151.232,4,3,parcoetna.it,IT,Italy,Europe,Southern Europe
 185.169.25.5,4,3,parconaturaviva.it,IT,Italy,Europe,Southern Europe
+195.231.22.127,4,4,parcosila.it,IT,Italy,Europe,Southern Europe
 178.33.115.215,4,41,paresbalta.com,ES,Spain,Europe,Southern Europe
 212.44.120.77,4,23,park-skocjanske-jame.si,SI,Slovenia,Europe,Southern Europe
 185.205.41.143,4,69,paroledascoprire.it,IT,Italy,Europe,Southern Europe
@@ -3346,6 +3439,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 93.191.241.47,4,4935,percorsiconibambini.it,IT,Italy,Europe,Southern Europe
 185.5.124.52,4,33,perforacionesjocal.com,ES,Spain,Europe,Southern Europe
 178.211.133.64,4,9,periodismociudadano.com,ES,Spain,Europe,Southern Europe
+195.231.27.4,4,38,periodismohumano.com,IT,Italy,Europe,Southern Europe
 80.88.84.232,4,52,perlapace.it,IT,Italy,Europe,Southern Europe
 46.252.150.62,4,39,permanentpeoplestribunal.org,IT,Italy,Europe,Southern Europe
 212.39.9.98,4,542436,perugiatiming.com,IT,Italy,Europe,Southern Europe
@@ -3403,6 +3497,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 212.103.142.110,4,10,pnvnet.si,SI,Slovenia,Europe,Southern Europe
 91.234.46.207,4,47,poandpo.com,HR,Croatia,Europe,Southern Europe
 82.223.10.81,4,14,pocketnavigation.de,ES,Spain,Europe,Southern Europe
+91.185.203.249,4,63,podnapisi.net,SI,Slovenia,Europe,Southern Europe
 91.185.207.128,4,26,podnapisi.net,SI,Slovenia,Europe,Southern Europe
 188.164.128.231,4,24,poems-and-quotes.com,IT,Italy,Europe,Southern Europe
 194.41.59.44,4,41,poker6.cc,IT,Italy,Europe,Southern Europe
@@ -3410,6 +3505,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 194.56.74.55,4,17,poliklinika-djeca.hr,HR,Croatia,Europe,Southern Europe
 185.25.23.68,4,4,polimatidisbros.gr,GR,Greece,Europe,Southern Europe
 80.211.129.70,4,-6209,polistampa.com,IT,Italy,Europe,Southern Europe
+178.255.225.204,4,44,politicaexterior.com,ES,Spain,Europe,Southern Europe
 79.175.127.162,4,2,politikin-zabavnik.rs,RS,Serbia,Europe,Southern Europe
 185.2.5.11,4,4,polkascan.org,IT,Italy,Europe,Southern Europe
 46.105.159.155,4,6,poloralph-lauren.org.uk,PT,Portugal,Europe,Southern Europe
@@ -3445,6 +3541,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.58.73.146,4,64,pp-telascica.hr,HR,Croatia,Europe,Southern Europe
 185.90.59.130,4,84,ppbi.pt,PT,Portugal,Europe,Southern Europe
 185.209.60.126,4,37,ppmadrid.es,ES,Spain,Europe,Southern Europe
+151.11.81.26,4,-1066,pramac.com,IT,Italy,Europe,Southern Europe
 31.147.206.190,4,73,pravo.hr,HR,Croatia,Europe,Southern Europe
 164.132.63.35,4,53,prazdnik-land.ru,IT,Italy,Europe,Southern Europe
 84.88.71.7,4,-2,prbb.org,ES,Spain,Europe,Southern Europe
@@ -3492,10 +3589,12 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 200.234.225.4,4,36,psicologiamadrid.es,ES,Spain,Europe,Southern Europe
 82.194.90.28,4,2,psiquiatria.com,ES,Spain,Europe,Southern Europe
 86.109.166.203,4,38,psp.es,ES,Spain,Europe,Southern Europe
+31.14.255.129,4,192,pta.es,ES,Spain,Europe,Southern Europe
 185.15.20.127,4,42,ptisp.pt,PT,Portugal,Europe,Southern Europe
 185.15.23.234,4,16,ptisp.pt,PT,Portugal,Europe,Southern Europe
 185.15.23.200,4,17,ptisp.pt,PT,Portugal,Europe,Southern Europe
 185.15.23.235,4,10,ptisp.pt,PT,Portugal,Europe,Southern Europe
+193.136.192.211,4,13,ptspace.pt,PT,Portugal,Europe,Southern Europe
 91.142.214.246,4,3,publicatalogue.com,ES,Spain,Europe,Southern Europe
 46.252.149.88,4,220,publicpolicy.it,IT,Italy,Europe,Southern Europe
 188.165.135.230,4,23,publiguia.net,ES,Spain,Europe,Southern Europe
@@ -3754,6 +3853,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 31.24.41.113,4,20,sanroqueclub.com,ES,Spain,Europe,Southern Europe
 51.210.87.131,4,4,sansebastianturismoa.eus,ES,Spain,Europe,Southern Europe
 89.40.175.232,4,159,sansirostadium.com,IT,Italy,Europe,Southern Europe
+195.231.70.70,4,4,santamargherita.com,IT,Italy,Europe,Southern Europe
 94.23.66.84,4,5,santamariadellascala.com,IT,Italy,Europe,Southern Europe
 46.254.34.104,4,6,santanna.it,IT,Italy,Europe,Southern Europe
 94.23.84.202,4,8,santceloni.cat,ES,Spain,Europe,Southern Europe
@@ -3779,6 +3879,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 85.235.130.70,4,795,scfelettrotecnica.it,IT,Italy,Europe,Southern Europe
 149.3.148.179,4,4,schiratti.com,IT,Italy,Europe,Southern Europe
 46.28.2.30,4,10,scienzavegetariana.it,IT,Italy,Europe,Southern Europe
+195.231.39.105,4,30,scienzenotizie.it,IT,Italy,Europe,Southern Europe
 152.89.234.135,4,2,scinote.net,SI,Slovenia,Europe,Southern Europe
 54.37.119.130,4,12,sciroccoh.it,PT,Portugal,Europe,Southern Europe
 95.100.105.183,4,37,scottishpower.co.uk,ES,Spain,Europe,Southern Europe
@@ -3792,6 +3893,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 5.196.204.222,4,-1,scs-sentinel.com,IT,Italy,Europe,Southern Europe
 86.107.36.137,4,-30,scuolacomics.com,IT,Italy,Europe,Southern Europe
 81.31.147.32,4,4,scuolaleonardo.com,IT,Italy,Europe,Southern Europe
+5.198.254.70,4,810,sdmiaoliyuan.com,MT,Malta,Europe,Southern Europe
 91.134.246.94,4,9,sea-astronomia.es,PT,Portugal,Europe,Southern Europe
 88.148.108.102,4,12,sea-entomologia.org,ES,Spain,Europe,Southern Europe
 188.93.124.214,4,13,seadancefestival.me,RS,Serbia,Europe,Southern Europe
@@ -3879,6 +3981,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 147.156.222.187,4,54,silknow.org,ES,Spain,Europe,Southern Europe
 213.209.214.11,4,40,simas.it,IT,Italy,Europe,Southern Europe
 62.48.39.93,4,1552,simplebooking.it,IT,Italy,Europe,Southern Europe
+193.147.87.25,4,5,sing-group.org,ES,Spain,Europe,Southern Europe
 185.157.208.41,4,0,sinidisi.gr,GR,Greece,Europe,Southern Europe
 149.3.145.203,4,8,sinistrainrete.info,IT,Italy,Europe,Southern Europe
 91.226.176.148,4,6,sinpermiso.info,ES,Spain,Europe,Southern Europe
@@ -3913,6 +4016,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 213.186.7.74,4,-3774,smartcode.eu,HR,Croatia,Europe,Southern Europe
 91.134.236.236,4,4,smashcast.tv,ES,Spain,Europe,Southern Europe
 62.28.233.153,4,-1465646310,smtuc.pt,PT,Portugal,Europe,Southern Europe
+185.21.117.104,4,3,smtvsanmarino.sm,SM,San Marino,Europe,Southern Europe
 77.39.213.180,4,16,snewsonline.com,IT,Italy,Europe,Southern Europe
 185.97.52.15,4,1,sng-mb.si,SI,Slovenia,Europe,Southern Europe
 94.46.183.98,4,653,snpcultura.org,PT,Portugal,Europe,Southern Europe
@@ -3926,8 +4030,10 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 217.13.93.44,4,-22845,softwarevalencia.com,ES,Spain,Europe,Southern Europe
 94.46.135.54,4,35,sograpevinhos.com,PT,Portugal,Europe,Southern Europe
 90.160.60.180,4,345504,soib.es,ES,Spain,Europe,Southern Europe
+195.231.65.68,4,8,soldioggi.it,IT,Italy,Europe,Southern Europe
 31.3.182.17,4,45,soleluna.com,IT,Italy,Europe,Southern Europe
 46.16.95.7,4,3,soleviola.it,IT,Italy,Europe,Southern Europe
+185.21.117.217,4,31,soloaffitti.it,SM,San Marino,Europe,Southern Europe
 94.23.80.226,4,3,solohijos.com,ES,Spain,Europe,Southern Europe
 80.88.87.205,4,338,soluzionidarredosrl.it,IT,Italy,Europe,Southern Europe
 178.33.118.246,4,470,solvetic.com,ES,Spain,Europe,Southern Europe
@@ -3995,6 +4101,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 91.134.3.252,4,14,stephband.info,ES,Spain,Europe,Southern Europe
 149.3.148.200,4,4,storejextensions.org,IT,Italy,Europe,Southern Europe
 176.62.8.184,4,34,stotinka.hr,HR,Croatia,Europe,Southern Europe
+195.231.94.250,4,577,stradivarius.it,IT,Italy,Europe,Southern Europe
 31.214.178.12,4,70,stratos-ad.com,ES,Spain,Europe,Southern Europe
 145.14.10.73,4,81,streemba.com,SI,Slovenia,Europe,Southern Europe
 86.107.32.130,4,688,stresafestival.eu,IT,Italy,Europe,Southern Europe
@@ -4047,6 +4154,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 89.31.200.24,4,65,targatocn.it,IT,Italy,Europe,Southern Europe
 31.24.44.69,4,5,tarragona21.com,ES,Spain,Europe,Southern Europe
 185.254.205.53,4,80,tarragonaradio.cat,ES,Spain,Europe,Southern Europe
+195.231.38.174,4,45,tartarugando.it,IT,Italy,Europe,Southern Europe
 86.107.36.41,4,1012,taxidrivers.it,IT,Italy,Europe,Southern Europe
 94.46.30.99,4,22,taylor.pt,PT,Portugal,Europe,Southern Europe
 185.221.172.121,4,477,tazionuvolari.it,IT,Italy,Europe,Southern Europe
@@ -4067,6 +4175,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 86.107.36.140,4,1823,teatrosocialecomo.it,IT,Italy,Europe,Southern Europe
 46.30.244.53,4,70,teatrovascello.it,IT,Italy,Europe,Southern Europe
 212.44.102.249,4,12,tebra.si,SI,Slovenia,Europe,Southern Europe
+195.231.15.132,4,16,techadron.com,IT,Italy,Europe,Southern Europe
 185.2.5.19,4,70,techearthblog.it,IT,Italy,Europe,Southern Europe
 207.180.247.67,4,95,technikum29.de,GR,Greece,Europe,Southern Europe
 212.192.24.234,4,-270388,technorosst.com,SI,Slovenia,Europe,Southern Europe
@@ -4189,6 +4298,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 85.208.102.50,4,8,tr3sdland.com,ES,Spain,Europe,Southern Europe
 178.33.114.185,4,740,trabajosdisponibles.info,ES,Spain,Europe,Southern Europe
 62.84.183.255,4,10,trackersbd.com,IT,Italy,Europe,Southern Europe
+151.2.40.146,4,47,traghetti.com,IT,Italy,Europe,Southern Europe
 81.31.151.44,4,6,traghettionline.net,IT,Italy,Europe,Southern Europe
 81.31.157.10,4,5,traghettiper-sicilia.it,IT,Italy,Europe,Southern Europe
 94.127.187.167,4,2,transcerealescruz.com,ES,Spain,Europe,Southern Europe
@@ -4262,6 +4372,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.23.69.155,4,3,txalaparta.eus,ES,Spain,Europe,Southern Europe
 91.142.210.241,4,1,txorierrivalley.com,ES,Spain,Europe,Southern Europe
 213.63.232.43,4,57440,uab.pt,PT,Portugal,Europe,Southern Europe
+193.136.224.33,4,13,ualg.pt,PT,Portugal,Europe,Southern Europe
 178.33.115.165,4,9,uam.edu.ni,ES,Spain,Europe,Southern Europe
 37.139.112.94,4,21,uamd.edu.al,AL,Albania,Europe,Southern Europe
 193.27.202.146,4,10,ubiklibri.it,IT,Italy,Europe,Southern Europe
@@ -4333,6 +4444,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 193.84.177.252,4,6,universodeanimes.es,ES,Spain,Europe,Southern Europe
 213.171.168.211,4,3,unponteper.it,IT,Italy,Europe,Southern Europe
 195.130.61.199,4,34,unsa.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+80.65.66.204,4,9,untz.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
 185.212.108.77,4,32,unvi.edu.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
 147.52.80.1,4,5,uoc.gr,GR,Greece,Europe,Southern Europe
 83.212.171.14,4,12,uowm.gr,GR,Greece,Europe,Southern Europe
@@ -4346,6 +4458,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 77.39.213.110,4,6,urgnano.eu,IT,Italy,Europe,Southern Europe
 193.105.67.75,4,10,urusoft.net,SI,Slovenia,Europe,Southern Europe
 163.171.138.116,4,17,usafis.org,IT,Italy,Europe,Southern Europe
+151.1.210.142,4,33,usag.it,IT,Italy,Europe,Southern Europe
 93.45.105.73,4,3198,usb.it,IT,Italy,Europe,Southern Europe
 77.105.36.155,4,959,uscarriers.net,RS,Serbia,Europe,Southern Europe
 152.89.234.10,4,6,useyournoodles.eu,SI,Slovenia,Europe,Southern Europe
@@ -4365,6 +4478,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.118.190.159,4,-36119,valencianoticias.com,ES,Spain,Europe,Southern Europe
 5.56.60.221,4,3,valentinhotels.com,ES,Spain,Europe,Southern Europe
 95.110.154.27,4,5,valigiablu.it,IT,Italy,Europe,Southern Europe
+195.231.75.213,4,21,valseriananews.it,IT,Italy,Europe,Southern Europe
 93.186.244.190,4,19,valtline.it,IT,Italy,Europe,Southern Europe
 178.218.165.40,4,7,varazdinska-zupanija.hr,HR,Croatia,Europe,Southern Europe
 81.21.26.116,4,27,varesenews.it,IT,Italy,Europe,Southern Europe
@@ -4381,6 +4495,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 82.223.107.169,4,16,vedicfoundationhungary.com,ES,Spain,Europe,Southern Europe
 86.109.166.208,4,50,vedoque.com,ES,Spain,Europe,Southern Europe
 185.78.65.72,4,55,vegaengineering.com,IT,Italy,Europe,Southern Europe
+77.234.148.124,4,10,velikaplanina.si,SI,Slovenia,Europe,Southern Europe
 164.138.208.148,4,8,velocidadcuchara.com,ES,Spain,Europe,Southern Europe
 195.230.102.99,4,27,velti.com,GR,Greece,Europe,Southern Europe
 185.138.42.86,4,7,venetsanoswinery.com,GR,Greece,Europe,Southern Europe
@@ -4611,6 +4726,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 164.138.209.136,4,2,zonaretiro.com,ES,Spain,Europe,Southern Europe
 185.58.73.48,4,20,zoo.hr,HR,Croatia,Europe,Southern Europe
 185.90.58.192,4,13,zoo.pt,PT,Portugal,Europe,Southern Europe
+195.231.5.24,4,1514,zoodipistoia.it,IT,Italy,Europe,Southern Europe
 5.135.123.94,4,4,zoom24.it,IT,Italy,Europe,Southern Europe
 94.46.180.124,4,284,zoomarine.pt,PT,Portugal,Europe,Southern Europe
 178.33.5.215,4,6,zooportraits.com,ES,Spain,Europe,Southern Europe

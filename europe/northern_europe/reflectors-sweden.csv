@@ -16,6 +16,8 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.86.148.45,4,30,allcharts.org,SE,Sweden,Europe,Northern Europe
 185.189.49.196,4,12,alternativ.nu,SE,Sweden,Europe,Northern Europe
 194.14.207.134,4,71492,alvsjohook.se,SE,Sweden,Europe,Northern Europe
+82.102.5.103,4,5,amptron.com,SE,Sweden,Europe,Northern Europe
+185.12.150.225,4,11,angoraferretry.nl,SE,Sweden,Europe,Northern Europe
 91.226.177.122,4,6,anticapitalistas.org,SE,Sweden,Europe,Northern Europe
 23.54.11.155,4,17,apartmentfinder.com,SE,Sweden,Europe,Northern Europe
 91.106.195.66,4,5,aphorismsgalore.com,SE,Sweden,Europe,Northern Europe
@@ -36,6 +38,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 159.253.218.134,4,8796,bccourier.com,SE,Sweden,Europe,Northern Europe
 178.73.235.154,4,815,bendixiaoxi.com,SE,Sweden,Europe,Northern Europe
 79.99.5.172,4,5,bengans.se,SE,Sweden,Europe,Northern Europe
+62.109.34.153,4,-2202951,bevattningsteknik.se,SE,Sweden,Europe,Northern Europe
 195.26.10.100,4,4,binero.com,SE,Sweden,Europe,Northern Europe
 195.26.10.10,4,31,binero.se,SE,Sweden,Europe,Northern Europe
 46.21.107.237,4,558,bloggportalen.se,SE,Sweden,Europe,Northern Europe
@@ -43,6 +46,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 212.237.147.175,4,8,bonniernewslocal.se,SE,Sweden,Europe,Northern Europe
 46.21.106.108,4,12,bostadsratterna.se,SE,Sweden,Europe,Northern Europe
 185.195.94.107,4,8,boverket.se,SE,Sweden,Europe,Northern Europe
+94.46.112.108,4,113,bravia-advert.com,SE,Sweden,Europe,Northern Europe
 46.21.103.246,4,9,bredbandskollen.se,SE,Sweden,Europe,Northern Europe
 94.247.171.69,4,25,brl.se,SE,Sweden,Europe,Northern Europe
 193.93.250.0,4,4,bsr.se,SE,Sweden,Europe,Northern Europe
@@ -52,6 +56,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 86.107.103.190,4,2090,bytlighting.com,SE,Sweden,Europe,Northern Europe
 88.80.25.82,4,5,c64.com,SE,Sweden,Europe,Northern Europe
 86.106.25.252,4,3,caboo.se,SE,Sweden,Europe,Northern Europe
+151.248.0.204,4,1142,campyonly.com,SE,Sweden,Europe,Northern Europe
 23.34.177.143,4,6,caremark.com,SE,Sweden,Europe,Northern Europe
 46.21.98.26,4,5,careofcarl.com,SE,Sweden,Europe,Northern Europe
 86.107.103.68,4,25,casinocosmopol.se,SE,Sweden,Europe,Northern Europe
@@ -62,11 +67,14 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 78.82.206.238,4,5,cblgh.org,SE,Sweden,Europe,Northern Europe
 129.16.223.180,4,6,cdio.org,SE,Sweden,Europe,Northern Europe
 193.183.80.15,4,67,celnat.fr,SE,Sweden,Europe,Northern Europe
+193.12.253.124,4,6,cendio.com,SE,Sweden,Europe,Northern Europe
 185.195.92.56,4,3,centerpartiet.se,SE,Sweden,Europe,Northern Europe
 129.16.225.208,4,8,chalmers.se,SE,Sweden,Europe,Northern Europe
+188.114.224.86,4,8,chandlerproject.org,SE,Sweden,Europe,Northern Europe
 185.195.233.57,4,33,chello.se,SE,Sweden,Europe,Northern Europe
 130.255.161.9,4,53,classicbanjo.com,SE,Sweden,Europe,Northern Europe
 91.226.177.102,4,16,climatica.coop,SE,Sweden,Europe,Northern Europe
+185.139.152.2,4,695,clinic-kyokasho.com,SE,Sweden,Europe,Northern Europe
 178.73.226.83,4,702,clinicnabvi.com,SE,Sweden,Europe,Northern Europe
 46.253.205.74,4,33,cloetta.com,SE,Sweden,Europe,Northern Europe
 91.226.177.97,4,15,colombiainforma.info,SE,Sweden,Europe,Northern Europe
@@ -84,6 +92,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 188.126.76.129,4,5,cybergeography.org,SE,Sweden,Europe,Northern Europe
 83.233.229.159,4,114,daena.me,SE,Sweden,Europe,Northern Europe
 188.126.93.212,4,6,dagensarena.se,SE,Sweden,Europe,Northern Europe
+188.114.246.176,4,120,datadosen.se,SE,Sweden,Europe,Northern Europe
 79.99.2.164,4,15,datormagazin.se,SE,Sweden,Europe,Northern Europe
 193.234.223.31,4,812,dcjfjx.com,SE,Sweden,Europe,Northern Europe
 46.246.44.14,4,29,defolio.com,SE,Sweden,Europe,Northern Europe
@@ -93,6 +102,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 46.246.30.43,4,6,designtorget.se,SE,Sweden,Europe,Northern Europe
 85.24.159.74,4,-5432,destinationuppsala.se,SE,Sweden,Europe,Northern Europe
 194.47.250.29,4,4,dflund.se,SE,Sweden,Europe,Northern Europe
+5.133.192.13,4,5,dgtlpub.com,SE,Sweden,Europe,Northern Europe
 91.226.177.88,4,5,diagonalperiodico.net,SE,Sweden,Europe,Northern Europe
 91.226.177.153,4,38,diagonalperiodico.net,SE,Sweden,Europe,Northern Europe
 185.3.48.3,4,6,dinbyggare.se,SE,Sweden,Europe,Northern Europe
@@ -102,11 +112,13 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 91.189.41.190,4,3,djurskyddet.se,SE,Sweden,Europe,Northern Europe
 91.190.142.200,4,9,DNS Server: 200.142.190.91.in-addr.arpa,SE,Sweden,Europe,Northern Europe
 213.204.228.100,4,7,DNS Server: 213-204-228-100.clients.sappa.info,SE,Sweden,Europe,Northern Europe
+31.209.31.229,4,21580675,DNS Server: 31-209-31-229.cust.bredband2.com,SE,Sweden,Europe,Northern Europe
 81.94.164.237,4,63,DNS Server: 81-94-164-237.customer.itmastaren.net,SE,Sweden,Europe,Northern Europe
 82.100.87.86,4,-48713655,DNS Server: 82-100-87-86.cust.bktv.se,SE,Sweden,Europe,Northern Europe
 83.233.117.77,4,36,DNS Server: 83-233-117-77.cust.bredband2.com,SE,Sweden,Europe,Northern Europe
 88.206.241.205,4,24,DNS Server: 88-206-241-205.savman.se,SE,Sweden,Europe,Northern Europe
 94.255.145.226,4,157,DNS Server: 94-255-145-226.cust.bredband2.com,SE,Sweden,Europe,Northern Europe
+92.35.8.59,4,7,DNS Server: c-3b08235c.027-366-6c6b701.bbcust.telenor.se,SE,Sweden,Europe,Northern Europe
 213.112.21.64,4,5,DNS Server: c-401570d5.08-202-73746f4.cust.ownit.se,SE,Sweden,Europe,Northern Europe
 85.226.227.71,4,5,DNS Server: c-47e3e255.07-373-74686e1.bbcust.telenor.se,SE,Sweden,Europe,Northern Europe
 92.34.129.90,4,3,DNS Server: c-5a81225c.013-418-7570702.bbcust.telenor.se,SE,Sweden,Europe,Northern Europe
@@ -138,10 +150,14 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 77.105.230.81,4,351,DNS Server: user81.77-105-230.netatonce.net,SE,Sweden,Europe,Northern Europe
 89.22.226.245,4,365,DNS Server: v1150322.hosted-by-vdsina.ru,SE,Sweden,Europe,Northern Europe
 194.68.81.185,4,17754,DNS Server: ww194-68-81-185.cust.wintherwireless.se,SE,Sweden,Europe,Northern Europe
+94.46.118.223,4,5,dnscrypt.org,SE,Sweden,Europe,Northern Europe
+185.6.10.220,4,49,domaincrawler.com,SE,Sweden,Europe,Northern Europe
 13.48.21.18,4,4,donhopkins.com,SE,Sweden,Europe,Northern Europe
 94.74.145.24,4,7,eca.ir,SE,Sweden,Europe,Northern Europe
 194.68.113.4,4,996,econ-datalinks.org,SE,Sweden,Europe,Northern Europe
 178.73.217.161,4,5,ecpat.se,SE,Sweden,Europe,Northern Europe
+83.140.23.47,4,65,editnews.com,SE,Sweden,Europe,Northern Europe
+94.46.60.64,4,11,eema.org,SE,Sweden,Europe,Northern Europe
 46.21.103.163,4,34,ehandel.se,SE,Sweden,Europe,Northern Europe
 192.121.158.198,4,813,eigonobenkyo.com,SE,Sweden,Europe,Northern Europe
 206.168.213.43,4,13,ekstedt.nu,SE,Sweden,Europe,Northern Europe
@@ -150,15 +166,18 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 65.20.114.95,4,3,epowerbikes.at,SE,Sweden,Europe,Northern Europe
 185.195.94.154,4,50,erstadiakoni.se,SE,Sweden,Europe,Northern Europe
 84.17.218.170,4,5,esf.se,SE,Sweden,Europe,Northern Europe
+94.246.97.104,4,4,estore.nu,SE,Sweden,Europe,Northern Europe
 109.74.2.241,4,5,etn.se,SE,Sweden,Europe,Northern Europe
 185.3.48.31,4,94,evenemangskalender.se,SE,Sweden,Europe,Northern Europe
 88.80.30.109,4,93,exist-db.org,SE,Sweden,Europe,Northern Europe
 83.218.89.99,4,46,faktoider.nu,SE,Sweden,Europe,Northern Europe
 195.246.120.218,4,69,falkenberg.se,SE,Sweden,Europe,Northern Europe
 185.133.206.91,4,10,falugruva.se,SE,Sweden,Europe,Northern Europe
+188.114.254.58,4,13,fanaticus.org,SE,Sweden,Europe,Northern Europe
 37.152.62.1,4,24,fbt.se,SE,Sweden,Europe,Northern Europe
 176.126.70.141,4,36,feddit.nu,SE,Sweden,Europe,Northern Europe
 176.74.196.60,4,11,fhi.se,SE,Sweden,Europe,Northern Europe
+5.133.194.10,4,899,fileheaven.com,SE,Sweden,Europe,Northern Europe
 192.71.74.222,4,20,folket.se,SE,Sweden,Europe,Northern Europe
 193.183.162.44,4,3,folksam.se,SE,Sweden,Europe,Northern Europe
 46.246.68.46,4,-58271,foretagsklimat.se,SE,Sweden,Europe,Northern Europe
@@ -181,9 +200,12 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.39.145.232,4,21,glesys.se,SE,Sweden,Europe,Northern Europe
 188.240.223.231,4,8,globalamalen.se,SE,Sweden,Europe,Northern Europe
 130.242.124.102,4,5,gmplib.org,SE,Sweden,Europe,Northern Europe
+185.13.96.33,4,50,gq.nu,SE,Sweden,Europe,Northern Europe
 184.84.234.49,4,7,grainger.ca,SE,Sweden,Europe,Northern Europe
+94.46.58.98,4,41,grandeaffiliates.com,SE,Sweden,Europe,Northern Europe
 109.74.15.180,4,4,happyride.se,SE,Sweden,Europe,Northern Europe
 46.21.103.228,4,-21363,hbk.se,SE,Sweden,Europe,Northern Europe
+193.12.247.142,4,4,headspace.dk,SE,Sweden,Europe,Northern Europe
 155.4.163.160,4,22,helgo.net,SE,Sweden,Europe,Northern Europe
 185.157.161.187,4,51,helvetet.eu,SE,Sweden,Europe,Northern Europe
 91.189.41.88,4,6,hemsida24.se,SE,Sweden,Europe,Northern Europe
@@ -194,6 +216,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.189.51.193,4,4,hjarnfonden.se,SE,Sweden,Europe,Northern Europe
 176.126.84.18,4,20,homeq.se,SE,Sweden,Europe,Northern Europe
 188.126.93.172,4,55699,hoor.se,SE,Sweden,Europe,Northern Europe
+82.102.0.52,4,54,hostiko.com,SE,Sweden,Europe,Northern Europe
 193.93.249.250,4,4,hpguiden.se,SE,Sweden,Europe,Northern Europe
 46.21.98.12,4,8,hudoteket.se,SE,Sweden,Europe,Northern Europe
 46.246.44.203,4,26,iaarc.org,SE,Sweden,Europe,Northern Europe
@@ -201,6 +224,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.7.33.56,4,19,idcardmaster.net,SE,Sweden,Europe,Northern Europe
 195.238.76.28,4,16,idrottonline.se,SE,Sweden,Europe,Northern Europe
 185.88.137.3,4,20,ifpi.se,SE,Sweden,Europe,Northern Europe
+178.21.73.83,4,1017,igbp.net,SE,Sweden,Europe,Northern Europe
 95.215.45.75,4,3,illusionweb.org,SE,Sweden,Europe,Northern Europe
 212.63.223.232,4,-26,imagebam.com,SE,Sweden,Europe,Northern Europe
 212.63.223.228,4,-29,imagevenue.com,SE,Sweden,Europe,Northern Europe
@@ -236,6 +260,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.117.88.108,4,11,krademedia.com,SE,Sweden,Europe,Northern Europe
 194.47.250.248,4,13,kryo.se,SE,Sweden,Europe,Northern Europe
 46.21.102.107,4,11,kundvisaren.se,SE,Sweden,Europe,Northern Europe
+176.74.198.176,4,12,kung-foo.tv,SE,Sweden,Europe,Northern Europe
 86.106.25.172,4,30,kvartal.se,SE,Sweden,Europe,Northern Europe
 185.157.222.78,4,3,kyrktorget.se,SE,Sweden,Europe,Northern Europe
 130.236.254.142,4,3,lagen.nu,SE,Sweden,Europe,Northern Europe
@@ -253,6 +278,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 46.162.78.46,4,35,livet.se,SE,Sweden,Europe,Northern Europe
 194.14.207.58,4,-6,llamalab.com,SE,Sweden,Europe,Northern Europe
 194.71.211.121,4,573,longtail-japan-gunma-north.net,SE,Sweden,Europe,Northern Europe
+178.21.73.96,4,17,loveskara.se,SE,Sweden,Europe,Northern Europe
 82.99.18.57,4,5,lundahl.se,SE,Sweden,Europe,Northern Europe
 185.246.128.182,4,3,ma-voyance-gratuite.com,SE,Sweden,Europe,Northern Europe
 185.133.206.228,4,28,mangold.se,SE,Sweden,Europe,Northern Europe
@@ -263,10 +289,12 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 46.254.14.213,4,63,mediaflowpro.com,SE,Sweden,Europe,Northern Europe
 194.68.59.98,4,500619,medicaljournals.se,SE,Sweden,Europe,Northern Europe
 109.74.5.141,4,8,medtryck.com,SE,Sweden,Europe,Northern Europe
+188.114.244.139,4,7,meetlima.com,SE,Sweden,Europe,Northern Europe
 185.193.126.146,4,4,memoryoftheworld.org,SE,Sweden,Europe,Northern Europe
 130.0.206.19,4,26,metaglossary.com,SE,Sweden,Europe,Northern Europe
 46.246.39.10,4,-117757,mi.se,SE,Sweden,Europe,Northern Europe
 46.246.39.66,4,10,mickiofsweden.com,SE,Sweden,Europe,Northern Europe
+188.114.234.152,4,36,microcuts.net,SE,Sweden,Europe,Northern Europe
 159.253.26.133,4,17,midnattsloppet.com,SE,Sweden,Europe,Northern Europe
 188.66.62.194,4,56,millenarywatches.com,SE,Sweden,Europe,Northern Europe
 188.126.71.166,4,20,minesto.com,SE,Sweden,Europe,Northern Europe
@@ -274,6 +302,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 217.198.65.14,4,16,mipsprotection.com,SE,Sweden,Europe,Northern Europe
 85.24.159.71,4,327,mistrafuturefashion.com,SE,Sweden,Europe,Northern Europe
 194.132.81.53,4,29,mittsune.se,SE,Sweden,Europe,Northern Europe
+94.46.116.70,4,20,miyakemura.com,SE,Sweden,Europe,Northern Europe
 130.255.167.123,4,33,mobilepaymentconference.com,SE,Sweden,Europe,Northern Europe
 91.106.198.98,4,4,modernamuseet.se,SE,Sweden,Europe,Northern Europe
 83.168.248.30,4,2651,mtg.com,SE,Sweden,Europe,Northern Europe
@@ -282,17 +311,21 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 88.80.16.173,4,6,mustbedestroyed.org,SE,Sweden,Europe,Northern Europe
 86.106.25.174,4,21,myplace.nu,SE,Sweden,Europe,Northern Europe
 185.15.122.73,4,15,mysenfotballold.no,SE,Sweden,Europe,Northern Europe
+94.46.114.10,4,5,mysqldumper.de,SE,Sweden,Europe,Northern Europe
 192.71.32.174,4,8,nacionred.com,SE,Sweden,Europe,Northern Europe
 185.189.49.45,4,4,namninsamling.se,SE,Sweden,Europe,Northern Europe
 178.73.237.146,4,812,nayamisc.net,SE,Sweden,Europe,Northern Europe
 92.123.135.147,4,3,nbcolympics.com,SE,Sweden,Europe,Northern Europe
 92.123.135.142,4,5,nbcolympics.com,SE,Sweden,Europe,Northern Europe
+94.46.126.243,4,3,necomimi.com,SE,Sweden,Europe,Northern Europe
 159.253.216.48,4,376,nelt.co.jp,SE,Sweden,Europe,Northern Europe
 192.71.80.67,4,21,netnod.se,SE,Sweden,Europe,Northern Europe
 194.132.81.32,4,12037,nevs.com,SE,Sweden,Europe,Northern Europe
+151.252.28.191,4,27463,newmusiccanada.com,SE,Sweden,Europe,Northern Europe
 194.103.132.84,4,11,ngm.se,SE,Sweden,Europe,Northern Europe
 194.103.132.100,4,5,ngm.se,SE,Sweden,Europe,Northern Europe
 46.246.75.23,4,8,nimbus.se,SE,Sweden,Europe,Northern Europe
+188.114.246.24,4,10,nintendo-inside.jp,SE,Sweden,Europe,Northern Europe
 216.158.103.68,4,26700,nixoncenter.org,SE,Sweden,Europe,Northern Europe
 13.49.92.252,4,2,nki.no,SE,Sweden,Europe,Northern Europe
 192.36.232.17,4,8,nordansmak.se,SE,Sweden,Europe,Northern Europe
@@ -346,12 +379,14 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 194.14.207.181,4,31,postkodstiftelsen.se,SE,Sweden,Europe,Northern Europe
 37.152.62.222,4,33,pp-velebit.hr,SE,Sweden,Europe,Northern Europe
 89.221.250.29,4,18,prepperforum.se,SE,Sweden,Europe,Northern Europe
+193.12.247.78,4,4,pro-net.se,SE,Sweden,Europe,Northern Europe
 192.165.9.156,4,25,procup.se,SE,Sweden,Europe,Northern Europe
 185.84.28.15,4,-368,proletaren.se,SE,Sweden,Europe,Northern Europe
 185.7.33.84,4,20,prosoftstore.com,SE,Sweden,Europe,Northern Europe
 130.237.227.251,4,45,proteinatlas.org,SE,Sweden,Europe,Northern Europe
 194.48.213.75,4,14,quakeworld.nu,SE,Sweden,Europe,Northern Europe
 178.73.242.207,4,-313,quandaryland.com,SE,Sweden,Europe,Northern Europe
+5.133.207.52,4,27479,race-game.org,SE,Sweden,Europe,Northern Europe
 80.72.8.132,4,17,rampanel.com,SE,Sweden,Europe,Northern Europe
 109.235.174.4,4,22,rcflyg.se,SE,Sweden,Europe,Northern Europe
 213.136.36.112,4,44,recepten.se,SE,Sweden,Europe,Northern Europe
@@ -372,8 +407,10 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 188.126.93.224,4,7,robertgraham.com,SE,Sweden,Europe,Northern Europe
 109.74.10.123,4,8,rotter.se,SE,Sweden,Europe,Northern Europe
 178.73.246.46,4,809,roumuiso.xyz,SE,Sweden,Europe,Northern Europe
+212.247.29.226,4,2888006,roxen.com,SE,Sweden,Europe,Northern Europe
 130.236.254.233,4,51,runeberg.org,SE,Sweden,Europe,Northern Europe
 185.195.93.118,4,10,rusta.com,SE,Sweden,Europe,Northern Europe
+185.141.74.50,4,222,samsonblinded.org,SE,Sweden,Europe,Northern Europe
 5.150.254.174,4,11,saotome.st,SE,Sweden,Europe,Northern Europe
 109.235.174.20,4,3,sb-index.com,SE,Sweden,Europe,Northern Europe
 185.195.93.130,4,1,sbf.se,SE,Sweden,Europe,Northern Europe
@@ -385,6 +422,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 194.103.207.33,4,419,serach.info,SE,Sweden,Europe,Northern Europe
 81.181.111.60,4,45,sexclub.co.il,SE,Sweden,Europe,Northern Europe
 130.242.48.1,4,9,sfhm.se,SE,Sweden,Europe,Northern Europe
+185.129.66.223,4,4,sgic.fi,SE,Sweden,Europe,Northern Europe
 85.24.159.75,4,84,shortfilmfestival.com,SE,Sweden,Europe,Northern Europe
 151.248.3.45,4,694,sildenafilxd.com,SE,Sweden,Europe,Northern Europe
 86.106.25.253,4,30,simbin.se,SE,Sweden,Europe,Northern Europe
@@ -404,6 +442,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 130.241.170.87,4,16,snd.se,SE,Sweden,Europe,Northern Europe
 185.195.93.132,4,97,socialdemokraterna.se,SE,Sweden,Europe,Northern Europe
 195.216.48.50,4,21,sovtex.se,SE,Sweden,Europe,Northern Europe
+83.145.36.155,4,53,sportnik.com,SE,Sweden,Europe,Northern Europe
 46.21.97.23,4,75,sprend.com,SE,Sweden,Europe,Northern Europe
 193.138.217.67,4,4,spunk.org,SE,Sweden,Europe,Northern Europe
 194.14.207.186,4,50,ssa.se,SE,Sweden,Europe,Northern Europe
@@ -443,6 +482,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 104.84.152.161,4,7,tajhotels.com,SE,Sweden,Europe,Northern Europe
 185.195.94.101,4,15,taxistockholm.se,SE,Sweden,Europe,Northern Europe
 130.244.126.100,4,71148,TELE2,SE,Sweden,Europe,Northern Europe
+94.46.254.31,4,10,telecentre.org,SE,Sweden,Europe,Northern Europe
 109.235.174.5,4,50,tenstakonsthall.se,SE,Sweden,Europe,Northern Europe
 46.21.101.135,4,67,teslaclubsweden.se,SE,Sweden,Europe,Northern Europe
 185.193.127.40,4,10,textz.com,SE,Sweden,Europe,Northern Europe
@@ -454,7 +494,9 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.157.223.186,4,10,tillitis.se,SE,Sweden,Europe,Northern Europe
 185.195.94.18,4,-6,tillvaxtverket.se,SE,Sweden,Europe,Northern Europe
 185.117.88.183,4,-43,tipichnyjkulinar.com,SE,Sweden,Europe,Northern Europe
+185.15.121.100,4,1,tjoloholm.se,SE,Sweden,Europe,Northern Europe
 109.74.13.245,4,5,tng.se,SE,Sweden,Europe,Northern Europe
+185.123.94.251,4,27454,toilef1.com,SE,Sweden,Europe,Northern Europe
 109.228.188.205,4,6,toontrack.com,SE,Sweden,Europe,Northern Europe
 185.189.48.105,4,7,topy.se,SE,Sweden,Europe,Northern Europe
 89.221.250.20,4,12,tornsif.com,SE,Sweden,Europe,Northern Europe
@@ -468,7 +510,9 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 217.76.63.62,4,8,truyenhinhcapsongthu.net,SE,Sweden,Europe,Northern Europe
 5.178.75.152,4,-117207,tylosand.se,SE,Sweden,Europe,Northern Europe
 5.42.82.40,4,7,ufa102.com,SE,Sweden,Europe,Northern Europe
+185.39.136.213,4,6,umea2014.se,SE,Sweden,Europe,Northern Europe
 194.116.212.2,4,1,upplandsvasby.se,SE,Sweden,Europe,Northern Europe
+185.13.98.125,4,809,usugekenkyu.biz,SE,Sweden,Europe,Northern Europe
 185.195.92.131,4,2,uu.se,SE,Sweden,Europe,Northern Europe
 195.67.32.98,4,-29,vallentuna.se,SE,Sweden,Europe,Northern Europe
 178.73.210.240,4,25,vanuatutourism.com,SE,Sweden,Europe,Northern Europe
@@ -481,6 +525,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 194.14.207.85,4,71493,virtue.nu,SE,Sweden,Europe,Northern Europe
 188.212.108.158,4,23,visionzeroinitiative.com,SE,Sweden,Europe,Northern Europe
 185.133.207.52,4,23,visitvarmland.se,SE,Sweden,Europe,Northern Europe
+217.25.34.2,4,2,vivaroxymusic.com,SE,Sweden,Europe,Northern Europe
 188.126.70.134,4,19,vnv.global,SE,Sweden,Europe,Northern Europe
 109.235.174.18,4,1,volante.se,SE,Sweden,Europe,Northern Europe
 94.254.0.43,4,3,vozin.st,SE,Sweden,Europe,Northern Europe
@@ -490,6 +535,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 80.252.221.194,4,9,waterproof.eu,SE,Sweden,Europe,Northern Europe
 87.237.210.145,4,36,webbkameror.se,SE,Sweden,Europe,Northern Europe
 109.235.174.3,4,23,webhop.se,SE,Sweden,Europe,Northern Europe
+188.114.224.77,4,19,webmasterfree.com,SE,Sweden,Europe,Northern Europe
 193.181.179.198,4,9294,wk9.nl,SE,Sweden,Europe,Northern Europe
 185.246.128.50,4,13,woldwidewithoutaprescription.com,SE,Sweden,Europe,Northern Europe
 185.195.93.70,4,4,worldcard.nl,SE,Sweden,Europe,Northern Europe
@@ -504,3 +550,4 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.189.51.135,4,4,yourmiddleeast.com,SE,Sweden,Europe,Northern Europe
 172.234.96.18,4,6,zimpler.com,SE,Sweden,Europe,Northern Europe
 81.181.111.81,4,2,zithromax.life,SE,Sweden,Europe,Northern Europe
+185.51.32.78,4,4,zspdobra.edu.pl,SE,Sweden,Europe,Northern Europe

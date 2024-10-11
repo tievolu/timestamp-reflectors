@@ -82,6 +82,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 34.240.162.207,4,40,chaser.nl,IE,Ireland,Europe,Northern Europe
 52.209.79.248,4,2,chateaudepommard.com,IE,Ireland,Europe,Northern Europe
 54.75.246.32,4,14,chelwest.nhs.uk,IE,Ireland,Europe,Northern Europe
+78.137.164.234,4,1258,childabusecommission.ie,IE,Ireland,Europe,Northern Europe
 80.93.26.17,4,29,civictheatre.ie,IE,Ireland,Europe,Northern Europe
 5.159.45.142,4,37540,cleanrooms-ireland.ie,IE,Ireland,Europe,Northern Europe
 54.72.184.238,4,10,clearbooks.co.uk,IE,Ireland,Europe,Northern Europe
@@ -106,6 +107,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 78.153.213.253,4,75,dinnri.com,IE,Ireland,Europe,Northern Europe
 51.254.190.13,4,4,dlrcoco.ie,IE,Ireland,Europe,Northern Europe
 188.141.14.51,4,76380,DNS Server: 188-141-14-51.dynamic.upc.ie,IE,Ireland,Europe,Northern Europe
+83.70.77.253,4,38,DNS Server: 83-70-77-253-dynamic.b-ras3.chf.cork.eircom.net,IE,Ireland,Europe,Northern Europe
 86.42.225.94,4,30,DNS Server: 86-42-225-94-dynamic.agg2.tpr.lmk-mlw.eircom.net,IE,Ireland,Europe,Northern Europe
 86.44.219.34,4,173,DNS Server: 86-44-219-34-dynamic.agg2.grs.prp-wtd.eircom.net,IE,Ireland,Europe,Northern Europe
 86.45.96.200,4,93,DNS Server: 86-45-96-200-dynamic.agg2.cbr.rsl-rtd.eircom.net,IE,Ireland,Europe,Northern Europe
@@ -247,6 +249,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 46.22.128.218,4,3,ireland.basketball,IE,Ireland,Europe,Northern Europe
 46.22.138.56,4,3,irelandflyfishing.com,IE,Ireland,Europe,Northern Europe
 80.93.28.167,4,1260,irishaidfellowships.ie,IE,Ireland,Europe,Northern Europe
+78.137.164.233,4,2511,irisharchaeology.ie,IE,Ireland,Europe,Northern Europe
 217.115.123.31,4,4,irishbuildingmagazine.ie,IE,Ireland,Europe,Northern Europe
 46.22.138.185,4,3,irishcatholic.com,IE,Ireland,Europe,Northern Europe
 81.17.241.90,4,-284,irisheconomy.ie,IE,Ireland,Europe,Northern Europe
@@ -288,6 +291,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 46.22.129.41,4,-2046,leargas.ie,IE,Ireland,Europe,Northern Europe
 78.153.209.13,4,21,leitrimtourism.com,IE,Ireland,Europe,Northern Europe
 34.246.86.216,4,122,lesterrassesduport.com,IE,Ireland,Europe,Northern Europe
+78.137.168.227,4,2,letshost.ie,IE,Ireland,Europe,Northern Europe
 18.200.105.160,4,4,lhg.is,IE,Ireland,Europe,Northern Europe
 99.81.124.250,4,6,lhg.is,IE,Ireland,Europe,Northern Europe
 91.210.235.142,4,-19,limetreetheatre.ie,IE,Ireland,Europe,Northern Europe
@@ -559,6 +563,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 52.30.124.11,4,13,unisa-europa.com,IE,Ireland,Europe,Northern Europe
 78.153.210.28,4,3,upperchurchns.ie,IE,Ireland,Europe,Northern Europe
 185.224.198.163,4,4,usi.ie,IE,Ireland,Europe,Northern Europe
+78.137.164.230,4,-1,utvinternet.ie,IE,Ireland,Europe,Northern Europe
 34.246.212.120,4,50,vectra.pl,IE,Ireland,Europe,Northern Europe
 52.18.98.69,4,30,velo-antwerpen.be,IE,Ireland,Europe,Northern Europe
 18.203.216.19,4,5,veniam.com,IE,Ireland,Europe,Northern Europe

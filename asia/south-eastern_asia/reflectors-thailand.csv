@@ -15,6 +15,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 150.107.31.69,4,1329,all-final.com,TH,Thailand,Asia,South-eastern Asia
 202.151.182.28,4,-29,amarintv.com,TH,Thailand,Asia,South-eastern Asia
 202.151.188.206,4,-27,amarintv.com,TH,Thailand,Asia,South-eastern Asia
+203.146.251.200,4,1178847,amena-air.com,TH,Thailand,Asia,South-eastern Asia
 27.254.144.81,4,4,andamanjob.com,TH,Thailand,Asia,South-eastern Asia
 103.246.19.180,4,28,apipat.com,TH,Thailand,Asia,South-eastern Asia
 150.107.31.40,4,175,appservnetwork.com,TH,Thailand,Asia,South-eastern Asia
@@ -25,22 +26,28 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 103.58.149.33,4,46,bahtsold.com,TH,Thailand,Asia,South-eastern Asia
 61.19.250.23,4,-65,ban-tawai.com,TH,Thailand,Asia,South-eastern Asia
 103.253.133.80,4,-9,bangkokpost.com,TH,Thailand,Asia,South-eastern Asia
+122.155.17.252,4,-14,bangkokshuho.com,TH,Thailand,Asia,South-eastern Asia
 112.121.152.45,4,-30,bangkoksync.com,TH,Thailand,Asia,South-eastern Asia
+203.154.208.249,4,4,banmuang.co.th,TH,Thailand,Asia,South-eastern Asia
 27.254.152.23,4,-204,bansannaschool.com,TH,Thailand,Asia,South-eastern Asia
 122.155.187.95,4,45,batterythai.com,TH,Thailand,Asia,South-eastern Asia
+122.155.18.17,4,15,baucon.co.th,TH,Thailand,Asia,South-eastern Asia
 8.213.198.87,4,45,bazaarvietnam.vn,TH,Thailand,Asia,South-eastern Asia
 61.7.234.197,4,-66,bcnlp.ac.th,TH,Thailand,Asia,South-eastern Asia
 61.19.251.28,4,-10,be2hand.com,TH,Thailand,Asia,South-eastern Asia
 111.223.39.134,4,-15,bectero.com,TH,Thailand,Asia,South-eastern Asia
 183.90.168.125,4,-3,bensley.com,TH,Thailand,Asia,South-eastern Asia
 103.4.219.81,4,3124,bike-aholic.com,TH,Thailand,Asia,South-eastern Asia
+203.151.101.61,4,-5,bkkmenu.com,TH,Thailand,Asia,South-eastern Asia
 119.59.99.171,4,39,blueoceanpower.co.th,TH,Thailand,Asia,South-eastern Asia
 164.115.40.75,4,529,bmta.co.th,TH,Thailand,Asia,South-eastern Asia
 103.91.189.90,4,6,bongkoch.com,TH,Thailand,Asia,South-eastern Asia
 210.1.58.193,4,-6294,bookishclub.com,TH,Thailand,Asia,South-eastern Asia
 61.47.6.203,4,-3,bopp-obec.info,TH,Thailand,Asia,South-eastern Asia
+122.155.5.151,4,20,boxingstadiumpatong.com,TH,Thailand,Asia,South-eastern Asia
 119.59.104.32,4,4,buapit.ac.th,TH,Thailand,Asia,South-eastern Asia
 119.59.97.119,4,11,businessall-in-one.com,TH,Thailand,Asia,South-eastern Asia
+203.146.253.96,4,2213,businesssoft.com,TH,Thailand,Asia,South-eastern Asia
 147.50.231.22,4,3,cakenbaker.com,TH,Thailand,Asia,South-eastern Asia
 119.59.96.105,4,6,callinfo.com,TH,Thailand,Asia,South-eastern Asia
 103.86.49.191,4,-37,cashquickonhand.com,TH,Thailand,Asia,South-eastern Asia
@@ -50,6 +57,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 103.58.148.205,4,34,chatuchak.org,TH,Thailand,Asia,South-eastern Asia
 27.254.134.23,4,6,cherryfarmcathotelpattaya.com,TH,Thailand,Asia,South-eastern Asia
 119.59.100.52,4,5,chicaccounting.com,TH,Thailand,Asia,South-eastern Asia
+203.146.127.213,4,-6127,chokmanee.com,TH,Thailand,Asia,South-eastern Asia
 27.254.142.216,4,17,chokwongwai.com,TH,Thailand,Asia,South-eastern Asia
 27.254.85.68,4,85430,choowap.jp,TH,Thailand,Asia,South-eastern Asia
 27.254.152.104,4,-213,chumphonburihos.com,TH,Thailand,Asia,South-eastern Asia
@@ -66,6 +74,8 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 119.59.124.141,4,2159460,dhammathai.org,TH,Thailand,Asia,South-eastern Asia
 61.19.251.23,4,-18,digiservecorp.com,TH,Thailand,Asia,South-eastern Asia
 43.229.149.69,4,3,divanaspa.com,TH,Thailand,Asia,South-eastern Asia
+122.155.11.212,4,-3,dltv.ac.th,TH,Thailand,Asia,South-eastern Asia
+122.155.11.211,4,-8,dltv.ac.th,TH,Thailand,Asia,South-eastern Asia
 147.50.227.14,4,1,dn-lighting.com,TH,Thailand,Asia,South-eastern Asia
 103.27.202.89,4,-24388550,DNS Server: 103-27-202-89.static.bangmod-idc.com,TH,Thailand,Asia,South-eastern Asia
 103.7.58.94,4,43,DNS Server: 103-7-58-94.idc.pop-idc.com,TH,Thailand,Asia,South-eastern Asia
@@ -94,9 +104,13 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 171.103.98.195,4,-240721917,DNS Server: 171-103-98-195.static.asianet.co.th,TH,Thailand,Asia,South-eastern Asia
 171.99.131.78,4,71,DNS Server: 171-99-131-78.static.asianet.co.th,TH,Thailand,Asia,South-eastern Asia
 171.99.134.98,4,1971,DNS Server: 171-99-134-98.static.asianet.co.th,TH,Thailand,Asia,South-eastern Asia
+203.150.172.192,4,-2142196712,DNS Server: 192.172.150.203.sta.inet.co.th,TH,Thailand,Asia,South-eastern Asia
 203.144.139.244,4,92720,DNS Server: 203-144-139-244.static.asianet.co.th,TH,Thailand,Asia,South-eastern Asia
+203.150.37.10,4,8,DNS Server: 203-150-37-10.inter.net.th,TH,Thailand,Asia,South-eastern Asia
+203.150.37.11,4,11,DNS Server: 203-150-37-11.inter.net.th,TH,Thailand,Asia,South-eastern Asia
 203.154.177.8,4,51,DNS Server: 203-154-177-8.inter.net.th,TH,Thailand,Asia,South-eastern Asia
 203.154.62.1,4,61,DNS Server: 203-154-62-1.northern.inet.co.th,TH,Thailand,Asia,South-eastern Asia
+203.150.167.27,4,-2143871890,DNS Server: 27.167.150.203.sta.inet.co.th,TH,Thailand,Asia,South-eastern Asia
 58.82.152.44,4,-3440992808,DNS Server: 44.152.82.58.static-corp.jastel.co.th,TH,Thailand,Asia,South-eastern Asia
 61.91.35.62,4,71,DNS Server: 61-91-35-62.static.asianet.co.th,TH,Thailand,Asia,South-eastern Asia
 171.100.22.20,4,50,DNS Server: cm-171-100-22-20.revip10.asianet.co.th,TH,Thailand,Asia,South-eastern Asia
@@ -120,6 +134,8 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 125.26.5.156,4,-252,DNS Server: node-13w.pool-125-26.dynamic.totinternet.net,TH,Thailand,Asia,South-eastern Asia
 1.10.133.175,4,2536,DNS Server: node-14f.pool-1-10.dynamic.totinternet.net,TH,Thailand,Asia,South-eastern Asia
 1.10.133.192,4,-109492,DNS Server: node-14w.pool-1-10.dynamic.totinternet.net,TH,Thailand,Asia,South-eastern Asia
+118.172.207.149,4,47197,DNS Server: node-1505.pool-118-172.dynamic.totinternet.net,TH,Thailand,Asia,South-eastern Asia
+118.172.229.143,4,61,DNS Server: node-19cf.pool-118-172.dynamic.totinternet.net,TH,Thailand,Asia,South-eastern Asia
 125.24.229.166,4,31971522,DNS Server: node-19d2.pool-125-24.dynamic.totinternet.net,TH,Thailand,Asia,South-eastern Asia
 1.0.135.153,4,-739653,DNS Server: node-1i1.pool-1-0.dynamic.totinternet.net,TH,Thailand,Asia,South-eastern Asia
 1.1.136.105,4,115,DNS Server: node-1nt.pool-1-1.dynamic.totinternet.net,TH,Thailand,Asia,South-eastern Asia
@@ -200,6 +216,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 1.4.170.171,4,1238,DNS Server: node-8ff.pool-1-4.dynamic.totinternet.net,TH,Thailand,Asia,South-eastern Asia
 1.0.170.234,4,-259147,DNS Server: node-8h6.pool-1-0.dynamic.totinternet.net,TH,Thailand,Asia,South-eastern Asia
 1.0.170.243,4,109,DNS Server: node-8hf.pool-1-0.dynamic.totinternet.net,TH,Thailand,Asia,South-eastern Asia
+118.172.43.13,4,51,DNS Server: node-8i5.pool-118-172.dynamic.totinternet.net,TH,Thailand,Asia,South-eastern Asia
 1.0.171.17,4,1027,DNS Server: node-8i9.pool-1-0.dynamic.totinternet.net,TH,Thailand,Asia,South-eastern Asia
 1.0.171.24,4,119832,DNS Server: node-8ig.pool-1-0.dynamic.totinternet.net,TH,Thailand,Asia,South-eastern Asia
 1.0.171.32,4,230,DNS Server: node-8io.pool-1-0.dynamic.totinternet.net,TH,Thailand,Asia,South-eastern Asia
@@ -386,9 +403,11 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 203.170.190.102,4,74,DNS Server: nsits.pioneer.co.th,TH,Thailand,Asia,South-eastern Asia
 210.86.170.186,4,368,DNS Server: ppp-210-86-170-186.revip.asianet.co.th,TH,Thailand,Asia,South-eastern Asia
 139.5.146.125,4,73,DNS Server: rev-dns-cloud-bkk-125-146-5-139-th.nipa.cloud,TH,Thailand,Asia,South-eastern Asia
+203.150.19.24,4,268,dprns.com,TH,Thailand,Asia,South-eastern Asia
 103.233.192.230,4,8,dprocctv.com,TH,Thailand,Asia,South-eastern Asia
 122.155.166.150,4,2,dptools.co.th,TH,Thailand,Asia,South-eastern Asia
 103.246.17.250,4,13,dragondrive.co.th,TH,Thailand,Asia,South-eastern Asia
+110.77.129.237,4,-9,dreamworld.co.th,TH,Thailand,Asia,South-eastern Asia
 119.59.100.54,4,16,ds.ac.th,TH,Thailand,Asia,South-eastern Asia
 119.59.96.103,4,10,dtdxa.com,TH,Thailand,Asia,South-eastern Asia
 150.107.30.20,4,556625,dungdong.com,TH,Thailand,Asia,South-eastern Asia
@@ -419,6 +438,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 103.233.193.42,4,21452,hondacityclub.com,TH,Thailand,Asia,South-eastern Asia
 203.170.193.80,4,2,hongsabai.com,TH,Thailand,Asia,South-eastern Asia
 27.254.151.250,4,1382,hosting.co.th,TH,Thailand,Asia,South-eastern Asia
+122.155.7.29,4,959,hostparagon.com,TH,Thailand,Asia,South-eastern Asia
 156.249.161.113,4,9,huizhoubomei-fr.com,TH,Thailand,Asia,South-eastern Asia
 45.154.27.251,4,1572,i-love-bali.com,TH,Thailand,Asia,South-eastern Asia
 49.0.124.168,4,35,icheckinn.com,TH,Thailand,Asia,South-eastern Asia
@@ -426,6 +446,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 103.4.219.201,4,100,ihaveonline.com,TH,Thailand,Asia,South-eastern Asia
 103.253.72.98,4,4,imi-industries.com,TH,Thailand,Asia,South-eastern Asia
 27.254.134.126,4,3,impact.co.th,TH,Thailand,Asia,South-eastern Asia
+203.151.169.108,4,80,insysc.com,TH,Thailand,Asia,South-eastern Asia
 103.86.51.80,4,-50201,iphone-droid.net,TH,Thailand,Asia,South-eastern Asia
 203.170.190.137,4,5,irasec.com,TH,Thailand,Asia,South-eastern Asia
 61.19.248.104,4,-7,jeban.com,TH,Thailand,Asia,South-eastern Asia
@@ -447,6 +468,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 27.254.66.87,4,119584,kruwandee.com,TH,Thailand,Asia,South-eastern Asia
 38.54.32.5,4,1,kubet.fyi,TH,Thailand,Asia,South-eastern Asia
 119.59.120.8,4,11,lanbaht.com,TH,Thailand,Asia,South-eastern Asia
+203.150.208.197,4,913125,lanpanya.com,TH,Thailand,Asia,South-eastern Asia
 45.64.187.244,4,-205204,laoairlines.com,TH,Thailand,Asia,South-eastern Asia
 27.254.153.17,4,-162,lapawan15.com,TH,Thailand,Asia,South-eastern Asia
 119.59.97.28,4,-2,lasikdrsumet.com,TH,Thailand,Asia,South-eastern Asia
@@ -466,8 +488,12 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 27.254.153.46,4,-227,marketsod.com,TH,Thailand,Asia,South-eastern Asia
 203.78.107.227,4,736,marposs.co.th,TH,Thailand,Asia,South-eastern Asia
 103.4.217.233,4,-1351,mary-sprayer.com,TH,Thailand,Asia,South-eastern Asia
+203.151.27.151,4,128,mathrainbow.com,TH,Thailand,Asia,South-eastern Asia
+122.155.18.143,4,-9,meemodel.com,TH,Thailand,Asia,South-eastern Asia
+122.155.17.113,4,-9,meweb.asia,TH,Thailand,Asia,South-eastern Asia
 202.28.46.8,4,10,mfu.ac.th,TH,Thailand,Asia,South-eastern Asia
 38.60.254.29,4,58,mfun88.info,TH,Thailand,Asia,South-eastern Asia
+203.146.252.146,4,8,mimptattoobangkok.com,TH,Thailand,Asia,South-eastern Asia
 156.249.170.162,4,6,mint-residence.com,TH,Thailand,Asia,South-eastern Asia
 185.78.167.102,4,-4620,miramadison.com,TH,Thailand,Asia,South-eastern Asia
 116.204.180.170,4,-22,misumitechnical.com,TH,Thailand,Asia,South-eastern Asia
@@ -533,10 +559,12 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 96.30.112.242,4,193,Ookla Speedtest Server 62530: bassoon-sg-1.violin.co.th,TH,Thailand,Asia,South-eastern Asia
 27.131.178.200,4,276,Ookla Speedtest Server 63681: speedtest.net.kirz.com,TH,Thailand,Asia,South-eastern Asia
 141.11.158.137,4,317,Ookla Speedtest Server 64015: speedtest.siamcolo.net,TH,Thailand,Asia,South-eastern Asia
+122.155.5.143,4,-14,opat.ac.th,TH,Thailand,Asia,South-eastern Asia
 43.229.78.115,4,637,orange-thailand.com,TH,Thailand,Asia,South-eastern Asia
 43.229.77.150,4,26,orex.co.th,TH,Thailand,Asia,South-eastern Asia
 111.223.52.175,4,-41,ozazic.net,TH,Thailand,Asia,South-eastern Asia
 27.254.62.49,4,3,padlomdee.com,TH,Thailand,Asia,South-eastern Asia
+122.155.0.190,4,-14,palungjit.com,TH,Thailand,Asia,South-eastern Asia
 103.208.26.135,4,4,pantown.com,TH,Thailand,Asia,South-eastern Asia
 103.208.26.136,4,3,pantown.com,TH,Thailand,Asia,South-eastern Asia
 27.254.68.59,4,32,patana.ac.th,TH,Thailand,Asia,South-eastern Asia
@@ -586,6 +614,9 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 103.22.183.220,4,13,repti-playground.com,TH,Thailand,Asia,South-eastern Asia
 150.95.78.58,4,27,restaurantsuhring.com,TH,Thailand,Asia,South-eastern Asia
 150.107.31.64,4,677,ricemill.co.th,TH,Thailand,Asia,South-eastern Asia
+203.151.157.101,4,-8,rj-travel.com,TH,Thailand,Asia,South-eastern Asia
+203.158.192.6,4,-8,rmuti.ac.th,TH,Thailand,Asia,South-eastern Asia
+203.158.167.20,4,90,rmutl.ac.th,TH,Thailand,Asia,South-eastern Asia
 27.254.151.62,4,51,rocktex.com,TH,Thailand,Asia,South-eastern Asia
 103.58.149.70,4,-25174071,rogerfilms.com,TH,Thailand,Asia,South-eastern Asia
 171.102.216.172,4,4,rsu.ac.th,TH,Thailand,Asia,South-eastern Asia
@@ -605,7 +636,9 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 103.30.127.14,4,1,scleroderma-herb.com,TH,Thailand,Asia,South-eastern Asia
 27.254.81.138,4,2960681,sds.co.th,TH,Thailand,Asia,South-eastern Asia
 122.155.197.14,4,1171,seafdec.org,TH,Thailand,Asia,South-eastern Asia
+203.151.157.121,4,12,seo-keyword.net,TH,Thailand,Asia,South-eastern Asia
 103.86.51.196,4,3759,seono1.co.th,TH,Thailand,Asia,South-eastern Asia
+122.155.18.147,4,-341813,setsatian.ac.th,TH,Thailand,Asia,South-eastern Asia
 119.59.100.51,4,7,shieldtech.co.th,TH,Thailand,Asia,South-eastern Asia
 27.254.41.225,4,2,shoppingsod.com,TH,Thailand,Asia,South-eastern Asia
 203.170.193.52,4,6,siam3.com,TH,Thailand,Asia,South-eastern Asia
@@ -614,12 +647,17 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 203.170.129.1,4,-3,siamfocus.com,TH,Thailand,Asia,South-eastern Asia
 103.246.18.14,4,7,siamks.com,TH,Thailand,Asia,South-eastern Asia
 27.254.152.13,4,-1031,siamnetworker.com,TH,Thailand,Asia,South-eastern Asia
+203.146.253.95,4,22266718,siamphone.com,TH,Thailand,Asia,South-eastern Asia
 83.118.17.76,4,70100,siamsafetymart.com,TH,Thailand,Asia,South-eastern Asia
 163.44.197.215,4,4376,siamtobacco.biz,TH,Thailand,Asia,South-eastern Asia
 103.246.19.204,4,1013,sidegraprothai.com,TH,Thailand,Asia,South-eastern Asia
 150.107.31.75,4,7,sinmag.co.th,TH,Thailand,Asia,South-eastern Asia
+203.151.157.113,4,70,sirikraiengineering.com,TH,Thailand,Asia,South-eastern Asia
 202.44.204.87,4,6,sirindhorn.net,TH,Thailand,Asia,South-eastern Asia
 122.155.167.201,4,8,sksamurai.com,TH,Thailand,Asia,South-eastern Asia
+122.155.7.167,4,-649,smethailandclub.com,TH,Thailand,Asia,South-eastern Asia
+203.146.252.148,4,7,smilegallerydentalclinic.com,TH,Thailand,Asia,South-eastern Asia
+203.146.170.20,4,-2,soccersuck.com,TH,Thailand,Asia,South-eastern Asia
 27.254.55.12,4,0,sorworakit.com,TH,Thailand,Asia,South-eastern Asia
 103.230.122.165,4,21,specphone.com,TH,Thailand,Asia,South-eastern Asia
 27.254.66.44,4,2,speedytranslationcenter.com,TH,Thailand,Asia,South-eastern Asia
@@ -642,6 +680,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 27.254.153.48,4,-224,taradkai.com,TH,Thailand,Asia,South-eastern Asia
 43.241.57.9,4,-10,tawansmile.com,TH,Thailand,Asia,South-eastern Asia
 27.254.96.244,4,70,tblinterior.com,TH,Thailand,Asia,South-eastern Asia
+203.151.85.181,4,-38,tci-thaijo.org,TH,Thailand,Asia,South-eastern Asia
 27.254.144.72,4,-1,tdonepro.com,TH,Thailand,Asia,South-eastern Asia
 27.254.153.11,4,-962,teawtourthai.com,TH,Thailand,Asia,South-eastern Asia
 118.174.211.43,4,-16520,technicchan.ac.th,TH,Thailand,Asia,South-eastern Asia
@@ -651,6 +690,8 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 27.254.55.107,4,7,teedinmaesai.com,TH,Thailand,Asia,South-eastern Asia
 111.223.37.134,4,741,teenee.com,TH,Thailand,Asia,South-eastern Asia
 103.4.217.231,4,1568,teeneelanna.com,TH,Thailand,Asia,South-eastern Asia
+203.146.252.145,4,8,teephat.com,TH,Thailand,Asia,South-eastern Asia
+122.155.17.247,4,44,terminalseal.com,TH,Thailand,Asia,South-eastern Asia
 111.223.32.139,4,-39,teroasia.com,TH,Thailand,Asia,South-eastern Asia
 27.254.68.46,4,33,terrabkk.com,TH,Thailand,Asia,South-eastern Asia
 119.59.125.76,4,7,thai-bio.com,TH,Thailand,Asia,South-eastern Asia
@@ -660,6 +701,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 27.254.152.14,4,-4,thaicorrugated.com,TH,Thailand,Asia,South-eastern Asia
 61.19.246.248,4,-6,thaifranchisecenter.com,TH,Thailand,Asia,South-eastern Asia
 119.59.97.14,4,8,thaigoodview.com,TH,Thailand,Asia,South-eastern Asia
+122.155.17.91,4,3,thaihometown.com,TH,Thailand,Asia,South-eastern Asia
 103.30.127.7,4,-5,thailuxurymassage.com,TH,Thailand,Asia,South-eastern Asia
 209.15.99.225,4,-6696,thaimooc.org,TH,Thailand,Asia,South-eastern Asia
 203.170.129.119,4,-1,thaineosize.com,TH,Thailand,Asia,South-eastern Asia
@@ -669,6 +711,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 202.28.1.60,4,29,thaithesis.org,TH,Thailand,Asia,South-eastern Asia
 111.223.39.159,4,88,thaiticketmajor.com,TH,Thailand,Asia,South-eastern Asia
 119.59.100.49,4,5,thaitopmarket.com,TH,Thailand,Asia,South-eastern Asia
+203.146.253.31,4,14,thaiware.com,TH,Thailand,Asia,South-eastern Asia
 119.59.104.13,4,7,thanaiphorn.com,TH,Thailand,Asia,South-eastern Asia
 119.59.97.6,4,-3,thanakoonrat.com,TH,Thailand,Asia,South-eastern Asia
 103.27.200.238,4,-4,thaphaeboxingstadium.com,TH,Thailand,Asia,South-eastern Asia
@@ -712,6 +755,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 5.133.208.166,4,852,virtualfreesites.com,TH,Thailand,Asia,South-eastern Asia
 45.154.26.87,4,-10,vlcloud.net,TH,Thailand,Asia,South-eastern Asia
 110.164.131.109,4,-7,vu.ac.th,TH,Thailand,Asia,South-eastern Asia
+203.146.252.140,4,1,vvanluxurygroup.com,TH,Thailand,Asia,South-eastern Asia
 147.50.231.20,4,0,wabbbb.com,TH,Thailand,Asia,South-eastern Asia
 210.246.231.7,4,-24,wadchan.ac.th,TH,Thailand,Asia,South-eastern Asia
 103.246.18.16,4,17,water-for-life.net,TH,Thailand,Asia,South-eastern Asia

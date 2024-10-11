@@ -12,6 +12,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.108.148.164,4,-41,bauhaus-center.com,IL,Israel,Asia,Western Asia
 192.116.4.50,4,19,bethlehem.edu,IL,Israel,Asia,Western Asia
 195.238.120.202,4,2,bimkom.org,IL,Israel,Asia,Western Asia
+80.178.161.107,4,-7,birdf.com,IL,Israel,Asia,Western Asia
 185.220.206.88,4,35,bitheikuren.com,IL,Israel,Asia,Western Asia
 185.241.6.211,4,1,bizportal.co.il,IL,Israel,Asia,Western Asia
 81.218.117.73,4,33,blmj.org,IL,Israel,Asia,Western Asia
@@ -19,6 +20,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.56.73.50,4,3,breslev.co.il,IL,Israel,Asia,Western Asia
 31.168.170.45,4,40,bug.co.il,IL,Israel,Asia,Western Asia
 185.108.148.65,4,-249,capitalise.ai,IL,Israel,Asia,Western Asia
+192.116.146.100,4,845,carlton.co.il,IL,Israel,Asia,Western Asia
 185.108.148.81,4,-264,carmelwines.co.il,IL,Israel,Asia,Western Asia
 212.199.177.172,4,5,chinanewsline.com,IL,Israel,Asia,Western Asia
 62.219.58.243,4,6,cinema.co.il,IL,Israel,Asia,Western Asia
@@ -45,6 +47,8 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 82.80.207.110,4,65,DNS Server: bzq-82-80-207-110.red.bezeqint.net,IL,Israel,Asia,Western Asia
 82.80.207.94,4,6,DNS Server: bzq-82-80-207-94.red.bezeqint.net,IL,Israel,Asia,Western Asia
 82.80.219.220,4,22,DNS Server: bzq-82-80-219-220.red.bezeqint.net,IL,Israel,Asia,Western Asia
+82.81.243.65,4,-7,DNS Server: bzq-82-81-243-65.cablep.bezeqint.net,IL,Israel,Asia,Western Asia
+212.235.99.195,4,-5622876,DNS Server: DSL212-235-99-195.bb.netvision.net.il,IL,Israel,Asia,Western Asia
 89.208.130.181,4,90,DNS Server: dynamic-181.130.208.89.itc.net.il,IL,Israel,Asia,Western Asia
 89.208.6.66,4,-9,DNS Server: dynamic-66.6.208.89.itc.net.il,IL,Israel,Asia,Western Asia
 89.208.5.78,4,-1021576,DNS Server: dynamic-78.5.208.89.itc.net.il,IL,Israel,Asia,Western Asia
@@ -52,6 +56,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 199.203.131.145,4,131031,DNS Server: mailgw.polyram-group.com,IL,Israel,Asia,Western Asia
 80.179.160.8,4,91,DNS Server: ns-cel61.012.net.il,IL,Israel,Asia,Western Asia
 182.54.236.24,4,1656,e-mago.co.il,IL,Israel,Asia,Western Asia
+192.115.82.200,4,7,e-vrit.co.il,IL,Israel,Asia,Western Asia
 88.218.116.151,4,-1432,econcretetech.com,IL,Israel,Asia,Western Asia
 192.116.71.77,4,61,elijah-interfaith.org,IL,Israel,Asia,Western Asia
 195.225.46.43,4,5,eran.org.il,IL,Israel,Asia,Western Asia
@@ -64,6 +69,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.108.148.112,4,7,herzog.ac.il,IL,Israel,Asia,Western Asia
 66.22.84.27,4,22,hidabroot.org,IL,Israel,Asia,Western Asia
 80.179.226.37,4,608,hma.org.il,IL,Israel,Asia,Western Asia
+84.95.150.50,4,4,humus101.com,IL,Israel,Asia,Western Asia
 185.56.73.24,4,2,idanraichelproject.com,IL,Israel,Asia,Western Asia
 88.218.116.134,4,909,idsf.org.il,IL,Israel,Asia,Western Asia
 195.28.181.44,4,44,insuranceusaauto.com,IL,Israel,Asia,Western Asia
@@ -76,6 +82,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 88.218.117.142,4,-1045,jordanretro.org,IL,Israel,Asia,Western Asia
 195.225.46.181,4,3,jppi.org.il,IL,Israel,Asia,Western Asia
 212.150.243.220,4,1151,julievino.com,IL,Israel,Asia,Western Asia
+192.116.146.34,4,1,jvpvc.com,IL,Israel,Asia,Western Asia
 185.56.72.170,4,20,kehilot.co.il,IL,Israel,Asia,Western Asia
 88.218.117.88,4,114,kinneret.ac.il,IL,Israel,Asia,Western Asia
 66.22.84.16,4,8,kkl-jnf.org,IL,Israel,Asia,Western Asia
@@ -141,6 +148,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.108.148.226,4,7,ssv.network,IL,Israel,Asia,Western Asia
 185.18.207.233,4,763,sterenstein.ru,IL,Israel,Asia,Western Asia
 194.36.90.166,4,8,takdin.co.il,IL,Israel,Asia,Western Asia
+192.116.146.27,4,6,tambour.co.il,IL,Israel,Asia,Western Asia
 185.56.75.185,4,0,tavisraeli.co.il,IL,Israel,Asia,Western Asia
 185.56.75.138,4,10,thenorman.com,IL,Israel,Asia,Western Asia
 185.108.148.219,4,-4,theparentscircle.org,IL,Israel,Asia,Western Asia
@@ -160,6 +168,8 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 192.116.49.85,4,23,wikirefua.org.il,IL,Israel,Asia,Western Asia
 84.95.247.248,4,13,womenwagepeace.org.il,IL,Israel,Asia,Western Asia
 69.16.232.230,4,5,woosteroh.com,IL,Israel,Asia,Western Asia
+80.178.161.132,4,6,xmpie.com,IL,Israel,Asia,Western Asia
 109.226.41.138,4,680,ybook.co.il,IL,Israel,Asia,Western Asia
+192.115.80.55,4,8,ynetnews.com,IL,Israel,Asia,Western Asia
 195.225.46.185,4,2,yo-yoo.co.il,IL,Israel,Asia,Western Asia
 80.179.141.28,4,5,zeustech.net,IL,Israel,Asia,Western Asia

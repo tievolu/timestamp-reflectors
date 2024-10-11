@@ -49,6 +49,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 217.116.16.252,4,-1,alcazardesanjuan.es,ES,Spain,Europe,Southern Europe
 164.138.208.173,4,17,alcazardesegovia.com,ES,Spain,Europe,Southern Europe
 82.194.72.52,4,1846,alcazarsevilla.org,ES,Spain,Europe,Southern Europe
+77.227.201.23,4,-21,alcoi.org,ES,Spain,Europe,Southern Europe
 87.98.227.17,4,4,aldeasabandonadas.com,ES,Spain,Europe,Southern Europe
 185.118.56.167,4,-2,aldeasinfantiles.es,ES,Spain,Europe,Southern Europe
 154.58.198.208,4,53,alejandradeargos.com,ES,Spain,Europe,Southern Europe
@@ -92,6 +93,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 178.211.133.65,4,23,archivoshistoria.com,ES,Spain,Europe,Southern Europe
 46.16.62.251,4,53,ardeola.org,ES,Spain,Europe,Southern Europe
 188.165.130.76,4,53,arenysdemar.cat,ES,Spain,Europe,Southern Europe
+31.14.255.81,4,-1181,argentaceramica.com,ES,Spain,Europe,Southern Europe
 89.248.96.85,4,464,arguments.es,ES,Spain,Europe,Southern Europe
 82.194.74.43,4,2435262,arkeero.com,ES,Spain,Europe,Southern Europe
 195.192.255.150,4,61,arquitecturayempresa.es,ES,Spain,Europe,Southern Europe
@@ -120,6 +122,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.165.188.52,4,-22,aupairinfrance.com,ES,Spain,Europe,Southern Europe
 176.31.21.92,4,22,auren.com,ES,Spain,Europe,Southern Europe
 87.98.227.122,4,21,ausigeti.es,ES,Spain,Europe,Southern Europe
+212.170.49.16,4,31,autoprin.com,ES,Spain,Europe,Southern Europe
 80.240.126.98,4,98,aventura-amazonia.com,ES,Spain,Europe,Southern Europe
 46.29.49.20,4,5,avepa.org,ES,Spain,Europe,Southern Europe
 195.55.43.170,4,73,aviles.es,ES,Spain,Europe,Southern Europe
@@ -210,6 +213,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 195.248.231.74,4,63,carmenthyssenmalaga.org,ES,Spain,Europe,Southern Europe
 164.138.211.172,4,72,carnavaldecadiz.com,ES,Spain,Europe,Southern Europe
 200.234.237.23,4,2,casaarabe.es,ES,Spain,Europe,Southern Europe
+178.255.225.167,4,7,casacochecurro.com,ES,Spain,Europe,Southern Europe
 87.98.228.62,4,4,casafrica.es,ES,Spain,Europe,Southern Europe
 94.23.85.128,4,5,casaldelsinfants.org,ES,Spain,Europe,Southern Europe
 51.38.21.102,4,8,casasilva.cl,ES,Spain,Europe,Southern Europe
@@ -281,6 +285,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.228.169.11,4,5,CleanBrowsing 6,ES,Spain,Europe,Southern Europe
 31.214.178.53,4,28,clinicadelpiesanjuan.com,ES,Spain,Europe,Southern Europe
 54.37.168.114,4,19,clinicaferrusbratos.com,ES,Spain,Europe,Southern Europe
+193.147.107.22,4,25,cliplab.org,ES,Spain,Europe,Southern Europe
 89.248.99.62,4,34,clubatleticodemadrid.com,ES,Spain,Europe,Southern Europe
 5.135.40.74,4,-115,clubdegolfaloha.com,ES,Spain,Europe,Southern Europe
 46.29.49.111,4,4,clubslotalmatriche.com,ES,Spain,Europe,Southern Europe
@@ -378,6 +383,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 194.179.98.48,4,-214222,diputaciolleida.cat,ES,Spain,Europe,Southern Europe
 185.34.194.152,4,22,dircom.org,ES,Spain,Europe,Southern Europe
 91.146.97.111,4,5,directoressociales.com,ES,Spain,Europe,Southern Europe
+178.255.228.84,4,4,disfrazzes.com,ES,Spain,Europe,Southern Europe
 46.231.3.232,4,409,dlacalle.com,ES,Spain,Europe,Southern Europe
 185.95.125.1,4,-36,DNS Server: 1.125.95.185.dynamic.electronicamartinez.es,ES,Spain,Europe,Southern Europe
 81.42.234.1,4,22937,DNS Server: 1.red-81-42-234.staticip.rima-tde.net,ES,Spain,Europe,Southern Europe
@@ -454,6 +460,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 80.27.7.47,4,3581,DNS Server: 47.red-80-27-7.staticip.rima-tde.net,ES,Spain,Europe,Southern Europe
 2.136.37.48,4,176,DNS Server: 48.red-2-136-37.staticip.rima-tde.net,ES,Spain,Europe,Southern Europe
 85.60.12.49,4,70,DNS Server: 49.pool85-60-12.dynamic.orange.es,ES,Spain,Europe,Southern Europe
+37.13.100.49,4,-294,DNS Server: 49.red-37-13-100.dynamicip.rima-tde.net,ES,Spain,Europe,Southern Europe
 5.10.206.251,4,-13438976,DNS Server: 5-10-206-251-ebrecom.ip4.guifi.net,ES,Spain,Europe,Southern Europe
 5.134.36.15,4,145,DNS Server: 5-134-43-15.ipdinamica.dinfotec.com,ES,Spain,Europe,Southern Europe
 5.183.222.62,4,23,DNS Server: 5-183-222-62-ip4.iguana.cat,ES,Spain,Europe,Southern Europe
@@ -505,6 +512,9 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 89.29.199.95,4,2329140,DNS Server: cliente96.triunfotel.es,ES,Spain,Europe,Southern Europe
 82.223.43.108,4,5,DNS Server: cloud01.vspain.net,ES,Spain,Europe,Southern Europe
 82.223.115.77,4,34,DNS Server: consultoriass.online,ES,Spain,Europe,Southern Europe
+87.235.231.212,4,14,DNS Server: din-212-231-235-87.ipcom.comunitel.net,ES,Spain,Europe,Southern Europe
+87.235.231.213,4,18,DNS Server: din-213-231-235-87.ipcom.comunitel.net,ES,Spain,Europe,Southern Europe
+77.231.171.44,4,6,DNS Server: din-44-171-231-77.ipcom.comunitel.net,ES,Spain,Europe,Southern Europe
 77.241.112.23,4,5,DNS Server: dns1.epresaenergia.es,ES,Spain,Europe,Southern Europe
 77.241.112.24,4,7,DNS Server: dns2.epresaenergia.es,ES,Spain,Europe,Southern Europe
 213.140.41.194,4,1,DNS Server: gsemadpe1.net.telefonicaglobalsolutions.com,ES,Spain,Europe,Southern Europe
@@ -519,9 +529,11 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 5.1.38.63,4,300,DNS Server: pn-38.63.prisconetworks.com,ES,Spain,Europe,Southern Europe
 95.60.135.1,4,325,DNS Server: static-1-135-60-95.ipcom.comunitel.net,ES,Spain,Europe,Southern Europe
 89.7.235.170,4,-20358824,DNS Server: static-170-235-7-89.ipcom.comunitel.net,ES,Spain,Europe,Southern Europe
+77.230.66.172,4,368,DNS Server: static-172-66-230-77.ipcom.comunitel.net,ES,Spain,Europe,Southern Europe
 77.225.175.37,4,472,DNS Server: static-37-175-225-77.ipcom.comunitel.net,ES,Spain,Europe,Southern Europe
 77.225.175.38,4,-3814090,DNS Server: static-38-175-225-77.ipcom.comunitel.net,ES,Spain,Europe,Southern Europe
 77.225.175.39,4,473,DNS Server: static-39-175-225-77.ipcom.comunitel.net,ES,Spain,Europe,Southern Europe
+77.228.75.54,4,280,DNS Server: static-54-75-228-77.ipcom.comunitel.net,ES,Spain,Europe,Southern Europe
 139.47.10.8,4,-3599036,DNS Server: static.masmovil.com,ES,Spain,Europe,Southern Europe
 185.93.3.163,4,375,DNS Server: unn-185-93-3-163.datapacket.com,ES,Spain,Europe,Southern Europe
 212.4.121.10,4,400319,DNS Server: var010-121.gnet.es,ES,Spain,Europe,Southern Europe
@@ -532,6 +544,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 51.254.25.115,4,401,DoH server: dns-1.wil.cloud,ES,Spain,Europe,Southern Europe
 31.24.44.210,4,79,dolmeneditorial.com,ES,Spain,Europe,Southern Europe
 46.16.63.49,4,50,dominion-global.com,ES,Spain,Europe,Southern Europe
+213.96.244.209,4,4760,donbalon.com,ES,Spain,Europe,Southern Europe
 185.66.173.231,4,496917,doncomos.com,ES,Spain,Europe,Southern Europe
 82.194.90.122,4,2,dondeestamicasa.com,ES,Spain,Europe,Southern Europe
 37.152.88.156,4,16,dondominio.com,ES,Spain,Europe,Southern Europe
@@ -843,6 +856,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 164.138.211.143,4,1,isabelperez.com,ES,Spain,Europe,Southern Europe
 185.250.203.168,4,59,isanidad.com,ES,Spain,Europe,Southern Europe
 37.153.91.249,4,51,isde.es,ES,Spain,Europe,Southern Europe
+193.144.226.5,4,54,ita.es,ES,Spain,Europe,Southern Europe
 85.62.139.100,4,46,itec.es,ES,Spain,Europe,Southern Europe
 161.22.44.97,4,12,itene.com,ES,Spain,Europe,Southern Europe
 176.28.114.157,4,0,itevelesa.com,ES,Spain,Europe,Southern Europe
@@ -1090,6 +1104,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 91.213.30.22,4,242,Ookla Speedtest Server 2254: speedtest.catnix.cat,ES,Spain,Europe,Southern Europe
 31.214.178.123,4,280,Ookla Speedtest Server 4988: speedtest.conectabalear.com,ES,Spain,Europe,Southern Europe
 147.156.200.174,4,227,Ookla Speedtest Server 5481: speedtest.uv.es,ES,Spain,Europe,Southern Europe
+92.118.251.78,4,158385,Ookla Speedtest Server 5804: speedtest.flexa.tv,ES,Spain,Europe,Southern Europe
 89.29.128.162,4,378,Ookla Speedtest Server 6495: speedtest.almatelecom.es,ES,Spain,Europe,Southern Europe
 185.29.68.21,4,347,Ookla Speedtest Server 6632: sp1.tvt-datos.es,ES,Spain,Europe,Southern Europe
 93.114.159.254,4,366,Ookla Speedtest Server 6903: test1.velocable.com,ES,Spain,Europe,Southern Europe
@@ -1124,11 +1139,13 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 89.140.122.27,4,403,Ookla Speedtest Server 30999: speedtest1.avatel.es,ES,Spain,Europe,Southern Europe
 45.67.151.1,4,366,Ookla Speedtest Server 31702: speedtest.cinglescomunicacions.com,ES,Spain,Europe,Southern Europe
 185.249.208.28,4,344,Ookla Speedtest Server 35379: speed.telecablecartaya.es,ES,Spain,Europe,Southern Europe
+77.81.115.252,4,451,Ookla Speedtest Server 35992: speedtest.differnet.es,ES,Spain,Europe,Southern Europe
 217.70.240.142,4,-31216,Ookla Speedtest Server 38016: speedtest.dragonet.es,ES,Spain,Europe,Southern Europe
 212.81.140.37,4,372,Ookla Speedtest Server 40135: speedmad.sarenet.es,ES,Spain,Europe,Southern Europe
 185.239.228.14,4,372,Ookla Speedtest Server 42137: speedtest1.movitel.tv,ES,Spain,Europe,Southern Europe
 185.190.100.27,4,377,Ookla Speedtest Server 44255: speedtest.citelia.es,ES,Spain,Europe,Southern Europe
 193.37.66.42,4,159,Ookla Speedtest Server 44396: speedtestpals.infocelra.com,ES,Spain,Europe,Southern Europe
+92.118.251.21,4,233,Ookla Speedtest Server 45063: speedtestvegafibra.com,ES,Spain,Europe,Southern Europe
 62.122.228.135,4,227,Ookla Speedtest Server 45282: speedmurcia.fibranet.tv,ES,Spain,Europe,Southern Europe
 45.15.117.127,4,254,Ookla Speedtest Server 45317: speedtest.beconet.es,ES,Spain,Europe,Southern Europe
 185.47.212.26,4,320,Ookla Speedtest Server 48936: speedtest26.csisp.info,ES,Spain,Europe,Southern Europe
@@ -1204,6 +1221,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 84.246.211.167,4,-869,plazayvaldes.es,ES,Spain,Europe,Southern Europe
 82.223.10.81,4,14,pocketnavigation.de,ES,Spain,Europe,Southern Europe
 46.16.59.130,4,12,policonomics.com,ES,Spain,Europe,Southern Europe
+178.255.225.204,4,44,politicaexterior.com,ES,Spain,Europe,Southern Europe
 217.18.163.114,4,36,popularlibros.com,ES,Spain,Europe,Southern Europe
 51.254.53.100,4,19,portalclasico.com,ES,Spain,Europe,Southern Europe
 93.189.38.112,4,40,portalesmedicos.com,ES,Spain,Europe,Southern Europe
@@ -1231,6 +1249,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 200.234.225.4,4,36,psicologiamadrid.es,ES,Spain,Europe,Southern Europe
 82.194.90.28,4,2,psiquiatria.com,ES,Spain,Europe,Southern Europe
 86.109.166.203,4,38,psp.es,ES,Spain,Europe,Southern Europe
+31.14.255.129,4,192,pta.es,ES,Spain,Europe,Southern Europe
 91.142.214.246,4,3,publicatalogue.com,ES,Spain,Europe,Southern Europe
 188.165.135.230,4,23,publiguia.net,ES,Spain,Europe,Southern Europe
 85.208.102.76,4,67,publisuites.com,ES,Spain,Europe,Southern Europe
@@ -1386,6 +1405,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 82.194.71.5,4,0,siis.net,ES,Spain,Europe,Southern Europe
 213.32.58.27,4,6,siliconnews.es,ES,Spain,Europe,Southern Europe
 147.156.222.187,4,54,silknow.org,ES,Spain,Europe,Southern Europe
+193.147.87.25,4,5,sing-group.org,ES,Spain,Europe,Southern Europe
 91.226.176.148,4,6,sinpermiso.info,ES,Spain,Europe,Southern Europe
 85.208.21.122,4,0,sips.barcelona,ES,Spain,Europe,Southern Europe
 164.132.210.91,4,5,site-surf.ru,ES,Spain,Europe,Southern Europe

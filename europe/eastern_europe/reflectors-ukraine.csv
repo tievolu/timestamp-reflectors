@@ -42,6 +42,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.233.117.116,4,39,arendator.com.ua,UA,Ukraine,Europe,Eastern Europe
 89.184.94.60,4,68,armyinform.com.ua,UA,Ukraine,Europe,Eastern Europe
 185.124.10.74,4,24,art-trade.com.ua,UA,Ukraine,Europe,Eastern Europe
+77.120.122.50,4,19005,artukraine.com,UA,Ukraine,Europe,Eastern Europe
 193.169.189.227,4,9,asiacentr.com.ua,UA,Ukraine,Europe,Eastern Europe
 195.234.4.27,4,38,asmetalwork.com.ua,UA,Ukraine,Europe,Eastern Europe
 31.128.78.134,4,118,assistant.ua,UA,Ukraine,Europe,Eastern Europe
@@ -183,6 +184,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 194.143.137.149,4,1160,DNS Server: 194.143.137.149.users.breezein.net,UA,Ukraine,Europe,Eastern Europe
 195.138.64.196,4,15776,DNS Server: 195-138-64-196.client-ip.tenet.odessa.ua,UA,Ukraine,Europe,Eastern Europe
 195.138.79.162,4,59,DNS Server: 195-138-79-162.client-ip.tenet.odessa.ua,UA,Ukraine,Europe,Eastern Europe
+109.86.182.203,4,13164656,DNS Server: 203.182.86.109.triolan.net,UA,Ukraine,Europe,Eastern Europe
 95.135.80.210,4,-52146338,DNS Server: 210-80-135-95.pool.ukrtel.net,UA,Ukraine,Europe,Eastern Europe
 213.231.2.255,4,7,DNS Server: 213.231.2.255.users.breezein.net,UA,Ukraine,Europe,Eastern Europe
 159.224.182.216,4,11,DNS Server: 216.182.224.159.triolan.net,UA,Ukraine,Europe,Eastern Europe
@@ -204,6 +206,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 77.109.21.186,4,3336,DNS Server: 77-109-21-186.static.peoplenet.ua,UA,Ukraine,Europe,Eastern Europe
 77.222.155.35,4,2085,DNS Server: 77-222-155-35-static.retail.datagroup.ua,UA,Ukraine,Europe,Eastern Europe
 77.222.158.126,4,-1397126621,DNS Server: 77-222-158-126-static.retail.datagroup.ua,UA,Ukraine,Europe,Eastern Europe
+109.86.224.77,4,4270,DNS Server: 77.224.86.109.triolan.net,UA,Ukraine,Europe,Eastern Europe
 79.143.35.82,4,24,DNS Server: 79.143.35.82.vntp.net,UA,Ukraine,Europe,Eastern Europe
 82.193.107.136,4,11397,DNS Server: 82.193.107.136.cl.ipnet.ua,UA,Ukraine,Europe,Eastern Europe
 91.224.179.242,4,50604,DNS Server: 91-224-179-242.pool.tv9.net.ua,UA,Ukraine,Europe,Eastern Europe
@@ -364,8 +367,10 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.68.16.94,4,90,econa.org.ua,UA,Ukraine,Europe,Eastern Europe
 89.184.88.99,4,4,ecosoft.ua,UA,Ukraine,Europe,Eastern Europe
 185.104.45.60,4,3,ecotechnica.com.ua,UA,Ukraine,Europe,Eastern Europe
+78.109.19.21,4,21,ecsambo.org,UA,Ukraine,Europe,Eastern Europe
 77.87.196.28,4,5,eden.ua,UA,Ukraine,Europe,Eastern Europe
 89.184.77.198,4,20,edukation.com.ua,UA,Ukraine,Europe,Eastern Europe
+77.120.109.205,4,49,ek.ua,UA,Ukraine,Europe,Eastern Europe
 89.184.70.105,4,88,electrica-shop.com.ua,UA,Ukraine,Europe,Eastern Europe
 185.68.16.197,4,102,electrichouse.com.ua,UA,Ukraine,Europe,Eastern Europe
 217.76.194.115,4,9,elektrovesti.net,UA,Ukraine,Europe,Eastern Europe
@@ -467,6 +472,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 91.194.251.87,4,6,hiblogger.net,UA,Ukraine,Europe,Eastern Europe
 193.151.90.75,4,19,himagro.md,UA,Ukraine,Europe,Eastern Europe
 89.184.68.36,4,-2,hitfm.ua,UA,Ukraine,Europe,Eastern Europe
+77.120.121.243,4,8323491,hnb.com.ua,UA,Ukraine,Europe,Eastern Europe
 212.111.212.228,4,3,hneu.edu.ua,UA,Ukraine,Europe,Eastern Europe
 91.228.146.10,4,13,ho.ua,UA,Ukraine,Europe,Eastern Europe
 89.184.68.12,4,20,hod-konem.com,UA,Ukraine,Europe,Eastern Europe
@@ -475,6 +481,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.68.16.207,4,53,home-divan.ru,UA,Ukraine,Europe,Eastern Europe
 194.28.84.131,4,5,honda.ua,UA,Ukraine,Europe,Eastern Europe
 185.68.16.131,4,45,hostgid.net,UA,Ukraine,Europe,Eastern Europe
+77.120.124.80,4,12,hrliga.com,UA,Ukraine,Europe,Eastern Europe
 91.200.41.251,4,49,hvosting.ua,UA,Ukraine,Europe,Eastern Europe
 77.87.194.209,4,5,hyundai.com.ua,UA,Ukraine,Europe,Eastern Europe
 185.68.16.28,4,6,i-posud.com.ua,UA,Ukraine,Europe,Eastern Europe
@@ -600,6 +607,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 194.28.173.200,4,25,latifundist.com,UA,Ukraine,Europe,Eastern Europe
 89.184.76.190,4,4,lavra.ua,UA,Ukraine,Europe,Eastern Europe
 185.68.16.25,4,3,lawgaw.com.ua,UA,Ukraine,Europe,Eastern Europe
+77.120.110.220,4,99,lawyer.ua,UA,Ukraine,Europe,Eastern Europe
 194.44.147.22,4,-120,ldufk.edu.ua,UA,Ukraine,Europe,Eastern Europe
 185.68.16.153,4,3,le-vele.com.ua,UA,Ukraine,Europe,Eastern Europe
 195.182.194.174,4,12,leave-russia.org,UA,Ukraine,Europe,Eastern Europe
@@ -708,6 +716,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 91.196.52.205,4,8,myip-address.com,UA,Ukraine,Europe,Eastern Europe
 185.104.45.144,4,3,mypaydayloancash.com,UA,Ukraine,Europe,Eastern Europe
 77.87.194.92,4,7,naas.gov.ua,UA,Ukraine,Europe,Eastern Europe
+77.120.109.207,4,8,nadavi.com.ua,UA,Ukraine,Europe,Eastern Europe
 185.65.244.185,4,12,naftusia.com,UA,Ukraine,Europe,Eastern Europe
 185.68.16.45,4,47,naiukraine.com,UA,Ukraine,Europe,Eastern Europe
 195.54.163.111,4,101,nalench.com,UA,Ukraine,Europe,Eastern Europe
@@ -968,6 +977,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 176.114.7.104,4,63,realdom.com.ua,UA,Ukraine,Europe,Eastern Europe
 89.184.92.104,4,59,realgazeta.com.ua,UA,Ukraine,Europe,Eastern Europe
 91.200.40.73,4,-487,rebus1.com,UA,Ukraine,Europe,Eastern Europe
+77.120.119.25,4,22,receptika.ua,UA,Ukraine,Europe,Eastern Europe
 185.104.45.173,4,5,recipespancakes.com,UA,Ukraine,Europe,Eastern Europe
 89.184.69.209,4,48,reform.energy,UA,Ukraine,Europe,Eastern Europe
 89.184.92.26,4,11,rental-power.com.ua,UA,Ukraine,Europe,Eastern Europe
@@ -989,6 +999,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.104.45.134,4,15,royal-service.ua,UA,Ukraine,Europe,Eastern Europe
 80.90.224.53,4,6,roznica.com.ua,UA,Ukraine,Europe,Eastern Europe
 185.104.45.3,4,6,rpr.org.ua,UA,Ukraine,Europe,Eastern Europe
+77.120.120.231,4,23,rstcars.com,UA,Ukraine,Europe,Eastern Europe
 62.244.25.73,4,7,rtkorr.com,UA,Ukraine,Europe,Eastern Europe
 185.91.75.28,4,15,runigma.com.ua,UA,Ukraine,Europe,Eastern Europe
 89.184.73.102,4,64,ruporzt.com.ua,UA,Ukraine,Europe,Eastern Europe
@@ -1167,6 +1178,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 62.149.29.98,4,49,ukrzoloto.ua,UA,Ukraine,Europe,Eastern Europe
 176.105.232.254,4,4,uksatse.ua,UA,Ukraine,Europe,Eastern Europe
 185.68.16.88,4,3,uku.com.ua,UA,Ukraine,Europe,Eastern Europe
+77.120.113.139,4,8,ukurier.gov.ua,UA,Ukraine,Europe,Eastern Europe
 185.68.16.196,4,17,ulf.com.ua,UA,Ukraine,Europe,Eastern Europe
 217.20.175.5,4,42,ultras.lv,UA,Ukraine,Europe,Eastern Europe
 77.87.192.133,4,21,un.org.ua,UA,Ukraine,Europe,Eastern Europe
@@ -1235,6 +1247,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.252.24.243,4,19,viva.ua,UA,Ukraine,Europe,Eastern Europe
 185.68.16.171,4,61,vkfinspo.com,UA,Ukraine,Europe,Eastern Europe
 185.66.91.103,4,73,vkspeed.com,UA,Ukraine,Europe,Eastern Europe
+77.120.117.18,4,40,vlasenko.net,UA,Ukraine,Europe,Eastern Europe
 185.104.45.80,4,8,vlasno.info,UA,Ukraine,Europe,Eastern Europe
 193.243.158.11,4,9,vn.ua,UA,Ukraine,Europe,Eastern Europe
 195.177.236.76,4,-5112,vnmu.edu.ua,UA,Ukraine,Europe,Eastern Europe
@@ -1249,6 +1262,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 94.131.246.43,4,43,vpoltave.info,UA,Ukraine,Europe,Eastern Europe
 185.68.16.14,4,3,vrsaliansauto.com.ua,UA,Ukraine,Europe,Eastern Europe
 195.248.235.242,4,52,vsau.org,UA,Ukraine,Europe,Eastern Europe
+77.120.117.86,4,57,vse.ua,UA,Ukraine,Europe,Eastern Europe
 194.1.195.46,4,1460,vsei.ua,UA,Ukraine,Europe,Eastern Europe
 185.104.45.148,4,51,vsi-slova.com.ua,UA,Ukraine,Europe,Eastern Europe
 176.111.61.25,4,0,vsupport.club,UA,Ukraine,Europe,Eastern Europe
@@ -1274,6 +1288,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 89.184.68.106,4,20,womanadvice.ru,UA,Ukraine,Europe,Eastern Europe
 91.200.40.74,4,815,wonderbox.ua,UA,Ukraine,Europe,Eastern Europe
 185.104.45.110,4,15,world-press.org,UA,Ukraine,Europe,Eastern Europe
+77.120.102.145,4,5,worldnewsage.com,UA,Ukraine,Europe,Eastern Europe
 185.104.45.137,4,2,wp-puzzle.com,UA,Ukraine,Europe,Eastern Europe
 89.184.79.27,4,11,wpcalc.com,UA,Ukraine,Europe,Eastern Europe
 91.222.136.87,4,1,xado.com,UA,Ukraine,Europe,Eastern Europe

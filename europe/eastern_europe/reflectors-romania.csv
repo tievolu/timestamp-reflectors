@@ -57,12 +57,14 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 213.177.27.66,4,600066,anrmap.ro,RO,Romania,Europe,Eastern Europe
 176.223.110.90,4,9,antipa.ro,RO,Romania,Europe,Eastern Europe
 93.113.28.251,4,19,apti.ro,RO,Romania,Europe,Eastern Europe
+193.231.246.1,4,21,apulum.ro,RO,Romania,Europe,Eastern Europe
 93.115.114.94,4,2528,aquarell.ro,RO,Romania,Europe,Eastern Europe
 185.146.87.79,4,5,arc.ro,RO,Romania,Europe,Eastern Europe
 45.15.23.224,4,6,archeus.ro,RO,Romania,Europe,Eastern Europe
 86.107.57.235,4,60,arcub.ro,RO,Romania,Europe,Eastern Europe
 89.43.174.34,4,65,arhiblog.ro,RO,Romania,Europe,Eastern Europe
 86.105.216.196,4,285749,armyacademy.ro,RO,Romania,Europe,Eastern Europe
+193.231.147.202,4,39,arteiasi.ro,RO,Romania,Europe,Eastern Europe
 31.14.23.204,4,49,artigianix.ro,RO,Romania,Europe,Eastern Europe
 193.169.136.219,4,4,asro.ro,RO,Romania,Europe,Eastern Europe
 45.129.64.93,4,844,astazi.ro,RO,Romania,Europe,Eastern Europe
@@ -87,6 +89,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 86.104.220.20,4,17,banatulazi.ro,RO,Romania,Europe,Eastern Europe
 185.36.252.215,4,141,baniiq.ro,RO,Romania,Europe,Eastern Europe
 217.19.15.228,4,509,banknews.ro,RO,Romania,Europe,Eastern Europe
+193.231.9.17,4,-4597117,bcub.ro,RO,Romania,Europe,Eastern Europe
 185.92.194.90,4,70,beatricedesign.ro,RO,Romania,Europe,Eastern Europe
 193.151.29.15,4,-27,bec.ro,RO,Romania,Europe,Eastern Europe
 80.86.106.231,4,2,bei.ro,RO,Romania,Europe,Eastern Europe
@@ -231,6 +234,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.125.111.46,4,20,DNS Server: 185-125-111-46.static.intovps.com,RO,Romania,Europe,Eastern Europe
 188.173.183.131,4,20549504,DNS Server: 188-173-183-131.next-gen.ro,RO,Romania,Europe,Eastern Europe
 188.173.80.150,4,-5812,DNS Server: 188-173-80-150.next-gen.ro,RO,Romania,Europe,Eastern Europe
+188.27.139.114,4,-12,DNS Server: 188-27-139-114.rdsnet.ro,RO,Romania,Europe,Eastern Europe
 188.27.244.73,4,-387,DNS Server: 188-27-244-73.dynamic.brasov.rdsnet.ro,RO,Romania,Europe,Eastern Europe
 89.42.218.20,4,-12,DNS Server: 21.20.whmpanels.com,RO,Romania,Europe,Eastern Europe
 89.42.218.22,4,-180,DNS Server: 218.22.whmpanels.com,RO,Romania,Europe,Eastern Europe
@@ -288,6 +292,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 193.230.183.201,4,666398,DNS Server: nsx.euroweb.ro,RO,Romania,Europe,Eastern Europe
 91.217.187.1,4,139,DNS Server: old.excelbet.ro,RO,Romania,Europe,Eastern Europe
 89.45.205.89,4,-2152676327,DNS Server: pc89.efx.ro,RO,Romania,Europe,Eastern Europe
+80.96.177.217,4,116,DNS Server: phn.ro,RO,Romania,Europe,Eastern Europe
 89.38.58.11,4,142,DNS Server: R10.easynet.dev,RO,Romania,Europe,Eastern Europe
 91.212.191.85,4,481270,DNS Server: server.vladoianu.ro,RO,Romania,Europe,Eastern Europe
 5.2.148.118,4,557,DNS Server: static-5-2-148-118.rdsnet.ro,RO,Romania,Europe,Eastern Europe
@@ -309,6 +314,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 31.14.56.144,4,16,dolce-sport.ro,RO,Romania,Europe,Eastern Europe
 176.126.200.2,4,61,dolphinconstruct.ro,RO,Romania,Europe,Eastern Europe
 89.42.218.226,4,349,drinkshop.ro,RO,Romania,Europe,Eastern Europe
+89.38.248.132,4,1193,dspb.ro,RO,Romania,Europe,Eastern Europe
 89.45.168.34,4,13658,e-retete.ro,RO,Romania,Europe,Eastern Europe
 89.42.218.85,4,908,e-scoala.ro,RO,Romania,Europe,Eastern Europe
 89.39.83.214,4,20,easyengineering.eu,RO,Romania,Europe,Eastern Europe
@@ -334,6 +340,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 37.143.170.31,4,7,emol.ro,RO,Romania,Europe,Eastern Europe
 176.126.201.2,4,48,enciclopediaromaniei.ro,RO,Romania,Europe,Eastern Europe
 185.92.192.135,4,5,energyindustryreview.com,RO,Romania,Europe,Eastern Europe
+89.38.248.15,4,-7856076,entertix.ro,RO,Romania,Europe,Eastern Europe
 82.78.47.245,4,14,epochtimes-romania.com,RO,Romania,Europe,Eastern Europe
 31.14.14.60,4,32,escapers-zone.net,RO,Romania,Europe,Eastern Europe
 89.43.174.117,4,1,esteto.ro,RO,Romania,Europe,Eastern Europe
@@ -350,11 +357,13 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 93.113.199.184,4,9,evomag.ro,RO,Romania,Europe,Eastern Europe
 185.181.240.112,4,393,excavatii-demolari.ro,RO,Romania,Europe,Eastern Europe
 31.14.56.114,4,506,extragsm.ro,RO,Romania,Europe,Eastern Europe
+89.38.248.194,4,22,facibanionline.ro,RO,Romania,Europe,Eastern Europe
 89.200.243.40,4,14,fancourier.ro,RO,Romania,Europe,Eastern Europe
 89.42.218.37,4,747,fanuriotimetracking.com,RO,Romania,Europe,Eastern Europe
 89.33.26.192,4,836,fashiontips.ro,RO,Romania,Europe,Eastern Europe
 31.14.15.108,4,22,faurerom.com,RO,Romania,Europe,Eastern Europe
 176.223.125.137,4,-5113,fcrapid.ro,RO,Romania,Europe,Eastern Europe
+89.38.248.140,4,-430,fdsc.ro,RO,Romania,Europe,Eastern Europe
 89.46.227.18,4,30,federciclismo.it,RO,Romania,Europe,Eastern Europe
 85.120.61.142,4,41,feeder.ro,RO,Romania,Europe,Eastern Europe
 80.96.99.12,4,53,filehost.ro,RO,Romania,Europe,Eastern Europe
@@ -448,6 +457,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 195.189.145.63,4,11,infp.ro,RO,Romania,Europe,Eastern Europe
 89.42.218.71,4,1251,innovacio.hu,RO,Romania,Europe,Eastern Europe
 85.120.20.1,4,2,inoe.ro,RO,Romania,Europe,Eastern Europe
+46.102.249.154,4,39,inshr-ew.ro,RO,Romania,Europe,Eastern Europe
 193.151.29.23,4,-61,insse.ro,RO,Romania,Europe,Eastern Europe
 92.81.68.198,4,165665,inst-puscariu.ro,RO,Romania,Europe,Eastern Europe
 89.40.17.17,4,689,instalator-sanitar-bucuresti.ro,RO,Romania,Europe,Eastern Europe
@@ -459,6 +469,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 193.242.120.194,4,7499958,ipa.ro,RO,Romania,Europe,Eastern Europe
 89.33.24.224,4,1580,irrini.ro,RO,Romania,Europe,Eastern Europe
 89.46.227.155,4,4,isiafaenza.it,RO,Romania,Europe,Eastern Europe
+193.231.32.194,4,1702,ismb.edu.ro,RO,Romania,Europe,Eastern Europe
 89.43.174.35,4,67,it-sh.ro,RO,Romania,Europe,Eastern Europe
 89.42.218.40,4,394,italyscapes.com,RO,Romania,Europe,Eastern Europe
 193.239.65.130,4,46,itcnet.ro,RO,Romania,Europe,Eastern Europe
@@ -474,6 +485,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 89.45.174.50,4,2497,jck.ro,RO,Romania,Europe,Eastern Europe
 37.251.142.143,4,4,jocpacanele.ro,RO,Romania,Europe,Eastern Europe
 176.126.202.229,4,4,jocresponsabil.ro,RO,Romania,Europe,Eastern Europe
+89.38.248.28,4,3,jocsloturi.ro,RO,Romania,Europe,Eastern Europe
 188.215.51.69,4,26,jocuricazinouri.com,RO,Romania,Europe,Eastern Europe
 5.254.67.147,4,6,juridice.ro,RO,Romania,Europe,Eastern Europe
 194.152.42.80,4,6,jurnalul.ro,RO,Romania,Europe,Eastern Europe
@@ -556,6 +568,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.199.175.206,4,-592,modernism.ro,RO,Romania,Europe,Eastern Europe
 86.105.195.197,4,28,monitoruldegalati.ro,RO,Romania,Europe,Eastern Europe
 185.142.217.50,4,2556,monitoruljuridic.ro,RO,Romania,Europe,Eastern Europe
+46.102.249.137,4,51,monitorulneamt.ro,RO,Romania,Europe,Eastern Europe
 188.240.3.200,4,13,mos-craciun-inchiriere.ro,RO,Romania,Europe,Eastern Europe
 188.215.250.103,4,41,motelandratecuci.ro,RO,Romania,Europe,Eastern Europe
 185.181.100.50,4,411,motociclism.ro,RO,Romania,Europe,Eastern Europe
@@ -578,6 +591,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 194.88.149.200,4,-251,myjob.ro,RO,Romania,Europe,Eastern Europe
 89.33.246.197,4,6,mystage.ro,RO,Romania,Europe,Eastern Europe
 82.79.20.34,4,21,mytex.ro,RO,Romania,Europe,Eastern Europe
+89.38.248.14,4,-7856059,myticket.ro,RO,Romania,Europe,Eastern Europe
 194.36.143.79,4,1187,narantuulhotel.com,RO,Romania,Europe,Eastern Europe
 91.188.226.230,4,888,national.ro,RO,Romania,Europe,Eastern Europe
 85.9.26.120,4,867,nemultumiri.ro,RO,Romania,Europe,Eastern Europe
@@ -624,6 +638,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 86.105.231.70,4,409,Ookla Speedtest Server 23605: speedtest.leadhosts.com,RO,Romania,Europe,Eastern Europe
 193.226.158.66,4,327,Ookla Speedtest Server 29707: speedtest.gtstelecom.ro,RO,Romania,Europe,Eastern Europe
 86.105.231.78,4,441,Ookla Speedtest Server 41156: speedtest.biztelecom.ro,RO,Romania,Europe,Eastern Europe
+193.231.242.78,4,401,Ookla Speedtest Server 45427: speedtest.gmbcomputers.ro,RO,Romania,Europe,Eastern Europe
 193.239.252.8,4,97,Ookla Speedtest Server 46827: speedtest.silvernet.ro,RO,Romania,Europe,Eastern Europe
 193.226.56.145,4,250,Ookla Speedtest Server 48152: speedtest.cti.ugal.ro,RO,Romania,Europe,Eastern Europe
 194.9.92.11,4,168,Ookla Speedtest Server 52769: speedtest.lansoft.net,RO,Romania,Europe,Eastern Europe
@@ -673,6 +688,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 194.102.238.102,4,62,poeditor.com,RO,Romania,Europe,Eastern Europe
 188.209.212.213,4,5,pofta-buna.com,RO,Romania,Europe,Eastern Europe
 93.115.53.48,4,66,politiarutiera.ro,RO,Romania,Europe,Eastern Europe
+193.231.32.28,4,48,portal.edu.ro,RO,Romania,Europe,Eastern Europe
 91.195.98.226,4,25,portalit.net,RO,Romania,Europe,Eastern Europe
 89.42.218.147,4,994,positivewordsresearch.com,RO,Romania,Europe,Eastern Europe
 93.119.122.143,4,930,potatobusiness.com,RO,Romania,Europe,Eastern Europe
@@ -706,6 +722,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 89.38.230.6,4,52,racai.ro,RO,Romania,Europe,Eastern Europe
 85.204.100.58,4,138,radio3net.ro,RO,Romania,Europe,Eastern Europe
 85.204.100.12,4,70,radiocluj.ro,RO,Romania,Europe,Eastern Europe
+193.231.72.238,4,49,radioconstanta.ro,RO,Romania,Europe,Eastern Europe
 188.215.250.59,4,96,radiodj.ro,RO,Romania,Europe,Eastern Europe
 85.204.27.64,4,38,radioglos.pl,RO,Romania,Europe,Eastern Europe
 85.204.100.15,4,100,radioiasi.ro,RO,Romania,Europe,Eastern Europe
@@ -715,6 +732,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 85.204.100.16,4,69,radioresita.ro,RO,Romania,Europe,Eastern Europe
 85.204.100.18,4,136,radiotimisoara.ro,RO,Romania,Europe,Eastern Europe
 188.241.74.192,4,91,radiotochka.kz,RO,Romania,Europe,Eastern Europe
+193.231.72.227,4,36,rador.ro,RO,Romania,Europe,Eastern Europe
 89.44.139.58,4,16,railwaypro.com,RO,Romania,Europe,Eastern Europe
 89.44.120.74,4,60,ratbv.ro,RO,Romania,Europe,Eastern Europe
 89.42.218.91,4,717,rationalplan.com,RO,Romania,Europe,Eastern Europe
@@ -744,10 +762,12 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 93.113.174.92,4,70,rokaflex.ro,RO,Romania,Europe,Eastern Europe
 79.115.31.193,4,61,rol.ro,RO,Romania,Europe,Eastern Europe
 185.236.84.128,4,41,rolandia.eu,RO,Romania,Europe,Eastern Europe
+193.231.72.249,4,38,romania-muzical.ro,RO,Romania,Europe,Eastern Europe
 31.14.13.170,4,4808,romania-seo.ro,RO,Romania,Europe,Eastern Europe
 176.126.172.116,4,54,romaniajournal.ro,RO,Romania,Europe,Eastern Europe
 84.234.98.202,4,19,romaniansoccer.ro,RO,Romania,Europe,Eastern Europe
 89.42.218.98,4,815,romanor.eu,RO,Romania,Europe,Eastern Europe
+80.97.1.13,4,1357,romedic.ro,RO,Romania,Europe,Eastern Europe
 5.254.56.3,4,2,romfilatelia.ro,RO,Romania,Europe,Eastern Europe
 85.121.150.105,4,3,romkat.ro,RO,Romania,Europe,Eastern Europe
 193.29.227.55,4,14,romlit.ro,RO,Romania,Europe,Eastern Europe
@@ -853,6 +873,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 188.209.214.81,4,1348,tinlavir.ro,RO,Romania,Europe,Eastern Europe
 5.2.178.80,4,3,tirgumures.ro,RO,Romania,Europe,Eastern Europe
 81.181.252.2,4,989,title-generator.com,RO,Romania,Europe,Eastern Europe
+193.231.32.154,4,-536450,titularizare.edu.ro,RO,Romania,Europe,Eastern Europe
 84.232.181.150,4,6,tnb.ro,RO,Romania,Europe,Eastern Europe
 89.46.224.69,4,-4722,tomstardust.com,RO,Romania,Europe,Eastern Europe
 89.42.218.101,4,477,topinsolventa.ro,RO,Romania,Europe,Eastern Europe
@@ -869,8 +890,12 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 193.186.33.181,4,-29440,tvr.ro,RO,Romania,Europe,Eastern Europe
 193.186.33.61,4,12,tvrplus.ro,RO,Romania,Europe,Eastern Europe
 89.41.38.20,4,417,twbooks.co.uk,RO,Romania,Europe,Eastern Europe
+85.122.16.23,4,3,uaic.ro,RO,Romania,Europe,Eastern Europe
 89.35.77.38,4,5348,uav.ro,RO,Romania,Europe,Eastern Europe
+193.231.34.11,4,2485978,ub.ro,RO,Romania,Europe,Eastern Europe
+193.231.20.15,4,13,ubbcluj.ro,RO,Romania,Europe,Eastern Europe
 89.46.227.70,4,35,ubitennis.com,RO,Romania,Europe,Eastern Europe
+193.231.17.20,4,-65357,ubm.ro,RO,Romania,Europe,Eastern Europe
 85.9.47.80,4,596,ucdc.ro,RO,Romania,Europe,Eastern Europe
 89.44.139.59,4,4,ucoz.ro,RO,Romania,Europe,Eastern Europe
 84.1.159.35,4,401,uh.ro,RO,Romania,Europe,Eastern Europe
@@ -879,6 +904,9 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 80.96.33.94,4,425,ultimatemembershippro.com,RO,Romania,Europe,Eastern Europe
 94.176.104.88,4,4,umfcd.ro,RO,Romania,Europe,Eastern Europe
 85.9.35.91,4,515,umfcluj.ro,RO,Romania,Europe,Eastern Europe
+85.121.32.178,4,43,umfst.ro,RO,Romania,Europe,Eastern Europe
+85.121.32.36,4,6,umftgm.ro,RO,Romania,Europe,Eastern Europe
+85.121.32.156,4,4,umftgm.ro,RO,Romania,Europe,Eastern Europe
 86.105.219.51,4,-1,unap.ro,RO,Romania,Europe,Eastern Europe
 89.42.219.72,4,705,unarte.org,RO,Romania,Europe,Eastern Europe
 89.41.38.18,4,931,uncover-romania.com,RO,Romania,Europe,Eastern Europe
@@ -899,6 +927,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 185.199.175.97,4,-1906,usamv.ro,RO,Romania,Europe,Eastern Europe
 85.120.222.158,4,38,usefuldiyprojects.com,RO,Romania,Europe,Eastern Europe
 80.96.120.15,4,5,usv.ro,RO,Romania,Europe,Eastern Europe
+193.231.3.1,4,17,utcb.ro,RO,Romania,Europe,Eastern Europe
 89.37.184.44,4,485,utchimsteel.ro,RO,Romania,Europe,Eastern Europe
 193.226.5.7,4,309241,utcluj.ro,RO,Romania,Europe,Eastern Europe
 31.14.19.2,4,120396,utgjiu.ro,RO,Romania,Europe,Eastern Europe

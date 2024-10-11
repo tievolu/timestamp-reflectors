@@ -1,5 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
 186.149.243.52,4,1,ALTICE DOMINICANA S.A.,DO,Dominican Republic,Americas,Latin America and the Caribbean
+66.98.46.178,4,625,DNS Server: 178.46.98.66.l.static.claro.net.do,DO,Dominican Republic,Americas,Latin America and the Caribbean
 190.167.220.185,4,28973,DNS Server: 185.220.167.190.l.static.claro.net.do,DO,Dominican Republic,Americas,Latin America and the Caribbean
 190.93.189.30,4,460,DNS Server: fibra-a-la-casa-189-30.jdimax.com,DO,Dominican Republic,Americas,Latin America and the Caribbean
 200.125.170.128,4,4,DNS Server: INTERNET-DEDICADO-128.wmservice.com.do,DO,Dominican Republic,Americas,Latin America and the Caribbean

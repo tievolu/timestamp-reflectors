@@ -1,6 +1,9 @@
 reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
 186.151.199.4,4,-1,csuca.org,GT,Guatemala,Americas,Latin America and the Caribbean
 181.78.105.127,4,148,DNS Server: 127.105.78.181.ufinet.com.gt,GT,Guatemala,Americas,Latin America and the Caribbean
+190.148.193.146,4,1962,DNS Server: 146.193.148.190.static.intelnet.net.gt,GT,Guatemala,Americas,Latin America and the Caribbean
+190.149.55.214,4,32,DNS Server: 214.55.149.190.static.intelnet.net.gt,GT,Guatemala,Americas,Latin America and the Caribbean
+190.148.235.254,4,88,DNS Server: 254.235.148.190.static.intelnet.net.gt,GT,Guatemala,Americas,Latin America and the Caribbean
 181.119.105.29,4,-9516,DNS Server: 29.105.119.181.ufinet.com.gt,GT,Guatemala,Americas,Latin America and the Caribbean
 190.56.246.82,4,-194,DNS Server: 82.246.56.190.static.intelnet.net.gt,GT,Guatemala,Americas,Latin America and the Caribbean
 54.39.33.156,4,38,metkere.com,GT,Guatemala,Americas,Latin America and the Caribbean

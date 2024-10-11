@@ -1,5 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
 67.227.241.44,4,36,all-options.org,EC,Ecuador,Americas,Latin America and the Caribbean
+186.69.15.61,4,24,conocimientolibre.ec,EC,Ecuador,Americas,Latin America and the Caribbean
 181.112.60.126,4,-53416677,DNS Server: 126.60.112.181.static.anycast.cnt-grms.ec,EC,Ecuador,Americas,Latin America and the Caribbean
 190.152.182.150,4,-8275745,DNS Server: 150.182.152.190.static.anycast.cnt-grms.ec,EC,Ecuador,Americas,Latin America and the Caribbean
 204.199.157.70,4,-1003291,DNS Server: 204-199-157-70.dia.static.centurylink.com.ec,EC,Ecuador,Americas,Latin America and the Caribbean
@@ -15,6 +16,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 177.234.229.75,4,-38064,DNS Server: host-177-234-229-75.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
 177.234.245.244,4,120,DNS Server: host-177-234-245-244.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
 177.234.249.65,4,892,DNS Server: host-177-234-249-65.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
+200.24.136.233,4,904,DNS Server: host-200-24-136-233.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
 200.24.146.10,4,30750441,DNS Server: host-200-24-146-10.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
 200.24.159.207,4,11,DNS Server: host-200-24-159-207.nedetel.net,EC,Ecuador,Americas,Latin America and the Caribbean
 45.186.140.23,4,77,DNS Server: host-45-186-140-23.tecmesh.com.ec,EC,Ecuador,Americas,Latin America and the Caribbean
@@ -48,6 +50,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 200.24.135.133,4,276,Ookla Speedtest Server 59634: speedtestgui.rednuevaconexion.net,EC,Ecuador,Americas,Latin America and the Caribbean
 45.161.35.130,4,121307,Ookla Speedtest Server 60176: speedtestz.grupovelocity.com,EC,Ecuador,Americas,Latin America and the Caribbean
 45.236.141.213,4,6859,Ookla Speedtest Server 62155: speedtest.yiga5.com,EC,Ecuador,Americas,Latin America and the Caribbean
+181.188.218.222,4,353,Ookla Speedtest Server 62925: speedtest.indynet.net.ec,EC,Ecuador,Americas,Latin America and the Caribbean
 45.233.101.59,4,173,Ookla Speedtest Server 63032: speedmw.internetdecalidad.com,EC,Ecuador,Americas,Latin America and the Caribbean
 45.164.66.238,4,-40384109,Ookla Speedtest Server 63106: speedtest.vilcanet.com.ec,EC,Ecuador,Americas,Latin America and the Caribbean
 45.189.57.130,4,-114929,Ookla Speedtest Server 63271: speedtest1.cbvision.net.ec,EC,Ecuador,Americas,Latin America and the Caribbean

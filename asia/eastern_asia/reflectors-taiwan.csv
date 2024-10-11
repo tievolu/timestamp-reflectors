@@ -12,6 +12,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 35.229.219.183,4,7,adimohinimohankanjilal.com,TW,Taiwan,Asia,Eastern Asia
 103.118.24.39,4,14101,akagrant.com,TW,Taiwan,Asia,Eastern Asia
 210.65.47.53,4,0,amtb.tw,TW,Taiwan,Asia,Eastern Asia
+203.74.95.128,4,24,appledaily.com.tw,TW,Taiwan,Asia,Eastern Asia
 210.244.72.15,4,10624,archi.com.tw,TW,Taiwan,Asia,Eastern Asia
 210.65.113.35,4,0,asuswebstorage.com,TW,Taiwan,Asia,Eastern Asia
 61.221.12.18,4,32,autism.org.tw,TW,Taiwan,Asia,Eastern Asia
@@ -30,6 +31,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 112.121.107.62,4,4,businessweekly.com.tw,TW,Taiwan,Asia,Eastern Asia
 211.23.95.250,4,4,carstuff.com.tw,TW,Taiwan,Asia,Eastern Asia
 103.17.9.237,4,1542,catholic.org.tw,TW,Taiwan,Asia,Eastern Asia
+203.66.68.66,4,4,ccr.com.tw,TW,Taiwan,Asia,Eastern Asia
 103.129.178.18,4,0,chung-pei.com,TW,Taiwan,Asia,Eastern Asia
 35.234.49.191,4,4,cmmedia.com.tw,TW,Taiwan,Asia,Eastern Asia
 103.129.176.84,4,2564,colofor.com.tw,TW,Taiwan,Asia,Eastern Asia
@@ -40,6 +42,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 112.121.121.186,4,-4,darencademy.com,TW,Taiwan,Asia,Eastern Asia
 203.145.220.155,4,20,dataportal.asia,TW,Taiwan,Asia,Eastern Asia
 104.155.230.68,4,6,daviteq.com,TW,Taiwan,Asia,Eastern Asia
+61.60.143.215,4,3,dean-cpa.com,TW,Taiwan,Asia,Eastern Asia
 1.160.203.160,4,2188,DNS Server: 1-160-203-160.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
 1.160.208.251,4,-28801347,DNS Server: 1-160-208-251.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
 1.160.236.166,4,-28801605,DNS Server: 1-160-236-166.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
@@ -252,9 +255,11 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 125.229.180.81,4,-53337,DNS Server: 125-229-180-81.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
 125.229.181.204,4,-72251,DNS Server: 125-229-181-204.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
 125.230.144.214,4,1896,DNS Server: 125-230-144-214.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+61.63.230.129,4,151,DNS Server: 129-230.63.61-savecom,TW,Taiwan,Asia,Eastern Asia
 175.98.134.195,4,27,DNS Server: 175-98-134-195.static.tfn.net.tw,TW,Taiwan,Asia,Eastern Asia
 202.39.212.253,4,46,DNS Server: 202-39-212-253.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
 203.145.214.77,4,90,DNS Server: 203-145-214-77.twcc.ai,TW,Taiwan,Asia,Eastern Asia
+203.69.232.60,4,-8741442,DNS Server: 203-69-232-60.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
 210.61.97.241,4,97,DNS Server: 210-61-97-241.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
 211.22.209.2,4,4,DNS Server: 211-22-209-2.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
 211.22.72.62,4,9045161,DNS Server: 211-22-72-62.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
@@ -312,6 +317,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 61.222.79.20,4,85,DNS Server: 61-222-79-20.hinet-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
 61.224.92.124,4,385,DNS Server: 61-224-92-124.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
 61.228.65.185,4,-28802045,DNS Server: 61-228-65-185.dynamic-ip.hinet.net,TW,Taiwan,Asia,Eastern Asia
+61.63.125.180,4,-28798202,DNS Server: 61-63-125-180.nty.dynamic.tbcnet.net.tw,TW,Taiwan,Asia,Eastern Asia
 163.22.188.3,4,2866213,DNS Server: dns.iktcds.edu.tw,TW,Taiwan,Asia,Eastern Asia
 61.221.126.186,4,27643023,DNS Server: dns.mactech.com.tw,TW,Taiwan,Asia,Eastern Asia
 60.250.43.173,4,6,DNS Server: dns.ucheer.com.tw,TW,Taiwan,Asia,Eastern Asia
@@ -319,6 +325,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 220.130.144.200,4,-89808,DNS Server: dns3.kingstate.com.tw,TW,Taiwan,Asia,Eastern Asia
 218.32.150.199,4,129788,DNS Server: dynamic.sdtv.net.tw,TW,Taiwan,Asia,Eastern Asia
 118.163.119.20,4,-276786,DNS Server: fdp.com.tw,TW,Taiwan,Asia,Eastern Asia
+203.73.19.176,4,-3528074161,DNS Server: h176-203-73-19.seed.net.tw,TW,Taiwan,Asia,Eastern Asia
 58.114.160.7,4,9507,DNS Server: host-58-114-160-7.dynamic.kbtelecom.net,TW,Taiwan,Asia,Eastern Asia
 60.250.51.167,4,365,DNS Server: mail.fastrong.com.tw,TW,Taiwan,Asia,Eastern Asia
 118.163.92.56,4,87,DNS Server: npomx.naipo.com.tw,TW,Taiwan,Asia,Eastern Asia
@@ -328,6 +335,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 103.116.15.88,4,2,dx.com.tw,TW,Taiwan,Asia,Eastern Asia
 219.84.168.188,4,612,eprice.com.hk,TW,Taiwan,Asia,Eastern Asia
 219.84.168.168,4,595,eprice.com.tw,TW,Taiwan,Asia,Eastern Asia
+203.69.238.170,4,4,eternity.com.tw,TW,Taiwan,Asia,Eastern Asia
 210.242.49.19,4,9,f-2.com.tw,TW,Taiwan,Asia,Eastern Asia
 60.251.60.22,4,7,farmsbiotech.com,TW,Taiwan,Asia,Eastern Asia
 203.64.237.7,4,16,feu.edu.tw,TW,Taiwan,Asia,Eastern Asia
@@ -341,6 +349,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 61.222.15.159,4,228,gamania.com,TW,Taiwan,Asia,Eastern Asia
 34.80.246.181,4,10,gamebase.com.tw,TW,Taiwan,Asia,Eastern Asia
 103.138.106.47,4,39,gb-co.com.tw,TW,Taiwan,Asia,Eastern Asia
+203.69.102.15,4,30,giottos.com,TW,Taiwan,Asia,Eastern Asia
 210.242.25.172,4,13532,goodtv.tv,TW,Taiwan,Asia,Eastern Asia
 35.234.39.85,4,4,greenpeace.org.cn,TW,Taiwan,Asia,Eastern Asia
 104.199.236.4,4,59,groupbuyforms.tw,TW,Taiwan,Asia,Eastern Asia
@@ -361,12 +370,14 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 128.14.237.126,4,3,kimi.com.tw,TW,Taiwan,Asia,Eastern Asia
 103.153.177.40,4,5,kocpc.com.tw,TW,Taiwan,Asia,Eastern Asia
 128.14.230.88,4,6,komoejoy.com,TW,Taiwan,Asia,Eastern Asia
+203.69.102.20,4,1,kotsms.com.tw,TW,Taiwan,Asia,Eastern Asia
 103.118.26.55,4,2,kuangta.com.tw,TW,Taiwan,Asia,Eastern Asia
 103.118.26.53,4,5,kuos.com,TW,Taiwan,Asia,Eastern Asia
 34.81.152.152,4,3,lia-roc.org.tw,TW,Taiwan,Asia,Eastern Asia
 140.114.89.237,4,7,linggle.com,TW,Taiwan,Asia,Eastern Asia
 60.249.179.122,4,2,lionfree.net,TW,Taiwan,Asia,Eastern Asia
 35.185.141.245,4,2,liskul.com,TW,Taiwan,Asia,Eastern Asia
+203.69.102.145,4,6442,lius.com.tw,TW,Taiwan,Asia,Eastern Asia
 104.199.205.140,4,5,localplace.jp,TW,Taiwan,Asia,Eastern Asia
 175.181.38.134,4,7,longwin.com.tw,TW,Taiwan,Asia,Eastern Asia
 114.32.146.202,4,-1994420425,manyhit.com,TW,Taiwan,Asia,Eastern Asia
@@ -383,6 +394,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 103.17.8.51,4,8,netete.com,TW,Taiwan,Asia,Eastern Asia
 104.199.165.123,4,23,neti.cc,TW,Taiwan,Asia,Eastern Asia
 104.199.204.72,4,2,neticrm.tw,TW,Taiwan,Asia,Eastern Asia
+203.69.141.26,4,3,nextmag.com.tw,TW,Taiwan,Asia,Eastern Asia
 59.124.223.222,4,-153070,nj192.com.tw,TW,Taiwan,Asia,Eastern Asia
 192.83.188.10,4,27,nmns.edu.tw,TW,Taiwan,Asia,Eastern Asia
 220.130.87.30,4,-2,norbelbaby.com.tw,TW,Taiwan,Asia,Eastern Asia
@@ -415,8 +427,11 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 140.112.172.2,4,11,ptt.cc,TW,Taiwan,Asia,Eastern Asia
 104.199.128.210,4,9,ramayanawaterpark.com,TW,Taiwan,Asia,Eastern Asia
 35.185.130.121,4,41,reurl.cc,TW,Taiwan,Asia,Eastern Asia
+203.69.138.232,4,4,richtek.com,TW,Taiwan,Asia,Eastern Asia
+203.69.138.233,4,35,richtek.com,TW,Taiwan,Asia,Eastern Asia
 35.221.195.135,4,5,salvationarmy.org.hk,TW,Taiwan,Asia,Eastern Asia
 210.59.219.77,4,5,scupio.com,TW,Taiwan,Asia,Eastern Asia
+203.69.82.103,4,7,seed.net.tw,TW,Taiwan,Asia,Eastern Asia
 103.129.178.20,4,-3,shinko-tw.com,TW,Taiwan,Asia,Eastern Asia
 112.121.100.100,4,38,shopunt.com,TW,Taiwan,Asia,Eastern Asia
 211.20.50.36,4,47,soe-parrot.com,TW,Taiwan,Asia,Eastern Asia
@@ -432,6 +447,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 104.199.225.102,4,4,taiwantimes.com.tw,TW,Taiwan,Asia,Eastern Asia
 125.228.135.114,4,295,talk.tw,TW,Taiwan,Asia,Eastern Asia
 59.125.33.123,4,3,tattpe.org.tw,TW,Taiwan,Asia,Eastern Asia
+203.69.82.11,4,4,tbnet.org.tw,TW,Taiwan,Asia,Eastern Asia
 61.218.129.139,4,11,tcbbank.com.tw,TW,Taiwan,Asia,Eastern Asia
 61.66.121.235,4,10,tcbbank.com.tw,TW,Taiwan,Asia,Eastern Asia
 60.248.81.189,4,-1411,terasic.com.tw,TW,Taiwan,Asia,Eastern Asia

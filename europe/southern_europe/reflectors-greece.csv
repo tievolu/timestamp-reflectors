@@ -25,6 +25,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 50.28.32.60,4,413,babynamegenie.com,GR,Greece,Europe,Southern Europe
 62.103.124.4,4,13,bestprice.gr,GR,Greece,Europe,Southern Europe
 185.4.133.15,4,54,bill-coo-hotel.com,GR,Greece,Europe,Southern Europe
+31.22.112.110,4,-1,bsbfashion.com,GR,Greece,Europe,Southern Europe
 193.186.200.59,4,21,cityofathens.gr,GR,Greece,Europe,Southern Europe
 62.38.6.75,4,35,civilprotection.gr,GR,Greece,Europe,Southern Europe
 62.38.6.40,4,5,civilprotection.gr,GR,Greece,Europe,Southern Europe
@@ -66,6 +67,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 212.251.68.204,4,-18823086,DNS Server: campingkaymakis.ath.forthnet.gr,GR,Greece,Europe,Southern Europe
 188.117.197.78,4,-11524370,DNS Server: dhcp-188-117-197-78.cm.hcn.gr,GR,Greece,Europe,Southern Europe
 85.72.32.180,4,545,DNS Server: dimark.static.otenet.gr,GR,Greece,Europe,Southern Europe
+62.74.159.221,4,14895,DNS Server: dumy221.panafonet.gr,GR,Greece,Europe,Southern Europe
 85.72.141.81,4,-659,DNS Server: gate.dltsyrou.gr,GR,Greece,Europe,Southern Europe
 79.129.102.118,4,45,DNS Server: hell18.static.otenet.gr,GR,Greece,Europe,Southern Europe
 85.72.141.131,4,925,DNS Server: host3.ikaria.ondsl.gr,GR,Greece,Europe,Southern Europe
@@ -188,6 +190,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 50.28.50.196,4,5,obamapacman.com,GR,Greece,Europe,Southern Europe
 185.138.42.54,4,3,omhksea.org,GR,Greece,Europe,Southern Europe
 62.217.126.171,4,138,Ookla Speedtest Server 1727: speedtest.gr-ix.gr,GR,Greece,Europe,Southern Europe
+31.22.112.100,4,815707,Ookla Speedtest Server 5377: speedtest.hyperhosting.gr,GR,Greece,Europe,Southern Europe
 31.177.57.52,4,-28448,Ookla Speedtest Server 15251: ookla.iphost.net,GR,Greece,Europe,Southern Europe
 185.4.132.50,4,78692,Ookla Speedtest Server 21326: speedtest.top.host,GR,Greece,Europe,Southern Europe
 185.4.132.122,4,343,Ookla Speedtest Server 25306: skoultsos.eu,GR,Greece,Europe,Southern Europe

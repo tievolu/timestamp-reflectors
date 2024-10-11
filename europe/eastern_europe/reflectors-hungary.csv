@@ -92,11 +92,14 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 79.172.209.132,4,-47,civilek.info,HU,Hungary,Europe,Eastern Europe
 79.139.58.125,4,36,civishir.hu,HU,Hungary,Europe,Eastern Europe
 87.229.104.112,4,7,confidenzacsapagy.hu,HU,Hungary,Europe,Eastern Europe
+95.131.48.202,4,14,cool-shop.eu,HU,Hungary,Europe,Eastern Europe
+95.131.50.86,4,-16102,coolcatalogue.eu,HU,Hungary,Europe,Eastern Europe
 193.23.139.142,4,5,coop.hu,HU,Hungary,Europe,Eastern Europe
 79.172.252.14,4,649,coralthemes.com,HU,Hungary,Europe,Eastern Europe
 78.24.184.230,4,412,core.hu,HU,Hungary,Europe,Eastern Europe
 193.32.235.201,4,12,corion.io,HU,Hungary,Europe,Eastern Europe
 92.43.203.156,4,3,csaladihaztervezes.hu,HU,Hungary,Europe,Eastern Europe
+95.131.50.8,4,6,csaladinet.hu,HU,Hungary,Europe,Eastern Europe
 193.201.186.194,4,2,csepel.hu,HU,Hungary,Europe,Eastern Europe
 185.33.54.18,4,6,csillagaszat.hu,HU,Hungary,Europe,Eastern Europe
 92.43.203.58,4,3,csodalatosmagyarorszag.hu,HU,Hungary,Europe,Eastern Europe
@@ -163,6 +166,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 89.135.193.253,4,6657,DNS Server: adsl-89-135-193-253.monradsl.monornet.hu,HU,Hungary,Europe,Eastern Europe
 89.186.99.208,4,60,DNS Server: adsl-99-208.globonet.hu,HU,Hungary,Europe,Eastern Europe
 188.157.72.233,4,10945,DNS Server: BC9D48E9.catv.pool.telekom.hu,HU,Hungary,Europe,Eastern Europe
+188.142.233.253,4,58812,DNS Server: business-188-142-233-253.business.broadband.hu,HU,Hungary,Europe,Eastern Europe
 86.101.149.148,4,5,DNS Server: business-86-101-149-148.business.broadband.hu,HU,Hungary,Europe,Eastern Europe
 86.101.233.85,4,18147,DNS Server: business-86-101-233-85.business.broadband.hu,HU,Hungary,Europe,Eastern Europe
 86.101.76.1,4,701,DNS Server: business-86-101-76-1.business.broadband.hu,HU,Hungary,Europe,Eastern Europe
@@ -209,6 +213,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 87.242.47.132,4,-300421,DNS Server: host-87-242-47-132.prtelecom.hu,HU,Hungary,Europe,Eastern Europe
 84.2.226.174,4,355,DNS Server: ktv5402E2AE.fixip.t-online.hu,HU,Hungary,Europe,Eastern Europe
 195.228.189.230,4,423,DNS Server: lotus.digitalcity.hu,HU,Hungary,Europe,Eastern Europe
+79.120.177.106,4,11738,DNS Server: mail.andapresent.hu,HU,Hungary,Europe,Eastern Europe
 194.39.45.25,4,265,DNS Server: mail.toronyair.net,HU,Hungary,Europe,Eastern Europe
 80.98.194.41,4,236,DNS Server: mail.verga.hu,HU,Hungary,Europe,Eastern Europe
 82.141.128.226,4,259,DNS Server: mail1.mono-group.com,HU,Hungary,Europe,Eastern Europe
@@ -434,6 +439,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 77.111.91.139,4,22,marieclaire.hu,HU,Hungary,Europe,Eastern Europe
 178.238.222.17,4,857,markers.hu,HU,Hungary,Europe,Eastern Europe
 185.33.54.15,4,3,masfelfok.hu,HU,Hungary,Europe,Eastern Europe
+95.131.50.35,4,17,masnyelven.hu,HU,Hungary,Europe,Eastern Europe
 45.87.112.206,4,-21955,matyas-templom.hu,HU,Hungary,Europe,Eastern Europe
 185.33.54.92,4,5,mcse.hu,HU,Hungary,Europe,Eastern Europe
 195.228.156.46,4,3,mecsekerdo.hu,HU,Hungary,Europe,Eastern Europe
@@ -555,6 +561,7 @@ reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_
 109.61.66.243,4,40,pecsiegyhazmegye.hu,HU,Hungary,Europe,Eastern Europe
 79.172.249.78,4,69,pedagogusok.hu,HU,Hungary,Europe,Eastern Europe
 79.172.252.91,4,837,peruutazas.hu,HU,Hungary,Europe,Eastern Europe
+79.120.178.33,4,35,pestbuda.hu,HU,Hungary,Europe,Eastern Europe
 79.172.249.130,4,8,pestmegye.hu,HU,Hungary,Europe,Eastern Europe
 188.227.225.105,4,307,pfla.hu,HU,Hungary,Europe,Eastern Europe
 87.229.26.162,4,24,phonedb.net,HU,Hungary,Europe,Eastern Europe
