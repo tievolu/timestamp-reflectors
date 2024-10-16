@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+77.156.224.84,4,136,DNS Server: 84.224.156.77.rev.sfr.net,FR,Europe,Western Europe,France,Hauts-de-France,Aisne,Soissons
+84.96.26.139,4,-5073,DNS Server: name1.olisys.fr,FR,Europe,Western Europe,France,Hauts-de-France,Aisne,Soissons
+84.96.26.129,4,171,DNS Server: name2.olisys.fr,FR,Europe,Western Europe,France,Hauts-de-France,Aisne,Soissons

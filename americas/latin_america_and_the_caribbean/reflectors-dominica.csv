@@ -1,10 +1,11 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-207.226.183.179,4,18,apdip.net,DM,Dominica,Americas,Latin America and the Caribbean
-63.218.129.125,4,5,bibleufo.com,DM,Dominica,Americas,Latin America and the Caribbean
-207.226.183.187,4,3,bubblews.com,DM,Dominica,Americas,Latin America and the Caribbean
-206.161.121.43,4,3,huhcorp.com,DM,Dominica,Americas,Latin America and the Caribbean
-63.219.178.254,4,10,newportdailynews.com,DM,Dominica,Americas,Latin America and the Caribbean
-192.243.57.17,4,522,titanquest.org.ua,DM,Dominica,Americas,Latin America and the Caribbean
-192.243.61.227,4,2,toprevenuegate.com,DM,Dominica,Americas,Latin America and the Caribbean
-192.243.61.225,4,14,toprevenuegate.com,DM,Dominica,Americas,Latin America and the Caribbean
-63.219.178.212,4,14,upsaid.com,DM,Dominica,Americas,Latin America and the Caribbean
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+192.243.50.19,4,1,acronymsandslang.com,DM,Americas,Latin America and the Caribbean,Dominica,,,
+192.243.50.105,4,48,kuncidunia.com,DM,Americas,Latin America and the Caribbean,Dominica,,,
+192.243.48.115,4,25,my-present.ru,DM,Americas,Latin America and the Caribbean,Dominica,,,
+192.243.57.17,4,522,titanquest.org.ua,DM,Americas,Latin America and the Caribbean,Dominica,,,
+192.243.61.227,4,2,toprevenuegate.com,DM,Americas,Latin America and the Caribbean,Dominica,,,
+192.243.61.225,4,14,toprevenuegate.com,DM,Americas,Latin America and the Caribbean,Dominica,,,
+192.243.59.12,4,2,toprevenuegate.com,DM,Americas,Latin America and the Caribbean,Dominica,,,
+192.243.59.20,4,5,toprevenuegate.com,DM,Americas,Latin America and the Caribbean,Dominica,,,
+192.243.59.13,4,18,toprevenuegate.com,DM,Americas,Latin America and the Caribbean,Dominica,,,
+192.243.48.118,4,42,yes.ua,DM,Americas,Latin America and the Caribbean,Dominica,,,

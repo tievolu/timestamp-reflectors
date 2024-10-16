@@ -1,8 +1,8 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-15.185.236.133,4,11,cbb.gov.bh,BH,Bahrain,Asia,Western Asia
-15.185.54.110,4,7,cbb.gov.bh,BH,Bahrain,Asia,Western Asia
-89.148.55.251,4,328,DNS Server: static.ip.89.148.55.251.batelco.com.bh,BH,Bahrain,Asia,Western Asia
-15.184.239.121,4,14,lovindubai.com,BH,Bahrain,Asia,Western Asia
-62.209.25.182,4,-257246,Ookla Speedtest Server 17574: stest.bh.zain.com,BH,Bahrain,Asia,Western Asia
-81.22.16.158,4,113,Ookla Speedtest Server 17711: speedtest.kalaam-telecom.com,BH,Bahrain,Asia,Western Asia
-87.252.96.194,4,246,Ookla Speedtest Server 20782: speedtest.viacloud.com,BH,Bahrain,Asia,Western Asia
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+15.185.236.133,4,11,cbb.gov.bh,BH,Asia,Western Asia,Bahrain,,,
+15.185.54.110,4,7,cbb.gov.bh,BH,Asia,Western Asia,Bahrain,,,
+89.148.55.251,4,328,DNS Server: static.ip.89.148.55.251.batelco.com.bh,BH,Asia,Western Asia,Bahrain,Manama,,Manama
+15.184.239.121,4,14,lovindubai.com,BH,Asia,Western Asia,Bahrain,,,
+62.209.25.182,4,-257246,Ookla Speedtest Server 17574: stest.bh.zain.com,BH,Asia,Western Asia,Bahrain,Muharraq,,Al Ḩadd
+81.22.16.158,4,113,Ookla Speedtest Server 17711: speedtest.kalaam-telecom.com,BH,Asia,Western Asia,Bahrain,Manama,,Manama
+87.252.96.194,4,246,Ookla Speedtest Server 20782: speedtest.viacloud.com,BH,Asia,Western Asia,Bahrain,Manama,,Manama

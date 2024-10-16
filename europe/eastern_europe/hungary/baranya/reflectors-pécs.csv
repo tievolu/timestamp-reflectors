@@ -1,0 +1,5 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+81.183.61.136,4,115632,DNS Server: 51B73D88.dsl.pool.telekom.hu,HU,Europe,Eastern Europe,Hungary,Baranya,,Pécs
+109.61.67.39,4,1,jpm.hu,HU,Europe,Eastern Europe,Hungary,Baranya,,Pécs
+109.61.66.243,4,40,pecsiegyhazmegye.hu,HU,Europe,Eastern Europe,Hungary,Baranya,,Pécs
+89.107.251.25,4,-1,zsolnaynegyed.hu,HU,Europe,Eastern Europe,Hungary,Baranya,,Pécs

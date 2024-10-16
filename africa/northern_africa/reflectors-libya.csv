@@ -1,8 +1,8 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-62.240.36.40,4,6,nic.ly,LY,Libya,Africa,Northern Africa
-165.16.48.100,4,277,Ookla Speedtest Server 23273: ookla.orannge.ly,LY,Libya,Africa,Northern Africa
-195.234.120.245,4,295,Ookla Speedtest Server 28958: speedtest2.ltc.net.ly,LY,Libya,Africa,Northern Africa
-102.221.11.130,4,6808106,Ookla Speedtest Server 42104: speedtest.hti.ly,LY,Libya,Africa,Northern Africa
-165.16.29.254,4,-29452,Ookla Speedtest Server 43507: hiclass.com.ly,LY,Libya,Africa,Northern Africa
-165.16.33.18,4,261,Ookla Speedtest Server 62056: speedtest.aljuman.ly,LY,Libya,Africa,Northern Africa
-102.164.97.162,4,176766,Ookla Speedtest Server 65518: speedtest.libyana.ly,LY,Libya,Africa,Northern Africa
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+62.240.36.40,4,6,nic.ly,LY,Africa,Northern Africa,Libya,,,
+165.16.48.100,4,277,Ookla Speedtest Server 23273: ookla.orannge.ly,LY,Africa,Northern Africa,Libya,Az Zāwiyah,,Zawiya
+195.234.120.245,4,295,Ookla Speedtest Server 28958: speedtest2.ltc.net.ly,LY,Africa,Northern Africa,Libya,,,
+102.221.11.130,4,6808106,Ookla Speedtest Server 42104: speedtest.hti.ly,LY,Africa,Northern Africa,Libya,,,
+165.16.29.254,4,-29452,Ookla Speedtest Server 43507: hiclass.com.ly,LY,Africa,Northern Africa,Libya,Darnah,,Darnah
+165.16.33.18,4,261,Ookla Speedtest Server 62056: speedtest.aljuman.ly,LY,Africa,Northern Africa,Libya,Tripoli,,Tripoli
+102.164.97.162,4,176766,Ookla Speedtest Server 65518: speedtest.libyana.ly,LY,Africa,Northern Africa,Libya,Tripoli,,Tripoli

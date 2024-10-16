@@ -1,0 +1,6 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+78.110.223.200,4,13,DNS Server: 78-110-223-200.metronet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mladá Boleslav District,Katusice
+193.8.86.49,4,42,DNS Server: ip-193-8-86-49.dhtcz.eu,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mladá Boleslav District,Benátky nad Jizerou
+95.85.254.129,4,-51381,DNS Server: nat-95-85-254-129.metronet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mladá Boleslav District,Dobrovice
+95.85.255.60,4,285,DNS Server: nat-95-85-255-60.metronet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mladá Boleslav District,Dobrovice
+92.43.26.218,4,350,Ookla Speedtest Server 3941: speedtest1.gsnet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mladá Boleslav District,Mladá Boleslav

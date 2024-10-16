@@ -1,29 +1,18 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-190.115.24.78,4,3,1win.com,BZ,Belize,Americas,Latin America and the Caribbean
-190.115.19.210,4,17,1win.run,BZ,Belize,Americas,Latin America and the Caribbean
-186.2.162.102,4,15,1wxzn.com,BZ,Belize,Americas,Latin America and the Caribbean
-190.115.30.194,4,7,abireg.ru,BZ,Belize,Americas,Latin America and the Caribbean
-190.115.22.199,4,-843,allesteroide.com,BZ,Belize,Americas,Latin America and the Caribbean
-190.115.26.5,4,70,assignmentglory.co.uk,BZ,Belize,Americas,Latin America and the Caribbean
-77.245.19.149,4,12,crb.ch,BZ,Belize,Americas,Latin America and the Caribbean
-186.2.171.43,4,73,easydonate.ru,BZ,Belize,Americas,Latin America and the Caribbean
-82.199.136.159,4,3,fuji.ch,BZ,Belize,Americas,Latin America and the Caribbean
-190.115.26.99,4,7,gitflic.ru,BZ,Belize,Americas,Latin America and the Caribbean
-190.115.30.139,4,20,grastin.ru,BZ,Belize,Americas,Latin America and the Caribbean
-190.115.21.222,4,5,hey-sen.com,BZ,Belize,Americas,Latin America and the Caribbean
-190.115.21.86,4,7,kupitpravaah.com,BZ,Belize,Americas,Latin America and the Caribbean
-186.2.161.229,4,94,lipetsknews.ru,BZ,Belize,Americas,Latin America and the Caribbean
-186.2.171.19,4,35,moon.market,BZ,Belize,Americas,Latin America and the Caribbean
-186.2.161.16,4,11,onpravaaq.com,BZ,Belize,Americas,Latin America and the Caribbean
-200.32.200.122,4,323,Ookla Speedtest Server 58954: speedtest-ow.belizetelemedia.net,BZ,Belize,Americas,Latin America and the Caribbean
-170.254.18.27,4,15,Ookla Speedtest Server: speedtest1-centraltv.bz,BZ,Belize,Americas,Latin America and the Caribbean
-190.115.21.134,4,91,prava112y.com,BZ,Belize,Americas,Latin America and the Caribbean
-190.115.21.111,4,71,rao.ru,BZ,Belize,Americas,Latin America and the Caribbean
-190.115.26.13,4,7,rents.ws,BZ,Belize,Americas,Latin America and the Caribbean
-185.169.253.149,4,32,scrapebox.com,BZ,Belize,Americas,Latin America and the Caribbean
-82.199.136.164,4,1,sozialinfo.ch,BZ,Belize,Americas,Latin America and the Caribbean
-190.115.24.5,4,118,stakestoner.org,BZ,Belize,Americas,Latin America and the Caribbean
-186.2.171.30,4,4,tumbete.org,BZ,Belize,Americas,Latin America and the Caribbean
-190.115.24.47,4,91,vodkasino2.fun,BZ,Belize,Americas,Latin America and the Caribbean
-190.115.19.71,4,4,waaw.tv,BZ,Belize,Americas,Latin America and the Caribbean
-185.169.253.175,4,8,wagerweb.com,BZ,Belize,Americas,Latin America and the Caribbean
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+91.209.70.39,4,15,allyoulike.com,BZ,Americas,Latin America and the Caribbean,Belize,,,
+185.66.140.199,4,27,atozsolutionz.com,BZ,Americas,Latin America and the Caribbean,Belize,,,
+185.66.141.25,4,1086,bitdice.me,BZ,Americas,Latin America and the Caribbean,Belize,,,
+185.142.217.60,4,6,cevabun.ro,BZ,Americas,Latin America and the Caribbean,Belize,,,
+77.247.108.54,4,42,freiercafe.net,BZ,Americas,Latin America and the Caribbean,Belize,,,
+185.131.222.212,4,34,institute.ro,BZ,Americas,Latin America and the Caribbean,Belize,,,
+91.209.70.243,4,9,jackedfreaks.com,BZ,Americas,Latin America and the Caribbean,Belize,,,
+185.66.141.35,4,1061,javelincloud.com,BZ,Americas,Latin America and the Caribbean,Belize,,,
+91.209.70.182,4,34,megaup.net,BZ,Americas,Latin America and the Caribbean,Belize,,,
+185.142.217.50,4,2556,monitoruljuridic.ro,BZ,Americas,Latin America and the Caribbean,Belize,,,
+200.32.200.122,4,323,Ookla Speedtest Server 58954: speedtest-ow.belizetelemedia.net,BZ,Americas,Latin America and the Caribbean,Belize,Belize District,,Belize City
+170.254.18.27,4,15,Ookla Speedtest Server: speedtest1-centraltv.bz,BZ,Americas,Latin America and the Caribbean,Belize,Cayo District,,Belmopan
+91.209.70.236,4,27,phpbb-seo.ir,BZ,Americas,Latin America and the Caribbean,Belize,,,
+91.209.70.74,4,43,rarefilmm.com,BZ,Americas,Latin America and the Caribbean,Belize,,,
+185.169.253.149,4,32,scrapebox.com,BZ,Americas,Latin America and the Caribbean,Belize,Cayo District,,Belmopan
+93.157.63.150,4,6,supercoma.com,BZ,Americas,Latin America and the Caribbean,Belize,,,
+185.169.253.175,4,8,wagerweb.com,BZ,Americas,Latin America and the Caribbean,Belize,Cayo District,,Belmopan

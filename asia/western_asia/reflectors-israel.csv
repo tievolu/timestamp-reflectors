@@ -1,175 +1,164 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-185.56.74.147,4,2,1202.org.il,IL,Israel,Asia,Western Asia
-81.218.83.70,4,205,activestills.org,IL,Israel,Asia,Western Asia
-5.100.253.198,4,1019,adnart.com,IL,Israel,Asia,Western Asia
-185.18.206.241,4,728,adva.org,IL,Israel,Asia,Western Asia
-66.22.84.26,4,19,alljobs.co.il,IL,Israel,Asia,Western Asia
-81.218.83.103,4,1,alooma.tv,IL,Israel,Asia,Western Asia
-185.56.75.80,4,168,arberobotics.com,IL,Israel,Asia,Western Asia
-81.218.117.82,4,60,archives.gov.il,IL,Israel,Asia,Western Asia
-88.218.116.187,4,17,arims.org.il,IL,Israel,Asia,Western Asia
-212.150.130.237,4,598,asoccer.co.il,IL,Israel,Asia,Western Asia
-185.108.148.164,4,-41,bauhaus-center.com,IL,Israel,Asia,Western Asia
-192.116.4.50,4,19,bethlehem.edu,IL,Israel,Asia,Western Asia
-195.238.120.202,4,2,bimkom.org,IL,Israel,Asia,Western Asia
-80.178.161.107,4,-7,birdf.com,IL,Israel,Asia,Western Asia
-185.220.206.88,4,35,bitheikuren.com,IL,Israel,Asia,Western Asia
-185.241.6.211,4,1,bizportal.co.il,IL,Israel,Asia,Western Asia
-81.218.117.73,4,33,blmj.org,IL,Israel,Asia,Western Asia
-31.168.170.43,4,5,booknet.co.il,IL,Israel,Asia,Western Asia
-185.56.73.50,4,3,breslev.co.il,IL,Israel,Asia,Western Asia
-31.168.170.45,4,40,bug.co.il,IL,Israel,Asia,Western Asia
-185.108.148.65,4,-249,capitalise.ai,IL,Israel,Asia,Western Asia
-192.116.146.100,4,845,carlton.co.il,IL,Israel,Asia,Western Asia
-185.108.148.81,4,-264,carmelwines.co.il,IL,Israel,Asia,Western Asia
-212.199.177.172,4,5,chinanewsline.com,IL,Israel,Asia,Western Asia
-62.219.58.243,4,6,cinema.co.il,IL,Israel,Asia,Western Asia
-84.95.247.228,4,1,collplant.com,IL,Israel,Asia,Western Asia
-185.131.144.182,4,-2,comc.co.il,IL,Israel,Asia,Western Asia
-88.218.116.137,4,-10,conversioner.com,IL,Israel,Asia,Western Asia
-185.108.148.135,4,131,cyabra.com,IL,Israel,Asia,Western Asia
-185.108.148.134,4,122,darrow.ai,IL,Israel,Asia,Western Asia
-195.225.46.200,4,3,dldtelaviv.com,IL,Israel,Asia,Western Asia
-195.238.121.20,4,-13,dmh.org.il,IL,Israel,Asia,Western Asia
-2.52.252.252,4,7,DNS Server: 2-52-252-252.orange.net.il,IL,Israel,Asia,Western Asia
-2.55.96.176,4,22,DNS Server: 2-55-96-176.orange.net.il,IL,Israel,Asia,Western Asia
-2.55.125.80,4,-31284408,DNS Server: 31-154-125-80.orange.net.il,IL,Israel,Asia,Western Asia
-2.55.127.105,4,124,DNS Server: 31-154-127-105.orange.net.il,IL,Israel,Asia,Western Asia
-2.55.72.107,4,199,DNS Server: 31-154-72-107.orange.net.il,IL,Israel,Asia,Western Asia
-2.55.88.248,4,-10800507,DNS Server: 31-154-88-248.orange.net.il,IL,Israel,Asia,Western Asia
-84.94.193.66,4,32,DNS Server: 84.94.193.66.cable.012.net.il,IL,Israel,Asia,Western Asia
-84.95.251.42,4,61,DNS Server: 84.95.251.42.forward.012.net.il,IL,Israel,Asia,Western Asia
-81.218.222.1,4,24,DNS Server: bzq-218-222-1.red.bezeqint.net,IL,Israel,Asia,Western Asia
-81.218.223.112,4,55,DNS Server: bzq-218-223-112.red.bezeqint.net,IL,Israel,Asia,Western Asia
-81.218.223.12,4,55,DNS Server: bzq-218-223-12.red.bezeqint.net,IL,Israel,Asia,Western Asia
-81.218.223.76,4,20,DNS Server: bzq-218-223-76.red.bezeqint.net,IL,Israel,Asia,Western Asia
-81.218.223.79,4,18,DNS Server: bzq-218-223-79.red.bezeqint.net,IL,Israel,Asia,Western Asia
-82.80.207.110,4,65,DNS Server: bzq-82-80-207-110.red.bezeqint.net,IL,Israel,Asia,Western Asia
-82.80.207.94,4,6,DNS Server: bzq-82-80-207-94.red.bezeqint.net,IL,Israel,Asia,Western Asia
-82.80.219.220,4,22,DNS Server: bzq-82-80-219-220.red.bezeqint.net,IL,Israel,Asia,Western Asia
-82.81.243.65,4,-7,DNS Server: bzq-82-81-243-65.cablep.bezeqint.net,IL,Israel,Asia,Western Asia
-212.235.99.195,4,-5622876,DNS Server: DSL212-235-99-195.bb.netvision.net.il,IL,Israel,Asia,Western Asia
-89.208.130.181,4,90,DNS Server: dynamic-181.130.208.89.itc.net.il,IL,Israel,Asia,Western Asia
-89.208.6.66,4,-9,DNS Server: dynamic-66.6.208.89.itc.net.il,IL,Israel,Asia,Western Asia
-89.208.5.78,4,-1021576,DNS Server: dynamic-78.5.208.89.itc.net.il,IL,Israel,Asia,Western Asia
-84.228.79.161,4,3204,DNS Server: IGLD-84-228-79-161.inter.net.il,IL,Israel,Asia,Western Asia
-199.203.131.145,4,131031,DNS Server: mailgw.polyram-group.com,IL,Israel,Asia,Western Asia
-80.179.160.8,4,91,DNS Server: ns-cel61.012.net.il,IL,Israel,Asia,Western Asia
-182.54.236.24,4,1656,e-mago.co.il,IL,Israel,Asia,Western Asia
-192.115.82.200,4,7,e-vrit.co.il,IL,Israel,Asia,Western Asia
-88.218.116.151,4,-1432,econcretetech.com,IL,Israel,Asia,Western Asia
-192.116.71.77,4,61,elijah-interfaith.org,IL,Israel,Asia,Western Asia
-195.225.46.43,4,5,eran.org.il,IL,Israel,Asia,Western Asia
-212.150.158.23,4,23,f2h.io,IL,Israel,Asia,Western Asia
-82.80.210.157,4,2,forms-wizard.biz,IL,Israel,Asia,Western Asia
-185.201.148.70,4,-18,geneva-accord.org,IL,Israel,Asia,Western Asia
-195.28.180.198,4,3,haifaff.co.il,IL,Israel,Asia,Western Asia
-167.86.44.32,4,8,harel-group.co.il,IL,Israel,Asia,Western Asia
-80.179.142.74,4,-1,hebron.org.il,IL,Israel,Asia,Western Asia
-185.108.148.112,4,7,herzog.ac.il,IL,Israel,Asia,Western Asia
-66.22.84.27,4,22,hidabroot.org,IL,Israel,Asia,Western Asia
-80.179.226.37,4,608,hma.org.il,IL,Israel,Asia,Western Asia
-84.95.150.50,4,4,humus101.com,IL,Israel,Asia,Western Asia
-185.56.73.24,4,2,idanraichelproject.com,IL,Israel,Asia,Western Asia
-88.218.116.134,4,909,idsf.org.il,IL,Israel,Asia,Western Asia
-195.28.181.44,4,44,insuranceusaauto.com,IL,Israel,Asia,Western Asia
-88.218.117.196,4,-2847,ipo.co.il,IL,Israel,Asia,Western Asia
-88.218.116.190,4,-172632,isciweb.org,IL,Israel,Asia,Western Asia
-62.219.50.49,4,1,isracast.com,IL,Israel,Asia,Western Asia
-199.203.52.202,4,10050340,isratrance.com,IL,Israel,Asia,Western Asia
-83.229.81.191,4,12,jamd.ac.il,IL,Israel,Asia,Western Asia
-80.179.142.66,4,35,jerusaleminstitute.org.il,IL,Israel,Asia,Western Asia
-88.218.117.142,4,-1045,jordanretro.org,IL,Israel,Asia,Western Asia
-195.225.46.181,4,3,jppi.org.il,IL,Israel,Asia,Western Asia
-212.150.243.220,4,1151,julievino.com,IL,Israel,Asia,Western Asia
-192.116.146.34,4,1,jvpvc.com,IL,Israel,Asia,Western Asia
-185.56.72.170,4,20,kehilot.co.il,IL,Israel,Asia,Western Asia
-88.218.117.88,4,114,kinneret.ac.il,IL,Israel,Asia,Western Asia
-66.22.84.16,4,8,kkl-jnf.org,IL,Israel,Asia,Western Asia
-66.22.84.22,4,17,kkl.org.il,IL,Israel,Asia,Western Asia
-82.80.25.204,4,14,kulam.org,IL,Israel,Asia,Western Asia
-69.16.232.87,4,5,laws.com,IL,Israel,Asia,Western Asia
-81.218.117.93,4,6,magmamagnets.com,IL,Israel,Asia,Western Asia
-64.71.153.121,4,6,mailing-tube.com,IL,Israel,Asia,Western Asia
-66.22.84.55,4,8,mako.co.il,IL,Israel,Asia,Western Asia
-185.241.4.171,4,1194,matomy.com,IL,Israel,Asia,Western Asia
-66.22.84.239,4,58,max.co.il,IL,Israel,Asia,Western Asia
-167.86.44.73,4,7,menoramivt.co.il,IL,Israel,Asia,Western Asia
-185.37.149.106,4,3,mhmhmuseum.org,IL,Israel,Asia,Western Asia
-195.225.46.99,4,37,milog.co.il,IL,Israel,Asia,Western Asia
-88.218.116.155,4,-644,mitvim.org.il,IL,Israel,Asia,Western Asia
-167.86.44.72,4,9,mizrahi-tefahot.co.il,IL,Israel,Asia,Western Asia
-195.225.46.15,4,42,molad.org,IL,Israel,Asia,Western Asia
-185.37.148.221,4,984,musictalk.co.il,IL,Israel,Asia,Western Asia
-66.22.84.58,4,9,n12.co.il,IL,Israel,Asia,Western Asia
-185.56.74.98,4,17,nadlancenter.co.il,IL,Israel,Asia,Western Asia
-185.18.205.221,4,2,naftalibike.co.il,IL,Israel,Asia,Western Asia
-88.218.116.160,4,-7,nalagaat.org.il,IL,Israel,Asia,Western Asia
-80.179.226.44,4,6,nana10.co.il,IL,Israel,Asia,Western Asia
-185.145.255.98,4,-1,nituv-eng.com,IL,Israel,Asia,Western Asia
-69.16.232.94,4,6,officemuseum.com,IL,Israel,Asia,Western Asia
-207.232.36.172,4,-1007915,Ookla Speedtest Server 5283: speed.cellcom.co.il,IL,Israel,Asia,Western Asia
-94.230.90.4,4,297,Ookla Speedtest Server 9034: speedtest.018.co.il,IL,Israel,Asia,Western Asia
-185.162.127.2,4,32697,Ookla Speedtest Server 11616: speedtest.il-rh.kamatera.com,IL,Israel,Asia,Western Asia
-195.189.140.12,4,351,Ookla Speedtest Server 13940: speedtest2.spd.co.il,IL,Israel,Asia,Western Asia
-188.225.230.38,4,279,Ookla Speedtest Server 13973: speedtest.coolnet.ps,IL,Israel,Asia,Western Asia
-212.179.15.194,4,122,Ookla Speedtest Server 15746: speedtest.bezeqint.net,IL,Israel,Asia,Western Asia
-80.179.160.70,4,108,Ookla Speedtest Server 17022: speedtest2.partner.co.il,IL,Israel,Asia,Western Asia
-185.145.255.152,4,208,Ookla Speedtest Server 47785: speedtest.dreamvps.com,IL,Israel,Asia,Western Asia
-46.60.3.198,4,-2791078,Ookla Speedtest Server 52482: speedtest1.zaytona.ps,IL,Israel,Asia,Western Asia
-147.236.122.62,4,214,Ookla Speedtest Server 55466: speed.xfiber.net.il,IL,Israel,Asia,Western Asia
-81.199.199.10,4,-264,Ookla Speedtest Server 58330: speedtest.noorcom.online,IL,Israel,Asia,Western Asia
-213.57.22.91,4,313,Ookla Speedtest Server 62236: speedtest-pt.hotnet.net.il,IL,Israel,Asia,Western Asia
-185.27.106.14,4,224,Ookla Speedtest Server 63255: speedtest.jetfiber.net,IL,Israel,Asia,Western Asia
-82.166.201.37,4,-1007724,Ookla Speedtest Server: speed.013.net,IL,Israel,Asia,Western Asia
-185.217.98.94,4,1016,Ookla Speedtest Server: speedtest.interhost.co.il,IL,Israel,Asia,Western Asia
-185.17.234.130,4,235,Ookla Speedtest Server: speedtest.mada.ps,IL,Israel,Asia,Western Asia
-141.226.241.245,4,10746979,Ookla Speedtest Server: speedtest.makeapp.net.il,IL,Israel,Asia,Western Asia
-188.225.225.117,4,74,Ookla Speedtest Server: speedtest2.coolnet.ps,IL,Israel,Asia,Western Asia
-80.179.148.114,4,1,opgal.com,IL,Israel,Asia,Western Asia
-88.218.116.38,4,-2551,orphaned-land.com,IL,Israel,Asia,Western Asia
-185.201.148.17,4,1985,panorama.com,IL,Israel,Asia,Western Asia
-62.128.52.39,4,11,peacenow.org.il,IL,Israel,Asia,Western Asia
-88.218.117.49,4,36,pitsou.com,IL,Israel,Asia,Western Asia
-185.145.252.225,4,1348,pluginsmarket.com,IL,Israel,Asia,Western Asia
-94.103.185.116,4,27,posta.co.il,IL,Israel,Asia,Western Asia
-88.218.116.178,4,19,prof-shapira.com,IL,Israel,Asia,Western Asia
-80.179.230.60,4,7,pvpanama.com,IL,Israel,Asia,Western Asia
-80.179.140.151,4,8,reader.co.il,IL,Israel,Asia,Western Asia
-216.201.81.212,4,32,rosieanimaladoption.ca,IL,Israel,Asia,Western Asia
-69.16.232.162,4,54,rssailing.com,IL,Israel,Asia,Western Asia
-63.250.63.229,4,749,sabon.com,IL,Israel,Asia,Western Asia
-212.235.89.107,4,-3852041426,safe-mail.net,IL,Israel,Asia,Western Asia
-80.179.152.101,4,40,sensei.co.il,IL,Israel,Asia,Western Asia
-185.56.74.100,4,0,seo-analytic.co.il,IL,Israel,Asia,Western Asia
-199.203.226.2,4,-3423195,sii.org.il,IL,Israel,Asia,Western Asia
-80.179.128.181,4,-10797642,site-pro.co.il,IL,Israel,Asia,Western Asia
-80.179.230.22,4,5,social.org.il,IL,Israel,Asia,Western Asia
-185.108.148.226,4,7,ssv.network,IL,Israel,Asia,Western Asia
-185.18.207.233,4,763,sterenstein.ru,IL,Israel,Asia,Western Asia
-194.36.90.166,4,8,takdin.co.il,IL,Israel,Asia,Western Asia
-192.116.146.27,4,6,tambour.co.il,IL,Israel,Asia,Western Asia
-185.56.75.185,4,0,tavisraeli.co.il,IL,Israel,Asia,Western Asia
-185.56.75.138,4,10,thenorman.com,IL,Israel,Asia,Western Asia
-185.108.148.219,4,-4,theparentscircle.org,IL,Israel,Asia,Western Asia
-185.56.74.250,4,17,thepulse.co.il,IL,Israel,Asia,Western Asia
-88.218.117.138,4,13,traduc71.com,IL,Israel,Asia,Western Asia
-185.17.234.38,4,1008,travelpalestine.ps,IL,Israel,Asia,Western Asia
-185.145.252.165,4,0,tsipilates.com,IL,Israel,Asia,Western Asia
-69.16.232.146,4,2,ub.org,IL,Israel,Asia,Western Asia
-185.145.252.17,4,-2,up.co.il,IL,Israel,Asia,Western Asia
-185.108.148.90,4,739,vanleer.org.il,IL,Israel,Asia,Western Asia
-185.56.74.212,4,1,vaxtestimonies.org,IL,Israel,Asia,Western Asia
-192.116.109.25,4,23,vibeisrael.com,IL,Israel,Asia,Western Asia
-88.218.117.143,4,3388,visit-tlv.co.il,IL,Israel,Asia,Western Asia
-185.56.74.69,4,2,vocabulary.co.il,IL,Israel,Asia,Western Asia
-199.203.51.141,4,2,weberdev.com,IL,Israel,Asia,Western Asia
-5.100.249.55,4,2,wesell.co.il,IL,Israel,Asia,Western Asia
-192.116.49.85,4,23,wikirefua.org.il,IL,Israel,Asia,Western Asia
-84.95.247.248,4,13,womenwagepeace.org.il,IL,Israel,Asia,Western Asia
-69.16.232.230,4,5,woosteroh.com,IL,Israel,Asia,Western Asia
-80.178.161.132,4,6,xmpie.com,IL,Israel,Asia,Western Asia
-109.226.41.138,4,680,ybook.co.il,IL,Israel,Asia,Western Asia
-192.115.80.55,4,8,ynetnews.com,IL,Israel,Asia,Western Asia
-195.225.46.185,4,2,yo-yoo.co.il,IL,Israel,Asia,Western Asia
-80.179.141.28,4,5,zeustech.net,IL,Israel,Asia,Western Asia
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+185.56.74.147,4,2,1202.org.il,IL,Asia,Western Asia,Israel,,,
+81.218.83.70,4,205,activestills.org,IL,Asia,Western Asia,Israel,Northern District,,Ḥurfeish
+5.100.253.198,4,1019,adnart.com,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
+185.18.206.241,4,728,adva.org,IL,Asia,Western Asia,Israel,Jerusalem,,Jerusalem
+66.22.84.26,4,19,alljobs.co.il,IL,Asia,Western Asia,Israel,Central District,,
+81.218.83.103,4,1,alooma.tv,IL,Asia,Western Asia,Israel,Northern District,,Ḥurfeish
+185.56.75.80,4,168,arberobotics.com,IL,Asia,Western Asia,Israel,,,
+81.218.117.82,4,60,archives.gov.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+88.218.116.187,4,17,arims.org.il,IL,Asia,Western Asia,Israel,Central District,,Rehovot
+212.150.130.237,4,598,asoccer.co.il,IL,Asia,Western Asia,Israel,Central District,,Netanya
+185.108.148.164,4,-41,bauhaus-center.com,IL,Asia,Western Asia,Israel,,,
+195.238.120.202,4,2,bimkom.org,IL,Asia,Western Asia,Israel,,,
+80.178.161.107,4,-7,birdf.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+185.220.206.88,4,35,bitheikuren.com,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
+185.241.6.211,4,1,bizportal.co.il,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
+81.218.117.73,4,33,blmj.org,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+31.168.170.43,4,5,booknet.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Bat Yam
+185.56.73.50,4,3,breslev.co.il,IL,Asia,Western Asia,Israel,,,
+31.168.170.45,4,40,bug.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Bat Yam
+185.108.148.65,4,-249,capitalise.ai,IL,Asia,Western Asia,Israel,,,
+192.116.146.100,4,845,carlton.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Herzliya
+185.108.148.81,4,-264,carmelwines.co.il,IL,Asia,Western Asia,Israel,,,
+212.199.177.172,4,5,chinanewsline.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+62.219.58.243,4,6,cinema.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+84.95.247.228,4,1,collplant.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+185.131.144.182,4,-2,comc.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+88.218.116.137,4,-10,conversioner.com,IL,Asia,Western Asia,Israel,Central District,,Rehovot
+185.108.148.135,4,131,cyabra.com,IL,Asia,Western Asia,Israel,,,
+185.108.148.134,4,122,darrow.ai,IL,Asia,Western Asia,Israel,,,
+195.225.46.200,4,3,dldtelaviv.com,IL,Asia,Western Asia,Israel,,,
+2.52.252.252,4,7,DNS Server: 2-52-252-252.orange.net.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+2.55.96.176,4,22,DNS Server: 2-55-96-176.orange.net.il,IL,Asia,Western Asia,Israel,Haifa,,Pardes Hanna Karkur
+2.55.125.80,4,-31284408,DNS Server: 31-154-125-80.orange.net.il,IL,Asia,Western Asia,Israel,Haifa,,Pardes Hanna Karkur
+2.55.127.105,4,124,DNS Server: 31-154-127-105.orange.net.il,IL,Asia,Western Asia,Israel,Haifa,,Pardes Hanna Karkur
+2.55.72.107,4,199,DNS Server: 31-154-72-107.orange.net.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
+2.55.88.248,4,-10800507,DNS Server: 31-154-88-248.orange.net.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+84.94.193.66,4,32,DNS Server: 84.94.193.66.cable.012.net.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+84.95.251.42,4,61,DNS Server: 84.95.251.42.forward.012.net.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+81.218.222.1,4,24,DNS Server: bzq-218-222-1.red.bezeqint.net,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+81.218.223.112,4,55,DNS Server: bzq-218-223-112.red.bezeqint.net,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+81.218.223.12,4,55,DNS Server: bzq-218-223-12.red.bezeqint.net,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+81.218.223.76,4,20,DNS Server: bzq-218-223-76.red.bezeqint.net,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+81.218.223.79,4,18,DNS Server: bzq-218-223-79.red.bezeqint.net,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+82.80.207.110,4,65,DNS Server: bzq-82-80-207-110.red.bezeqint.net,IL,Asia,Western Asia,Israel,Jerusalem,,Jerusalem
+82.80.207.94,4,6,DNS Server: bzq-82-80-207-94.red.bezeqint.net,IL,Asia,Western Asia,Israel,Jerusalem,,Jerusalem
+82.80.219.220,4,22,DNS Server: bzq-82-80-219-220.red.bezeqint.net,IL,Asia,Western Asia,Israel,Tel Aviv,,Ramat Gan
+82.81.243.65,4,-7,DNS Server: bzq-82-81-243-65.cablep.bezeqint.net,IL,Asia,Western Asia,Israel,Tel Aviv,,Bnei Brak
+212.235.99.195,4,-5622876,DNS Server: DSL212-235-99-195.bb.netvision.net.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Holon
+89.208.130.181,4,90,DNS Server: dynamic-181.130.208.89.itc.net.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+89.208.6.66,4,-9,DNS Server: dynamic-66.6.208.89.itc.net.il,IL,Asia,Western Asia,Israel,Haifa,,Haifa
+89.208.5.78,4,-1021576,DNS Server: dynamic-78.5.208.89.itc.net.il,IL,Asia,Western Asia,Israel,Haifa,,Haifa
+84.228.79.161,4,3204,DNS Server: IGLD-84-228-79-161.inter.net.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+199.203.131.145,4,131031,DNS Server: mailgw.polyram-group.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+80.179.160.8,4,91,DNS Server: ns-cel61.012.net.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Holon
+182.54.236.24,4,1656,e-mago.co.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
+192.115.82.200,4,7,e-vrit.co.il,IL,Asia,Western Asia,Israel,Central District,,Rishon LeTsiyyon
+88.218.116.151,4,-1432,econcretetech.com,IL,Asia,Western Asia,Israel,Central District,,Rehovot
+192.116.71.77,4,61,elijah-interfaith.org,IL,Asia,Western Asia,Israel,Tel Aviv,,Holon
+66.22.66.118,4,10,emdep.vn,IL,Asia,Western Asia,Israel,,,
+195.225.46.43,4,5,eran.org.il,IL,Asia,Western Asia,Israel,,,
+212.150.158.23,4,23,f2h.io,IL,Asia,Western Asia,Israel,Central District,,Netanya
+82.80.210.157,4,2,forms-wizard.biz,IL,Asia,Western Asia,Israel,Tel Aviv,,Ramat Gan
+185.201.148.70,4,-18,geneva-accord.org,IL,Asia,Western Asia,Israel,,,
+195.28.180.198,4,3,haifaff.co.il,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
+167.86.44.32,4,8,harel-group.co.il,IL,Asia,Western Asia,Israel,Central District,,
+80.179.142.74,4,-1,hebron.org.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
+185.108.148.112,4,7,herzog.ac.il,IL,Asia,Western Asia,Israel,,,
+66.22.84.27,4,22,hidabroot.org,IL,Asia,Western Asia,Israel,Central District,,
+80.179.226.37,4,608,hma.org.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
+84.95.150.50,4,4,humus101.com,IL,Asia,Western Asia,Israel,Jerusalem,,Naẖshon
+185.56.73.24,4,2,idanraichelproject.com,IL,Asia,Western Asia,Israel,,,
+88.218.116.134,4,909,idsf.org.il,IL,Asia,Western Asia,Israel,Central District,,Rehovot
+195.28.181.44,4,44,insuranceusaauto.com,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
+88.218.117.196,4,-2847,ipo.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+88.218.116.190,4,-172632,isciweb.org,IL,Asia,Western Asia,Israel,Central District,,Rehovot
+62.219.50.49,4,1,isracast.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+199.203.52.202,4,10050340,isratrance.com,IL,Asia,Western Asia,Israel,Southern District,,Arad
+83.229.81.191,4,12,jamd.ac.il,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
+80.179.142.66,4,35,jerusaleminstitute.org.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
+88.218.117.142,4,-1045,jordanretro.org,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+195.225.46.181,4,3,jppi.org.il,IL,Asia,Western Asia,Israel,,,
+212.150.243.220,4,1151,julievino.com,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
+192.116.146.34,4,1,jvpvc.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Herzliya
+185.56.72.170,4,20,kehilot.co.il,IL,Asia,Western Asia,Israel,,,
+88.218.117.88,4,114,kinneret.ac.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+66.22.84.16,4,8,kkl-jnf.org,IL,Asia,Western Asia,Israel,Central District,,
+66.22.84.22,4,17,kkl.org.il,IL,Asia,Western Asia,Israel,Central District,,
+82.80.25.204,4,14,kulam.org,IL,Asia,Western Asia,Israel,Central District,,Qvutsat Yavne
+81.218.117.93,4,6,magmamagnets.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+66.22.84.55,4,8,mako.co.il,IL,Asia,Western Asia,Israel,Central District,,
+185.241.4.171,4,1194,matomy.com,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
+66.22.84.239,4,58,max.co.il,IL,Asia,Western Asia,Israel,Central District,,
+167.86.44.73,4,7,menoramivt.co.il,IL,Asia,Western Asia,Israel,Central District,,
+185.37.149.106,4,3,mhmhmuseum.org,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
+195.225.46.99,4,37,milog.co.il,IL,Asia,Western Asia,Israel,,,
+88.218.116.155,4,-644,mitvim.org.il,IL,Asia,Western Asia,Israel,Central District,,Rehovot
+167.86.44.72,4,9,mizrahi-tefahot.co.il,IL,Asia,Western Asia,Israel,Central District,,
+195.225.46.15,4,42,molad.org,IL,Asia,Western Asia,Israel,,,
+185.37.148.221,4,984,musictalk.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+66.22.84.58,4,9,n12.co.il,IL,Asia,Western Asia,Israel,Central District,,
+185.56.74.98,4,17,nadlancenter.co.il,IL,Asia,Western Asia,Israel,,,
+185.18.205.221,4,2,naftalibike.co.il,IL,Asia,Western Asia,Israel,Jerusalem,,Jerusalem
+88.218.116.160,4,-7,nalagaat.org.il,IL,Asia,Western Asia,Israel,Central District,,Rehovot
+80.179.226.44,4,6,nana10.co.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
+185.145.255.98,4,-1,nituv-eng.com,IL,Asia,Western Asia,Israel,,,
+207.232.36.172,4,-1007915,Ookla Speedtest Server 5283: speed.cellcom.co.il,IL,Asia,Western Asia,Israel,Jerusalem,,Jerusalem
+94.230.90.4,4,297,Ookla Speedtest Server 9034: speedtest.018.co.il,IL,Asia,Western Asia,Israel,Central District,,Rishon LeTsiyyon
+185.162.127.2,4,32697,Ookla Speedtest Server 11616: speedtest.il-rh.kamatera.com,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
+195.189.140.12,4,351,Ookla Speedtest Server 13940: speedtest2.spd.co.il,IL,Asia,Western Asia,Israel,Central District,,Rishon LeTsiyyon
+212.179.15.194,4,122,Ookla Speedtest Server 15746: speedtest.bezeqint.net,IL,Asia,Western Asia,Israel,Tel Aviv,,Holon
+80.179.160.70,4,108,Ookla Speedtest Server 17022: speedtest2.partner.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Holon
+185.145.255.152,4,208,Ookla Speedtest Server 47785: speedtest.dreamvps.com,IL,Asia,Western Asia,Israel,,,
+147.236.122.62,4,214,Ookla Speedtest Server 55466: speed.xfiber.net.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Ramat Gan
+81.199.199.10,4,-264,Ookla Speedtest Server 58330: speedtest.noorcom.online,IL,Asia,Western Asia,Israel,Tel Aviv,,Ramat Gan
+213.57.22.91,4,313,Ookla Speedtest Server 62236: speedtest-pt.hotnet.net.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Ramat Gan
+185.27.106.14,4,224,Ookla Speedtest Server 63255: speedtest.jetfiber.net,IL,Asia,Western Asia,Israel,Jerusalem,,Jerusalem
+82.166.201.37,4,-1007724,Ookla Speedtest Server: speed.013.net,IL,Asia,Western Asia,Israel,Tel Aviv,,Giv‘atayim
+185.217.98.94,4,1016,Ookla Speedtest Server: speedtest.interhost.co.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
+141.226.241.245,4,10746979,Ookla Speedtest Server: speedtest.makeapp.net.il,IL,Asia,Western Asia,Israel,,,
+80.179.148.114,4,1,opgal.com,IL,Asia,Western Asia,Israel,Central District,,Lod
+88.218.116.38,4,-2551,orphaned-land.com,IL,Asia,Western Asia,Israel,Central District,,Rehovot
+185.201.148.17,4,1985,panorama.com,IL,Asia,Western Asia,Israel,,,
+62.128.52.39,4,11,peacenow.org.il,IL,Asia,Western Asia,Israel,Southern District,,Kiryat Gat
+66.22.66.169,4,12,phongvu.vn,IL,Asia,Western Asia,Israel,,,
+88.218.117.49,4,36,pitsou.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+185.145.252.225,4,1348,pluginsmarket.com,IL,Asia,Western Asia,Israel,,,
+94.103.185.116,4,27,posta.co.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
+88.218.116.178,4,19,prof-shapira.com,IL,Asia,Western Asia,Israel,Central District,,Rehovot
+80.179.230.60,4,7,pvpanama.com,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
+80.179.140.151,4,8,reader.co.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
+63.250.63.229,4,749,sabon.com,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
+212.235.89.107,4,-3852041426,safe-mail.net,IL,Asia,Western Asia,Israel,Tel Aviv,,Holon
+80.179.152.101,4,40,sensei.co.il,IL,Asia,Western Asia,Israel,Central District,,Lod
+185.56.74.100,4,0,seo-analytic.co.il,IL,Asia,Western Asia,Israel,,,
+199.203.226.2,4,-3423195,sii.org.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Ramat Gan
+80.179.128.181,4,-10797642,site-pro.co.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
+80.179.230.22,4,5,social.org.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
+185.108.148.226,4,7,ssv.network,IL,Asia,Western Asia,Israel,,,
+185.18.207.233,4,763,sterenstein.ru,IL,Asia,Western Asia,Israel,Jerusalem,,Jerusalem
+194.36.90.166,4,8,takdin.co.il,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
+192.116.146.27,4,6,tambour.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Herzliya
+185.56.75.185,4,0,tavisraeli.co.il,IL,Asia,Western Asia,Israel,,,
+185.56.75.138,4,10,thenorman.com,IL,Asia,Western Asia,Israel,,,
+185.108.148.219,4,-4,theparentscircle.org,IL,Asia,Western Asia,Israel,,,
+185.56.74.250,4,17,thepulse.co.il,IL,Asia,Western Asia,Israel,,,
+88.218.117.138,4,13,traduc71.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+185.145.252.165,4,0,tsipilates.com,IL,Asia,Western Asia,Israel,,,
+185.145.252.17,4,-2,up.co.il,IL,Asia,Western Asia,Israel,,,
+185.108.148.90,4,739,vanleer.org.il,IL,Asia,Western Asia,Israel,,,
+185.56.74.212,4,1,vaxtestimonies.org,IL,Asia,Western Asia,Israel,,,
+192.116.109.25,4,23,vibeisrael.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Bat Yam
+88.218.117.143,4,3388,visit-tlv.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+185.56.74.69,4,2,vocabulary.co.il,IL,Asia,Western Asia,Israel,,,
+78.138.58.31,4,10,voyance-amour-eternel.com,IL,Asia,Western Asia,Israel,Haifa,,'Ar'ara
+199.203.51.141,4,2,weberdev.com,IL,Asia,Western Asia,Israel,Southern District,,Arad
+5.100.249.55,4,2,wesell.co.il,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
+192.116.49.85,4,23,wikirefua.org.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
+84.95.247.248,4,13,womenwagepeace.org.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+80.178.161.132,4,6,xmpie.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+109.226.41.138,4,680,ybook.co.il,IL,Asia,Western Asia,Israel,Jerusalem,,Jerusalem
+192.115.80.55,4,8,ynetnews.com,IL,Asia,Western Asia,Israel,Central District,,Rishon LeTsiyyon
+195.225.46.185,4,2,yo-yoo.co.il,IL,Asia,Western Asia,Israel,,,
+80.179.141.28,4,5,zeustech.net,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva

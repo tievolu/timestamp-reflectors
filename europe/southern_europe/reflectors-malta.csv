@@ -1,21 +1,16 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-31.172.248.162,4,74494,burgoynes-lyonshall.co.uk,MT,Malta,Europe,Southern Europe
-84.255.32.87,4,65,DNS Server: c32-87.i04-9.onvol.net,MT,Malta,Europe,Southern Europe
-84.255.53.202,4,11,DNS Server: c53-202.i04-14.onvol.net,MT,Malta,Europe,Southern Europe
-66.85.158.91,4,23,epid.gov.lk,MT,Malta,Europe,Southern Europe
-66.85.162.203,4,4,ijcps.com,MT,Malta,Europe,Southern Europe
-185.76.245.85,4,166,itfa.org,MT,Malta,Europe,Southern Europe
-66.85.142.50,4,3,ktunaxa.org,MT,Malta,Europe,Southern Europe
-193.188.46.34,4,0,nic.org.mt,MT,Malta,Europe,Southern Europe
-66.85.132.82,4,37,nimbelink.com,MT,Malta,Europe,Southern Europe
-217.15.103.2,4,221,Ookla Speedtest Server 1665: speedtest.go.com.mt,MT,Malta,Europe,Southern Europe
-80.85.110.50,4,310,Ookla Speedtest Server 60383: speedtest2.epic.com.mt,MT,Malta,Europe,Southern Europe
-5.198.254.70,4,810,sdmiaoliyuan.com,MT,Malta,Europe,Southern Europe
-66.85.132.138,4,5,shapladoelsangsad.com,MT,Malta,Europe,Southern Europe
-213.165.185.250,4,-7199156,the-case.eu,MT,Malta,Europe,Southern Europe
-193.188.46.240,4,25,um.edu.mt,MT,Malta,Europe,Southern Europe
-66.85.128.68,4,622,unae.edu.ec,MT,Malta,Europe,Southern Europe
-85.184.96.28,4,6,unibet.com,MT,Malta,Europe,Southern Europe
-85.184.96.42,4,1,unibet.fr,MT,Malta,Europe,Southern Europe
-66.85.130.37,4,3,visionhelpdesk.com,MT,Malta,Europe,Southern Europe
-85.184.96.0,4,32,vladcazino.ro,MT,Malta,Europe,Southern Europe
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+5.198.253.250,4,66,batofar.org,MT,Europe,Southern Europe,Malta,,,
+84.255.32.87,4,65,DNS Server: c32-87.i04-9.onvol.net,MT,Europe,Southern Europe,Malta,Tas-Sliema,,Sliema
+84.255.53.202,4,11,DNS Server: c53-202.i04-14.onvol.net,MT,Europe,Southern Europe,Malta,Tas-Sliema,,Sliema
+185.76.245.85,4,166,itfa.org,MT,Europe,Southern Europe,Malta,,,
+5.198.248.66,4,898,japook.com,MT,Europe,Southern Europe,Malta,,,
+193.188.46.34,4,0,nic.org.mt,MT,Europe,Southern Europe,Malta,Ħaż-Żabbar,,Żabbar
+217.15.103.2,4,221,Ookla Speedtest Server 1665: speedtest.go.com.mt,MT,Europe,Southern Europe,Malta,,,
+80.85.110.50,4,310,Ookla Speedtest Server 60383: speedtest2.epic.com.mt,MT,Europe,Southern Europe,Malta,Saint Venera,,Saint Venera
+5.198.250.122,4,-317,packetfactory.net,MT,Europe,Southern Europe,Malta,,,
+5.198.254.70,4,810,sdmiaoliyuan.com,MT,Europe,Southern Europe,Malta,,,
+213.165.185.250,4,-7199156,the-case.eu,MT,Europe,Southern Europe,Malta,Il-Gżira,,Gżira
+193.188.46.240,4,25,um.edu.mt,MT,Europe,Southern Europe,Malta,Ħaż-Żabbar,,Żabbar
+85.184.96.28,4,6,unibet.com,MT,Europe,Southern Europe,Malta,,,
+85.184.96.42,4,1,unibet.fr,MT,Europe,Southern Europe,Malta,,,
+85.184.96.0,4,32,vladcazino.ro,MT,Europe,Southern Europe,Malta,,,

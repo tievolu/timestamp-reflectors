@@ -1,0 +1,5 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+147.87.0.240,4,13,bfh.ch,CH,Europe,Western Europe,Switzerland,Solothurn,,Buchegg
+91.138.5.222,4,47866,DNS Server: 222-5-138-91.dyn.cable.fcom.ch,CH,Europe,Western Europe,Switzerland,Solothurn,,Untererlinsbach
+5.144.9.234,4,1498,DNS Server: 234-9-144-5.dyn.cable.fcom.ch,CH,Europe,Western Europe,Switzerland,Solothurn,,Grenchen
+212.101.4.163,4,22,solnet.ch,CH,Europe,Western Europe,Switzerland,Solothurn,,Langendorf

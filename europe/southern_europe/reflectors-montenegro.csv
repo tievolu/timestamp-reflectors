@@ -1,4 +1,6 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-94.102.233.24,4,1180,igraonica.me,ME,Montenegro,Europe,Southern Europe
-94.102.233.29,4,1001,monstat.org,ME,Montenegro,Europe,Southern Europe
-77.222.22.82,4,238091,Ookla Speedtest Server: speedtest.t-com.me,ME,Montenegro,Europe,Southern Europe
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+77.91.126.48,4,28,autolebanon.ru,ME,Europe,Southern Europe,Montenegro,,,
+77.91.126.199,4,13,code-industry.net,ME,Europe,Southern Europe,Montenegro,,,
+94.102.233.24,4,1180,igraonica.me,ME,Europe,Southern Europe,Montenegro,Podgorica,,Podgorica
+94.102.233.29,4,1001,monstat.org,ME,Europe,Southern Europe,Montenegro,Podgorica,,Podgorica
+77.222.22.82,4,238091,Ookla Speedtest Server: speedtest.t-com.me,ME,Europe,Southern Europe,Montenegro,Podgorica,,Podgorica

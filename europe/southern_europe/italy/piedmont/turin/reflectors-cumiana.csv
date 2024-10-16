@@ -1,0 +1,6 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+81.201.4.1,4,8,DNS Server: host001-pool081201004.albedo.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Cumiana
+81.201.0.61,4,6,DNS Server: host061-pool081201000.albedo.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Cumiana
+81.201.10.90,4,66,DNS Server: host090-pool081201010.albedo.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Cumiana
+81.201.6.182,4,14,DNS Server: host182-pool081201006.albedo.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Cumiana
+81.201.4.221,4,9142729,DNS Server: host221-pool081201004.albedo.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Cumiana

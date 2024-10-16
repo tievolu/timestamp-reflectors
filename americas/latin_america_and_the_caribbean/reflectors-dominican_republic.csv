@@ -1,36 +1,34 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-186.149.243.52,4,1,ALTICE DOMINICANA S.A.,DO,Dominican Republic,Americas,Latin America and the Caribbean
-66.98.46.178,4,625,DNS Server: 178.46.98.66.l.static.claro.net.do,DO,Dominican Republic,Americas,Latin America and the Caribbean
-190.167.220.185,4,28973,DNS Server: 185.220.167.190.l.static.claro.net.do,DO,Dominican Republic,Americas,Latin America and the Caribbean
-190.93.189.30,4,460,DNS Server: fibra-a-la-casa-189-30.jdimax.com,DO,Dominican Republic,Americas,Latin America and the Caribbean
-200.125.170.128,4,4,DNS Server: INTERNET-DEDICADO-128.wmservice.com.do,DO,Dominican Republic,Americas,Latin America and the Caribbean
-200.125.171.219,4,8,DNS Server: INTERNET-DEDICADO-171-219.wmservice.com.do,DO,Dominican Republic,Americas,Latin America and the Caribbean
-200.125.171.220,4,1,DNS Server: INTERNET-DEDICADO-171-220.wmservice.com.do,DO,Dominican Republic,Americas,Latin America and the Caribbean
-45.164.172.91,4,-30388,DNS Server: internet-por-fibra-172-91.orbitcable.com.do,DO,Dominican Republic,Americas,Latin America and the Caribbean
-45.164.175.174,4,425,DNS Server: internet-por-fibra-175-174.orbitcable.com.do,DO,Dominican Republic,Americas,Latin America and the Caribbean
-45.176.92.58,4,2444687,DNS Server: ipv4-92-58.exito-vision.net,DO,Dominican Republic,Americas,Latin America and the Caribbean
-170.81.9.4,4,67,DNS Server: ns01.refidomsa.com.do,DO,Dominican Republic,Americas,Latin America and the Caribbean
-168.196.125.69,4,325,Ookla Speedtest Server 5849: speedtest.comcast-srl.com,DO,Dominican Republic,Americas,Latin America and the Caribbean
-38.44.241.126,4,147,Ookla Speedtest Server 15180: speedtest.fastnet.com.do,DO,Dominican Republic,Americas,Latin America and the Caribbean
-181.233.116.15,4,254,Ookla Speedtest Server 15509: speedtest.maocablevision.com,DO,Dominican Republic,Americas,Latin America and the Caribbean
-45.164.172.50,4,196,Ookla Speedtest Server 21816: speedtest.orbitcable.com.do,DO,Dominican Republic,Americas,Latin America and the Caribbean
-38.158.200.10,4,291,Ookla Speedtest Server 46007: speedtest.willnet.com.do,DO,Dominican Republic,Americas,Latin America and the Caribbean
-45.6.43.4,4,328,Ookla Speedtest Server 46887: sp2.telecableinternacional.com,DO,Dominican Republic,Americas,Latin America and the Caribbean
-38.183.152.102,4,168,Ookla Speedtest Server 47869: speedtest.telecableglobal.com,DO,Dominican Republic,Americas,Latin America and the Caribbean
-38.156.236.254,4,-6113,Ookla Speedtest Server 51719: stringnets-speedtest.arcofiber.com,DO,Dominican Republic,Americas,Latin America and the Caribbean
-200.125.169.106,4,2965,Ookla Speedtest Server 52924: speedtest.conexionwnm.com,DO,Dominican Republic,Americas,Latin America and the Caribbean
-45.164.13.146,4,194,Ookla Speedtest Server 53471: speedtest2.guestchoice.tv,DO,Dominican Republic,Americas,Latin America and the Caribbean
-206.0.152.6,4,213,Ookla Speedtest Server 56660: intersatdominicana.com.do,DO,Dominican Republic,Americas,Latin America and the Caribbean
-38.191.45.18,4,277,Ookla Speedtest Server 57367: serviciospablomella2.com.do,DO,Dominican Republic,Americas,Latin America and the Caribbean
-38.159.223.6,4,254,Ookla Speedtest Server 59012: speedtestreynosord.com,DO,Dominican Republic,Americas,Latin America and the Caribbean
-140.99.122.251,4,291,Ookla Speedtest Server 59989: speed1.funtechnology.net,DO,Dominican Republic,Americas,Latin America and the Caribbean
-38.252.231.242,4,292,Ookla Speedtest Server 60159: speedtest-serve.servimast.com,DO,Dominican Republic,Americas,Latin America and the Caribbean
-38.51.190.254,4,235,Ookla Speedtest Server 62636: vega1.speed.megared.com.do,DO,Dominican Republic,Americas,Latin America and the Caribbean
-109.110.191.246,4,308,Ookla Speedtest Server 62840: speedtest.kwservicesrd.net,DO,Dominican Republic,Americas,Latin America and the Caribbean
-38.10.81.158,4,307,Ookla Speedtest Server 63049: speedtest.lysnetworksolution.com.do,DO,Dominican Republic,Americas,Latin America and the Caribbean
-38.50.44.11,4,258,Ookla Speedtest Server 63052: speedtest.telecotui.tv,DO,Dominican Republic,Americas,Latin America and the Caribbean
-206.85.1.254,4,-1752,Ookla Speedtest Server 63273: stodgo1.megared.com.do,DO,Dominican Republic,Americas,Latin America and the Caribbean
-143.137.83.150,4,338,Ookla Speedtest Server: speed.telenord.com,DO,Dominican Republic,Americas,Latin America and the Caribbean
-204.157.126.1,4,-82951,Ookla Speedtest Server: speedtest1.waycom.com.do,DO,Dominican Republic,Americas,Latin America and the Caribbean
-190.124.66.206,4,12704,Ookla Speedtest Server: speedtestmini.tricom.net,DO,Dominican Republic,Americas,Latin America and the Caribbean
-173.209.48.46,4,491,webradio.tools,DO,Dominican Republic,Americas,Latin America and the Caribbean
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+186.149.243.52,4,1,ALTICE DOMINICANA S.A.,DO,Americas,Latin America and the Caribbean,Dominican Republic,Santiago Province,,Santiago de los Caballeros
+66.98.46.178,4,625,DNS Server: 178.46.98.66.l.static.claro.net.do,DO,Americas,Latin America and the Caribbean,Dominican Republic,Nacional,,Santo Domingo
+190.167.220.185,4,28973,DNS Server: 185.220.167.190.l.static.claro.net.do,DO,Americas,Latin America and the Caribbean,Dominican Republic,Nacional,,Santo Domingo
+190.93.189.30,4,460,DNS Server: fibra-a-la-casa-189-30.jdimax.com,DO,Americas,Latin America and the Caribbean,Dominican Republic,Santiago Province,,Santiago de los Caballeros
+200.125.170.128,4,4,DNS Server: INTERNET-DEDICADO-128.wmservice.com.do,DO,Americas,Latin America and the Caribbean,Dominican Republic,Santiago Province,,Mejía de Navarrete
+200.125.171.219,4,8,DNS Server: INTERNET-DEDICADO-171-219.wmservice.com.do,DO,Americas,Latin America and the Caribbean,Dominican Republic,Santiago Province,,Mejía de Navarrete
+200.125.171.220,4,1,DNS Server: INTERNET-DEDICADO-171-220.wmservice.com.do,DO,Americas,Latin America and the Caribbean,Dominican Republic,Santiago Province,,Mejía de Navarrete
+45.164.172.91,4,-30388,DNS Server: internet-por-fibra-172-91.orbitcable.com.do,DO,Americas,Latin America and the Caribbean,Dominican Republic,Nacional,,Santo Domingo
+45.164.175.174,4,425,DNS Server: internet-por-fibra-175-174.orbitcable.com.do,DO,Americas,Latin America and the Caribbean,Dominican Republic,Nacional,,Santo Domingo
+45.176.92.58,4,2444687,DNS Server: ipv4-92-58.exito-vision.net,DO,Americas,Latin America and the Caribbean,Dominican Republic,Azua Province,,
+170.81.9.4,4,67,DNS Server: ns01.refidomsa.com.do,DO,Americas,Latin America and the Caribbean,Dominican Republic,,,
+168.196.125.69,4,325,Ookla Speedtest Server 5849: speedtest.comcast-srl.com,DO,Americas,Latin America and the Caribbean,Dominican Republic,Santiago Province,,Santiago de los Caballeros
+38.44.241.126,4,147,Ookla Speedtest Server 15180: speedtest.fastnet.com.do,DO,Americas,Latin America and the Caribbean,Dominican Republic,Santo Domingo Province,,Santo Domingo Este
+181.233.116.15,4,254,Ookla Speedtest Server 15509: speedtest.maocablevision.com,DO,Americas,Latin America and the Caribbean,Dominican Republic,Valverde Province,,Mao
+45.164.172.50,4,196,Ookla Speedtest Server 21816: speedtest.orbitcable.com.do,DO,Americas,Latin America and the Caribbean,Dominican Republic,Nacional,,Santo Domingo
+38.158.200.10,4,291,Ookla Speedtest Server 46007: speedtest.willnet.com.do,DO,Americas,Latin America and the Caribbean,Dominican Republic,Provincia de Monseñor Nouel,,Bonao
+45.6.43.4,4,328,Ookla Speedtest Server 46887: sp2.telecableinternacional.com,DO,Americas,Latin America and the Caribbean,Dominican Republic,Santiago Province,,Santiago de los Caballeros
+38.183.152.102,4,168,Ookla Speedtest Server 47869: speedtest.telecableglobal.com,DO,Americas,Latin America and the Caribbean,Dominican Republic,Santiago Province,,Bella Vista
+38.156.236.254,4,-6113,Ookla Speedtest Server 51719: stringnets-speedtest.arcofiber.com,DO,Americas,Latin America and the Caribbean,Dominican Republic,Santo Domingo Province,,Santo Domingo Este
+200.125.169.106,4,2965,Ookla Speedtest Server 52924: speedtest.conexionwnm.com,DO,Americas,Latin America and the Caribbean,Dominican Republic,Santiago Province,,Mejía de Navarrete
+45.164.13.146,4,194,Ookla Speedtest Server 53471: speedtest2.guestchoice.tv,DO,Americas,Latin America and the Caribbean,Dominican Republic,La Romana,,La Romana
+206.0.152.6,4,213,Ookla Speedtest Server 56660: intersatdominicana.com.do,DO,Americas,Latin America and the Caribbean,Dominican Republic,Hato Mayor Province,,Hato Mayor del Rey
+38.191.45.18,4,277,Ookla Speedtest Server 57367: serviciospablomella2.com.do,DO,Americas,Latin America and the Caribbean,Dominican Republic,Santo Domingo Province,,Santo Domingo Este
+38.159.223.6,4,254,Ookla Speedtest Server 59012: speedtestreynosord.com,DO,Americas,Latin America and the Caribbean,Dominican Republic,Nacional,,Santo Domingo
+140.99.122.251,4,291,Ookla Speedtest Server 59989: speed1.funtechnology.net,DO,Americas,Latin America and the Caribbean,Dominican Republic,Santiago Province,,Santiago de los Caballeros
+38.252.231.242,4,292,Ookla Speedtest Server 60159: speedtest-serve.servimast.com,DO,Americas,Latin America and the Caribbean,Dominican Republic,Provincia de La Vega,,Concepción de la Vega
+38.51.190.254,4,235,Ookla Speedtest Server 62636: vega1.speed.megared.com.do,DO,Americas,Latin America and the Caribbean,Dominican Republic,Provincia de La Vega,,Concepción de la Vega
+109.110.191.246,4,308,Ookla Speedtest Server 62840: speedtest.kwservicesrd.net,DO,Americas,Latin America and the Caribbean,Dominican Republic,Nacional,,Santo Domingo
+38.50.44.11,4,258,Ookla Speedtest Server 63052: speedtest.telecotui.tv,DO,Americas,Latin America and the Caribbean,Dominican Republic,Provincia Sánchez Ramírez,,Cotuí
+206.85.1.254,4,-1752,Ookla Speedtest Server 63273: stodgo1.megared.com.do,DO,Americas,Latin America and the Caribbean,Dominican Republic,Nacional,,Santo Domingo
+143.137.83.150,4,338,Ookla Speedtest Server: speed.telenord.com,DO,Americas,Latin America and the Caribbean,Dominican Republic,Samaná,,Sánchez
+204.157.126.1,4,-82951,Ookla Speedtest Server: speedtest1.waycom.com.do,DO,Americas,Latin America and the Caribbean,Dominican Republic,Provincia Sánchez Ramírez,,Fantino
+190.124.66.206,4,12704,Ookla Speedtest Server: speedtestmini.tricom.net,DO,Americas,Latin America and the Caribbean,Dominican Republic,Nacional,,Santo Domingo

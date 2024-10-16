@@ -1,0 +1,5 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+93.86.160.81,4,-4034,DNS Server: 93-86-160-81.static.isp.telekom.rs,RS,Europe,Southern Europe,Serbia,Vojvodina,South Bačka,Novi Sad
+93.87.127.66,4,-21348,DNS Server: 93-87-127-66.static.isp.telekom.rs,RS,Europe,Southern Europe,Serbia,Vojvodina,South Bačka,Novi Sad
+188.2.94.87,4,5,DNS Server: cable-188-2-94-87.dynamic.sbb.rs,RS,Europe,Southern Europe,Serbia,Vojvodina,South Bačka,Novi Sad
+89.216.55.209,4,-4492,DNS Server: cable-89-216-55-209.static.sbb.rs,RS,Europe,Southern Europe,Serbia,Vojvodina,South Bačka,Čurug

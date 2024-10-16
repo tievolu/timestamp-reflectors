@@ -1,51 +1,44 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-80.90.80.109,4,2118,albaniannews.com,AL,Albania,Europe,Southern Europe
-84.20.67.66,4,532,DNS Server: 66.67.20.84.in-addr.arpa,AL,Albania,Europe,Southern Europe
-77.242.18.141,4,2654,DNS Server: ip-77-242-18-141.net.abissnet.al,AL,Albania,Europe,Southern Europe
-77.242.18.69,4,1696,DNS Server: ip-77-242-18-69.net.abissnet.al,AL,Albania,Europe,Southern Europe
-77.242.19.110,4,57,DNS Server: ip-77-242-19-110.net.abissnet.al,AL,Albania,Europe,Southern Europe
-80.90.94.5,4,3162,DNS Server: ip-80-90-94-5.digicom.al,AL,Albania,Europe,Southern Europe
-80.91.116.169,4,532,DNS Server: ip-80-91-116-169.net.abissnet.al,AL,Albania,Europe,Southern Europe
-80.91.116.209,4,11322,DNS Server: ip-80-91-116-209.net.abissnet.al,AL,Albania,Europe,Southern Europe
-80.91.116.231,4,742,DNS Server: ip-80-91-116-231.net.abissnet.al,AL,Albania,Europe,Southern Europe
-80.91.116.245,4,327,DNS Server: ip-80-91-116-245.net.abissnet.al,AL,Albania,Europe,Southern Europe
-80.91.116.252,4,640,DNS Server: ip-80-91-116-252.net.abissnet.al,AL,Albania,Europe,Southern Europe
-109.69.4.82,4,59492,DNS Server: mail.factoringalbania.al,AL,Albania,Europe,Southern Europe
-80.78.71.121,4,51919,DNS Server: ppp-dun31.icc-al.org,AL,Albania,Europe,Southern Europe
-185.221.253.109,4,371,DNS Server: ptr.abcom.al,AL,Albania,Europe,Southern Europe
-80.80.160.227,4,4,eulex-kosovo.eu,AL,Albania,Europe,Southern Europe
-185.53.100.11,4,10,javanews.al,AL,Albania,Europe,Southern Europe
-80.80.160.222,4,-208824,Ookla Speedtest Server 2910: speed-test.ipko.com,AL,Albania,Europe,Southern Europe
-213.163.97.30,4,360,Ookla Speedtest Server 3392: speedtest1.telekomi.net,AL,Albania,Europe,Southern Europe
-84.22.32.210,4,286,Ookla Speedtest Server 13613: speedtest.artmotion.net,AL,Albania,Europe,Southern Europe
-185.204.32.11,4,133,Ookla Speedtest Server 17210: speed.ultranet.al,AL,Albania,Europe,Southern Europe
-84.22.32.214,4,249,Ookla Speedtest Server 23333: speedtest2.artmotion.net,AL,Albania,Europe,Southern Europe
-80.90.80.77,4,309,Ookla Speedtest Server 30212: speedtest1.digicom.al,AL,Albania,Europe,Southern Europe
-37.252.221.9,4,335,Ookla Speedtest Server 30307: korabi-speed.nsc.al,AL,Albania,Europe,Southern Europe
-185.190.38.40,4,435,Ookla Speedtest Server 40258: speedtest.kosnet.com,AL,Albania,Europe,Southern Europe
-185.30.147.108,4,-10492,Ookla Speedtest Server 41794: speedtest.maxcom.al,AL,Albania,Europe,Southern Europe
-84.20.64.98,4,303,Ookla Speedtest Server 42986: speedtest.pronet.al,AL,Albania,Europe,Southern Europe
-84.22.42.115,4,-2583,Ookla Speedtest Server 45701: speedtest.lonisite.info,AL,Albania,Europe,Southern Europe
-95.107.162.114,4,218,Ookla Speedtest Server 45769: speedtest.dcom.al,AL,Albania,Europe,Southern Europe
-213.207.33.82,4,233,Ookla Speedtest Server 47881: speed.tibo.al,AL,Albania,Europe,Southern Europe
-193.38.33.11,4,220,Ookla Speedtest Server 52832: speedtest.speedline.al,AL,Albania,Europe,Southern Europe
-217.21.144.117,4,-193891,Ookla Speedtest Server 53109: speedtest.nisatel.al,AL,Albania,Europe,Southern Europe
-130.0.24.12,4,180,Ookla Speedtest Server 53410: speedtest2.ibc.al,AL,Albania,Europe,Southern Europe
-192.109.220.7,4,183,Ookla Speedtest Server 54992: speedtest.newave.al,AL,Albania,Europe,Southern Europe
-193.163.116.5,4,125,Ookla Speedtest Server 56332: speed.iptvshqip.online,AL,Albania,Europe,Southern Europe
-193.104.143.10,4,266,Ookla Speedtest Server 57921: speedtest.elinet.al,AL,Albania,Europe,Southern Europe
-91.230.254.10,4,456,Ookla Speedtest Server 59847: speedtest.mobxtel.net,AL,Albania,Europe,Southern Europe
-93.187.110.3,4,323,Ookla Speedtest Server 60417: speedtest.madcom.al,AL,Albania,Europe,Southern Europe
-195.206.234.16,4,402,Ookla Speedtest Server 60483: speed.networkalbania.al,AL,Albania,Europe,Southern Europe
-193.163.187.12,4,304,Ookla Speedtest Server 61696: speedtest.mytvalb.com,AL,Albania,Europe,Southern Europe
-45.90.80.66,4,-69341,Ookla Speedtest Server 62346: speed-edmanet.eneamertiri.com,AL,Albania,Europe,Southern Europe
-46.252.39.94,4,-11409,Ookla Speedtest Server 62948: st.sarandanet.al,AL,Albania,Europe,Southern Europe
-45.84.116.4,4,4420,Ookla Speedtest Server 63608: speed1.elsa-tech.net,AL,Albania,Europe,Southern Europe
-80.78.70.29,4,288,Ookla Speedtest Server: speed.1click.al,AL,Albania,Europe,Southern Europe
-79.106.247.6,4,3682037,Ookla Speedtest Server: speedtest.air-wisp.com,AL,Albania,Europe,Southern Europe
-130.0.24.4,4,205,Ookla Speedtest Server: speedtest.ibc.al,AL,Albania,Europe,Southern Europe
-185.80.224.122,4,148,Ookla Speedtest Server: speedtest.ipro.al,AL,Albania,Europe,Southern Europe
-213.163.127.229,4,7182465,Telekomi i Kosoves SH.A.,AL,Albania,Europe,Southern Europe
-185.53.100.66,4,2,tiranatimes.com,AL,Albania,Europe,Southern Europe
-37.139.112.94,4,21,uamd.edu.al,AL,Albania,Europe,Southern Europe
-37.139.112.44,4,-3441555300,unitir.edu.al,AL,Albania,Europe,Southern Europe
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+80.90.80.109,4,2118,albaniannews.com,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+84.20.67.66,4,532,DNS Server: 66.67.20.84.in-addr.arpa,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+77.242.18.141,4,2654,DNS Server: ip-77-242-18-141.net.abissnet.al,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+77.242.18.69,4,1696,DNS Server: ip-77-242-18-69.net.abissnet.al,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+77.242.19.110,4,57,DNS Server: ip-77-242-19-110.net.abissnet.al,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+80.90.94.5,4,3162,DNS Server: ip-80-90-94-5.digicom.al,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+80.91.116.169,4,532,DNS Server: ip-80-91-116-169.net.abissnet.al,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+80.91.116.209,4,11322,DNS Server: ip-80-91-116-209.net.abissnet.al,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+80.91.116.231,4,742,DNS Server: ip-80-91-116-231.net.abissnet.al,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+80.91.116.245,4,327,DNS Server: ip-80-91-116-245.net.abissnet.al,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+80.91.116.252,4,640,DNS Server: ip-80-91-116-252.net.abissnet.al,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+109.69.4.82,4,59492,DNS Server: mail.factoringalbania.al,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+80.78.71.121,4,51919,DNS Server: ppp-dun31.icc-al.org,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+185.221.253.109,4,371,DNS Server: ptr.abcom.al,AL,Europe,Southern Europe,Albania,Korçë County,,Korçë
+185.53.100.11,4,10,javanews.al,AL,Europe,Southern Europe,Albania,,,
+185.204.32.11,4,133,Ookla Speedtest Server 17210: speed.ultranet.al,AL,Europe,Southern Europe,Albania,,,
+80.90.80.77,4,309,Ookla Speedtest Server 30212: speedtest1.digicom.al,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+37.252.221.9,4,335,Ookla Speedtest Server 30307: korabi-speed.nsc.al,AL,Europe,Southern Europe,Albania,Dibër County,,Peshkopi
+185.190.38.40,4,435,Ookla Speedtest Server 40258: speedtest.kosnet.com,AL,Europe,Southern Europe,Albania,,,
+185.30.147.108,4,-10492,Ookla Speedtest Server 41794: speedtest.maxcom.al,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+84.20.64.98,4,303,Ookla Speedtest Server 42986: speedtest.pronet.al,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+95.107.162.114,4,218,Ookla Speedtest Server 45769: speedtest.dcom.al,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+213.207.33.82,4,233,Ookla Speedtest Server 47881: speed.tibo.al,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+193.38.33.11,4,220,Ookla Speedtest Server 52832: speedtest.speedline.al,AL,Europe,Southern Europe,Albania,Kukës County,,Kukës
+217.21.144.117,4,-193891,Ookla Speedtest Server 53109: speedtest.nisatel.al,AL,Europe,Southern Europe,Albania,Vlorë County,,Vlorë
+130.0.24.12,4,180,Ookla Speedtest Server 53410: speedtest2.ibc.al,AL,Europe,Southern Europe,Albania,Shkodër County,,Shkodër
+192.109.220.7,4,183,Ookla Speedtest Server 54992: speedtest.newave.al,AL,Europe,Southern Europe,Albania,,,
+193.163.116.5,4,125,Ookla Speedtest Server 56332: speed.iptvshqip.online,AL,Europe,Southern Europe,Albania,Lezhë County,,Lezhë
+193.104.143.10,4,266,Ookla Speedtest Server 57921: speedtest.elinet.al,AL,Europe,Southern Europe,Albania,Lezhë County,,Lezhë
+91.230.254.10,4,456,Ookla Speedtest Server 59847: speedtest.mobxtel.net,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+93.187.110.3,4,323,Ookla Speedtest Server 60417: speedtest.madcom.al,AL,Europe,Southern Europe,Albania,,,
+195.206.234.16,4,402,Ookla Speedtest Server 60483: speed.networkalbania.al,AL,Europe,Southern Europe,Albania,Fier County,,Roskovec
+193.163.187.12,4,304,Ookla Speedtest Server 61696: speedtest.mytvalb.com,AL,Europe,Southern Europe,Albania,Durrës County,,Durrës
+45.90.80.66,4,-69341,Ookla Speedtest Server 62346: speed-edmanet.eneamertiri.com,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+46.252.39.94,4,-11409,Ookla Speedtest Server 62948: st.sarandanet.al,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+45.84.116.4,4,4420,Ookla Speedtest Server 63608: speed1.elsa-tech.net,AL,Europe,Southern Europe,Albania,,,
+80.78.70.29,4,288,Ookla Speedtest Server: speed.1click.al,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+79.106.247.6,4,3682037,Ookla Speedtest Server: speedtest.air-wisp.com,AL,Europe,Southern Europe,Albania,Fier County,,Divjakë
+130.0.24.4,4,205,Ookla Speedtest Server: speedtest.ibc.al,AL,Europe,Southern Europe,Albania,Shkodër County,,Shkodër
+185.80.224.122,4,148,Ookla Speedtest Server: speedtest.ipro.al,AL,Europe,Southern Europe,Albania,Vlorë County,,Vlorë
+185.53.100.66,4,2,tiranatimes.com,AL,Europe,Southern Europe,Albania,,,
+37.139.112.94,4,21,uamd.edu.al,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
+37.139.112.44,4,-3441555300,unitir.edu.al,AL,Europe,Southern Europe,Albania,Tirana,,Tirana

@@ -1,5 +1,5 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-113.197.68.20,4,-14,DNS Server: gw.viti.pf,PF,French Polynesia,Oceania,Polynesia
-202.90.68.11,4,37,education.pf,PF,French Polynesia,Oceania,Polynesia
-43.249.179.134,4,15,ispf.pf,PF,French Polynesia,Oceania,Polynesia
-202.90.68.50,4,54,presidence.pf,PF,French Polynesia,Oceania,Polynesia
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+113.197.68.20,4,-14,DNS Server: gw.viti.pf,PF,Oceania,Polynesia,French Polynesia,,,
+202.90.68.11,4,37,education.pf,PF,Oceania,Polynesia,French Polynesia,Îles du Vent,,Papeete
+43.249.179.134,4,15,ispf.pf,PF,Oceania,Polynesia,French Polynesia,Îles du Vent,,Papeete
+202.90.68.50,4,54,presidence.pf,PF,Oceania,Polynesia,French Polynesia,Îles du Vent,,Papeete

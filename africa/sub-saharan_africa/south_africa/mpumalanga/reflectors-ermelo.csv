@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+102.221.198.177,4,443,DNS Server: 177.198.221.102.dimension5.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Mpumalanga,,Ermelo
+102.221.197.18,4,104,DNS Server: 18.197.221.102.dimension5.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Mpumalanga,,Ermelo
+102.221.196.254,4,242,Ookla Speedtest Server 53683: spd.dimension5.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Mpumalanga,,Ermelo

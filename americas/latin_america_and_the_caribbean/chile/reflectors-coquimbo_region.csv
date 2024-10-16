@@ -1,0 +1,5 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+45.234.224.3,4,523385,Ookla Speedtest Server 18784: speedtest.intelcom.cl,CL,Americas,Latin America and the Caribbean,Chile,Coquimbo Region,,Coquimbo
+190.102.227.3,4,130,Ookla Speedtest Server 50031: speedtest-rec.mundopacifico.cl,CL,Americas,Latin America and the Caribbean,Chile,Coquimbo Region,,Recoleta
+190.102.227.4,4,220,Ookla Speedtest Server 50031: speedtest-rec.mundopacifico.cl,CL,Americas,Latin America and the Caribbean,Chile,Coquimbo Region,,Recoleta
+152.230.192.7,4,361,Ookla Speedtest Server 59372: speedtest-sere.grupogtd.com,CL,Americas,Latin America and the Caribbean,Chile,Coquimbo Region,,La Serena

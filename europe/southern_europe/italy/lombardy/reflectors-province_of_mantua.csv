@@ -1,0 +1,5 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+45.142.187.110,4,18798,DNS Server: h110-ipv4-45-142-187.mynet.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Mantua,Mantova
+77.241.4.252,4,25,DNS Server: h252-ipv4-77-241-4.mynet.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Mantua,Bagnolo San Vito
+119.12.45.8,4,337,DNS Server: h8-ipv4-119-12-45.mynet.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Mantua,Solferino
+80.88.161.202,4,484,palazzote.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Mantua,Mantova

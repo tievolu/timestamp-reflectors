@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+77.242.130.102,4,36,DNS Server: host-77-242-130-102.mywic.eu,IT,Europe,Southern Europe,Italy,Piedmont,Province of Vercelli,Quarona
+77.242.138.149,4,-9854,DNS Server: host-77-242-138-149.mywic.eu,IT,Europe,Southern Europe,Italy,Piedmont,Province of Vercelli,Quarona
+77.242.128.141,4,2,halservice.it,IT,Europe,Southern Europe,Italy,Piedmont,Province of Vercelli,Quarona

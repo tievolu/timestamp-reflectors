@@ -1,7 +1,7 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-190.58.238.204,4,90977,news.gov.tt,TT,Trinidad and Tobago,Americas,Latin America and the Caribbean
-161.0.114.35,4,270,Ookla Speedtest Server 15151: myspeed1.rvrnetworks.com,TT,Trinidad and Tobago,Americas,Latin America and the Caribbean
-209.94.205.47,4,1120403,Ookla Speedtest Server 16773: speedtest.tstt.net.tt,TT,Trinidad and Tobago,Americas,Latin America and the Caribbean
-190.213.6.54,4,79,patnt.com,TT,Trinidad and Tobago,Americas,Latin America and the Caribbean
-196.3.132.153,4,78714,Telecommunication Services of Trinidad and Tobago 1,TT,Trinidad and Tobago,Americas,Latin America and the Caribbean
-196.3.132.154,4,78416,Telecommunication Services of Trinidad and Tobago 2,TT,Trinidad and Tobago,Americas,Latin America and the Caribbean
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+190.58.238.204,4,90977,news.gov.tt,TT,Americas,Latin America and the Caribbean,Trinidad and Tobago,Tunapuna/Piarco,,Trincity
+161.0.114.35,4,270,Ookla Speedtest Server 15151: myspeed1.rvrnetworks.com,TT,Americas,Latin America and the Caribbean,Trinidad and Tobago,Princes Town,,Princes Town
+209.94.205.47,4,1120403,Ookla Speedtest Server 16773: speedtest.tstt.net.tt,TT,Americas,Latin America and the Caribbean,Trinidad and Tobago,Borough of Arima,,Arima
+190.213.6.54,4,79,patnt.com,TT,Americas,Latin America and the Caribbean,Trinidad and Tobago,Chaguanas,,Chaguanas
+196.3.132.153,4,78714,Telecommunication Services of Trinidad and Tobago 1,TT,Americas,Latin America and the Caribbean,Trinidad and Tobago,,,
+196.3.132.154,4,78416,Telecommunication Services of Trinidad and Tobago 2,TT,Americas,Latin America and the Caribbean,Trinidad and Tobago,,,

@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+96.79.222.253,4,9,DNS Server: 96-79-222-253-static.hfc.comcastbusiness.net,US,Americas,Northern America,United States of America,Georgia,,Savannah
+76.29.206.156,4,6,DNS Server: c-76-29-206-156.hsd1.ga.comcast.net,US,Americas,Northern America,United States of America,Georgia,,Savannah
+173.10.238.251,4,5,openvms.org,US,Americas,Northern America,United States of America,Georgia,,Savannah

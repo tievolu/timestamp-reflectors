@@ -1,8 +1,7 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-168.232.38.37,4,0,condortk.com,SV,El Salvador,Americas,Latin America and the Caribbean
-190.5.153.2,4,10,DNS Server: ip190-5-153-2.intercom.com.sv,SV,El Salvador,Americas,Latin America and the Caribbean
-190.57.65.2,4,360,Ookla Speedtest Server 4181: speed.telefonica.com.sv,SV,El Salvador,Americas,Latin America and the Caribbean
-200.89.87.70,4,263,Ookla Speedtest Server 9373: esdigiookla.digicel.com.sv,SV,El Salvador,Americas,Latin America and the Caribbean
-168.243.225.114,4,172,Ookla Speedtest Server 47425: speedtest.ibw.com.sv,SV,El Salvador,Americas,Latin America and the Caribbean
-204.157.224.51,4,266,Ookla Speedtest Server 63357: speedtest.coatl.com.sv,SV,El Salvador,Americas,Latin America and the Caribbean
-184.107.168.98,4,38,promoincendie.com,SV,El Salvador,Americas,Latin America and the Caribbean
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+168.232.38.37,4,0,condortk.com,SV,Americas,Latin America and the Caribbean,El Salvador,Santa Ana Department,,Santa Elena
+190.5.153.2,4,10,DNS Server: ip190-5-153-2.intercom.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador
+190.57.65.2,4,360,Ookla Speedtest Server 4181: speed.telefonica.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador
+200.89.87.70,4,263,Ookla Speedtest Server 9373: esdigiookla.digicel.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador
+168.243.225.114,4,172,Ookla Speedtest Server 47425: speedtest.ibw.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,Santa Ana Department,,Santa Elena
+204.157.224.51,4,266,Ookla Speedtest Server 63357: speedtest.coatl.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador

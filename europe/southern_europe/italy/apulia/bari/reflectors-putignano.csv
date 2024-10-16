@@ -1,0 +1,3 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+80.83.162.11,4,241,DNS Server: ns1.media.it,IT,Europe,Southern Europe,Italy,Apulia,Bari,Putignano
+80.83.162.8,4,141,DNS Server: ns1.onlineitalia.com,IT,Europe,Southern Europe,Italy,Apulia,Bari,Putignano

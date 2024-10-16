@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+190.123.85.117,4,1676,DNS Server: host117.190-123-85.sitsanetworks.net,AR,Americas,Latin America and the Caribbean,Argentina,Cordoba,,Villa María
+190.123.85.89,4,13,DNS Server: host89.190-123-85.sitsanetworks.net,AR,Americas,Latin America and the Caribbean,Argentina,Cordoba,,Villa María
+190.123.90.20,4,213,Ookla Speedtest Server 57410: sp4.sitsa.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Cordoba,,Villa María

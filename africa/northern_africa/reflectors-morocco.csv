@@ -1,19 +1,14 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-41.77.113.115,4,-2,alumetaux.com,MA,Morocco,Africa,Northern Africa
-196.61.234.53,4,-20,amci.ma,MA,Morocco,Africa,Northern Africa
-41.77.117.117,4,8,ateliermoka.ma,MA,Morocco,Africa,Northern Africa
-102.50.246.97,4,67,bnrm.ma,MA,Morocco,Africa,Northern Africa
-159.8.122.149,4,10,caper-cogefi.com,MA,Morocco,Africa,Northern Africa
-67.215.1.242,4,8,chrc-ccdp.ca,MA,Morocco,Africa,Northern Africa
-41.77.118.2,4,159,comenciel.ma,MA,Morocco,Africa,Northern Africa
-81.192.193.223,4,132,DNS Server: adsl-223-193-192-81.adsl.iam.net.ma,MA,Morocco,Africa,Northern Africa
-81.192.87.76,4,-729614,DNS Server: adsl-76-87-192-81.adsl2.iam.net.ma,MA,Morocco,Africa,Northern Africa
-196.32.217.68,4,4,hps-worldwide.com,MA,Morocco,Africa,Northern Africa
-196.200.131.40,4,43,imist.ma,MA,Morocco,Africa,Northern Africa
-41.77.115.122,4,3,leseco.ma,MA,Morocco,Africa,Northern Africa
-196.200.160.147,4,0,marwan.ma,MA,Morocco,Africa,Northern Africa
-159.8.122.141,4,31,metagrhyd.com,MA,Morocco,Africa,Northern Africa
-197.230.9.168,4,363814,mincom.gov.ma,MA,Morocco,Africa,Northern Africa
-196.217.248.25,4,-7513071,Ookla Speedtest Server 18752: fesst.iam.ma,MA,Morocco,Africa,Northern Africa
-196.200.176.4,4,-10458514,ucam.ac.ma,MA,Morocco,Africa,Northern Africa
-41.77.114.55,4,16,ueuromed.org,MA,Morocco,Africa,Northern Africa
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+41.77.113.115,4,-2,alumetaux.com,MA,Africa,Northern Africa,Morocco,Marrakesh-Safi,Marrakech,Marrakesh
+196.61.234.53,4,-20,amci.ma,MA,Africa,Northern Africa,Morocco,,,
+102.50.246.97,4,67,bnrm.ma,MA,Africa,Northern Africa,Morocco,Tanger-Tetouan-Al Hoceima,Tanger-Assilah,Tangier
+81.192.193.223,4,132,DNS Server: adsl-223-193-192-81.adsl.iam.net.ma,MA,Africa,Northern Africa,Morocco,Casablanca-Settat,Casablanca,Casablanca
+81.192.87.76,4,-729614,DNS Server: adsl-76-87-192-81.adsl2.iam.net.ma,MA,Africa,Northern Africa,Morocco,Casablanca-Settat,Casablanca,Casablanca
+196.32.217.68,4,4,hps-worldwide.com,MA,Africa,Northern Africa,Morocco,,,
+196.200.131.40,4,43,imist.ma,MA,Africa,Northern Africa,Morocco,Rabat-Salé-Kénitra,Rabat,Rabat
+41.77.115.122,4,3,leseco.ma,MA,Africa,Northern Africa,Morocco,Marrakesh-Safi,Marrakech,Marrakesh
+196.200.160.147,4,0,marwan.ma,MA,Africa,Northern Africa,Morocco,Casablanca-Settat,Casablanca,Casablanca
+197.230.9.168,4,363814,mincom.gov.ma,MA,Africa,Northern Africa,Morocco,Casablanca-Settat,Casablanca,Casablanca
+196.217.248.25,4,-7513071,Ookla Speedtest Server 18752: fesst.iam.ma,MA,Africa,Northern Africa,Morocco,,,
+196.200.176.4,4,-10458514,ucam.ac.ma,MA,Africa,Northern Africa,Morocco,Casablanca-Settat,Casablanca,Casablanca
+41.77.114.55,4,16,ueuromed.org,MA,Africa,Northern Africa,Morocco,Marrakesh-Safi,Marrakech,Marrakesh

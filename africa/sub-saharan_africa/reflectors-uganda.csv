@@ -1,8 +1,8 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-216.104.206.136,4,16,Africa Online Uganda,UG,Uganda,Africa,Sub-Saharan Africa
-81.199.137.188,4,4565,DNS Server: 81.199.137.188.gilat.net,UG,Uganda,Africa,Sub-Saharan Africa
-196.43.185.88,4,318,DNS Server: renu-088.renu.ac.ug,UG,Uganda,Africa,Sub-Saharan Africa
-196.43.185.129,4,187,DNS Server: renu-129.renu.ac.ug,UG,Uganda,Africa,Sub-Saharan Africa
-196.43.133.108,4,447,mak.ac.ug,UG,Uganda,Africa,Sub-Saharan Africa
-102.222.232.62,4,184,Ookla Speedtest Server 20541: speedtest.simbatv.co.ug,UG,Uganda,Africa,Sub-Saharan Africa
-196.43.185.101,4,13,umu.ac.ug,UG,Uganda,Africa,Sub-Saharan Africa
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+216.104.206.136,4,16,Africa Online Uganda,UG,Africa,Sub-Saharan Africa,Uganda,,,
+81.199.137.188,4,4565,DNS Server: 81.199.137.188.gilat.net,UG,Africa,Sub-Saharan Africa,Uganda,Central Region,Kampala District,Kampala
+196.43.185.88,4,318,DNS Server: renu-088.renu.ac.ug,UG,Africa,Sub-Saharan Africa,Uganda,Central Region,Kampala District,Kampala
+196.43.185.129,4,187,DNS Server: renu-129.renu.ac.ug,UG,Africa,Sub-Saharan Africa,Uganda,Central Region,Kampala District,Kampala
+196.43.133.108,4,447,mak.ac.ug,UG,Africa,Sub-Saharan Africa,Uganda,Central Region,Kampala District,Kampala
+102.222.232.62,4,184,Ookla Speedtest Server 20541: speedtest.simbatv.co.ug,UG,Africa,Sub-Saharan Africa,Uganda,Central Region,Kampala District,Kampala
+196.43.185.101,4,13,umu.ac.ug,UG,Africa,Sub-Saharan Africa,Uganda,Central Region,Kampala District,Kampala

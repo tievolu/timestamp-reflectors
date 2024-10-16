@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+85.11.125.123,4,26161,DNS Server: host-550b7d7b.sileman.net.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Zabrze
+85.11.126.105,4,26217,DNS Server: host-550b7e69.sileman.net.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Zabrze
+85.11.126.108,4,279123,DNS Server: host-550b7e6c.sileman.net.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Zabrze

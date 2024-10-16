@@ -1,2 +1,2 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-5.10.250.249,4,4,bins.su,AX,Åland Islands,Europe,Northern Europe
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+212.17.176.66,4,45,alandsbanken.fi,AX,Europe,Northern Europe,Åland Islands,,,

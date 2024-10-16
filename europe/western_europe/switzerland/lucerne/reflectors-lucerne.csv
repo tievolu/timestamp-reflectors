@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+46.22.26.60,4,11,3fach.ch,CH,Europe,Western Europe,Switzerland,Lucerne,,Lucerne
+80.254.184.109,4,-7,DNS Server: 109-184-254-80.static.dsl-net.ch,CH,Europe,Western Europe,Switzerland,Lucerne,,Lucerne
+83.78.196.207,4,96,DNS Server: 207.196.78.83.dynamic.wline.res.cust.swisscom.ch,CH,Europe,Western Europe,Switzerland,Lucerne,,Lucerne

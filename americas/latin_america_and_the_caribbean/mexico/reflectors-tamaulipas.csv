@@ -1,0 +1,5 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+148.243.230.130,4,16,DNS Server: 148-243-230-130.static.axtel.net,MX,Americas,Latin America and the Caribbean,Mexico,Tamaulipas,,Ciudad Victoria
+201.174.235.68,4,-4767,DNS Server: 201-174-235-68.transtelco.net,MX,Americas,Latin America and the Caribbean,Mexico,Tamaulipas,,Reynosa
+201.101.2.38,4,99,DNS Server: dsl-201-101-2-38-sta.prod-empresarial.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tamaulipas,,Ciudad Madero
+200.94.131.84,4,3966949,ute.edu.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tamaulipas,,Reynosa

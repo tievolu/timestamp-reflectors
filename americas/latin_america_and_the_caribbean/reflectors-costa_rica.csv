@@ -1,23 +1,19 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-143.202.160.72,4,11,anabolicsteroidforums.com,CR,Costa Rica,Americas,Latin America and the Caribbean
-69.10.48.226,4,4,brentonway.com,CR,Costa Rica,Americas,Latin America and the Caribbean
-138.94.56.4,4,114,DNS Server: 138-94-56-4.jasec.go.cr,CR,Costa Rica,Americas,Latin America and the Caribbean
-190.123.134.14,4,109,DNS Server: 14.134.123.190.server-hosting.co.cr,CR,Costa Rica,Americas,Latin America and the Caribbean
-190.14.154.185,4,-2,DNS Server: 190-14-154-185.pub-customers.rhitcr.com,CR,Costa Rica,Americas,Latin America and the Caribbean
-186.15.36.117,4,44277,DNS Server: ip117-36-15-186.ct.co.cr,CR,Costa Rica,Americas,Latin America and the Caribbean
-190.171.97.250,4,8691,DNS Server: rev250.97.nstelecablecr.com,CR,Costa Rica,Americas,Latin America and the Caribbean
-173.214.175.218,4,27,feastoffun.com,CR,Costa Rica,Americas,Latin America and the Caribbean
-190.0.230.21,4,22987,geosalud.com,CR,Costa Rica,Americas,Latin America and the Caribbean
-51.222.88.245,4,4,haitilibre.com,CR,Costa Rica,Americas,Latin America and the Caribbean
-51.222.88.244,4,3,icihaiti.com,CR,Costa Rica,Americas,Latin America and the Caribbean
-143.202.160.73,4,118,ironmagazineforums.com,CR,Costa Rica,Americas,Latin America and the Caribbean
-190.2.223.30,4,308,Ookla Speedtest Server 14630: speedtest.coopesantos.com,CR,Costa Rica,Americas,Latin America and the Caribbean
-200.105.101.2,4,203,Ookla Speedtest Server 18204: speedtest.telecablecr.com,CR,Costa Rica,Americas,Latin America and the Caribbean
-190.211.103.117,4,13454016,Ookla Speedtest Server 18403: velocidad.coopelesca.co.cr,CR,Costa Rica,Americas,Latin America and the Caribbean
-190.14.153.190,4,325,Ookla Speedtest Server 23685: speedtest2.rhitcr.com,CR,Costa Rica,Americas,Latin America and the Caribbean
-186.176.5.254,4,381,Ookla Speedtest Server 31905: speedtest.tigo.cr,CR,Costa Rica,Americas,Latin America and the Caribbean
-190.113.255.4,4,144,Ookla Speedtest Server 56259: speedtest.coopealfaroruiz.com,CR,Costa Rica,Americas,Latin America and the Caribbean
-200.59.21.27,4,379,Ookla Speedtest Server 60075: st.fratec.net,CR,Costa Rica,Americas,Latin America and the Caribbean
-201.197.69.202,4,-8,ots.ac.cr,CR,Costa Rica,Americas,Latin America and the Caribbean
-67.43.225.106,4,56,tele-mag.tv,CR,Costa Rica,Americas,Latin America and the Caribbean
-190.0.226.173,4,-4,tuclubcr.com,CR,Costa Rica,Americas,Latin America and the Caribbean
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+143.202.160.72,4,11,anabolicsteroidforums.com,CR,Americas,Latin America and the Caribbean,Costa Rica,Provincia de San José,,San José
+138.94.56.4,4,114,DNS Server: 138-94-56-4.jasec.go.cr,CR,Americas,Latin America and the Caribbean,Costa Rica,Cartago Province,,Cartago
+190.123.134.14,4,109,DNS Server: 14.134.123.190.server-hosting.co.cr,CR,Americas,Latin America and the Caribbean,Costa Rica,Provincia de San José,,San José
+190.14.154.185,4,-2,DNS Server: 190-14-154-185.pub-customers.rhitcr.com,CR,Americas,Latin America and the Caribbean,Costa Rica,Provincia de San José,,San José
+186.15.36.117,4,44277,DNS Server: ip117-36-15-186.ct.co.cr,CR,Americas,Latin America and the Caribbean,Costa Rica,Cartago Province,,Tres Ríos
+190.171.97.250,4,8691,DNS Server: rev250.97.nstelecablecr.com,CR,Americas,Latin America and the Caribbean,Costa Rica,Heredia Province,,Heredia
+190.0.230.21,4,22987,geosalud.com,CR,Americas,Latin America and the Caribbean,Costa Rica,Provincia de San José,,Santa Ana
+143.202.160.73,4,118,ironmagazineforums.com,CR,Americas,Latin America and the Caribbean,Costa Rica,Provincia de San José,,San José
+190.2.223.30,4,308,Ookla Speedtest Server 14630: speedtest.coopesantos.com,CR,Americas,Latin America and the Caribbean,Costa Rica,Provincia de San José,,San José
+200.105.101.2,4,203,Ookla Speedtest Server 18204: speedtest.telecablecr.com,CR,Americas,Latin America and the Caribbean,Costa Rica,Provincia de San José,,San José
+190.211.103.117,4,13454016,Ookla Speedtest Server 18403: velocidad.coopelesca.co.cr,CR,Americas,Latin America and the Caribbean,Costa Rica,Provincia de San José,,San José
+190.14.153.190,4,325,Ookla Speedtest Server 23685: speedtest2.rhitcr.com,CR,Americas,Latin America and the Caribbean,Costa Rica,Provincia de San José,,San José
+186.176.5.254,4,381,Ookla Speedtest Server 31905: speedtest.tigo.cr,CR,Americas,Latin America and the Caribbean,Costa Rica,Provincia de San José,,San José
+190.113.255.4,4,144,Ookla Speedtest Server 56259: speedtest.coopealfaroruiz.com,CR,Americas,Latin America and the Caribbean,Costa Rica,Alajuela Province,,Alajuela
+200.59.21.27,4,379,Ookla Speedtest Server 60075: st.fratec.net,CR,Americas,Latin America and the Caribbean,Costa Rica,,,
+201.197.69.202,4,-8,ots.ac.cr,CR,Americas,Latin America and the Caribbean,Costa Rica,Provincia de San José,,San José
+190.0.226.173,4,-4,tuclubcr.com,CR,Americas,Latin America and the Caribbean,Costa Rica,Provincia de San José,,Santa Ana
+179.48.251.117,4,10,veredictas.com,CR,Americas,Latin America and the Caribbean,Costa Rica,Provincia de San José,,San José

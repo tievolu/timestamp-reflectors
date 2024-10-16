@@ -1,38 +1,92 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-47.91.114.180,4,-33,africabusinessheroes.org,AE,United Arab Emirates,Asia,Western Asia
-45.66.245.211,4,5,badrairlines.com,AE,United Arab Emirates,Asia,Western Asia
-62.60.199.199,4,132,basalam.com,AE,United Arab Emirates,Asia,Western Asia
-194.146.239.14,4,778,day.ir,AE,United Arab Emirates,Asia,Western Asia
-185.243.77.60,4,44,deiramassage.net,AE,United Arab Emirates,Asia,Western Asia
-85.237.211.9,4,23,dewa69.net,AE,United Arab Emirates,Asia,Western Asia
-2.50.153.194,4,250,DNS Server: bba-2-50-153-194.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
-2.50.171.172,4,-14399573,DNS Server: bba-2-50-171-172.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
-217.165.186.107,4,238,DNS Server: bba-217-165-186-107.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
-217.165.89.165,4,347,DNS Server: bba-217-165-89-165.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
-83.110.107.240,4,72,DNS Server: bba-83-110-107-240.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
-83.110.81.2,4,-4242454401,DNS Server: bba-83-110-81-2.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
-83.110.90.89,4,77,DNS Server: bba-83-110-90-89.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
-86.98.53.56,4,24515,DNS Server: bba-86-98-53-56.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
-86.98.64.193,4,83,DNS Server: bba-86-98-64-193.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
-86.98.67.128,4,8,DNS Server: bba-86-98-67-128.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
-86.98.72.226,4,-14400009,DNS Server: bba-86-98-72-226.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
-86.98.74.199,4,20,DNS Server: bba597861.alshamil.net.ae,AE,United Arab Emirates,Asia,Western Asia
-66.22.104.170,4,8,dubaigolf.com,AE,United Arab Emirates,Asia,Western Asia
-103.224.23.188,4,13,gaqm.org,AE,United Arab Emirates,Asia,Western Asia
-2.51.251.176,4,15,globalconnections.ae,AE,United Arab Emirates,Asia,Western Asia
-109.61.18.22,4,-2,gofuture.games,AE,United Arab Emirates,Asia,Western Asia
-194.146.239.57,4,119645,goldenchance.ir,AE,United Arab Emirates,Asia,Western Asia
-86.96.202.167,4,-34,haggargroup.ae,AE,United Arab Emirates,Asia,Western Asia
-185.56.89.187,4,1,job4u.ae,AE,United Arab Emirates,Asia,Western Asia
-66.22.104.59,4,9,jumeirahgolfestates.com,AE,United Arab Emirates,Asia,Western Asia
-3.29.154.236,4,2,mideastvibes.com,AE,United Arab Emirates,Asia,Western Asia
-85.237.211.162,4,14,mimedia.in,AE,United Arab Emirates,Asia,Western Asia
-139.99.190.190,4,8,myassignmentwriting.com.au,AE,United Arab Emirates,Asia,Western Asia
-3.29.197.107,4,0,prontosys.ae,AE,United Arab Emirates,Asia,Western Asia
-20.196.3.14,4,-1985,propertypanda.ae,AE,United Arab Emirates,Asia,Western Asia
-139.99.190.185,4,5,scivee.tv,AE,United Arab Emirates,Asia,Western Asia
-185.243.77.30,4,84,somonion.com,AE,United Arab Emirates,Asia,Western Asia
-103.224.23.142,4,-193,sportsmatik.com,AE,United Arab Emirates,Asia,Western Asia
-20.233.1.96,4,-1987,thewatchtower.com,AE,United Arab Emirates,Asia,Western Asia
-185.56.89.53,4,20,toddlersintlnursery.com,AE,United Arab Emirates,Asia,Western Asia
-66.22.104.122,4,7,wasl.ae,AE,United Arab Emirates,Asia,Western Asia
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+190.115.24.78,4,3,1win.com,AE,Asia,Western Asia,United Arab Emirates,,,
+190.115.19.210,4,17,1win.run,AE,Asia,Western Asia,United Arab Emirates,,,
+186.2.162.102,4,15,1wxzn.com,AE,Asia,Western Asia,United Arab Emirates,,,
+193.168.131.24,4,7,3dgameshop.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+190.115.30.194,4,7,abireg.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+47.91.114.180,4,-33,africabusinessheroes.org,AE,Asia,Western Asia,United Arab Emirates,Dubai,,Dubai
+190.115.22.199,4,-843,allesteroide.com,AE,Asia,Western Asia,United Arab Emirates,,,
+190.115.26.5,4,70,assignmentglory.co.uk,AE,Asia,Western Asia,United Arab Emirates,,,
+45.66.245.211,4,5,badrairlines.com,AE,Asia,Western Asia,United Arab Emirates,Dubai,,Dubai
+185.198.59.26,4,14,captaincube.com,AE,Asia,Western Asia,United Arab Emirates,,,
+193.168.131.126,4,17,cargo-express.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+185.45.194.37,4,7,cialishql.com,AE,Asia,Western Asia,United Arab Emirates,,,
+194.146.239.14,4,778,day.ir,AE,Asia,Western Asia,United Arab Emirates,,,
+185.243.77.60,4,44,deiramassage.net,AE,Asia,Western Asia,United Arab Emirates,Dubai,,Dubai
+85.237.211.9,4,23,dewa69.net,AE,Asia,Western Asia,United Arab Emirates,Dubai,,Dubai
+193.168.131.246,4,7,dmitriydyakov.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+2.50.153.194,4,250,DNS Server: bba-2-50-153-194.alshamil.net.ae,AE,Asia,Western Asia,United Arab Emirates,Abu Dhabi,,Abu Dhabi
+2.50.171.172,4,-14399573,DNS Server: bba-2-50-171-172.alshamil.net.ae,AE,Asia,Western Asia,United Arab Emirates,Abu Dhabi,,Al Ain City
+217.165.186.107,4,238,DNS Server: bba-217-165-186-107.alshamil.net.ae,AE,Asia,Western Asia,United Arab Emirates,Ajman,,Ajman
+217.165.89.165,4,347,DNS Server: bba-217-165-89-165.alshamil.net.ae,AE,Asia,Western Asia,United Arab Emirates,Abu Dhabi,,Abu Dhabi
+83.110.107.240,4,72,DNS Server: bba-83-110-107-240.alshamil.net.ae,AE,Asia,Western Asia,United Arab Emirates,Sharjah,,Sharjah
+83.110.81.2,4,-4242454401,DNS Server: bba-83-110-81-2.alshamil.net.ae,AE,Asia,Western Asia,United Arab Emirates,Abu Dhabi,,Abu Dhabi
+83.110.90.89,4,77,DNS Server: bba-83-110-90-89.alshamil.net.ae,AE,Asia,Western Asia,United Arab Emirates,Abu Dhabi,,Abu Dhabi
+86.98.53.56,4,24515,DNS Server: bba-86-98-53-56.alshamil.net.ae,AE,Asia,Western Asia,United Arab Emirates,Dubai,,Dubai
+86.98.64.193,4,83,DNS Server: bba-86-98-64-193.alshamil.net.ae,AE,Asia,Western Asia,United Arab Emirates,Dubai,,Dubai
+86.98.67.128,4,8,DNS Server: bba-86-98-67-128.alshamil.net.ae,AE,Asia,Western Asia,United Arab Emirates,Dubai,,Dubai
+86.98.72.226,4,-14400009,DNS Server: bba-86-98-72-226.alshamil.net.ae,AE,Asia,Western Asia,United Arab Emirates,Dubai,,Dubai
+86.98.74.199,4,20,DNS Server: bba597861.alshamil.net.ae,AE,Asia,Western Asia,United Arab Emirates,Abu Dhabi,,Abu Dhabi
+66.22.104.170,4,8,dubaigolf.com,AE,Asia,Western Asia,United Arab Emirates,Dubai,,Dubai
+95.130.227.41,4,86,dunyo.info,AE,Asia,Western Asia,United Arab Emirates,,,
+186.2.171.43,4,73,easydonate.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+193.168.131.123,4,40,eos.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+45.132.17.174,4,10,flado.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+109.94.208.119,4,20,games-stats.com,AE,Asia,Western Asia,United Arab Emirates,,,
+103.224.23.188,4,13,gaqm.org,AE,Asia,Western Asia,United Arab Emirates,,,
+190.115.26.99,4,7,gitflic.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+2.51.251.176,4,15,globalconnections.ae,AE,Asia,Western Asia,United Arab Emirates,Fujairah,,Al Fujairah City
+193.168.131.49,4,-19755,godege.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+109.61.18.22,4,-2,gofuture.games,AE,Asia,Western Asia,United Arab Emirates,Dubai,,Dubai
+194.146.239.57,4,119645,goldenchance.ir,AE,Asia,Western Asia,United Arab Emirates,,,
+190.115.30.139,4,20,grastin.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+86.96.202.167,4,-34,haggargroup.ae,AE,Asia,Western Asia,United Arab Emirates,Dubai,,Dubai
+190.115.21.222,4,5,hey-sen.com,AE,Asia,Western Asia,United Arab Emirates,,,
+193.168.131.61,4,9,hozotdel.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+43.225.54.244,4,1065,hu.lk,AE,Asia,Western Asia,United Arab Emirates,,,
+185.184.154.65,4,0,jcpcarparts.co.nz,AE,Asia,Western Asia,United Arab Emirates,,,
+193.168.131.40,4,4,jlaser.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+185.56.89.187,4,1,job4u.ae,AE,Asia,Western Asia,United Arab Emirates,,,
+43.225.53.10,4,-14,journalijar.com,AE,Asia,Western Asia,United Arab Emirates,,,
+66.22.104.59,4,9,jumeirahgolfestates.com,AE,Asia,Western Asia,United Arab Emirates,Dubai,,Dubai
+176.113.80.153,4,5,kakoysegodnyaprazdnik.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+45.135.132.113,4,13,kitabi.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+179.61.253.94,4,11,klpbbs.com,AE,Asia,Western Asia,United Arab Emirates,,,
+176.113.80.233,4,7,ktv-ray.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+190.115.21.86,4,7,kupitpravaah.com,AE,Asia,Western Asia,United Arab Emirates,,,
+3.29.154.236,4,2,mideastvibes.com,AE,Asia,Western Asia,United Arab Emirates,Dubai,,Dubai
+85.237.211.162,4,14,mimedia.in,AE,Asia,Western Asia,United Arab Emirates,Dubai,,Dubai
+186.2.171.19,4,35,moon.market,AE,Asia,Western Asia,United Arab Emirates,,,
+193.168.131.25,4,3,myrubicon.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+193.168.131.69,4,4,nesekretno.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+45.95.201.20,4,128,newplayjj.com,AE,Asia,Western Asia,United Arab Emirates,Dubai,,Dubai
+45.95.201.19,4,-13,newplayjj.com,AE,Asia,Western Asia,United Arab Emirates,Dubai,,Dubai
+82.178.33.35,4,1170807,Ookla Speedtest Server 1717: speedtest.omantel.om,AE,Asia,Western Asia,United Arab Emirates,,,
+134.0.216.42,4,-2725951,Ookla Speedtest Server 4570: speedtest2.omantel.om,AE,Asia,Western Asia,United Arab Emirates,,,
+194.156.98.47,4,23,pamm-fxprofit.com,AE,Asia,Western Asia,United Arab Emirates,,,
+190.115.21.134,4,91,prava112y.com,AE,Asia,Western Asia,United Arab Emirates,,,
+3.29.197.107,4,0,prontosys.ae,AE,Asia,Western Asia,United Arab Emirates,Dubai,,Dubai
+20.196.3.14,4,-1985,propertypanda.ae,AE,Asia,Western Asia,United Arab Emirates,Dubai,,Dubai
+43.225.52.247,4,65,ranchiuniversity.ac.in,AE,Asia,Western Asia,United Arab Emirates,,,
+190.115.21.111,4,71,rao.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+193.168.131.10,4,3,remontka.pro,AE,Asia,Western Asia,United Arab Emirates,,,
+190.115.26.13,4,7,rents.ws,AE,Asia,Western Asia,United Arab Emirates,,,
+193.168.131.214,4,18,securityvision.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+43.225.53.89,4,598,servicesutra.com,AE,Asia,Western Asia,United Arab Emirates,,,
+193.168.131.193,4,10,sipaero.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+193.168.131.230,4,45,sms-otkritka.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+109.94.208.103,4,105,social-me.co.uk,AE,Asia,Western Asia,United Arab Emirates,,,
+185.243.77.30,4,84,somonion.com,AE,Asia,Western Asia,United Arab Emirates,Dubai,,Dubai
+103.224.23.142,4,-193,sportsmatik.com,AE,Asia,Western Asia,United Arab Emirates,,,
+190.115.24.5,4,118,stakestoner.org,AE,Asia,Western Asia,United Arab Emirates,,,
+193.168.131.167,4,73,standoff-2.com,AE,Asia,Western Asia,United Arab Emirates,,,
+20.233.1.96,4,-1987,thewatchtower.com,AE,Asia,Western Asia,United Arab Emirates,Dubai,,Dubai
+43.225.52.33,4,-8,tipsandbeauty.com,AE,Asia,Western Asia,United Arab Emirates,,,
+185.56.89.53,4,20,toddlersintlnursery.com,AE,Asia,Western Asia,United Arab Emirates,,,
+45.135.132.251,4,6,tomskpress.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+186.2.171.30,4,4,tumbete.org,AE,Asia,Western Asia,United Arab Emirates,,,
+190.115.24.47,4,91,vodkasino2.fun,AE,Asia,Western Asia,United Arab Emirates,,,
+190.115.19.71,4,4,waaw.tv,AE,Asia,Western Asia,United Arab Emirates,,,
+66.22.104.122,4,7,wasl.ae,AE,Asia,Western Asia,United Arab Emirates,Dubai,,Dubai
+193.168.131.166,4,7,yarmarka.ru,AE,Asia,Western Asia,United Arab Emirates,,,
+193.168.131.228,4,4,zerkaloff.ru,AE,Asia,Western Asia,United Arab Emirates,,,

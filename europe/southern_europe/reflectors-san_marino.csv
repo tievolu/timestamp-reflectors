@@ -1,18 +1,24 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-185.21.118.104,4,36,aasfn.sm,SM,San Marino,Europe,Southern Europe
-185.21.118.117,4,6,aiditalia.org,SM,San Marino,Europe,Southern Europe
-185.21.116.160,4,12,bft-automation.com,SM,San Marino,Europe,Southern Europe
-185.21.117.137,4,49,casartusi.it,SM,San Marino,Europe,Southern Europe
-185.21.118.127,4,5,chiamamicitta.it,SM,San Marino,Europe,Southern Europe
-185.21.117.127,4,43,fiamm.com,SM,San Marino,Europe,Southern Europe
-185.21.118.33,4,6,gelateriaromana.com,SM,San Marino,Europe,Southern Europe
-185.21.117.169,4,44,ingegnoli.it,SM,San Marino,Europe,Southern Europe
-185.21.117.165,4,4,ingenio-web.it,SM,San Marino,Europe,Southern Europe
-185.21.118.141,4,6,libertas.sm,SM,San Marino,Europe,Southern Europe
-185.21.118.124,4,53,mitto.ch,SM,San Marino,Europe,Southern Europe
-185.21.118.135,4,7,mtbcult.it,SM,San Marino,Europe,Southern Europe
-185.21.117.188,4,19,niceforyou.com,SM,San Marino,Europe,Southern Europe
-185.21.118.89,4,13,nurse24.it,SM,San Marino,Europe,Southern Europe
-91.223.220.110,4,408,Ookla Speedtest Server 45549: speedtest.newsxs.nl,SM,San Marino,Europe,Southern Europe
-185.21.117.104,4,3,smtvsanmarino.sm,SM,San Marino,Europe,Southern Europe
-185.21.117.217,4,31,soloaffitti.it,SM,San Marino,Europe,Southern Europe
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+185.21.118.104,4,36,aasfn.sm,SM,Europe,Southern Europe,San Marino,,,
+185.21.118.117,4,6,aiditalia.org,SM,Europe,Southern Europe,San Marino,,,
+185.21.116.160,4,12,bft-automation.com,SM,Europe,Southern Europe,San Marino,,,
+185.21.117.137,4,49,casartusi.it,SM,Europe,Southern Europe,San Marino,,,
+185.21.118.127,4,5,chiamamicitta.it,SM,Europe,Southern Europe,San Marino,,,
+185.146.128.77,4,49,commercialistatelematico.com,SM,Europe,Southern Europe,San Marino,,,
+185.146.128.76,4,7,commercialistatelematico.com,SM,Europe,Southern Europe,San Marino,,,
+185.146.128.75,4,23,commercialistatelematico.com,SM,Europe,Southern Europe,San Marino,,,
+185.21.117.127,4,43,fiamm.com,SM,Europe,Southern Europe,San Marino,,,
+185.21.118.33,4,6,gelateriaromana.com,SM,Europe,Southern Europe,San Marino,,,
+185.21.117.169,4,44,ingegnoli.it,SM,Europe,Southern Europe,San Marino,,,
+185.21.117.165,4,4,ingenio-web.it,SM,Europe,Southern Europe,San Marino,,,
+185.21.118.141,4,6,libertas.sm,SM,Europe,Southern Europe,San Marino,,,
+185.21.118.124,4,53,mitto.ch,SM,Europe,Southern Europe,San Marino,,,
+185.21.118.27,4,37,mosevenezia.eu,SM,Europe,Southern Europe,San Marino,,,
+185.146.128.199,4,4,motoabbigliamento.it,SM,Europe,Southern Europe,San Marino,,,
+185.146.128.197,4,6,motoabbigliamento.it,SM,Europe,Southern Europe,San Marino,,,
+185.146.128.198,4,23,motoabbigliamento.it,SM,Europe,Southern Europe,San Marino,,,
+185.21.118.135,4,7,mtbcult.it,SM,Europe,Southern Europe,San Marino,,,
+185.21.117.188,4,19,niceforyou.com,SM,Europe,Southern Europe,San Marino,,,
+185.21.118.89,4,13,nurse24.it,SM,Europe,Southern Europe,San Marino,,,
+185.21.117.104,4,3,smtvsanmarino.sm,SM,Europe,Southern Europe,San Marino,,,
+185.21.117.217,4,31,soloaffitti.it,SM,Europe,Southern Europe,San Marino,,,

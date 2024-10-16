@@ -1,0 +1,5 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+101.99.57.35,4,16,cmctelecom.vn,VN,Asia,South-eastern Asia,Viet Nam,Da Nang,,Da Nang
+118.71.6.161,4,21,DNS Server: ip-address-pool-xxx.fpt.vn,VN,Asia,South-eastern Asia,Viet Nam,Da Nang,,Da Nang
+171.251.53.10,4,-8,quangtri.gov.vn,VN,Asia,South-eastern Asia,Viet Nam,Da Nang,,Da Nang
+113.160.224.208,4,30,unitech.vn,VN,Asia,South-eastern Asia,Viet Nam,Da Nang,,Da Nang

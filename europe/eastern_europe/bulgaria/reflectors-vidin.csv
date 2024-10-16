@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+178.239.224.223,4,10,DNS Server: 178.239.224.223.vidin.net,BG,Europe,Eastern Europe,Bulgaria,Vidin,,Vidin
+89.106.117.0,4,383,DNS Server: vidin-117-0.vidaoptics.com,BG,Europe,Eastern Europe,Bulgaria,Vidin,,Vidin
+89.106.123.0,4,385,DNS Server: vidin-123-0.vidaoptics.com,BG,Europe,Eastern Europe,Bulgaria,Vidin,,Vidin

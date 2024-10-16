@@ -1,10 +1,10 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-194.158.64.40,4,-2,andorratelecom.ad,AD,Andorra,Europe,Southern Europe
-185.87.45.150,4,45517,DNS Server: m-185-87-45-150.andorpac.ad,AD,Andorra,Europe,Southern Europe
-85.94.178.206,4,-921,DNS Server: m85-94-178-206.andorpac.ad,AD,Andorra,Europe,Southern Europe
-85.94.179.20,4,5056,DNS Server: m85-94-179-20.andorpac.ad,AD,Andorra,Europe,Southern Europe
-185.132.201.202,4,16113,DNS Server: static-185.132.201.202.andorpac.ad\,AD,Andorra,Europe,Southern Europe
-91.187.75.18,4,-1724,DNS Server: static-91-187-75-18.andorpac.ad,AD,Andorra,Europe,Southern Europe
-46.172.249.159,4,54,genoom.com,AD,Andorra,Europe,Southern Europe
-194.158.74.66,4,-73309,Ookla Speedtest Server 2530: ooklaspeedtest1.andorratelecom.ad,AD,Andorra,Europe,Southern Europe
-194.158.78.228,4,3,uda.ad,AD,Andorra,Europe,Southern Europe
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+194.158.64.40,4,-2,andorratelecom.ad,AD,Europe,Southern Europe,Andorra,,,
+185.87.45.150,4,45517,DNS Server: m-185-87-45-150.andorpac.ad,AD,Europe,Southern Europe,Andorra,Andorra la Vella,,Andorra la Vella
+85.94.178.206,4,-921,DNS Server: m85-94-178-206.andorpac.ad,AD,Europe,Southern Europe,Andorra,Andorra la Vella,,Andorra la Vella
+85.94.179.20,4,5056,DNS Server: m85-94-179-20.andorpac.ad,AD,Europe,Southern Europe,Andorra,Andorra la Vella,,Andorra la Vella
+185.132.201.202,4,16113,DNS Server: static-185.132.201.202.andorpac.ad\,AD,Europe,Southern Europe,Andorra,Andorra la Vella,,Santa Coloma
+91.187.75.18,4,-1724,DNS Server: static-91-187-75-18.andorpac.ad,AD,Europe,Southern Europe,Andorra,Andorra la Vella,,Andorra la Vella
+46.172.249.159,4,54,genoom.com,AD,Europe,Southern Europe,Andorra,Andorra la Vella,,Andorra la Vella
+194.158.74.66,4,-73309,Ookla Speedtest Server 2530: ooklaspeedtest1.andorratelecom.ad,AD,Europe,Southern Europe,Andorra,Andorra la Vella,,Andorra la Vella
+194.158.78.228,4,3,uda.ad,AD,Europe,Southern Europe,Andorra,Andorra la Vella,,Andorra la Vella

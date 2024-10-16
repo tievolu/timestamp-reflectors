@@ -1,5 +1,11 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-176.67.63.122,4,-32620,Ookla Speedtest Server 40393: speedtest3.mada.ps,PS,Palestine,Asia,Western Asia
-217.21.0.47,4,456459,Ookla Speedtest Server 45636: al-bireh-speedtest.paltel.ps,PS,Palestine,Asia,Western Asia
-95.130.89.240,4,206,Ookla Speedtest Server 53193: speedtest.ooredoo.ps,PS,Palestine,Asia,Western Asia
-185.209.108.60,4,24,Ookla Speedtest Server: speedtest1.together-pal.com,PS,Palestine,Asia,Western Asia
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+192.116.4.50,4,19,bethlehem.edu,PS,Asia,Western Asia,Palestine,,,
+188.225.230.38,4,279,Ookla Speedtest Server 13973: speedtest.coolnet.ps,PS,Asia,Western Asia,Palestine,,,
+176.67.63.122,4,-32620,Ookla Speedtest Server 40393: speedtest3.mada.ps,PS,Asia,Western Asia,Palestine,,,
+217.21.0.47,4,456459,Ookla Speedtest Server 45636: al-bireh-speedtest.paltel.ps,PS,Asia,Western Asia,Palestine,,,
+46.60.3.198,4,-2791078,Ookla Speedtest Server 52482: speedtest1.zaytona.ps,PS,Asia,Western Asia,Palestine,,,
+95.130.89.240,4,206,Ookla Speedtest Server 53193: speedtest.ooredoo.ps,PS,Asia,Western Asia,Palestine,,,
+185.17.234.130,4,235,Ookla Speedtest Server: speedtest.mada.ps,PS,Asia,Western Asia,Palestine,,,
+185.209.108.60,4,24,Ookla Speedtest Server: speedtest1.together-pal.com,PS,Asia,Western Asia,Palestine,,,
+188.225.225.117,4,74,Ookla Speedtest Server: speedtest2.coolnet.ps,PS,Asia,Western Asia,Palestine,,,
+185.17.234.38,4,1008,travelpalestine.ps,PS,Asia,Western Asia,Palestine,,,

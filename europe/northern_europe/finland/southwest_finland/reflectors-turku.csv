@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+84.249.85.95,4,26,DNS Server: dsl-tkubng12-54f955-95.dhcp.inet.fi,FI,Europe,Northern Europe,Finland,Southwest Finland,,Turku
+130.232.216.214,4,39,tucs.fi,FI,Europe,Northern Europe,Finland,Southwest Finland,,Turku
+185.218.195.54,4,4,visittampere.fi,FI,Europe,Northern Europe,Finland,Southwest Finland,,Turku

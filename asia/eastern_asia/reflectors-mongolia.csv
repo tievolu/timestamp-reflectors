@@ -1,22 +1,21 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-43.231.113.32,4,1356,baabar.mn,MN,Mongolia,Asia,Eastern Asia
-103.143.40.101,4,5,batatour.com,MN,Mongolia,Asia,Eastern Asia
-202.55.176.10,4,-30837588,DNS Server: ns.skycc.mn,MN,Mongolia,Asia,Eastern Asia
-202.55.176.11,4,-28741809,DNS Server: ns1.skycc.mn,MN,Mongolia,Asia,Eastern Asia
-43.231.112.25,4,-731679,erdenet.mn,MN,Mongolia,Asia,Eastern Asia
-203.169.51.250,4,3105,gobitours.com,MN,Mongolia,Asia,Eastern Asia
-202.170.69.124,4,-18,humuun.edu.mn,MN,Mongolia,Asia,Eastern Asia
-103.17.108.20,4,-37402,ikon.mn,MN,Mongolia,Asia,Eastern Asia
-43.231.112.70,4,674,iqmuseum.mn,MN,Mongolia,Asia,Eastern Asia
-124.158.121.134,4,2659,iuu.edu.mn,MN,Mongolia,Asia,Eastern Asia
-43.231.112.69,4,922,izmone.mn,MN,Mongolia,Asia,Eastern Asia
-43.231.115.135,4,-2,medee.mn,MN,Mongolia,Asia,Eastern Asia
-103.43.117.45,4,-50,mnb.mn,MN,Mongolia,Asia,Eastern Asia
-192.82.92.157,4,-63,mnums.edu.mn,MN,Mongolia,Asia,Eastern Asia
-202.131.237.150,4,-20,mongolchamber.mn,MN,Mongolia,Asia,Eastern Asia
-202.170.70.76,4,-12,my-zar.mn,MN,Mongolia,Asia,Eastern Asia
-124.158.124.68,4,615,negun.mn,MN,Mongolia,Asia,Eastern Asia
-66.181.167.232,4,2037,The first E-commerce and TriplePlay Service ISP in Mongolia.,MN,Mongolia,Asia,Eastern Asia
-202.170.70.78,4,-19,unuudur.mn,MN,Mongolia,Asia,Eastern Asia
-202.131.4.35,4,132082,vita.mn,MN,Mongolia,Asia,Eastern Asia
-43.231.112.93,4,697,wonder-mongolia.com,MN,Mongolia,Asia,Eastern Asia
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+43.231.113.32,4,1356,baabar.mn,MN,Asia,Eastern Asia,Mongolia,Ulaanbaatar Hot,,Ulan Bator
+103.143.40.101,4,5,batatour.com,MN,Asia,Eastern Asia,Mongolia,,,
+202.55.176.10,4,-30837588,DNS Server: ns.skycc.mn,MN,Asia,Eastern Asia,Mongolia,,,
+202.55.176.11,4,-28741809,DNS Server: ns1.skycc.mn,MN,Asia,Eastern Asia,Mongolia,,,
+43.231.112.25,4,-731679,erdenet.mn,MN,Asia,Eastern Asia,Mongolia,Ulaanbaatar Hot,,Ulan Bator
+203.169.51.250,4,3105,gobitours.com,MN,Asia,Eastern Asia,Mongolia,,,
+202.170.69.124,4,-18,humuun.edu.mn,MN,Asia,Eastern Asia,Mongolia,,,
+103.17.108.20,4,-37402,ikon.mn,MN,Asia,Eastern Asia,Mongolia,,,
+43.231.112.70,4,674,iqmuseum.mn,MN,Asia,Eastern Asia,Mongolia,Ulaanbaatar Hot,,Ulan Bator
+124.158.121.134,4,2659,iuu.edu.mn,MN,Asia,Eastern Asia,Mongolia,Ulaanbaatar Hot,,Ulan Bator
+43.231.112.69,4,922,izmone.mn,MN,Asia,Eastern Asia,Mongolia,Ulaanbaatar Hot,,Ulan Bator
+43.231.115.135,4,-2,medee.mn,MN,Asia,Eastern Asia,Mongolia,Ulaanbaatar Hot,,Ulan Bator
+192.82.92.157,4,-63,mnums.edu.mn,MN,Asia,Eastern Asia,Mongolia,Ulaanbaatar Hot,,Ulan Bator
+202.131.237.150,4,-20,mongolchamber.mn,MN,Asia,Eastern Asia,Mongolia,Ulaanbaatar Hot,,Ulan Bator
+202.170.70.76,4,-12,my-zar.mn,MN,Asia,Eastern Asia,Mongolia,,,
+124.158.124.68,4,615,negun.mn,MN,Asia,Eastern Asia,Mongolia,Ulaanbaatar Hot,,Ulan Bator
+66.181.167.232,4,2037,The first E-commerce and TriplePlay Service ISP in Mongolia.,MN,Asia,Eastern Asia,Mongolia,Ulaanbaatar Hot,,Ulan Bator
+202.170.70.78,4,-19,unuudur.mn,MN,Asia,Eastern Asia,Mongolia,,,
+202.131.4.35,4,132082,vita.mn,MN,Asia,Eastern Asia,Mongolia,,,
+43.231.112.93,4,697,wonder-mongolia.com,MN,Asia,Eastern Asia,Mongolia,Ulaanbaatar Hot,,Ulan Bator

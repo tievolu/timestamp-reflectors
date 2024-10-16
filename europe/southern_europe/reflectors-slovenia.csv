@@ -1,204 +1,203 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-195.206.229.159,4,7,1ka.si,SI,Slovenia,Europe,Southern Europe
-91.185.217.50,4,11,acros.si,SI,Slovenia,Europe,Southern Europe
-91.233.163.195,4,22,adriatic-ionian.eu,SI,Slovenia,Europe,Southern Europe
-185.148.72.120,4,57,afriendfinder.org,SI,Slovenia,Europe,Southern Europe
-212.235.189.58,4,5,ailab.si,SI,Slovenia,Europe,Southern Europe
-212.44.112.58,4,6,aksioma.org,SI,Slovenia,Europe,Southern Europe
-91.185.215.215,4,812,albomay.si,SI,Slovenia,Europe,Southern Europe
-93.103.235.207,4,2,amebis.si,SI,Slovenia,Europe,Southern Europe
-152.89.234.70,4,19,animateka.si,SI,Slovenia,Europe,Southern Europe
-91.185.213.133,4,1,anpsthemes.com,SI,Slovenia,Europe,Southern Europe
-195.69.226.226,4,1070,ap-ljubljana.si,SI,Slovenia,Europe,Southern Europe
-146.247.26.206,4,26,appia.si,SI,Slovenia,Europe,Southern Europe
-185.97.52.54,4,92,be-terna.com,SI,Slovenia,Europe,Southern Europe
-212.44.102.63,4,24,bledstrategicforum.org,SI,Slovenia,Europe,Southern Europe
-185.53.12.130,4,715,bralnica.com,SI,Slovenia,Europe,Southern Europe
-185.29.16.120,4,42,brezov-gaj.si,SI,Slovenia,Europe,Southern Europe
-195.246.15.175,4,7,bukla.si,SI,Slovenia,Europe,Southern Europe
-193.9.21.117,4,31,bunker.si,SI,Slovenia,Europe,Southern Europe
-212.44.101.98,4,6,celje.si,SI,Slovenia,Europe,Southern Europe
-185.29.17.98,4,-7236491,ceric-eric.eu,SI,Slovenia,Europe,Southern Europe
-193.95.241.239,4,4,cgeo.org,SI,Slovenia,Europe,Southern Europe
-212.44.102.209,4,6,chaine.si,SI,Slovenia,Europe,Southern Europe
-185.53.12.128,4,681,chem-soc.si,SI,Slovenia,Europe,Southern Europe
-185.97.52.19,4,73,citymagazine.si,SI,Slovenia,Europe,Southern Europe
-91.185.213.142,4,414,comma-it.com,SI,Slovenia,Europe,Southern Europe
-212.44.104.70,4,5,cptkrsko.si,SI,Slovenia,Europe,Southern Europe
-152.89.234.145,4,1079,crok.si,SI,Slovenia,Europe,Southern Europe
-212.44.102.59,4,10,ctif.org,SI,Slovenia,Europe,Southern Europe
-194.249.0.70,4,94,culture.si,SI,Slovenia,Europe,Southern Europe
-212.44.104.177,4,15,daibau.rs,SI,Slovenia,Europe,Southern Europe
-195.246.15.172,4,849,datalab.eu,SI,Slovenia,Europe,Southern Europe
-188.230.215.21,4,2106,DNS Server: 188-230-215-21.static.t-2.net,SI,Slovenia,Europe,Southern Europe
-84.255.197.235,4,19342,DNS Server: 84-255-197-235.static.t-2.net,SI,Slovenia,Europe,Southern Europe
-84.255.197.249,4,2975,DNS Server: 84-255-197-249.static.t-2.net,SI,Slovenia,Europe,Southern Europe
-84.255.226.231,4,2532,DNS Server: 84-255-226-231.static.t-2.net,SI,Slovenia,Europe,Southern Europe
-84.255.244.10,4,30751,DNS Server: 84-255-244-10.static.t-2.net,SI,Slovenia,Europe,Southern Europe
-84.255.255.191,4,223979,DNS Server: 84-255-255-191.static.t-2.net,SI,Slovenia,Europe,Southern Europe
-86.58.116.171,4,1532228,DNS Server: 86-58-116-171.dynamic.telemach.net,SI,Slovenia,Europe,Southern Europe
-89.212.137.179,4,87,DNS Server: 89-212-137-179.static.t-2.net,SI,Slovenia,Europe,Southern Europe
-89.212.4.181,4,36,DNS Server: 89-212-4-181.static.t-2.net,SI,Slovenia,Europe,Southern Europe
-89.212.51.113,4,19,DNS Server: 89-212-51-113.static.t-2.net,SI,Slovenia,Europe,Southern Europe
-89.212.9.252,4,90,DNS Server: 89-212-9-252.static.t-2.net,SI,Slovenia,Europe,Southern Europe
-89.233.118.207,4,20,DNS Server: 89-233-118-207.static.t-2.net,SI,Slovenia,Europe,Southern Europe
-93.103.133.148,4,24612,DNS Server: 93-103-133-148.static.t-2.net,SI,Slovenia,Europe,Southern Europe
-93.103.220.170,4,16748,DNS Server: 93-103-220-170.static.t-2.net,SI,Slovenia,Europe,Southern Europe
-93.103.221.171,4,436667,DNS Server: 93-103-221-171.static.t-2.net,SI,Slovenia,Europe,Southern Europe
-93.103.235.206,4,143757,DNS Server: 93-103-235-206.static.t-2.net,SI,Slovenia,Europe,Southern Europe
-46.122.10.201,4,40,DNS Server: APN-122-10-201-gprs.simobil.net,SI,Slovenia,Europe,Southern Europe
-89.143.228.230,4,147633,DNS Server: bsn-143-228-230.static.siol.net,SI,Slovenia,Europe,Southern Europe
-89.143.244.210,4,22745304,DNS Server: bsn-143-244-210.static.siol.net,SI,Slovenia,Europe,Southern Europe
-213.250.40.82,4,54238,DNS Server: BSN-250-40-82.static.siol.net,SI,Slovenia,Europe,Southern Europe
-86.61.64.147,4,871,DNS Server: BSN-61-64-147.static.siol.net,SI,Slovenia,Europe,Southern Europe
-86.61.79.243,4,1008,DNS Server: BSN-61-79-243.static.siol.net,SI,Slovenia,Europe,Southern Europe
-193.77.216.22,4,69,DNS Server: BSN-77-216-22.static.siol.net,SI,Slovenia,Europe,Southern Europe
-193.95.221.141,4,136721,DNS Server: BSN-95-221-141.static.siol.net,SI,Slovenia,Europe,Southern Europe
-193.95.242.71,4,96021,DNS Server: BSN-95-242-71.static.siol.net,SI,Slovenia,Europe,Southern Europe
-193.95.248.128,4,95692,DNS Server: BSN-95-248-128.static.siol.net,SI,Slovenia,Europe,Southern Europe
-85.10.23.143,4,65835,DNS Server: cpe-85-10-23-143.static.amis.net,SI,Slovenia,Europe,Southern Europe
-85.10.30.236,4,4,DNS Server: cpe-85-10-30-236.static.amis.net,SI,Slovenia,Europe,Southern Europe
-85.10.33.221,4,277950,DNS Server: cpe-85-10-33-221.static.amis.net,SI,Slovenia,Europe,Southern Europe
-193.77.153.199,4,483,DNS Server: ljubecna.net,SI,Slovenia,Europe,Southern Europe
-89.143.12.246,4,-148,DNS Server: mail.sds.si,SI,Slovenia,Europe,Southern Europe
-84.255.235.247,4,270,DNS Server: mail1.rcl.si,SI,Slovenia,Europe,Southern Europe
-5.157.72.1,4,67,DNS Server: n1.bi-rtsilj01.itars.eu,SI,Slovenia,Europe,Southern Europe
-212.44.118.25,4,426,domenca.com,SI,Slovenia,Europe,Southern Europe
-46.19.15.52,4,2,ds-rs.si,SI,Slovenia,Europe,Southern Europe
-185.29.17.197,4,89,ekosklad.si,SI,Slovenia,Europe,Southern Europe
-91.230.90.23,4,1115,emuni.si,SI,Slovenia,Europe,Southern Europe
-185.148.73.170,4,31,enjoi.si,SI,Slovenia,Europe,Southern Europe
-145.14.14.104,4,15,epp.eu,SI,Slovenia,Europe,Southern Europe
-84.255.206.8,4,4,eternallybored.org,SI,Slovenia,Europe,Southern Europe
-185.53.12.109,4,1121,eti.ru,SI,Slovenia,Europe,Southern Europe
-152.89.234.185,4,409,euro-m.si,SI,Slovenia,Europe,Southern Europe
-46.19.15.82,4,3578,extremevital.com,SI,Slovenia,Europe,Southern Europe
-212.44.106.42,4,4,festival-lent.si,SI,Slovenia,Europe,Southern Europe
-91.185.212.99,4,1159,futurefacesmiami.com,SI,Slovenia,Europe,Southern Europe
-212.44.112.106,4,8,glitterbeat.com,SI,Slovenia,Europe,Southern Europe
-217.61.252.59,4,7,goolets.net,SI,Slovenia,Europe,Southern Europe
-212.44.101.63,4,36,gore-ljudje.net,SI,Slovenia,Europe,Southern Europe
-185.97.52.150,4,5,gozdis.si,SI,Slovenia,Europe,Southern Europe
-185.53.12.36,4,1504,gro-felix.si,SI,Slovenia,Europe,Southern Europe
-212.192.24.155,4,95506,happyhome-mebel.ru,SI,Slovenia,Europe,Southern Europe
-195.246.15.53,4,4,hisense-europe.com,SI,Slovenia,Europe,Southern Europe
-185.148.72.101,4,0,hotelmarina.si,SI,Slovenia,Europe,Southern Europe
-193.138.63.52,4,6,hrvaska.net,SI,Slovenia,Europe,Southern Europe
-185.146.254.223,4,80,inchoo.net,SI,Slovenia,Europe,Southern Europe
-212.44.102.84,4,21,integrative-journal.com,SI,Slovenia,Europe,Southern Europe
-212.44.102.153,4,3,iphone-odklep.si,SI,Slovenia,Europe,Southern Europe
-212.103.146.240,4,3,iskra.eu,SI,Slovenia,Europe,Southern Europe
-195.246.8.82,4,-426022,itena.si,SI,Slovenia,Europe,Southern Europe
-152.89.234.40,4,12,jazmp.si,SI,Slovenia,Europe,Southern Europe
-212.44.112.146,4,8,jb-slo.com,SI,Slovenia,Europe,Southern Europe
-152.89.234.125,4,-151,jordan.si,SI,Slovenia,Europe,Southern Europe
-93.103.221.24,4,2,jskd.si,SI,Slovenia,Europe,Southern Europe
-185.97.52.32,4,0,kgzs.si,SI,Slovenia,Europe,Southern Europe
-193.2.14.24,4,3,ki.si,SI,Slovenia,Europe,Southern Europe
-193.2.52.231,4,3,kibla.org,SI,Slovenia,Europe,Southern Europe
-95.87.191.249,4,4,kinosiska.si,SI,Slovenia,Europe,Southern Europe
-194.249.242.49,4,95,kompot.si,SI,Slovenia,Europe,Southern Europe
-93.103.220.142,4,4247,kp-kolpa.si,SI,Slovenia,Europe,Southern Europe
-194.249.2.96,4,6,kpk-rs.si,SI,Slovenia,Europe,Southern Europe
-195.245.250.84,4,38,krka.biz,SI,Slovenia,Europe,Southern Europe
-152.89.235.90,4,8,kvipu.com,SI,Slovenia,Europe,Southern Europe
-212.44.102.47,4,35,landezine-award.com,SI,Slovenia,Europe,Southern Europe
-84.255.193.153,4,6,ledlenser.si,SI,Slovenia,Europe,Southern Europe
-195.206.228.82,4,3,ljubljana.info,SI,Slovenia,Europe,Southern Europe
-212.103.146.236,4,7,lpp.si,SI,Slovenia,Europe,Southern Europe
-212.44.102.53,4,6,mao.si,SI,Slovenia,Europe,Southern Europe
-212.44.102.66,4,32,maribor.si,SI,Slovenia,Europe,Southern Europe
-185.97.52.10,4,3,merkur.si,SI,Slovenia,Europe,Southern Europe
-194.249.0.80,4,13,mg-lj.si,SI,Slovenia,Europe,Southern Europe
-195.246.14.67,4,1321,mihov.com,SI,Slovenia,Europe,Southern Europe
-194.249.64.167,4,-20013,mirovni-institut.si,SI,Slovenia,Europe,Southern Europe
-194.249.3.52,4,3,mklj.si,SI,Slovenia,Europe,Southern Europe
-91.185.209.210,4,15,mojaobcina.si,SI,Slovenia,Europe,Southern Europe
-212.44.112.50,4,16,muzej-nz.si,SI,Slovenia,Europe,Southern Europe
-152.89.234.35,4,29,mylpg.eu,SI,Slovenia,Europe,Southern Europe
-46.19.15.26,4,39,nek.si,SI,Slovenia,Europe,Southern Europe
-185.97.53.32,4,19,nijz.si,SI,Slovenia,Europe,Southern Europe
-93.103.159.20,4,11293184,nopeeking.link,SI,Slovenia,Europe,Southern Europe
-46.54.177.247,4,19238,nova-gorica.si,SI,Slovenia,Europe,Southern Europe
-212.44.101.102,4,30,odmasevalec.si,SI,Slovenia,Europe,Southern Europe
-185.29.16.150,4,30,odprtakuhna.si,SI,Slovenia,Europe,Southern Europe
-93.103.5.189,4,20,ognjisce.si,SI,Slovenia,Europe,Southern Europe
-213.143.77.82,4,300,Ookla Speedtest Server 4303: speedtest.telemach.net,SI,Slovenia,Europe,Southern Europe
-31.185.4.254,4,165,Ookla Speedtest Server 15946: speedtest.vidnoe.net,SI,Slovenia,Europe,Southern Europe
-95.176.233.25,4,397,Ookla Speedtest Server 35092: speedtest-mb.telekom.si,SI,Slovenia,Europe,Southern Europe
-89.143.248.252,4,365,Ookla Speedtest Server 41998: speedtest-lj.telekom.si,SI,Slovenia,Europe,Southern Europe
-213.143.77.86,4,352,Ookla Speedtest Server 53146: speedtest2.telemach.si,SI,Slovenia,Europe,Southern Europe
-109.239.185.98,4,329,Ookla Speedtest Server 54112: speed-ookla1.ljdc1.lx.hipernet.si,SI,Slovenia,Europe,Southern Europe
-152.89.235.35,4,2858,optovid.si,SI,Slovenia,Europe,Southern Europe
-91.240.216.82,4,115,orionthemes.com,SI,Slovenia,Europe,Southern Europe
-212.44.120.77,4,23,park-skocjanske-jame.si,SI,Slovenia,Europe,Southern Europe
-212.44.112.154,4,52,pipistrel.si,SI,Slovenia,Europe,Southern Europe
-195.246.15.160,4,3,pirnar.de,SI,Slovenia,Europe,Southern Europe
-212.44.102.44,4,39,planet-cnc.com,SI,Slovenia,Europe,Southern Europe
-212.103.142.110,4,10,pnvnet.si,SI,Slovenia,Europe,Southern Europe
-91.185.203.249,4,63,podnapisi.net,SI,Slovenia,Europe,Southern Europe
-91.185.207.128,4,26,podnapisi.net,SI,Slovenia,Europe,Southern Europe
-195.246.15.40,4,33,portoroz.si,SI,Slovenia,Europe,Southern Europe
-212.44.102.49,4,23,potnik.si,SI,Slovenia,Europe,Southern Europe
-109.202.120.93,4,10,primorskival.si,SI,Slovenia,Europe,Southern Europe
-46.19.13.42,4,72,radio1.si,SI,Slovenia,Europe,Southern Europe
-194.249.0.78,4,22,radiostudent.si,SI,Slovenia,Europe,Southern Europe
-46.19.11.106,4,33,regionalobala.si,SI,Slovenia,Europe,Southern Europe
-91.185.222.28,4,2,ringaraja.net,SI,Slovenia,Europe,Southern Europe
-217.61.252.55,4,1,rls.si,SI,Slovenia,Europe,Southern Europe
-195.246.15.16,4,55,rogla.eu,SI,Slovenia,Europe,Southern Europe
-212.44.104.73,4,3,safe.si,SI,Slovenia,Europe,Southern Europe
-152.89.234.135,4,2,scinote.net,SI,Slovenia,Europe,Southern Europe
-152.89.234.65,4,8,sejem-agra.si,SI,Slovenia,Europe,Southern Europe
-193.95.228.108,4,-24412,sencila-oven.si,SI,Slovenia,Europe,Southern Europe
-212.44.102.91,4,6,sex-trgovina.si,SI,Slovenia,Europe,Southern Europe
-193.9.21.52,4,5,seyens.com,SI,Slovenia,Europe,Southern Europe
-193.2.17.2,4,-8,sistory.si,SI,Slovenia,Europe,Southern Europe
-46.19.15.63,4,31,skb.si,SI,Slovenia,Europe,Southern Europe
-212.44.105.56,4,7,sloski.si,SI,Slovenia,Europe,Southern Europe
-217.61.252.56,4,17,slovenia.info,SI,Slovenia,Europe,Southern Europe
-185.97.52.60,4,1,slovenia.si,SI,Slovenia,Europe,Southern Europe
-185.97.52.15,4,1,sng-mb.si,SI,Slovenia,Europe,Southern Europe
-91.223.115.153,4,109,soca-valley.com,SI,Slovenia,Europe,Southern Europe
-185.97.52.121,4,6,sonce.net,SI,Slovenia,Europe,Southern Europe
-46.19.10.81,4,1,spica.com,SI,Slovenia,Europe,Southern Europe
-46.19.8.140,4,9,spiele123.com,SI,Slovenia,Europe,Southern Europe
-185.29.17.231,4,0,srips-rs.si,SI,Slovenia,Europe,Southern Europe
-145.14.10.73,4,81,streemba.com,SI,Slovenia,Europe,Southern Europe
-46.19.13.43,4,28,svet24.si,SI,Slovenia,Europe,Southern Europe
-89.212.118.196,4,3688,szd.si,SI,Slovenia,Europe,Southern Europe
-212.44.102.249,4,12,tebra.si,SI,Slovenia,Europe,Southern Europe
-212.192.24.234,4,-270388,technorosst.com,SI,Slovenia,Europe,Southern Europe
-195.246.8.117,4,-3217873,tenis-klubmoj.si,SI,Slovenia,Europe,Southern Europe
-152.89.234.80,4,49,tenis-medvode.si,SI,Slovenia,Europe,Southern Europe
-91.217.122.30,4,-26,timingljubljana.si,SI,Slovenia,Europe,Southern Europe
-152.89.234.120,4,2,tms.si,SI,Slovenia,Europe,Southern Europe
-195.246.14.99,4,24,tnp.si,SI,Slovenia,Europe,Southern Europe
-185.97.52.123,4,16,topnews.si,SI,Slovenia,Europe,Southern Europe
-46.19.15.59,4,3,tp-lj.si,SI,Slovenia,Europe,Southern Europe
-185.97.52.146,4,8,trgovinejager.com,SI,Slovenia,Europe,Southern Europe
-185.29.17.165,4,-7226732,trimo-group.com,SI,Slovenia,Europe,Southern Europe
-212.44.104.25,4,6,tsmedia.si,SI,Slovenia,Europe,Southern Europe
-185.97.52.83,4,1,tueren-designer.com,SI,Slovenia,Europe,Southern Europe
-91.185.212.26,4,193,turisticna-zveza.si,SI,Slovenia,Europe,Southern Europe
-193.9.21.150,4,6,tuttocapsule.si,SI,Slovenia,Europe,Southern Europe
-195.246.16.146,4,4,tvsporedi.si,SI,Slovenia,Europe,Southern Europe
-193.2.120.10,4,54,ung.si,SI,Slovenia,Europe,Southern Europe
-193.105.67.75,4,10,urusoft.net,SI,Slovenia,Europe,Southern Europe
-152.89.234.10,4,6,useyournoodles.eu,SI,Slovenia,Europe,Southern Europe
-46.19.9.118,4,15,vargalant.si,SI,Slovenia,Europe,Southern Europe
-153.5.60.16,4,14,varninainternetu.si,SI,Slovenia,Europe,Southern Europe
-46.19.8.39,4,17,varuh-rs.si,SI,Slovenia,Europe,Southern Europe
-46.19.13.44,4,5,vecer.com,SI,Slovenia,Europe,Southern Europe
-77.234.148.124,4,10,velikaplanina.si,SI,Slovenia,Europe,Southern Europe
-195.206.229.24,4,4,versopolis.com,SI,Slovenia,Europe,Southern Europe
-212.44.102.46,4,1,vintgar.si,SI,Slovenia,Europe,Southern Europe
-152.89.234.215,4,333,vogel.si,SI,Slovenia,Europe,Southern Europe
-145.14.14.25,4,209,vsezaodpadke.si,SI,Slovenia,Europe,Southern Europe
-185.53.12.13,4,1366,vw-ljubljanskimaraton.si,SI,Slovenia,Europe,Southern Europe
-91.185.213.147,4,992,worldbeeday.org,SI,Slovenia,Europe,Southern Europe
-212.44.102.72,4,1,writemonkey.com,SI,Slovenia,Europe,Southern Europe
-193.2.24.248,4,176,zag.si,SI,Slovenia,Europe,Southern Europe
-195.246.8.97,4,74,zimic.si,SI,Slovenia,Europe,Southern Europe
-193.2.156.20,4,53,zrss.si,SI,Slovenia,Europe,Southern Europe
-46.19.10.68,4,1,zvkds.si,SI,Slovenia,Europe,Southern Europe
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+195.206.229.159,4,7,1ka.si,SI,Europe,Southern Europe,Slovenia,,,
+91.185.217.50,4,11,acros.si,SI,Europe,Southern Europe,Slovenia,,,
+91.233.163.195,4,22,adriatic-ionian.eu,SI,Europe,Southern Europe,Slovenia,,,
+185.148.72.120,4,57,afriendfinder.org,SI,Europe,Southern Europe,Slovenia,,,
+212.235.189.58,4,5,ailab.si,SI,Europe,Southern Europe,Slovenia,Velenje,,Velenje
+212.44.112.58,4,6,aksioma.org,SI,Europe,Southern Europe,Slovenia,,,
+91.185.215.215,4,812,albomay.si,SI,Europe,Southern Europe,Slovenia,,,
+93.103.235.207,4,2,amebis.si,SI,Europe,Southern Europe,Slovenia,Kamnik,,Kamnik
+152.89.234.70,4,19,animateka.si,SI,Europe,Southern Europe,Slovenia,,,
+91.185.213.133,4,1,anpsthemes.com,SI,Europe,Southern Europe,Slovenia,,,
+195.69.226.226,4,1070,ap-ljubljana.si,SI,Europe,Southern Europe,Slovenia,,,
+146.247.26.206,4,26,appia.si,SI,Europe,Southern Europe,Slovenia,,,
+185.97.52.54,4,92,be-terna.com,SI,Europe,Southern Europe,Slovenia,,,
+212.44.102.63,4,24,bledstrategicforum.org,SI,Europe,Southern Europe,Slovenia,,,
+185.53.12.130,4,715,bralnica.com,SI,Europe,Southern Europe,Slovenia,,,
+185.29.16.120,4,42,brezov-gaj.si,SI,Europe,Southern Europe,Slovenia,,,
+195.246.15.175,4,7,bukla.si,SI,Europe,Southern Europe,Slovenia,,,
+193.9.21.117,4,31,bunker.si,SI,Europe,Southern Europe,Slovenia,,,
+212.44.101.98,4,6,celje.si,SI,Europe,Southern Europe,Slovenia,,,
+185.29.17.98,4,-7236491,ceric-eric.eu,SI,Europe,Southern Europe,Slovenia,,,
+193.95.241.239,4,4,cgeo.org,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+212.44.102.209,4,6,chaine.si,SI,Europe,Southern Europe,Slovenia,,,
+185.53.12.128,4,681,chem-soc.si,SI,Europe,Southern Europe,Slovenia,,,
+185.97.52.19,4,73,citymagazine.si,SI,Europe,Southern Europe,Slovenia,,,
+91.185.213.142,4,414,comma-it.com,SI,Europe,Southern Europe,Slovenia,,,
+212.44.104.70,4,5,cptkrsko.si,SI,Europe,Southern Europe,Slovenia,,,
+152.89.234.145,4,1079,crok.si,SI,Europe,Southern Europe,Slovenia,,,
+212.44.102.59,4,10,ctif.org,SI,Europe,Southern Europe,Slovenia,,,
+194.249.0.70,4,94,culture.si,SI,Europe,Southern Europe,Slovenia,Hrpelje-Kozina,,Kozina
+212.44.104.177,4,15,daibau.rs,SI,Europe,Southern Europe,Slovenia,,,
+195.246.15.172,4,849,datalab.eu,SI,Europe,Southern Europe,Slovenia,,,
+188.230.215.21,4,2106,DNS Server: 188-230-215-21.static.t-2.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+84.255.197.235,4,19342,DNS Server: 84-255-197-235.static.t-2.net,SI,Europe,Southern Europe,Slovenia,Lenart,,Spodnja Voličina
+84.255.197.249,4,2975,DNS Server: 84-255-197-249.static.t-2.net,SI,Europe,Southern Europe,Slovenia,Lenart,,Spodnja Voličina
+84.255.226.231,4,2532,DNS Server: 84-255-226-231.static.t-2.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+84.255.244.10,4,30751,DNS Server: 84-255-244-10.static.t-2.net,SI,Europe,Southern Europe,Slovenia,Kranj,,Kranj
+84.255.255.191,4,223979,DNS Server: 84-255-255-191.static.t-2.net,SI,Europe,Southern Europe,Slovenia,Kranj,,Kranj
+86.58.116.171,4,1532228,DNS Server: 86-58-116-171.dynamic.telemach.net,SI,Europe,Southern Europe,Slovenia,Maribor City Municipality,,Maribor
+89.212.137.179,4,87,DNS Server: 89-212-137-179.static.t-2.net,SI,Europe,Southern Europe,Slovenia,Občina Šmartno pri Litiji,,Šmartno pri Litiji
+89.212.4.181,4,36,DNS Server: 89-212-4-181.static.t-2.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+89.212.51.113,4,19,DNS Server: 89-212-51-113.static.t-2.net,SI,Europe,Southern Europe,Slovenia,Koper,,Koper
+89.212.9.252,4,90,DNS Server: 89-212-9-252.static.t-2.net,SI,Europe,Southern Europe,Slovenia,Občina Rogaška Slatina,,Rogaška Slatina
+89.233.118.207,4,20,DNS Server: 89-233-118-207.static.t-2.net,SI,Europe,Southern Europe,Slovenia,Slovenske Konjice,,Slovenske Konjice
+93.103.133.148,4,24612,DNS Server: 93-103-133-148.static.t-2.net,SI,Europe,Southern Europe,Slovenia,Slovenske Konjice,,Slovenske Konjice
+93.103.220.170,4,16748,DNS Server: 93-103-220-170.static.t-2.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+93.103.221.171,4,436667,DNS Server: 93-103-221-171.static.t-2.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+93.103.235.206,4,143757,DNS Server: 93-103-235-206.static.t-2.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+46.122.10.201,4,40,DNS Server: APN-122-10-201-gprs.simobil.net,SI,Europe,Southern Europe,Slovenia,Škofja Loka,,Škofja Loka
+89.143.228.230,4,147633,DNS Server: bsn-143-228-230.static.siol.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+89.143.244.210,4,22745304,DNS Server: bsn-143-244-210.static.siol.net,SI,Europe,Southern Europe,Slovenia,Kamnik,,Kamnik
+213.250.40.82,4,54238,DNS Server: BSN-250-40-82.static.siol.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+86.61.64.147,4,871,DNS Server: BSN-61-64-147.static.siol.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+86.61.79.243,4,1008,DNS Server: BSN-61-79-243.static.siol.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+193.77.216.22,4,69,DNS Server: BSN-77-216-22.static.siol.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+193.95.221.141,4,136721,DNS Server: BSN-95-221-141.static.siol.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+193.95.242.71,4,96021,DNS Server: BSN-95-242-71.static.siol.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+193.95.248.128,4,95692,DNS Server: BSN-95-248-128.static.siol.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+85.10.23.143,4,65835,DNS Server: cpe-85-10-23-143.static.amis.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+85.10.30.236,4,4,DNS Server: cpe-85-10-30-236.static.amis.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+85.10.33.221,4,277950,DNS Server: cpe-85-10-33-221.static.amis.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+193.77.153.199,4,483,DNS Server: ljubecna.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+89.143.12.246,4,-148,DNS Server: mail.sds.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+84.255.235.247,4,270,DNS Server: mail1.rcl.si,SI,Europe,Southern Europe,Slovenia,Vrhnika,,Vrhnika
+5.157.72.1,4,67,DNS Server: n1.bi-rtsilj01.itars.eu,SI,Europe,Southern Europe,Slovenia,,,
+212.44.118.25,4,426,domenca.com,SI,Europe,Southern Europe,Slovenia,,,
+46.19.15.52,4,2,ds-rs.si,SI,Europe,Southern Europe,Slovenia,,,
+185.29.17.197,4,89,ekosklad.si,SI,Europe,Southern Europe,Slovenia,,,
+91.230.90.23,4,1115,emuni.si,SI,Europe,Southern Europe,Slovenia,,,
+185.148.73.170,4,31,enjoi.si,SI,Europe,Southern Europe,Slovenia,,,
+145.14.14.104,4,15,epp.eu,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+84.255.206.8,4,4,eternallybored.org,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+185.53.12.109,4,1121,eti.ru,SI,Europe,Southern Europe,Slovenia,,,
+152.89.234.185,4,409,euro-m.si,SI,Europe,Southern Europe,Slovenia,,,
+46.19.15.82,4,3578,extremevital.com,SI,Europe,Southern Europe,Slovenia,,,
+212.44.106.42,4,4,festival-lent.si,SI,Europe,Southern Europe,Slovenia,,,
+91.185.212.99,4,1159,futurefacesmiami.com,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+212.44.112.106,4,8,glitterbeat.com,SI,Europe,Southern Europe,Slovenia,,,
+217.61.252.59,4,7,goolets.net,SI,Europe,Southern Europe,Slovenia,,,
+212.44.101.63,4,36,gore-ljudje.net,SI,Europe,Southern Europe,Slovenia,,,
+185.97.52.150,4,5,gozdis.si,SI,Europe,Southern Europe,Slovenia,,,
+185.53.12.36,4,1504,gro-felix.si,SI,Europe,Southern Europe,Slovenia,,,
+195.246.15.53,4,4,hisense-europe.com,SI,Europe,Southern Europe,Slovenia,,,
+185.148.72.101,4,0,hotelmarina.si,SI,Europe,Southern Europe,Slovenia,,,
+193.138.63.52,4,6,hrvaska.net,SI,Europe,Southern Europe,Slovenia,Kranj,,Kranj
+185.146.254.223,4,80,inchoo.net,SI,Europe,Southern Europe,Slovenia,,,
+212.44.102.84,4,21,integrative-journal.com,SI,Europe,Southern Europe,Slovenia,,,
+212.44.102.153,4,3,iphone-odklep.si,SI,Europe,Southern Europe,Slovenia,,,
+212.103.146.240,4,3,iskra.eu,SI,Europe,Southern Europe,Slovenia,Tabor,,Tabor
+195.246.8.82,4,-426022,itena.si,SI,Europe,Southern Europe,Slovenia,,,
+152.89.234.40,4,12,jazmp.si,SI,Europe,Southern Europe,Slovenia,,,
+212.44.112.146,4,8,jb-slo.com,SI,Europe,Southern Europe,Slovenia,,,
+152.89.234.125,4,-151,jordan.si,SI,Europe,Southern Europe,Slovenia,,,
+93.103.221.24,4,2,jskd.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+185.97.52.32,4,0,kgzs.si,SI,Europe,Southern Europe,Slovenia,,,
+193.2.14.24,4,3,ki.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+193.2.52.231,4,3,kibla.org,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+95.87.191.249,4,4,kinosiska.si,SI,Europe,Southern Europe,Slovenia,,,
+194.249.242.49,4,95,kompot.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+93.103.220.142,4,4247,kp-kolpa.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+194.249.2.96,4,6,kpk-rs.si,SI,Europe,Southern Europe,Slovenia,Hrpelje-Kozina,,Kozina
+195.245.250.84,4,38,krka.biz,SI,Europe,Southern Europe,Slovenia,Radeče Municipality,,Radeče
+152.89.235.90,4,8,kvipu.com,SI,Europe,Southern Europe,Slovenia,,,
+212.44.102.47,4,35,landezine-award.com,SI,Europe,Southern Europe,Slovenia,,,
+92.60.71.162,4,13,lavoliera.com,SI,Europe,Southern Europe,Slovenia,,,
+84.255.193.153,4,6,ledlenser.si,SI,Europe,Southern Europe,Slovenia,Občina Braslovče,,Braslovče
+195.206.228.82,4,3,ljubljana.info,SI,Europe,Southern Europe,Slovenia,,,
+212.103.146.236,4,7,lpp.si,SI,Europe,Southern Europe,Slovenia,Tabor,,Tabor
+212.44.102.53,4,6,mao.si,SI,Europe,Southern Europe,Slovenia,,,
+212.44.102.66,4,32,maribor.si,SI,Europe,Southern Europe,Slovenia,,,
+185.97.52.10,4,3,merkur.si,SI,Europe,Southern Europe,Slovenia,,,
+194.249.0.80,4,13,mg-lj.si,SI,Europe,Southern Europe,Slovenia,Hrpelje-Kozina,,Kozina
+195.246.14.67,4,1321,mihov.com,SI,Europe,Southern Europe,Slovenia,,,
+194.249.64.167,4,-20013,mirovni-institut.si,SI,Europe,Southern Europe,Slovenia,Hrpelje-Kozina,,Kozina
+194.249.3.52,4,3,mklj.si,SI,Europe,Southern Europe,Slovenia,Hrpelje-Kozina,,Kozina
+91.185.209.210,4,15,mojaobcina.si,SI,Europe,Southern Europe,Slovenia,,,
+212.44.112.50,4,16,muzej-nz.si,SI,Europe,Southern Europe,Slovenia,,,
+152.89.234.35,4,29,mylpg.eu,SI,Europe,Southern Europe,Slovenia,,,
+46.19.15.26,4,39,nek.si,SI,Europe,Southern Europe,Slovenia,,,
+185.97.53.32,4,19,nijz.si,SI,Europe,Southern Europe,Slovenia,,,
+185.146.252.130,4,89,nomago.si,SI,Europe,Southern Europe,Slovenia,,,
+93.103.159.20,4,11293184,nopeeking.link,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+46.54.177.247,4,19238,nova-gorica.si,SI,Europe,Southern Europe,Slovenia,,,
+212.44.101.102,4,30,odmasevalec.si,SI,Europe,Southern Europe,Slovenia,,,
+185.29.16.150,4,30,odprtakuhna.si,SI,Europe,Southern Europe,Slovenia,,,
+93.103.5.189,4,20,ognjisce.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+213.143.77.82,4,300,Ookla Speedtest Server 4303: speedtest.telemach.net,SI,Europe,Southern Europe,Slovenia,Občina Kočevje,,Kočevje
+95.176.233.25,4,397,Ookla Speedtest Server 35092: speedtest-mb.telekom.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+89.143.248.252,4,365,Ookla Speedtest Server 41998: speedtest-lj.telekom.si,SI,Europe,Southern Europe,Slovenia,Kamnik,,Kamnik
+213.143.77.86,4,352,Ookla Speedtest Server 53146: speedtest2.telemach.si,SI,Europe,Southern Europe,Slovenia,Občina Kočevje,,Kočevje
+109.239.185.98,4,329,Ookla Speedtest Server 54112: speed-ookla1.ljdc1.lx.hipernet.si,SI,Europe,Southern Europe,Slovenia,,,
+152.89.235.35,4,2858,optovid.si,SI,Europe,Southern Europe,Slovenia,,,
+91.240.216.82,4,115,orionthemes.com,SI,Europe,Southern Europe,Slovenia,,,
+212.44.120.77,4,23,park-skocjanske-jame.si,SI,Europe,Southern Europe,Slovenia,,,
+212.44.112.154,4,52,pipistrel.si,SI,Europe,Southern Europe,Slovenia,,,
+195.246.15.160,4,3,pirnar.de,SI,Europe,Southern Europe,Slovenia,,,
+212.44.102.44,4,39,planet-cnc.com,SI,Europe,Southern Europe,Slovenia,,,
+212.103.142.110,4,10,pnvnet.si,SI,Europe,Southern Europe,Slovenia,Občina Šenčur,,Šenčur
+91.185.203.249,4,63,podnapisi.net,SI,Europe,Southern Europe,Slovenia,,,
+91.185.207.128,4,26,podnapisi.net,SI,Europe,Southern Europe,Slovenia,,,
+195.246.15.40,4,33,portoroz.si,SI,Europe,Southern Europe,Slovenia,,,
+212.44.102.49,4,23,potnik.si,SI,Europe,Southern Europe,Slovenia,,,
+109.202.120.93,4,10,primorskival.si,SI,Europe,Southern Europe,Slovenia,Idrija,,Godovič
+46.19.13.42,4,72,radio1.si,SI,Europe,Southern Europe,Slovenia,Celje,,Celje
+194.249.0.78,4,22,radiostudent.si,SI,Europe,Southern Europe,Slovenia,Hrpelje-Kozina,,Kozina
+46.19.11.106,4,33,regionalobala.si,SI,Europe,Southern Europe,Slovenia,,,
+91.185.222.28,4,2,ringaraja.net,SI,Europe,Southern Europe,Slovenia,,,
+217.61.252.55,4,1,rls.si,SI,Europe,Southern Europe,Slovenia,,,
+195.246.15.16,4,55,rogla.eu,SI,Europe,Southern Europe,Slovenia,,,
+212.44.104.73,4,3,safe.si,SI,Europe,Southern Europe,Slovenia,,,
+152.89.234.135,4,2,scinote.net,SI,Europe,Southern Europe,Slovenia,,,
+152.89.234.65,4,8,sejem-agra.si,SI,Europe,Southern Europe,Slovenia,,,
+193.95.228.108,4,-24412,sencila-oven.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+212.44.102.91,4,6,sex-trgovina.si,SI,Europe,Southern Europe,Slovenia,,,
+193.9.21.52,4,5,seyens.com,SI,Europe,Southern Europe,Slovenia,,,
+193.2.17.2,4,-8,sistory.si,SI,Europe,Southern Europe,Slovenia,Maribor City Municipality,,Maribor
+46.19.15.63,4,31,skb.si,SI,Europe,Southern Europe,Slovenia,,,
+212.44.105.56,4,7,sloski.si,SI,Europe,Southern Europe,Slovenia,,,
+217.61.252.56,4,17,slovenia.info,SI,Europe,Southern Europe,Slovenia,,,
+185.97.52.60,4,1,slovenia.si,SI,Europe,Southern Europe,Slovenia,,,
+185.97.52.15,4,1,sng-mb.si,SI,Europe,Southern Europe,Slovenia,,,
+91.223.115.153,4,109,soca-valley.com,SI,Europe,Southern Europe,Slovenia,,,
+185.97.52.121,4,6,sonce.net,SI,Europe,Southern Europe,Slovenia,,,
+46.19.10.81,4,1,spica.com,SI,Europe,Southern Europe,Slovenia,,,
+46.19.8.140,4,9,spiele123.com,SI,Europe,Southern Europe,Slovenia,,,
+185.29.17.231,4,0,srips-rs.si,SI,Europe,Southern Europe,Slovenia,,,
+145.14.10.73,4,81,streemba.com,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+46.19.13.43,4,28,svet24.si,SI,Europe,Southern Europe,Slovenia,Celje,,Celje
+89.212.118.196,4,3688,szd.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+212.44.102.249,4,12,tebra.si,SI,Europe,Southern Europe,Slovenia,,,
+195.246.8.117,4,-3217873,tenis-klubmoj.si,SI,Europe,Southern Europe,Slovenia,,,
+152.89.234.80,4,49,tenis-medvode.si,SI,Europe,Southern Europe,Slovenia,,,
+91.217.122.30,4,-26,timingljubljana.si,SI,Europe,Southern Europe,Slovenia,,,
+152.89.234.120,4,2,tms.si,SI,Europe,Southern Europe,Slovenia,,,
+195.246.14.99,4,24,tnp.si,SI,Europe,Southern Europe,Slovenia,,,
+185.97.52.123,4,16,topnews.si,SI,Europe,Southern Europe,Slovenia,,,
+46.19.15.59,4,3,tp-lj.si,SI,Europe,Southern Europe,Slovenia,,,
+185.97.52.146,4,8,trgovinejager.com,SI,Europe,Southern Europe,Slovenia,,,
+185.29.17.165,4,-7226732,trimo-group.com,SI,Europe,Southern Europe,Slovenia,,,
+212.44.104.25,4,6,tsmedia.si,SI,Europe,Southern Europe,Slovenia,,,
+185.97.52.83,4,1,tueren-designer.com,SI,Europe,Southern Europe,Slovenia,,,
+91.185.212.26,4,193,turisticna-zveza.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+193.9.21.150,4,6,tuttocapsule.si,SI,Europe,Southern Europe,Slovenia,,,
+195.246.16.146,4,4,tvsporedi.si,SI,Europe,Southern Europe,Slovenia,,,
+193.2.120.10,4,54,ung.si,SI,Europe,Southern Europe,Slovenia,Občina Šenčur,,Šenčur
+193.105.67.75,4,10,urusoft.net,SI,Europe,Southern Europe,Slovenia,,,
+152.89.234.10,4,6,useyournoodles.eu,SI,Europe,Southern Europe,Slovenia,,,
+46.19.9.118,4,15,vargalant.si,SI,Europe,Southern Europe,Slovenia,,,
+153.5.60.16,4,14,varninainternetu.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+46.19.8.39,4,17,varuh-rs.si,SI,Europe,Southern Europe,Slovenia,,,
+46.19.13.44,4,5,vecer.com,SI,Europe,Southern Europe,Slovenia,Celje,,Celje
+77.234.148.124,4,10,velikaplanina.si,SI,Europe,Southern Europe,Slovenia,,,
+195.206.229.24,4,4,versopolis.com,SI,Europe,Southern Europe,Slovenia,,,
+212.44.102.46,4,1,vintgar.si,SI,Europe,Southern Europe,Slovenia,,,
+152.89.234.215,4,333,vogel.si,SI,Europe,Southern Europe,Slovenia,,,
+145.14.14.25,4,209,vsezaodpadke.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+185.53.12.13,4,1366,vw-ljubljanskimaraton.si,SI,Europe,Southern Europe,Slovenia,,,
+91.185.213.147,4,992,worldbeeday.org,SI,Europe,Southern Europe,Slovenia,,,
+212.44.102.72,4,1,writemonkey.com,SI,Europe,Southern Europe,Slovenia,,,
+193.2.24.248,4,176,zag.si,SI,Europe,Southern Europe,Slovenia,Maribor City Municipality,,Maribor
+195.246.8.97,4,74,zimic.si,SI,Europe,Southern Europe,Slovenia,,,
+193.2.156.20,4,53,zrss.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+46.19.10.68,4,1,zvkds.si,SI,Europe,Southern Europe,Slovenia,,,

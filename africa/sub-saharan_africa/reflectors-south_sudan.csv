@@ -1,3 +1,2 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-102.222.36.51,4,301,Ookla Speedtest Server 62265: speedtest.dishnetss.com,SS,South Sudan,Africa,Sub-Saharan Africa
-83.229.43.146,4,-19,xjzsks.com,SS,South Sudan,Africa,Sub-Saharan Africa
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+102.222.36.51,4,301,Ookla Speedtest Server 62265: speedtest.dishnetss.com,SS,Africa,Sub-Saharan Africa,South Sudan,,,

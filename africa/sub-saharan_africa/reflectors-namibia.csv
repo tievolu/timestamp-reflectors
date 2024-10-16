@@ -1,4 +1,4 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-196.44.136.114,4,-25,iway.na,NA,Namibia,Africa,Sub-Saharan Africa
-41.219.71.253,4,2,nbc.na,NA,Namibia,Africa,Sub-Saharan Africa
-196.1.30.170,4,15,the-eis.com,NA,Namibia,Africa,Sub-Saharan Africa
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+196.44.136.114,4,-25,iway.na,NA,Africa,Sub-Saharan Africa,Namibia,,,
+41.219.71.253,4,2,nbc.na,NA,Africa,Sub-Saharan Africa,Namibia,,,
+196.1.30.170,4,15,the-eis.com,NA,Africa,Sub-Saharan Africa,Namibia,Khomas Region,,Windhoek

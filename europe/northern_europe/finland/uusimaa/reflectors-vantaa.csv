@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+86.115.19.200,4,-4581,DNS Server: dsl-hkibng41-567313-200.dhcp.inet.fi,FI,Europe,Northern Europe,Finland,Uusimaa,,Vantaa
+194.100.34.1,4,19,pcuf.fi,FI,Europe,Northern Europe,Finland,Uusimaa,,Vantaa
+193.64.145.72,4,23,tekla.com,FI,Europe,Northern Europe,Finland,Uusimaa,,Vantaa

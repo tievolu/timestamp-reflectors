@@ -1,10 +1,12 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-160.119.240.230,4,-122,agroawa.co.ao,AO,Angola,Africa,Sub-Saharan Africa
-102.219.126.195,4,-1,angolacables.co.ao,AO,Angola,Africa,Sub-Saharan Africa
-196.29.207.4,4,20,angop.ao,AO,Angola,Africa,Sub-Saharan Africa
-154.127.150.168,4,-3599614,DNS Server: cust168-150.127.154.tvcabo.ao,AO,Angola,Africa,Sub-Saharan Africa
-197.148.52.180,4,-3600912,DNS Server: cust180-52.148.197.tvcabo.ao,AO,Angola,Africa,Sub-Saharan Africa
-105.174.31.162,4,12,ine.gov.ao,AO,Angola,Africa,Sub-Saharan Africa
-154.66.104.153,4,-23859,Ookla Speedtest Server 5513: speedtest.zap.co.ao,AO,Angola,Africa,Sub-Saharan Africa
-169.239.132.55,4,-233813,Ookla Speedtest Server 63920: speed.ipworld.co.ao,AO,Angola,Africa,Sub-Saharan Africa
-196.202.252.34,4,-1808138,Ookla Speedtest Server: speed.netcabo.co.ao,AO,Angola,Africa,Sub-Saharan Africa
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+160.119.240.230,4,-122,agroawa.co.ao,AO,Africa,Sub-Saharan Africa,Angola,Luanda Province,,Luanda
+102.219.126.195,4,-1,angolacables.co.ao,AO,Africa,Sub-Saharan Africa,Angola,,,
+196.29.207.4,4,20,angop.ao,AO,Africa,Sub-Saharan Africa,Angola,Luanda Province,,Luanda
+41.218.114.72,4,30,DNS Server: c19137.cust.ao.afrisp.net,AO,Africa,Sub-Saharan Africa,Angola,Luanda Province,,Luanda
+154.127.150.168,4,-3599614,DNS Server: cust168-150.127.154.tvcabo.ao,AO,Africa,Sub-Saharan Africa,Angola,Luanda Province,,Luanda
+197.148.52.180,4,-3600912,DNS Server: cust180-52.148.197.tvcabo.ao,AO,Africa,Sub-Saharan Africa,Angola,Luanda Province,,Luanda
+105.174.31.162,4,12,ine.gov.ao,AO,Africa,Sub-Saharan Africa,Angola,Luanda Province,,Luanda
+154.66.104.153,4,-23859,Ookla Speedtest Server 5513: speedtest.zap.co.ao,AO,Africa,Sub-Saharan Africa,Angola,Luanda Province,,Luanda
+169.239.132.55,4,-233813,Ookla Speedtest Server 63920: speed.ipworld.co.ao,AO,Africa,Sub-Saharan Africa,Angola,,,
+196.202.252.34,4,-1808138,Ookla Speedtest Server: speed.netcabo.co.ao,AO,Africa,Sub-Saharan Africa,Angola,Luanda Province,,Luanda
+196.216.56.162,4,132,Ookla Speedtest Server: speedtest.paratus.ao,AO,Africa,Sub-Saharan Africa,Angola,Luanda Province,,Luanda

@@ -1,7 +1,5 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-210.246.201.242,4,-12,builk.com,LA,Laos,Asia,South-eastern Asia
-202.137.128.99,4,1003413,Ookla Speedtest Server 47463: ooklavte.laotel.com,LA,Laos,Asia,South-eastern Asia
-103.63.188.240,4,6,suprbay.org,LA,Laos,Asia,South-eastern Asia
-103.150.74.211,4,30,vientianetimes.org.la,LA,Laos,Asia,South-eastern Asia
-103.82.56.39,4,21,worklivelaos.com,LA,Laos,Asia,South-eastern Asia
-210.246.200.30,4,19,xn--72c9aa5escud2b.com,LA,Laos,Asia,South-eastern Asia
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+202.137.128.99,4,1003413,Ookla Speedtest Server 47463: ooklavte.laotel.com,LA,Asia,South-eastern Asia,Laos,,,
+103.63.188.240,4,6,suprbay.org,LA,Asia,South-eastern Asia,Laos,,,
+103.150.74.211,4,30,vientianetimes.org.la,LA,Asia,South-eastern Asia,Laos,,,
+103.82.56.39,4,21,worklivelaos.com,LA,Asia,South-eastern Asia,Laos,,,

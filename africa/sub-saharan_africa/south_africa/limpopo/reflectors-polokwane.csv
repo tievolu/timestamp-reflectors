@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+102.164.12.43,4,14,DNS Server: cust.capricom.net.12.164.102.in-addr.arpa,ZA,Africa,Sub-Saharan Africa,South Africa,Limpopo,,Polokwane
+102.164.3.238,4,30811460,DNS Server: cust.capricom.net.3.164.102.in-addr.arpa,ZA,Africa,Sub-Saharan Africa,South Africa,Limpopo,,Polokwane
+102.164.0.2,4,-4,Ookla Speedtest Server 18191: speedtest.capricom.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Limpopo,,Polokwane

@@ -1,68 +1,45 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-185.162.18.37,4,9,24sports.com.cy,CY,Cyprus,Asia,Western Asia
-94.140.15.15,4,337,AdGuard 2,CY,Cyprus,Asia,Western Asia
-94.140.14.141,4,233,AdGuard Unfiltered 2,CY,Cyprus,Asia,Western Asia
-149.100.151.134,4,5,animhut.com,CY,Cyprus,Asia,Western Asia
-213.169.148.156,4,1459,aphroditehills.com,CY,Cyprus,Asia,Western Asia
-50.28.1.85,4,6,awaionline.com,CY,Cyprus,Asia,Western Asia
-149.100.151.56,4,7,bionixwallpaper.com,CY,Cyprus,Asia,Western Asia
-149.100.151.229,4,38,buddiesreach.com,CY,Cyprus,Asia,Western Asia
-50.28.1.116,4,-1,caseclub.com,CY,Cyprus,Asia,Western Asia
-93.109.224.45,4,5,cfa.com.cy,CY,Cyprus,Asia,Western Asia
-67.225.134.49,4,5,culturesonar.com,CY,Cyprus,Asia,Western Asia
-149.100.151.165,4,6,designerwomen.co.uk,CY,Cyprus,Asia,Western Asia
-78.135.36.153,4,51,DNS Server: 78-135-36-153.extendbroadband.com,CY,Cyprus,Asia,Western Asia
-78.135.60.109,4,-4439,DNS Server: 78-135-60-109.extendbroadband.com,CY,Cyprus,Asia,Western Asia
-78.135.61.166,4,12,DNS Server: 78-135-61-166.extendbroadband.com,CY,Cyprus,Asia,Western Asia
-78.135.61.2,4,153,DNS Server: 78-135-61-2.extendbroadband.com,CY,Cyprus,Asia,Western Asia
-94.140.14.59,4,336,DNS Server: 94-140-14-59.adguard.com,CY,Cyprus,Asia,Western Asia
-87.228.186.61,4,-15641,DNS Server: buscust11-61.static.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
-93.109.244.74,4,-2148103241,DNS Server: buscust19-74.static.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
-93.109.252.238,4,83053,DNS Server: buscust28-238.static.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
-87.228.232.7,4,62648,DNS Server: buscust5-07.static.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
-93.109.243.17,4,559,DNS Server: buscust74-17.static.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
-87.228.230.243,4,169001,DNS Server: buscust75-243.static.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
-81.4.149.154,4,-6959,DNS Server: nb29-154.static.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
-81.4.149.186,4,-380,DNS Server: nb29-186.static.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
-93.109.234.70,4,179517,DNS Server: nb41-70.static.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
-93.109.228.14,4,74302,DNS Server: nb42-14.static.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
-94.140.14.140,4,756,DoH server: dns-unfiltered.adguard.com,CY,Cyprus,Asia,Western Asia
-149.100.151.86,4,4,downloadroot.com,CY,Cyprus,Asia,Western Asia
-193.140.173.247,4,1,emu.edu.tr,CY,Cyprus,Asia,Western Asia
-149.100.151.49,4,41,exeideas.com,CY,Cyprus,Asia,Western Asia
-31.22.115.180,4,1133,goulandris.gr,CY,Cyprus,Asia,Western Asia
-149.100.151.25,4,5,happilyblended.com,CY,Cyprus,Asia,Western Asia
-149.100.151.45,4,6,healthysimpleyum.com,CY,Cyprus,Asia,Western Asia
-149.100.151.197,4,11,icsve.org,CY,Cyprus,Asia,Western Asia
-38.134.113.246,4,62,ifunny.co,CY,Cyprus,Asia,Western Asia
-149.100.151.76,4,5,jaar.site,CY,Cyprus,Asia,Western Asia
-185.162.18.35,4,35,kathimerini.com.cy,CY,Cyprus,Asia,Western Asia
-50.28.1.223,4,24,leatherindia.org,CY,Cyprus,Asia,Western Asia
-149.100.151.192,4,1,madesports.net,CY,Cyprus,Asia,Western Asia
-31.22.115.162,4,4,myphone.gr,CY,Cyprus,Asia,Western Asia
-50.28.1.139,4,19,nativeconnections.org,CY,Cyprus,Asia,Western Asia
-149.100.151.32,4,3,nolvadexstart.online,CY,Cyprus,Asia,Western Asia
-82.102.79.130,4,833332,Ookla Speedtest Server 610: speedtest-node.prime-tel.com,CY,Cyprus,Asia,Western Asia
-185.216.4.1,4,332,Ookla Speedtest Server 61043: speedtest.skywisp.com.cy,CY,Cyprus,Asia,Western Asia
-195.14.142.1,4,186,Ookla Speedtest Server: speedtest.cytanet.com.cy,CY,Cyprus,Asia,Western Asia
-213.140.208.247,4,106,Ookla Speedtest Server: speedtest.nic-west.cy.cablenetcy.net,CY,Cyprus,Asia,Western Asia
-149.100.151.178,4,4,pacuarelodge.com,CY,Cyprus,Asia,Western Asia
-85.190.230.243,4,5,pobedavkusa.com,CY,Cyprus,Asia,Western Asia
-50.28.1.193,4,53,productelectricity.com,CY,Cyprus,Asia,Western Asia
-149.100.151.163,4,83,requnix.com,CY,Cyprus,Asia,Western Asia
-149.100.151.143,4,30,saasnovas.com,CY,Cyprus,Asia,Western Asia
-185.169.54.26,4,7,sapphirehairclinic.com,CY,Cyprus,Asia,Western Asia
-50.28.1.57,4,939,savannahcitymarket.com,CY,Cyprus,Asia,Western Asia
-195.14.137.4,4,5,schools.ac.cy,CY,Cyprus,Asia,Western Asia
-149.100.151.5,4,3,swayycases.com,CY,Cyprus,Asia,Western Asia
-149.100.151.79,4,103,technologynos.com,CY,Cyprus,Asia,Western Asia
-149.100.151.168,4,65,techwildcatters.com,CY,Cyprus,Asia,Western Asia
-149.100.151.247,4,20,travelcarma.com,CY,Cyprus,Asia,Western Asia
-149.100.151.35,4,3,tribunefox.com,CY,Cyprus,Asia,Western Asia
-149.100.151.22,4,11,twollow.com,CY,Cyprus,Asia,Western Asia
-31.22.115.178,4,826,vikoswater.gr,CY,Cyprus,Asia,Western Asia
-149.100.151.119,4,7,vwbblog.com,CY,Cyprus,Asia,Western Asia
-149.100.151.142,4,4,warsawuprising.org,CY,Cyprus,Asia,Western Asia
-149.100.151.152,4,6,wellnessproposals.com,CY,Cyprus,Asia,Western Asia
-149.100.151.58,4,8,wifiwavlink.net,CY,Cyprus,Asia,Western Asia
-149.100.151.53,4,5,xn--vsrolnijogostvnyt-6obbm3w.com,CY,Cyprus,Asia,Western Asia
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+153.92.0.100,4,4,000webhostapp.com,CY,Asia,Western Asia,Cyprus,,,
+185.162.18.37,4,9,24sports.com.cy,CY,Asia,Western Asia,Cyprus,Limassol District,,Limassol
+94.140.15.15,4,337,AdGuard 2,CY,Asia,Western Asia,Cyprus,,,
+94.140.14.141,4,233,AdGuard Unfiltered 2,CY,Asia,Western Asia,Cyprus,,,
+213.169.148.156,4,1459,aphroditehills.com,CY,Asia,Western Asia,Cyprus,Pafos,,Paphos
+2.56.126.145,4,21,bloom-consulting.com,CY,Asia,Western Asia,Cyprus,,,
+93.109.224.45,4,5,cfa.com.cy,CY,Asia,Western Asia,Cyprus,,,
+164.138.99.254,4,16,creagames.com,CY,Asia,Western Asia,Cyprus,,,
+78.135.36.153,4,51,DNS Server: 78-135-36-153.extendbroadband.com,CY,Asia,Western Asia,Cyprus,Nicosia,,Nicosia
+78.135.60.109,4,-4439,DNS Server: 78-135-60-109.extendbroadband.com,CY,Asia,Western Asia,Cyprus,Keryneia,,Kyrenia
+78.135.61.166,4,12,DNS Server: 78-135-61-166.extendbroadband.com,CY,Asia,Western Asia,Cyprus,Keryneia,,Kyrenia
+78.135.61.2,4,153,DNS Server: 78-135-61-2.extendbroadband.com,CY,Asia,Western Asia,Cyprus,Keryneia,,Kyrenia
+94.140.14.59,4,336,DNS Server: 94-140-14-59.adguard.com,CY,Asia,Western Asia,Cyprus,,,
+2.56.173.249,4,64,DNS Server: anime.tm-webtoon.ru,CY,Asia,Western Asia,Cyprus,,,
+87.228.186.61,4,-15641,DNS Server: buscust11-61.static.cytanet.com.cy,CY,Asia,Western Asia,Cyprus,Limassol District,,Limassol
+93.109.244.74,4,-2148103241,DNS Server: buscust19-74.static.cytanet.com.cy,CY,Asia,Western Asia,Cyprus,Nicosia,,Nicosia
+93.109.252.238,4,83053,DNS Server: buscust28-238.static.cytanet.com.cy,CY,Asia,Western Asia,Cyprus,Nicosia,,Nicosia
+87.228.232.7,4,62648,DNS Server: buscust5-07.static.cytanet.com.cy,CY,Asia,Western Asia,Cyprus,Limassol District,,Limassol
+93.109.243.17,4,559,DNS Server: buscust74-17.static.cytanet.com.cy,CY,Asia,Western Asia,Cyprus,Nicosia,,Nicosia
+87.228.230.243,4,169001,DNS Server: buscust75-243.static.cytanet.com.cy,CY,Asia,Western Asia,Cyprus,Limassol District,,Limassol
+81.4.149.154,4,-6959,DNS Server: nb29-154.static.cytanet.com.cy,CY,Asia,Western Asia,Cyprus,Limassol District,,Limassol
+81.4.149.186,4,-380,DNS Server: nb29-186.static.cytanet.com.cy,CY,Asia,Western Asia,Cyprus,Limassol District,,Limassol
+93.109.234.70,4,179517,DNS Server: nb41-70.static.cytanet.com.cy,CY,Asia,Western Asia,Cyprus,Larnaka,,Larnaca
+93.109.228.14,4,74302,DNS Server: nb42-14.static.cytanet.com.cy,CY,Asia,Western Asia,Cyprus,Limassol District,,Limassol
+94.140.14.140,4,756,DoH server: dns-unfiltered.adguard.com,CY,Asia,Western Asia,Cyprus,,,
+212.108.143.183,4,4,eul.edu.tr,CY,Asia,Western Asia,Cyprus,Nicosia,,Nicosia
+185.5.72.151,4,6,fotocdn.net,CY,Asia,Western Asia,Cyprus,,,
+185.5.72.150,4,29,fotocdn.net,CY,Asia,Western Asia,Cyprus,,,
+91.92.144.116,4,6,hostingkartinok.com,CY,Asia,Western Asia,Cyprus,,,
+185.8.182.17,4,-13,inlinetelecom.ru,CY,Asia,Western Asia,Cyprus,,,
+185.162.18.35,4,35,kathimerini.com.cy,CY,Asia,Western Asia,Cyprus,Limassol District,,Limassol
+194.145.202.235,4,5,megogo.net,CY,Asia,Western Asia,Cyprus,,,
+194.145.202.234,4,6,megogo.net,CY,Asia,Western Asia,Cyprus,,,
+194.145.202.236,4,4,megogo.net,CY,Asia,Western Asia,Cyprus,,,
+194.145.202.238,4,5,megogo.net,CY,Asia,Western Asia,Cyprus,,,
+185.141.63.212,4,38,norbits.net,CY,Asia,Western Asia,Cyprus,,,
+82.102.79.130,4,833332,Ookla Speedtest Server 610: speedtest-node.prime-tel.com,CY,Asia,Western Asia,Cyprus,,,
+185.216.4.1,4,332,Ookla Speedtest Server 61043: speedtest.skywisp.com.cy,CY,Asia,Western Asia,Cyprus,Larnaka,,Larnaca
+195.14.142.1,4,186,Ookla Speedtest Server: speedtest.cytanet.com.cy,CY,Asia,Western Asia,Cyprus,Nicosia,,Ayios Dhometios
+213.140.208.247,4,106,Ookla Speedtest Server: speedtest.nic-west.cy.cablenetcy.net,CY,Asia,Western Asia,Cyprus,Limassol District,,Limassol
+85.190.230.243,4,5,pobedavkusa.com,CY,Asia,Western Asia,Cyprus,Nicosia,,Nicosia
+195.14.137.4,4,5,schools.ac.cy,CY,Asia,Western Asia,Cyprus,Nicosia,,Ayios Dhometios
+185.173.157.32,4,19,socialnye-apteki.ru,CY,Asia,Western Asia,Cyprus,Nicosia,,Nicosia
+153.92.2.7,4,10,xn--55qur08bh1p94vtmb65ot82b.top,CY,Asia,Western Asia,Cyprus,,,

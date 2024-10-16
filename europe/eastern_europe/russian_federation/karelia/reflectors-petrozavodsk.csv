@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+78.36.40.0,4,41636,DNS Server: ip78-36-40-0.onego.ru,RU,Europe,Eastern Europe,Russian Federation,Karelia,,Petrozavodsk
+78.36.40.68,4,1248,DNS Server: ip78-36-40-68.onego.ru,RU,Europe,Eastern Europe,Russian Federation,Karelia,,Petrozavodsk
+94.143.244.229,4,66166,DNS Server: ip94-143-244-229.sampo.ru,RU,Europe,Eastern Europe,Russian Federation,Karelia,,Petrozavodsk

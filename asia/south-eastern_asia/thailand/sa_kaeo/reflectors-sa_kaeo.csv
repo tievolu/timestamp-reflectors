@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+1.1.248.65,4,134,DNS Server: node-nr5.pool-1-1.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Sa Kaeo,,Sa Kaeo
+1.1.248.217,4,47,DNS Server: node-nvd.pool-1-1.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Sa Kaeo,,Sa Kaeo
+1.1.254.53,4,-2144,DNS Server: node-oxh.pool-1-1.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Sa Kaeo,,Sa Kaeo

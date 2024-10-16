@@ -1,16 +1,15 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-200.87.100.10,4,7178971,DNS Server: dns.entelnet.bo,BO,Bolivia,Americas,Latin America and the Caribbean
-190.171.219.92,4,-5233,DNS Server: ip-adsl-190.171.219.92.cotas.com.bo,BO,Bolivia,Americas,Latin America and the Caribbean
-177.222.32.33,4,58,DNS Server: SCZ-177-222-32-00033.tigo.bo,BO,Bolivia,Americas,Latin America and the Caribbean
-177.222.42.118,4,73,DNS Server: SCZ-177-222-42-00118.tigo.bo,BO,Bolivia,Americas,Latin America and the Caribbean
-45.225.75.2,4,2353657,herman-brule.com,BO,Bolivia,Americas,Latin America and the Caribbean
-200.75.160.25,4,88,megalink.com,BO,Bolivia,Americas,Latin America and the Caribbean
-166.114.1.28,4,6,nic.bo,BO,Bolivia,Americas,Latin America and the Caribbean
-108.163.222.234,4,738,okumchistory.wiki,BO,Bolivia,Americas,Latin America and the Caribbean
-200.58.73.25,4,296,Ookla Speedtest Server 6235: speed.supernet.com.bo,BO,Bolivia,Americas,Latin America and the Caribbean
-187.102.200.10,4,-275068,Ookla Speedtest Server 48822: speedtest.toi.bo,BO,Bolivia,Americas,Latin America and the Caribbean
-45.183.187.38,4,218,Ookla Speedtest Server 55277: speedtest.vistanet.com.bo,BO,Bolivia,Americas,Latin America and the Caribbean
-190.211.224.39,4,292,Ookla Speedtest Server: digital.bo,BO,Bolivia,Americas,Latin America and the Caribbean
-200.75.160.17,4,34,reinekefuchs.com,BO,Bolivia,Americas,Latin America and the Caribbean
-200.7.160.59,4,-508165,scielo.org.bo,BO,Bolivia,Americas,Latin America and the Caribbean
-200.7.161.56,4,5922,umsa.bo,BO,Bolivia,Americas,Latin America and the Caribbean
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+200.87.100.10,4,7178971,DNS Server: dns.entelnet.bo,BO,Americas,Latin America and the Caribbean,Bolivia,Departamento de Cochabamba,,Cochabamba
+190.171.219.92,4,-5233,DNS Server: ip-adsl-190.171.219.92.cotas.com.bo,BO,Americas,Latin America and the Caribbean,Bolivia,Santa Cruz Department,,Santa Cruz
+177.222.32.33,4,58,DNS Server: SCZ-177-222-32-00033.tigo.bo,BO,Americas,Latin America and the Caribbean,Bolivia,Santa Cruz Department,,Santa Cruz
+177.222.42.118,4,73,DNS Server: SCZ-177-222-42-00118.tigo.bo,BO,Americas,Latin America and the Caribbean,Bolivia,Santa Cruz Department,,Santa Cruz
+45.225.75.2,4,2353657,herman-brule.com,BO,Americas,Latin America and the Caribbean,Bolivia,Santa Cruz Department,,Santa Cruz
+200.75.160.25,4,88,megalink.com,BO,Americas,Latin America and the Caribbean,Bolivia,La Paz Department,,La Paz
+166.114.1.28,4,6,nic.bo,BO,Americas,Latin America and the Caribbean,Bolivia,,,
+200.58.73.25,4,296,Ookla Speedtest Server 6235: speed.supernet.com.bo,BO,Americas,Latin America and the Caribbean,Bolivia,Departamento de Cochabamba,,Cochabamba
+187.102.200.10,4,-275068,Ookla Speedtest Server 48822: speedtest.toi.bo,BO,Americas,Latin America and the Caribbean,Bolivia,,,
+45.183.187.38,4,218,Ookla Speedtest Server 55277: speedtest.vistanet.com.bo,BO,Americas,Latin America and the Caribbean,Bolivia,La Paz Department,,La Paz
+190.211.224.39,4,292,Ookla Speedtest Server: digital.bo,BO,Americas,Latin America and the Caribbean,Bolivia,Santa Cruz Department,,Santa Cruz
+200.75.160.17,4,34,reinekefuchs.com,BO,Americas,Latin America and the Caribbean,Bolivia,La Paz Department,,La Paz
+200.7.160.59,4,-508165,scielo.org.bo,BO,Americas,Latin America and the Caribbean,Bolivia,La Paz Department,,La Paz
+200.7.161.56,4,5922,umsa.bo,BO,Americas,Latin America and the Caribbean,Bolivia,La Paz Department,,La Paz

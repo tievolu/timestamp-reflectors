@@ -1,16 +1,40 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-197.155.92.20,4,-2,DNS Server: 197.155.92.20.liquidtelecom.net,MU,Mauritius,Africa,Sub-Saharan Africa
-197.155.92.21,4,-4,DNS Server: 197.155.92.21.liquidtelecom.net,MU,Mauritius,Africa,Sub-Saharan Africa
-41.72.216.234,4,101341,DNS Server: 41.72.216.234.liquidtelecom.net,MU,Mauritius,Africa,Sub-Saharan Africa
-41.218.114.72,4,30,DNS Server: c19137.cust.ao.afrisp.net,MU,Mauritius,Africa,Sub-Saharan Africa
-41.204.224.38,4,-10866460,DNS Server: ns2.directontv.com,MU,Mauritius,Africa,Sub-Saharan Africa
-102.222.106.87,4,-42,lexpress.mu,MU,Mauritius,Africa,Sub-Saharan Africa
-102.222.106.88,4,10,lexpress.mu,MU,Mauritius,Africa,Sub-Saharan Africa
-102.222.106.220,4,4,msaw-mu.org,MU,Mauritius,Africa,Sub-Saharan Africa
-102.163.100.29,4,418,Ookla Speedtest Server 13766: speedtest-asn-10g.emtelnet.com,MU,Mauritius,Africa,Sub-Saharan Africa
-102.163.100.2,4,316,Ookla Speedtest Server 24020: speedtest-bdr-10g.emtelnet.com,MU,Mauritius,Africa,Sub-Saharan Africa
-102.222.106.253,4,258,Ookla Speedtest Server 44697: speedtest-mu1.cloud.mu,MU,Mauritius,Africa,Sub-Saharan Africa
-102.163.100.58,4,206,Ookla Speedtest Server 63399: speedtest-rod-10g.emtelnet.com,MU,Mauritius,Africa,Sub-Saharan Africa
-41.160.0.40,4,293,Ookla Speedtest Server: speedtest.neotel.co.za,MU,Mauritius,Africa,Sub-Saharan Africa
-196.216.56.162,4,132,Ookla Speedtest Server: speedtest.paratus.ao,MU,Mauritius,Africa,Sub-Saharan Africa
-54.39.35.48,4,17,ultras-tifo.net,MU,Mauritius,Africa,Sub-Saharan Africa
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+45.207.34.18,4,26,360123.com,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.207.214.50,4,3,63game.top,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.207.103.31,4,-28741907,80068.net,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.195.74.117,4,745,c-fol.net,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.205.195.243,4,-3,cqhys.cn,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.207.102.33,4,-28741809,cupcc.com,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.207.99.79,4,-22681,dec360.com,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+196.201.228.22,4,1274,DNS Server: 196.201.228.22.liquidtelecom.net,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+41.204.224.38,4,-10866460,DNS Server: ns2.directontv.com,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.207.98.81,4,-22679,fzshuangli.com,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.207.102.32,4,-28741920,hengzhengjiaoyu.com,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.205.194.45,4,2,jixietongmeng.com,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.195.85.185,4,39068,juyouxi.com,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.205.194.53,4,3,jyxoc.com,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.205.201.34,4,18,kpsjdj.com,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+102.222.106.87,4,-42,lexpress.mu,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+102.222.106.88,4,10,lexpress.mu,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.205.201.55,4,8,lsstnz.com,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.207.52.145,4,24,maidikang.net,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.205.213.79,4,2440,mascsj.cn,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.207.102.35,4,-28741911,meilijilin.com,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+102.222.106.220,4,4,msaw-mu.org,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.207.68.253,4,-28801048,nfwplus.com,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.195.122.34,4,8,njhxktwx.com,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.207.55.210,4,745,okzoz.com,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+102.163.100.29,4,418,Ookla Speedtest Server 13766: speedtest-asn-10g.emtelnet.com,MU,Africa,Sub-Saharan Africa,Mauritius,Pamplemousses District,,Arsenal
+102.163.100.2,4,316,Ookla Speedtest Server 24020: speedtest-bdr-10g.emtelnet.com,MU,Africa,Sub-Saharan Africa,Mauritius,Port Louis District,,Port Louis
+102.222.106.253,4,258,Ookla Speedtest Server 44697: speedtest-mu1.cloud.mu,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+102.163.100.58,4,206,Ookla Speedtest Server 63399: speedtest-rod-10g.emtelnet.com,MU,Africa,Sub-Saharan Africa,Mauritius,Port Louis District,,Port Louis
+41.77.145.34,4,-2143459107,parliament.gov.zm,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.207.43.134,4,55,preciousmetal.com.cn,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.207.120.89,4,155487,ricwutqirksas.com,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.207.47.31,4,238,txmoli.com,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.207.122.75,4,155471,w2le.com,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.207.59.183,4,1488,xjauto.net,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.207.199.72,4,16,xlou.net,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.195.124.44,4,-13,yldnpx.com,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.207.102.34,4,-28741966,yxmoyu.com,MU,Africa,Sub-Saharan Africa,Mauritius,,,
+45.207.58.234,4,26,yxssp.com,MU,Africa,Sub-Saharan Africa,Mauritius,,,

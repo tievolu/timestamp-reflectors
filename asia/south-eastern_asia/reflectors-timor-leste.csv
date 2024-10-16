@@ -1,3 +1,4 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-180.189.167.93,4,0,mj.gov.tl,TL,Timor-Leste,Asia,South-eastern Asia
-43.243.120.17,4,149,Ookla Speedtest Server: speedtest.telemor.tl,TL,Timor-Leste,Asia,South-eastern Asia
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+180.189.167.93,4,0,mj.gov.tl,TL,Asia,South-eastern Asia,Timor-Leste,Dili Municipality,,Dili
+43.243.120.17,4,149,Ookla Speedtest Server: speedtest.telemor.tl,TL,Asia,South-eastern Asia,Timor-Leste,,,
+150.242.111.91,4,1,tatoli.tl,TL,Asia,South-eastern Asia,Timor-Leste,,,

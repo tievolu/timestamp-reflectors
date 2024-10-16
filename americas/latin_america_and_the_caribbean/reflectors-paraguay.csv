@@ -1,39 +1,39 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-200.10.231.110,4,50086,Centro Nacional de Computacion,PY,Paraguay,Americas,Latin America and the Caribbean
-201.217.49.202,4,35,conacyt.gov.py,PY,Paraguay,Americas,Latin America and the Caribbean
-200.108.134.242,4,18,conacyt.gov.py,PY,Paraguay,Americas,Latin America and the Caribbean
-143.202.210.232,4,12338730,DNS Server: 143-202-210-232.neo.com.py,PY,Paraguay,Americas,Latin America and the Caribbean
-143.255.140.108,4,129,DNS Server: 143-255-140-108.giganet.net.py,PY,Paraguay,Americas,Latin America and the Caribbean
-143.255.140.162,4,1480,DNS Server: 143-255-140-162.giganet.net.py,PY,Paraguay,Americas,Latin America and the Caribbean
-143.255.140.19,4,5441,DNS Server: 143-255-140-19.giganet.net.py,PY,Paraguay,Americas,Latin America and the Caribbean
-143.255.140.200,4,264,DNS Server: 143-255-140-200.giganet.net.py,PY,Paraguay,Americas,Latin America and the Caribbean
-190.93.176.126,4,67,DNS Server: 190-93-176-126.linktelecom.com.py,PY,Paraguay,Americas,Latin America and the Caribbean
-190.104.180.216,4,27,DNS Server: 190.104.130.216.host.personal.net.py,PY,Paraguay,Americas,Latin America and the Caribbean
-181.78.94.222,4,-3890,DNS Server: 222.94.78.181.ufinet.com.py,PY,Paraguay,Americas,Latin America and the Caribbean
-45.184.111.70,4,-3024,DNS Server: 45-184-111-70.wind.net.py,PY,Paraguay,Americas,Latin America and the Caribbean
-190.104.148.12,4,-69097,DNS Server: host-12.personal.com.py,PY,Paraguay,Americas,Latin America and the Caribbean
-181.94.245.137,4,9,DNS Server: host-137.181-94-245.personal.net.py,PY,Paraguay,Americas,Latin America and the Caribbean
-190.104.173.150,4,424,DNS Server: host-150.personal.com.py,PY,Paraguay,Americas,Latin America and the Caribbean
-181.94.247.163,4,2124,DNS Server: host-163.181-94-247.personal.net.py,PY,Paraguay,Americas,Latin America and the Caribbean
-201.217.49.194,4,3,DNS Server: host-194.49.217.201.copaco.com.py,PY,Paraguay,Americas,Latin America and the Caribbean
-201.217.12.212,4,27,DNS Server: host-212.12.217.201.copaco.com.py,PY,Paraguay,Americas,Latin America and the Caribbean
-190.52.129.39,4,45958,DNS Server: host-39.129.52.190.copaco.com.py,PY,Paraguay,Americas,Latin America and the Caribbean
-190.128.235.6,4,-5680968,fundacionparaguaya.org.py,PY,Paraguay,Americas,Latin America and the Caribbean
-168.90.177.104,4,32,ip.gov.py,PY,Paraguay,Americas,Latin America and the Caribbean
-201.217.49.102,4,56,meteorologia.gov.py,PY,Paraguay,Americas,Latin America and the Caribbean
-168.90.177.101,4,11,mitic.gov.py,PY,Paraguay,Americas,Latin America and the Caribbean
-201.217.49.2,4,-2142242586,mopc.gov.py,PY,Paraguay,Americas,Latin America and the Caribbean
-45.191.91.12,4,137,Ookla Speedtest Server 16087: velocidad.plus.net.py,PY,Paraguay,Americas,Latin America and the Caribbean
-45.228.60.6,4,381,Ookla Speedtest Server 17822: speedtest.fila.net.py,PY,Paraguay,Americas,Latin America and the Caribbean
-138.59.226.13,4,317,Ookla Speedtest Server 60769: speedtest.startpy.com.py,PY,Paraguay,Americas,Latin America and the Caribbean
-181.78.27.165,4,6842,Ookla Speedtest Server 64058: speedtestvcc.amacom.com.ar,PY,Paraguay,Americas,Latin America and the Caribbean
-138.59.225.106,4,304,Ookla Speedtest Server 64575: speedtest.grupodamoa.com.py,PY,Paraguay,Americas,Latin America and the Caribbean
-37.230.59.58,4,229,Ookla Speedtest Server: speedtest.pa-networks.net.py,PY,Paraguay,Americas,Latin America and the Caribbean
-45.238.38.14,4,46802,Ookla Speedtest Server: speedtest.sfanetwork.com.py,PY,Paraguay,Americas,Latin America and the Caribbean
-181.78.94.150,4,55,Ookla Speedtest Server: speedtest.wizzi.com.py,PY,Paraguay,Americas,Latin America and the Caribbean
-201.222.53.89,4,529291,salesianito.edu.py,PY,Paraguay,Americas,Latin America and the Caribbean
-168.90.177.103,4,37,senacsa.gov.py,PY,Paraguay,Americas,Latin America and the Caribbean
-168.90.177.228,4,25,senatur.gov.py,PY,Paraguay,Americas,Latin America and the Caribbean
-201.222.48.206,4,11,TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A) 1,PY,Paraguay,Americas,Latin America and the Caribbean
-201.222.50.30,4,50,TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A) 2,PY,Paraguay,Americas,Latin America and the Caribbean
-186.16.16.100,4,23,tigo.com.py,PY,Paraguay,Americas,Latin America and the Caribbean
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+200.10.231.110,4,50086,Centro Nacional de Computacion,PY,Americas,Latin America and the Caribbean,Paraguay,Central Department,,San Lorenzo
+201.217.49.202,4,35,conacyt.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+200.108.134.242,4,18,conacyt.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+143.202.210.232,4,12338730,DNS Server: 143-202-210-232.neo.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+143.255.140.108,4,129,DNS Server: 143-255-140-108.giganet.net.py,PY,Americas,Latin America and the Caribbean,Paraguay,Departamento del Alto Paraná,,Ciudad del Este
+143.255.140.162,4,1480,DNS Server: 143-255-140-162.giganet.net.py,PY,Americas,Latin America and the Caribbean,Paraguay,Departamento del Alto Paraná,,Ciudad del Este
+143.255.140.19,4,5441,DNS Server: 143-255-140-19.giganet.net.py,PY,Americas,Latin America and the Caribbean,Paraguay,Departamento del Alto Paraná,,Ciudad del Este
+143.255.140.200,4,264,DNS Server: 143-255-140-200.giganet.net.py,PY,Americas,Latin America and the Caribbean,Paraguay,Departamento del Alto Paraná,,Ciudad del Este
+190.93.176.126,4,67,DNS Server: 190-93-176-126.linktelecom.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Departamento del Alto Paraná,,Ciudad del Este
+190.104.180.216,4,27,DNS Server: 190.104.130.216.host.personal.net.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+181.78.94.222,4,-3890,DNS Server: 222.94.78.181.ufinet.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+45.184.111.70,4,-3024,DNS Server: 45-184-111-70.wind.net.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+190.104.148.12,4,-69097,DNS Server: host-12.personal.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+181.94.245.137,4,9,DNS Server: host-137.181-94-245.personal.net.py,PY,Americas,Latin America and the Caribbean,Paraguay,,,
+190.104.173.150,4,424,DNS Server: host-150.personal.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Central Department,,Fernando de la Mora
+181.94.247.163,4,2124,DNS Server: host-163.181-94-247.personal.net.py,PY,Americas,Latin America and the Caribbean,Paraguay,,,
+201.217.49.194,4,3,DNS Server: host-194.49.217.201.copaco.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+201.217.12.212,4,27,DNS Server: host-212.12.217.201.copaco.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,,,
+190.52.129.39,4,45958,DNS Server: host-39.129.52.190.copaco.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+190.128.235.6,4,-5680968,fundacionparaguaya.org.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+168.90.177.104,4,32,ip.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,,,
+201.217.49.102,4,56,meteorologia.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+168.90.177.101,4,11,mitic.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,,,
+201.217.49.2,4,-2142242586,mopc.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+45.191.91.12,4,137,Ookla Speedtest Server 16087: velocidad.plus.net.py,PY,Americas,Latin America and the Caribbean,Paraguay,Canindeyú,,Salto del Guairá
+45.228.60.6,4,381,Ookla Speedtest Server 17822: speedtest.fila.net.py,PY,Americas,Latin America and the Caribbean,Paraguay,Departamento de Boquerón,,Filadelfia
+138.59.226.13,4,317,Ookla Speedtest Server 60769: speedtest.startpy.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Departamento del Alto Paraná,,Ciudad del Este
+181.78.27.165,4,6842,Ookla Speedtest Server 64058: speedtestvcc.amacom.com.ar,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+138.59.225.106,4,304,Ookla Speedtest Server 64575: speedtest.grupodamoa.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Departamento del Alto Paraná,,Ciudad del Este
+37.230.59.58,4,229,Ookla Speedtest Server: speedtest.pa-networks.net.py,PY,Americas,Latin America and the Caribbean,Paraguay,Central Department,,Ypacarai
+45.238.38.14,4,46802,Ookla Speedtest Server: speedtest.sfanetwork.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Amambay Department,,Pedro Juan Caballero
+181.78.94.150,4,55,Ookla Speedtest Server: speedtest.wizzi.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+201.222.53.89,4,529291,salesianito.edu.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+168.90.177.103,4,37,senacsa.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,,,
+168.90.177.228,4,25,senatur.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,,,
+201.222.48.206,4,11,TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A) 1,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+201.222.50.30,4,50,TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A) 2,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+186.16.16.100,4,23,tigo.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Central Department,,Lambaré

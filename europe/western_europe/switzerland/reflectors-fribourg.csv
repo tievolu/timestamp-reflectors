@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+85.90.9.166,4,17,DNS Server: 166.9.90.85.static.netplusfr.net,CH,Europe,Western Europe,Switzerland,Fribourg,,Fribourg
+37.35.106.20,4,48,getfiregpg.org,CH,Europe,Western Europe,Switzerland,Fribourg,,Cousset
+213.55.192.11,4,3,salt.ch,CH,Europe,Western Europe,Switzerland,Fribourg,,Fribourg

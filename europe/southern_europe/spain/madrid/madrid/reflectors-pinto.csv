@@ -1,0 +1,3 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+195.55.212.2,4,17,DNS Server: 2.red-195-55-212.customer.static.ccgg.telefonica.net,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Pinto
+195.55.212.6,4,10,DNS Server: 6.red-195-55-212.customer.static.ccgg.telefonica.net,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Pinto

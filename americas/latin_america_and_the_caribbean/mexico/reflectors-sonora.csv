@@ -1,0 +1,5 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+177.247.0.122,4,16,DNS Server: customer-HMO-MCA-0-122.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Hermosillo
+177.241.245.70,4,2266,DNS Server: customer-MCA-STAA-245-70.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Santa Ana Viejo
+45.174.70.10,4,327930,DNS Server: nav.index.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Ciudad Obregón
+187.244.10.3,4,349,Ookla Speedtest Server 61169: speedtest.slrc.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,San Luis Río Colorado

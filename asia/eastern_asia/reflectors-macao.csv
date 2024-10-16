@@ -1,14 +1,14 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-202.175.45.2,4,254,DNS Server: ml310.redcross.org.mo,MO,Macao,Asia,Eastern Asia
-125.31.37.250,4,-28799790,DNS Server: n12531z37l250.static.ctmip.net,MO,Macao,Asia,Eastern Asia
-182.93.14.178,4,254,DNS Server: n18293z14l178.static.ctmip.net,MO,Macao,Asia,Eastern Asia
-182.93.23.130,4,68,DNS Server: n18293z23l130.static.ctmip.net,MO,Macao,Asia,Eastern Asia
-182.93.25.100,4,45,DNS Server: n18293z25l100.static.ctmip.net,MO,Macao,Asia,Eastern Asia
-182.93.25.98,4,194,DNS Server: n18293z25l98.static.ctmip.net,MO,Macao,Asia,Eastern Asia
-202.86.149.18,4,155,DNS Server: n20286z149l18.static.ctmip.net,MO,Macao,Asia,Eastern Asia
-202.86.149.20,4,58,DNS Server: n20286z149l20.static.ctmip.net,MO,Macao,Asia,Eastern Asia
-202.86.191.50,4,210,DNS Server: n20286z191l50.static.ctmip.net,MO,Macao,Asia,Eastern Asia
-103.237.126.4,4,234730,DNS Server: ns06.mtel.mo,MO,Macao,Asia,Eastern Asia
-103.237.124.66,4,8,mjc.mo,MO,Macao,Asia,Eastern Asia
-103.237.125.228,4,288,Ookla Speedtest Server 57572: speedtest2.mtel.mo,MO,Macao,Asia,Eastern Asia
-125.31.3.129,4,9,temple.mo,MO,Macao,Asia,Eastern Asia
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+202.175.45.2,4,254,DNS Server: ml310.redcross.org.mo,MO,Asia,Eastern Asia,Macao,,,Macao
+125.31.37.250,4,-28799790,DNS Server: n12531z37l250.static.ctmip.net,MO,Asia,Eastern Asia,Macao,,,Macao
+182.93.14.178,4,254,DNS Server: n18293z14l178.static.ctmip.net,MO,Asia,Eastern Asia,Macao,,,Macao
+182.93.23.130,4,68,DNS Server: n18293z23l130.static.ctmip.net,MO,Asia,Eastern Asia,Macao,,,Macao
+182.93.25.100,4,45,DNS Server: n18293z25l100.static.ctmip.net,MO,Asia,Eastern Asia,Macao,,,Macao
+182.93.25.98,4,194,DNS Server: n18293z25l98.static.ctmip.net,MO,Asia,Eastern Asia,Macao,,,Macao
+202.86.149.18,4,155,DNS Server: n20286z149l18.static.ctmip.net,MO,Asia,Eastern Asia,Macao,,,Macao
+202.86.149.20,4,58,DNS Server: n20286z149l20.static.ctmip.net,MO,Asia,Eastern Asia,Macao,,,Macao
+202.86.191.50,4,210,DNS Server: n20286z191l50.static.ctmip.net,MO,Asia,Eastern Asia,Macao,,,Macao
+103.237.126.4,4,234730,DNS Server: ns06.mtel.mo,MO,Asia,Eastern Asia,Macao,,,
+103.237.124.66,4,8,mjc.mo,MO,Asia,Eastern Asia,Macao,,,
+103.237.125.228,4,288,Ookla Speedtest Server 57572: speedtest2.mtel.mo,MO,Asia,Eastern Asia,Macao,,,
+125.31.3.129,4,9,temple.mo,MO,Asia,Eastern Asia,Macao,,,Macao

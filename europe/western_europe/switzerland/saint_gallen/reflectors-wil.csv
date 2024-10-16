@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+130.59.31.248,4,15,SWITCH 1,CH,Europe,Western Europe,Switzerland,Saint Gallen,,Wil
+130.59.31.251,4,14,SWITCH 2,CH,Europe,Western Europe,Switzerland,Saint Gallen,,Wil
+130.59.31.80,4,26,switch.ch,CH,Europe,Western Europe,Switzerland,Saint Gallen,,Wil

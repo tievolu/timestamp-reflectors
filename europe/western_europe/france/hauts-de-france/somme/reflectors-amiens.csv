@@ -1,0 +1,5 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+81.250.56.13,4,1340,DNS Server: lfbn-ami-1-465-13.w81-250.abo.wanadoo.fr,FR,Europe,Western Europe,France,Hauts-de-France,Somme,Amiens
+86.192.83.243,4,-3568,DNS Server: lfbn-ami-1-623-243.w86-192.abo.wanadoo.fr,FR,Europe,Western Europe,France,Hauts-de-France,Somme,Amiens
+194.254.129.22,4,37,univ-lille.fr,FR,Europe,Western Europe,France,Hauts-de-France,Somme,Amiens
+194.254.129.23,4,2,univ-lille.fr,FR,Europe,Western Europe,France,Hauts-de-France,Somme,Amiens

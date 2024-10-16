@@ -1,4 +1,4 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-196.223.151.15,4,346,Ookla Speedtest Server 32501: speed.insistnet.gm,GM,Gambia,Africa,Sub-Saharan Africa
-41.76.8.15,4,285,Ookla Speedtest Server 60380: speedtest.unique.gm,GM,Gambia,Africa,Sub-Saharan Africa
-196.46.232.4,4,11,statehouse.gm,GM,Gambia,Africa,Sub-Saharan Africa
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+196.223.151.15,4,346,Ookla Speedtest Server 32501: speed.insistnet.gm,GM,Africa,Sub-Saharan Africa,Gambia,,,
+41.76.8.15,4,285,Ookla Speedtest Server 60380: speedtest.unique.gm,GM,Africa,Sub-Saharan Africa,Gambia,,,
+196.46.232.4,4,11,statehouse.gm,GM,Africa,Sub-Saharan Africa,Gambia,,,

@@ -1,31 +1,31 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-80.65.85.148,4,5,dmservice.com.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-77.77.212.234,4,-5302,DNS Server: b2b-77-77-212-234.static.telemach.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-77.77.215.98,4,10955,DNS Server: b2b-77-77-215-98.static.telemach.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-195.222.45.135,4,-53689069,DNS Server: dlp-135.as54.ze-old.bih.net.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-80.65.70.1,4,7,DNS Server: dlp-c-1.as58.ob.bih.net.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-45.156.250.107,4,5,fbihvlada.gov.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.99.1.232,4,6,fhmzbih.gov.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.212.108.2,4,3,hrsvijet.net,BA,Bosnia and Herzegovina,Europe,Southern Europe
-45.156.250.10,4,5,jpautoceste.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.99.1.212,4,3330,mcm.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.212.108.195,4,4,mirvana.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.164.35.41,4,21,mozks-ksb.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-195.130.35.24,4,-19,nic.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.164.35.81,4,29,oehelp.com,BA,Bosnia and Herzegovina,Europe,Southern Europe
-195.222.38.106,4,443,Ookla Speedtest Server 1341: speedtest.bih.net.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-195.222.53.135,4,349,Ookla Speedtest Server 3886: speedtest-1.mediasky.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.212.108.65,4,6,Ookla Speedtest Server: www.missnet.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.212.108.33,4,70,paragraf.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.212.108.137,4,21,pedijatrijabambi.com,BA,Bosnia and Herzegovina,Europe,Southern Europe
-80.65.65.1,4,-3179,posta.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.99.1.85,4,45,preventiva.eu,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.99.1.230,4,67,primeessay.org,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.173.31.229,4,94,radiokameleon.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.212.108.4,4,17,rkelzas.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.164.35.72,4,19,skbosna.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-212.39.111.33,4,3,sum.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-195.130.61.199,4,34,unsa.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-80.65.66.204,4,9,untz.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.212.108.77,4,32,unvi.edu.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
-185.212.108.82,4,4,visitsarajevo.ba,BA,Bosnia and Herzegovina,Europe,Southern Europe
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+80.65.85.148,4,5,dmservice.com.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,Sarajevo Canton,Sarajevo
+77.77.212.234,4,-5302,DNS Server: b2b-77-77-212-234.static.telemach.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,Tuzla Canton,Lukavac
+77.77.215.98,4,10955,DNS Server: b2b-77-77-215-98.static.telemach.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,Sarajevo Canton,Sarajevo
+195.222.45.135,4,-53689069,DNS Server: dlp-135.as54.ze-old.bih.net.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,Sarajevo Canton,Sarajevo
+80.65.70.1,4,7,DNS Server: dlp-c-1.as58.ob.bih.net.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,Sarajevo Canton,Sarajevo
+45.156.250.107,4,5,fbihvlada.gov.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,,Novi Travnik
+185.99.1.232,4,6,fhmzbih.gov.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,,Novi Travnik
+185.212.108.2,4,3,hrsvijet.net,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,,Novi Travnik
+45.156.250.10,4,5,jpautoceste.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,,Novi Travnik
+185.99.1.212,4,3330,mcm.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,,Novi Travnik
+185.212.108.195,4,4,mirvana.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,,Novi Travnik
+185.164.35.41,4,21,mozks-ksb.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,,Novi Travnik
+195.130.35.24,4,-19,nic.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,Sarajevo Canton,Sarajevo
+185.164.35.81,4,29,oehelp.com,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,,Novi Travnik
+195.222.38.106,4,443,Ookla Speedtest Server 1341: speedtest.bih.net.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,Sarajevo Canton,Sarajevo
+195.222.53.135,4,349,Ookla Speedtest Server 3886: speedtest-1.mediasky.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,Sarajevo Canton,Sarajevo
+185.212.108.65,4,6,Ookla Speedtest Server: www.missnet.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,,Novi Travnik
+185.212.108.33,4,70,paragraf.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,,Novi Travnik
+185.212.108.137,4,21,pedijatrijabambi.com,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,,Novi Travnik
+80.65.65.1,4,-3179,posta.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,Sarajevo Canton,Sarajevo
+185.99.1.85,4,45,preventiva.eu,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,,Novi Travnik
+185.99.1.230,4,67,primeessay.org,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,,Novi Travnik
+185.173.31.229,4,94,radiokameleon.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Republika Srpska,,Banja Luka
+185.212.108.4,4,17,rkelzas.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,,Novi Travnik
+185.164.35.72,4,19,skbosna.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,,Novi Travnik
+212.39.111.33,4,3,sum.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,Canton 10,Mostar
+195.130.61.199,4,34,unsa.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,Sarajevo Canton,Sarajevo
+80.65.66.204,4,9,untz.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,Sarajevo Canton,Sarajevo
+185.212.108.77,4,32,unvi.edu.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,,Novi Travnik
+185.212.108.82,4,4,visitsarajevo.ba,BA,Europe,Southern Europe,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,,Novi Travnik

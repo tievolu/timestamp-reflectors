@@ -1,32 +1,32 @@
-reflector_ip,ip_version,offset,description,country_code,country_name,region,sub_region
-110.34.25.252,4,-3,aroundthehimalayas.com,NP,Nepal,Asia,Southern Asia
-182.93.78.44,4,-3,baahrakhari.com,NP,Nepal,Asia,Southern Asia
-202.51.74.104,4,1223,bigdigital.com.np,NP,Nepal,Asia,Southern Asia
-103.233.58.111,4,1394,cen.org.np,NP,Nepal,Asia,Southern Asia
-202.45.147.174,4,-39,dhm.gov.np,NP,Nepal,Asia,Southern Asia
-103.90.86.88,4,15815,focusnepal.com,NP,Nepal,Asia,Southern Asia
-45.115.217.213,4,-3,icimod.org,NP,Nepal,Asia,Southern Asia
-45.117.153.231,4,-35,myrepublica.com,NP,Nepal,Asia,Southern Asia
-45.115.218.170,4,-16,nagariknetwork.com,NP,Nepal,Asia,Southern Asia
-116.90.235.214,4,-19,nepalairlines.com.np,NP,Nepal,Asia,Southern Asia
-110.44.116.20,4,-17,nepalstock.com,NP,Nepal,Asia,Southern Asia
-202.70.64.2,4,-21,ntc.net.np,NP,Nepal,Asia,Southern Asia
-103.165.184.48,4,304,Ookla Speedtest Server 13917: speedn.infonetc.com.np,NP,Nepal,Asia,Southern Asia
-103.134.216.184,4,309,Ookla Speedtest Server 14297: btlspeedtest.sajilonet.com.np,NP,Nepal,Asia,Southern Asia
-103.104.28.75,4,177,Ookla Speedtest Server 19285: speed.firstlink.net.np,NP,Nepal,Asia,Southern Asia
-202.94.66.7,4,110,Ookla Speedtest Server 19356: speedtest-srv.classic.com.np,NP,Nepal,Asia,Southern Asia
-103.96.244.49,4,121,Ookla Speedtest Server 21407: speedtest.skybroadband.com.np,NP,Nepal,Asia,Southern Asia
-103.189.160.201,4,-7194,Ookla Speedtest Server 51898: speedtest.supernet.net.np,NP,Nepal,Asia,Southern Asia
-103.167.186.5,4,295,Ookla Speedtest Server 52296: speedtest.smartlinknetwork.com.np,NP,Nepal,Asia,Southern Asia
-103.74.15.163,4,-79236,Ookla Speedtest Server 53994: speedtest.dishhome.com.np,NP,Nepal,Asia,Southern Asia
-103.38.248.40,4,276,Ookla Speedtest Server 59182: speedtest.janaki.net.np,NP,Nepal,Asia,Southern Asia
-157.15.58.35,4,149,Ookla Speedtest Server 63589: spt2.globaltrading.com.np,NP,Nepal,Asia,Southern Asia
-115.187.17.95,4,-14,platform-mag.com,NP,Nepal,Asia,Southern Asia
-182.93.78.43,4,-17,shilapatra.com,NP,Nepal,Asia,Southern Asia
-103.143.211.154,4,2163206,taraair.com,NP,Nepal,Asia,Southern Asia
-202.51.82.239,4,49,techlekh.com,NP,Nepal,Asia,Southern Asia
-202.51.82.43,4,-20,thulo.com,NP,Nepal,Asia,Southern Asia
-182.93.94.212,4,578,tthimalaya.com,NP,Nepal,Asia,Southern Asia
-43.245.84.10,4,288,vianet.com.np,NP,Nepal,Asia,Southern Asia
-45.115.217.158,4,-17,yamchhetri.com,NP,Nepal,Asia,Southern Asia
-182.93.93.87,4,803,yellowpagesnepal.com,NP,Nepal,Asia,Southern Asia
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+110.34.25.252,4,-3,aroundthehimalayas.com,NP,Asia,Southern Asia,Nepal,,,
+182.93.78.44,4,-3,baahrakhari.com,NP,Asia,Southern Asia,Nepal,Bagmati Province,,Kathmandu
+202.51.74.104,4,1223,bigdigital.com.np,NP,Asia,Southern Asia,Nepal,,,
+103.233.58.111,4,1394,cen.org.np,NP,Asia,Southern Asia,Nepal,,,
+202.45.147.174,4,-39,dhm.gov.np,NP,Asia,Southern Asia,Nepal,,,
+103.90.86.88,4,15815,focusnepal.com,NP,Asia,Southern Asia,Nepal,,,
+45.115.217.213,4,-3,icimod.org,NP,Asia,Southern Asia,Nepal,,,
+45.117.153.231,4,-35,myrepublica.com,NP,Asia,Southern Asia,Nepal,Bagmati Province,,Kathmandu
+45.115.218.170,4,-16,nagariknetwork.com,NP,Asia,Southern Asia,Nepal,,,
+116.90.235.214,4,-19,nepalairlines.com.np,NP,Asia,Southern Asia,Nepal,,,
+110.44.116.20,4,-17,nepalstock.com,NP,Asia,Southern Asia,Nepal,Bagmati Province,,Kathmandu
+202.70.64.2,4,-21,ntc.net.np,NP,Asia,Southern Asia,Nepal,Madhesh,,Janakpur Dham
+103.165.184.48,4,304,Ookla Speedtest Server 13917: speedn.infonetc.com.np,NP,Asia,Southern Asia,Nepal,Lumbini Province,,Narapani
+103.134.216.184,4,309,Ookla Speedtest Server 14297: btlspeedtest.sajilonet.com.np,NP,Asia,Southern Asia,Nepal,Lumbini Province,,Butwāl
+103.104.28.75,4,177,Ookla Speedtest Server 19285: speed.firstlink.net.np,NP,Asia,Southern Asia,Nepal,,,
+202.94.66.7,4,110,Ookla Speedtest Server 19356: speedtest-srv.classic.com.np,NP,Asia,Southern Asia,Nepal,,,
+103.96.244.49,4,121,Ookla Speedtest Server 21407: speedtest.skybroadband.com.np,NP,Asia,Southern Asia,Nepal,,,
+103.167.236.237,4,299,Ookla Speedtest Server 50776: speedtest.whizdigital.id,NP,Asia,Southern Asia,Nepal,,,
+103.189.160.201,4,-7194,Ookla Speedtest Server 51898: speedtest.supernet.net.np,NP,Asia,Southern Asia,Nepal,,,
+103.167.186.5,4,295,Ookla Speedtest Server 52296: speedtest.smartlinknetwork.com.np,NP,Asia,Southern Asia,Nepal,,,
+103.74.15.163,4,-79236,Ookla Speedtest Server 53994: speedtest.dishhome.com.np,NP,Asia,Southern Asia,Nepal,,,
+103.38.248.40,4,276,Ookla Speedtest Server 59182: speedtest.janaki.net.np,NP,Asia,Southern Asia,Nepal,,,
+157.15.58.35,4,149,Ookla Speedtest Server 63589: spt2.globaltrading.com.np,NP,Asia,Southern Asia,Nepal,,,
+182.93.78.43,4,-17,shilapatra.com,NP,Asia,Southern Asia,Nepal,Bagmati Province,,Kathmandu
+103.143.211.154,4,2163206,taraair.com,NP,Asia,Southern Asia,Nepal,,,
+202.51.82.239,4,49,techlekh.com,NP,Asia,Southern Asia,Nepal,,,
+202.51.82.43,4,-20,thulo.com,NP,Asia,Southern Asia,Nepal,,,
+182.93.94.212,4,578,tthimalaya.com,NP,Asia,Southern Asia,Nepal,Bagmati Province,,Kathmandu
+43.245.84.10,4,288,vianet.com.np,NP,Asia,Southern Asia,Nepal,Bagmati Province,,Kathmandu
+45.115.217.158,4,-17,yamchhetri.com,NP,Asia,Southern Asia,Nepal,,,
+182.93.93.87,4,803,yellowpagesnepal.com,NP,Asia,Southern Asia,Nepal,Bagmati Province,,Kathmandu

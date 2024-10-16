@@ -1,0 +1,5 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+78.111.112.78,4,407,DNS Server: u112-78.static.grape.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Žatec
+78.111.113.174,4,277,DNS Server: u113-174.static.grape.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Žatec
+78.111.114.13,4,369,DNS Server: u114-13.static.grape.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Žatec
+78.111.115.210,4,11737,DNS Server: u115-210.static.grape.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Žatec
