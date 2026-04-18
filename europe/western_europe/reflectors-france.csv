@@ -2493,7 +2493,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.67.81.23,4,-38,DoH server: dns.aquilenet.fr,FR,Europe,Western Europe,France,,,
 213.167.231.6,4,2,DoH server: dns.beta.gandi.net,FR,Europe,Western Europe,France,,,
 164.132.7.242,4,-4,DoH server: dns.christerwaren.fi,FR,Europe,Western Europe,France,,,
-75.119.137.239,4,-4,DoH server: dns.christian.moe, dns.imchristian.de,FR,Europe,Western Europe,France,Grand Est,Bas-Rhin,Lauterbourg
+75.119.137.239,4,-4,DoH server: dns.christian.moe dns.imchristian.de,FR,Europe,Western Europe,France,Grand Est,Bas-Rhin,Lauterbourg
 51.178.136.114,4,-3,DoH server: dns.hellozhao.com,FR,Europe,Western Europe,France,,,
 109.123.253.27,4,-5,DoH server: dns.huseynov.work,FR,Europe,Western Europe,France,Grand Est,Bas-Rhin,Lauterbourg
 95.111.236.127,4,1,DoH server: dns.kastner-online.de,FR,Europe,Western Europe,France,Grand Est,Bas-Rhin,Lauterbourg

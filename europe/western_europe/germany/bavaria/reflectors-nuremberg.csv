@@ -590,8 +590,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.16.60.194,4,-45,DoH server: doh.webnmail.de,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
 195.201.21.251,4,-4,DoH server: doh.zknt.org,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
 188.68.50.215,4,-5,DoH server: dukun.de,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
-152.53.15.127,4,-3,DoH server: jabber-germany.de, www.jabber-germany.de,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
-152.53.119.76,4,-1,DoH server: masters-of-cloud.de, www.masters-of-cloud.de,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
+152.53.15.127,4,-3,DoH server: jabber-germany.de www.jabber-germany.de,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
+152.53.119.76,4,-1,DoH server: masters-of-cloud.de www.masters-of-cloud.de,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
 128.140.15.70,4,-4,DoH server: privacy.plumedns.com,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
 188.245.45.16,4,-3,DoH server: rumpelsepp.org,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
 37.120.173.157,4,-5,DoH server: securenet.mhsystems.net,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg

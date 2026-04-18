@@ -1778,7 +1778,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 38.47.180.115,4,56,DoH server: dns.glorydns.com,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
 103.196.152.126,4,-5,DoH server: dns.goldplate.org,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 109.123.236.250,4,5,DoH server: dns.marasov.id,SG,Asia,South-eastern Asia,Singapore,,,Singapore
-103.150.116.100,4,-3,DoH server: dns.ningkelle.id, family.dns.ningkelle.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
+103.150.116.100,4,-3,DoH server: dns.ningkelle.id family.dns.ningkelle.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 207.2.122.94,4,0,DoH server: dns.syaifullah.com,SG,Asia,South-eastern Asia,Singapore,,,Singapore
 49.0.2.184,4,-1,DoH server: dns1.irumatech.com,ID,Asia,South-eastern Asia,Indonesia,,,
 103.86.99.100,4,-2,DoH server: dns2.nordvpn.com,SG,Asia,South-eastern Asia,Singapore,,,Singapore
@@ -1792,7 +1792,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 203.153.116.132,4,6,DoH server: doh.infracell.net,ID,Asia,South-eastern Asia,Indonesia,,,
 103.102.15.8,4,-5,DoH server: doh.max.net.id,ID,Asia,South-eastern Asia,Indonesia,,,
 174.138.21.128,4,2,DoH server: doh.tiar.app,SG,Asia,South-eastern Asia,Singapore,,,Singapore
-174.138.29.175,4,41,DoH server: doh.tiar.app, dot.tiar.app,SG,Asia,South-eastern Asia,Singapore,,,Singapore
+174.138.29.175,4,41,DoH server: doh.tiar.app dot.tiar.app,SG,Asia,South-eastern Asia,Singapore,,,Singapore
 185.250.38.138,4,3,DoH server: kilabit.info,SG,Asia,South-eastern Asia,Singapore,,,Singapore
 157.15.124.220,4,12,DoH server: puredns.org,ID,Asia,South-eastern Asia,Indonesia,,,
 92.118.188.53,4,-3,DoH server: sg-sin.doh.sb,SG,Asia,South-eastern Asia,Singapore,,,Singapore
@@ -4498,8 +4498,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.188.168.36,4,5,Ookla Speedtest Server 56553: speedtest17.lintas.net.id,ID,Asia,South-eastern Asia,Indonesia,,,
 103.154.231.18,4,20079,Ookla Speedtest Server 56693: speedtestlmg.dmt.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Lamongan
 114.198.244.110,4,22,Ookla Speedtest Server 56706: speedtestkdr.sdi.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Kediri
-103.184.66.110,4,36,Ookla Speedtest Server 56767: pandeglang.siber.net.id,ID,Asia,South-eastern Asia,Indonesia,Banten,,Pandeglang
 103.184.66.117,4,-9,Ookla Speedtest Server 56767: muaraenim.siber.net.id,ID,Asia,South-eastern Asia,Indonesia,South Sumatra,,Muara Enim
+103.184.66.110,4,36,Ookla Speedtest Server 56767: pandeglang.siber.net.id,ID,Asia,South-eastern Asia,Indonesia,Banten,,Pandeglang
 103.184.66.112,4,8,Ookla Speedtest Server 56772: rangkas.siber.net.id,ID,Asia,South-eastern Asia,Indonesia,Banten,,Rangkasbitung
 103.250.196.10,4,-17,Ookla Speedtest Server 56785: speedtest.mabuhaycabletv.com,PH,Asia,South-eastern Asia,Philippines,,,
 103.28.12.53,4,-6,Ookla Speedtest Server 56815: jkt-1.fastcloud.id,ID,Asia,South-eastern Asia,Indonesia,,,

@@ -867,7 +867,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 104.156.154.11,4,-4,DoH server: dnscry.pt-losangeles-ipv4,US,Americas,Northern America,United States of America,California,,Los Angeles
 185.106.96.210,4,-11,DoH server: dnscry.pt-sanjose-ipv4,US,Americas,Northern America,United States of America,California,,Los Angeles
 176.111.223.167,4,-4,DoH server: dnscry.pt-santaclara-ipv4,US,Americas,Northern America,United States of America,California,,Santa Clara
-45.67.219.208,4,-4,DoH server: doh.la.ahadns.net, dot.la.ahadns.net,US,Americas,Northern America,United States of America,California,,Los Angeles
+45.67.219.208,4,-4,DoH server: doh.la.ahadns.net dot.la.ahadns.net,US,Americas,Northern America,United States of America,California,,Los Angeles
 194.242.2.5,4,30,DoH server: extended.dns.mullvad.net,US,Americas,Northern America,United States of America,California,,Los Angeles
 194.242.2.6,4,-3,DoH server: family.dns.mullvad.net,US,Americas,Northern America,United States of America,California,,Los Angeles
 103.94.185.123,4,-3,DoH server: hostdare.qtxd.net,US,Americas,Northern America,United States of America,California,,Los Angeles

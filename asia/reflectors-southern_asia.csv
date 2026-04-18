@@ -529,7 +529,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.111.114.25,4,-4,DoH server: bom01.dnscry.pt,IN,Asia,Southern Asia,India,Maharashtra,,Mumbai
 165.231.253.163,4,-4,DoH server: cs-india,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
 178.22.122.100,4,-20,DoH server: dns.shecan.ir,IR,Asia,Southern Asia,Iran,Tehran,,Tehran
-185.51.200.2,4,10,DoH server: dns.shecan.ir, free.shecan.ir,IR,Asia,Southern Asia,Iran,,,
+185.51.200.2,4,10,DoH server: dns.shecan.ir free.shecan.ir,IR,Asia,Southern Asia,Iran,,,
 160.191.182.216,4,-19,DoH server: dnscry.pt-bengaluru-ipv4,IN,Asia,Southern Asia,India,Karnataka,,Bengaluru
 103.174.51.71,4,-5,DoH server: dnscry.pt-dhaka-ipv4,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
 103.99.133.110,4,-69,DoH server: dnscry.pt-islamabad-ipv4,PK,Asia,Southern Asia,Pakistan,Islamabad,,Islamabad

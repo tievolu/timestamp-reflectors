@@ -315,7 +315,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.141.154.3,4,4,DoH server: dns.gi.co.id,ID,Asia,South-eastern Asia,Indonesia,,,
 38.47.180.115,4,56,DoH server: dns.glorydns.com,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
 103.196.152.126,4,-5,DoH server: dns.goldplate.org,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
-103.150.116.100,4,-3,DoH server: dns.ningkelle.id, family.dns.ningkelle.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
+103.150.116.100,4,-3,DoH server: dns.ningkelle.id family.dns.ningkelle.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 49.0.2.184,4,-1,DoH server: dns1.irumatech.com,ID,Asia,South-eastern Asia,Indonesia,,,
 151.243.222.94,4,-2,DoH server: dnscry.pt-jakarta-ipv4,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,Jakarta
 203.153.116.132,4,6,DoH server: doh.infracell.net,ID,Asia,South-eastern Asia,Indonesia,,,
@@ -1009,8 +1009,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.188.168.36,4,5,Ookla Speedtest Server 56553: speedtest17.lintas.net.id,ID,Asia,South-eastern Asia,Indonesia,,,
 103.154.231.18,4,20079,Ookla Speedtest Server 56693: speedtestlmg.dmt.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Lamongan
 114.198.244.110,4,22,Ookla Speedtest Server 56706: speedtestkdr.sdi.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Kediri
-103.184.66.110,4,36,Ookla Speedtest Server 56767: pandeglang.siber.net.id,ID,Asia,South-eastern Asia,Indonesia,Banten,,Pandeglang
 103.184.66.117,4,-9,Ookla Speedtest Server 56767: muaraenim.siber.net.id,ID,Asia,South-eastern Asia,Indonesia,South Sumatra,,Muara Enim
+103.184.66.110,4,36,Ookla Speedtest Server 56767: pandeglang.siber.net.id,ID,Asia,South-eastern Asia,Indonesia,Banten,,Pandeglang
 103.184.66.112,4,8,Ookla Speedtest Server 56772: rangkas.siber.net.id,ID,Asia,South-eastern Asia,Indonesia,Banten,,Rangkasbitung
 103.28.12.53,4,-6,Ookla Speedtest Server 56815: jkt-1.fastcloud.id,ID,Asia,South-eastern Asia,Indonesia,,,
 103.124.138.45,4,437325,Ookla Speedtest Server 56868: pwj-01.gmdp.net.id,ID,Asia,South-eastern Asia,Indonesia,,,

@@ -466,7 +466,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.108.228.15,4,-5,DoH server: dnscry.pt-melbourne-ipv4,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 203.29.240.249,4,-32,DoH server: dnscry.pt-perth-ipv4,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
 195.114.14.74,4,-4,DoH server: dnscry.pt-sydney02-ipv4,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-45.76.113.31,4,0,DoH server: doh-2.seby.io, doh.seby.io, dot.seby.io,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+45.76.113.31,4,0,DoH server: doh-2.seby.io doh.seby.io dot.seby.io,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.6.212.123,4,1,DoH server: nz01.dns4me.net,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 168.138.26.232,4,-21,DoH server: orau.lz0724.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 192.250.232.89,4,3,dolawofattraction.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney

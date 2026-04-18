@@ -8411,7 +8411,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 46.224.121.140,4,-4,DoH server: dns.brono.cloud,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
 116.202.20.237,4,-4,DoH server: dns.busold.ws,DE,Europe,Western Europe,Germany,Saxony,,Falkenstein
 164.132.7.242,4,-4,DoH server: dns.christerwaren.fi,FR,Europe,Western Europe,France,,,
-75.119.137.239,4,-4,DoH server: dns.christian.moe, dns.imchristian.de,FR,Europe,Western Europe,France,Grand Est,Bas-Rhin,Lauterbourg
+75.119.137.239,4,-4,DoH server: dns.christian.moe dns.imchristian.de,FR,Europe,Western Europe,France,Grand Est,Bas-Rhin,Lauterbourg
 194.55.13.76,4,-3,DoH server: dns.clanless.ovh,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
 167.235.50.40,4,-4,DoH server: dns.cloudfiction.eu,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
 144.76.199.177,4,-2,DoH server: dns.comff.net,DE,Europe,Western Europe,Germany,Saxony,,Falkenstein
@@ -8419,8 +8419,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 152.53.130.105,4,-4,DoH server: dns.datenquark.de,AT,Europe,Western Europe,Austria,,,
 116.202.98.177,4,-4,DoH server: dns.decky.eu,DE,Europe,Western Europe,Germany,Saxony,,Falkenstein
 146.190.28.85,4,-5,DoH server: dns.dekedin.me,NL,Europe,Western Europe,Netherlands,North Holland,,Amsterdam
-185.95.218.42,4,-1,DoH server: dns.digitale-gesellschaft.ch, dns1.digitale-gesellschaft.ch,CH,Europe,Western Europe,Switzerland,,,
-185.95.218.43,4,-1,DoH server: dns.digitale-gesellschaft.ch, dns2.digitale-gesellschaft.ch,CH,Europe,Western Europe,Switzerland,,,
+185.95.218.42,4,-1,DoH server: dns.digitale-gesellschaft.ch dns1.digitale-gesellschaft.ch,CH,Europe,Western Europe,Switzerland,,,
+185.95.218.43,4,-1,DoH server: dns.digitale-gesellschaft.ch dns2.digitale-gesellschaft.ch,CH,Europe,Western Europe,Switzerland,,,
 45.86.125.58,4,-7,DoH server: dns.dnshome.de,DE,Europe,Western Europe,Germany,,,
 85.215.153.54,4,-4,DoH server: dns.dremaxx.de,DE,Europe,Western Europe,Germany,,,
 37.157.254.69,4,-3,DoH server: dns.expert,DE,Europe,Western Europe,Germany,,,
@@ -8457,7 +8457,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 141.144.233.11,4,-3,DoH server: dns.pierzchlewicz.pl,DE,Europe,Western Europe,Germany,Hesse,,Frankfurt am Main
 185.245.97.150,4,-3,DoH server: dns.rbn.gr,DE,Europe,Western Europe,Germany,Hesse,,Frankfurt am Main
 116.203.72.235,4,-4,DoH server: dns.rin.sh,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
-45.11.45.11,4,-4,DoH server: dns.sb, doh.sb, public-dns-b.dns.sb,DE,Europe,Western Europe,Germany,,,
+45.11.45.11,4,-4,DoH server: dns.sb doh.sb public-dns-b.dns.sb,DE,Europe,Western Europe,Germany,,,
 176.9.25.158,4,-3,DoH server: dns.svoi.dev,DE,Europe,Western Europe,Germany,Saxony,,Falkenstein
 185.132.53.173,4,-3,DoH server: dns.sy.st,DE,Europe,Western Europe,Germany,,,
 213.32.25.25,4,-3,DoH server: dns.szpadel.ovh,FR,Europe,Western Europe,France,,,
@@ -8495,7 +8495,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 159.69.154.207,4,-4,DoH server: doh.li,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
 46.4.112.109,4,682983,DoH server: doh.niyawe.de,DE,Europe,Western Europe,Germany,Saxony,,Falkenstein
 217.160.191.192,4,-2,DoH server: doh.phdns2.lonet.org,DE,Europe,Western Europe,Germany,,,
-212.60.61.246,4,0,DoH server: doh.quickline.ch, dot.quickline.ch,CH,Europe,Western Europe,Switzerland,Solothurn,,Wolfwil
+212.60.61.246,4,0,DoH server: doh.quickline.ch dot.quickline.ch,CH,Europe,Western Europe,Switzerland,Solothurn,,Wolfwil
 194.50.33.11,4,-4,DoH server: doh.suche.org,DE,Europe,Western Europe,Germany,,,
 185.16.60.194,4,-45,DoH server: doh.webnmail.de,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
 195.201.21.251,4,-4,DoH server: doh.zknt.org,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
@@ -8507,11 +8507,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 142.132.188.241,4,-3,DoH server: hole.elbschloss.xyz,DE,Europe,Western Europe,Germany,Saxony,,Falkenstein
 13.39.151.69,4,-4,DoH server: httpdns-push.heytapmobile.com,FR,Europe,Western Europe,France,Île-de-France,Paris Department,Paris
 213.196.191.96,4,5,DoH server: ibksturm.synology.me,CH,Europe,Western Europe,Switzerland,Saint Gallen,,Wil
-152.53.15.127,4,-3,DoH server: jabber-germany.de, www.jabber-germany.de,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
+152.53.15.127,4,-3,DoH server: jabber-germany.de www.jabber-germany.de,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
 37.187.108.188,4,-5,DoH server: jackyes.ovh,FR,Europe,Western Europe,France,,,
 159.69.123.239,4,-4,DoH server: mail.data.haus,DE,Europe,Western Europe,Germany,Saxony,,Falkenstein
 130.61.121.181,4,-4,DoH server: mainframe.dewed.de,DE,Europe,Western Europe,Germany,Hesse,,Frankfurt am Main
-152.53.119.76,4,-1,DoH server: masters-of-cloud.de, www.masters-of-cloud.de,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
+152.53.119.76,4,-1,DoH server: masters-of-cloud.de www.masters-of-cloud.de,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
 78.142.193.50,4,-3,DoH server: nl-ams.doh.sb,NL,Europe,Western Europe,Netherlands,North Holland,,Amsterdam
 194.169.181.34,4,-5,DoH server: nl-ams2.doh.sb,NL,Europe,Western Europe,Netherlands,North Holland,,Amsterdam
 5.255.103.159,4,21841,DoH server: nl-dro-w-f-1.nashkan.net,NL,Europe,Western Europe,Netherlands,Flevoland,,Dronten

@@ -381,7 +381,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 161.97.99.235,4,-4,DNS Server: wlkns.xyz,FR,Europe,Western Europe,France,Grand Est,Bas-Rhin,Lauterbourg
 144.91.89.110,4,-3,DNS Server: www.adminkit.net,FR,Europe,Western Europe,France,Grand Est,Bas-Rhin,Lauterbourg
 109.205.183.11,4,-5,DoH server: adguard.bonsirven.eu,FR,Europe,Western Europe,France,Grand Est,Bas-Rhin,Lauterbourg
-75.119.137.239,4,-4,DoH server: dns.christian.moe, dns.imchristian.de,FR,Europe,Western Europe,France,Grand Est,Bas-Rhin,Lauterbourg
+75.119.137.239,4,-4,DoH server: dns.christian.moe dns.imchristian.de,FR,Europe,Western Europe,France,Grand Est,Bas-Rhin,Lauterbourg
 109.123.253.27,4,-5,DoH server: dns.huseynov.work,FR,Europe,Western Europe,France,Grand Est,Bas-Rhin,Lauterbourg
 95.111.236.127,4,1,DoH server: dns.kastner-online.de,FR,Europe,Western Europe,France,Grand Est,Bas-Rhin,Lauterbourg
 207.180.222.47,4,3,donnjer.de,FR,Europe,Western Europe,France,Grand Est,Bas-Rhin,Lauterbourg

@@ -47,7 +47,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 42.193.231.105,4,20,dg165.com,CN,Asia,Eastern Asia,China,Guangdong,,Guangzhou
 106.53.98.173,4,15,dlz123.cn,CN,Asia,Eastern Asia,China,Guangdong,,Guangzhou
 106.55.44.79,4,10,DoH server: dns.b612.me,CN,Asia,Eastern Asia,China,Guangdong,,Guangzhou
-1.12.12.12,4,-5,DoH server: dns.pub, doh.pub, dot.pub,CN,Asia,Eastern Asia,China,Guangdong,,Guangzhou
+1.12.12.12,4,-5,DoH server: dns.pub doh.pub dot.pub,CN,Asia,Eastern Asia,China,Guangdong,,Guangzhou
 110.41.218.100,4,10,dutenews.com,CN,Asia,Eastern Asia,China,Guangdong,,Guangzhou
 110.41.220.39,4,7,dutenews.com,CN,Asia,Eastern Asia,China,Guangdong,,Guangzhou
 42.194.192.10,4,28,dxe520.com,CN,Asia,Eastern Asia,China,Guangdong,,Guangzhou
