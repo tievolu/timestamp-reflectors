@@ -1,9 +1,17 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-41.184.157.101,4,146,DNS Server: 41-184-157-101.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
-41.184.167.3,4,120,DNS Server: 41-184-167-3.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
-41.184.212.17,4,54,DNS Server: 41-184-212-17.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
-41.184.246.20,4,650,DNS Server: 41-184-246-20.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
-41.184.254.44,4,588,DNS Server: 41-184-254-44.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+154.113.19.6,4,48,betwinner.ng,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+41.184.153.133,4,275,DNS Server: 41-184-153-133.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+41.184.164.225,4,51,DNS Server: 41-184-164-225.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+41.184.174.151,4,949,DNS Server: 41-184-174-151.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+41.184.245.99,4,255,DNS Server: 41-184-245-99.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+167.88.51.245,4,-5,DoH server: dnscry.pt-ikeja-ipv4,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+176.97.192.12,4,-1,DoH server: dnscry.pt-lagos-ipv4,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
 154.113.177.235,4,43,newscentral.africa,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
-102.223.1.254,4,334,Ookla Speedtest Server 64936: speedtest.wifiber.ng,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
-197.255.160.237,4,1072,spectranet.com.ng,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+154.113.167.234,4,23,Ookla Speedtest Server 2617: speed.mainonecable.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+41.184.56.234,4,7,Ookla Speedtest Server 6618: speedtest1.ipnxnigeria.net,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+196.207.11.25,4,7,Ookla Speedtest Server 8616: speedtest.netcomafrica.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+105.112.48.68,4,5,Ookla Speedtest Server 15278: speedtest2.ng.airtel.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+158.255.76.106,4,-3,Ookla Speedtest Server 46960: speedtest-los.melbicom.net,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+169.239.188.83,4,-13,Ookla Speedtest Server 54795: speedtest.dng.dolphintelecom.net,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+102.212.208.254,4,91547,Ookla Speedtest Server 65051: speedtest.fob.ng,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+167.88.51.14,4,3,Ookla Speedtest Server 67610: ng-speedtest.sitehub.com.ng,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos

@@ -1,2 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-47.47.144.22,4,-5836,DNS Server: 047-047-144-022.inf.spectrum.com,US,Americas,Northern America,United States of America,Montana,,Bozeman
+47.47.144.22,4,-11060,DNS Server: 047-047-144-022.inf.spectrum.com,US,Americas,Northern America,United States of America,Montana,,Bozeman
+69.163.82.62,4,-3,Ookla Speedtest Server 783: speedtest.boz.mt-opticom.com,US,Americas,Northern America,United States of America,Montana,,Bozeman
+216.166.168.204,4,-3,Ookla Speedtest Server 22683: ooklaserver.theglobal.net,US,Americas,Northern America,United States of America,Montana,,Bozeman
+216.73.190.29,4,0,Ookla Speedtest Server 41907: speedtest.getskynet.com,US,Americas,Northern America,United States of America,Montana,,Bozeman
+4.38.125.161,4,-406156,Ookla Speedtest Server 69219: speedtest.densontech.com,US,Americas,Northern America,United States of America,Montana,,Bozeman

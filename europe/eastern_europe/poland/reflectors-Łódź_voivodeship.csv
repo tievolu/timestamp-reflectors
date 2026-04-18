@@ -1,45 +1,59 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-46.45.114.25,4,55,aquafilter.com,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+46.45.114.25,4,12,aquafilter.com,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Gmina Błaszki
+91.205.73.222,4,7,band.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+178.73.58.39,4,-43954,bcc.org.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
 91.205.73.203,4,33,blog.org.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
-78.88.29.217,4,32591,DNS Server: 078088029217.p2p.business.static.vectranet.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Sieradz
-78.88.30.177,4,6084,DNS Server: 078088030177.p2p.business.static.vectranet.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Sieradz
-185.246.207.1,4,2,DNS Server: 1.207host.matrixinternet.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Andrespol
-185.246.205.10,4,4173,DNS Server: 10.205host.matrixinternet.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Andrespol
-178.217.193.230,4,-3956014,DNS Server: 230.193.217.178.revdns.city-net.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Koluszki
-5.185.240.128,4,6160,DNS Server: 5.185.240.128.ipv4.public.orange.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
-5.185.241.212,4,3894,DNS Server: 5.185.241.212.ipv4.public.orange.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
-5.185.32.122,4,6138,DNS Server: 5.185.32.122.ipv4.public.orange.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
-83.238.172.213,4,47,DNS Server: 83-238-172-213.static.ip.netia.com.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
-91.228.32.110,4,25,DNS Server: 91-228-32-110-stalelacze.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Piotrkow Trybunalski
-91.238.56.20,4,52753,DNS Server: 91-238-56-020.galatea.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Zgierz
-91.238.56.251,4,-477958,DNS Server: 91-238-56-251.galatea.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Zgierz
-83.19.161.254,4,-54934,DNS Server: cyb254.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+31.182.32.26,4,2,charlie.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+185.246.207.1,4,-7,DNS Server: 1.207host.matrixinternet.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Czarnocin
+185.246.205.10,4,2606,DNS Server: 10.205host.matrixinternet.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Andrespol
+178.217.193.230,4,-4264174,DNS Server: 230.193.217.178.revdns.city-net.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+83.220.112.28,4,404,DNS Server: 83.220.112.28.umts.static.t-mobile.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Tuszyn
+83.220.115.241,4,530,DNS Server: 83.220.115.241.umts.static.t-mobile.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Tuszyn
+89.231.11.170,4,-16,DNS Server: 89-231-11-170.mediaok.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Kutno
+91.228.32.110,4,2,DNS Server: 91-228-32-110-stalelacze.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Rozprza
+91.238.56.20,4,34826,DNS Server: 91-238-56-020.galatea.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Zgierz
+91.238.56.251,4,-283112,DNS Server: 91-238-56-251.galatea.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Zgierz
 176.111.113.46,4,-2570619716,DNS Server: digi46.digicom.net.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Tomaszów Mazowiecki
-83.3.178.78,4,-36887491,DNS Server: gqw78.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
-77.73.16.174,4,16211,DNS Server: host-77-73-16-174.stormmedia.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Aleksandrów Łódzki
-77.73.16.211,4,131,DNS Server: host-77-73-16-211.stormmedia.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Aleksandrów Łódzki
-95.215.232.17,4,1403,DNS Server: host.95.215.232.17.w2s.net.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Wieruszów
+83.3.244.198,4,-1,DNS Server: gtk198.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+176.107.118.206,4,-106028,DNS Server: host-176.107.118-206.dynamic.mm.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+77.73.16.174,4,5394,DNS Server: host-77-73-16-174.stormmedia.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Aleksandrów Łódzki
+77.73.16.211,4,-2,DNS Server: host-77-73-16-211.stormmedia.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Aleksandrów Łódzki
+77.73.16.246,4,-2303,DNS Server: host-77-73-16-246.stormmedia.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Aleksandrów Łódzki
+95.215.232.17,4,-1,DNS Server: host.95.215.232.17.w2s.net.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Galewice
 91.205.72.51,4,-3,DNS Server: ip-91-205-72-51.iwacom.net.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
-79.187.205.251,4,368,DNS Server: mail.diagcar.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Prandotów
-5.185.41.171,4,347,DNS Server: public-gprs705130.centertel.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
-5.185.45.218,4,336,DNS Server: public-gprs706201.centertel.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
-5.185.245.69,4,467,DNS Server: public161093.cdma.centertel.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
-5.185.252.179,4,4037,DNS Server: public162995.cdma.centertel.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
-81.219.25.230,4,419,DNS Server: static-81-219-25-230.devs.futuro.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Smardzewice
-77.237.15.126,4,301,DNS Server: staticline56903.toya.net.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
-77.237.31.39,4,398,DNS Server: staticline60913.toya.net.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Aleksandrów Łódzki
-85.89.187.27,4,40450,DNS Server: yhlodz.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
-46.45.115.60,4,596,drobne.fm,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
-212.244.242.234,4,-596691,energetab.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Andrespol
+178.73.51.106,4,3,DNS Server: nat-bem2-106.aster.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+46.171.249.23,4,-3,DNS Server: pjp23.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+31.182.36.26,4,-5,DNS Server: staticline-31-182-36-26.toya.net.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+31.182.37.74,4,13853,DNS Server: staticline-31-182-37-74.toya.net.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+77.237.15.126,4,-5,DNS Server: staticline56903.toya.net.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+77.237.15.244,4,-7,DNS Server: staticline57021.toya.net.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+77.237.31.39,4,-7,DNS Server: staticline60913.toya.net.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+85.89.187.27,4,2295309,DNS Server: yhlodz.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+46.45.115.60,4,1561,drobne.fm,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Gmina Błaszki
 91.205.73.213,4,4,forumreklamowe.com,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
-193.227.116.203,4,5,gower.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+193.227.116.203,4,1,gower.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
 91.205.73.207,4,0,koon.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
-46.45.115.59,4,647,nasze.fm,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
-91.205.73.214,4,4,netbe.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
-185.122.172.254,4,273,Ookla Speedtest Server 5566: test.luteklan.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Konstantynów Łódzki
-91.224.47.226,4,356,Ookla Speedtest Server 63914: speedtest.mlynnet.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Gmina Poddębice
+91.205.73.212,4,-5,kopalnia-bochnia.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+89.231.11.242,4,109,lbl.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Kutno
+46.45.115.59,4,1503,nasze.fm,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Gmina Błaszki
+91.205.73.214,4,22,netbe.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+176.113.206.7,4,4117422,Ookla Speedtest Server 2612: speedtest1.ingram.com.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Pajęczno
+194.63.134.21,4,10,Ookla Speedtest Server 2916: lodz1.forweb.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+195.74.48.3,4,4,Ookla Speedtest Server 3702: lnet.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+185.122.172.254,4,273,Ookla Speedtest Server 5566: test.luteklan.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Gmina Lutomiersk
+91.228.34.162,4,14,Ookla Speedtest Server 10019: speedtest.stalelacze.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Rozprza
+194.107.18.91,4,3807,Ookla Speedtest Server 10328: sp1.margonet.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Wieluń
+46.45.76.239,4,64068,Ookla Speedtest Server 10619: speedtest.ksiezyc.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Zduńska Wola
+95.215.233.2,4,5,Ookla Speedtest Server 11060: speedtest.cnmultimedia.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Galewice
+193.227.116.50,4,2,Ookla Speedtest Server 28239: speedtest.zinet.net.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+192.162.151.252,4,-27,Ookla Speedtest Server 30315: tester.stormmedia.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Aleksandrów Łódzki
+91.224.47.226,4,-7,Ookla Speedtest Server 63914: speedtest.mlynnet.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Gmina Poddębice
+178.219.96.33,4,-14,Ookla Speedtest Server 74001: test.mokadi.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Gmina Moszczenica
 91.205.73.206,4,-18,sleeplessbeastie.eu,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
-217.113.224.63,4,1,toya.net.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+212.191.136.6,4,-53,spoleczna.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Piotrkow Trybunalski
+217.113.224.63,4,8,toya.net.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+31.182.63.164,4,47,toyota-krakow.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
 217.113.225.105,4,48,tvtoya.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
-91.205.73.201,4,11,webboard.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
-212.191.2.25,4,0,zgierz.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+91.205.73.201,4,-86,webboard.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+192.109.241.64,4,-5,zacharewicz.info,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz
+212.191.2.25,4,695,zgierz.pl,PL,Europe,Eastern Europe,Poland,Łódź Voivodeship,,Lodz

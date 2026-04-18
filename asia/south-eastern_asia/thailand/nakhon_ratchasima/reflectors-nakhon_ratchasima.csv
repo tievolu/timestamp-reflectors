@@ -1,0 +1,5 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+1.2.235.52,4,3,DNS Server: node-l6c.pool-1-2.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Nakhon Ratchasima,,Nakhon Ratchasima
+1.2.237.61,4,5401,DNS Server: node-lkt.pool-1-2.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Nakhon Ratchasima,,Nakhon Ratchasima
+1.1.254.53,4,-34121,DNS Server: node-oxh.pool-1-1.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Nakhon Ratchasima,,Nakhon Ratchasima
+203.158.192.6,4,-8,rmuti.ac.th,TH,Asia,South-eastern Asia,Thailand,Nakhon Ratchasima,,Nakhon Ratchasima

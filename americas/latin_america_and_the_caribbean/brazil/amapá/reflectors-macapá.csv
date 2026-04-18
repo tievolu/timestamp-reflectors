@@ -1,6 +1,16 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-177.84.201.15,4,-2,amapa.gov.br,BR,Americas,Latin America and the Caribbean,Brazil,Amapá,,Macapá
-177.131.18.34,4,69,DNS Server: 177-131-18-34.webflash.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Amapá,,Macapá
-45.165.255.228,4,1053025,Ookla Speedtest Server: speedtest.webturbo.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Amapá,,Macapá
-201.18.168.118,4,116,uenf.br,BR,Americas,Latin America and the Caribbean,Brazil,Amapá,,Macapá
+177.84.201.15,4,-10,ap.gov.br,BR,Americas,Latin America and the Caribbean,Brazil,Amapá,,Macapá
+177.131.18.34,4,-15,DNS Server: 177-131-18-34.webflash.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Amapá,,Macapá
+177.131.29.211,4,-5,DNS Server: 177-131-29-211.webflash.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Amapá,,Macapá
+186.216.162.70,4,70102,DNS Server: 186.216.162.70.user.vctelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amapá,,Macapá
+45.165.255.228,4,528,Ookla Speedtest Server 24443: speedtest.webturbo.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Amapá,,Macapá
+38.7.111.31,4,-100676,Ookla Speedtest Server 54670: speedtest.pinguimtelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Amapá,,Macapá
+177.131.21.52,4,-15,Ookla Speedtest Server 55180: speedtestblm.webflash.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Amapá,,Macapá
+177.131.28.21,4,-13,Ookla Speedtest Server 55293: speedtestmacapa.webflash.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Amapá,,Macapá
+186.216.160.25,4,28,Ookla Speedtest Server 55562: btestmcp.vocetelecom.vc,BR,Americas,Latin America and the Caribbean,Brazil,Amapá,,Macapá
+132.255.50.46,4,-15,Ookla Speedtest Server 59625: speedtest.americatelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Amapá,,Macapá
+186.247.196.245,4,8027,Ookla Speedtest Server 59870: servidor.speedplay.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amapá,,Macapá
+191.6.112.85,4,3392,Ookla Speedtest Server 64186: st.maisinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amapá,,Macapá
+38.246.78.35,4,102507,Ookla Speedtest Server 67763: speedtest.macapatelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Amapá,,Macapá
+200.139.21.10,4,8,unifap.br,BR,Americas,Latin America and the Caribbean,Brazil,Amapá,,Macapá
 200.139.21.15,4,-1,unifap.br,BR,Americas,Latin America and the Caribbean,Brazil,Amapá,,Macapá

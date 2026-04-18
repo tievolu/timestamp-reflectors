@@ -1,18 +1,25 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-5.141.82.48,4,600,22006.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
-212.33.255.222,4,3428,59ga.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
-5.141.29.82,4,9090,DNS Server: 5-141-29-82.static-adsl.isurgut.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
-5.141.9.126,4,17585375,DNS Server: 5-141-9-126.static-adsl.isurgut.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
-5.141.87.69,4,1023,DNS Server: 5-141-97-69.static-adsl.isurgut.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
-5.166.166.196,4,3449,DNS Server: 5x166x166x196.dynamic.perm.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
-5.141.86.82,4,5826,DNS Server: dsl-5-141-86-82.permonline.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
-212.33.244.25,4,-139,DNS Server: inetzyxel.tu,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
-46.146.202.155,4,-5397,DNS Server: net202-155.perm.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
-46.146.219.99,4,12025,DNS Server: net219-99.perm.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
-46.146.236.38,4,318,DNS Server: radius2.testing.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
-5.141.9.176,4,83712,DNS Server: sever-flot.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
-212.33.237.23,4,6,gama-gama.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
-46.146.239.56,4,93,gorodovaya.com,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
-5.141.28.183,4,463,myopenugra.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
-46.146.220.87,4,29,permraion.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+212.33.255.222,4,53,59ga.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+188.19.13.164,4,56134556,DNS Server: 188-19-13-164.pppoe-adsl.isurgut.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+31.163.192.96,4,36711277,DNS Server: 31-163-192-96.static-adsl.isurgut.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+31.163.196.173,4,68402263,DNS Server: 31-163-196-173.static-adsl.isurgut.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+31.163.201.62,4,308564,DNS Server: 31-163-201-62.static-adsl.isurgut.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+31.163.202.109,4,9822,DNS Server: 31-163-202-109.static-adsl.isurgut.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+31.163.202.228,4,59129,DNS Server: 31-163-202-228.static-adsl.isurgut.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+46.146.220.128,4,-1331876980,DNS Server: 46x146x220x128.static-business.perm.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+46.146.232.146,4,27021,DNS Server: 46x146x232x146.static-customer.perm.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+31.163.205.17,4,6,DNS Server: 86it-mail-09.86it.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+188.17.150.125,4,-3,DNS Server: dsl-188-17-150-125.permonline.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+188.17.158.58,4,-6,DNS Server: dsl-188-17-158-58.permonline.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+212.33.244.25,4,-320,DNS Server: inetzyxel.tu,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+31.163.200.36,4,2,DNS Server: mail.stroyteks86.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+46.146.202.155,4,-836,DNS Server: net202-155.perm.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+46.146.219.99,4,8975,DNS Server: net219-99.perm.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+46.146.239.56,4,-46128,gorodovaya.com,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+188.17.159.175,4,1,newsko.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+212.33.230.200,4,48,Ookla Speedtest Server 2660: speedtest.perm.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+212.33.224.16,4,4,permkrai.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+46.146.220.87,4,0,permokrug.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+91.203.238.4,4,35,pgsha.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
+188.16.175.6,4,16,sovrnhmao.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm
 212.33.224.15,4,14,visitperm.ru,RU,Europe,Eastern Europe,Russian Federation,Perm Krai,,Perm

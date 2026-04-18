@@ -1,4 +1,15 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-113.21.100.87,4,-11,DNS Server: host-113-21-100-87.canl.nc,NC,Oceania,Melanesia,New Caledonia,South Province,,Noumea
-103.14.89.86,4,651780,Ookla Speedtest Server: speedtest2.online.net.pg,PG,Oceania,Melanesia,Papua New Guinea,National Capital,,Port Moresby
-61.5.222.94,4,-48,province-sud.nc,NC,Oceania,Melanesia,New Caledonia,,,
+202.171.79.144,4,-7,DNS Server: 202-171-79-144.h16.canl.nc,NC,Oceania,Melanesia,New Caledonia,South Province,,Noumea
+113.21.100.87,4,6,DNS Server: host-113-21-100-87.canl.nc,NC,Oceania,Melanesia,New Caledonia,South Province,,Noumea
+103.83.33.13,4,22564980,DNS Server: ns1.lspngdns.com,PG,Oceania,Melanesia,Papua New Guinea,,,
+103.2.186.201,4,15,Ookla Speedtest Server 8840: speedtest.nautile.net,NC,Oceania,Melanesia,New Caledonia,,,
+183.81.140.36,4,39,Ookla Speedtest Server 15730: speedtest.suva.vodafone.net.fj,FJ,Oceania,Melanesia,Fiji,,,
+202.137.183.8,4,278723,Ookla Speedtest Server 17158: speedtest.telecom.com.fj,FJ,Oceania,Melanesia,Fiji,,,
+45.117.244.5,4,1729,Ookla Speedtest Server 23640: speedtest1.digicelfiji.com.fj,FJ,Oceania,Melanesia,Fiji,Central,Rewa Province,Suva
+103.14.89.86,4,309989,Ookla Speedtest Server 25860: speedtest2.online.net.pg,PG,Oceania,Melanesia,Papua New Guinea,National Capital,,Port Moresby
+202.80.33.12,4,2893694,Ookla Speedtest Server 32234: speedtest.vodafone.com.vu,VU,Oceania,Melanesia,Vanuatu,Shefa Province,,Port Vila
+27.123.148.69,4,22,Ookla Speedtest Server 36485: speedtest.ltk.vodafone.net.fj,FJ,Oceania,Melanesia,Fiji,Central,Rewa Province,Suva
+43.245.56.90,4,56,Ookla Speedtest Server 42900: speedtest.pom.vodafone.com.pg,PG,Oceania,Melanesia,Papua New Guinea,National Capital,,Port Moresby
+202.165.192.136,4,52335719,Ookla Speedtest Server 52047: ookla1.pngdataco.net.pg,PG,Oceania,Melanesia,Papua New Guinea,National Capital,,Port Moresby
+103.25.142.90,4,4,Ookla Speedtest Server 58584: speedtest.lae.vodafone.com.pg,PG,Oceania,Melanesia,Papua New Guinea,Morobe Province,,Lae
+202.137.181.2,4,2116462,Ookla Speedtest Server 66389: speedtest.tfl.com.fj,FJ,Oceania,Melanesia,Fiji,,,

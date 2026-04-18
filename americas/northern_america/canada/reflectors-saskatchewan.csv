@@ -1,7 +1,11 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-142.165.148.61,4,39437,aviation.ca,CA,Americas,Northern America,Canada,Saskatchewan,,
-65.87.230.49,4,54,myaccess.ca,CA,Americas,Northern America,Canada,Saskatchewan,,Regina
-204.83.143.159,4,298429,myavcs.com,CA,Americas,Northern America,Canada,Saskatchewan,,Saskatoon
-142.165.148.140,4,23,royalsaskmuseum.ca,CA,Americas,Northern America,Canada,Saskatchewan,,
-64.203.75.29,4,2,scaonline.ca,CA,Americas,Northern America,Canada,Saskatchewan,,Regina
-207.195.36.62,4,16,siemenstransport.com,CA,Americas,Northern America,Canada,Saskatchewan,,Regina
+142.165.148.140,4,7,casinoregina.com,CA,Americas,Northern America,Canada,Saskatchewan,,Prince Albert
+207.195.35.143,4,65,DNS Server: 207-195-35-143.prna.static.sasknet.sk.ca,CA,Americas,Northern America,Canada,Saskatchewan,,Saskatoon
+204.83.143.159,4,18663,myavcs.com,CA,Americas,Northern America,Canada,Saskatchewan,,Regina
+204.83.149.166,4,-1,Ookla Speedtest Server 4198: speedtesthost.sasknet.sk.ca,CA,Americas,Northern America,Canada,Saskatchewan,,Swift Current
+65.87.237.133,4,-1,Ookla Speedtest Server 20283: speedtest.myaccess.ca,CA,Americas,Northern America,Canada,Saskatchewan,,Regina
+204.83.188.102,4,22,Ookla Speedtest Server 35521: speedtest3.sasknet.sk.ca,CA,Americas,Northern America,Canada,Saskatchewan,,Pambrun
+23.171.248.234,4,0,Ookla Speedtest Server 70571: speedtest.wrinternet.com,CA,Americas,Northern America,Canada,Saskatchewan,,Moose Jaw
+142.165.148.214,4,4834,royalsaskmuseum.ca,CA,Americas,Northern America,Canada,Saskatchewan,,Prince Albert
+64.203.75.29,4,19,scaonline.ca,CA,Americas,Northern America,Canada,Saskatchewan,,Regina
+207.195.36.62,4,12,siemenstransport.com,CA,Americas,Northern America,Canada,Saskatchewan,,Saskatoon

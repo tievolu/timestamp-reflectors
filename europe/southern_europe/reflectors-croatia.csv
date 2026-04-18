@@ -1,196 +1,278 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-178.218.164.80,4,5,360dubrovnik.com,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+178.218.164.80,4,5,360dubrovnik.com,HR,Europe,Southern Europe,Croatia,,,
 185.58.73.21,4,3,3lhd.com,HR,Europe,Southern Europe,Croatia,,,
-185.58.73.239,4,8,aacihealthcare.com,HR,Europe,Southern Europe,Croatia,,,
-185.46.34.36,4,7,adriagate.com,HR,Europe,Southern Europe,Croatia,,,
+185.46.34.36,4,2487,adriagate.com,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Našice
+195.29.236.66,4,4,adriatic.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
 213.147.113.66,4,21,adriatic.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-195.29.236.66,4,4,adriatic.hr,HR,Europe,Southern Europe,Croatia,Šibenik-Knin County,,Betina
-31.147.206.174,4,8,agr.hr,HR,Europe,Southern Europe,Croatia,Koprivnica-Križevci County,,Križevci
-178.218.165.202,4,46,autoskola-barbara.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-185.58.73.6,4,2,avalon.hr,HR,Europe,Southern Europe,Croatia,,,
-185.58.73.131,4,1,biochemia-medica.com,HR,Europe,Southern Europe,Croatia,,,
-178.218.166.8,4,4,bitno.net,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-185.58.73.5,4,2,biz.hr,HR,Europe,Southern Europe,Croatia,,,
-176.62.8.133,4,-16587,bloger.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.165.103,4,-2,blue-world.org,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-195.78.33.112,4,633,bol.hr,HR,Europe,Southern Europe,Croatia,,,
-161.53.185.6,4,14,botanic.hr,HR,Europe,Southern Europe,Croatia,Zadar County,,Zadar
-178.218.165.205,4,12,brodportal.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+178.218.165.123,4,-3,adriaticcraftbeer.eu,HR,Europe,Southern Europe,Croatia,,,
+31.147.206.174,4,2,agr.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+178.218.162.49,4,2,algebra.hr,HR,Europe,Southern Europe,Croatia,,,
+195.78.33.151,4,27,arx-bowling.com,HR,Europe,Southern Europe,Croatia,,,
+185.66.140.199,4,27,atozsolutionz.com,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.202,4,-10,autoskola-barbara.hr,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.6,4,-8,avalon.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.142,4,12,aztn.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.172.18,4,-1,bakrotisak.hr,HR,Europe,Southern Europe,Croatia,,,
+185.66.141.195,4,-24,betvoyager.com,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.131,4,2,biochemia-medica.com,HR,Europe,Southern Europe,Croatia,,,
+185.66.141.25,4,1400,bitdice.me,HR,Europe,Southern Europe,Croatia,,,
+178.218.166.8,4,3,bitno.net,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.5,4,-3,biz.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.166.219,4,8,bjelovar.info,HR,Europe,Southern Europe,Croatia,,,
+176.62.8.133,4,-12475,bloger.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+195.78.33.112,4,40,bol.hr,HR,Europe,Southern Europe,Croatia,,,
+178.23.184.16,4,0,boskinac.com,HR,Europe,Southern Europe,Croatia,,,
+161.53.185.6,4,-36,botanic.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+178.218.165.205,4,12,brodportal.hr,HR,Europe,Southern Europe,Croatia,,,
+91.234.46.52,4,37,brutalink.com,HR,Europe,Southern Europe,Croatia,,,
 193.198.252.44,4,18,carnet.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-161.53.114.143,4,14,cert.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.163.127,4,2,cinephiliabeyond.org,HR,Europe,Southern Europe,Croatia,,,
-213.202.101.150,4,4,copyservis.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.164.30,4,17,danica.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.166.214,4,0,dizajn.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-78.134.212.19,4,50,DNS Server: 78.134.212.19-dsl.net.metronet.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-78.134.212.20,4,15,DNS Server: 78.134.212.20-dsl.net.metronet.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-78.134.212.21,4,14,DNS Server: 78.134.212.21-dsl.net.metronet.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-78.134.213.172,4,9,DNS Server: 78.134.213.172-dsl.net.metronet.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-78.134.223.17,4,62,DNS Server: 78.134.223.17-dsl.net.metronet.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-89.201.137.2,4,-13,DNS Server: 89-201-137-2.static.optinet.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-195.29.34.149,4,31094649,DNS Server: ao3-m149.net.t-com.hr,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Osijek
-82.214.100.214,4,79,DNS Server: c82-214-100-214.loc.akton.net,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-185.46.34.49,4,45,DNS Server: cl49.db-informatika.hr,HR,Europe,Southern Europe,Croatia,,,
-83.131.0.7,4,74,DNS Server: IPL537203.net.t-com.hr,HR,Europe,Southern Europe,Croatia,Zadar County,,Biograd na Moru
-83.131.4.217,4,-27115226,DNS Server: IPL552809.net.t-com.hr,HR,Europe,Southern Europe,Croatia,Zadar County,,Biograd na Moru
-83.131.0.211,4,188,DNS Server: IPL569099.net.t-com.hr,HR,Europe,Southern Europe,Croatia,Zadar County,,Biograd na Moru
-83.131.4.177,4,-26900998,DNS Server: IPL573020.net.t-com.hr,HR,Europe,Southern Europe,Croatia,Zadar County,,Biograd na Moru
-195.29.55.101,4,88,DNS Server: IPL573748.net.t-com.hr,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Osijek
-195.29.104.73,4,49,DNS Server: IPL579746.net.t-com.hr,HR,Europe,Southern Europe,Croatia,Split-Dalmatia County,,Split
-195.29.15.107,4,-27227437,DNS Server: IW542147.acc.t-com.hr,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Osijek
-83.131.1.81,4,106,DNS Server: IW567864.slam.t-com.hr,HR,Europe,Southern Europe,Croatia,Zadar County,,Biograd na Moru
-83.131.1.49,4,-28940447,DNS Server: IW568761.net.t-com.hr,HR,Europe,Southern Europe,Croatia,Zadar County,,Biograd na Moru
-83.131.1.83,4,101,DNS Server: SIW567864.slam.t-com.hr,HR,Europe,Southern Europe,Croatia,Zadar County,,Biograd na Moru
-83.131.1.51,4,-28758620,DNS Server: SIW568761.slam.t-com.hr,HR,Europe,Southern Europe,Croatia,Zadar County,,Biograd na Moru
-213.191.131.59,4,-793,DNS Server: smssaat.iskon.hr,HR,Europe,Southern Europe,Croatia,Split-Dalmatia County,,Split
-31.45.232.154,4,14093,DNS Server: srv-31-45-232-154.static.a1.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,
-94.250.130.250,4,-7227628,DNS Server: srv-94-250-130-250.static.a1.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-89.164.69.146,4,13113,DNS Server: wr-lama.cpe.iskon.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-161.53.160.55,4,7,domene.hr,HR,Europe,Southern Europe,Croatia,Split-Dalmatia County,,Split
-195.29.165.2,4,1137,dubrovnik.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.166.45,4,19,dubrovniknet.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-185.103.217.55,4,60,ecpc.org,HR,Europe,Southern Europe,Croatia,,,
-178.218.165.214,4,6,ecrgroup.eu,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-213.186.6.145,4,168,ele-math.com,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.166.39,4,26,eloda.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-185.58.73.15,4,50,enil.eu,HR,Europe,Southern Europe,Croatia,,,
-178.218.166.140,4,2,esf.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-161.53.167.47,4,10,fesb.hr,HR,Europe,Southern Europe,Croatia,Split-Dalmatia County,,Split
-161.53.204.33,4,15,ffos.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-31.147.206.218,4,8,fkit.hr,HR,Europe,Southern Europe,Croatia,Koprivnica-Križevci County,,Križevci
+161.53.50.51,4,-2,casopis-gradjevinar.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+185.66.141.143,4,-661,ceremoniemeesterwen.be,HR,Europe,Southern Europe,Croatia,,,
+161.53.114.143,4,-56,cert.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+178.218.163.127,4,-3,cinephiliabeyond.org,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.34,4,40,cooltura-kc.hr,HR,Europe,Southern Europe,Croatia,,,
+213.202.101.150,4,-3,copyservis.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+185.46.34.24,4,3,crnojaje.hr,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Našice
+213.202.101.82,4,3,croadria.com,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+195.29.162.70,4,62,croatiabiz.com,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+185.103.217.233,4,-2,crobitcoin.com,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.100,4,11,culturelink.org,HR,Europe,Southern Europe,Croatia,,,
+178.218.164.30,4,17,danica.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.172.68,4,60,digitalni-marketing.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.166.55,4,57,discover-otocac.com,HR,Europe,Southern Europe,Croatia,,,
+78.0.219.173,4,97,DNS Server: 78-0-219-173.adsl.net.t-com.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+78.134.212.19,4,7,DNS Server: 78.134.212.19-dsl.net.metronet.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+78.134.212.20,4,7,DNS Server: 78.134.212.20-dsl.net.metronet.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+78.134.212.21,4,7,DNS Server: 78.134.212.21-dsl.net.metronet.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+78.134.213.172,4,14,DNS Server: 78.134.213.172-dsl.net.metronet.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+78.134.223.17,4,69993049,DNS Server: 78.134.223.17-dsl.net.metronet.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+89.201.137.2,4,-19,DNS Server: 89-201-137-2.static.optinet.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+89.201.153.56,4,11871,DNS Server: 89-201-153-56.static.optinet.hr,HR,Europe,Southern Europe,Croatia,Međimurje County,,Čakovec
+195.29.34.149,4,38850997,DNS Server: ao3-m149.net.t-com.hr,HR,Europe,Southern Europe,Croatia,Vukovar-Srijem County,,Vinkovci
+82.214.100.214,4,-2,DNS Server: c82-214-100-214.loc.akton.net,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+185.46.34.49,4,0,DNS Server: cl49.db-informatika.hr,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Našice
+83.131.0.7,4,-6,DNS Server: IPL537203.net.t-com.hr,HR,Europe,Southern Europe,Croatia,Zadar County,,Zadar
+83.131.4.217,4,60281122,DNS Server: IPL552809.net.t-com.hr,HR,Europe,Southern Europe,Croatia,Zadar County,,Zadar
+83.131.0.211,4,-4,DNS Server: IPL569099.net.t-com.hr,HR,Europe,Southern Europe,Croatia,Zadar County,,Zadar
+195.29.55.101,4,-4,DNS Server: IPL573748.net.t-com.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+195.29.104.73,4,-8,DNS Server: IPL579746.net.t-com.hr,HR,Europe,Southern Europe,Croatia,Primorje-Gorski Kotar County,,Matulji
+195.29.15.107,4,58851978,DNS Server: IW542147.acc.t-com.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+83.131.1.81,4,-5,DNS Server: IW567864.slam.t-com.hr,HR,Europe,Southern Europe,Croatia,Zadar County,,Zadar
+83.131.1.49,4,56953952,DNS Server: IW568761.net.t-com.hr,HR,Europe,Southern Europe,Croatia,Zadar County,,Zadar
+89.201.162.14,4,-59739,DNS Server: mail.auxilium.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+212.92.200.165,4,-3,DNS Server: mail.get-nekretnine.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+193.198.49.242,4,27500,DNS Server: mail.udruga-liberato.hr,HR,Europe,Southern Europe,Croatia,Split-Dalmatia County,,Supetar
+31.45.234.58,4,47,DNS Server: signal.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,
+83.131.1.51,4,57278103,DNS Server: SIW568761.slam.t-com.hr,HR,Europe,Southern Europe,Croatia,Zadar County,,Zadar
+213.191.131.59,4,-16995,DNS Server: smssaat.iskon.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+109.227.16.38,4,8622,DNS Server: srv-109-227-16-38.static.a1.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+31.45.232.154,4,36179,DNS Server: srv-31-45-232-154.static.a1.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,
+85.94.70.74,4,-7,DNS Server: static-85-94-70-74.rev-addr.terrakom.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+149.5.190.60,4,-1,DNS Server: torres.voyager.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+89.164.69.146,4,474,DNS Server: wr-lama.cpe.iskon.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+161.53.160.55,4,-39,domene.hr,HR,Europe,Southern Europe,Croatia,Split-Dalmatia County,,Split
+185.58.73.26,4,-23,domzdravlja-dugaresa.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.166.214,4,35,dubrovackapivovara.hr,HR,Europe,Southern Europe,Croatia,,,
+195.29.165.2,4,2230,dubrovnik.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+185.58.73.145,4,1,dubrovnikinsider.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.166.45,4,-3,dubrovniknet.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.164.31,4,1,ecommerce.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.214,4,6,ecrgroup.eu,HR,Europe,Southern Europe,Croatia,,,
+213.186.6.145,4,-7,ele-math.com,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+185.58.73.122,4,1,elle.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.166.39,4,26,eloda.hr,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.15,4,1,enil.eu,HR,Europe,Southern Europe,Croatia,,,
+82.214.99.58,4,-7,erwo.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+178.218.166.140,4,-8,esf.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.163.60,4,-6,ferata.hr,HR,Europe,Southern Europe,Croatia,,,
+161.53.167.47,4,-63,fesb.hr,HR,Europe,Southern Europe,Croatia,Split-Dalmatia County,,Split
+161.53.204.33,4,-44,ffos.hr,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Osijek
+178.218.165.118,4,-3,fiuman.hr,HR,Europe,Southern Europe,Croatia,,,
+31.147.206.218,4,8,fkit.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
 213.202.101.170,4,23,franck.eu,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-161.53.116.12,4,6,fsb.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-185.46.34.10,4,6,fscg.me,HR,Europe,Southern Europe,Croatia,,,
-185.58.73.18,4,1,ftb.com.hr,HR,Europe,Southern Europe,Croatia,,,
-85.10.51.135,4,534,fudzilla.com,HR,Europe,Southern Europe,Croatia,,,
-185.98.14.180,4,7,gdi.net,HR,Europe,Southern Europe,Croatia,,,
-178.218.166.216,4,12,gkd.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.165.134,4,5,gong.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-161.53.50.3,4,7,grad.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-185.58.73.26,4,8,gtm.hr,HR,Europe,Southern Europe,Croatia,,,
+185.46.34.10,4,37,fscg.me,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Našice
+185.58.73.18,4,-5,ftb.com.hr,HR,Europe,Southern Europe,Croatia,,,
+85.10.51.135,4,534,fudzilla.com,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+185.98.14.180,4,-3,gdi.net,HR,Europe,Southern Europe,Croatia,,,
+178.218.166.216,4,-2,gkd.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.162.181,4,0,glas-koncila.hr,HR,Europe,Southern Europe,Croatia,,,
+185.46.34.62,4,-1,gohome.hr,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Našice
+178.218.165.134,4,9,gong.hr,HR,Europe,Southern Europe,Croatia,,,
+161.53.50.3,4,-63,grad.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+178.218.163.26,4,12,gradonacelnik.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.61,4,-19,h-alter.org,HR,Europe,Southern Europe,Croatia,,,
+178.218.164.4,4,13,hamradio.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.163.133,4,-1,has.hr,HR,Europe,Southern Europe,Croatia,,,
 178.23.184.114,4,4,hayat.ba,HR,Europe,Southern Europe,Croatia,,,
-185.58.73.30,4,6,hdlu.hr,HR,Europe,Southern Europe,Croatia,,,
-185.58.73.86,4,1,hkdrustvo.hr,HR,Europe,Southern Europe,Croatia,,,
+31.45.233.210,4,-8,hbk.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,
+185.58.73.30,4,0,hdlu.hr,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.86,4,-6,hkdrustvo.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.103,4,2,hkv.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.163.64,4,11,hms.ba,HR,Europe,Southern Europe,Croatia,,,
 213.186.1.223,4,6,hnd.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-185.58.73.245,4,3,hnk-zajc.hr,HR,Europe,Southern Europe,Croatia,,,
-178.218.165.44,4,4,hnkvz.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-31.147.207.51,4,10,hrzz.hr,HR,Europe,Southern Europe,Croatia,Koprivnica-Križevci County,,Križevci
-193.198.184.70,4,10,hsin.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-80.80.59.103,4,5,hvar.hr,HR,Europe,Southern Europe,Croatia,,,
-185.58.73.132,4,2,hzjz.hr,HR,Europe,Southern Europe,Croatia,,,
-178.218.166.10,4,8,hznet.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+178.218.165.44,4,27,hnkvz.hr,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.245,4,3,hotel-picok.hr,HR,Europe,Southern Europe,Croatia,,,
+193.198.184.70,4,-27,hsin.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+80.80.59.103,4,3,hvar.hr,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.132,4,-3,hzjz.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.166.10,4,1,hznet.hr,HR,Europe,Southern Europe,Croatia,,,
 185.58.73.14,4,20,ief.hr,HR,Europe,Southern Europe,Croatia,,,
-91.234.46.210,4,16,igrice-igre.biz,HR,Europe,Southern Europe,Croatia,,,
-31.45.233.210,4,5,ika.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,
-178.218.164.4,4,13,imc-cim.org,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-161.53.108.3,4,10,imi.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-31.147.207.9,4,6,irmo.hr,HR,Europe,Southern Europe,Croatia,Koprivnica-Križevci County,,Križevci
-178.218.165.140,4,3,iro.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-213.191.133.163,4,60,iskon.hr,HR,Europe,Southern Europe,Croatia,Split-Dalmatia County,,Split
-178.218.166.7,4,4,istarski.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+161.53.108.3,4,-75,imi.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+178.218.163.38,4,-6,in-portal.hr,HR,Europe,Southern Europe,Croatia,,,
+31.147.207.9,4,73,irmo.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+178.218.165.140,4,-2,iro.hr,HR,Europe,Southern Europe,Croatia,,,
+213.191.133.200,4,11,iskon.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+213.191.133.163,4,60,iskon.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+178.218.166.7,4,4,istarski.hr,HR,Europe,Southern Europe,Croatia,,,
 213.202.102.46,4,-1,istra-istria.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.165.38,4,21,jergovic.com,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.162.112,4,6,kastela.org,HR,Europe,Southern Europe,Croatia,,,
-185.155.226.217,4,1656,koncar.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+185.58.73.241,4,-41,iuc.hr,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.211,4,-3,jatrgovac.com,HR,Europe,Southern Europe,Croatia,,,
+185.66.141.35,4,1061,javelincloud.com,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.38,4,-4,jergovic.com,HR,Europe,Southern Europe,Croatia,,,
+185.103.217.243,4,-10,karlovacki.hr,HR,Europe,Southern Europe,Croatia,,,
+195.78.33.105,4,5,kaukal.hr,HR,Europe,Southern Europe,Croatia,,,
+194.152.247.138,4,12,kbc-rijeka.hr,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Osijek
 91.234.46.217,4,6,konektira.hr,HR,Europe,Southern Europe,Croatia,,,
-178.218.166.54,4,78,kongres-magazine.eu,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.165.119,4,3,kontejner.org,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.166.220,4,41,krilo.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+178.218.166.54,4,3,kongres-magazine.eu,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.119,4,15,kontejner.org,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.239,4,4,kozul.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.166.220,4,-1,krilo.hr,HR,Europe,Southern Europe,Croatia,,,
 194.56.74.63,4,12,ks.hr,HR,Europe,Southern Europe,Croatia,,,
-178.218.165.42,4,3,ktabkbih.net,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.165.41,4,86,kulturpunkt.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-194.152.247.144,4,1,laudato.hr,HR,Europe,Southern Europe,Croatia,Istria County,,Pula
-193.198.212.57,4,5,linux.hr,HR,Europe,Southern Europe,Croatia,Primorje-Gorski Kotar County,,Rijeka
-178.218.166.201,4,11,lokrum.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-161.53.245.3,4,7,lzmk.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.164.164,4,53,maratz.com,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-185.58.73.17,4,2,marketing-odjel.com,HR,Europe,Southern Europe,Croatia,,,
-178.218.167.86,4,55,medijskapismenost.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+178.218.165.42,4,-7,ktabkbih.net,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.41,4,43,kulturpunkt.hr,HR,Europe,Southern Europe,Croatia,,,
+91.234.46.210,4,11,kupi-prodaj.eu,HR,Europe,Southern Europe,Croatia,,,
+193.198.212.57,4,1,linux.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+194.56.74.112,4,-4,ljevak.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.166.201,4,15,lokrum.hr,HR,Europe,Southern Europe,Croatia,,,
+161.53.245.3,4,-1,lzmk.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+85.114.60.87,4,44748238,mallosijek.hr,HR,Europe,Southern Europe,Croatia,Split-Dalmatia County,,Split
+161.53.8.16,4,-39,math.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+185.58.73.17,4,-48,mbdb.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.167.86,4,3,medijskapismenost.hr,HR,Europe,Southern Europe,Croatia,,,
 195.29.178.8,4,22,medjimurska-zupanija.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-185.58.73.29,4,4,mestrovic.hr,HR,Europe,Southern Europe,Croatia,,,
-91.234.46.209,4,0,meteo-info.hr,HR,Europe,Southern Europe,Croatia,,,
-178.218.162.14,4,15,mingo.hr,HR,Europe,Southern Europe,Croatia,,,
-185.220.27.150,4,32,mojsite.com,HR,Europe,Southern Europe,Croatia,,,
-185.58.73.36,4,0,mok.hr,HR,Europe,Southern Europe,Croatia,,,
-89.201.175.234,4,31,motovunfilmfestival.com,HR,Europe,Southern Europe,Croatia,Zadar County,,Privlaka
-194.152.248.44,4,0,multilink.hr,HR,Europe,Southern Europe,Croatia,,,
-178.218.162.241,4,2,mzoip.hr,HR,Europe,Southern Europe,Croatia,,,
-178.218.166.211,4,4,nbaknights.com,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-185.58.73.254,4,1,nk-slaven-belupo.hr,HR,Europe,Southern Europe,Croatia,,,
-185.58.73.248,4,7,np-kornati.hr,HR,Europe,Southern Europe,Croatia,,,
-185.58.73.38,4,6,np-paklenica.hr,HR,Europe,Southern Europe,Croatia,,,
-185.58.73.251,4,1,np-sjeverni-velebit.hr,HR,Europe,Southern Europe,Croatia,,,
-178.218.165.138,4,8,npkrka.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.165.196,4,70,okud-istra.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-176.62.0.58,4,324,Ookla Speedtest Server 5708: observium.terrakom.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-185.166.252.233,4,142,Ookla Speedtest Server 16233: speedtest.econet.hr,HR,Europe,Southern Europe,Croatia,Varaždin County,,Sračinec
-178.17.127.202,4,265,Ookla Speedtest Server 31004: speedtest.btnet.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-213.186.1.81,4,232,Ookla Speedtest Server 45571: speedtest.omonia.net,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-195.29.4.226,4,817022,Ookla Speedtest Server 54211: speedtestri.ht.hr,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Osijek
-193.198.203.170,4,143,Ookla Speedtest Server 55191: speedtest.carnet.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-185.168.40.107,4,278,Ookla Speedtest Server 56288: ookla.4tel.hr,HR,Europe,Southern Europe,Croatia,Zagreb County,,Samobor
-185.244.92.71,4,224,Ookla Speedtest Server 61952: speedtest.franz-net.hr,HR,Europe,Southern Europe,Croatia,,,
-195.29.4.150,4,126637,Ookla Speedtest Server: speedtest.t-com.hr,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Osijek
+178.218.162.14,4,7,mingo.hr,HR,Europe,Southern Europe,Croatia,,,
+185.220.27.150,4,-6,mojsite.com,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.36,4,5,mok.hr,HR,Europe,Southern Europe,Croatia,,,
+89.201.175.234,4,11,motovunfilmfestival.com,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+178.218.165.210,4,5,mount-trade.hr,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.133,4,7,mrms.hr,HR,Europe,Southern Europe,Croatia,,,
+194.152.248.44,4,0,multilink.hr,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Osijek
+178.218.162.241,4,5,mzoip.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.108,4,-17,nasice.com,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.37,4,0,naturala.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.166.211,4,4,nbaknights.com,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.125,4,0,nedjelja.ba,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.254,4,6,nk-slaven-belupo.hr,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.248,4,1,np-kornati.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.132,4,5,np-mljet.hr,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.38,4,-13,np-paklenica.hr,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.251,4,-8,np-sjeverni-velebit.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.162.215,4,11,npkrka.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.138,4,8,npkrka.hr,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.52,4,38,obrtnici-zagreb.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.196,4,8,okud-istra.hr,HR,Europe,Southern Europe,Croatia,,,
+5.181.2.14,4,23,omegawatch.to,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+176.62.0.58,4,-5,Ookla Speedtest Server 5708: observium.terrakom.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+178.17.127.202,4,43,Ookla Speedtest Server 31004: speedtest.btnet.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+83.139.67.222,4,-4,Ookla Speedtest Server 41437: speedtest.a1.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+86.32.10.20,4,31,Ookla Speedtest Server 44719: speedtest.telemach.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+213.186.1.81,4,-6,Ookla Speedtest Server 45571: speedtest.omonia.net,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+195.29.4.226,4,-7,Ookla Speedtest Server 54211: speedtestri.ht.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+193.198.203.170,4,17,Ookla Speedtest Server 55191: speedtest.carnet.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+185.168.40.107,4,20,Ookla Speedtest Server 56288: ookla.4tel.hr,HR,Europe,Southern Europe,Croatia,Zagreb County,,Samobor
+185.244.92.71,4,4,Ookla Speedtest Server 61952: speedtest.franz-net.hr,HR,Europe,Southern Europe,Croatia,Međimurje County,,Nedelišće
+195.29.4.150,4,-1,Ookla Speedtest Server: speedtest.t-com.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
 91.234.46.31,4,41,opcina-jajce.ba,HR,Europe,Southern Europe,Croatia,,,
-185.46.34.60,4,7,osijek-airport.hr,HR,Europe,Southern Europe,Croatia,,,
-185.71.238.17,4,-4,otpbanka.hr,HR,Europe,Southern Europe,Croatia,,,
-178.218.165.61,4,58,otvoreni.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.165.124,4,1,ozujsko.com,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-185.58.73.40,4,3,paklenica.hr,HR,Europe,Southern Europe,Croatia,,,
-178.218.165.218,4,16,pdkrndija.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.165.132,4,4,plesoprijevoz.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-91.234.46.207,4,47,poandpo.com,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.29,4,2,os-popovaca.hr,HR,Europe,Southern Europe,Croatia,,,
+185.46.34.60,4,55,osijek-airport.hr,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Našice
+178.218.163.40,4,21,osijekexpress.com,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.124,4,1,ozujsko.com,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.40,4,4,paklenica.hr,HR,Europe,Southern Europe,Croatia,,,
+195.78.33.118,4,3,paradiso-arcus.hr,HR,Europe,Southern Europe,Croatia,,,
+91.234.46.15,4,-16,pdcck.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.218,4,16,pdkrndija.hr,HR,Europe,Southern Europe,Croatia,,,
+91.234.46.207,4,23,poandpo.com,HR,Europe,Southern Europe,Croatia,,,
 194.56.74.55,4,17,poliklinika-djeca.hr,HR,Europe,Southern Europe,Croatia,,,
-185.46.34.56,4,53,poslovniforum.hr,HR,Europe,Southern Europe,Croatia,,,
-195.78.33.62,4,35,posluh.hr,HR,Europe,Southern Europe,Croatia,,,
-185.58.73.241,4,22,pp-lonjsko-polje.hr,HR,Europe,Southern Europe,Croatia,,,
-194.56.74.99,4,3,pp-medvednica.hr,HR,Europe,Southern Europe,Croatia,,,
-185.58.73.146,4,64,pp-telascica.hr,HR,Europe,Southern Europe,Croatia,,,
-31.147.206.190,4,73,pravo.hr,HR,Europe,Southern Europe,Croatia,Koprivnica-Križevci County,,Križevci
-185.58.73.238,4,61,prijatelji-zivotinja.hr,HR,Europe,Southern Europe,Croatia,,,
-178.218.163.134,4,4,pulainfo.hr,HR,Europe,Southern Europe,Croatia,,,
-185.58.73.13,4,67,radioslavonija.hr,HR,Europe,Southern Europe,Croatia,,,
-178.218.170.47,4,59,regionalexpress.hr,HR,Europe,Southern Europe,Croatia,,,
-178.218.165.203,4,20,researchleap.com,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.165.207,4,19,restaurant-era.com,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.163.6,4,5,rijekadanas.com,HR,Europe,Southern Europe,Croatia,,,
-193.198.212.7,4,6,rot13.org,HR,Europe,Southern Europe,Croatia,Primorje-Gorski Kotar County,,Rijeka
-178.218.166.16,4,58,rtvusk.ba,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-185.58.73.236,4,6,s-box.biz,HR,Europe,Southern Europe,Croatia,,,
-178.218.166.35,4,16,sbonline.net,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+185.98.12.220,4,4,polleosport.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+185.46.34.56,4,19,poslovniforum.hr,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Našice
+195.78.33.62,4,1,posluh.hr,HR,Europe,Southern Europe,Croatia,,,
+178.23.184.2,4,10,pp-medvednica.hr,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.146,4,3,pp-telascica.hr,HR,Europe,Southern Europe,Croatia,,,
+31.147.206.190,4,-32,pravo.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+185.58.73.238,4,8,prijatelji-zivotinja.hr,HR,Europe,Southern Europe,Croatia,,,
+193.198.184.121,4,-21,prognoza.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+185.58.73.24,4,7,prvomajska.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.162.203,4,11,pulainfo.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.164.164,4,15,radio-ilok.hr,HR,Europe,Southern Europe,Croatia,,,
+91.234.46.209,4,14,radiosamobor.hr,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.13,4,3,radioslavonija.hr,HR,Europe,Southern Europe,Croatia,,,
+185.46.34.4,4,8,realestatecroatia.com,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Našice
+178.218.166.132,4,-12,regionalexpress.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.203,4,11,researchleap.com,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.207,4,19,restaurant-era.com,HR,Europe,Southern Europe,Croatia,,,
+178.218.163.6,4,13,rijekadanas.com,HR,Europe,Southern Europe,Croatia,,,
+178.218.170.22,4,17,riportal.net.hr,HR,Europe,Southern Europe,Croatia,,,
+193.198.212.7,4,-46,rot13.org,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+178.218.162.212,4,11,rrif.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.166.16,4,58,rtvusk.ba,HR,Europe,Southern Europe,Croatia,,,
+178.218.166.35,4,10,sbonline.net,HR,Europe,Southern Europe,Croatia,,,
+85.94.72.110,4,10982,scumgame.com,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
 185.58.73.54,4,8,seebiz.eu,HR,Europe,Southern Europe,Croatia,,,
-185.58.73.232,4,10,sibenik-tourism.hr,HR,Europe,Southern Europe,Croatia,,,
-185.58.73.81,4,0,sibenik.hr,HR,Europe,Southern Europe,Croatia,,,
-193.198.252.45,4,15,skole.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+185.58.73.232,4,18,sibenik-tourism.hr,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.81,4,18,sibenik.hr,HR,Europe,Southern Europe,Croatia,,,
+193.198.252.45,4,16,skole.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+178.218.166.176,4,-10,skolskiportal.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.39,4,9,slavonski-brod.hr,HR,Europe,Southern Europe,Croatia,,,
 213.186.7.74,4,-3774,smartcode.eu,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
 178.218.174.100,4,13,snv.hr,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.236,4,7,sphere.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.166.209,4,40,stabilnost.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.139,4,34,stancijanegrin.com,HR,Europe,Southern Europe,Croatia,,,
 91.234.46.205,4,67,starpointgemini.com,HR,Europe,Southern Europe,Croatia,,,
-176.62.8.184,4,34,stotinka.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-213.186.1.188,4,121,studentski.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+176.62.8.184,4,7,stotinka.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+45.95.168.70,4,769,strojnivezsisak.com,HR,Europe,Southern Europe,Croatia,Sisak-Moslavina County,,Sisak
+213.186.1.188,4,7,studentski.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+213.147.115.174,4,43,svijet-medija.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+178.218.162.32,4,10,swixxbiopharma.com,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.126,4,24,teatar.hr,HR,Europe,Southern Europe,Croatia,,,
 185.58.73.22,4,45,tehnoservis.net,HR,Europe,Southern Europe,Croatia,,,
-89.201.175.200,4,3,terminal.hr,HR,Europe,Southern Europe,Croatia,Zadar County,,Privlaka
+178.218.166.222,4,44,teklic.hr,HR,Europe,Southern Europe,Croatia,,,
+89.201.175.200,4,3,terminal.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
 91.234.46.58,4,2,thebrm.co.uk,HR,Europe,Southern Europe,Croatia,,,
-91.234.46.40,4,15,thedubrovniktimes.com,HR,Europe,Southern Europe,Croatia,,,
-185.46.34.53,4,6,tvs.hr,HR,Europe,Southern Europe,Croatia,,,
+91.234.46.40,4,21,thedubrovniktimes.com,HR,Europe,Southern Europe,Croatia,,,
+178.218.166.212,4,15,tockanai.hr,HR,Europe,Southern Europe,Croatia,,,
+82.214.121.54,4,638,trakoscan.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+185.103.219.112,4,25,tts-sport.hr,HR,Europe,Southern Europe,Croatia,,,
+185.46.34.53,4,6,tvs.hr,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Našice
+185.58.73.20,4,6,ucitelji.hr,HR,Europe,Southern Europe,Croatia,,,
+91.234.46.203,4,14,ultras-tifo.net,HR,Europe,Southern Europe,Croatia,,,
+194.152.247.144,4,15,unicath.hr,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Osijek
 195.78.33.109,4,21,unicath.hr,HR,Europe,Southern Europe,Croatia,,,
-193.198.63.12,4,9,unin.hr,HR,Europe,Southern Europe,Croatia,Split-Dalmatia County,,Split
-31.147.206.15,4,4,unipu.hr,HR,Europe,Southern Europe,Croatia,Koprivnica-Križevci County,,Križevci
-178.218.165.139,4,3,utp.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.166.149,4,22,valalta.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.165.40,4,7,varazdinska-zupanija.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.165.52,4,26,vcz.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.166.33,4,30,verbum.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-85.94.73.235,4,16,vidi.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-91.234.46.203,4,25,villa-julian.com,HR,Europe,Southern Europe,Croatia,,,
+193.198.63.12,4,-25,unin.hr,HR,Europe,Southern Europe,Croatia,Split-Dalmatia County,,Supetar
+31.147.206.15,4,16,unipu.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+178.218.166.149,4,15,valalta.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.40,4,16,varazdinska-zupanija.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.52,4,32,vasezdravlje.com,HR,Europe,Southern Europe,Croatia,,,
+178.218.166.33,4,30,verbum.hr,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.235,4,11,vern.hr,HR,Europe,Southern Europe,Croatia,,,
+85.94.73.235,4,7,vidi.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+178.218.162.128,4,11,vinia-adventure.hr,HR,Europe,Southern Europe,Croatia,,,
+185.66.140.191,4,8,virtualno360.hr,HR,Europe,Southern Europe,Croatia,,,
 195.29.178.20,4,3,visitkorcula.eu,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-185.58.73.211,4,91,visitrijeka.hr,HR,Europe,Southern Europe,Croatia,,,
-178.218.165.105,4,3,vitalis.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-194.152.213.19,4,37,voda.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-178.218.174.68,4,1,voxfeminae.net,HR,Europe,Southern Europe,Croatia,,,
-193.198.184.121,4,29,vrijeme.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
-185.58.73.135,4,4,vukovar.hr,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.150,4,9,visitrijeka.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.105,4,3,vitalis.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.213,4,35,vjerski-tisak.com,HR,Europe,Southern Europe,Croatia,,,
+178.218.166.202,4,27,vjesnik.hr,HR,Europe,Southern Europe,Croatia,,,
+194.152.213.19,4,1,voda.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+178.218.174.68,4,19,voxfeminae.net,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.135,4,8,vukovar.hr,HR,Europe,Southern Europe,Croatia,,,
+195.29.178.31,4,7,webgradnja.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+161.53.116.12,4,-41,www.fsb.unizg.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
 185.155.224.42,4,26873,xenon-forte.hr,HR,Europe,Southern Europe,Croatia,,,
-185.58.73.134,4,54,zadarska-zupanija.hr,HR,Europe,Southern Europe,Croatia,,,
-178.218.170.22,4,8,zena.hr,HR,Europe,Southern Europe,Croatia,,,
-185.58.73.48,4,20,zoo.hr,HR,Europe,Southern Europe,Croatia,,,
-178.218.165.76,4,1,zsem.hr,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+185.58.73.134,4,-5,zadarska-zupanija.hr,HR,Europe,Southern Europe,Croatia,,,
+176.62.8.125,4,830,zagrebancija.com,HR,Europe,Southern Europe,Croatia,City of Zagreb,,Zagreb
+178.218.163.32,4,29,zekaem.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.162.149,4,2,zff.hr,HR,Europe,Southern Europe,Croatia,,,
+185.58.73.48,4,-5,zoo.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.165.76,4,1,zsem.hr,HR,Europe,Southern Europe,Croatia,,,
+178.218.166.12,4,5,zzjzpgz.hr,HR,Europe,Southern Europe,Croatia,,,

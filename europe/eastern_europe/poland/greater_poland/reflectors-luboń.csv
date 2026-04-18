@@ -1,6 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-85.221.161.50,4,97379,DNS Server: c161-50.icpnet.pl,PL,Europe,Eastern Europe,Poland,Greater Poland,,Luboń
-85.221.172.18,4,511316,DNS Server: c172-18.icpnet.pl,PL,Europe,Eastern Europe,Poland,Greater Poland,,Luboń
-85.221.172.30,4,7112,DNS Server: c172-30.icpnet.pl,PL,Europe,Eastern Europe,Poland,Greater Poland,,Luboń
-85.221.216.174,4,-9606,DNS Server: c216-174.icpnet.pl,PL,Europe,Eastern Europe,Poland,Greater Poland,,Luboń
-85.221.217.218,4,79430,DNS Server: c217-218.icpnet.pl,PL,Europe,Eastern Europe,Poland,Greater Poland,,Luboń
+77.65.71.50,4,3367,DNS Server: d71-50.icpnet.pl,PL,Europe,Eastern Europe,Poland,Greater Poland,,Luboń
+37.109.21.164,4,-2,Ookla Speedtest Server 60317: speedtestooklabal1.plus.pl,PL,Europe,Eastern Europe,Poland,Greater Poland,,Luboń
+37.109.21.172,4,-10,Ookla Speedtest Server 60355: speedtestooklagro1.plus.pl,PL,Europe,Eastern Europe,Poland,Greater Poland,,Luboń
+37.109.21.180,4,-7,Ookla Speedtest Server 60356: speedtestooklapoz1.plus.pl,PL,Europe,Eastern Europe,Poland,Greater Poland,,Luboń

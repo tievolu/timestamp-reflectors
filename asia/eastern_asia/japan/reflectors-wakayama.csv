@@ -1,3 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-218.45.0.23,4,12,nnc.or.jp,JP,Asia,Eastern Asia,Japan,Wakayama,,Wakayama
-218.45.1.223,4,6,tv-wakayama.co.jp,JP,Asia,Eastern Asia,Japan,Wakayama,,Wakayama
+218.45.0.23,4,-3,nnc.or.jp,JP,Asia,Eastern Asia,Japan,Wakayama,,Wakayama
+27.116.29.67,4,55,rifnet.or.jp,JP,Asia,Eastern Asia,Japan,Wakayama,,Tanabe
+27.116.29.59,4,0,shinguu.jp,JP,Asia,Eastern Asia,Japan,Wakayama,,Tanabe
+218.45.1.223,4,12,tv-wakayama.co.jp,JP,Asia,Eastern Asia,Japan,Wakayama,,Wakayama

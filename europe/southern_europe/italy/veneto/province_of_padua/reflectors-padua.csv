@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+188.219.106.19,4,1,addictus.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Padua,Padua
+147.162.22.1,4,-5,DoH server: galileo.math.unipd.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Padua,Padua
+159.255.134.138,4,-6,Ookla Speedtest Server 71426: speedtest-pd.airbeam.cloud,IT,Europe,Southern Europe,Italy,Veneto,Province of Padua,Padua

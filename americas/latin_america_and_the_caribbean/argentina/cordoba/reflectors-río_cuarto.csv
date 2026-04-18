@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+190.123.85.117,4,2912,DNS Server: host117.190-123-85.sitsanetworks.net,AR,Americas,Latin America and the Caribbean,Argentina,Cordoba,,Río Cuarto
+190.123.85.89,4,-7,DNS Server: host89.190-123-85.sitsanetworks.net,AR,Americas,Latin America and the Caribbean,Argentina,Cordoba,,Río Cuarto
+45.189.200.7,4,87487,Ookla Speedtest Server 30586: speedtest.grupomke.com,AR,Americas,Latin America and the Caribbean,Argentina,Cordoba,,Río Cuarto

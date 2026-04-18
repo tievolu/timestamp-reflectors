@@ -1,13 +1,33 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-91.83.235.125,4,-1217614,DNS Server: 125.235.pool.netchannel.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Baks
-91.83.235.129,4,32273,DNS Server: 129.235.pool.netchannel.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Baks
-91.83.64.129,4,52,DNS Server: 129.64.83.91.perfectpc.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
-91.83.64.185,4,512309,DNS Server: 185.64.83.91.perfectpc.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
-79.122.109.148,4,102,DNS Server: 4F7A6D94.catv.pool.telekom.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Hódmezővásárhely
-91.83.232.6,4,10,DNS Server: 6.232.pool.szemernet.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Baks
-188.157.72.233,4,10945,DNS Server: BC9D48E9.catv.pool.telekom.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
-195.228.81.117,4,45,DNS Server: dslC3E45175.fixip.t-online.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
-91.83.64.2,4,4,Ookla Speedtest Server: www.netsurfclub.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
-91.82.85.21,4,103,radio88.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
-62.77.230.196,4,13,richlife.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
-160.114.8.5,4,3,u-szeged.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+79.120.135.2,4,2,buzascsaba.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Csengele
+91.227.138.65,4,-6,cegnev.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.83.235.129,4,15073,DNS Server: 129.235.pool.netchannel.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.83.164.162,4,-20232,DNS Server: 162.164.pool.szemernet.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.83.64.185,4,58885,DNS Server: 185.64.83.91.perfectpc.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+79.122.109.148,4,75744527,DNS Server: 4F7A6D94.catv.pool.telekom.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Hódmezővásárhely
+91.83.87.58,4,21433389,DNS Server: 58.87.pool.szemernet.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.83.232.6,4,-3,DNS Server: 6.232.pool.szemernet.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.227.138.100,4,14,dobossy.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.227.139.68,4,-15,dsfl.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.227.138.53,4,9,ephelis.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.227.138.41,4,23,feszekrako.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.227.138.18,4,-3,fintech.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.227.138.37,4,4,flippermuzeum.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.227.139.81,4,-13,hiia.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+79.120.135.235,4,-767,intelliport.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Csengele
+91.227.138.34,4,-2,lepesradio.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.227.139.235,4,16,linkcsereoldal.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.227.139.83,4,5,noinapozo.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+185.152.182.252,4,-3,Ookla Speedtest Server 20386: sp02.wavecom.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+185.130.193.12,4,70,Ookla Speedtest Server 47964: speedtest-1.winext.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+185.130.193.83,4,0,Ookla Speedtest Server 71292: speedtest-2.winext.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szentes
+91.83.64.2,4,-4,Ookla Speedtest Server: www.netsurfclub.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.227.138.31,4,-4,paksiandras.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.227.139.69,4,0,parlando.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.227.139.84,4,-15,pontmagazin.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.227.138.39,4,5,shodostation.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.227.139.189,4,3,szegeder.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.227.138.117,4,13,szekhelycentrum.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.227.139.41,4,7,sztfh.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.227.138.102,4,11,uvegangyal.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.227.139.12,4,15,vasuttortenetipark.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged

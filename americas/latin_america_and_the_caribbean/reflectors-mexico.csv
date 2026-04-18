@@ -1,230 +1,498 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-190.103.179.146,4,4,1xbet.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,
-159.54.130.135,4,33,aerounion.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,Querétaro
-201.161.118.51,4,1045,aprende.org,MX,Americas,Latin America and the Caribbean,Mexico,,,
-159.54.150.91,4,5,caaarem.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,Querétaro
-201.96.177.100,4,13,canal22.org.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Coyoacán
-187.178.237.60,4,25,cemla.org,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,San Pedro
-158.97.8.15,4,1,cicese.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Ensenada
-187.130.250.16,4,7021811,cimav.edu.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Campo Sesenta y Cuatro B
-201.161.69.231,4,20,clikisalud.net,MX,Americas,Latin America and the Caribbean,Mexico,,,
-140.84.188.199,4,71,conalep.edu.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,Querétaro
-216.238.68.4,4,-1,digibyte.co,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,Querétaro City
-201.148.17.116,4,68,DNS Server: 116.201-148-17.bestelclientes.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
-138.122.97.226,4,4110,DNS Server: 138-122-97-226.internet.static.ientc.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Apaseo el Grande
-148.243.230.130,4,16,DNS Server: 148-243-230-130.static.axtel.net,MX,Americas,Latin America and the Caribbean,Mexico,Tamaulipas,,Ciudad Victoria
-201.148.42.18,4,8068,DNS Server: 18.201-148-42.bestelclientes.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Muna
-189.204.230.182,4,16,DNS Server: 182.189-204-230.bestelclientes.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Saltillo
-187.252.154.90,4,5,DNS Server: 187.252.154.90.cable.dyn.cableonline.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Mérida
-189.201.241.217,4,11,DNS Server: 189.201.241.217.red-7.net,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
-189.223.248.74,4,5765,DNS Server: 189.223.248.74.ded.telnor.net,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
-45.167.112.2,4,3584576,DNS Server: 2.45-167-112.cosmored.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Puerto Vallarta
-201.159.20.161,4,-1,DNS Server: 20.161.konectate.co,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
-200.188.57.17,4,-543365372,DNS Server: 200-188-57-17.static.axtel.net,MX,Americas,Latin America and the Caribbean,Mexico,México,,Ciudad Nezahualcoyotl
-201.174.175.91,4,54832,DNS Server: 201-174-175-91.transtelco.net,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Álamo
-201.174.235.68,4,-4767,DNS Server: 201-174-235-68.transtelco.net,MX,Americas,Latin America and the Caribbean,Mexico,Tamaulipas,,Reynosa
-204.199.204.130,4,-23574,DNS Server: 204-199-204-130.dia.static.centurylink.com.cl,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Zapotlanejo
-204.199.204.154,4,7216,DNS Server: 204-199-204-154.dia.static.centurylink.com.cl,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Zapotlanejo
-216.238.71.110,4,914938,DNS Server: 216.238.71.110.vultrusercontent.com,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,Querétaro City
-189.204.142.226,4,431,DNS Server: 226.189-204-142.bestelclientes.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Tamazunchale
-187.102.231.23,4,7808,DNS Server: 23-231-102-187.static.linktec.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Valle de Santiago
-45.190.197.235,4,4059,DNS Server: 235-197-190-45.tecnianet.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,El Salto
-189.204.240.235,4,5,DNS Server: 235.189-204-240.bestelclientes.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tabasco,,Macuspana
-45.167.113.4,4,3598146,DNS Server: 4.45-167-113.cosmored.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Puerto Vallarta
-45.231.221.1,4,538250,DNS Server: 45-231-221-1.dyn.distrokom.net,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Tijuana
-45.231.223.250,4,-49664084,DNS Server: 45-231-223-250.dyn.distrokom.net,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Tijuana
-45.6.143.102,4,137,DNS Server: 45.6.143.102.lumenet.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
-168.194.90.2,4,13553,DNS Server: 90.2.konectate.co,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Tijuana
-187.141.133.236,4,36298,DNS Server: customer-187-141-133-236-sta.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Culiacán
-187.174.213.18,4,-97,DNS Server: customer-187-174-213-18.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Metepec
-187.174.97.82,4,3971,DNS Server: customer-187-174-97-82.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Coyoacán
-187.210.134.50,4,8,DNS Server: customer-187-210-134-50.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
-187.216.100.162,4,29802,DNS Server: customer-187-216-100-162.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California Sur,,La Ribera
-187.216.41.205,4,217,DNS Server: customer-187-216-41-205.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Chihuahua City
-187.217.225.181,4,-32077180,DNS Server: customer-187-217-225-181.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Puerto Vallarta
-187.217.98.156,4,-39220,DNS Server: customer-187-217-98-156.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Hidalgo,,Tlaxcoapan
-189.254.232.225,4,-23687,DNS Server: customer-189-254-232-225-sta.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Morelia
-201.117.254.241,4,-1239990666,DNS Server: customer-201-117-254-241.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
-189.196.21.23,4,-978,DNS Server: customer-AGPR-21-23.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Ixtlahuaca de Rayón
-177.229.223.74,4,-99,DNS Server: customer-CJRZ-MCA-223-74.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Ciudad Juárez
-200.52.177.190,4,-2918238,DNS Server: customer-CLN-MCA-177-190.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Culiacán
-177.247.0.122,4,16,DNS Server: customer-HMO-MCA-0-122.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Hermosillo
-189.197.79.130,4,43,DNS Server: customer-LMM-79-130.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Los Mochis
-177.242.147.70,4,22,DNS Server: customer-MCA-PUE-147-70.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tlaxcala,,Natívitas
-177.241.245.222,4,5922,DNS Server: customer-MCA-STAA-245-222.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Mazatlán
-177.241.245.70,4,2266,DNS Server: customer-MCA-STAA-245-70.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Santa Ana Viejo
-177.241.246.53,4,1,DNS Server: customer-MCA-XAL-246-53.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Apazapan
-177.229.193.43,4,-8020,DNS Server: customer-MOR-193-43.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Quintana Roo,,José María Morelos
-189.195.138.62,4,1529,DNS Server: customer-PUE-MCA-138-62.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Choix
-201.132.162.254,4,-219,DNS Server: customer-PUE-MCA-162-254.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Tehuacán
-200.92.202.26,4,4363,DNS Server: customer-PUE-MCA-202-26.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Tepanco
-177.240.8.182,4,7180,DNS Server: customer-PUE-MCA-8-182.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Puebla City
-177.242.151.202,4,-165,DNS Server: customer-QRO-151-202.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Oaxaca,,San Juan Bautista Tuxtla
-177.242.151.222,4,3018,DNS Server: customer-QRO-151-222.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Oaxaca,,San Juan Bautista Tuxtla
-177.242.151.254,4,1309,DNS Server: customer-QRO-151-254.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Oaxaca,,San Juan Bautista Tuxtla
-177.240.18.182,4,5507,DNS Server: customer-TLN-18-182.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Ecatepec
-189.198.199.102,4,91,DNS Server: customer-ZAC-MCA-199-102.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Zacatecas,,Zacatecas City
-201.165.54.242,4,4802,DNS Server: customer-ZITA-54-242.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Ahome
-200.95.144.4,4,-134558,DNS Server: cva2.cableonline.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
-45.164.238.29,4,-56525,DNS Server: default.htvtelecom.com,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Cárdenas
-148.240.244.118,4,-2146201102,DNS Server: dial-148-240-244-118.zone-1.ip.static-ftth.axtel.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Veracruz
-187.198.178.187,4,7509,DNS Server: dsl-187-198-178-187-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Zapotlán el Grande
-187.204.74.158,4,231,DNS Server: dsl-187-204-74-158-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Autlán de Navarro
-187.205.184.78,4,276,DNS Server: dsl-187-205-184-78-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,San Miguel el Alto
-187.205.193.45,4,156,DNS Server: dsl-187-205-193-45-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,La Barca
-189.135.35.118,4,281,DNS Server: dsl-189-135-35-118-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Sahuayo de Morelos
-189.148.34.113,4,130,DNS Server: dsl-189-148-34-113-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chiapas,,Tapachula
-189.154.154.95,4,103,DNS Server: dsl-189-154-154-95-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Chihuahua City
-189.244.93.81,4,150,DNS Server: dsl-189-244-93-81-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Torreón
-201.101.2.38,4,99,DNS Server: dsl-201-101-2-38-sta.prod-empresarial.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tamaulipas,,Ciudad Madero
-201.137.238.95,4,144,DNS Server: dsl-201-137-238-95-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Benito Juarez
-186.96.11.240,4,27,DNS Server: fixed-186-96-11-240.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,Monterrey
-186.96.145.231,4,4,DNS Server: fixed-186-96-145-231.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Hidalgo,,Mineral de la Reforma
-186.96.178.170,4,47599,DNS Server: fixed-186-96-178-170.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Cuichapa
-186.96.53.86,4,52,DNS Server: fixed-186-96-53-86.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,México,,Huehuetoca
-187.188.0.189,4,92051,DNS Server: fixed-187-188-0-189.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Coyoacán
-187.188.125.185,4,28,DNS Server: fixed-187-188-125-185.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Coyoacán
-187.188.167.2,4,12,DNS Server: fixed-187-188-167-2.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Xalapa
-187.188.199.38,4,2584,DNS Server: fixed-187-188-199-38.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,Ciudad Benito Juárez
-187.188.27.205,4,14,DNS Server: fixed-187-188-27-205.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Chiapas,,Tuxtla Gutiérrez
-187.188.57.147,4,1050,DNS Server: fixed-187-188-57-147.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Álvaro Obregón
-187.189.119.11,4,46,DNS Server: fixed-187-189-119-11.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Chiapas,,Tapachula
-187.189.143.44,4,36,DNS Server: fixed-187-189-143-44.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,Apodaca
-187.189.23.177,4,168,DNS Server: fixed-187-189-23-177.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Xalapa
-187.190.249.23,4,65,DNS Server: fixed-187-190-249-23.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Tabasco,,Huimanguillo
-187.251.128.207,4,38,DNS Server: fixed-187-251-128-207.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Zapopan
-187.251.227.50,4,-435600526,DNS Server: fixed-187-251-227-50.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Gustavo Adolfo Madero
-189.203.141.69,4,1186,DNS Server: fixed-189-203-141-69.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,México,,Toluca
-200.56.252.75,4,-12230,DNS Server: host112075.metrored.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
-45.175.237.66,4,-858,DNS Server: host237-66.hulux.mx,MX,Americas,Latin America and the Caribbean,Mexico,Hidalgo,,Francisco I. Madero Municipality
-138.186.66.254,4,34,DNS Server: ip-138-186-66-254.mid.spectro.mx,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Mérida
-201.168.107.146,4,47,DNS Server: ip-201-168-107-146.marcatel.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Venado
-201.168.107.148,4,15,DNS Server: ip-201-168-107-148.marcatel.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Venado
-189.254.225.213,4,376,DNS Server: mail.cesantoni.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Zamora
-45.174.70.10,4,327930,DNS Server: nav.index.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Ciudad Obregón
-189.203.198.185,4,71,DNS Server: nocintt2.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Tultepec
-45.5.94.206,4,639,DNS Server: slw.nrtmexico.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Saltillo
-201.144.48.73,4,3521606,DNS Server: static.customer-201-144-48-73.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Morelia
-132.247.85.69,4,6,edusol.info,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Álvaro Obregón
-201.149.66.51,4,356,enfilme.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Benito Juarez
-143.255.58.138,4,310,eyboletin.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
-187.191.66.141,4,6,gs1mexico.org,MX,Americas,Latin America and the Caribbean,Mexico,,,
-181.191.247.50,4,33,iepcjalisco.org.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
-168.0.221.162,4,297889,itea.org.mx,MX,Americas,Latin America and the Caribbean,Mexico,Aguascalientes,,Aguascalientes
+195.250.27.25,4,-18,6cfn.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+159.54.130.135,4,-8,aerounion.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,
+201.161.118.51,4,10960,aprende.org,MX,Americas,Latin America and the Caribbean,Mexico,,,
+143.255.58.42,4,16,autoelectricahernandez.com,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
+216.224.125.162,4,8,b1-bet.top,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+216.224.125.155,4,15,bbrbet.top,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+216.224.125.159,4,8,betcerto.top,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+159.54.150.91,4,-4,caaarem.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,
+201.96.177.100,4,-11,canal22.org.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Benito Juarez
+201.161.118.16,4,10949,capacitateparaelempleo.org,MX,Americas,Latin America and the Caribbean,Mexico,,,
+103.138.188.149,4,1,cdhpuebla.org.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+195.250.27.54,4,3,cecytebcs.edu.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+201.132.60.227,4,-1,cemla.org,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Azcapotzalco
+158.97.8.15,4,-18,cicese.edu.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Ensenada
+187.130.250.29,4,36,cimav.edu.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+177.229.198.250,4,446,circusbowl.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Torreón
+201.161.69.231,4,3,clikisalud.net,MX,Americas,Latin America and the Caribbean,Mexico,,,
+201.132.119.58,4,-12,cmq.edu.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Toluca
+140.84.188.199,4,-9,conalep.edu.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,
+189.204.228.10,4,-11979,DNS Server: 10.189-204-228.bestelclientes.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Matehuala
+201.148.17.110,4,2927,DNS Server: 110.201-148-17.bestelclientes.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chiapas,,Mapastepec
+201.148.17.116,4,27571,DNS Server: 116.201-148-17.bestelclientes.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chiapas,,Mapastepec
+200.57.12.122,4,1584,DNS Server: 122.200-57-12.bestelclientes.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,
+138.94.141.13,4,38482,DNS Server: 13-141-94-138.jobnetworks.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Irapuato
+138.122.97.226,4,957,DNS Server: 138-122-97-226.internet.static.ientc.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,
+148.243.230.130,4,-4,DNS Server: 148-243-230-130.static.axtel.net,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Gustavo Adolfo Madero
+189.204.255.148,4,-102286,DNS Server: 148.189-204-255.bestel.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Dzidzantún
+189.204.252.157,4,23063,DNS Server: 157.189-204-252.bestelclientes.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chiapas,,Villaflores
+45.230.172.120,4,-23,DNS Server: 172.120.comcom-clientes.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Culiacán
+187.120.173.2,4,-7,DNS Server: 173.2.huejucartelecom.mx,MX,Americas,Latin America and the Caribbean,Mexico,Aguascalientes,,Aguascalientes
+138.94.140.182,4,302962,DNS Server: 182-140-94-138.jobnetworks.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Teotihuacán
+189.204.230.182,4,3,DNS Server: 182.189-204-230.bestelclientes.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Matehuala
+187.252.154.90,4,42,DNS Server: 187.252.154.90.cable.dyn.cableonline.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Valladolid
+189.223.248.74,4,88,DNS Server: 189.223.248.74.ded.telnor.net,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Ensenada
+45.167.112.2,4,-8613,DNS Server: 2.45-167-112.cosmored.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Zapopan
+201.159.20.161,4,8255,DNS Server: 20.161.konectate.co,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
+201.174.175.91,4,54832,DNS Server: 201-174-175-91.transtelco.net,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Xalapa
+201.174.235.68,4,-258,DNS Server: 201-174-235-68.transtelco.net,MX,Americas,Latin America and the Caribbean,Mexico,Tamaulipas,,Reynosa
+201.174.63.161,4,58746860,DNS Server: 201-174-63-161.transtelco.net,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
+201.172.207.22,4,18115213,DNS Server: 201.172.207.22-clientes-izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,Monterrey
+216.238.71.110,4,190194,DNS Server: 216.238.71.110.vultrusercontent.com,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,Querétaro City
+187.102.231.23,4,3008,DNS Server: 23-231-102-187.static.linktec.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Valle de Santiago
+45.190.197.235,4,1310,DNS Server: 235-197-190-45.tecnianet.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,El Salto
+189.204.240.235,4,2434,DNS Server: 235.189-204-240.bestelclientes.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+38.65.136.250,4,1,DNS Server: 38-65-136-250.customer.ientc.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Celaya
+45.167.113.4,4,3603290,DNS Server: 4.45-167-113.cosmored.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Zapopan
+45.231.221.1,4,15533,DNS Server: 45-231-221-1.dyn.distrokom.net,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Tijuana
+45.231.223.250,4,26784610,DNS Server: 45-231-223-250.dyn.distrokom.net,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Tijuana
+168.194.90.2,4,11455,DNS Server: 90.2.konectate.co,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Tijuana
+45.174.92.172,4,45,DNS Server: 92.172.satlink.com,MX,Americas,Latin America and the Caribbean,Mexico,Oaxaca,,San Juan Bautista Tuxtla
+138.99.150.105,4,384582,DNS Server: customer-138-99-150-105.gbic.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Uriangato
+187.141.133.236,4,23428,DNS Server: customer-187-141-133-236-sta.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California Sur,,La Paz
+187.141.169.250,4,2430,DNS Server: customer-187-141-169-250-sta.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California Sur,,Los Cabos
+187.141.87.102,4,63,DNS Server: customer-187-141-87-102-sta.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Puebla City
+187.174.213.18,4,-1254,DNS Server: customer-187-174-213-18.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Metepec
+187.174.97.82,4,62,DNS Server: customer-187-174-97-82.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Ciudad López Mateos
+187.210.134.50,4,-20,DNS Server: customer-187-210-134-50.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Mazatlán
+187.216.100.162,4,56,DNS Server: customer-187-216-100-162.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California Sur,,Los Cabos
+187.216.41.205,4,25829,DNS Server: customer-187-216-41-205.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Saltillo
+187.217.225.181,4,-44093,DNS Server: customer-187-217-225-181.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
+189.254.232.225,4,-391248,DNS Server: customer-189-254-232-225-sta.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Morelia
+201.117.254.241,4,-1097223067,DNS Server: customer-201-117-254-241.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Morelia
+177.229.223.74,4,-4758,DNS Server: customer-CJRZ-MCA-223-74.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Ciudad Juárez
+201.164.154.202,4,1944,DNS Server: customer-CLN-MCA-154-202.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Culiacán
+138.185.2.206,4,-3475,DNS Server: customer-CLN-MCA-2-206.metrocarrier.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Culiacán
+177.241.245.222,4,32,DNS Server: customer-MCA-STAA-245-222.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Magdalena de Kino
+177.241.245.70,4,79439,DNS Server: customer-MCA-STAA-245-70.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Magdalena de Kino
+177.241.246.53,4,-1,DNS Server: customer-MCA-XAL-246-53.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Apazapan
+201.164.60.34,4,87821,DNS Server: customer-MCA-ZRA-60-34.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Zamora
+177.229.193.43,4,-2481,DNS Server: customer-MOR-193-43.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Quintana Roo,,José María Morelos
+177.229.219.30,4,32,DNS Server: customer-MOR-219-30.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Jilotepec de Molina Enríquez
+189.195.138.62,4,31,DNS Server: customer-PUE-MCA-138-62.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Ahome
+201.132.162.254,4,-17718,DNS Server: customer-PUE-MCA-162-254.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Puebla City
+200.92.202.26,4,59599750,DNS Server: customer-PUE-MCA-202-26.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tlaxcala,,Altzayanca
+177.240.8.182,4,928,DNS Server: customer-PUE-MCA-8-182.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Puebla City
+177.240.18.182,4,64930417,DNS Server: customer-TLN-18-182.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Ecatepec
+189.194.86.5,4,-3,DNS Server: customer-XAL-86-5.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
+189.198.199.102,4,13,DNS Server: customer-ZAC-MCA-199-102.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Zacatecas,,Zacatecas City
+200.95.144.4,4,-335,DNS Server: cva2.cableonline.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+45.164.238.29,4,-162334,DNS Server: default.htvtelecom.com,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Rioverde
+148.240.244.118,4,-2145973809,DNS Server: dial-148-240-244-118.zone-1.ip.static-ftth.axtel.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Soledad de Graciano Sánchez
+201.150.35.124,4,0,DNS Server: dns1.serv.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Benito Juarez
+187.205.184.78,4,155,DNS Server: dsl-187-205-184-78-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Ocotlán
+187.205.193.45,4,221,DNS Server: dsl-187-205-193-45-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,La Barca
+187.208.175.157,4,168,DNS Server: dsl-187-208-175-157-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Cuautitlán Izcalli
+189.129.34.244,4,242,DNS Server: dsl-189-129-34-244-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Oaxaca,,Oaxaca City
+189.146.240.148,4,-21,DNS Server: dsl-189-146-240-148-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Cuauhtémoc
+186.96.11.240,4,22,DNS Server: fixed-186-96-11-240.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+186.96.145.231,4,-1,DNS Server: fixed-186-96-145-231.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+187.188.112.16,4,-6,DNS Server: fixed-187-188-112-16.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Álvaro Obregón
+187.188.125.185,4,0,DNS Server: fixed-187-188-125-185.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Álvaro Obregón
+187.188.199.139,4,0,DNS Server: fixed-187-188-199-139.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
+187.188.199.38,4,28274,DNS Server: fixed-187-188-199-38.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,Ciudad Benito Juárez
+187.188.57.147,4,849,DNS Server: fixed-187-188-57-147.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,México,,Tlalnepantla
+187.189.119.11,4,-498,DNS Server: fixed-187-189-119-11.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Chiapas,,Tapachula
+187.189.143.44,4,-3,DNS Server: fixed-187-189-143-44.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,San Nicolás de los Garza
+187.189.23.177,4,-6549,DNS Server: fixed-187-189-23-177.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Puebla City
+187.189.99.168,4,-3,DNS Server: fixed-187-189-99-168.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Cuauhtémoc
+187.190.129.174,4,50184780,DNS Server: fixed-187-190-129-174.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,Monterrey
+187.190.249.23,4,21422056,DNS Server: fixed-187-190-249-23.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Quintana Roo,,Othón P. Blanco
+187.251.130.25,4,117,DNS Server: fixed-187-251-130-25.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Aguascalientes,,Aguascalientes
+189.203.141.69,4,118808,DNS Server: fixed-189-203-141-69.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
+45.231.170.59,4,62725726,DNS Server: host-45-231-170-59.broadbandcancun.mx,MX,Americas,Latin America and the Caribbean,Mexico,Quintana Roo,,Juárez
+200.56.252.75,4,-46881,DNS Server: host112075.metrored.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Álvaro Obregón
+45.175.237.66,4,-6613,DNS Server: host237-66.hulux.mx,MX,Americas,Latin America and the Caribbean,Mexico,Hidalgo,,Francisco I. Madero
+138.186.66.254,4,-18,DNS Server: ip-138-186-66-254.mid.spectro.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,
+201.150.2.114,4,2,DNS Server: ip-201-150-2-114.xcien.com,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,San Nicolás de los Garza
+201.168.107.146,4,-7,DNS Server: ip-201-168-107-146.marcatel.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Villa de Arista
+201.168.107.148,4,-7,DNS Server: ip-201-168-107-148.marcatel.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Villa de Arista
+187.141.99.33,4,3678923,DNS Server: lan-a32-0810-0055.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Oaxaca,,Santa Cruz Amilpas
+189.254.225.213,4,-3,DNS Server: mail.cesantoni.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Guanajuato City
+189.254.40.179,4,134839,DNS Server: mail.fletesmex.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Ecatepec
+45.5.92.94,4,6540,DNS Server: mva.nrtmexico.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,San Juan de Sabinas
+45.174.70.10,4,19588,DNS Server: nav.index.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Ciudad Obregón
+201.162.150.146,4,413546,DNS Server: pc201162150146.optele.net,MX,Americas,Latin America and the Caribbean,Mexico,,,
+189.201.189.2,4,1,DNS Server: ptr.reditmx.com,MX,Americas,Latin America and the Caribbean,Mexico,Aguascalientes,,Aguascalientes
+45.167.95.160,4,64536389,DNS Server: quattrocom.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,La Cañada
+187.188.150.41,4,126314,DNS Server: sana.dicoba.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
+189.254.148.193,4,569361,DNS Server: sbnt-cha-193.gmexico.com,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,San Pedro
+45.5.94.206,4,762,DNS Server: slw.nrtmexico.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Saltillo
+201.174.134.13,4,9,DNS Server: spotuno.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Chihuahua City
+148.244.89.212,4,28699,DNS Server: static-148-244-89-212.alestra.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+189.206.139.189,4,-13382,DNS Server: static-189-206-139-189.alestra.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+189.206.225.251,4,-3,DNS Server: static-189-206-225-251.alestra.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+200.56.127.77,4,-321935,DNS Server: static-200-56-127-77.alestra.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tamaulipas,,Reynosa
+200.94.84.101,4,-4,DNS Server: static-200-94-84-101.alestra.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+201.151.40.74,4,43436,DNS Server: static-201-151-40-74.alestra.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+201.163.107.162,4,1,DNS Server: static-201-163-107-162.alestra.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+201.144.48.73,4,7,DNS Server: static.customer-201-144-48-73.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
+201.147.242.124,4,-27,DNS Server: static.customer-201-147-242-124.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,La Paz
+201.147.25.114,4,-3597008,DNS Server: static.customer-201-147-25-114.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+201.140.157.33,4,68968722,DNS Server: tj-201-140-157-33.gtel.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Tijuana
+89.223.88.74,4,-5,DoH server: dnscry.pt-queretaro-ipv4,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,Querétaro City
+216.238.75.3,4,-67,earthcharterinaction.org,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,Querétaro City
+143.255.58.138,4,676,eyboletin.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
+216.238.69.198,4,0,falymusic.com,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,Querétaro City
+200.34.206.111,4,-16,farmaciasdesimilares.com,MX,Americas,Latin America and the Caribbean,Mexico,,,
+38.124.220.140,4,-48,fartisticar.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,Monterrey
+45.164.23.20,4,0,furcan.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+195.250.27.202,4,-6,fuxionprolife.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+78.14.3.53,4,6,gbm.com,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,Querétaro City
+78.13.248.124,4,-1,gbm.com,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,Querétaro City
+195.250.27.27,4,-11,gruasmare.com.ar,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+195.250.27.213,4,5,iesppuchiza.edu.pe,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+69.171.212.60,4,4,iislweb.org,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Cuerámaro
+189.240.220.98,4,-2143373372,imagestream.com,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Xalapa
+195.250.27.42,4,-10,imipe.org.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+192.100.181.151,4,56658,imp.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+195.250.27.29,4,-2,institutosanfernando.edu.pe,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+38.124.220.141,4,-10,ipaapodaca.edu.mx,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,Monterrey
+201.131.125.38,4,-85,laitaliana.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
 201.131.127.210,4,-123,lava.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
 38.146.69.39,4,32,lideresmexicanos.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,
-119.8.14.79,4,1,movistar.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
-189.203.155.90,4,320,Ookla Speedtest Server 3955: tijuana.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,Monterrey
-187.190.72.2,4,260,Ookla Speedtest Server 9176: merida.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tabasco,,Cárdenas Segunda Sección
-189.193.189.226,4,354,Ookla Speedtest Server 14111: speedtest.puebla.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Puebla City
-189.199.79.56,4,369,Ookla Speedtest Server 14349: speedtest.zap.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Zapopan
-192.141.244.60,4,159,Ookla Speedtest Server 15346: speedtest.altanredes.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Iztacalco
-187.190.126.34,4,180365,Ookla Speedtest Server 15959: chih.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Puerto Vallarta
-187.189.200.114,4,111,Ookla Speedtest Server 16214: juarez.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+216.224.125.165,4,-33,luckbet.top,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+216.251.81.29,4,52483,mante.com,MX,Americas,Latin America and the Caribbean,Mexico,Tamaulipas,,Nuevo Laredo
+200.56.224.11,4,-2,Marcatel Com S.A. de C.V. 1,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,Apodaca
+195.250.27.47,4,-2,mirevistaveracruz.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+119.8.14.79,4,1,movistar.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+98.98.253.77,4,-16,multichoicetalentfactory.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+200.94.180.61,4,14,nic.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+200.94.180.58,4,13,nic.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+200.94.180.59,4,19,nic.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+200.94.180.60,4,19,nic.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+189.216.14.77,4,8,Ookla Speedtest Server 2115: speedtest.cuautitlan.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Iztacalco
+200.52.210.10,4,0,Ookla Speedtest Server 3334: speedtest.ver.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Veracruz
+201.165.4.10,4,-20,Ookla Speedtest Server 3499: speedtest.hmo.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Hermosillo
+201.132.200.114,4,4,Ookla Speedtest Server 3547: speedtest.torreon.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Torreón
+189.194.232.210,4,-36,Ookla Speedtest Server 3568: speedtest.leon.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
+189.203.155.90,4,-6,Ookla Speedtest Server 3955: tijuana.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Ecatepec
+138.122.96.13,4,-3,Ookla Speedtest Server 7924: speedtest5.ientc.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,
+189.203.168.18,4,-2,Ookla Speedtest Server 8150: alboli-speedtest1.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Benito Juarez
+187.190.119.158,4,28,Ookla Speedtest Server 8255: tultitlan.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Hidalgo,,Mineral de la Reforma
+187.244.32.2,4,-14,Ookla Speedtest Server 8590: speedtest.lpaz.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California Sur,,La Paz
+187.190.201.38,4,-23,Ookla Speedtest Server 8779: apodaca.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,Apodaca
+187.190.68.58,4,-5,Ookla Speedtest Server 8871: cancun.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Quintana Roo,,
+187.190.241.18,4,19,Ookla Speedtest Server 8880: tlaquepaque.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Tijuana
+187.190.119.170,4,-23,Ookla Speedtest Server 9001: tlalne.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Hidalgo,,Mineral de la Reforma
+187.190.72.2,4,1,Ookla Speedtest Server 9176: merida.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Hermosillo
+181.191.255.10,4,2,Ookla Speedtest Server 10322: spt01gdl.coeficiente.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
+200.39.28.210,4,-7,Ookla Speedtest Server 10471: internet4b.movistar.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+138.122.96.23,4,1,Ookla Speedtest Server 10603: speedtest9.ientc.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,
+201.165.116.10,4,19,Ookla Speedtest Server 11456: speedtest.cln.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Culiacán
+200.77.39.34,4,-6,Ookla Speedtest Server 11857: speedtest.megacable.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
+177.238.186.13,4,-2,Ookla Speedtest Server 12533: speedtest.juarez.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+187.252.13.34,4,4,Ookla Speedtest Server 12629: speedtest.cuernavaca.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+187.253.255.255,4,3,Ookla Speedtest Server 12693: speedtest.mexicali.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
+189.216.6.123,4,15,Ookla Speedtest Server 12694: speedtest.sevilla.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Iztacalco
+200.56.202.245,4,3,Ookla Speedtest Server 12760: speedtest.zapopan.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Puerto Vallarta
+177.238.185.181,4,-23,Ookla Speedtest Server 12811: speedtest.merida.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+177.238.184.247,4,-5,Ookla Speedtest Server 12882: speedtest.tijuana.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+187.243.115.2,4,-16,Ookla Speedtest Server 13463: speedtest.mzllo.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Colima,,Manzanillo
+189.198.128.10,4,13,Ookla Speedtest Server 13471: speedtest.nog.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+189.193.189.226,4,5,Ookla Speedtest Server 14111: speedtest.puebla.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Puebla City
+189.199.79.56,4,-5,Ookla Speedtest Server 14349: speedtest.zap.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Zapopan
+192.141.244.60,4,-11,Ookla Speedtest Server 15346: speedtest.altanredes.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Azcapotzalco
+63.245.105.249,4,-13,Ookla Speedtest Server 15533: speedtest.abix.mx,MX,Americas,Latin America and the Caribbean,Mexico,Quintana Roo,,Cancún
+187.190.126.34,4,-6,Ookla Speedtest Server 15959: chih.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Puerto Vallarta
+38.58.136.209,4,-1,Ookla Speedtest Server 16064: sp1.jahwifi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Aguascalientes,,Aguascalientes
+187.189.200.114,4,1039,Ookla Speedtest Server 16214: juarez.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
 201.174.162.78,4,-18651,Ookla Speedtest Server 16280: nspeed01.skynetinternet.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Oaxaca,,Santa María Coyotepec
-82.153.3.51,4,95,Ookla Speedtest Server 16643: speedtest-ezequiel.wantelco.com,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,Ezequiel Montes
-201.149.50.34,4,124,Ookla Speedtest Server 18794: testdevelocidad.mcm.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,Guadalupe
-201.168.131.83,4,369,Ookla Speedtest Server 21782: ooklamx.marcatel.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Álvaro Obregón
-45.167.92.89,4,2805236,Ookla Speedtest Server 22551: speedzap.quattrocom.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,La Cañada
-45.231.168.6,4,263,Ookla Speedtest Server 23039: speedtest.broadbandcancun.mx,MX,Americas,Latin America and the Caribbean,Mexico,Quintana Roo,,Juárez
-201.163.56.94,4,371,Ookla Speedtest Server 32121: mivelocidadmex.alestra.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Tlalnepantla
-45.174.78.160,4,67540,Ookla Speedtest Server 33286: speedtestjuarez.nidix.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Ciudad Juárez
-187.190.86.230,4,312,Ookla Speedtest Server 33529: mazatlan.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
-187.244.29.2,4,332,Ookla Speedtest Server 38686: speedtest.xal.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Xalapa
-189.203.165.62,4,316,Ookla Speedtest Server 41418: tulancingo.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
-189.203.229.10,4,333,Ookla Speedtest Server 41419: cuernavaca.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Morelos,,Unidad Habitacional José María Morelos y Pavón
-187.188.139.202,4,344,Ookla Speedtest Server 41968: ags.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,Apodaca
-187.190.126.30,4,413,Ookla Speedtest Server 42924: gomez.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Puerto Vallarta
-187.191.60.106,4,272,Ookla Speedtest Server 43737: ensenada.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
-187.191.12.54,4,348,Ookla Speedtest Server 44241: guanajuato.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
-187.188.248.82,4,320,Ookla Speedtest Server 44245: cordoba.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Córdoba
-187.188.248.86,4,337,Ookla Speedtest Server 44246: orizaba.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Orizaba
-45.188.124.3,4,376,Ookla Speedtest Server 45169: qro.speedtest.altafibra.mx,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Túxpam de Rodríguez Cano
-187.244.54.42,4,-307,Ookla Speedtest Server 46842: speedtest.mty.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,Monterrey
-131.196.246.254,4,-13988936,Ookla Speedtest Server 46906: merida.quattrocom.mx,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Mérida
-38.65.174.166,4,335,Ookla Speedtest Server 49237: speedtest.wantelco.com,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,Amealco
-45.174.172.1,4,-21322,Ookla Speedtest Server 50332: speedtest.conektamexico.com,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Rioverde
-187.190.72.50,4,223,Ookla Speedtest Server 50630: villahermosa.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tabasco,,Villahermosa
-187.190.126.66,4,380,Ookla Speedtest Server 50633: torreon.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Torreón
-189.203.222.38,4,257,Ookla Speedtest Server 50727: sanjuandelrio.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Ramos Arizpe Municipality
-187.251.142.98,4,274,Ookla Speedtest Server 50728: pozarica.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tabasco,,Villahermosa
-38.45.242.10,4,9856,Ookla Speedtest Server 51651: wifimaxspeedtest.com,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,San Diego de la Unión
-177.238.191.223,4,240,Ookla Speedtest Server 53277: speedtest.chihuahua.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
-187.187.112.243,4,149,Ookla Speedtest Server 53572: speedtest.slp.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
-201.167.143.207,4,181,Ookla Speedtest Server 53782: speedtest.aguascalientes.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
-45.181.41.4,4,241,Ookla Speedtest Server 53786: sp01.protokol.mx,MX,Americas,Latin America and the Caribbean,Mexico,Oaxaca,,Oaxaca City
-200.56.203.11,4,256,Ookla Speedtest Server 53807: speedtest.sjr.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,San Juan del Río
-148.244.225.131,4,-1215,Ookla Speedtest Server 54399: grupofenixtest.com,MX,Americas,Latin America and the Caribbean,Mexico,Tabasco,,Huimanguillo
-201.172.7.233,4,330,Ookla Speedtest Server 54995: speedtest.apodaca.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,San Nicolás de los Garza
-168.197.121.3,4,17604668,Ookla Speedtest Server 55013: speedtest.escobedo.bestel.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
-8.243.209.86,4,839828,Ookla Speedtest Server 55205: mexicocity.speedtest.ciriontechnologies.com,MX,Americas,Latin America and the Caribbean,Mexico,Oaxaca,,San Pedro Totolápam
-200.25.81.124,4,231,Ookla Speedtest Server 55485: spt-mex1.edgeuno.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
-200.188.112.137,4,2332,Ookla Speedtest Server 55904: sp02.miaguilar.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tabasco,,Huimanguillo
-148.246.54.239,4,112,Ookla Speedtest Server 56551: speedtest.pachuca.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,La Barca
-187.187.53.239,4,192,Ookla Speedtest Server 56655: speedtest.celaya.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Celaya
-45.189.236.98,4,265,Ookla Speedtest Server 56656: speedtest2.compu-semmm.com,MX,Americas,Latin America and the Caribbean,Mexico,México,,Atlacomulco de Fabela
-45.188.76.142,4,215,Ookla Speedtest Server 57057: fasttester.fast-net.net,MX,Americas,Latin America and the Caribbean,Mexico,Tabasco,,Macuspana
-187.244.51.2,4,334,Ookla Speedtest Server 58237: speedtest.juarez.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Ciudad Juárez
-38.158.202.2,4,297,Ookla Speedtest Server 58727: speedtest.onfiber.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Aguascalientes,,Aguascalientes
-201.148.8.29,4,377,Ookla Speedtest Server 58854: speedtest.wilifecomunicaciones.com,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,San Andrés Tuxtla
-187.244.1.2,4,281,Ookla Speedtest Server 59857: speedtest.gve.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Guasave
-201.174.171.30,4,270,Ookla Speedtest Server 60065: speedtest.konet.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Acanceh
-177.246.73.10,4,346,Ookla Speedtest Server 60079: speedtest.ags.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Aguascalientes,,Aguascalientes
-200.66.36.21,4,278,Ookla Speedtest Server 60170: speedtest.dgo.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Durango,,Ciudad Guadalupe Victoria
-200.52.174.16,4,321,Ookla Speedtest Server 60201: speedtest.zam.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Puebla City
-189.194.144.2,4,361,Ookla Speedtest Server 60314: speedtest.chi.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Chihuahua City
-189.195.128.27,4,309,Ookla Speedtest Server 60395: speedtest.col.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Colima,,Colima
-201.131.7.47,4,257,Ookla Speedtest Server 60579: speedtest.jalisco.gob.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
-187.244.49.2,4,336,Ookla Speedtest Server 60708: speedtest.teh.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Tehuacán
-189.201.131.205,4,-13418,Ookla Speedtest Server 60752: speedtest.grupo-etics.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Chiautla
-200.52.196.82,4,350,Ookla Speedtest Server 61155: speedtest.tala.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Tala
-187.244.10.3,4,349,Ookla Speedtest Server 61169: speedtest.slrc.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,San Luis Río Colorado
-187.244.37.29,4,18895,Ookla Speedtest Server 61375: speedtest.zpngo.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Zumpango
-189.195.64.13,4,11670,Ookla Speedtest Server 61394: speedtest.zinact.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Zinacantepec
-187.244.10.4,4,342,Ookla Speedtest Server 61559: speedtest.mxcli.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
-189.198.222.128,4,268,Ookla Speedtest Server 61878: speedtest.corregidora.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,El Pueblito
-45.189.151.174,4,373,Ookla Speedtest Server 61929: redtamayo.ddns.net,MX,Americas,Latin America and the Caribbean,Mexico,Tabasco,,
-38.123.208.14,4,31049,Ookla Speedtest Server 62502: cdmxspeedtest.comunicalo.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Hidalgo,,Tizayuca
-38.123.212.62,4,51402,Ookla Speedtest Server 62614: xhalaspeedtest.comunicalo.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Hidalgo,,Tizayuca
-204.199.204.206,4,279,Ookla Speedtest Server 63294: speedtestnxn.ddns.net,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Zapotlanejo
-187.243.112.3,4,218,Ookla Speedtest Server 63383: speedtest.pzr.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Poza Rica
-189.206.124.148,4,3788,Ookla Speedtest Server 63485: sp01.fiberplus.mx,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Kanasín
-187.243.112.2,4,22067,Ookla Speedtest Server 63656: speedtest.tuxpan.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Túxpam de Rodríguez Cano
-187.244.1.3,4,211,Ookla Speedtest Server 63763: speedtest.gchl.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Guamúchil
-204.199.202.2,4,63189,Ookla Speedtest Server 63891: speedtest.weii.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,El Salto
-187.244.24.2,4,240,Ookla Speedtest Server 63934: speedtest.sma.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,San Miguel de Allende
-45.174.79.32,4,97148,Ookla Speedtest Server 64013: speedtestcamargo.nidix.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Delicias
-201.148.8.30,4,317,Ookla Speedtest Server 64606: speedtest.lifenetworks.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,San Andrés Tuxtla
-187.244.18.101,4,-86362,Ookla Speedtest Server 64708: speedtest.qsria.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Colima,,Quesería
-187.244.49.3,4,288,Ookla Speedtest Server 64887: speedtest.ajlpn.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Ajalpan
-38.194.234.128,4,214,Ookla Speedtest Server 65317: velocidad.wiimax-ixmiquilpan.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Tláhuac
-187.188.248.254,4,243,Ookla Speedtest Server: chilpancingo.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guerrero,,Chilpancingo
-187.190.87.26,4,240,Ookla Speedtest Server: culiacan.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Culiacán
-63.245.105.249,4,306,Ookla Speedtest Server: speedtest.abix.mx,MX,Americas,Latin America and the Caribbean,Mexico,Quintana Roo,,Cancún
-187.244.1.4,4,283,Ookla Speedtest Server: speedtest.gls.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Guasave
-187.244.5.2,4,207,Ookla Speedtest Server: speedtest.mzt.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Mazatlán
-189.199.226.14,4,1163,panoramainmobiliario.co,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Torreón
-189.204.244.135,4,-14,paot.org.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Iztapalapa
-177.126.39.231,4,29,prd.org.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
-201.161.82.228,4,5,pruebat.org,MX,Americas,Latin America and the Caribbean,Mexico,,,
-94.74.75.128,4,14,raiditem.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
-201.131.125.98,4,-112,realestatemarket.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
-201.134.76.213,4,7,solmar.com,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
-201.116.168.228,4,23,suburbia.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,Monterrey
-148.244.229.190,4,25,total-logistics.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Cuauhtémoc
-45.164.21.15,4,-1,truxgo.com,MX,Americas,Latin America and the Caribbean,Mexico,,,
-200.33.240.38,4,-1683930,uaaan.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
-192.100.162.13,4,19,uan.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
-148.227.1.12,4,3,uas.edu.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Culiacán
-148.236.18.13,4,-7090862,ujat.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
-200.23.222.17,4,3539136,umar.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
-148.207.151.161,4,-1,unadmexico.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,San Luis Potosí City
-132.248.166.18,4,2053519,unam.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
-132.248.166.20,4,2053523,unam.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
-132.248.166.17,4,2053518,unam.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
-132.248.166.19,4,2053520,unam.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
-201.134.115.36,4,27910882,Uninet S.A. de C.V.,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
-131.196.253.94,4,3,unlimitedpicture.com,MX,Americas,Latin America and the Caribbean,Mexico,,,
-148.245.141.74,4,867119,upemor.edu.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
-200.94.131.84,4,3966949,ute.edu.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tamaulipas,,Reynosa
-201.147.98.82,4,12,www.diputados.gob.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Coyoacán
+209.178.128.90,4,122450,Ookla Speedtest Server 16891: speed.cableimagen.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Mérida
+187.190.32.238,4,-18,Ookla Speedtest Server 17178: ecatepec.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Ecatepec
+201.174.162.75,4,17923162,Ookla Speedtest Server 17234: sp02.fibernext.mx,MX,Americas,Latin America and the Caribbean,Mexico,Oaxaca,,Santa María Coyotepec
+187.244.33.10,4,-5,Ookla Speedtest Server 17297: speedtest.sllo.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Saltillo
+177.246.77.25,4,0,Ookla Speedtest Server 17554: speedtest.tij.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Tijuana
+168.197.123.1,4,3,Ookla Speedtest Server 17655: speedtest.santaapolonia.bestel.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+168.197.123.3,4,-7,Ookla Speedtest Server 17657: speedtest.santafe.bestel.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Álvaro Obregón
+168.197.122.3,4,7,Ookla Speedtest Server 17658: speedtest.guadalajara.bestel.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+201.149.50.34,4,-2,Ookla Speedtest Server 18794: testdevelocidad.mcm.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,San Nicolás de los Garza
+45.164.136.13,4,-27,Ookla Speedtest Server 19293: speedtest.consortia.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,
+187.252.2.245,4,6,Ookla Speedtest Server 20773: speedtest.cancun.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Quintana Roo,,Tulum
+201.168.131.83,4,-1,Ookla Speedtest Server 21782: ooklamx.marcatel.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Gustavo Adolfo Madero
+45.171.157.250,4,2,Ookla Speedtest Server 22422: ooklavhsa.homedns.org,MX,Americas,Latin America and the Caribbean,Mexico,Tabasco,,Paraiso
+45.231.168.6,4,-22,Ookla Speedtest Server 23039: speedtest.broadbandcancun.mx,MX,Americas,Latin America and the Caribbean,Mexico,Quintana Roo,,Juárez
+170.80.242.102,4,-7,Ookla Speedtest Server 24484: macrotv.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Durango,,Santiago Papasquiaro
+45.167.94.1,4,10551061,Ookla Speedtest Server 25338: speedrsj.quattrocom.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,La Cañada
+200.25.15.28,4,2,Ookla Speedtest Server 25602: spt-gdl1.edgeuno.com,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
+138.185.226.2,4,-2,Ookla Speedtest Server 25775: speedtest.spectro.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Saltillo
+138.186.65.84,4,-1,Ookla Speedtest Server 26175: speedtestqro.spectro.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,
+201.173.10.4,4,-7,Ookla Speedtest Server 29412: speedtest.monterreygpon.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,General Escobedo
+45.190.196.103,4,-1,Ookla Speedtest Server 30551: tecnianet.ecatel.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,El Salto
+45.174.79.65,4,594,Ookla Speedtest Server 31585: speedtest-delicias.nidix.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Delicias
+201.163.56.94,4,-33,Ookla Speedtest Server 32121: mivelocidadmex.alestra.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+201.148.37.24,4,-15,Ookla Speedtest Server 32320: intelinet.ecatel.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,San Juan de los Lagos
+45.191.52.10,4,-134479,Ookla Speedtest Server 32451: speedtest.xknet.mx,MX,Americas,Latin America and the Caribbean,Mexico,Quintana Roo,,Juárez
+187.102.204.30,4,-7,Ookla Speedtest Server 32519: speedtestenlace.dyndns.org,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Chihuahua City
+201.77.110.1,4,-287773,Ookla Speedtest Server 32607: speedtest-cuahutemoc.nidix.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Cuauhtémoc
+45.174.78.160,4,183488,Ookla Speedtest Server 33286: speedtestjuarez.nidix.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Ciudad Juárez
+187.190.86.230,4,-15,Ookla Speedtest Server 33529: mazatlan.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California Sur,,La Paz
+45.238.191.202,4,-24,Ookla Speedtest Server 33698: speed.tvctepa.com,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Tepatitlán de Morelos
+45.175.252.36,4,-15,Ookla Speedtest Server 35743: speedtest.ibyte.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Chihuahua City
+200.25.32.61,4,-2,Ookla Speedtest Server 36144: spt-qro1.edgeuno.com,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,
+189.195.64.10,4,0,Ookla Speedtest Server 36262: speedtest.tolu.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Toluca
+187.190.54.82,4,-3,Ookla Speedtest Server 36807: toluca.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Quintana Roo,,Juárez
+189.203.83.242,4,-9,Ookla Speedtest Server 36935: mexicali.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
+187.191.12.42,4,3,Ookla Speedtest Server 36942: hostdime.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
+187.190.54.90,4,2,Ookla Speedtest Server 37119: puebla.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Puebla City
+189.203.167.242,4,5,Ookla Speedtest Server 37126: sanluispotosi.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,San Luis Potosí City
+189.203.166.146,4,14,Ookla Speedtest Server 37266: leon.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
+187.186.242.232,4,-15,Ookla Speedtest Server 37293: speedtest.queretaro.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,Querétaro City
+187.189.12.138,4,17,Ookla Speedtest Server 37759: veracruz.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Veracruz
+187.244.43.2,4,-9,Ookla Speedtest Server 38140: speedtest.qro.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,
+187.244.50.162,4,-6,Ookla Speedtest Server 38258: speedtest.tgz.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chiapas,,Tuxtla Gutiérrez
+187.244.5.2,4,-18,Ookla Speedtest Server 38531: speedtest.mzt.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Mazatlán
+187.244.29.2,4,-6,Ookla Speedtest Server 38686: speedtest.xal.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Xalapa
+187.244.4.2,4,16,Ookla Speedtest Server 39454: speedtest.lmm.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Los Mochis
+187.244.25.2,4,-12,Ookla Speedtest Server 39681: speedtest.mor.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Morelia
+181.224.17.5,4,0,Ookla Speedtest Server 39749: speedtest4.inbtel.com,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Ciudad Valles
+45.7.64.9,4,17,Ookla Speedtest Server 40729: speedtest.maysnet.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Hidalgo,,Tenango de Doria
+187.244.47.106,4,-19,Ookla Speedtest Server 40776: speedtest.gto.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Guanajuato City
+192.141.246.130,4,-17,Ookla Speedtest Server 40892: speedtest2.altanredes.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Azcapotzalco
+189.203.165.62,4,6,Ookla Speedtest Server 41418: tulancingo.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Benito Juarez
+189.203.229.10,4,-3,Ookla Speedtest Server 41419: cuernavaca.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Morelos,,Morelos
+187.188.139.206,4,0,Ookla Speedtest Server 41664: saltillo.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,Monterrey
+186.26.75.133,4,560,Ookla Speedtest Server 41719: sp1.interanet.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,El Salto
+187.188.139.202,4,-1,Ookla Speedtest Server 41968: ags.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,Monterrey
+187.190.72.46,4,-2,Ookla Speedtest Server 41969: tapachula.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Hermosillo
+190.102.35.2,4,0,Ookla Speedtest Server 42201: speedtest.witmac.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Tehuacán
+187.188.248.26,4,12,Ookla Speedtest Server 42477: xalapa.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Xalapa
+201.130.6.54,4,-2,Ookla Speedtest Server 42685: speedtest.yuvox.net,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Puebla City
+189.203.222.6,4,-2,Ookla Speedtest Server 42797: morelia.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Hermosillo
+189.203.170.138,4,-6,Ookla Speedtest Server 42798: celaya.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Benito Juarez
+187.190.126.30,4,-9,Ookla Speedtest Server 42924: gomez.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Puerto Vallarta
+187.191.55.74,4,-23,Ookla Speedtest Server 42925: pachuca.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Tijuana
+187.191.60.78,4,-1,Ookla Speedtest Server 42926: cabosl.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
+187.191.55.78,4,0,Ookla Speedtest Server 43402: valledebravo.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Tijuana
+187.190.201.22,4,-10,Ookla Speedtest Server 43734: nvolaredo.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tamaulipas,,Nuevo Laredo
+187.188.248.250,4,15,Ookla Speedtest Server 43735: acapulco.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guerrero,,Acapulco de Juárez
+187.190.87.30,4,6,Ookla Speedtest Server 43736: losmochis.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California Sur,,La Paz
+187.191.60.106,4,-28,Ookla Speedtest Server 43737: ensenada.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
+187.251.126.14,4,0,Ookla Speedtest Server 43759: hermosillo.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Hermosillo
+187.191.12.54,4,3,Ookla Speedtest Server 44241: guanajuato.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Veracruz
+187.190.87.26,4,4,Ookla Speedtest Server 44242: culiacan.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Culiacán
+187.188.69.170,4,7,Ookla Speedtest Server 44243: ptovallarta.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Puerto Vallarta
+187.188.248.82,4,-13,Ookla Speedtest Server 44245: cordoba.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Córdoba
+187.188.248.86,4,-2,Ookla Speedtest Server 44246: orizaba.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Orizaba
+187.191.60.110,4,-1,Ookla Speedtest Server 44247: rosarito.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Rosarito
+187.190.128.30,4,-4,Ookla Speedtest Server 44248: matamoros.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tamaulipas,,Heroica Matamoros
+201.150.35.86,4,-10,Ookla Speedtest Server 44815: speedtst.serv.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Benito Juarez
+38.137.252.127,4,1,Ookla Speedtest Server 45161: speedtest.infitelecom.com,MX,Americas,Latin America and the Caribbean,Mexico,Hidalgo,,Francisco I. Madero
+45.188.124.3,4,3,Ookla Speedtest Server 45169: qro.speedtest.altafibra.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tabasco,,Jalpa de Méndez
+176.57.203.3,4,-15,Ookla Speedtest Server 45394: speedtest.fibrit.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tabasco,,Nacajuca
+187.244.54.42,4,-2,Ookla Speedtest Server 46842: speedtest.mty.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,Monterrey
+131.196.246.254,4,-14,Ookla Speedtest Server 46906: merida.quattrocom.mx,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Mérida
+201.150.118.102,4,-4,Ookla Speedtest Server 46950: speedtestact.hulux.mx,MX,Americas,Latin America and the Caribbean,Mexico,Hidalgo,,Tetepango
+131.196.246.251,4,-15,Ookla Speedtest Server 47057: tamanche.quattrocom.mx,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Mérida
+190.113.52.3,4,379,Ookla Speedtest Server 47147: speedfrz.conectix.com,MX,Americas,Latin America and the Caribbean,Mexico,Zacatecas,,Fresnillo
+216.238.90.75,4,-15,Ookla Speedtest Server 47874: speedtest.ajtel.net,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Coyoacán
+187.244.37.26,4,-12,Ookla Speedtest Server 48522: speedtest.vjo.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Tlalnepantla
+189.194.224.52,4,-8,Ookla Speedtest Server 49164: speedtest.sal.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Salamanca
+189.202.188.238,4,-6,Ookla Speedtest Server 49367: speedtest.conectikan.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Kanasín
+38.211.58.33,4,3,Ookla Speedtest Server 49531: speed.mundoenlinea.mx,MX,Americas,Latin America and the Caribbean,Mexico,Quintana Roo,,Puerto Aventuras
+45.180.11.66,4,2,Ookla Speedtest Server 50206: speedookla.kblextelecom.com,MX,Americas,Latin America and the Caribbean,Mexico,Campeche,,Calkiní
+45.174.172.1,4,-294532,Ookla Speedtest Server 50332: speedtest.conektamexico.com,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Rioverde
+201.131.198.30,4,-13,Ookla Speedtest Server 50440: speedtest.speednetwork.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Tijuana
+187.244.45.2,4,-23,Ookla Speedtest Server 50507: speedtest.zac.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Zacatecas,,Zacatecas City
+189.203.170.142,4,18,Ookla Speedtest Server 50567: salamanca.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Salamanca
+189.203.170.154,4,1,Ookla Speedtest Server 50569: silao.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Silao
+187.190.145.10,4,8,Ookla Speedtest Server 50628: coatzacoalcos.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Benito Juarez
+187.188.248.254,4,-29,Ookla Speedtest Server 50629: chilpancingo.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guerrero,,Chilpancingo
+187.190.72.50,4,-12,Ookla Speedtest Server 50630: villahermosa.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tabasco,,Villahermosa
+187.190.244.18,4,-3,Ookla Speedtest Server 50631: monterrey.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Tijuana
+189.203.170.158,4,14,Ookla Speedtest Server 50632: sanmigueldeallende.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,San Miguel de Allende
+187.190.126.66,4,-2,Ookla Speedtest Server 50633: torreon.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Torreón
+187.190.72.122,4,-13,Ookla Speedtest Server 50634: tuxtla.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chiapas,,Tuxtla Gutiérrez
+189.203.170.106,4,3,Ookla Speedtest Server 50687: irapuato.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Irapuato
+187.190.145.14,4,-6,Ookla Speedtest Server 50689: minatitlan.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Benito Juarez
+189.203.222.38,4,-12,Ookla Speedtest Server 50727: sanjuandelrio.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Hermosillo
+187.251.142.98,4,9,Ookla Speedtest Server 50728: pozarica.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tabasco,,Centro
+45.189.62.5,4,-19,Ookla Speedtest Server 50814: sp01.masnet.mx,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Valladolid
+200.52.169.17,4,-10,Ookla Speedtest Server 51287: speedtest.tep.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Nayarit,,Tepic
+187.244.39.2,4,4,Ookla Speedtest Server 51497: speedtest.vbo.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Valle de Bravo
+200.124.160.3,4,-127240,Ookla Speedtest Server 52299: speedtest3.jafica.com,MX,Americas,Latin America and the Caribbean,Mexico,Morelos,,Cuautla
+189.198.130.4,4,8,Ookla Speedtest Server 52539: speedtest.tlqp.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Tlaquepaque
+45.187.150.25,4,-2,Ookla Speedtest Server 52722: speedtest.mtnetworks.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Izúcar de Matamoros
+177.238.191.223,4,-6,Ookla Speedtest Server 53277: speedtest.chihuahua.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+177.232.92.239,4,-8,Ookla Speedtest Server 53278: speedtest.villahermosa.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,San Luis Potosí City
+187.187.112.243,4,-43,Ookla Speedtest Server 53572: speedtest.slp.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+201.161.174.231,4,-13,Ookla Speedtest Server 53722: speedtest.tampico.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tamaulipas,,Tampico
+189.220.252.98,4,17,Ookla Speedtest Server 53741: speedtest.pozarica.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Poza Rica
+201.167.143.207,4,23,Ookla Speedtest Server 53782: speedtest.aguascalientes.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+45.181.41.4,4,-4,Ookla Speedtest Server 53786: sp01.protokol.mx,MX,Americas,Latin America and the Caribbean,Mexico,Oaxaca,,Oaxaca City
+200.56.203.11,4,8,Ookla Speedtest Server 53807: speedtest.sjr.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,San Juan del Río
+148.244.225.131,4,-23201,Ookla Speedtest Server 54399: grupofenixtest.com,MX,Americas,Latin America and the Caribbean,Mexico,,,
+187.161.149.21,4,-26,Ookla Speedtest Server 54565: speedtest.monterreyhfc.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,Guadalupe
+189.204.207.161,4,3472464,Ookla Speedtest Server 54991: speedtest1bestel.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Quintana Roo,,Playa del Carmen
+201.172.7.233,4,-9,Ookla Speedtest Server 54995: speedtest.apodaca.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,San Nicolás de los Garza
+168.197.121.3,4,-238549,Ookla Speedtest Server 55013: speedtest.escobedo.bestel.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+38.137.255.128,4,-17,Ookla Speedtest Server 55124: infitelecom.alfha-networks.com,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Zaragoza
+38.137.254.128,4,-5,Ookla Speedtest Server 55124: infitelecom.alfha-networks.com,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Zaragoza
+45.7.139.99,4,3,Ookla Speedtest Server 55166: speedcalvillo.conectix.com,MX,Americas,Latin America and the Caribbean,Mexico,Aguascalientes,,Aguascalientes
+8.243.209.86,4,5,Ookla Speedtest Server 55205: mexicocity.speedtest.ciriontechnologies.com,MX,Americas,Latin America and the Caribbean,Mexico,Oaxaca,,San Pedro Totolápam
+216.83.51.238,4,5,Ookla Speedtest Server 55386: speed.2msoluciones.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Degollado
+200.25.81.124,4,-6,Ookla Speedtest Server 55485: spt-mex1.edgeuno.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+200.188.112.137,4,-11,Ookla Speedtest Server 55904: sp02.miaguilar.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tabasco,,Huimanguillo
+201.159.23.10,4,-19,Ookla Speedtest Server 56276: spdmxl.konecta.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
+45.180.8.150,4,-10,Ookla Speedtest Server 56496: speedea.kblextelecom.com,MX,Americas,Latin America and the Caribbean,Mexico,Campeche,,Escárcega
+148.246.54.239,4,-10,Ookla Speedtest Server 56551: speedtest.pachuca.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,La Barca
+187.187.53.239,4,16,Ookla Speedtest Server 56655: speedtest.celaya.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Celaya
+45.189.236.98,4,8,Ookla Speedtest Server 56656: speedtest2.compu-semmm.com,MX,Americas,Latin America and the Caribbean,Mexico,México,,Atlacomulco de Fabela
+45.174.243.250,4,11,Ookla Speedtest Server 56863: mytest.mayacon.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Campeche,,Champotón
+177.233.136.122,4,5,Ookla Speedtest Server 56924: speedtest.orizaba.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Orizaba
+45.188.76.142,4,-1,Ookla Speedtest Server 57057: fasttester.fast-net.net,MX,Americas,Latin America and the Caribbean,Mexico,Tabasco,,Jalpa de Méndez
+190.9.52.178,4,37383715,Ookla Speedtest Server 58092: mtspeed.konecta.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Tijuana
+187.244.51.2,4,1,Ookla Speedtest Server 58237: speedtest.juarez.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Ciudad Juárez
+177.246.75.2,4,-10,Ookla Speedtest Server 58676: speedtest.slp.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,San Luis Potosí City
+38.158.202.2,4,297,Ookla Speedtest Server 58727: speedtest.onfiber.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Aguascalientes,,Calvillo
+201.148.8.29,4,377,Ookla Speedtest Server 58854: speedtest.wilifecomunicaciones.com,MX,Americas,Latin America and the Caribbean,Mexico,Tabasco,,Emiliano Zapata
+187.244.23.34,4,-29,Ookla Speedtest Server 59022: speedtest.uru.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Uruapan
+187.244.6.2,4,10,Ookla Speedtest Server 59187: speedtest.nav.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Navojoa
+45.177.179.9,4,7,Ookla Speedtest Server 59263: speedtest.fibraslp.com,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Villa Zaragoza
+189.51.169.100,4,-13,Ookla Speedtest Server 59755: speedtest01.dyrnet.mx,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Hunucmá
+187.244.1.2,4,-11,Ookla Speedtest Server 59857: speedtest.gve.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Guasave
+201.174.171.30,4,-107822,Ookla Speedtest Server 60065: speedtest.konet.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Mérida
+177.246.73.10,4,-4,Ookla Speedtest Server 60079: speedtest.ags.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Aguascalientes,,Aguascalientes
+200.66.36.21,4,3,Ookla Speedtest Server 60170: speedtest.dgo.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Durango,,Durango
+200.52.174.16,4,3,Ookla Speedtest Server 60201: speedtest.zam.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Puebla City
+200.79.181.5,4,46,Ookla Speedtest Server 60215: speedtest.mexline.com,MX,Americas,Latin America and the Caribbean,Mexico,Hidalgo,,Pachuca
+189.194.144.2,4,-1,Ookla Speedtest Server 60314: speedtest.chi.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Chihuahua City
+189.195.128.27,4,-7,Ookla Speedtest Server 60395: speedtest.col.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Colima,,Colima
+201.131.7.47,4,-1,Ookla Speedtest Server 60579: speedtest.jalisco.gob.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Zapopan
+187.244.49.2,4,-10,Ookla Speedtest Server 60708: speedtest.teh.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Tehuacán
+189.201.131.205,4,-13418,Ookla Speedtest Server 60752: speedtest.grupo-etics.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Teotihuacán
+200.52.196.90,4,8,Ookla Speedtest Server 61107: speedtest.tona.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Tonalá
+200.52.196.82,4,9,Ookla Speedtest Server 61155: speedtest.tala.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Tala
+187.244.10.3,4,-13,Ookla Speedtest Server 61169: speedtest.slrc.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,San Luis Río Colorado
+187.244.37.27,4,10,Ookla Speedtest Server 61286: speedtest.huetoca.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Huehuetoca
+187.244.37.28,4,6,Ookla Speedtest Server 61292: speedtest.tlnt.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Tlalnepantla
+187.244.37.29,4,2,Ookla Speedtest Server 61375: speedtest.zpngo.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Zumpango
+189.195.64.11,4,2,Ookla Speedtest Server 61383: speedtest.mtpc.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Metepec
+189.195.64.12,4,-4,Ookla Speedtest Server 61388: speedtest.snmto.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,San Mateo Atenco
+189.195.64.13,4,-15,Ookla Speedtest Server 61394: speedtest.zinact.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Zinacantepec
+38.123.192.197,4,-28,Ookla Speedtest Server 61488: nextlalpan.meganett.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Santa Ana Nextlalpan
+187.244.10.4,4,1,Ookla Speedtest Server 61559: speedtest.mxcli.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
+200.52.196.87,4,18,Ookla Speedtest Server 61593: speedtest.tlajo.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Tlajomulco de Zúñiga
+103.239.234.255,4,-3,Ookla Speedtest Server 61783: velocidad.solit.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Tehuacán
+187.249.130.49,4,7,Ookla Speedtest Server 61850: itvplayspeed.dyndns.org,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Mérida
+189.198.222.128,4,-12,Ookla Speedtest Server 61878: speedtest.corregidora.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,El Pueblito
+189.198.222.124,4,17,Ookla Speedtest Server 61879: speedtest.marques.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,La Cañada
+45.189.151.174,4,373,Ookla Speedtest Server 61929: redtamayo.ddns.net,MX,Americas,Latin America and the Caribbean,Mexico,Tabasco,,Comalcalco
+38.123.208.14,4,34430,Ookla Speedtest Server 62502: cdmxspeedtest.comunicalo.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Hidalgo,,Tizayuca
+38.45.247.9,4,-3,Ookla Speedtest Server 62589: speedtest.mtfibra.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Apatzingán
+38.123.212.62,4,-35604,Ookla Speedtest Server 62614: xhalaspeedtest.comunicalo.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Hidalgo,,Tizayuca
+45.167.93.53,4,-34926,Ookla Speedtest Server 63398: speedtestbestel.yiga.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Mérida
+201.151.69.34,4,1142,Ookla Speedtest Server 63485: sp01.fiberplus.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+38.45.249.76,4,0,Ookla Speedtest Server 63524: speedtest.ijinternet.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,Ezequiel Montes
+187.244.1.3,4,5,Ookla Speedtest Server 63763: speedtest.gchl.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Guamúchil
+187.244.1.4,4,6630,Ookla Speedtest Server 63784: speedtest.gls.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Guasave
+38.94.74.67,4,-6,Ookla Speedtest Server 63877: speedtest.mahemexico.com,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,Peñamiller
+187.244.24.2,4,1,Ookla Speedtest Server 63934: speedtest.sma.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,San Miguel de Allende
+45.174.79.32,4,24578,Ookla Speedtest Server 64013: speedtestcamargo.nidix.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Santa Rosalía de Camargo
+201.132.200.116,4,0,Ookla Speedtest Server 64127: speedtest.gpa.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Torreón
+138.122.96.9,4,-4,Ookla Speedtest Server 64578: speedtest4.ientc.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,
+38.194.253.227,4,-20,Ookla Speedtest Server 64606: speedtest.lifenetworks.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Santiago Tuxtla
+201.148.8.30,4,317,Ookla Speedtest Server 64606: speedtest.lifenetworks.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tabasco,,Emiliano Zapata
+187.244.18.101,4,7,Ookla Speedtest Server 64708: speedtest.qsria.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Colima,,Quesería
+187.244.18.97,4,-8,Ookla Speedtest Server 64711: speedtest.tnila.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Tonila
+187.244.49.3,4,-22,Ookla Speedtest Server 64887: speedtest.ajlpn.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Ajalpan
+187.191.55.254,4,-16,Ookla Speedtest Server 64945: iztacalco.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Iztacalco
+187.244.49.4,4,13,Ookla Speedtest Server 64996: speedtest.tltpc.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Tlacotepec
+38.194.225.128,4,-44,Ookla Speedtest Server 65317: velocidad.wiimax-ixmiquilpan.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Hidalgo,,Ixmiquilpan
+38.194.234.128,4,-39,Ookla Speedtest Server 65317: velocidad.wiimax-ixmiquilpan.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Hidalgo,,Ixmiquilpan
+168.197.121.1,4,-5,Ookla Speedtest Server 67414: speedtest.monterreyhidalgo.bestel.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,Monterrey
+187.244.34.33,4,-28,Ookla Speedtest Server 67669: speedtest.can.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Quintana Roo,,Cancún
+187.243.117.2,4,-5,Ookla Speedtest Server 67693: speedtest.oax.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Oaxaca,,Oaxaca City
+189.194.157.2,4,-7,Ookla Speedtest Server 67722: speedtest.cva.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Morelos,,Cuernavaca
+189.194.149.2,4,-4,Ookla Speedtest Server 67729: speedtest.acap.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guerrero,,Acapulco de Juárez
+201.163.128.49,4,-66319,Ookla Speedtest Server 67793: ookla.gruponettelecom.com,MX,Americas,Latin America and the Caribbean,Mexico,,,
+189.194.147.146,4,-12,Ookla Speedtest Server 67862: speedtest.pach.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Hidalgo,,Pachuca
+38.211.51.4,4,-6,Ookla Speedtest Server 68105: speed.inix360.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Ciudad Juárez
+168.197.122.1,4,-232110,Ookla Speedtest Server 68336: speedtest.mazatlan.bestel.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Sinaloa de Leyva
+38.49.150.42,4,-988,Ookla Speedtest Server 68668: speedtest.sanfelipedigital.com,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,San Felipe
+45.174.251.50,4,2,Ookla Speedtest Server 68709: speedtest.wifmax.com,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Morelia
+189.201.189.121,4,-4,Ookla Speedtest Server 68824: speedtest.digitalnetags.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Aguascalientes,,Aguascalientes
+189.194.154.1,4,-22,Ookla Speedtest Server 68883: speedtest.camp.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Campeche,,Campeche
+201.163.231.158,4,6,Ookla Speedtest Server 68931: speedtest.encotelecom.com,MX,Americas,Latin America and the Caribbean,Mexico,,,
+45.188.78.113,4,32,Ookla Speedtest Server 68964: speedtest.airosnet.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tabasco,,Nacajuca
+38.3.221.134,4,-1,Ookla Speedtest Server 68991: sp1.siglo.com,MX,Americas,Latin America and the Caribbean,Mexico,México,,Santa María Chimalhuacán
+38.211.48.1,4,0,Ookla Speedtest Server 69102: velocidad.zeganet.com,MX,Americas,Latin America and the Caribbean,Mexico,Oaxaca,,Zimatlán de Álvarez
+201.174.140.2,4,9,Ookla Speedtest Server 69110: speedtest-qro100g.transtelco.net,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,
+201.174.61.162,4,-13,Ookla Speedtest Server 69175: speedtest-mty100g.transtelco.net,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,Ciénega de Flores
+201.174.171.198,4,-2,Ookla Speedtest Server 69239: speedtest-mer100g.transtelco.net,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Mérida
+201.174.189.226,4,-6,Ookla Speedtest Server 69351: speedtest-cdmx100g.transtelco.net,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Álvaro Obregón
+187.249.16.174,4,-30,Ookla Speedtest Server 69414: speedtest-ags100g.transtelco.net,MX,Americas,Latin America and the Caribbean,Mexico,Aguascalientes,,Aguascalientes
+187.249.112.118,4,-4,Ookla Speedtest Server 69664: speedtest-oax100g.transtelco.net,MX,Americas,Latin America and the Caribbean,Mexico,Oaxaca,,Ocotlán de Morelos
+190.61.32.147,4,0,Ookla Speedtest Server 69682: speedtest.wispynet.mx,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Motul
+190.61.32.197,4,51069,Ookla Speedtest Server 69989: speedtest.rv-fiber-corp.cloud,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Valladolid
+187.249.73.235,4,-4,Ookla Speedtest Server 69995: speedtest.fiberx.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Chihuahua City
+38.58.156.49,4,-2,Ookla Speedtest Server 70054: speedtest.totalnet.mx,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,Monterrey
+187.249.159.2,4,1,Ookla Speedtest Server 70249: speedtest.gotvmx.com,MX,Americas,Latin America and the Caribbean,Mexico,Tabasco,,Comalcalco
+38.58.130.16,4,12054,Ookla Speedtest Server 70594: sp01.radix.mx,MX,Americas,Latin America and the Caribbean,Mexico,Hidalgo,,Cardonal
+201.174.171.202,4,-4,Ookla Speedtest Server 70708: speedtest-ver100g.transtelco.net,MX,Americas,Latin America and the Caribbean,Mexico,Veracruz,,Veracruz
+201.77.60.6,4,-2484388,Ookla Speedtest Server 71053: speedmtp.quattrocom.mx,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Mérida
+38.56.248.123,4,14,Ookla Speedtest Server 71167: ooklas.asespri.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tlaxcala,,Terrenate
+38.56.251.22,4,-4,Ookla Speedtest Server 71310: nc-cal-tlx.asespri.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tlaxcala,,Terrenate
+38.56.250.42,4,1,Ookla Speedtest Server 71311: nc-pue-tlx.asespri.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Tlaxcala,,Terrenate
+201.77.108.1,4,252226,Ookla Speedtest Server 71343: speedtest-pparral.nidix.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Jiménez
+170.78.210.118,4,24160,Ookla Speedtest Server 71437: speedtest.sistemasinteligentes.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Aculco de Espinoza
+160.202.135.10,4,6,Ookla Speedtest Server 72051: speedtest.lixer.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Hermosillo
+38.211.148.200,4,-20433,Ookla Speedtest Server 72398: sp1.isymail.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,San Juan de los Lagos
+45.80.83.233,4,-1,Ookla Speedtest Server 72430: speedtest.icentral.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Ciudad Juárez
+69.171.213.1,4,3,Ookla Speedtest Server 72691: speedtest.compunetmx.com,MX,Americas,Latin America and the Caribbean,Mexico,México,,Polotitlán de la Ilustración
+38.65.145.3,4,-7,Ookla Speedtest Server 72786: speedtest.eninetworks.com,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,Querétaro City
+187.102.229.118,4,39959,Ookla Speedtest Server 72871: sps1.yesnet.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,San Luis de la Paz
+45.174.111.238,4,10,Ookla Speedtest Server 73188: speedtest.emenet.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+8.243.210.201,4,-9004,Ookla Speedtest Server 73233: speedtest.globonetinternet.com,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Tenamaxtlán
+38.65.174.193,4,4,Ookla Speedtest Server 73503: speedtest.amealcom.com,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,Amealco de Bonfil
+38.224.221.170,4,36841,Ookla Speedtest Server 73741: sp01.jossdar.net,MX,Americas,Latin America and the Caribbean,Mexico,Tabasco,,Comalcalco
+206.85.8.153,4,-3,Ookla Speedtest Server 73860: speedtest.malamik.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Huetamo de Núñez
+187.103.24.153,4,-33,Ookla Speedtest Server 73940: speedtest-cdmx.vinoc.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+201.148.20.194,4,-6,Ookla Speedtest Server 74054: speed.nexacarrier.com,MX,Americas,Latin America and the Caribbean,Mexico,Chiapas,,Chiapa de Corzo
+200.25.32.216,4,-7,Ookla Speedtest Server 74162: speedtest.intercity-adi.com,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,
+45.167.93.32,4,-8,Ookla Speedtest Server 74257: speedtest.unsc.mx,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Mérida
+38.211.4.32,4,-89568,Ookla Speedtest Server 74301: sp01.isimac.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Aguascalientes,,Calvillo
+38.211.4.33,4,-89563,Ookla Speedtest Server 74307: sp02.isimac.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Aguascalientes,,Calvillo
+203.88.96.14,4,1,Ookla Speedtest Server 74410: speednxn.ddns.net,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
+45.167.93.57,4,-6,Ookla Speedtest Server 74500: speedtest2.mayalink.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Mérida
+189.204.244.135,4,237227,paot.org.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+195.250.27.45,4,4,picalpantaco.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+195.250.27.205,4,10,pumper.com.co,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+189.206.56.233,4,-547369,radioeducacion.edu.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+201.131.125.98,4,-154,realestatemarket.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+216.238.85.2,4,-1,revistadelauniversidad.mx,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,Querétaro City
+201.161.86.197,4,14,saluddigital.com,MX,Americas,Latin America and the Caribbean,Mexico,,,
+195.250.27.21,4,-11,santacatalina.org.pe,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+195.250.27.37,4,-6,sapamv.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+200.94.181.11,4,29,seguridadjusticiaypaz.org.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+200.94.181.9,4,26,seguridadjusticiaypaz.org.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+200.94.181.10,4,24,seguridadjusticiaypaz.org.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+34.51.6.20,4,7,socasesores.com,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,
+201.134.76.213,4,-4,solmar.com,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
+201.116.168.228,4,18,suburbia.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Nuevo León,,San Nicolás de los Garza
+187.141.121.227,4,11,suneo.mx,MX,Americas,Latin America and the Caribbean,Mexico,Oaxaca,,Oaxaca City
+195.250.27.157,4,17,telecabledecalimaya.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+195.250.27.35,4,19,tortaslucas.com.pe,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+148.244.229.190,4,25,total-logistics.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+45.164.21.15,4,20,truxgo.com,MX,Americas,Latin America and the Caribbean,Mexico,,,
+131.196.253.94,4,-1,truxgohosting.com,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Mérida
+200.33.240.38,4,25875205,uaaan.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+192.100.162.13,4,13,uan.edu.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+148.227.1.12,4,11,uas.edu.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Mazatlán
+195.250.27.22,4,-4,ultrafarmavet.com.py,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+200.23.222.17,4,7251,umar.mx,MX,Americas,Latin America and the Caribbean,Mexico,Oaxaca,,Huatulco
+148.216.108.180,4,37359,umich.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Morelia
+148.207.151.161,4,8,unadmexico.mx,MX,Americas,Latin America and the Caribbean,Mexico,,,
+132.248.166.20,4,-100,unam.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+132.248.166.17,4,-79,unam.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+132.248.166.19,4,-126,unam.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+132.248.166.18,4,-96,unam.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+34.51.53.9,4,23,uniformg.edu.br,MX,Americas,Latin America and the Caribbean,Mexico,Querétaro,,
+201.134.115.36,4,66604033,Uninet S.A. de C.V.,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
+195.250.27.182,4,8,usevivabemmais.com.br,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+195.250.27.30,4,23,valdiviaesbimba.cl,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+31.6.13.6,4,6,valeriarp.com.tr,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+195.250.27.211,4,22,yanapumaspanish.org,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+195.250.27.46,4,3,yevo.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+195.250.27.33,4,8,zamworg.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City

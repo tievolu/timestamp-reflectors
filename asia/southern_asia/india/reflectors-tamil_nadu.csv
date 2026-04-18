@@ -1,48 +1,114 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-103.194.242.18,4,-8,avinuty.ac.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Tirupur
-141.226.255.249,4,40,bsesdelhi.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+49.207.187.44,4,1,7s.digital,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+141.226.255.86,4,14,adanielectricity.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+172.235.15.189,4,-45,adigitalblogger.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+172.235.19.138,4,-19,aptusindia.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+103.194.242.18,4,5,avinuty.ac.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Coimbatore
+66.22.97.139,4,1,bapco.net,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+172.235.16.143,4,-27,bcci.tv,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+172.232.122.83,4,-51,bproperty.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+141.226.255.249,4,-19,bsesdelhi.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+66.22.97.83,4,-6,csb.co.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+141.226.255.125,4,-5,dalmiacement.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
 172.232.103.123,4,102,dappsfirm.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
-115.240.220.45,4,-33,DNS Server: 115.240.220.45.static.jio.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
-49.207.36.81,4,168,DNS Server: 49.207.36.81.actcorp.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
-103.99.150.10,4,163,DNS Server: ns1.skylinkfibernet.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Coimbatore
+49.207.36.81,4,-8,DNS Server: 49.207.36.81.actcorp.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+122.185.112.188,4,-200832826,DNS Server: nsg-corporate-188.112.185.122.airtel.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+122.185.99.78,4,-22278716,DNS Server: nsg-corporate-78.99.185.122.airtel.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+163.53.206.81,4,48960,DNS Server: rainbowisp.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Hosūr
+66.22.94.28,4,0,gmmco.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
 66.22.97.208,4,6,hathway.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
-66.22.97.202,4,25,iexindia.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
-141.226.103.44,4,5,iob.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
-172.232.106.238,4,8,men-tsee-khang.org,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
-66.22.93.235,4,24,midcindia.org,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
-141.226.103.3,4,11,ntpc.co.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
-103.78.165.146,4,-1,Ookla Speedtest Server 16674: speedtest.c32broadband.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
-162.216.142.255,4,126,Ookla Speedtest Server 18446: speedkovai.cherrinet.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Coimbatore
-45.249.120.67,4,352,Ookla Speedtest Server 22796: che-speedtest.airconnectindia.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Ooty
-202.53.4.255,4,384,Ookla Speedtest Server 23315: speedten.cherrinet.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Tirunelveli
-103.59.132.4,4,302,Ookla Speedtest Server 41867: speedtest.widecom.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Erode
-103.181.168.206,4,368,Ookla Speedtest Server 42811: speedtest.mrkr.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Madurai
-110.172.151.58,4,358,Ookla Speedtest Server 46446: speedtest.vedanetworks.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Thanjavur
-113.30.176.59,4,-31723295,Ookla Speedtest Server 48639: speedtest.aristotelenet.net,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
-103.89.64.3,4,-136752,Ookla Speedtest Server 53346: speedtest.rathnaaspectra.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Coimbatore
-103.171.73.10,4,247,Ookla Speedtest Server 55319: speedtest.sbsystem.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Thanjavur
-103.184.107.65,4,-39025,Ookla Speedtest Server 55697: speedtest-paramathivelur.stackbit.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Karur
-103.126.43.254,4,328,Ookla Speedtest Server 57366: chennai.dvpl.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
-103.5.112.250,4,208,Ookla Speedtest Server 59224: speed.bluwifi.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Coimbatore
-103.156.100.7,4,311,Ookla Speedtest Server 60569: speed02.hifisurf.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Kāramadai
-103.181.148.18,4,326,Ookla Speedtest Server 60936: speedtest.mdnetwork.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Erode
-160.20.106.20,4,127,Ookla Speedtest Server 62634: speedtest.starnetwork.net.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Krishnagiri
-157.15.10.254,4,213,Ookla Speedtest Server 62776: stchn.tactcom.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
-103.110.236.2,4,1577175,Ookla Speedtest Server 64381: erdspt.hyperband.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Erode
-152.52.30.118,4,221,Ookla Speedtest Server 64426: speedtestshm1.airtel.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
-103.154.35.6,4,-89089,Ookla Speedtest Server 64491: tprsts.quickfibernet.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Tirupur
-117.250.238.251,4,321,Ookla Speedtest Server: bsnlooklachn.ddnsfree.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
-1.39.83.205,4,138,Ookla Speedtest Server: ooklatestmadurai.live.vodafone.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Madurai
-103.99.216.14,4,265,Ookla Speedtest Server: southnet1.kingsbroadband.net,IN,Asia,Southern Asia,India,Tamil Nadu,,Salem
-103.88.76.26,4,247,Ookla Speedtest Server: speedtest.ticfiber.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
-103.142.112.22,4,21,Ookla Speedtest Server: speedtest.ticpl.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Tiruchirappalli
-122.187.99.102,4,-157486,Ookla Speedtest Server: speedtestcal1.airtelbroadband.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
-66.22.93.103,4,54,praj.net,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+172.232.99.30,4,-10,hungama.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+66.22.97.202,4,31,iexindia.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+14.139.174.52,4,-21,iitpkd.ac.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+14.139.190.10,4,-5,jipmer.edu.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Sivakasi
+66.22.95.1,4,-3,jkcement.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+172.235.26.205,4,20,kahawatungu.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+14.139.185.58,4,19798192,kau.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Sivakasi
+141.226.103.174,4,-17,lollypop.design,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+122.165.242.4,4,-6,lookwhativemade.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Tirupur
+66.22.93.235,4,19,midcindia.org,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+14.139.191.163,4,-11,nitttrc.ac.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Sivakasi
+141.226.103.3,4,-7,ntpc.co.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+103.26.110.181,4,49192,Ookla Speedtest Server 7622: speedtest.nissbroadband.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Tirunelveli
+106.51.113.13,4,-2,Ookla Speedtest Server 7644: speedtestcbe.actcorp.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Coimbatore
+157.20.180.254,4,20,Ookla Speedtest Server 8647: tcrst.gsisp.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Udangudi
+144.48.50.173,4,51234895,Ookla Speedtest Server 8653: pondyspeedtest.nissbroadband.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Kodaikānāl
+103.219.204.41,4,6,Ookla Speedtest Server 8797: speedtest.cherrinet.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+117.120.59.10,4,1,Ookla Speedtest Server 9898: 1tg.spit.co.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Tiruchengode
+144.48.50.177,4,51234732,Ookla Speedtest Server 10024: madurai.nissbroadband.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Kodaikānāl
+103.113.191.109,4,-3,Ookla Speedtest Server 10863: st.realwire.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Madurai
+103.215.168.110,4,-649610,Ookla Speedtest Server 11270: speedtestsalem.bluwaves.net,IN,Asia,Southern Asia,India,Tamil Nadu,,Salem
+103.78.159.6,4,37,Ookla Speedtest Server 11636: speedtest.atbroadband.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Nagercoil
+103.35.142.5,4,-16,Ookla Speedtest Server 11974: speedtest.dhlbroadbandnet.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Thoothukudi
+103.16.203.20,4,-425448,Ookla Speedtest Server 12285: speedtestchn.actcorp.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+162.216.140.245,4,-9,Ookla Speedtest Server 12486: sptry1.cherrinet.in,IN,Asia,Southern Asia,India,Tamil Nadu,,
+117.250.238.251,4,-11,Ookla Speedtest Server 12938: bsnlooklachn.ddnsfree.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+103.76.188.228,4,-31,Ookla Speedtest Server 13297: speedtest.alacriynetsystem.net,IN,Asia,Southern Asia,India,Tamil Nadu,,Vellore
+103.245.188.34,4,186,Ookla Speedtest Server 15535: speed.blss.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+61.1.182.161,4,-26,Ookla Speedtest Server 16094: bsnlooklacbt.mywire.org,IN,Asia,Southern Asia,India,Tamil Nadu,,Coimbatore
+103.78.165.146,4,-4,Ookla Speedtest Server 16674: speedtest.c32broadband.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+162.216.142.255,4,-13,Ookla Speedtest Server 18446: speedkovai.cherrinet.in,IN,Asia,Southern Asia,India,Tamil Nadu,,
+162.216.141.255,4,-19,Ookla Speedtest Server 18657: speedpdy.cherrinet.in,IN,Asia,Southern Asia,India,Tamil Nadu,,
+103.99.216.14,4,-502714,Ookla Speedtest Server 22881: southnet1.kingsbroadband.net,IN,Asia,Southern Asia,India,Tamil Nadu,,Parapatti
+162.216.143.255,4,-10,Ookla Speedtest Server 23311: speedsalem.cherrinet.in,IN,Asia,Southern Asia,India,Tamil Nadu,,
+103.110.236.6,4,-23,Ookla Speedtest Server 24636: speedtest.srivarigroups.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Erode
+202.129.196.12,4,-24,Ookla Speedtest Server 26848: speedtest.wireline.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Coimbatore
+103.139.34.6,4,15,Ookla Speedtest Server 27565: speedtest.kovaifibernet.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Coimbatore
+103.78.237.89,4,-17,Ookla Speedtest Server 29179: speedtest.jtel.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Marthandam
+103.102.96.22,4,-76,Ookla Speedtest Server 29965: speedtest1.sefaronetworks.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Coimbatore
+103.168.241.130,4,67671378,Ookla Speedtest Server 30475: speedtest.alphafibernet.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Tirupur
+103.83.58.36,4,-49,Ookla Speedtest Server 30878: spmaa.airgenie.co.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+103.225.124.252,4,-76,Ookla Speedtest Server 35807: speed10.rainbowisp.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Salem
+45.116.112.114,4,-79,Ookla Speedtest Server 36590: chennai.rainbowisp.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+103.158.220.4,4,-60,Ookla Speedtest Server 36608: speedtest.cybronet.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Theni
+103.82.210.54,4,-9,Ookla Speedtest Server 37109: speedtest.airfiber.co.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Hosūr
+182.50.71.233,4,-8,Ookla Speedtest Server 37352: speedtestchennai.tataplayfiber.co.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+103.181.148.2,4,-20,Ookla Speedtest Server 39379: speedtest.jrcom.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Dindigul
+103.75.156.2,4,-2,Ookla Speedtest Server 40856: sp1.airwaycommunication.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Tiruchirappalli
+103.59.132.4,4,-3,Ookla Speedtest Server 41867: speedtest.widecom.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Erode
+103.103.9.19,4,-25,Ookla Speedtest Server 42003: speedtest.f2hnetworks.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Meddappakkam
+103.181.168.206,4,-13,Ookla Speedtest Server 42811: speedtest.mrkr.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Madurai
+103.105.40.3,4,-5,Ookla Speedtest Server 43388: speedtest.minnaldigital.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Sankagiri
+103.25.47.94,4,-6,Ookla Speedtest Server 45295: justfly.rainbowisp.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Salem
+103.172.88.2,4,-66,Ookla Speedtest Server 47155: speedtest.f2connectisp.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+103.231.116.18,4,-11,Ookla Speedtest Server 48809: sttpr.hyperband.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Coimbatore
+103.231.116.21,4,-7,Ookla Speedtest Server 48855: svntpr.srivarigroups.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Coimbatore
+103.99.185.202,4,-27,Ookla Speedtest Server 49290: speedtest.srirambroadband.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Dharmapuri
+103.176.166.6,4,5,Ookla Speedtest Server 50119: speedtest1.airfiber.co.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Kanchipuram
+122.187.99.102,4,6832,Ookla Speedtest Server 52217: speedtestcal1.airtelbroadband.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+103.89.64.3,4,-34,Ookla Speedtest Server 53346: speedtest.rathnaaspectra.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Coimbatore
+103.171.73.10,4,4,Ookla Speedtest Server 55319: speedtest.sbsystem.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Thanjavur
+103.48.181.165,4,37379,Ookla Speedtest Server 56335: speedtest.spectafiber.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Kanchipuram
+103.88.76.78,4,-13,Ookla Speedtest Server 56357: speedtestkay.ticfiber.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Kanniyākumāri
+103.87.107.249,4,3,Ookla Speedtest Server 58540: speedtest1.wi5.net.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Madurai
+103.179.111.4,4,-378340,Ookla Speedtest Server 58611: chennai-speedtest.ishancloud.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+103.25.47.90,4,-6,Ookla Speedtest Server 59244: saras.rainbowisp.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Salem
+103.173.252.135,4,1262368,Ookla Speedtest Server 59828: speedtest.peercastindia.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+103.156.100.7,4,-1,Ookla Speedtest Server 60569: speed02.hifisurf.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Kāramadai
+103.181.148.18,4,0,Ookla Speedtest Server 60936: speedtest.mdnetwork.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Erode
+103.154.202.221,4,-49564,Ookla Speedtest Server 61198: speed.airwavescommunication.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Nagapattinam
+210.16.84.235,4,190622,Ookla Speedtest Server 62563: speedtest-chn.srivarigroups.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+160.20.106.20,4,-3,Ookla Speedtest Server 62634: speedtest.starnetwork.net.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Krishnagiri
+157.15.10.254,4,3,Ookla Speedtest Server 62776: stchn.tactcom.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+103.80.153.14,4,28,Ookla Speedtest Server 64160: reischn.pimoony.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+152.52.30.118,4,-26,Ookla Speedtest Server 64426: speedtestshm1.airtel.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+152.52.46.138,4,-8,Ookla Speedtest Server 64573: speedtestplc1.airtel.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Pollachi
+103.181.33.20,4,-66,Ookla Speedtest Server 69073: speedtest1.alacriynetsystem.net,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+103.76.189.62,4,-82,Ookla Speedtest Server 69439: speedtest2.alacriynetsystem.net,IN,Asia,Southern Asia,India,Tamil Nadu,,Nagapattinam
+103.191.90.186,4,0,Ookla Speedtest Server 69584: speedtest1.aspirare.co,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+163.61.28.4,4,-108,Ookla Speedtest Server 69599: speedtest.feathercom.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Tiruchirappalli
+43.228.167.38,4,9,Ookla Speedtest Server 70031: speed.fab5network.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+103.187.83.97,4,-52,Ookla Speedtest Server 70875: speedtest.ynet.co.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Uthiramerur
+115.110.96.156,4,21,Ookla Speedtest Server 73039: ookla.cn.as6453.net,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+103.160.217.106,4,-19,Ookla Speedtest Server 74385: speedtest.uteleservices.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Tirupur
+66.22.93.103,4,17,praj.net,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
 66.22.97.74,4,68,relianceada.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
 66.22.93.110,4,13,rinfra.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
-169.38.73.5,4,-11,SoftLayer Technologies Inc.,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+169.38.73.5,4,-44,SoftLayer Technologies Inc.,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
 169.38.77.132,4,-11,tamiluniversity.ac.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
-141.226.255.136,4,9,tciexpress.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+141.226.255.136,4,38,tciexpress.in,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+141.226.103.173,4,36,terralogic.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
 66.22.97.148,4,-45,ud.ac.ae,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
-66.22.93.239,4,31,universalsompo.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
-66.22.93.47,4,7,yotta.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+66.22.93.239,4,26,universalsompo.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+66.22.97.171,4,4,unominda.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai
+66.22.93.47,4,5,yotta.com,IN,Asia,Southern Asia,India,Tamil Nadu,,Chennai

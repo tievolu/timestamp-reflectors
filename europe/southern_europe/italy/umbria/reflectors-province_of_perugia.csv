@@ -1,5 +1,8 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-109.73.80.190,4,302,Ookla Speedtest Server 3301: speedtest.connesi.it,IT,Europe,Southern Europe,Italy,Umbria,Province of Perugia,Foligno
-31.185.23.6,4,297,Ookla Speedtest Server 57465: speedtestmi001pg.tecnoadsl.it,IT,Europe,Southern Europe,Italy,Umbria,Province of Perugia,Perugia
-31.185.23.10,4,331,Ookla Speedtest Server 60382: speedtestri.mi002.tecnoadsl.it,IT,Europe,Southern Europe,Italy,Umbria,Province of Perugia,Perugia
-212.39.9.98,4,542436,perugiatiming.com,IT,Europe,Southern Europe,Italy,Umbria,Province of Perugia,Foligno
+46.30.172.121,4,-3,DNS Server: host-121-172-30-46.connesi.it,IT,Europe,Southern Europe,Italy,Umbria,Province of Perugia,Trevi
+79.0.73.35,4,-2,DNS Server: host-79-0-73-35.business.telecomitalia.it,IT,Europe,Southern Europe,Italy,Umbria,Province of Perugia,Castiglione del Lago
+79.61.138.153,4,-91,DNS Server: host-79-61-138-153.business.telecomitalia.it,IT,Europe,Southern Europe,Italy,Umbria,Province of Perugia,Perugia
+109.73.80.190,4,19,Ookla Speedtest Server 3301: speedtest.connesi.it,IT,Europe,Southern Europe,Italy,Umbria,Province of Perugia,Foligno
+31.185.23.6,4,8,Ookla Speedtest Server 57465: speedtestmi001pg.tecnoadsl.it,IT,Europe,Southern Europe,Italy,Umbria,Province of Perugia,Perugia
+31.185.23.10,4,-1,Ookla Speedtest Server 60382: speedtestri.mi002.tecnoadsl.it,IT,Europe,Southern Europe,Italy,Umbria,Province of Perugia,Perugia
+212.39.9.98,4,2127771,perugiatiming.com,IT,Europe,Southern Europe,Italy,Umbria,Province of Perugia,San Leo Bastia

@@ -1,8 +1,49 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-204.199.165.45,4,-36322,DNS Server: 204-199-165-45.dia.static.centurylink.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,Lima region
-38.51.132.146,4,192,Ookla Speedtest Server 15102: speedtest.dataonlineperu.com,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,Barranca
-200.123.62.245,4,379,Ookla Speedtest Server 15102: speedtest.dataonlineperu.com,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,Barranca
-190.237.52.133,4,391,Ookla Speedtest Server 41583: ookla-sis01.telefonica.net.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,San Isidro
-190.216.189.250,4,161,Ookla Speedtest Server 55028: lima.speedtest.ciriontechnologies.com,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,Lima region
-209.45.20.129,4,21796,Ookla Speedtest Server 60927: speedtest.vivotv.org,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,Villa
-45.177.23.197,4,4,undac.edu.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,Lima region
+181.224.224.50,4,0,DNS Server: static22450.flx.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+181.224.226.165,4,-5,DNS Server: static226165.flx.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+216.244.128.2,4,-4,Ookla Speedtest Server 3455: speedtest11.amx.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,La Victoria
+190.216.190.44,4,4,Ookla Speedtest Server 7632: speedtest.cableestacion.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+190.237.52.131,4,4,Ookla Speedtest Server 11588: ookla-rim01.movistar.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,Rímac
+190.237.52.135,4,-11,Ookla Speedtest Server 11960: ookla-sjl01.movistar.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,San Juan de Lurigancho
+200.123.8.29,4,36635,Ookla Speedtest Server 12045: sp1.gtdperu.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+190.237.52.137,4,-5,Ookla Speedtest Server 12132: ookla-mir01.movistar.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,Miraflores
+45.232.148.178,4,1003887,Ookla Speedtest Server 13232: speedtest.sattelital.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+216.244.128.3,4,-7,Ookla Speedtest Server 13317: speedtest21.amx.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,Villa El Salvador
+190.237.52.151,4,-2,Ookla Speedtest Server 13413: ookla-sjm01.movistar.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,San Juan de Miraflores
+138.185.13.230,4,5,Ookla Speedtest Server 15969: speedtest.tru.pe.pit.net,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+201.218.159.50,4,42141,Ookla Speedtest Server 16778: speedtest.fiberpro.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+179.1.155.60,4,-2,Ookla Speedtest Server 17369: chasquinetsrl.com,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+138.99.176.22,4,-18,Ookla Speedtest Server 17421: speedtest.netwin.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+187.86.167.22,4,-5,Ookla Speedtest Server 34617: speedtest.wowperu.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+45.191.198.1,4,0,Ookla Speedtest Server 36149: medidor.speed.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+45.185.186.245,4,-2,Ookla Speedtest Server 49050: speedtest21.newtel.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+200.215.250.179,4,-2,Ookla Speedtest Server 49323: speedtest.compunetwork.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,San Juan de Lurigancho
+45.189.108.218,4,-15,Ookla Speedtest Server 51466: speedtest.bantelperu.com,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,Surquillo
+138.185.15.250,4,0,Ookla Speedtest Server 52148: speedtest.loanetwork.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+190.105.240.45,4,4213120,Ookla Speedtest Server 53515: speedtest5.fravatel.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+190.216.189.250,4,-11,Ookla Speedtest Server 55028: lima.speedtest.ciriontechnologies.com,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+187.86.166.117,4,-7,Ookla Speedtest Server 56161: speedtest01.wowperu.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+187.86.166.119,4,32,Ookla Speedtest Server 56164: speedtest02.wowperu.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+201.234.117.235,4,-27778,Ookla Speedtest Server 60927: speedtest.vivotv.org,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,Villa El Salvador
+45.231.72.5,4,-6,Ookla Speedtest Server 62039: speedtest.americanet.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+45.5.59.46,4,-2,Ookla Speedtest Server 62676: speedtest.globalfiber.com.co,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+190.113.223.219,4,6,Ookla Speedtest Server 63611: speedtest61.amx.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,San Juan de Lurigancho
+45.189.188.50,4,-4,Ookla Speedtest Server 65033: speedtest1.cix.pe.pit.net,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+45.183.45.202,4,8,Ookla Speedtest Server 65203: speedtest.lim.pe.pit.net,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+38.52.182.1,4,92758,Ookla Speedtest Server 67035: speedtest.nexsatel.com,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,Lurín
+45.173.72.10,4,3,Ookla Speedtest Server 67812: speed.servicable.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+45.189.109.110,4,1,Ookla Speedtest Server 68537: speedtestcomas.bantel.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+38.183.182.74,4,-8,Ookla Speedtest Server 69572: speedtest.forzatel.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,Huaura
+45.231.72.7,4,-2,Ookla Speedtest Server 70382: speedtest.tecnoredesperu.com,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+38.187.19.78,4,5274,Ookla Speedtest Server 71026: speedtest.kunturnetworks.com,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+187.86.167.33,4,-9,Ookla Speedtest Server 71214: speedtest04.wowperu.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,Villa El Salvador
+38.250.231.2,4,0,Ookla Speedtest Server 71908: speedtest.servitronicperu.com,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+38.224.76.254,4,-71,Ookla Speedtest Server 72446: speedtest.lima1.mifibra.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+45.166.72.235,4,-10,Ookla Speedtest Server 73056: speedtest.ficom.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+190.116.137.210,4,-2,Ookla Speedtest Server 73322: speedtest66.amx.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+148.222.227.174,4,3,Ookla Speedtest Server 73471: speedtest.cableluz.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+190.116.137.227,4,-17,Ookla Speedtest Server 73657: speedtest64.amx.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,San Miguel
+190.116.137.242,4,5,Ookla Speedtest Server 73673: speedtest65.amx.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,Miraflores
+190.116.137.234,4,-12,Ookla Speedtest Server 73674: speedtest63.amx.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+45.177.21.16,4,2,Ookla Speedtest Server 74406: speedtest2.grupopyp.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
+204.157.243.14,4,4,Ookla Speedtest Server 74498: speedtest.andinatel.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,

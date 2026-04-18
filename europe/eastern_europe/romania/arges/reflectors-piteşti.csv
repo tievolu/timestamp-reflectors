@@ -1,2 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-89.165.220.202,4,-23444252,DNS Server: 89-165-220-202.next-gen.ro,RO,Europe,Eastern Europe,Romania,Arges,,Piteşti
+81.196.210.194,4,15682,DNS Server: cerf-81.196.210.194.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Arges,,Piteşti
+89.238.247.35,4,-5,DNS Server: ip4-89-238-247-35.euroweb.ro,RO,Europe,Eastern Europe,Romania,Arges,,Piteşti
+81.196.12.101,4,0,iw.ro,RO,Europe,Eastern Europe,Romania,Arges,,Piteşti
+81.196.10.78,4,2230,mstdn.ro,RO,Europe,Eastern Europe,Romania,Arges,,Piteşti
+81.196.8.146,4,-4,Ookla Speedtest Server 11494: speedtest.rcs-rds.ro,RO,Europe,Eastern Europe,Romania,Arges,,Piteşti

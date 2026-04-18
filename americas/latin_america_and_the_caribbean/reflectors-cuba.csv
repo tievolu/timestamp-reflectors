@@ -1,7 +1,13 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-200.0.24.85,4,57057,bnjm.cu,CU,Americas,Latin America and the Caribbean,Cuba,,,
+200.0.24.45,4,-22,bnjm.cu,CU,Americas,Latin America and the Caribbean,Cuba,,,
 190.92.127.36,4,-4,cubasi.cu,CU,Americas,Latin America and the Caribbean,Cuba,,,
-190.92.127.44,4,81,radiorebelde.cu,CU,Americas,Latin America and the Caribbean,Cuba,,,
-181.225.235.160,4,42255,uh.cu,CU,Americas,Latin America and the Caribbean,Cuba,Havana,,Havana
-190.92.127.232,4,-3,vanguardia.cu,CU,Americas,Latin America and the Caribbean,Cuba,,,
-200.55.145.10,4,-19,vlired.cu,CU,Americas,Latin America and the Caribbean,Cuba,Havana,,Havana
+200.0.24.24,4,-45649,cult.cu,CU,Americas,Latin America and the Caribbean,Cuba,,,
+152.206.201.49,4,-7,DNS Server: srv49201-206152.vps.etecsa.cu,CU,Americas,Latin America and the Caribbean,Cuba,Havana,,Havana
+152.206.201.77,4,12772,DNS Server: srv77201-206152.vps.etecsa.cu,CU,Americas,Latin America and the Caribbean,Cuba,Havana,,Havana
+190.92.127.209,4,-15864,etecsa.cu,CU,Americas,Latin America and the Caribbean,Cuba,,,
+200.55.183.78,4,0,habanafilmfestival.com,CU,Americas,Latin America and the Caribbean,Cuba,Havana,,Havana
+190.92.127.203,4,45553,pcc.cu,CU,Americas,Latin America and the Caribbean,Cuba,,,
+190.92.127.44,4,6,radioreloj.cu,CU,Americas,Latin America and the Caribbean,Cuba,,,
+200.14.50.204,4,57,ucf.edu.cu,CU,Americas,Latin America and the Caribbean,Cuba,,,
+200.55.145.10,4,27,uclv.cu,CU,Americas,Latin America and the Caribbean,Cuba,Havana,,Havana
+181.225.235.160,4,54964,uh.cu,CU,Americas,Latin America and the Caribbean,Cuba,Havana,,Havana

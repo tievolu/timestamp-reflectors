@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-164.40.241.106,4,10,amazonki.net,PL,Europe,Eastern Europe,Poland,Greater Poland,,Komorniki
+80.87.33.242,4,-4,DNS Server: d33-242.icpnet.pl,PL,Europe,Eastern Europe,Poland,Greater Poland,,Komorniki
+80.87.35.170,4,-2,DNS Server: d35-170.icpnet.pl,PL,Europe,Eastern Europe,Poland,Greater Poland,,Komorniki
+80.87.39.34,4,-17172,DNS Server: d39-34.icpnet.pl,PL,Europe,Eastern Europe,Poland,Greater Poland,,Komorniki

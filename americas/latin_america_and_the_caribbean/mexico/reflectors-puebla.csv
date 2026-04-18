@@ -1,8 +1,15 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-201.132.162.254,4,-219,DNS Server: customer-PUE-MCA-162-254.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Tehuacán
-200.92.202.26,4,4363,DNS Server: customer-PUE-MCA-202-26.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Tepanco
-177.240.8.182,4,7180,DNS Server: customer-PUE-MCA-8-182.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Puebla City
-189.193.189.226,4,354,Ookla Speedtest Server 14111: speedtest.puebla.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Puebla City
-200.52.174.16,4,321,Ookla Speedtest Server 60201: speedtest.zam.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Puebla City
-187.244.49.2,4,336,Ookla Speedtest Server 60708: speedtest.teh.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Tehuacán
-187.244.49.3,4,288,Ookla Speedtest Server 64887: speedtest.ajlpn.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Ajalpan
+187.141.87.102,4,63,DNS Server: customer-187-141-87-102-sta.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Puebla City
+201.132.162.254,4,-17718,DNS Server: customer-PUE-MCA-162-254.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Puebla City
+177.240.8.182,4,928,DNS Server: customer-PUE-MCA-8-182.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Puebla City
+187.189.23.177,4,-6549,DNS Server: fixed-187-189-23-177.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Puebla City
+189.193.189.226,4,5,Ookla Speedtest Server 14111: speedtest.puebla.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Puebla City
+187.190.54.90,4,2,Ookla Speedtest Server 37119: puebla.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Puebla City
+190.102.35.2,4,0,Ookla Speedtest Server 42201: speedtest.witmac.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Tehuacán
+201.130.6.54,4,-2,Ookla Speedtest Server 42685: speedtest.yuvox.net,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Puebla City
+45.187.150.25,4,-2,Ookla Speedtest Server 52722: speedtest.mtnetworks.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Izúcar de Matamoros
+200.52.174.16,4,3,Ookla Speedtest Server 60201: speedtest.zam.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Puebla City
+187.244.49.2,4,-10,Ookla Speedtest Server 60708: speedtest.teh.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Tehuacán
+103.239.234.255,4,-3,Ookla Speedtest Server 61783: velocidad.solit.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Tehuacán
+187.244.49.3,4,-22,Ookla Speedtest Server 64887: speedtest.ajlpn.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Ajalpan
+187.244.49.4,4,13,Ookla Speedtest Server 64996: speedtest.tltpc.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Tlacotepec

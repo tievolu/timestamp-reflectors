@@ -1,8 +1,15 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-85.51.202.225,4,29,DNS Server: 225.pool85-51-202.static.orange.es,ES,Europe,Southern Europe,Spain,Canary Islands,Santa Cruz de Tenerife,Santa Cruz de Tenerife
-90.163.132.67,4,2,DNS Server: 67.pool90-163-132.dynamic.orange.es,ES,Europe,Southern Europe,Spain,Canary Islands,Las Palmas,Vecindario
-90.170.174.67,4,5685,DNS Server: 67.pool90-170-174.dynamic.orange.es,ES,Europe,Southern Europe,Spain,Canary Islands,Las Palmas,Puerto del Rosario
-90.162.246.79,4,42,DNS Server: 79.pool90-162-246.dynamic.orange.es,ES,Europe,Southern Europe,Spain,Canary Islands,Las Palmas,Las Palmas de Gran Canaria
-212.64.160.50,4,17,elmuseocanario.com,ES,Europe,Southern Europe,Spain,Canary Islands,Las Palmas,Las Palmas de Gran Canaria
-89.140.122.27,4,403,Ookla Speedtest Server 30999: speedtest1.avatel.es,ES,Europe,Southern Europe,Spain,Canary Islands,Santa Cruz de Tenerife,Santa Cruz de Tenerife
-185.47.212.26,4,320,Ookla Speedtest Server 48936: speedtest26.csisp.info,ES,Europe,Southern Europe,Spain,Canary Islands,Las Palmas,Arguineguín
+85.51.202.225,4,4,DNS Server: 225.pool85-51-202.static.orange.es,ES,Europe,Southern Europe,Spain,Canary Islands,Santa Cruz de Tenerife,Santa Cruz de Tenerife
+90.163.132.67,4,-6,DNS Server: 67.pool90-163-132.dynamic.orange.es,ES,Europe,Southern Europe,Spain,Canary Islands,Las Palmas,Las Palmas de Gran Canaria
+90.170.174.67,4,2922,DNS Server: 67.pool90-170-174.dynamic.orange.es,ES,Europe,Southern Europe,Spain,Canary Islands,Las Palmas,Puerto del Rosario
+212.64.160.50,4,-9,elmuseocanario.com,ES,Europe,Southern Europe,Spain,Canary Islands,Santa Cruz de Tenerife,Santa Cruz de Tenerife
+195.57.239.187,4,52,laspalmasgc.es,ES,Europe,Southern Europe,Spain,Canary Islands,Las Palmas,Las Palmas de Gran Canaria
+31.14.60.3,4,-3894,Ookla Speedtest Server 11990: st2.wificanarias.com,ES,Europe,Southern Europe,Spain,Canary Islands,Santa Cruz de Tenerife,La Perdoma
+217.130.4.215,4,1,Ookla Speedtest Server 14543: speedtestgrancanaria.vodafone.es,ES,Europe,Southern Europe,Spain,Canary Islands,Santa Cruz de Tenerife,San Cristóbal de La Laguna
+185.243.167.232,4,-3,Ookla Speedtest Server 25399: speedtest.wifigomera.com,ES,Europe,Southern Europe,Spain,Canary Islands,Santa Cruz de Tenerife,San Sebastián de La Gomera
+45.156.100.40,4,6,Ookla Speedtest Server 36146: speedtest.fibrespeed.es,ES,Europe,Southern Europe,Spain,Canary Islands,Santa Cruz de Tenerife,Arona
+185.47.212.26,4,0,Ookla Speedtest Server 48936: speedtest26.csisp.info,ES,Europe,Southern Europe,Spain,Canary Islands,Las Palmas,Arguineguín
+185.228.126.12,4,-3067,Ookla Speedtest Server 56355: speedtest.excom.net,ES,Europe,Southern Europe,Spain,Canary Islands,Santa Cruz de Tenerife,Granadilla de Abona
+31.14.60.6,4,75911341,Ookla Speedtest Server 70805: st3.wificanarias.com,ES,Europe,Southern Europe,Spain,Canary Islands,Santa Cruz de Tenerife,La Perdoma
+185.105.36.68,4,-5,Ookla Speedtest Server 74251: speedtest14.digimobil.es,ES,Europe,Southern Europe,Spain,Canary Islands,Las Palmas,Las Palmas de Gran Canaria
+185.105.36.76,4,-4,Ookla Speedtest Server 74269: speedtest15.digimobil.es,ES,Europe,Southern Europe,Spain,Canary Islands,Santa Cruz de Tenerife,Santa Cruz de Tenerife

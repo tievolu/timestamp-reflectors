@@ -1,3 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-177.241.245.222,4,5922,DNS Server: customer-MCA-STAA-245-222.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Mazatlán
-187.244.5.2,4,207,Ookla Speedtest Server: speedtest.mzt.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Mazatlán
+187.210.134.50,4,-20,DNS Server: customer-187-210-134-50.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Mazatlán
+187.244.5.2,4,-18,Ookla Speedtest Server 38531: speedtest.mzt.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Mazatlán
+148.227.1.12,4,11,uas.edu.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sinaloa,,Mazatlán

@@ -1,126 +1,161 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-81.184.3.19,4,55,acm.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Badalona
 217.71.204.119,4,1124,agronegocios.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-213.4.38.212,4,57,albalearning.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-161.22.47.203,4,24,apdhcro.org,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-80.240.126.18,4,35,aralleida.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-93.189.88.219,4,8,ati.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-217.71.206.173,4,4,auditori.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-80.240.126.98,4,98,aventura-amazonia.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-213.4.63.165,4,-17452,aytosalamanca.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-46.183.117.187,4,9,barcelona-on-line.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-195.235.110.13,4,62,barcelonactiva.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-195.76.176.61,4,-330,beep.es,ES,Europe,Southern Europe,Spain,Catalonia,,
-84.88.75.239,4,745,bellvitgehospital.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,L'Hospitalet de Llobregat
+217.125.150.183,4,27,albalearning.com,ES,Europe,Southern Europe,Spain,Catalonia,Tarragona,El Rourell
+185.254.204.193,4,-4,andros.dev,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+161.22.44.195,4,-8,anunciantes.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+80.240.126.18,4,-7,aralleida.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+200.234.226.182,4,-15,arkoslight.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+93.189.88.219,4,-12,ati.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+217.71.206.173,4,-19,auditori.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+80.240.126.98,4,-8,aventura-amazonia.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+46.183.117.187,4,-15,barcelona-on-line.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+195.235.110.13,4,1,barcelonactiva.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+85.208.23.103,4,1394,barcelonaivf.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+83.43.187.255,4,-7239991,bastiqui.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Santa Coloma de Gramenet
+84.88.75.239,4,603,bellvitgehospital.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,L'Hospitalet de Llobregat
 217.71.200.239,4,31,bonart.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-79.143.95.46,4,33,bound4blue.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-200.234.237.23,4,2,casaarabe.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-37.153.91.149,4,7,cerotec.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Badalona
-185.219.59.6,4,17,comsa.com,ES,Europe,Southern Europe,Spain,Catalonia,Lleida,Torrelameu
-200.234.229.172,4,22,cooperativa.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-213.192.239.168,4,8,cossetania.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+27.0.173.47,4,980,bosqueyjardin.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+79.143.95.46,4,11,bound4blue.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+200.234.237.23,4,-8,casaarabe.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+212.36.66.35,4,2,ccpae.org,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Ripollet
+187.33.148.180,4,24,ceramicarchitectures.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+185.253.154.12,4,-3,chachara.club,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+185.219.59.6,4,-2,comsa.com,ES,Europe,Southern Europe,Spain,Catalonia,Lleida,Térmens
+200.234.229.172,4,-1,cooperativa.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+213.192.239.168,4,-10,cossetania.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
 46.183.115.7,4,7,creativopublicitaria.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-84.88.66.231,4,3,crg.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-195.76.233.36,4,2,dipta.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Sant Just Desvern
-95.124.245.102,4,-3596695,DNS Server: 102.red-95-124-245.staticip.rima-tde.net,ES,Europe,Southern Europe,Spain,Catalonia,Tarragona,Cambrils
-85.51.224.115,4,-209,DNS Server: 115.pool85-51-224.static.orange.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Sabadell
-81.45.138.117,4,13352,DNS Server: 117.red-81-45-138.staticip.rima-tde.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-134.255.241.185,4,-22412934,DNS Server: 134.255.241.185.ftth.inforcelra.net,ES,Europe,Southern Europe,Spain,Catalonia,Girona,Palafrugell
-80.58.157.223,4,24447,DNS Server: 223.red-80-58-157.staticip.rima-tde.net,ES,Europe,Southern Europe,Spain,Catalonia,,
-95.124.247.252,4,-44505765,DNS Server: 252.red-95-124-247.staticip.rima-tde.net,ES,Europe,Southern Europe,Spain,Catalonia,Tarragona,Cambrils
-85.50.124.34,4,10076,DNS Server: 34.pool85-50-124.static.orange.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Gavà
-2.136.37.48,4,176,DNS Server: 48.red-2-136-37.staticip.rima-tde.net,ES,Europe,Southern Europe,Spain,Catalonia,,
-5.10.206.251,4,-13438976,DNS Server: 5-10-206-251-ebrecom.ip4.guifi.net,ES,Europe,Southern Europe,Spain,Catalonia,Tarragona,Tortosa
-5.183.222.62,4,23,DNS Server: 5-183-222-62-ip4.iguana.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Sant Joan de Vilatorrada
-80.58.155.54,4,-280,DNS Server: 54.red-80-58-155.staticip.rima-tde.net,ES,Europe,Southern Europe,Spain,Catalonia,,
-83.48.48.80,4,-17,DNS Server: 80.red-83-48-48.staticip.rima-tde.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-80.103.159.9,4,29,DNS Server: 9.pool80-103-159.dynamic.orange.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Cerdanyola del Vallès
-83.48.75.94,4,3,DNS Server: 94.red-83-48-75.staticip.rima-tde.net,ES,Europe,Southern Europe,Spain,Catalonia,,
-91.126.187.228,4,-7584,DNS Server: cli-5b7ebbe4.bcn.adamo.es,ES,Europe,Southern Europe,Spain,Catalonia,Girona,Caldes de Malavella
-87.235.231.212,4,14,DNS Server: din-212-231-235-87.ipcom.comunitel.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-87.235.231.213,4,18,DNS Server: din-213-231-235-87.ipcom.comunitel.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-5.1.32.211,4,68,DNS Server: ns-p-ep-b.raclus.net,ES,Europe,Southern Europe,Spain,Catalonia,Girona,l'Escala
-5.1.38.155,4,263,DNS Server: pn-38.155.prisconetworks.com,ES,Europe,Southern Europe,Spain,Catalonia,Girona,l'Escala
-5.1.38.63,4,300,DNS Server: pn-38.63.prisconetworks.com,ES,Europe,Southern Europe,Spain,Catalonia,Girona,l'Escala
-77.225.175.37,4,472,DNS Server: static-37-175-225-77.ipcom.comunitel.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Badalona
-77.225.175.38,4,-3814090,DNS Server: static-38-175-225-77.ipcom.comunitel.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Badalona
-77.225.175.39,4,473,DNS Server: static-39-175-225-77.ipcom.comunitel.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Badalona
-213.192.239.108,4,10,dynamo.video,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+84.88.66.231,4,-17,crg.eu,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+93.189.94.201,4,13,deskidea.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+195.76.233.36,4,1,diputaciodetarragona.cat,ES,Europe,Southern Europe,Spain,Catalonia,Tarragona,Tarragona
+195.77.235.10,4,-2,DNS Server: 10.red-195-77-235.customer.static.ccgg.telefonica.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Sant Just Desvern
+88.28.220.105,4,-13,DNS Server: 105.red-88-28-220.staticip.rima-tde.net,ES,Europe,Southern Europe,Spain,Catalonia,,
+85.51.224.115,4,-2,DNS Server: 115.pool85-51-224.static.orange.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+91.204.127.13,4,-13,DNS Server: 13.127.204.91-ip.goufone.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Vic
+5.205.159.165,4,496,DNS Server: 165.red-5-205-159.dynamicip.rima-tde.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Fogars de Tordera
+88.28.192.185,4,17675,DNS Server: 185.red-88-28-192.staticip.rima-tde.net,ES,Europe,Southern Europe,Spain,Catalonia,,
+5.205.133.19,4,56,DNS Server: 19.red-5-205-133.dynamicip.rima-tde.net,ES,Europe,Southern Europe,Spain,Catalonia,Tarragona,Banyeres del Penedès
+80.58.157.223,4,4947,DNS Server: 223.red-80-58-157.staticip.rima-tde.net,ES,Europe,Southern Europe,Spain,Catalonia,,
+88.28.203.228,4,1562,DNS Server: 228.red-88-28-203.staticip.rima-tde.net,ES,Europe,Southern Europe,Spain,Catalonia,,
+88.28.203.239,4,458,DNS Server: 239.red-88-28-203.staticip.rima-tde.net,ES,Europe,Southern Europe,Spain,Catalonia,,
+88.28.221.250,4,-2277794277,DNS Server: 250.red-88-28-221.staticip.rima-tde.net,ES,Europe,Southern Europe,Spain,Catalonia,,
+85.50.124.34,4,2970,DNS Server: 34.pool85-50-124.static.orange.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+5.183.222.62,4,8,DNS Server: 5-183-222-62-ip4.iguana.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Igualada
+2.143.186.54,4,79200122,DNS Server: 54.red-2-143-186.dynamicip.rima-tde.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Pineda de Mar
+81.45.47.78,4,-13,DNS Server: 78.red-81-45-47.staticip.rima-tde.net,ES,Europe,Southern Europe,Spain,Catalonia,,
+84.89.61.81,4,-3,DNS Server: 84.89.61.81.parcudg.cat,ES,Europe,Southern Europe,Spain,Catalonia,Girona,Girona
+80.103.159.9,4,-2,DNS Server: 9.pool80-103-159.dynamic.orange.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Gavà
+213.0.111.9,4,-7,DNS Server: 9.red-213-0-111.customer.static.ccgg.telefonica.net,ES,Europe,Southern Europe,Spain,Catalonia,Tarragona,Reus
+87.235.231.212,4,9,DNS Server: din-212-231-235-87.ipcom.comunitel.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Badalona
+87.235.231.213,4,8,DNS Server: din-213-231-235-87.ipcom.comunitel.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Badalona
+5.1.32.211,4,10,DNS Server: ns-p-ep-b.raclus.net,ES,Europe,Southern Europe,Spain,Catalonia,Girona,l'Escala
+5.1.38.155,4,-5,DNS Server: pn-38.155.prisconetworks.com,ES,Europe,Southern Europe,Spain,Catalonia,Girona,l'Escala
+37.120.142.115,4,-7,DoH server: cs-barcelona,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+46.28.71.52,4,-5,DoH server: dnscry.pt-barcelona-ipv4,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+213.192.239.108,4,-36,dynamo.video,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+217.71.200.170,4,-13,ebinaria.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
 94.24.114.125,4,4,ecccomics.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Gelida
-94.24.114.42,4,13,eccediciones.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Gelida
-200.234.224.64,4,1,economipedia.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+94.24.114.42,4,10,eccediciones.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Gelida
+200.234.224.64,4,4,economipedia.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+195.81.194.111,4,5,elastico.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Badalona
+80.32.132.157,4,315,elhierro.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
 213.4.63.68,4,518,entradasinaem.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-27.0.173.4,4,3,escueladiaconia.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-84.88.68.2,4,36,esmuc.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-80.64.47.138,4,40,espa.com,ES,Europe,Southern Europe,Spain,Catalonia,Girona,Cassà de la Selva
-90.161.69.226,4,52,etra-id.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Sant Cugat del Vallès
-37.153.95.84,4,8,fenercom.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Badalona
-185.253.153.104,4,-11,ferrater.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-89.40.80.100,4,16,frenalacurva.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-85.208.20.158,4,76,genderdatalab.org,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-212.0.126.250,4,4,genebre.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-79.143.93.162,4,13,grao.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+80.64.47.138,4,31,espa.com,ES,Europe,Southern Europe,Spain,Catalonia,Girona,Porqueres
+187.33.153.89,4,42,fediverse.tv,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+185.254.207.229,4,1340,feleempleo.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+185.253.153.104,4,-1,ferrater.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+62.97.111.112,4,13,fihoca.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+109.69.10.222,4,14,footballia.net,ES,Europe,Southern Europe,Spain,Catalonia,Tarragona,Aiguamúrcia
+89.40.80.100,4,-15,frenalacurva.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+93.189.95.223,4,0,gastronomiaycia.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+85.208.20.158,4,-6,genderdatalab.org,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+212.0.126.250,4,2,genebre.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+79.143.93.162,4,25,grao.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+161.22.41.48,4,-3,gtsport.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+217.71.204.107,4,1551,guiacat.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+161.22.42.204,4,5,guissona.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+85.251.124.167,4,-1,hadrons.org,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+109.69.8.21,4,12,hamacaonline.net,ES,Europe,Southern Europe,Spain,Catalonia,Tarragona,Aiguamúrcia
+109.69.8.20,4,-23,hangar.org,ES,Europe,Southern Europe,Spain,Catalonia,Tarragona,Aiguamúrcia
+93.189.94.215,4,-10,horadecocinar.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
 213.192.239.97,4,9,hotelfloridabarcelona.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-80.94.4.201,4,34146,icp.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Llinars del Vallès
-83.247.152.144,4,63,idescat.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+83.247.152.144,4,-1,idescat.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+161.22.44.66,4,-3,iessl.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+187.33.146.52,4,-16,imprentaonline24.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
 46.183.112.160,4,2,imprentaonline24.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-212.36.83.78,4,1448042,impresionesweb.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,L'Hospitalet de Llobregat
 200.234.238.36,4,-1,infoautonomos.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-37.153.91.249,4,51,isde.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Badalona
-85.62.139.100,4,46,itec.es,ES,Europe,Southern Europe,Spain,Catalonia,Girona,Girona
-161.22.44.97,4,12,itene.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+109.167.22.177,4,-6,ingenierosindustriales.es,ES,Europe,Southern Europe,Spain,Catalonia,Lleida,Solsona
+85.208.22.68,4,-2,internetrepublica.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+85.208.21.122,4,-9,ixil.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
 161.22.40.71,4,2,jeanologia.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-200.234.236.241,4,2,juantorreslopez.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-77.246.191.101,4,717,lacestitadelbebe.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Igualada
-213.192.239.75,4,-356,lapedrera.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-84.79.2.129,4,-9478,lowtechmagazine.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Cardedeu
-2.139.249.93,4,47,manterolmorocco.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-212.36.83.77,4,1913702,mobusi.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,L'Hospitalet de Llobregat
+185.86.184.209,4,-16321,laboris.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+93.189.95.212,4,8,liniaxarxa.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+84.79.2.129,4,-6630,lowtechmagazine.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Premià de Mar
+187.33.150.233,4,7,luzeed.org,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+185.254.207.251,4,35,menuaunclick.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
 213.192.239.180,4,-650,monkeyweek.org,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-77.246.181.245,4,8,muyinteresante.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Igualada
-185.158.171.8,4,325,Ookla Speedtest Server 13110: speedtest.fibra365.net,ES,Europe,Southern Europe,Spain,Catalonia,Girona,Platja d'Aro
-185.210.244.3,4,3419,Ookla Speedtest Server 15199: speedtest.meswifi.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-185.87.188.5,4,141,Ookla Speedtest Server 19146: speedtest.iguana.cat,ES,Europe,Southern Europe,Spain,Catalonia,Girona,Sant Joan de les Abadesses
+213.192.239.31,4,-14,monsantbenet.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+200.234.229.250,4,-6,mpforall.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+187.33.149.90,4,-2,ondacadiz.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+194.32.205.10,4,-7,Ookla Speedtest Server 2293: speedtest.meditel.cat,ES,Europe,Southern Europe,Spain,Catalonia,Girona,Roses
+146.66.255.242,4,14,Ookla Speedtest Server 2866: speedtest.nxt-telecom.com,ES,Europe,Southern Europe,Spain,Catalonia,Lleida,Lleida
+185.86.11.20,4,-3,Ookla Speedtest Server 11015: speedtest.apfutura.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,L'Hospitalet de Llobregat
+185.158.171.8,4,-7,Ookla Speedtest Server 13110: speedtest.fibra365.net,ES,Europe,Southern Europe,Spain,Catalonia,Girona,Platja d'Aro
+185.210.244.3,4,6136321,Ookla Speedtest Server 15199: speedtest.meswifi.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Esplugues de Llobregat
 46.253.47.208,4,357,Ookla Speedtest Server 20416: speedtest.anxanet.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Vilanova i la Geltrú
-185.86.11.34,4,330,Ookla Speedtest Server 20672: msibitnap.apfutura.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,L'Hospitalet de Llobregat
-193.37.66.41,4,357,Ookla Speedtest Server 21356: speedtestpalafrugell.infocelra.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Viladecavalls
-193.37.66.46,4,413,Ookla Speedtest Server 25836: speedtestestartit.infocelra.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Viladecavalls
+185.86.11.34,4,8,Ookla Speedtest Server 20672: msibitnap.apfutura.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,L'Hospitalet de Llobregat
+185.158.169.15,4,6,Ookla Speedtest Server 21562: avspeedtest.apfutura.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Avinyó
+185.158.168.10,4,90,Ookla Speedtest Server 24355: speedtest.vilatortafibra.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Centelles
+109.205.247.2,4,1,Ookla Speedtest Server 31159: speedtest.fitelnetwork.com,ES,Europe,Southern Europe,Spain,Catalonia,Girona,Lloret de Mar
 45.67.151.1,4,366,Ookla Speedtest Server 31702: speedtest.cinglescomunicacions.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Caldes de Montbui
-193.37.66.42,4,159,Ookla Speedtest Server 44396: speedtestpals.infocelra.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Viladecavalls
-188.26.221.10,4,303,Ookla Speedtest Server 51486: speedtest5.digimobil.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-185.120.142.21,4,266,Ookla Speedtest Server 51795: speedtest.colera.jctecnics.net,ES,Europe,Southern Europe,Spain,Catalonia,Girona,Figueres
-185.120.142.22,4,257,Ookla Speedtest Server 51796: speedtest.roses.jctecnics.net,ES,Europe,Southern Europe,Spain,Catalonia,Girona,Figueres
-185.120.142.23,4,243,Ookla Speedtest Server 51797: speedtest.santlloren.jctecnics.net,ES,Europe,Southern Europe,Spain,Catalonia,Girona,Figueres
-185.210.244.10,4,214,Ookla Speedtest Server 55993: speedtest10.meswifi.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-193.38.246.59,4,292,Ookla Speedtest Server 58897: speedtest.bcn.byfi.tech,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Molins de Rei
-213.192.239.59,4,11,ordesa.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-80.64.32.177,4,-644556,palafrugell.cat,ES,Europe,Southern Europe,Spain,Catalonia,Girona,Cassà de la Selva
+185.219.59.28,4,-4,Ookla Speedtest Server 37356: speedtest.vunkers.com,ES,Europe,Southern Europe,Spain,Catalonia,Lleida,Térmens
+188.26.221.18,4,-3,Ookla Speedtest Server 50669: speedtest2.digimobil.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+93.189.93.145,4,5,Ookla Speedtest Server 51008: speedtest.clouding.io,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+188.26.221.2,4,-4,Ookla Speedtest Server 51461: speedtest1.digimobil.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+188.26.221.10,4,2,Ookla Speedtest Server 51486: speedtest5.digimobil.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+185.120.142.21,4,3,Ookla Speedtest Server 51795: speedtest.colera.jctecnics.net,ES,Europe,Southern Europe,Spain,Catalonia,Girona,Figueres
+185.120.142.22,4,2,Ookla Speedtest Server 51796: speedtest.roses.jctecnics.net,ES,Europe,Southern Europe,Spain,Catalonia,Girona,Figueres
+185.120.142.23,4,1,Ookla Speedtest Server 51797: speedtest.santlloren.jctecnics.net,ES,Europe,Southern Europe,Spain,Catalonia,Girona,Figueres
+185.210.244.10,4,30,Ookla Speedtest Server 55993: speedtest10.meswifi.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Esplugues de Llobregat
+193.38.246.59,4,-44,Ookla Speedtest Server 58897: speedtest.bcn.byfi.tech,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,L'Hospitalet de Llobregat
+185.41.96.3,4,-126,Ookla Speedtest Server 68393: speedtest-1.somvera.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Vic
+195.114.124.1,4,-4,Ookla Speedtest Server 68726: speedtest.fibraneutra.com,ES,Europe,Southern Europe,Spain,Catalonia,Lleida,Lleida
+185.254.162.34,4,2,Ookla Speedtest Server 68842: bcn-dell-1.berkano-systems.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+45.81.152.250,4,11,Ookla Speedtest Server 69456: speedtest.bcn.netcloudify.net,ES,Europe,Southern Europe,Spain,Catalonia,Girona,Palafrugell
+5.1.32.238,4,-7,Ookla Speedtest Server 70865: speedtest.prisco.es,ES,Europe,Southern Europe,Spain,Catalonia,Girona,l'Escala
+83.46.239.148,4,71,Ookla Speedtest Server 74180: speedtest.dissinfo.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+80.64.32.177,4,718,palafrugell.cat,ES,Europe,Southern Europe,Spain,Catalonia,Girona,Porqueres
 85.208.23.62,4,22,palmaaquarium.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-45.150.186.209,4,19,pangea.org,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-84.88.71.7,4,-2,prbb.org,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-185.254.205.55,4,31,proyectolibera.org,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-200.234.225.4,4,36,psicologiamadrid.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+212.92.41.244,4,444,pgacatalunya.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Torrelles de Llobregat
+79.143.89.133,4,-8,procrear.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+187.33.145.58,4,22,proyectolibera.org,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+200.234.225.4,4,2,psicologiamadrid.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
 46.183.119.113,4,-154,puertasmcm.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-88.2.143.240,4,3947,radiopasionlatina.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Sant Esteve Sesrovires
-84.88.183.28,4,1,recercasantpau.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-85.208.23.238,4,992,rsf-es.org,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-84.88.183.12,4,483,santpau.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-93.189.94.117,4,1,sibetrans.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-85.208.21.122,4,0,sips.barcelona,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-46.183.118.110,4,27,socialpubli.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-193.144.12.15,4,22,softcatala.org,ES,Europe,Southern Europe,Spain,Catalonia,Lleida,Lleida
-185.13.76.55,4,0,surtdecasa.cat,ES,Europe,Southern Europe,Spain,Catalonia,Tarragona,Jesús
-185.254.205.53,4,80,tarragonaradio.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-162.213.66.130,4,147824,temporada-alta.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Mataró
+185.216.49.171,4,9,roxegirona.com,ES,Europe,Southern Europe,Spain,Catalonia,Girona,Salt
+45.15.137.218,4,87,rscsl.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Vic
+213.192.241.98,4,-16,s13reborn.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+79.143.89.186,4,2,serveiestacio.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+93.189.94.117,4,10,sibetrans.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+46.183.118.110,4,6,socialpubli.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+193.144.12.15,4,8,softcatala.org,ES,Europe,Southern Europe,Spain,Catalonia,Lleida,Lleida
+90.160.60.180,4,-6942,soib.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+93.189.91.216,4,15,sorinauto.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+185.254.204.247,4,9,sumamarka.org,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+185.13.76.55,4,8,surtdecasa.cat,ES,Europe,Southern Europe,Spain,Catalonia,Tarragona,Tortosa
+79.143.94.114,4,12,tarea-universitaria.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+185.254.205.53,4,23,tarragonaradio.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+162.213.66.130,4,458500,temporada-alta.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Vic
+195.76.233.132,4,36,terresdelebre.travel,ES,Europe,Southern Europe,Spain,Catalonia,Tarragona,Tarragona
 188.241.60.178,4,-8371005,thefalltheplay.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-27.0.175.51,4,2,todotransporte.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-148.56.25.28,4,-7199996,transformers.com.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-217.125.151.21,4,2256,tresgriferia.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-46.183.116.78,4,46,triptico.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-217.71.201.37,4,-4981,turisvalencia.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-194.224.110.188,4,-28274,ultimahora.es,ES,Europe,Southern Europe,Spain,Catalonia,Tarragona,Castellvell del Camp
-45.150.186.207,4,21,unionromani.org,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-161.22.46.43,4,1,vetustamorla.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+93.189.88.113,4,0,tiendasigloxxi.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+45.150.186.207,4,13,tjussana.cat,ES,Europe,Southern Europe,Spain,Catalonia,Tarragona,Vilardida
+27.0.175.51,4,10,todotransporte.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+89.6.107.233,4,13,torrecid.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+46.183.113.245,4,16,traxco.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+217.125.151.21,4,18,tresgriferia.com,ES,Europe,Southern Europe,Spain,Catalonia,Tarragona,El Rourell
+46.183.116.78,4,18,triptico.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+95.60.241.227,4,14,troa.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Sant Boi de Llobregat
+103.23.61.32,4,69,trofeosromero.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+217.71.201.37,4,134106,turisvalencia.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+194.224.110.188,4,-26685,ultimahora.es,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Vilafranca del Penedès
 46.105.173.2,4,14,victormartinp.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-45.150.186.215,4,89,wikimedia.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
-83.247.151.214,4,1,xtec.cat,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Barcelona
+45.150.186.215,4,7,wikimedia.cat,ES,Europe,Southern Europe,Spain,Catalonia,Tarragona,Vilardida

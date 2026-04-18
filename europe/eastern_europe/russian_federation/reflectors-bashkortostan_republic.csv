@@ -1,11 +1,45 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+92.50.187.140,4,1225,bashenc.online,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+81.30.206.92,4,0,bitel.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
 85.8.186.55,4,7,cccp-ufa.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
-145.255.31.145,4,34384,DNS Server: 145.255.31.145.static.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
-145.255.5.183,4,29,DNS Server: 145.255.5.183.static.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
-46.191.140.217,4,11495,DNS Server: 46.191.140.217.dynamic.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
-109.187.180.151,4,-15880493,DNS Server: h109-187-180-151.dyn.bashtel.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
-77.94.107.76,4,7339,DNS Server: h77-94-107-76.static.bashtel.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
-77.94.123.35,4,5,DNS Server: h77-94-123-35.static.bashtel.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
-77.94.124.70,4,42,DNS Server: h77-94-124-70.static.bashtel.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
-94.41.208.102,4,3,krcrb.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Sterlitamak
-46.61.250.210,4,75,Ookla Speedtest Server: ufa.speedtest.rt.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+145.255.31.145,4,53987,DNS Server: 145.255.31.145.static.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+145.255.5.183,4,-4,DNS Server: 145.255.5.183.static.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+46.191.140.217,4,8171,DNS Server: 46.191.140.217.dynamic.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+77.79.184.131,4,46545,DNS Server: 77.79.184.131.static.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+77.79.186.30,4,-753,DNS Server: 77.79.186.30.dynamic.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+77.79.187.74,4,-263,DNS Server: 77.79.187.74.dynamic.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+77.79.190.59,4,-6,DNS Server: 77.79.190.59.static.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+77.79.191.49,4,359,DNS Server: 77.79.191.49.dynamic.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+81.30.197.14,4,73393,DNS Server: 81.30.197.14.static.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+81.30.198.222,4,15474,DNS Server: 81.30.198.222.static.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+81.30.206.101,4,9183,DNS Server: 81.30.206.101.static.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+81.30.209.107,4,29224,DNS Server: 81.30.209.107.static.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+81.30.211.42,4,176538,DNS Server: 81.30.211.42.static.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+81.30.217.41,4,45009,DNS Server: 81.30.217.41.static.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+94.41.108.128,4,3339,DNS Server: 94.41.108.128.static.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+94.41.108.130,4,0,DNS Server: 94.41.108.130.static.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+94.41.108.33,4,189410,DNS Server: 94.41.108.33.static.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+94.41.67.6,4,-455056309,DNS Server: 94.41.67.6.dynamic.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+94.41.84.213,4,5610,DNS Server: 94.41.84.213.static.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+94.41.84.99,4,17448,DNS Server: 94.41.84.99.static.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+94.41.87.8,4,14563,DNS Server: 94.41.87.8.static.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+81.30.196.178,4,337024,DNS Server: bashkirgaz2.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+178.129.193.21,4,30967431,DNS Server: h178-129-193-21.dyn.bashtel.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Yermolayevo
+77.94.107.76,4,1891,DNS Server: h77-94-107-76.static.bashtel.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+77.94.123.35,4,7,DNS Server: h77-94-123-35.static.bashtel.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+77.94.124.18,4,11893015,DNS Server: h77-94-124-18.static.bashtel.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+77.94.124.70,4,0,DNS Server: h77-94-124-70.static.bashtel.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+77.94.97.150,4,10507,DNS Server: h77-94-97-150.static.bashtel.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+77.94.98.190,4,-1,DNS Server: h77-94-98-190.static.bashtel.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+92.245.33.113,4,68423653,DNS Server: h92-245-33-113.dyn.bashtel.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+95.110.99.218,4,55670682,DNS Server: h95-110-99-218.dyn.bashtel.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,
+81.30.213.34,4,151368,DNS Server: nmail.technonet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+81.30.213.254,4,-7,fermo.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+81.30.200.44,4,-31,gorsovet-ufa.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+46.191.141.177,4,915,gsrb.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+94.41.208.102,4,3,krcrb.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+81.30.198.118,4,-11,Ookla Speedtest Server 25120: speedtest.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+91.225.78.14,4,-8,Ookla Speedtest Server 70724: it.skynet-kazan.com,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Novyye Sulli
+81.30.208.16,4,113315,plgn.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+81.30.200.43,4,6,ufacity.info,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+81.30.199.238,4,31,ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa

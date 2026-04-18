@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-45.224.153.236,4,430936,DNS Server: host-45-224-153-236.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Esmeraldas,,Atacames
+200.24.146.10,4,31668145,DNS Server: host-200-24-146-10.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Esmeraldas,,Esmeraldas
+190.12.150.60,4,-21,Ookla Speedtest Server 49923: speed1.one.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Esmeraldas,,Quininde
+200.112.219.163,4,7,Ookla Speedtest Server 68069: ooklasanlor.flylifecuador.com,EC,Americas,Latin America and the Caribbean,Ecuador,Esmeraldas,,San Lorenzo de Esmeraldas
+186.219.50.255,4,-50,Ookla Speedtest Server 69117: speedesme.ultralink.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Esmeraldas,,Atacames

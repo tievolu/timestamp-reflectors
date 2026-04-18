@@ -1,102 +1,113 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+195.54.188.3,4,44407,aztekium.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Tarnów
+213.76.118.4,4,114745,bluetechnology.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Sieborowice
 185.188.119.39,4,17,bojszowy.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Stary Sącz
-217.144.201.35,4,517,cdrinfo.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Tarnów
-62.121.130.38,4,14,dipol.com.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-109.197.71.34,4,39,DNS Server: 109197071034.nowysacz.vectranet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Nowy Sącz
-109.95.150.122,4,11,DNS Server: 122-150.beskidmedia.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Andrychów
-139.28.40.12,4,49813,DNS Server: 139-28-40-12.artus.net.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-91.189.16.81,4,130,DNS Server: 16-81.2-0.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-176.111.124.232,4,-7157440,DNS Server: 176-111-124-232.net.cybernetwmw.com,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Balice
-176.111.125.42,4,38,DNS Server: 176-111-125-42.net.cybernetwmw.com,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Balice
-185.45.244.221,4,10735,DNS Server: 221.unassigned.w-net.eu,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-80.82.20.42,4,438918,DNS Server: 80.82.20.43.s.net.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-87.105.251.234,4,11464,DNS Server: 87-105-251-234.static.ip.netia.com.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-91.227.217.230,4,-5686645,DNS Server: 91-227-217-230.net.intersiec.net.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Limanowa
-91.231.60.72,4,11,DNS Server: 91-231-60-72.meganet.com.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-91.206.155.206,4,233394,DNS Server: 91.206.155.206.fiberlink.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Zielonki
-80.85.226.13,4,34083,DNS Server: a13.net226.okay.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Łętowice
-80.85.226.182,4,151,DNS Server: a182.net226.okay.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Łętowice
-85.28.158.44,4,4,DNS Server: a44.net158.okay.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Tarnów
-176.115.14.63,4,34,DNS Server: c63.14.comtelnet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Wieliczka
-193.138.137.45,4,86,DNS Server: client.wlan-45-137.betanet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Wieliczka
-83.14.136.180,4,16,DNS Server: ebg180.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-83.12.32.82,4,18052,DNS Server: gbg82.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-93.159.183.102,4,9,DNS Server: host-183.102.ktmtelekom.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Zakopane
-89.22.210.246,4,53556,DNS Server: host-210-246.wad.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Kalwaria Zebrzydowska
-31.172.178.124,4,10,DNS Server: host-31.172.178.124.static.3s.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-89.25.183.149,4,7432,DNS Server: host-89.25.183.149.static.3s.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Nowy Sącz
-91.207.53.49,4,139,DNS Server: host-91-207-53-49.hypernet.biz.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Sucha Beskidzka
-91.246.104.251,4,84,DNS Server: host-91-246-104-251.hypernet.biz.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Zembrzyce
-91.246.105.136,4,69950,DNS Server: host-91-246-105-136.hypernet.biz.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Zembrzyce
-91.246.108.44,4,-703,DNS Server: host-91-246-108-44.hypernet.biz.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Zembrzyce
-91.246.111.113,4,117,DNS Server: host-91-246-111-113.hypernet.biz.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Zembrzyce
-91.90.179.50,4,766,DNS Server: host-91.90.179.50.static.3s.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-91.90.180.140,4,7067,DNS Server: host-91.90.180.140.static.3s.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-91.90.184.66,4,40,DNS Server: host-91.90.184.66.static.3s.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-91.90.190.58,4,71,DNS Server: host-91.90.190.58.static.3s.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-94.232.216.113,4,2,DNS Server: host-94.232.216.113.krosoft.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-94.232.217.1,4,1,DNS Server: host-94.232.217.1.krosoft.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-94.232.217.177,4,34960,DNS Server: host-94.232.217.177.krosoft.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-94.232.217.81,4,-32292566,DNS Server: host-94.232.217.81.krosoft.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-94.232.220.147,4,145,DNS Server: host-94.232.220.147.krosoft.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-79.188.213.59,4,14,DNS Server: hsf59.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-185.82.250.190,4,-209900,DNS Server: ip-185-82-250-190.root.com.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Spytkowice
-194.33.116.111,4,98577,DNS Server: ip-194-33-116-111.solisnet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-91.223.167.132,4,90,DNS Server: ip-91-223-167-132.naszasiec.net,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-91.223.167.67,4,35427,DNS Server: ip-91-223-167-67.naszasiec.net,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-91.224.181.25,4,154,DNS Server: ip-91-224-181-25-static.naszasiec.net,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-89.234.236.50,4,9195,DNS Server: m50.rwd236.prospect.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Ilkowice
-93.159.129.129,4,156584,DNS Server: net-93-159-129-129.connected.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-93.159.129.202,4,147,DNS Server: net-93-159-129-202.connected.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-93.159.142.230,4,115,DNS Server: net-93-159-142-230.connected.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-93.159.149.246,4,36676,DNS Server: net-93-159-149-246.connected.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-93.159.156.203,4,75548,DNS Server: net-93-159-156-203.connected.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-93.159.156.82,4,780,DNS Server: net-93-159-156-82.connected.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-195.20.138.242,4,129,DNS Server: ns2.tekanet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Trzebinia
-46.170.24.118,4,138,DNS Server: oqy118.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Kościelisko
-83.142.189.67,4,146,DNS Server: otrs.salumanus.com,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-213.76.114.107,4,-6161,DNS Server: pqy107.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-194.53.192.212,4,28,domki-kopalino.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+217.144.201.35,4,1932,cdrinfo.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Tarnów
+62.121.130.38,4,-4,dipolnet.com,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+185.45.247.105,4,-6,DNS Server: 105.unassigned.w-net.eu,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+91.200.38.109,4,-5367,DNS Server: 109.wsi.edu.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+109.197.71.34,4,-6,DNS Server: 109197071034.nowysacz.vectranet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Nowy Sącz
+91.189.16.81,4,1,DNS Server: 16-81.2-0.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+176.103.72.103,4,-24517,DNS Server: 176-103-72-103.interkonekt.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Wolbrom
+176.111.124.232,4,79203162,DNS Server: 176-111-124-232.net.cybernetwmw.com,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Bolechowice
+176.111.125.42,4,-1,DNS Server: 176-111-125-42.net.cybernetwmw.com,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Bolechowice
+213.241.61.12,4,14393,DNS Server: 213-241-61-12.static.ip.netia.com.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+185.45.244.221,4,24875,DNS Server: 221.unassigned.w-net.eu,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+83.142.190.34,4,196950,DNS Server: 34.190.142.83.hornet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+80.82.20.42,4,61058206,DNS Server: 80.82.20.43.s.net.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+91.227.217.230,4,-3321555,DNS Server: 91-227-217-230.net.intersiec.net.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Limanowa
+91.206.155.206,4,2308302,DNS Server: 91.206.155.206.fiberlink.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Libertów
+176.115.14.63,4,-44,DNS Server: c63.14.comtelnet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Wieliczka
+193.138.137.45,4,443,DNS Server: client.wlan-45-137.betanet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Wieliczka
+83.19.198.69,4,18927,DNS Server: czm69.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+83.12.32.82,4,-22,DNS Server: gbg82.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Słopnice
+93.159.183.102,4,11,DNS Server: host-183.102.ktmtelekom.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Zakopane
+89.22.210.246,4,5783,DNS Server: host-210-246.wad.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Kalwaria Zebrzydowska
+31.172.178.124,4,0,DNS Server: host-31.172.178.124.static.3s.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+46.174.0.245,4,-3638633,DNS Server: host-46-174-0-245.myslenice.net.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Myślenice
+89.25.157.105,4,-1165909,DNS Server: host-89.25.157.105.static.3s.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Poręba Żegoty
+89.25.157.2,4,175581,DNS Server: host-89.25.157.2.static.3s.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Poręba Żegoty
+91.218.202.122,4,3686,DNS Server: host-91-218-202-122.fiberway.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Gdów
+91.218.208.25,4,-2,DNS Server: host-91-218-208-25.fiberway.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Niepołomice
+91.218.209.159,4,-10,DNS Server: host-91-218-209-159.fiberway.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Niepołomice
+91.230.43.15,4,8933,DNS Server: host-91-230-43-15.hypernet.biz.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Budzów
+91.246.104.18,4,-4,DNS Server: host-91-246-104-18.hypernet.biz.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Budzów
+91.246.105.136,4,19019,DNS Server: host-91-246-105-136.hypernet.biz.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Budzów
+91.246.108.44,4,-157,DNS Server: host-91-246-108-44.hypernet.biz.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Budzów
+91.246.111.113,4,-3,DNS Server: host-91-246-111-113.hypernet.biz.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Budzów
+91.90.179.50,4,629676,DNS Server: host-91.90.179.50.static.3s.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+91.90.180.140,4,845,DNS Server: host-91.90.180.140.static.3s.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+91.90.184.66,4,-2,DNS Server: host-91.90.184.66.static.3s.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+91.90.190.58,4,-66,DNS Server: host-91.90.190.58.static.3s.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+193.0.210.28,4,-2148372841,DNS Server: host_28_210.compower.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+93.180.179.93,4,479,DNS Server: ip-179-93.ists.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+185.82.250.190,4,-3220,DNS Server: ip-185-82-250-190.root.com.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+213.25.107.143,4,-2,DNS Server: ip-213-25-107-143.ntvk.com.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Nowy Targ
+45.90.2.144,4,7,DNS Server: ip-45-90-2-144.netusinternet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+91.223.167.132,4,-2,DNS Server: ip-91-223-167-132.naszasiec.net,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+91.223.167.67,4,197701,DNS Server: ip-91-223-167-67.naszasiec.net,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+93.159.129.202,4,3,DNS Server: net-93-159-129-202.connected.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+93.159.142.230,4,-330420,DNS Server: net-93-159-142-230.connected.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+93.159.149.246,4,13090209,DNS Server: net-93-159-149-246.connected.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+93.159.156.82,4,9287,DNS Server: net-93-159-156-82.connected.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+95.51.74.78,4,76032,DNS Server: ocw78.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Nowy Sącz
+95.51.108.60,4,-3609949,DNS Server: oee60.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+83.0.184.13,4,2,DNS Server: ome13.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+83.142.189.67,4,-202,DNS Server: otrs.salumanus.com,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+91.196.212.42,4,-3,DNS Server: scandale.telnet.krakow.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+82.115.76.160,4,73202923,DNS Server: static-76-160.is.net.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Wola Rzędzińska
+82.115.80.44,4,79069837,DNS Server: static-80-44.is.net.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Tarnów
 62.121.136.212,4,7,ekspertpr.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-62.121.136.66,4,8,galeriadomow.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+62.121.130.4,4,-8,forum-turystyczne.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+62.121.136.66,4,-7,galeriadomow.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
 194.33.187.76,4,26,groteska.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-185.188.119.200,4,10,iap.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Stary Sącz
-195.116.205.62,4,3,insert.com.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Ciężkowice
+185.188.119.200,4,3,iap.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Stary Sącz
 62.121.131.82,4,9,jordan.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-62.121.130.31,4,1,krakow.travel,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-93.159.158.151,4,22,krakowairport.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-62.121.142.3,4,12,libron.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+194.53.193.151,4,-4,koremba.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+62.121.130.31,4,-11,krakow.travel,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+93.159.158.151,4,-16,krakowairport.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
 83.142.186.205,4,87,marr.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-94.124.10.66,4,50,masternet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-62.121.136.135,4,2,mniammniam.com,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-185.188.119.142,4,14,muszyna.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Stary Sącz
-62.121.130.240,4,38,neso.com.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-62.121.141.179,4,1,neso.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-62.121.136.62,4,6,niepolomice.eu,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-193.107.248.117,4,4,ninex.info,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Mogilany
-195.88.144.115,4,-7173840,nowytarg.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Nowy Targ
-80.85.224.76,4,4,okay.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Łętowice
-91.218.203.62,4,381,Ookla Speedtest Server 3376: test.fiberway.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Podłęże
-91.226.231.46,4,378,Ookla Speedtest Server 9758: speedtest1.sumernet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Sucha Beskidzka
-91.246.213.91,4,273,Ookla Speedtest Server 17433: speedtest.air-net.com.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Zator
-195.88.115.106,4,256,Ookla Speedtest Server 20470: speedtest.hypernet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Stryszawa
-45.90.2.3,4,238,Ookla Speedtest Server 21646: speedtest.netusinternet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-193.8.45.1,4,234,Ookla Speedtest Server 21672: speedtest.netsystem.net.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Brzesko
-91.236.4.15,4,222,Ookla Speedtest Server 23365: speedtest.climaxnet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Brzesko
+94.124.10.66,4,6,masternet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+185.45.247.171,4,4,meteofor.com.ua,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+185.45.247.170,4,1,meteofor.com.ua,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+62.121.136.135,4,-1,mniammniam.com,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+185.188.119.142,4,6,muszyna.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Stary Sącz
+62.121.136.62,4,2,niepolomice.eu,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+195.88.144.115,4,-7195050,nowytarg.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Zaskale
+80.85.224.76,4,4,okay.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Tarnów
+194.146.252.220,4,14,Ookla Speedtest Server 1958: speedtest.compower.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+91.218.203.62,4,-22,Ookla Speedtest Server 3376: test.fiberway.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Gdów
+89.174.228.132,4,36,Ookla Speedtest Server 4857: inter-sat.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Węgrzce
+176.122.213.64,4,-4,Ookla Speedtest Server 7978: speedtest.km-net.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Gmina Zakliczyn
+176.115.0.19,4,-747,Ookla Speedtest Server 9510: speedtest.classcom.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+91.226.22.21,4,24,Ookla Speedtest Server 16878: speedtest.petroinform.net,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+91.246.213.91,4,-3,Ookla Speedtest Server 17433: speedtest.air-net.com.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Przeciszów
+45.90.2.3,4,-4,Ookla Speedtest Server 21646: speedtest.netusinternet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+193.16.99.104,4,1,Ookla Speedtest Server 28409: speedtest2.betanet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Wieliczka
+91.227.3.118,4,-13,Ookla Speedtest Server 30193: speed2.fiberlink.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Mogilany
+213.172.173.138,4,5,Ookla Speedtest Server 30440: speedtest.exatel.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+185.253.164.78,4,-23,Ookla Speedtest Server 31135: spdtest2.jarosz.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krynica-Zdrój
+91.231.61.242,4,-5,Ookla Speedtest Server 37353: speedtest.meganet.com.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Świątniki Górne
+185.45.244.241,4,-4,Ookla Speedtest Server 37698: speedtest.w-net.eu,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+185.45.244.245,4,31,Ookla Speedtest Server 37699: speedtest.domonet.me,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
 193.164.255.66,4,358,Ookla Speedtest Server 38577: speedtest.awist.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+185.227.189.248,4,2,Ookla Speedtest Server 39251: speedtest.avanet.net.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Szczucin
+89.234.193.52,4,-31,Ookla Speedtest Server 59557: speedtest.prospect.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Łeg Tarnowski
 91.196.215.5,4,321,Ookla Speedtest Server 63794: speedtest.dev.telnet.krakow.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-195.88.144.5,4,-155,Ookla Speedtest Server: www.hosting.kompex.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Nowy Targ
+139.28.43.3,4,-1,Ookla Speedtest Server 69162: speedtest.supernet24.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Zawoja
+194.53.115.250,4,14,Ookla Speedtest Server 69242: speedtest.is-net.com.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+91.226.231.46,4,-7,Ookla Speedtest Server 71847: speedtest2.sumernet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Stryszawa
+195.88.144.5,4,-2119,Ookla Speedtest Server: www.hosting.kompex.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Zaskale
+185.16.229.205,4,14,optima.school,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
 91.222.27.180,4,123,oswiecim.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Oświęcim
-185.188.119.92,4,30,pieninypn.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Stary Sącz
-185.188.119.183,4,19,piwniczna.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Stary Sącz
-62.121.136.138,4,6,porta.com.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-91.223.167.117,4,1153738,pwm.com.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-195.187.43.36,4,20,radioplus.com.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-185.188.118.102,4,24,sacz.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Stary Sącz
+185.188.119.92,4,12,pieninypn.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Stary Sącz
+185.188.119.183,4,31,piwniczna.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Stary Sącz
+194.53.193.136,4,0,pzk.org.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+185.188.118.102,4,19,sacz.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Stary Sącz
 185.188.119.231,4,10,szczawnica.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Stary Sącz
-80.85.224.81,4,0,tuchow.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Łętowice
-62.121.130.4,4,12,tur-info.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-149.156.188.91,4,84479,upjp2.edu.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-62.121.136.161,4,6,wawel.com.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-185.188.119.46,4,44,wieliczka.eu,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Stary Sącz
-62.121.130.123,4,-1,wspinanie.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+80.85.224.81,4,0,tuchow.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Tarnów
+62.121.130.240,4,10,tur-info.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+62.121.136.161,4,19,wawel.com.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+185.188.119.46,4,3,wieliczka.eu,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Stary Sącz
+193.16.47.93,4,-295,wnet.ua,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+91.123.176.16,4,451,zabagroup.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Skała

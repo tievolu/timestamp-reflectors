@@ -1,6 +1,7 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-89.190.78.218,4,7088,DNS Server: 89-190-78-218.nsys.cz,CZ,Europe,Eastern Europe,Czechia,Královéhradecký kraj,Náchod District,Náchod
-31.133.8.141,4,11,DNS Server: gw14.rtyne.net,CZ,Europe,Eastern Europe,Czechia,Královéhradecký kraj,Náchod District,Červený Kostelec
-89.190.65.200,4,163,DNS Server: ns2.nsys.cz,CZ,Europe,Eastern Europe,Czechia,Královéhradecký kraj,Náchod District,Náchod
-31.133.8.168,4,332,Ookla Speedtest Server 38433: ookla.rtyne.net,CZ,Europe,Eastern Europe,Czechia,Královéhradecký kraj,Náchod District,Červený Kostelec
-89.190.64.6,4,8189,Ookla Speedtest Server 38880: speedtest.nsys.cz,CZ,Europe,Eastern Europe,Czechia,Královéhradecký kraj,Náchod District,Náchod
+90.182.1.207,4,-53,DNS Server: 90-182-1-207.rcp.o2.cz,CZ,Europe,Eastern Europe,Czechia,Královéhradecký kraj,Náchod District,Česká Skalice
+31.133.8.141,4,-2,DNS Server: gw14.rtyne.net,CZ,Europe,Eastern Europe,Czechia,Královéhradecký kraj,Náchod District,Červený Kostelec
+85.132.179.206,4,-4,DNS Server: ns1.dobruska.net,CZ,Europe,Eastern Europe,Czechia,Královéhradecký kraj,Náchod District,Česká Skalice
+89.190.84.12,4,4,Ookla Speedtest Server 32557: speedtest.neoloop.cz,CZ,Europe,Eastern Europe,Czechia,Královéhradecký kraj,Náchod District,Náchod
+31.133.8.168,4,0,Ookla Speedtest Server 38433: ookla.rtyne.net,CZ,Europe,Eastern Europe,Czechia,Královéhradecký kraj,Náchod District,Červený Kostelec
+193.138.152.39,4,-4,Ookla Speedtest Server 69915: speedtest.rudolf-net.cz,CZ,Europe,Eastern Europe,Czechia,Královéhradecký kraj,Náchod District,Hronov

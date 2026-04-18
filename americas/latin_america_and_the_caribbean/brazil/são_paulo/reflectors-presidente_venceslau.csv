@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-189.124.4.8,4,378,Ookla Speedtest Server 65157: speedtest.toplinknet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Presidente Venceslau
+186.219.74.105,4,0,DNS Server: 186-219-74-105.tcvnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Presidente Venceslau
+143.202.100.10,4,-4,Ookla Speedtest Server 29264: speedtest.migopv.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Presidente Venceslau
+189.124.0.9,4,-107066,Ookla Speedtest Server 47982: spd2.tcvnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Presidente Venceslau
+177.124.67.50,4,11,Ookla Speedtest Server 65157: speedtest.toplinknet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Presidente Venceslau

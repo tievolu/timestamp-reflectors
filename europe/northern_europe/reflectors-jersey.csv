@@ -1,3 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-185.3.52.19,4,31,DNS Server: 19.52.3.185.jtglobal.com,JE,Europe,Northern Europe,Jersey,,,Saint Helier
-87.244.76.66,4,-22,DNS Server: 66.76.244.87.jtglobal.com,JE,Europe,Northern Europe,Jersey,,,Saint Helier
+87.244.76.66,4,69,DNS Server: 66.76.244.87.jtglobal.com,JE,Europe,Northern Europe,Jersey,,,Saint Helier
+212.9.14.30,4,-3,Ookla Speedtest Server 26312: speedtest.jtglobal.com,JE,Europe,Northern Europe,Jersey,,,Saint Helier
+213.133.199.46,4,14,Ookla Speedtest Server 68439: speedtest.homenet.je,JE,Europe,Northern Europe,Jersey,,,Saint Helier

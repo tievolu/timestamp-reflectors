@@ -1,3 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-94.52.189.75,4,-7199892,DNS Server: 94-52-189-75.next-gen.ro,RO,Europe,Eastern Europe,Romania,Sibiu County,,Sibiu
-194.169.191.55,4,1468079,ulbsibiu.ro,RO,Europe,Eastern Europe,Romania,Sibiu County,,Sibiu
+94.52.189.75,4,79200001,DNS Server: 94-52-189-75.next-gen.ro,RO,Europe,Eastern Europe,Romania,Sibiu County,,Sibiu
+86.121.246.205,4,1232,DNS Server: static-86-121-246-205.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Sibiu County,,Mediaş
+194.169.191.55,4,233315,ulbsibiu.ro,RO,Europe,Eastern Europe,Romania,Sibiu County,,Sibiu

@@ -1,3 +1,8 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-45.160.17.61,4,0,DNS Server: 61-17-160-45.californiatelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Lauro de Freitas
-177.136.44.6,4,332,Ookla Speedtest Server 15873: speedtest.pronetsolucoes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Lauro de Freitas
+45.160.17.61,4,-10,DNS Server: 61-17-160-45.californiatelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Lauro de Freitas
+45.233.229.229,4,8,Ookla Speedtest Server 12950: teste.gointernet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Lauro de Freitas
+170.83.153.24,4,51931,Ookla Speedtest Server 14836: teste.gsmbahia.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Lauro de Freitas
+45.160.16.22,4,1266,Ookla Speedtest Server 30510: speedtest.californiatelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Lauro de Freitas
+187.49.149.24,4,1175,Ookla Speedtest Server 40918: teste.sbconect.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Lauro de Freitas
+45.189.4.12,4,-8,Ookla Speedtest Server 42686: speedtest.cianetinfor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Lauro de Freitas
+138.255.240.9,4,-8,Ookla Speedtest Server 51660: teste.tsunaminet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Lauro de Freitas

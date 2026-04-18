@@ -1,21 +1,55 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-74.138.166.128,4,36,DNS Server: cpe-74-138-166-128.kya.res.rr.com,US,Americas,Northern America,United States of America,Kentucky,,Fort Thomas
-75.185.115.69,4,9556,DNS Server: cpe-75-185-115-69.cinci.res.rr.com,US,Americas,Northern America,United States of America,Kentucky,,Louisville
-216.135.79.118,4,1,DNS Server: home.bluegrass.net,US,Americas,Northern America,United States of America,Kentucky,,Louisville
-216.135.79.115,4,322,DNS Server: me-79-115.bluegrass.net,US,Americas,Northern America,United States of America,Kentucky,,Louisville
-4.4.110.242,4,161,DNS Server: washington.bear1.cincinnati1.level3.net,US,Americas,Northern America,United States of America,Kentucky,,Edgewood
-66.38.32.24,4,865,hoosiergunworks.com,US,Americas,Northern America,United States of America,Kentucky,,Edmonton
-136.165.238.241,4,7,louisville.edu,US,Americas,Northern America,United States of America,Kentucky,,Louisville
-68.64.126.11,4,231,Ookla Speedtest Server 5408: speedtest.tgtel.com,US,Americas,Northern America,United States of America,Kentucky,,Whitesburg
-23.226.160.216,4,-38929942,Ookla Speedtest Server 6998: speed.prtcnet.org,US,Americas,Northern America,United States of America,Kentucky,,McKee
-23.252.191.2,4,380,Ookla Speedtest Server 13594: speedtest.mrtc.com,US,Americas,Northern America,United States of America,Kentucky,,West Liberty
-206.214.121.54,4,267,Ookla Speedtest Server 23269: speedtest.mewsbb.net,US,Americas,Northern America,United States of America,Kentucky,,Mayfield
-199.27.249.238,4,203,Ookla Speedtest Server 47078: speedtest.gnvlncaa.metronetinc.com,US,Americas,Northern America,United States of America,Kentucky,,Nicholasville
-162.212.136.114,4,290,Ookla Speedtest Server: speedtest.epbnet.com,US,Americas,Northern America,United States of America,Kentucky,,Russellville
-74.214.182.162,4,316,Ookla Speedtest Server: speedtest.imctv.com,US,Americas,Northern America,United States of America,Kentucky,,Pikeville
-192.208.116.2,4,28,rabbitears.info,US,Americas,Northern America,United States of America,Kentucky,,Goshen
-64.253.105.197,4,11,raggededgemagazine.com,US,Americas,Northern America,United States of America,Kentucky,,Louisville
-64.253.105.131,4,1181,valiantmh.net,US,Americas,Northern America,United States of America,Kentucky,,Louisville
-207.162.163.209,4,3,vci.net,US,Americas,Northern America,United States of America,Kentucky,,Paducah
-64.24.91.226,4,1509,vexillum.com,US,Americas,Northern America,United States of America,Kentucky,,Irvine
-64.191.152.140,4,35,win.net,US,Americas,Northern America,United States of America,Kentucky,,Lexington
+69.2.212.203,4,-2,aprivateisland.com,US,Americas,Northern America,United States of America,Kentucky,,Louisville
+216.68.4.10,4,-3,Cincinnati Bell ZoomTown 1,US,Americas,Northern America,United States of America,Kentucky,,Fort Thomas
+209.156.141.70,4,-2,DNS Server: 209-156-141-70.ip.mcleodusa.net,US,Americas,Northern America,United States of America,Kentucky,,Paducah
+64.130.151.75,4,68794521,DNS Server: 64-130-151-75.pool.dsl.scrtc.com,US,Americas,Northern America,United States of America,Kentucky,,Glasgow
+4.17.81.226,4,-10,DNS Server: AIRESPRING.bear2.Cincinnati1.Level3.net,US,Americas,Northern America,United States of America,Kentucky,,Louisville
+184.56.188.110,4,-3959025,DNS Server: cpe-184-56-188-110.neo.res.rr.com,US,Americas,Northern America,United States of America,Kentucky,,Danville
+74.130.11.233,4,-26,DNS Server: cpe-74-130-11-233.kya.res.rr.com,US,Americas,Northern America,United States of America,Kentucky,,Shepherdsville
+74.133.33.212,4,24426,DNS Server: cpe-74-133-33-212.kya.res.rr.com,US,Americas,Northern America,United States of America,Kentucky,,Louisville
+74.133.35.146,4,-2,DNS Server: cpe-74-133-35-146.kya.res.rr.com,US,Americas,Northern America,United States of America,Kentucky,,Louisville
+74.138.166.128,4,-15630,DNS Server: cpe-74-138-166-128.kya.res.rr.com,US,Americas,Northern America,United States of America,Kentucky,,Fort Thomas
+74.138.229.135,4,-248,DNS Server: cpe-74-138-229-135.kya.res.rr.com,US,Americas,Northern America,United States of America,Kentucky,,La Grange
+76.181.128.136,4,2854,DNS Server: cpe-76-181-128-136.columbus.res.rr.com,US,Americas,Northern America,United States of America,Kentucky,,Louisville
+98.31.33.59,4,37319,DNS Server: cpe-98-31-33-59.columbus.res.rr.com,US,Americas,Northern America,United States of America,Kentucky,,Lexington
+4.1.67.166,4,2,DNS Server: INDEPENDENT.bear2.Cincinnati1.Level3.net,US,Americas,Northern America,United States of America,Kentucky,,Louisville
+147.0.202.158,4,13500043,DNS Server: rrcs-147-0-202-158.central.biz.rr.com,US,Americas,Northern America,United States of America,Kentucky,,Louisville
+70.61.254.130,4,-2996797,DNS Server: rrcs-70-61-254-130.central.biz.rr.com,US,Americas,Northern America,United States of America,Kentucky,,Nicholasville
+74.142.127.218,4,-10,DNS Server: rrcs-74-142-127-218.central.biz.rr.com,US,Americas,Northern America,United States of America,Kentucky,,Owensboro
+24.106.248.90,4,3,eldar.org,US,Americas,Northern America,United States of America,Kentucky,,Lexington
+207.162.163.209,4,-8,etelonline.com,US,Americas,Northern America,United States of America,Kentucky,,Paducah
+75.185.245.72,4,-13,goguides.org,US,Americas,Northern America,United States of America,Kentucky,,Middlesboro
+136.165.238.172,4,-20,grawemeyer.org,US,Americas,Northern America,United States of America,Kentucky,,Louisville
+66.38.32.24,4,865,hoosiergunworks.com,US,Americas,Northern America,United States of America,Kentucky,,Glasgow
+136.165.238.241,4,-8,louisville.edu,US,Americas,Northern America,United States of America,Kentucky,,Louisville
+70.36.36.120,4,-1,mowermobilemaintenance.com,US,Americas,Northern America,United States of America,Kentucky,,Dayton
+98.29.104.206,4,-4243,n8mfn.club,US,Americas,Northern America,United States of America,Kentucky,,London
+74.214.182.162,4,-14,Ookla Speedtest Server 1443: speedtest.imctv.com,US,Americas,Northern America,United States of America,Kentucky,,Pikeville
+74.119.114.5,4,2,Ookla Speedtest Server 3362: speedtest.ekn.com,US,Americas,Northern America,United States of America,Kentucky,,Lynch
+68.64.126.11,4,3,Ookla Speedtest Server 5408: speedtest.tgtel.com,US,Americas,Northern America,United States of America,Kentucky,,Whitesburg
+168.100.63.4,4,-7,Ookla Speedtest Server 6998: speedtest.prtcnet.org,US,Americas,Northern America,United States of America,Kentucky,,Booneville
+23.226.160.216,4,35882144,Ookla Speedtest Server 6998: speed.prtcnet.org,US,Americas,Northern America,United States of America,Kentucky,,McKee
+199.36.135.36,4,-4,Ookla Speedtest Server 7684: speedtest.ppsfibernet.com,US,Americas,Northern America,United States of America,Kentucky,,Paducah
+141.193.192.13,4,5,Ookla Speedtest Server 13010: speedtest.franklinepb.net,US,Americas,Northern America,United States of America,Kentucky,,Franklin
+23.252.191.2,4,-10,Ookla Speedtest Server 13594: speedtest.mrtc.com,US,Americas,Northern America,United States of America,Kentucky,,West Liberty
+162.212.136.114,4,-8,Ookla Speedtest Server 15633: speedtest.epbnet.com,US,Americas,Northern America,United States of America,Kentucky,,Russellville
+76.164.240.28,4,-1,Ookla Speedtest Server 22924: speedtest.harlanonline.net,US,Americas,Northern America,United States of America,Kentucky,,Baxter
+206.214.121.54,4,5,Ookla Speedtest Server 23269: speedtest.mewsbb.net,US,Americas,Northern America,United States of America,Kentucky,,Mayfield
+72.14.100.238,4,0,Ookla Speedtest Server 30516: newspeedtest.murray-ky.net,US,Americas,Northern America,United States of America,Kentucky,,Murray
+64.57.160.2,4,0,Ookla Speedtest Server 32246: sp1.bbtel.com,US,Americas,Northern America,United States of America,Kentucky,,Elizabethtown
+199.27.249.226,4,-8,Ookla Speedtest Server 34820: speedtest.amesiaaa.metronetinc.com,US,Americas,Northern America,United States of America,Kentucky,,Lexington
+199.27.249.230,4,-5,Ookla Speedtest Server 39289: speedtest.tlhsflaa.metronetinc.com,US,Americas,Northern America,United States of America,Kentucky,,Lexington
+172.98.130.228,4,184355,Ookla Speedtest Server 40116: speedtest.xiber.net,US,Americas,Northern America,United States of America,Kentucky,,Louisville
+199.27.249.234,4,-15,Ookla Speedtest Server 40266: speedtest.lnngmiaa.metronetinc.com,US,Americas,Northern America,United States of America,Kentucky,,Lexington
+23.188.64.253,4,8,Ookla Speedtest Server 41568: speedtest.ctsbroadband.net,US,Americas,Northern America,United States of America,Kentucky,,Monticello
+72.46.114.19,4,-2,Ookla Speedtest Server 43384: speedtest-lxtnky0001.openfiberky.com,US,Americas,Northern America,United States of America,Kentucky,,Frankfort
+216.68.10.39,4,-3,Ookla Speedtest Server 52814: speedtest.altafiber.com,US,Americas,Northern America,United States of America,Kentucky,,Fort Thomas
+66.38.2.58,4,-13,Ookla Speedtest Server 56343: speedtest.duobroadband.com,US,Americas,Northern America,United States of America,Kentucky,,Russell Springs
+69.36.4.186,4,1510547,Ookla Speedtest Server 63890: speed.xiber.net,US,Americas,Northern America,United States of America,Kentucky,,Newport
+165.188.85.254,4,5,Ookla Speedtest Server 70601: speedtest-ky.conexonconnect.com,US,Americas,Northern America,United States of America,Kentucky,,Calhoun
+24.29.2.249,4,-7,Ookla Speedtest Server 71870: lxtnky-speedtest-ookla-01.st.charter.com,US,Americas,Northern America,United States of America,Kentucky,,Louisville
+64.191.144.126,4,8,qx.net,US,Americas,Northern America,United States of America,Kentucky,,Lexington
+192.208.116.2,4,9,rabbitears.info,US,Americas,Northern America,United States of America,Kentucky,,Goshen
+64.253.105.197,4,1,raggededgemagazine.com,US,Americas,Northern America,United States of America,Kentucky,,Louisville
+64.24.91.226,4,1509,vexillum.com,US,Americas,Northern America,United States of America,Kentucky,,Somerset
+64.191.152.140,4,11,win.net,US,Americas,Northern America,United States of America,Kentucky,,Lexington

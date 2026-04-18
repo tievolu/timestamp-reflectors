@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-103.151.33.101,4,111,Ookla Speedtest Server 55503: speedtest.kita.net.id,ID,Asia,South-eastern Asia,Indonesia,Central Java,,Surakarta
+103.151.33.101,4,-15,Ookla Speedtest Server 55503: speedtest.kita.net.id,ID,Asia,South-eastern Asia,Indonesia,Central Java,,Surakarta
+103.51.205.246,4,-13,Ookla Speedtest Server 60189: speedtest.juwita.id,ID,Asia,South-eastern Asia,Indonesia,Central Java,,Surakarta
+202.152.156.10,4,9,Ookla Speedtest Server 60926: speedtest.pwkt.citra.net.id,ID,Asia,South-eastern Asia,Indonesia,Central Java,,Surakarta
+103.182.196.6,4,64,Ookla Speedtest Server 61485: speedtest.speedplus.in,ID,Asia,South-eastern Asia,Indonesia,Central Java,,Surakarta

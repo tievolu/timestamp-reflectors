@@ -1,2 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-152.230.192.5,4,339,Ookla Speedtest Server 59373: speedtest-iqui.grupogtd.com,CL,Americas,Latin America and the Caribbean,Chile,Tarapacá,,Iquique
+204.199.129.38,4,-17589,DNS Server: 204-199-129-38.dia.static.centurylink.com.cl,CL,Americas,Latin America and the Caribbean,Chile,Tarapacá,,Alto Hospicio
+38.224.178.38,4,9,Ookla Speedtest Server 42436: ookla.skarnetchile.com,CL,Americas,Latin America and the Caribbean,Chile,Tarapacá,,Pozo Almonte
+185.28.51.6,4,-3,Ookla Speedtest Server 51005: test.telecable.cl,CL,Americas,Latin America and the Caribbean,Chile,Tarapacá,,
+152.230.192.5,4,3,Ookla Speedtest Server 59373: speedtest-iqui.grupogtd.com,CL,Americas,Latin America and the Caribbean,Chile,Tarapacá,,Iquique
+45.166.147.234,4,0,Ookla Speedtest Server 67595: speedtest-hospicio.tuwifi.cl,CL,Americas,Latin America and the Caribbean,Chile,Tarapacá,,Alto Hospicio

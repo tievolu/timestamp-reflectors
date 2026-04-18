@@ -1,4 +1,8 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-114.134.14.237,4,31,marathon-photos.com,NZ,Oceania,Australia and New Zealand,New Zealand,Waikato Region,,Hamilton
+114.134.11.177,4,30628,DNS Server: 114-134-11-177.static.lightwire.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Waikato Region,,Hamilton
+114.134.14.237,4,11,marathon-photos.com,NZ,Oceania,Australia and New Zealand,New Zealand,Waikato Region,,Hamilton
 103.14.218.170,4,0,nationalaquarium.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Waikato Region,,Hamilton
-103.233.135.136,4,293,Ookla Speedtest Server: ookla.purelink.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Waikato Region,,Raglan
+114.134.15.227,4,6,Ookla Speedtest Server 3639: speedtest.lightwire.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Waikato Region,,Hamilton
+101.98.9.197,4,-3,Ookla Speedtest Server 5749: akl1.linetest.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Waikato Region,,Waihi
+101.98.9.201,4,3,Ookla Speedtest Server 7317: chch1.linetest.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Waikato Region,,Waihi
+49.50.231.65,4,6,Ookla Speedtest Server 45709: speedtest.megatel.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Waikato Region,,Hamilton

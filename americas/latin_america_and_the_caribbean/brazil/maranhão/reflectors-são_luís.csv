@@ -1,11 +1,43 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-177.66.195.7,4,134,DNS Server: 177-66-195-7.wikitelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
-201.182.66.37,4,11914,DNS Server: 37.66.182.201.equatorialtelecom.com,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
-177.54.142.86,4,10,fsadu.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
-200.11.111.250,4,171,Ookla Speedtest Server 53457: spd.gbnetma.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
-45.224.122.246,4,173,Ookla Speedtest Server 54799: speedtest.enzonet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
-200.11.109.34,4,-25764,Ookla Speedtest Server: speed.mdnettelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
-200.1.125.196,4,312,Ookla Speedtest Server: speedtest.grupoceuma.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
-45.179.149.29,4,307,Ookla Speedtest Server: speedtest.redewebnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
-45.186.120.1,4,22,Ookla Speedtest Server: teste.naredetelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
-200.108.164.29,4,217,Ookla Speedtest Server: teste.vavatec.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+201.182.66.37,4,5092,DNS Server: 37.66.182.201.equatorialtelecom.com,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+45.180.218.199,4,15,DNS Server: 45-180-218-199.starone.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+164.163.252.19,4,104,Ookla Speedtest Server 14924: speedtest.datalig.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+200.1.125.196,4,-17,Ookla Speedtest Server 15620: speedtest.grupoceuma.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+164.163.252.18,4,22,Ookla Speedtest Server 20621: speedtest.net5.tv.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+191.37.152.39,4,9,Ookla Speedtest Server 27462: speedtest.speedenet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+45.191.17.253,4,-4842,Ookla Speedtest Server 29984: speedtest.hugstelecom.com,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+45.238.79.102,4,-20,Ookla Speedtest Server 29994: speedtest.slznet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+45.190.120.8,4,2055,Ookla Speedtest Server 31450: speedtest.fixtellnordeste.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+45.178.78.20,4,-17,Ookla Speedtest Server 32460: speedtest.grandenet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+45.238.236.146,4,441160,Ookla Speedtest Server 33218: speedtestslt.mxmaisnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+200.39.131.249,4,13,Ookla Speedtest Server 34156: speedtest.gastietelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+45.169.59.36,4,3,Ookla Speedtest Server 34966: speedtest1.gardentelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+179.48.77.164,4,135058,Ookla Speedtest Server 40018: velocimetro.simtelecomslz.com,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+200.4.127.10,4,-4,Ookla Speedtest Server 40715: speedtest.bnjnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+191.37.158.188,4,12,Ookla Speedtest Server 43963: speedtest.fibranetma.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+200.108.164.29,4,4,Ookla Speedtest Server 49285: teste.vavatec.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+181.224.94.0,4,17,Ookla Speedtest Server 49331: speed.portalma.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+200.137.129.9,4,4,Ookla Speedtest Server 52219: speed.pop-ma.rnp.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+45.169.56.21,4,-26,Ookla Speedtest Server 52779: speedtest.gardentelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+200.11.111.250,4,5,Ookla Speedtest Server 53457: spd.gbnetma.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+168.181.254.243,4,8,Ookla Speedtest Server 53545: speedtest31.starone.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+177.66.194.43,4,-5,Ookla Speedtest Server 54415: speedtest.trevointernet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+45.225.131.131,4,22,Ookla Speedtest Server 54626: speedtest.onlinefibraslz.net,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+45.224.122.246,4,5,Ookla Speedtest Server 54799: speedtest.enzonet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+45.186.123.247,4,24,Ookla Speedtest Server 55075: spd.netnoartelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+24.152.116.37,4,-6,Ookla Speedtest Server 56681: teste.hrcnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+24.152.117.92,4,35,Ookla Speedtest Server 58520: speed2.edosnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+191.7.37.67,4,23,Ookla Speedtest Server 58668: speedtest.gponnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+168.227.37.18,4,16,Ookla Speedtest Server 61826: speedtest.orionfibra.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+179.63.95.231,4,51,Ookla Speedtest Server 62096: speedtest.controlti.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+45.189.30.15,4,33,Ookla Speedtest Server 63406: velocimetro.conectsoluction.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+45.238.239.184,4,-42169,Ookla Speedtest Server 64019: velocidade.fnetmaster.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+200.80.126.34,4,29,Ookla Speedtest Server 64388: velocimetro-mta.conectsoluction.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+164.163.87.3,4,4520,Ookla Speedtest Server 64605: sp1.opagroup.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+179.51.179.7,4,-11,Ookla Speedtest Server 65118: speed.mksnetsolucoes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+179.48.79.13,4,-921519,Ookla Speedtest Server 65320: spd.alnetma.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+170.247.29.1,4,-15170,Ookla Speedtest Server 67850: speedtest.brilhanet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+191.37.158.242,4,10,Ookla Speedtest Server 68301: speedtest.gmengtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+45.181.230.27,4,-24,Ookla Speedtest Server 68354: speedtest.wikitelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+200.24.100.34,4,3,Ookla Speedtest Server 70077: speedtest.plusitma.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís
+24.152.119.86,4,22666529,Ookla Speedtest Server 71869: speedtest.brasilnetslz.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,São Luís

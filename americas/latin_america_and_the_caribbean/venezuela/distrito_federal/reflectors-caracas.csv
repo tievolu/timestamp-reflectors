@@ -1,11 +1,28 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-190.216.229.111,4,-15803,DNS Server: 190-216-229-111.dia.static.centurylink.com.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
-190.216.238.105,4,623,DNS Server: 190-216-238-105.dia.static.centurylink.com.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
-190.217.6.145,4,-3,DNS Server: 190-217-6-145.dia.static.centurylink.com.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
-190.94.212.10,4,-20485150,DNS Server: 190-94-212-10.ifxnw.com.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
-190.94.247.154,4,-2,DNS Server: 190-94-247-154.ifxnw.com.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
-201.234.236.126,4,8539,DNS Server: 201-234-236.static.gblx.net,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
-190.205.109.36,4,27,DNS Server: dns1.enf.edu.ve.109.205.190.in-addr.arpa,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
-45.236.31.199,4,388,Ookla Speedtest Server 44132: speedtest.nervicom.net,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
-190.121.236.116,4,283,Ookla Speedtest Server 59087: okltstsrv.sucrenet.com.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
-8.243.249.94,4,248,Ookla Speedtest Server 62896: speedtest.latinamericancable.com,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+186.24.49.10,4,10,DNS Server: 186-24-49-10.genericrev.telcel.net.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+190.94.212.10,4,-544811,DNS Server: 190-94-212-10.ifxnw.com.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+190.94.212.132,4,69290,DNS Server: 190-94-212-132.ifxnw.com.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+200.75.135.226,4,-8,DNS Server: 226.135.75.200.net-uno.net,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+190.205.109.36,4,-22,DNS Server: dns1.enf.edu.ve.109.205.190.in-addr.arpa,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+190.6.31.100,4,-686,DNS Server: host-190-6-31-100.NET-UNO.NET,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+181.225.41.2,4,1,Ookla Speedtest Server 3027: speed.ifxnw.com.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+190.153.58.46,4,-18,Ookla Speedtest Server 13852: speed-ookla.net-uno.net,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+179.63.111.185,4,-3,Ookla Speedtest Server 17579: speedtest.internetccom.net,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+200.35.148.6,4,0,Ookla Speedtest Server 36351: ccsspeedtest.reddotech.com,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+45.230.46.224,4,1,Ookla Speedtest Server 45252: gancoccs.com,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+131.72.171.71,4,-4,Ookla Speedtest Server 48218: speedtest.telcorplatam.com,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+82.86.67.3,4,11,Ookla Speedtest Server 51075: testcaracas.somosthunder.net,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+181.225.63.6,4,-31453,Ookla Speedtest Server 57604: speedtest4.cdt.com.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+38.43.254.114,4,-2,Ookla Speedtest Server 60581: speedtest.catia.fulldata.com.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+45.230.169.240,4,-9793,Ookla Speedtest Server 60947: ispyovi.daycomve.com,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+186.96.68.22,4,2724,Ookla Speedtest Server 61769: speedtest.interking.net,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+201.234.224.18,4,1,Ookla Speedtest Server 63148: speedtest.ipnet.com.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+38.121.214.3,4,-338485,Ookla Speedtest Server 64059: speedtestocu.itc.com.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+38.51.59.5,4,-17,Ookla Speedtest Server 64308: speedtest.megalink.net.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+38.188.98.128,4,-11,Ookla Speedtest Server 68781: serverspeed.maxinetgroup.com,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+38.43.251.98,4,-14,Ookla Speedtest Server 70424: speedtest.ct.fulldata.com.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+38.121.214.113,4,-3,Ookla Speedtest Server 71673: speedtest.daycomve.com,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+38.74.230.5,4,-169,Ookla Speedtest Server 72300: speedtest.simplefibra.info,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+45.175.37.30,4,-4,Ookla Speedtest Server 72366: speed.tcaservice.com,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+45.230.169.39,4,-9754,Ookla Speedtest Server 73023: speedtest.ispyovi.com,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas
+38.121.218.4,4,-6,Ookla Speedtest Server 74221: speedtest.galanetcua.com,VE,Americas,Latin America and the Caribbean,Venezuela,Distrito Federal,,Caracas

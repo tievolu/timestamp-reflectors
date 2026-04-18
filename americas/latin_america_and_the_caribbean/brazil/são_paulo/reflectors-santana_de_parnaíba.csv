@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-5.188.238.169,4,28,argenpress.info,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Santana de Parnaíba
+5.188.238.169,4,-16,argenpress.info,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Santana de Parnaíba
+168.0.172.104,4,2,DNS Server: 168-0-172-104.fiber-spb.tvalphaville.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Santana de Parnaíba
+201.54.232.42,4,2,DNS Server: 201-54-232-42-dns-bre.linktel.net.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Santana de Parnaíba
+201.182.166.5,4,-197155,Ookla Speedtest Server 43706: speedtest.maisnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Santana de Parnaíba

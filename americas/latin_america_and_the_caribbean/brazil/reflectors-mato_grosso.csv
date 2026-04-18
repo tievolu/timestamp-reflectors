@@ -1,25 +1,123 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-177.84.238.163,4,2327,DNS Server: 177-84-238-163.allrede.net,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Barra do Garças
-179.189.52.172,4,4,DNS Server: 179-189-52-172.evo.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Sinop
-45.229.243.16,4,1210036,DNS Server: rede-satt-243-16.satt.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Juara
-170.0.220.6,4,350,Ookla Speedtest Server 44983: teste.entechtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Pontes e Lacerda
-201.71.5.21,4,293,Ookla Speedtest Server 53563: test.fibramundonet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Colniza
-168.121.12.20,4,229,Ookla Speedtest Server 55844: ravimonitor.speedmaxnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Marcelândia
-45.235.152.151,4,-800468,Ookla Speedtest Server 56042: ospeed.azat.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Canarana
-189.126.91.22,4,352,Ookla Speedtest Server 57594: velocidadecrn.araguaianet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Água Boa
-192.141.143.205,4,325,Ookla Speedtest Server 60353: sptmt2.mttecnologia.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Cuiabá
-45.174.192.19,4,365,Ookla Speedtest Server 60910: netsys.ravisystems.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Jauru
-38.252.87.248,4,742965,Ookla Speedtest Server 62920: speedtest.fibernetmt.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,
-168.194.85.90,4,340,Ookla Speedtest Server 63513: speedtest.netwirelessinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Bom Jesus do Araguaia
+131.221.182.14,4,-3,DNS Server: 131.221.182.14.static.reverso.primanet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Primavera do Leste
+179.189.52.172,4,-7,DNS Server: 179-189-52-172.evo.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Sinop
+201.3.14.194,4,8,DNS Server: 201-3-14-194.cpece705.dsl.brasiltelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Sinop
+45.235.77.149,4,-1746977355,DNS Server: 45-235-77-149.itechnology.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Alto Taquari
+45.233.139.97,4,6684,DNS Server: 45.233.139.97.seegfibras.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Cáceres
+45.235.72.146,4,3104,DNS Server: 45.235.72.146.sartorinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Juína
+200.81.50.199,4,4613,DNS Server: ascesnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Acorizal
+168.181.189.86,4,1486,DNS Server: customer-168-181-189-86.infonetmt.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Sorriso
+200.129.244.230,4,986,ifmt.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Cuiabá
+177.23.185.31,4,-35,Ookla Speedtest Server 7902: speedtest.infobarranet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Barra do Garças
+200.3.197.62,4,-7,Ookla Speedtest Server 7929: test.irfibranet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Sinop
+177.39.128.25,4,-36,Ookla Speedtest Server 10976: speedtest.brava.inf.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Rondonópolis
+45.71.219.249,4,-835640,Ookla Speedtest Server 15090: speedtest.sgvtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Várzea Grande
+190.123.69.244,4,-8,Ookla Speedtest Server 15457: speedplc.cntconnect.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Pontes e Lacerda
+177.128.88.97,4,3,Ookla Speedtest Server 15917: sp2.sattinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Juara
+168.232.200.242,4,11,Ookla Speedtest Server 17100: speedtest.virtualconnect.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Paranatinga
+177.85.156.25,4,-17,Ookla Speedtest Server 18468: speedtest.biazitelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Primavera do Leste
+177.155.211.59,4,29,Ookla Speedtest Server 19064: speedtest.gbonline.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Sinop
+168.90.211.154,4,-190,Ookla Speedtest Server 22720: speedtest.dominanet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Sinop
+45.229.240.5,4,-1,Ookla Speedtest Server 23229: sp1.satt.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Juara
+45.168.220.42,4,5,Ookla Speedtest Server 24611: speed1.bottegatelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Vila Rica
+138.186.128.22,4,13,Ookla Speedtest Server 25123: serverookla.weblacerda.net,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Pontes e Lacerda
+45.228.108.10,4,-52,Ookla Speedtest Server 26520: velocidade.netvipmt.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Terra Nova do Norte
+168.181.190.39,4,14363,Ookla Speedtest Server 27258: speed.infonetmt.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Sorriso
+45.228.127.9,4,-3,Ookla Speedtest Server 28159: speed.americainternet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Lucas do Rio Verde
+45.71.216.248,4,30883,Ookla Speedtest Server 29464: speedtest.superlinktelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Cuiabá
+177.54.255.23,4,4,Ookla Speedtest Server 30373: speedtestroo.inexamais.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Rondonópolis
+138.99.16.11,4,23,Ookla Speedtest Server 30455: speedtest.inexa.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Lucas do Rio Verde
+131.108.131.26,4,8,Ookla Speedtest Server 30775: speedtest.topfibrainternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Juara
+138.118.176.17,4,-16,Ookla Speedtest Server 31240: speed.teleturbo.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Cuiabá
+190.8.160.26,4,-17,Ookla Speedtest Server 31731: portalnetspeedtest.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Pontal do Araguaia
+45.178.215.1,4,0,Ookla Speedtest Server 33109: sp1.netlinkbl.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Guarantã do Norte
+24.152.28.6,4,12,Ookla Speedtest Server 33211: speedtest.invinet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Juína
+45.229.69.4,4,9155,Ookla Speedtest Server 33989: speedtest.dominiomt.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Sorriso
+190.109.119.6,4,1,Ookla Speedtest Server 34366: speedtest.worldconectspeedtest.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Barra do Bugres
+45.189.132.9,4,-2,Ookla Speedtest Server 34654: speedtest.nmt.celerium.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Nova Mutum
+177.222.232.56,4,-5,Ookla Speedtest Server 34777: teste.neonet10.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,São José dos Quatro Marcos
+190.89.228.26,4,-11,Ookla Speedtest Server 34903: speedtest.vipnetspz.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Sapezal
+201.159.120.25,4,-2,Ookla Speedtest Server 35374: speedtest.icase.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Tabaporã
+45.187.72.4,4,15,Ookla Speedtest Server 35535: velocidade.ditonet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Tangará da Serra
+45.181.147.255,4,-13,Ookla Speedtest Server 35676: speedtest-castilhonet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Colniza
+200.39.135.3,4,23,Ookla Speedtest Server 35755: vipnetinternet.ddns.net,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Nova Xavantina
+45.235.72.14,4,12,Ookla Speedtest Server 39386: speedtest.sartorinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Juína
+45.7.13.3,4,1338936,Ookla Speedtest Server 39702: speedtest.vstnetfiber.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Campo Novo do Parecis
+179.42.128.254,4,11,Ookla Speedtest Server 40292: sp1.grupoturbonet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Juína
+168.181.16.23,4,12,Ookla Speedtest Server 40512: speedtest.meganetfacil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Colíder
+45.71.216.249,4,52137,Ookla Speedtest Server 40680: speedtest.supertectelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Cuiabá
+177.200.228.10,4,-1,Ookla Speedtest Server 42167: teste.agathanet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Campo Novo do Parecis
+189.50.36.5,4,4,Ookla Speedtest Server 43473: speedtest.pilototelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Poconé
+177.72.169.8,4,11,Ookla Speedtest Server 43894: lucas.lucasinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Lucas do Rio Verde
+200.26.228.54,4,-7,Ookla Speedtest Server 43910: speedtest.vextel.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Campo Novo do Parecis
+201.182.232.115,4,0,Ookla Speedtest Server 44074: speedtest-sapezal.vextel.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Sapezal
+45.161.37.130,4,-2,Ookla Speedtest Server 44149: speedtest.bcinfonet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Ribeirãozinho
+168.195.4.10,4,0,Ookla Speedtest Server 44460: sp1.webriver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Novo Mundo
+200.80.116.23,4,2488427,Ookla Speedtest Server 44596: teste1.brasnetilimitada.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Juína
+170.0.220.6,4,-4,Ookla Speedtest Server 44983: teste.entechtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Pontes e Lacerda
+45.172.20.249,4,1,Ookla Speedtest Server 46312: speedtest.lexxion.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Nortelândia
+189.126.89.26,4,345449,Ookla Speedtest Server 46509: velocidade.araguaianet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Água Boa
+45.228.151.10,4,-3,Ookla Speedtest Server 47208: speedtest.cuiabafibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Cuiabá
+181.224.21.245,4,3569897,Ookla Speedtest Server 48055: speedtest.aptelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Cuiabá
+186.250.23.29,4,14,Ookla Speedtest Server 48095: speedrn.netultra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Alta Floresta
+45.232.240.99,4,17,Ookla Speedtest Server 49324: velocidade.sousatelecom.net,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Vila Rica
+200.233.39.12,4,-9,Ookla Speedtest Server 49663: speed.neutralnetwork.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Pontes e Lacerda
+138.36.44.5,4,-6,Ookla Speedtest Server 50334: speedtest.nitrointernet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Mirassol d'Oeste
+45.184.64.18,4,16,Ookla Speedtest Server 50575: velocidade.agilitelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Confresa
+143.202.80.66,4,-4,Ookla Speedtest Server 50621: speedtest1.mutumfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Nova Mutum
+45.188.116.6,4,60137,Ookla Speedtest Server 50639: speedtest.dunetisp.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Araputanga
+190.89.178.30,4,-6,Ookla Speedtest Server 51498: speedtest.lifenett.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Pontal do Araguaia
+170.80.125.2,4,-5,Ookla Speedtest Server 51626: speedtest.internitrotelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Tangará da Serra
+138.118.0.5,4,-5,Ookla Speedtest Server 52277: speedtest.interfibras.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Rondonópolis
+186.233.0.60,4,-12,Ookla Speedtest Server 52310: teste.ispglobaltelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Alto Garças
+45.184.128.12,4,745037,Ookla Speedtest Server 52686: testeguarita.lidernetfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Colíder
+179.125.40.234,4,1009325,Ookla Speedtest Server 53265: cba.allrede.tec.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Cuiabá
+179.0.188.241,4,0,Ookla Speedtest Server 53365: speedtest.deltatecnologiamt.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Nova Mutum
+189.90.232.13,4,-4,Ookla Speedtest Server 53415: teste.navenet.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Várzea Grande
+170.238.56.23,4,-4,Ookla Speedtest Server 53433: teste.navenet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Tangará da Serra
+201.71.5.21,4,4,Ookla Speedtest Server 53563: test.fibramundonet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Colniza
+200.192.148.227,4,-6,Ookla Speedtest Server 54612: speedtest.fibranetvg.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Várzea Grande
+45.4.140.2,4,4877,Ookla Speedtest Server 54814: speedtest.globaltelecom-mt.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Sorriso
+168.121.12.20,4,-2,Ookla Speedtest Server 55844: ravimonitor.speedmaxnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Marcelândia
+45.235.152.151,4,-366645,Ookla Speedtest Server 56042: ospeed.azat.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Canarana
+168.227.127.11,4,-6,Ookla Speedtest Server 57163: speedtest.supersoftinformatica.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Pontes e Lacerda
+201.221.117.238,4,380345,Ookla Speedtest Server 57478: speedtest.cidadei.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Confresa
+189.126.91.22,4,0,Ookla Speedtest Server 57594: velocidadecrn.araguaianet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Canarana
+164.163.100.251,4,19923,Ookla Speedtest Server 57956: rocketinternet.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Dom Aquino
+24.152.34.226,4,5,Ookla Speedtest Server 58864: speed.fbntelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Cuiabá
+177.21.148.226,4,-26,Ookla Speedtest Server 59197: test.pedrosoftware.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Vila Rica
+186.216.58.254,4,493268,Ookla Speedtest Server 59401: teste1.bsinternetrural.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Alta Floresta
+45.161.100.12,4,39786,Ookla Speedtest Server 59456: spt.virtualnet.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Comodoro
+45.164.47.245,4,-26,Ookla Speedtest Server 59846: medidor.rctelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Cuiabá
+186.192.71.106,4,-18,Ookla Speedtest Server 60010: test.startnetprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Cotriguaçu
+192.141.143.205,4,-5,Ookla Speedtest Server 60353: sptmt2.mttecnologia.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Cuiabá
+131.108.129.192,4,20,Ookla Speedtest Server 60656: speedtest.flexlinkjuara.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Juara
+45.174.192.19,4,-21,Ookla Speedtest Server 60910: netsys.ravisystems.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Jauru
+200.39.134.94,4,-6,Ookla Speedtest Server 61515: marcelonx.ddns.net,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Novo São Joaquim
+190.123.206.215,4,-5,Ookla Speedtest Server 61608: diamantino.teste.utilprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Nova Mutum
+189.126.88.74,4,4,Ookla Speedtest Server 61821: medidor.netcomweb.info,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Água Boa
+200.152.10.24,4,-14,Ookla Speedtest Server 61894: velocidade.linknetfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Mirassol d'Oeste
+179.125.15.4,4,-22,Ookla Speedtest Server 61937: vel01.conectarbrasil.tec.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Chapada dos Guimarães
+190.120.232.11,4,1127780,Ookla Speedtest Server 62205: velox.turbotelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Sapezal
+45.168.94.12,4,-9,Ookla Speedtest Server 62339: sp1.exclusivetecnologia.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Lucas do Rio Verde
+38.252.87.248,4,2539043,Ookla Speedtest Server 62920: speedtest.fibernetmt.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,
+177.221.96.103,4,6,Ookla Speedtest Server 63443: speedtest.quick.inf.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Cuiabá
+168.194.85.90,4,-18,Ookla Speedtest Server 63513: speedtest.netwirelessinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Canabrava do Norte
+138.36.45.242,4,20015,Ookla Speedtest Server 63686: velocidade.vpnetinformatica.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Mirassol d'Oeste
+177.221.220.130,4,7933,Ookla Speedtest Server 64004: testefibra.brnetprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Alta Floresta
+170.244.84.22,4,5972,Ookla Speedtest Server 64092: speedtest.soumaisinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Cuiabá
+187.45.142.34,4,3,Ookla Speedtest Server 64927: speedtest.tarvosfibra.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Cuiabá
+190.113.62.128,4,84135,Ookla Speedtest Server 65228: speedtest.legacytelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Cuiabá
+190.123.71.244,4,224295,Ookla Speedtest Server 67120: speednvl.cntconnect.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Nova Lacerda
+200.80.116.62,4,-4,Ookla Speedtest Server 68039: velocidadejna.nortetel.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Juína
+186.195.165.7,4,0,Ookla Speedtest Server 68946: sp1.topinfofibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Arenápolis
+192.141.140.98,4,4,Ookla Speedtest Server 69109: ookla.mttecnologia.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Cuiabá
+190.111.171.228,4,6,Ookla Speedtest Server 69861: speedtest.interboavista.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,São Félix do Araguaia
+45.182.172.2,4,9,Ookla Speedtest Server 70421: speedtest.gdmtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Matupá
+168.232.183.2,4,12299,Ookla Speedtest Server 70739: speed.twspeed.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Sinop
+45.228.92.50,4,2,Ookla Speedtest Server 71601: speedtest.infotecvb.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Vila Bela da Santíssima Trindade
+154.64.13.0,4,14344264,Ookla Speedtest Server 72697: teste2.gstnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Campo Verde
+201.159.253.34,4,-17,Ookla Speedtest Server 72758: speed.corefibra.com,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Cuiabá
 45.229.243.101,4,7060,Ookla Speedtest Server: sp2.sattinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Sinop
-45.168.220.42,4,321,Ookla Speedtest Server: speed1.bottegatelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Vila Rica
-45.4.140.2,4,10878,Ookla Speedtest Server: speedtest.globaltelecom-mt.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Sorriso
-186.250.19.246,4,120,Ookla Speedtest Server: speedtest.netultra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Alta Floresta
-190.109.119.6,4,210,Ookla Speedtest Server: speedtest.worldconectspeedtest.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Barra do Bugres
-143.202.80.66,4,194,Ookla Speedtest Server: speedtest1.mutumfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Nova Mutum
-131.72.116.20,4,67,Ookla Speedtest Server: teste.newsat.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Campos de Júlio
-177.221.220.130,4,18249,Ookla Speedtest Server: testefibra.brnetprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Alta Floresta
 177.155.86.203,4,8151,Ookla Speedtest Server: velocidade-cld.wavemax.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Alta Floresta
 177.155.86.204,4,8155,Ookla Speedtest Server: velocidade-pta.wavemax.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Alta Floresta
-190.120.232.11,4,205557,Ookla Speedtest Server: velox.turbotelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Sapezal
-200.129.192.19,4,4824,ufms.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Cuiabá

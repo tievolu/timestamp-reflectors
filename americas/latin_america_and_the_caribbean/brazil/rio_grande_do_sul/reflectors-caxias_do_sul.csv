@@ -1,3 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-177.52.151.132,4,1848,DNS Server: 177-52-151-132.boscatto.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Caxias do Sul
-187.72.80.50,4,30417,DNS Server: 187-072-080-050.static.ctbctelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Caxias do Sul
+177.52.151.132,4,50729,DNS Server: 177-52-151-132.boscatto.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Caxias do Sul
+190.184.219.250,4,-15,Ookla Speedtest Server 11049: velocimetro2.sim.floripa.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Caxias do Sul
+187.63.167.18,4,5,Ookla Speedtest Server 13948: ookla.bitcom.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Caxias do Sul
+187.85.128.245,4,109733,Ookla Speedtest Server 20022: speed.g2netsul.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Caxias do Sul
+177.66.28.194,4,-6,Ookla Speedtest Server 53377: speedtest2.brsulnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Caxias do Sul

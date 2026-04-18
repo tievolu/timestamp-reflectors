@@ -1,5 +1,11 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-154.126.27.58,4,6,assemblee-nationale.mg,MG,Africa,Sub-Saharan Africa,Madagascar,,,Antananarivo
-102.16.2.254,4,-10906542,csi.gov.mg,MG,Africa,Sub-Saharan Africa,Madagascar,,,Antananarivo
-102.16.10.2,4,222,Ookla Speedtest Server 17987: speedtest.telma.mg,MG,Africa,Sub-Saharan Africa,Madagascar,,,Antananarivo
-102.16.18.42,4,59,presidence.gov.mg,MG,Africa,Sub-Saharan Africa,Madagascar,,,Antananarivo
+154.126.27.58,4,14,assemblee-nationale.mg,MG,Africa,Sub-Saharan Africa,Madagascar,,,Antananarivo
+41.204.103.212,4,-25,blueline.mg,MG,Africa,Sub-Saharan Africa,Madagascar,,,
+102.16.2.254,4,62793477,csi.gov.mg,MG,Africa,Sub-Saharan Africa,Madagascar,,,Antananarivo
+41.204.99.44,4,56410943,DNS Server: static-99-44.blueline.mg,MG,Africa,Sub-Saharan Africa,Madagascar,,,Toliara
+154.126.92.178,4,-5,DNS Server: tgn.126.92.178.dts.mg,MG,Africa,Sub-Saharan Africa,Madagascar,,,Antananarivo
+102.16.66.186,4,-5752,hcc.gov.mg,MG,Africa,Sub-Saharan Africa,Madagascar,,,Antananarivo
+41.188.13.123,4,3161393,mef.gov.mg,MG,Africa,Sub-Saharan Africa,Madagascar,,,Antananarivo
+102.16.10.2,4,16,Ookla Speedtest Server 17987: speedtest.telma.mg,MG,Africa,Sub-Saharan Africa,Madagascar,,,Antananarivo
+41.207.43.132,4,-3484971,sante.gov.mg,MG,Africa,Sub-Saharan Africa,Madagascar,,,Antananarivo
+41.242.98.16,4,30,univ-antananarivo.mg,MG,Africa,Sub-Saharan Africa,Madagascar,,,

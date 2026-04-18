@@ -1,14 +1,27 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-41.111.152.134,4,1112,alelec.com,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
+102.207.216.124,4,3168,alelec.com,DZ,Africa,Northern Africa,Algeria,,,
 102.220.31.36,4,14,domelec-dz.com,DZ,Africa,Northern Africa,Algeria,Beni Abbes,,Béni Abbès
-213.179.181.28,4,12,lecourrier-dalgerie.com,DZ,Africa,Northern Africa,Algeria,Mila,,Chelghoum el Aïd
-129.45.0.71,4,-423368,Ookla Speedtest Server 31853: speedtest3.djezzy.dz,DZ,Africa,Northern Africa,Algeria,,,
-129.45.0.3,4,1004821,Ookla Speedtest Server 32700: speedtest4.djezzy.dz,DZ,Africa,Northern Africa,Algeria,Oran,,Oran
-197.140.11.226,4,242,safex.dz,DZ,Africa,Northern Africa,Algeria,Boumerdes,,Boumerdas
-41.111.234.131,4,12,univ-boumerdes.dz,DZ,Africa,Northern Africa,Algeria,Boumerdes,,Ouled Moussa
-41.111.206.210,4,2642336,univ-msila.dz,DZ,Africa,Northern Africa,Algeria,Tizi Ouzou,,Tizi Ouzou
-41.111.171.235,4,21,univ-oran1.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Kouba
-41.110.190.124,4,20,univ-saida.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Draria
-41.106.128.5,4,18,univ-sba.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,
-41.111.224.45,4,14,univ-tebessa.dz,DZ,Africa,Northern Africa,Algeria,Boumerdes,,Ouled Moussa
-41.111.224.35,4,12,univ-tebessa.dz,DZ,Africa,Northern Africa,Algeria,Boumerdes,,Ouled Moussa
+213.179.181.8,4,369,esli.com.dz,DZ,Africa,Northern Africa,Algeria,,,
+41.111.220.40,4,-13,lagh-univ.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
+213.179.181.28,4,3,lecourrier-dalgerie.com,DZ,Africa,Northern Africa,Algeria,,,
+129.45.0.71,4,-158309,Ookla Speedtest Server 31853: speedtest3.djezzy.dz,DZ,Africa,Northern Africa,Algeria,Annaba,,Annaba
+129.45.0.3,4,373781,Ookla Speedtest Server 32700: speedtest4.djezzy.dz,DZ,Africa,Northern Africa,Algeria,Oran,,Oran
+168.253.96.69,4,-9,Ookla Speedtest Server 46188: speedtest-bez.ooredoo.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Bab Ezzouar
+168.253.103.253,4,8,Ookla Speedtest Server 47098: speedtest-cst.ooredoo.dz,DZ,Africa,Northern Africa,Algeria,,,
+197.140.11.226,4,603,safex.dz,DZ,Africa,Northern Africa,Algeria,,,
+41.111.128.195,4,31908588,sntf.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
+41.111.187.133,4,7,univ-alger3.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
+41.111.191.116,4,17,univ-bechar.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
+41.111.191.123,4,9,univ-bechar.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
+41.111.191.117,4,3,univ-bechar.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
+41.111.191.115,4,19,univ-bechar.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
+41.111.191.121,4,-6,univ-bechar.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
+41.111.234.143,4,1,univ-boumerdes.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
+41.111.234.131,4,12,univ-boumerdes.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
+197.140.11.224,4,746,univ-constantine2.dz,DZ,Africa,Northern Africa,Algeria,,,
+41.111.206.210,4,3609369,univ-msila.dz,DZ,Africa,Northern Africa,Algeria,Béjaïa,,Amizour
+41.111.171.235,4,-7,univ-oran1.dz,DZ,Africa,Northern Africa,Algeria,Oran,,Oran
+41.110.190.124,4,7,univ-saida.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
+41.106.128.5,4,1,univ-sba.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,
+41.111.224.35,4,12,univ-tebessa.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
+41.201.17.84,4,25,wilayabiskra.dz,DZ,Africa,Northern Africa,Algeria,Blida,,Blida

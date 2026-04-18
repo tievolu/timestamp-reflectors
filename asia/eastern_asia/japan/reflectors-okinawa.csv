@@ -1,3 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-125.206.12.134,4,25,DNS Server: i125-206-12-134.s30.a048.ap.plala.or.jp,JP,Asia,Eastern Asia,Japan,Okinawa,,Minamiuebaru
-123.226.237.156,4,125,DNS Server: p1139156-ipngnfx01sizuokaden.shizuoka.ocn.ne.jp,JP,Asia,Eastern Asia,Japan,Okinawa,,Naha
+27.0.31.50,4,-17,Ookla Speedtest Server 6405: sp3.atcc-gns.net,JP,Asia,Eastern Asia,Japan,Okinawa,,Okinawa
+103.13.250.27,4,-6,Ookla Speedtest Server 21118: speedtest-xg-oki.glbb.ne.jp,JP,Asia,Eastern Asia,Japan,Okinawa,,Okinawa
+27.0.31.66,4,-4,Ookla Speedtest Server 31181: sp7.atcc-gns.net,JP,Asia,Eastern Asia,Japan,Okinawa,,Okinawa
+202.209.74.106,4,-1498414,shotoku.ac.jp,JP,Asia,Eastern Asia,Japan,Okinawa,,Urasoe Shi

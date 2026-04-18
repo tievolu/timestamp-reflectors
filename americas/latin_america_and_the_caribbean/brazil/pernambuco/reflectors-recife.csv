@@ -1,20 +1,61 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-177.37.220.26,4,11009620,brisanet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
-177.37.220.25,4,37858,brisanet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
-177.36.15.66,4,-164940,chesf.gov.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
-177.87.168.105,4,63,DNS Server: 105-168-87-177.asstelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
-168.196.41.23,4,215,DNS Server: 168-196-41-23.visuallink.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
-177.87.168.6,4,34,DNS Server: 6-168-87-177.asstelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
-45.234.101.236,4,28,DNS Server: fort1-236.fortlink.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
-45.6.136.231,4,-47537328,DNS Server: webprovedor.231.rainternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
-192.144.96.15,4,198,Ookla Speedtest Server 15897: teste.linsnetme.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
-177.221.40.121,4,460453,Ookla Speedtest Server 53536: speedtest.vcamlink.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
-168.196.40.46,4,329,Ookla Speedtest Server 56266: speedtest.tiwisp.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
-168.196.42.26,4,259,Ookla Speedtest Server 57777: speedtest.elohimfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
-201.140.239.32,4,4863,Ookla Speedtest Server 59691: teste.salomaotelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
-45.70.217.60,4,-19576,Ookla Speedtest Server 60489: speedtest.turboteste.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
-168.196.42.184,4,292,Ookla Speedtest Server 63265: speedtest.arahnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
-45.224.24.17,4,18879049,Ookla Speedtest Server: sp1.redeviaconnect.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+187.59.70.255,4,596,DNS Server: 187.59.70.255.static.host.gvt.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+177.87.168.6,4,1,DNS Server: 6-168-87-177.asstelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+190.89.89.215,4,82038,DNS Server: static-190.89.89.215-Locallink-Telecomunicacoes,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+186.215.192.243,4,-16367,DNS Server: trackdata.243.static.host.gvt.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+45.6.136.226,4,34,DNS Server: webprovedor.226.rainternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+45.6.136.231,4,40464878,DNS Server: webprovedor.231.rainternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+200.133.9.254,4,-10,facepe.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+45.6.12.5,4,2,Ookla Speedtest Server 11800: sp1.glinknet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+170.78.96.212,4,2,Ookla Speedtest Server 12099: speedtest.megafibratelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+168.90.226.221,4,-5,Ookla Speedtest Server 13767: cmps-speedt-agp.bbg.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+45.6.137.243,4,12,Ookla Speedtest Server 15100: speed.rainternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+45.224.24.17,4,21005863,Ookla Speedtest Server 15344: sp1.redeviaconnect.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+192.144.96.15,4,-4,Ookla Speedtest Server 15897: teste.linsnetme.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+200.215.225.190,4,2259,Ookla Speedtest Server 16074: smartfibra.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+45.228.112.12,4,-9,Ookla Speedtest Server 16277: speedtest.jspnet.inf.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+168.196.84.46,4,10957149,Ookla Speedtest Server 16779: speedookla.hilink.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+200.124.167.128,4,3,Ookla Speedtest Server 17004: speedtest.f1k.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+192.141.111.55,4,74455004,Ookla Speedtest Server 18319: servtest.newspeedpe.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+45.6.93.90,4,10,Ookla Speedtest Server 21834: speedtest.locallink.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+192.141.108.229,4,2,Ookla Speedtest Server 28232: speedtest.smartlinknet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+168.196.40.20,4,4,Ookla Speedtest Server 29370: speedtest.visuallink.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+200.124.166.4,4,-9,Ookla Speedtest Server 32114: speedtest.gruponexustelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+186.229.40.41,4,0,Ookla Speedtest Server 33146: spetstfla04.timbrasil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+200.124.167.211,4,-6,Ookla Speedtest Server 35742: speedtest.msmprovider.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+187.1.162.198,4,-6,Ookla Speedtest Server 36404: speedtest.evolnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+190.5.208.20,4,1192209,Ookla Speedtest Server 36827: speed.brteletecnologia.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+45.234.102.240,4,78281,Ookla Speedtest Server 37362: speedtest.kleluco.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+179.48.229.208,4,-18,Ookla Speedtest Server 38831: speedtest.lucasnetprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+45.162.224.37,4,14,Ookla Speedtest Server 39489: speedtestrionet.ajustconsulting.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+200.124.167.28,4,-3,Ookla Speedtest Server 42620: speedtest.connectfibrarecife.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+45.235.104.203,4,366769,Ookla Speedtest Server 43236: speedtestmgn.ajustconsulting.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+179.48.230.147,4,8,Ookla Speedtest Server 51200: speedtest.netsetup.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+187.1.162.199,4,-15,Ookla Speedtest Server 52491: speedtest.worldnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+45.186.55.32,4,14,Ookla Speedtest Server 54130: speedtest.tlfibra.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+45.187.207.234,4,7738,Ookla Speedtest Server 55182: teste.plusfibratelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+191.7.145.42,4,3,Ookla Speedtest Server 56272: speedtest.mlinktelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+179.48.230.232,4,60,Ookla Speedtest Server 57777: speedtest.elohimfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+179.48.15.170,4,-1,Ookla Speedtest Server 58405: velocidade.connectfibrape.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+201.182.61.22,4,10,Ookla Speedtest Server 59052: sp1.gamenet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+168.90.226.201,4,-18,Ookla Speedtest Server 59922: speedtest-cgb.bbg.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+168.90.226.211,4,-16,Ookla Speedtest Server 59944: speedtest-rce.bbg.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+168.90.226.214,4,-1,Ookla Speedtest Server 59945: speedtest-pls.bbg.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+168.90.226.215,4,5,Ookla Speedtest Server 59947: speedtest-jdg.bbg.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+168.90.226.213,4,-36,Ookla Speedtest Server 59948: speedtest-old.bbg.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+168.90.226.210,4,-6,Ookla Speedtest Server 59949: speedtest-sdm.bbg.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+168.90.226.212,4,-9,Ookla Speedtest Server 59950: speedtest-plh.bbg.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+189.22.227.212,4,-24,Ookla Speedtest Server 60275: spd46.claro.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+200.219.60.138,4,1502930,Ookla Speedtest Server 60285: np1.skynetconnect.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+45.70.217.5,4,169639,Ookla Speedtest Server 60489: speedtest.turboteste.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+200.215.227.151,4,6616,Ookla Speedtest Server 62083: ookla.vaidfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+45.234.101.89,4,-7,Ookla Speedtest Server 63593: speedtest.xtremeinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+45.169.79.250,4,-29841,Ookla Speedtest Server 64306: teste.rochaweb.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+181.174.210.225,4,0,Ookla Speedtest Server 65290: speedtest.phnetprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+45.187.206.96,4,9,Ookla Speedtest Server 67582: speed.acrfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+181.191.112.10,4,-6,Ookla Speedtest Server 67897: speedtest.intervoxtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+45.164.10.38,4,-18,Ookla Speedtest Server 68185: testemcnet.ajustconsulting.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+177.36.20.107,4,-5,Ookla Speedtest Server 71518: test.novatelecom1.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+200.215.225.188,4,279,Ookla Speedtest Server: speed.smartfibra.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
 45.6.137.121,4,38862,Ookla Speedtest Server: speedtest2.provedorimperiofibra.tv.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
-45.235.104.203,4,138143,Ookla Speedtest Server: speedtestmgn.ajustconsulting.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
-201.76.99.3,4,-12214442,Ookla Speedtest Server: www.vescnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife
+201.76.99.3,4,73976185,Ookla Speedtest Server: www.vescnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Recife

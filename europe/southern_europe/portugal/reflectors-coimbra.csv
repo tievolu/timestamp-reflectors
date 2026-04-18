@@ -1,5 +1,12 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 193.137.201.84,4,3,boaventuradesousasantos.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Coimbra
-193.136.192.231,4,0,iave.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Coimbra
-193.136.192.180,4,35,nau.edu.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Coimbra
-193.136.192.211,4,13,ptspace.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Coimbra
+2.83.244.68,4,223,DNS Server: bl22-244-68.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Figueira da Foz Municipality
+82.155.125.231,4,176,DNS Server: bl6-125-231.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Figueira da Foz Municipality
+193.136.192.231,4,-7,iave.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Pereira
+193.136.192.180,4,1,nau.edu.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Pereira
+193.136.192.183,4,10,nau.edu.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Pereira
+212.55.137.229,4,14,Ookla Speedtest Server 30945: speedtest-ga1.meo.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Coimbra
+212.55.137.225,4,-4,Ookla Speedtest Server 31309: speedtest-pcs1.meo.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Coimbra
+212.55.137.237,4,-3,Ookla Speedtest Server 31551: speedtest-fx1.meo.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Coimbra
+193.136.192.211,4,19,ptspace.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Pereira
+185.17.230.19,4,40,visitazores.com,PT,Europe,Southern Europe,Portugal,Coimbra,,Coimbra

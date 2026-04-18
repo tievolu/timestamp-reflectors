@@ -1,6 +1,8 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-190.60.32.42,4,354,DNS Server: 42-32-60-190.ufinet.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
-38.196.178.17,4,289,Ookla Speedtest Server 52727: speedtest.cableexito.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
-200.93.148.249,4,222,Ookla Speedtest Server 56387: eagle-server.ufps.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
-45.173.9.2,4,159,Ookla Speedtest Server 56404: speedtest.mymnet.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
-200.93.148.3,4,4832302,ufps.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
+38.196.178.17,4,-2,Ookla Speedtest Server 52727: speedtest.cableexito.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
+38.191.220.114,4,26,Ookla Speedtest Server 56019: speedtest.globaltronik.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
+45.173.9.2,4,-19,Ookla Speedtest Server 56404: speedtest.mymnet.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
+38.191.216.195,4,-6,Ookla Speedtest Server 65312: speedtest.holadigital.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
+38.191.212.247,4,-3,Ookla Speedtest Server 71616: speedtest-ccta01.tvymas.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
+45.194.119.22,4,-4,Ookla Speedtest Server 72393: velocidad.fibercom.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
+38.191.212.245,4,9,Ookla Speedtest Server 73028: speedtest.ryc-sas.com,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta

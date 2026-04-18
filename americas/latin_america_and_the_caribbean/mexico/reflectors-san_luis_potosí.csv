@@ -1,7 +1,13 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-189.204.142.226,4,431,DNS Server: 226.189-204-142.bestelclientes.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Tamazunchale
-45.164.238.29,4,-56525,DNS Server: default.htvtelecom.com,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Cárdenas
-201.168.107.146,4,47,DNS Server: ip-201-168-107-146.marcatel.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Venado
-201.168.107.148,4,15,DNS Server: ip-201-168-107-148.marcatel.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Venado
-45.174.172.1,4,-21322,Ookla Speedtest Server 50332: speedtest.conektamexico.com,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Rioverde
-148.207.151.161,4,-1,unadmexico.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,San Luis Potosí City
+189.204.228.10,4,-11979,DNS Server: 10.189-204-228.bestelclientes.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Matehuala
+189.204.230.182,4,3,DNS Server: 182.189-204-230.bestelclientes.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Matehuala
+45.164.238.29,4,-162334,DNS Server: default.htvtelecom.com,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Rioverde
+148.240.244.118,4,-2145973809,DNS Server: dial-148-240-244-118.zone-1.ip.static-ftth.axtel.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Soledad de Graciano Sánchez
+201.168.107.146,4,-7,DNS Server: ip-201-168-107-146.marcatel.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Villa de Arista
+201.168.107.148,4,-7,DNS Server: ip-201-168-107-148.marcatel.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Villa de Arista
+189.203.167.242,4,5,Ookla Speedtest Server 37126: sanluispotosi.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,San Luis Potosí City
+181.224.17.5,4,0,Ookla Speedtest Server 39749: speedtest4.inbtel.com,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Ciudad Valles
+45.174.172.1,4,-294532,Ookla Speedtest Server 50332: speedtest.conektamexico.com,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Rioverde
+177.232.92.239,4,-8,Ookla Speedtest Server 53278: speedtest.villahermosa.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,San Luis Potosí City
+177.246.75.2,4,-10,Ookla Speedtest Server 58676: speedtest.slp.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,San Luis Potosí City
+45.177.179.9,4,7,Ookla Speedtest Server 59263: speedtest.fibraslp.com,MX,Americas,Latin America and the Caribbean,Mexico,San Luis Potosí,,Villa Zaragoza

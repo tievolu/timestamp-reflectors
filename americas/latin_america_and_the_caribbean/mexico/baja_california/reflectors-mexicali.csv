@@ -1,7 +1,9 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-189.201.241.217,4,11,DNS Server: 189.201.241.217.red-7.net,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
-189.223.248.74,4,5765,DNS Server: 189.223.248.74.ded.telnor.net,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
-201.159.20.161,4,-1,DNS Server: 20.161.konectate.co,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
-45.6.143.102,4,137,DNS Server: 45.6.143.102.lumenet.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
-187.191.60.106,4,272,Ookla Speedtest Server 43737: ensenada.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
-187.244.10.4,4,342,Ookla Speedtest Server 61559: speedtest.mxcli.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
+201.159.20.161,4,8255,DNS Server: 20.161.konectate.co,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
+201.174.63.161,4,58746860,DNS Server: 201-174-63-161.transtelco.net,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
+187.253.255.255,4,3,Ookla Speedtest Server 12693: speedtest.mexicali.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
+189.203.83.242,4,-9,Ookla Speedtest Server 36935: mexicali.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
+187.191.60.78,4,-1,Ookla Speedtest Server 42926: cabosl.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
+187.191.60.106,4,-28,Ookla Speedtest Server 43737: ensenada.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
+201.159.23.10,4,-19,Ookla Speedtest Server 56276: spdmxl.konecta.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali
+187.244.10.4,4,1,Ookla Speedtest Server 61559: speedtest.mxcli.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Baja California,,Mexicali

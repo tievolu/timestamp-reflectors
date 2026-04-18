@@ -1,35 +1,55 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-185.121.169.26,4,9,727895.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-130.216.72.44,4,9,95bfm.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-49.50.249.113,4,20,creditcardscompare.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Lynfield
-14.1.42.148,4,-22392,DNS Server: 14.1.42.148.host.layer2.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-219.89.203.248,4,5,DNS Server: 219-89-203-248.adsl.xtra.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-203.86.200.253,4,2221,DNS Server: email.techsystems.net.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+130.216.72.44,4,-1,95bfm.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+49.50.249.4,4,-1,aardvark.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+114.23.117.22,4,0,adam.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Pukekohe
+45.64.60.29,4,196,airforcemuseum.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+103.243.99.58,4,23,apopostudios.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+49.50.249.113,4,20,creditcardscompare.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+14.1.42.148,4,-69273,DNS Server: 14.1.42.148.host.layer2.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+219.89.203.248,4,-3,DNS Server: 219-89-203-248.adsl.xtra.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+203.86.200.253,4,-21,DNS Server: email.techsystems.net.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+114.23.116.21,4,-11,DNS Server: jamar-mw2aj4.cloudserver.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Pukekohe
+185.99.133.112,4,-27,DoH server: dnscry.pt-auckland-ipv4,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+202.89.39.8,4,24,frami.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+66.22.91.4,4,-9,fullers.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 66.22.91.11,4,6,fullers.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-103.16.180.234,4,-10,goodreturns.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-203.118.131.219,4,-3492,hilariouschaos.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-103.14.142.226,4,1044,indiannewslink.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-49.50.248.18,4,17,landsurvey.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Lynfield
-49.50.248.21,4,4,linearmotion.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Lynfield
-185.121.168.233,4,1,mastodon.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-103.242.245.228,4,4,metromag.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-202.127.8.7,4,251,Ookla Speedtest Server: chchbroadbandcheck.sky.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-202.89.39.8,4,8,opendvd.org,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-49.50.249.4,4,3,pontconsultants.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Lynfield
-103.242.245.38,4,25,redarchitecture.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+103.16.180.234,4,-20,goodreturns.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+203.118.131.219,4,-9199,hilariouschaos.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+103.242.245.228,4,-9,metromag.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+163.47.131.134,4,694,onevoice.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+185.99.133.234,4,-15,Ookla Speedtest Server 11900: lg-nz.zappiehost.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+103.29.31.193,4,0,Ookla Speedtest Server 13676: speed.nzpbx.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+111.69.56.57,4,-7,Ookla Speedtest Server 18392: speed4.snap.net.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+103.18.56.57,4,9,Ookla Speedtest Server 22531: speedtest.vpscity.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+45.64.60.134,4,8,Ookla Speedtest Server 22722: speedtest.affordabledomains.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+103.13.117.46,4,-20,Ookla Speedtest Server 25477: speedtest.devoli.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+103.100.186.29,4,2,Ookla Speedtest Server 34114: speedtest3.liveapp.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+202.127.8.5,4,-2,Ookla Speedtest Server 38177: aklbroadbandcheck.sky.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+202.127.8.7,4,-4,Ookla Speedtest Server 41663: chchbroadbandcheck.sky.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+103.90.78.16,4,1,Ookla Speedtest Server 43853: speedtest.tmg.net.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+103.243.97.17,4,5,Ookla Speedtest Server 57192: speedtest.ashnet.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+202.20.97.5,4,-5,Ookla Speedtest Server 63875: speed.hq.net.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+163.47.131.99,4,0,Ookla Speedtest Server 69298: speed-ookla-akl.vetta.net.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+103.18.56.76,4,388,optin.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+103.18.56.35,4,18,picknz.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+103.242.245.38,4,8,redarchitecture.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 103.242.245.16,4,5,rugby365.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 103.242.245.165,4,3,rugbydump.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 103.242.245.18,4,6,rugbyonslaught.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-103.242.247.2,4,4,rugbypass.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+103.242.247.2,4,8,rugbypass.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+210.48.126.143,4,-10,securitybrief.com.au,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Browns Bay
+58.84.37.196,4,-15,simpsonwestern.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 103.242.245.184,4,3,skyjump.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-103.242.245.213,4,22,southerndiscoveries.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-66.22.91.16,4,24,sparknz.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+103.242.245.213,4,8,southerndiscoveries.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+66.22.91.48,4,21,spark.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+66.22.91.16,4,16,sparknz.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+103.16.180.117,4,-79506,spv.sh,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 103.16.181.140,4,37,stroke.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-114.23.58.205,4,9,synthedit.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-210.48.126.143,4,16,techday.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-103.76.144.25,4,33,theosophy.world,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+114.23.58.205,4,17,synthedit.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Grey Lynn
+103.242.245.25,4,24,temanahunaaoraki.org,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+103.76.144.25,4,17,theosophy.world,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 49.50.252.141,4,8,theprow.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-58.84.37.36,4,18,umf.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+58.84.37.36,4,6,umf.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 202.89.39.41,4,16,vbaccelerator.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 202.89.39.2,4,6,woodlynpark.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-49.50.249.40,4,6,xenodream.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Lynfield
+49.50.249.40,4,-13,xenodream.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland

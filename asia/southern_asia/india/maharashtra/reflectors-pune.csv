@@ -1,23 +1,40 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+114.143.200.242,4,-199184,actrec.gov.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+103.205.140.225,4,14,atticagoldcompany.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+103.250.184.48,4,-4,barflex.co.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
 103.83.194.132,4,1082,benmoonpharma.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
-20.198.80.43,4,25,daiict.ac.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
-45.64.105.11,4,26784,distromedkutchh.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
-123.201.247.161,4,138,DNS Server: 161-247-201-123.static.youbroadband.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+123.201.247.161,4,5,DNS Server: 161-247-201-123.static.youbroadband.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+203.192.219.21,4,35523,DNS Server: dhcp-192-219-21.in2cable.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+182.72.232.135,4,-829072800,DNS Server: nsg-static-135.232.72.182.airtel.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+103.121.69.13,4,3,DNS Server: pnq-static-13.69.121.103-sbcplindia.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+49.248.155.208,4,533,DNS Server: static-208.155.248.49-tataidc.co.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
 103.12.211.187,4,21,dostguru.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
-103.26.206.138,4,1,iasbaba.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
-45.64.104.141,4,-20,kiskertek.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
-103.250.186.101,4,451,levitraz.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
-103.83.194.100,4,487,mkchocolatebars.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
-103.173.50.244,4,197,Ookla Speedtest Server 1761: speedtest.graceway.co.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
-103.208.69.233,4,375,Ookla Speedtest Server 33603: speedtestpune.tataplayfiber.co.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
-103.153.167.50,4,361,Ookla Speedtest Server 38843: speedtest.connectspacelink.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
-49.248.192.204,4,156,Ookla Speedtest Server 47668: stmum.tatatelebusiness.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
-45.127.123.10,4,285,Ookla Speedtest Server 60730: speedtestnagpur1.intechonline.net,IN,Asia,Southern Asia,India,Maharashtra,,Pune
-103.133.231.162,4,293,Ookla Speedtest Server 63145: speed1.wyrisnetworks.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
-103.83.194.130,4,1075,planahost.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
-203.199.12.52,4,9,sebi.gov.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
-45.64.105.153,4,-24,susris.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
-20.244.126.194,4,30,tnou.ac.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
-103.83.194.61,4,2,vspmdcrc.edu.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
-103.250.186.145,4,-3,websites.co.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
-20.244.107.99,4,70,xn--rhq366gmcx82d.pom-awsseo.top,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+52.172.223.17,4,-56,iimshillong.ac.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+103.83.194.130,4,222,loanhk.top,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+103.12.211.165,4,-29,mohanexports.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+103.250.184.224,4,-10,onlinedcudrtmnu.org,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+182.78.248.10,4,-3,Ookla Speedtest Server 6879: speedtestmum1.airtel.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+103.86.180.10,4,24,Ookla Speedtest Server 13384: speedtest.paradisetele.net,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+112.79.47.17,4,7,Ookla Speedtest Server 24685: ooklatestpune.live.vodafone.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+103.149.197.166,4,4,Ookla Speedtest Server 32142: speedtest.netaccessinternet.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+103.208.69.233,4,-8,Ookla Speedtest Server 33603: speedtestpune.tataplayfiber.co.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+103.153.167.50,4,-18,Ookla Speedtest Server 38843: speedtest.connectspacelink.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+182.78.194.114,4,-1,Ookla Speedtest Server 48115: speedtestkgp1.airtel.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+27.107.4.18,4,34,Ookla Speedtest Server 56338: stpun.tatatelebusiness.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+182.78.249.222,4,-26,Ookla Speedtest Server 57312: speedtestkhd1.airtel.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+45.127.123.10,4,13,Ookla Speedtest Server 60730: speedtestnagpur1.intechonline.net,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+45.127.123.6,4,-6,Ookla Speedtest Server 60903: speedtestnashik1.intechonline.net,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+45.127.123.2,4,9,Ookla Speedtest Server 62662: speedtestlatur7.intechonline.net,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+103.133.231.162,4,-1,Ookla Speedtest Server 63145: speed1.wyrisnetworks.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+183.83.40.12,4,46,Ookla Speedtest Server 63254: speedtestpune.actcorp.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+163.223.250.226,4,62,Ookla Speedtest Server 70085: speedtest.aceesat.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+103.139.242.220,4,99,Ookla Speedtest Server 70548: speedtest.spectram.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+202.1.30.250,4,-12,Ookla Speedtest Server 72624: speedtest.vivstar.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+203.200.19.52,4,24,Ookla Speedtest Server 73037: ookla.pu.as4755.net,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+103.110.243.244,4,33,Ookla Speedtest Server 74368: speedtest.internetexpress.co.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+103.83.194.100,4,25,punekarinteriors.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+103.250.185.248,4,-19,streamlineups.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+4.188.112.92,4,35,suzlon.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+20.33.120.18,4,7,tnou.ac.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+27.107.28.210,4,11,visionresearchreports.com,IN,Asia,Southern Asia,India,Maharashtra,,Pune
+103.83.194.61,4,37,vspmdcrc.edu.in,IN,Asia,Southern Asia,India,Maharashtra,,Pune

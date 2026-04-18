@@ -1,3 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-41.216.125.179,4,57,DNS Server: 41.216.125.179.liquidtelecom.net,RW,Africa,Sub-Saharan Africa,Rwanda,Kigali,,Kigali
-41.223.226.139,4,2005793,Ookla Speedtest Server 31634: ltrbandwidth.liquidtelecom.rw,RW,Africa,Sub-Saharan Africa,Rwanda,Kigali,,Kigali
+105.179.2.154,4,-1,Ookla Speedtest Server 7310: 4glte.ktrn.rw,RW,Africa,Sub-Saharan Africa,Rwanda,Kigali,,Kigali
+196.223.240.172,4,3,Ookla Speedtest Server 70407: ooklaserver.trac.africa,RW,Africa,Sub-Saharan Africa,Rwanda,,,
+197.243.23.14,4,-185124,peaceandhopeinitiative.rw,RW,Africa,Sub-Saharan Africa,Rwanda,Kigali,,
+197.243.23.16,4,53,rcot.org.rw,RW,Africa,Sub-Saharan Africa,Rwanda,Kigali,,
+197.243.23.15,4,43,ugama.org.rw,RW,Africa,Sub-Saharan Africa,Rwanda,Kigali,,

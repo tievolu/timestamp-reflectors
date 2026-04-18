@@ -1,33 +1,62 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-77.93.192.83,4,7,ccsh.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mělník District,Vojkovice
-90.183.101.70,4,11,chmu.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Nymburk
-185.14.232.143,4,-1566,DNS Server: 143-232.customer.interconnect.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Okres Praha-východ,Říčany
-188.75.186.152,4,29566,DNS Server: 152-186-75-188-static.katroservis.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Poděbrady
-213.180.53.103,4,118205,DNS Server: 213-180-53-103.client.rionet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kladno District,Klobuky
-78.110.223.200,4,13,DNS Server: 78-110-223-200.metronet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mladá Boleslav District,Katusice
-89.190.48.201,4,-226,DNS Server: 89-190-48-201.cust.selfnet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Okres Praha-západ,Jílové u Prahy
-89.190.48.44,4,21,DNS Server: 89-190-48-44.cust.selfnet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Okres Praha-západ,Jílové u Prahy
-46.135.230.228,4,-183,DNS Server: cst-prg-230-228.cust.vodafone.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Okres Praha-východ,Říčany
-193.8.86.49,4,42,DNS Server: ip-193-8-86-49.dhtcz.eu,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mladá Boleslav District,Benátky nad Jizerou
-62.240.181.201,4,10,DNS Server: ip-62-240-181-201.net.vodafone.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Čáslav
-89.190.33.39,4,1109,DNS Server: ip-89-190-33-39.licanet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Nymburk
-89.239.31.19,4,63,DNS Server: ip-89-239-31-19.mameradirychlost.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mělník District,Kralupy nad Vltavou
-80.188.50.114,4,-33585426,DNS Server: kerio.zamek-luzec.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Beroun District,Beroun
-95.85.254.129,4,-51381,DNS Server: nat-95-85-254-129.metronet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mladá Boleslav District,Dobrovice
-95.85.255.60,4,285,DNS Server: nat-95-85-255-60.metronet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mladá Boleslav District,Dobrovice
-195.128.222.20,4,355,DNS Server: r1core.netserv.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kladno District,Kladno
-37.221.246.243,4,-44880861,DNS Server: tlapnet-246-243.cust.tlapnet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
-81.90.247.62,4,13303,DNS Server: unassigned-81-90-247-62.ujezd.net,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Okres Praha-východ,Šestajovice
-89.190.36.18,4,-39761765,DNS Server: zdobinska--01.licanet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Nymburk
-46.167.209.30,4,6,havelpartners.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Kostomlaty nad Labem
-77.93.207.29,4,10,kamvpraze.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mělník District,Vojkovice
-77.93.206.236,4,33,mnhradiste.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mělník District,Vojkovice
-77.93.200.10,4,16,omixys.pl,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mělník District,Vojkovice
-92.43.26.218,4,350,Ookla Speedtest Server 3941: speedtest1.gsnet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mladá Boleslav District,Mladá Boleslav
-185.21.220.66,4,363,Ookla Speedtest Server 38652: linux.giganet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Okres Praha-východ,Dobřejovice
-81.0.225.44,4,3,ppsu.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Okres Praha-východ,Škvorec
-77.93.197.17,4,15,rema.cloud,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mělník District,Vojkovice
+95.168.204.231,4,25,amsoft.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+81.31.43.172,4,5,anniebabymonitor.com,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Benešov District,Miličín
+147.231.104.19,4,30,astro.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Okres Praha-východ,Mnichovice
+95.168.192.66,4,-43,babinet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+188.75.144.37,4,30,blansko.net,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Okres Kolín,Kolín
+81.201.48.171,4,-8,czfree.net,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kladno District,Kladno
+185.14.232.143,4,-63917,DNS Server: 143-232.customer.interconnect.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Okres Praha-východ,Říčany
+188.75.186.152,4,6926,DNS Server: 152-186-75-188-static.katroservis.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Poděbrady
+188.75.177.162,4,-71049,DNS Server: 162.177.75.188.static.dobruska.net,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Poděbrady
+5.102.53.34,4,-3,DNS Server: 34.53.102.5.client.nordic.tel,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Beroun District,Kraluv Dvur
+5.102.57.9,4,-39,DNS Server: 9.57.102.5.client.nordic.tel,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Beroun District,Kraluv Dvur
+90.182.130.170,4,-1,DNS Server: 90-182-130-170.rcp.o2.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Okres Praha-západ,Všenory
+90.183.56.236,4,-4,DNS Server: 90-183-56-236.rcq.o2.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kladno District,Slaný
+193.8.86.49,4,-8,DNS Server: ip-193-8-86-49.dhtcz.eu,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mladá Boleslav District,Dolní Bousov
+88.146.243.209,4,-3,DNS Server: ip-88-146-243-209.net.vodafone.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Kutná Hora
+88.146.243.21,4,-3,DNS Server: ip-88-146-243-21.net.vodafone.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Kutná Hora
+88.146.243.233,4,-2,DNS Server: ip-88-146-243-233.net.vodafone.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Kutná Hora
+89.190.33.39,4,31492,DNS Server: ip-89-190-33-39.licanet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Nymburk
+85.163.73.6,4,0,DNS Server: mail.datexo.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Příbram District,Klučenice
+95.168.195.130,4,-6,DNS Server: nsc1.superhosting.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+81.201.51.76,4,-3,DNS Server: test2.milann.klfree.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kladno District,Kladno
+37.221.246.242,4,109681,DNS Server: tlapnet-246-242.cust.tlapnet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Čáslav
+78.108.106.29,4,-2,DNS Server: vl3822-spkfree-nfx2.nfx.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mladá Boleslav District,Mnichovo Hradiště
+89.190.36.18,4,22217540,DNS Server: zdobinska--01.licanet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Nymburk
+89.24.184.133,4,10,dolezel.info,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mladá Boleslav District,Čachovice
+46.167.209.30,4,25,havelpartners.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Kostomlaty nad Labem
+194.93.14.42,4,-68,infas.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Poděbrady
+95.168.217.72,4,9,jabbim.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+95.168.210.110,4,41,kaloricketabulky.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+81.31.45.148,4,85,master.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Benešov District,Miličín
+95.168.214.171,4,-3,mimibazar.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+95.168.214.172,4,-69,mimibazar.sk,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+95.168.195.123,4,-11,mojekolo.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+95.168.192.195,4,55,monitoring-serveru.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+213.168.188.86,4,-4,muzeummb.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mladá Boleslav District,Mladá Boleslav
+81.31.37.22,4,0,obuvmusilova.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Benešov District,Miličín
+95.168.210.56,4,-40,odpovedi.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+95.168.199.136,4,-66,onlajny.com,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+92.43.26.218,4,8,Ookla Speedtest Server 3941: speedtest1.gsnet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mladá Boleslav District,Mladá Boleslav
+185.14.235.22,4,11,Ookla Speedtest Server 5094: ookla1.interconnect.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Okres Praha-východ,Říčany
+37.221.240.40,4,7,Ookla Speedtest Server 11363: speedtest.tlapnet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Čáslav
+91.221.149.6,4,-5,Ookla Speedtest Server 14275: speedmeter.comfeel.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mladá Boleslav District,Mnichovo Hradiště
+85.163.117.70,4,4,Ookla Speedtest Server 61299: speedtest.sam-net.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Pertoltice
+147.231.110.152,4,16,preslia.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Okres Praha-východ,Mnichovice
+147.231.110.150,4,4,pruhonickypark.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Okres Praha-východ,Mnichovice
+95.168.210.59,4,18,psc.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+81.31.33.166,4,159,seotip.sk,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Benešov District,Miličín
+95.168.193.83,4,22,simpleshop.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+81.31.46.138,4,7,skaut.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Benešov District,Miličín
+95.168.192.193,4,-100,skrz.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+213.168.189.25,4,6,sousede.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mladá Boleslav District,Mladá Boleslav
 185.75.136.6,4,32,stajrozarka.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Benešov District,Vlašim
-77.93.197.11,4,77,techmania.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mělník District,Vojkovice
-77.93.203.60,4,2,tjsokolujezdec.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mělník District,Vojkovice
-77.93.196.119,4,215,topmaminy.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mělník District,Vojkovice
+95.168.211.44,4,7,superhosting.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+95.168.192.73,4,-13,svet-oken.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+81.31.32.18,4,15,titulky.com,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Benešov District,Miličín
+90.176.150.92,4,-56,vedavyzkum.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kladno District,Kladno
+89.31.42.169,4,6,vsers.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kladno District,Kladno
+81.31.35.130,4,1,ziva-muzika.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Benešov District,Miličín
+95.168.210.61,4,-82,zkratky.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+95.168.204.20,4,660,zoo-foto.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+95.168.200.69,4,-65,zubrfanklub.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly

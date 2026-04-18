@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-45.224.22.25,4,-8638052,DNS Server: host-45-224-22-25.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Chimborazo Province,,Riobamba
+177.234.249.65,4,-15,DNS Server: host-177-234-249-65.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Chimborazo Province,,Riobamba
+45.225.44.30,4,6,Ookla Speedtest Server 37274: speedtest.maxxnet.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Chimborazo Province,,Riobamba
+177.234.250.238,4,867,Ookla Speedtest Server 62106: speedtiwintza.bosconetworks.com,EC,Americas,Latin America and the Caribbean,Ecuador,Chimborazo Province,,Riobamba
+45.70.12.30,4,40784906,Ookla Speedtest Server 72193: riobamba-bw.iplus.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Chimborazo Province,,Riobamba

@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-177.130.52.76,4,0,DNS Server: 76-52-130-177.redewsp.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Itaituba
+177.130.50.6,4,-961061,Ookla Speedtest Server 35928: speedtest.redewsp.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Itaituba
+45.165.25.0,4,10,Ookla Speedtest Server 50785: speedtest.ctmtelnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Itaituba
+179.124.16.221,4,-1,Ookla Speedtest Server 64304: velotesteitaituba.zumtelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Itaituba

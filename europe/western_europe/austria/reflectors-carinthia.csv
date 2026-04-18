@@ -1,11 +1,15 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-188.65.74.71,4,5,1000ps.at,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
-188.65.73.62,4,4,1000ps.de,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
-188.65.74.76,4,6,1000ps.net,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
-212.152.181.203,4,10,aps-hl.at,AT,Europe,Western Europe,Austria,Carinthia,,Spittal an der Drau
-80.80.244.225,4,790780,DNS Server: 80-80-244-225.stat.stw-net.at,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
-80.80.244.235,4,790850,DNS Server: 80-80-244-235.stat.stw-net.at,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
-80.80.245.46,4,5888,DNS Server: 80-80-245-46.stat.stw-net.at,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
-188.65.75.20,4,31,skiline.cc,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
+188.65.74.71,4,15,1000ps.at,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
+188.65.73.62,4,37,1000ps.de,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
+188.65.74.76,4,7,1000ps.net,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
+212.152.181.203,4,10,aps-hl.at,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
+80.80.244.225,4,1494445,DNS Server: 80-80-244-225.stat.stw-net.at,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
+80.80.244.235,4,1494445,DNS Server: 80-80-244-235.stat.stw-net.at,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
+89.185.98.109,4,-4,DNS Server: 89.185.98.109.net.netplanet.at,AT,Europe,Western Europe,Austria,Carinthia,,Grafenstein
+194.177.128.9,4,1,net4you.net,AT,Europe,Western Europe,Austria,Carinthia,,Villach
+89.185.97.30,4,11,oevsv.at,AT,Europe,Western Europe,Austria,Carinthia,,Grafenstein
+185.211.219.93,4,3,Ookla Speedtest Server 72709: speed04.ama-networx.net,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
+188.65.75.20,4,15,skiline.cc,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
 178.255.156.84,4,11,stoos-muotatal.ch,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
-188.65.74.70,4,24,triumph-schongau.de,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
+188.65.74.70,4,16,triumph-duesseldorf.com,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
+194.177.128.69,4,-6,visitklagenfurt.at,AT,Europe,Western Europe,Austria,Carinthia,,Villach

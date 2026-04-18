@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-188.75.186.152,4,29566,DNS Server: 152-186-75-188-static.katroservis.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Poděbrady
+188.75.186.152,4,6926,DNS Server: 152-186-75-188-static.katroservis.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Poděbrady
+188.75.177.162,4,-71049,DNS Server: 162.177.75.188.static.dobruska.net,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Poděbrady
+194.93.14.42,4,-68,infas.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Poděbrady

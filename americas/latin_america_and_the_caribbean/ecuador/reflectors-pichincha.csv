@@ -1,12 +1,37 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-186.69.15.61,4,24,conocimientolibre.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
-181.112.60.126,4,-53416677,DNS Server: 126.60.112.181.static.anycast.cnt-grms.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
-190.152.182.150,4,-8275745,DNS Server: 150.182.152.190.static.anycast.cnt-grms.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
-204.199.157.70,4,-1003291,DNS Server: 204-199-157-70.dia.static.centurylink.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
-190.63.54.76,4,109077,DNS Server: customer-190-63-54-76.claro.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
-157.100.63.111,4,9,DNS Server: host-157-100-63-111.ecua.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
-164.163.133.142,4,-39401372,DNS Server: host-164-163-133-142.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
-200.24.136.233,4,904,DNS Server: host-200-24-136-233.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
-200.31.6.98,4,173,Ookla Speedtest Server 55030: quito.speedtest.ciriontechnologies.com,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
-181.198.102.179,4,1373,Ookla Speedtest Server 56928: speed.dfscom.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
-45.189.57.130,4,-114929,Ookla Speedtest Server 63271: speedtest1.cbvision.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Santa Rosa de Cusubamba
+186.69.15.91,4,13,conocimientolibre.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+38.190.187.101,4,1,diarioeltiempo.com.ve,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+181.112.60.126,4,41479940,DNS Server: 126.60.112.181.static.anycast.cnt-grms.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+45.184.225.59,4,12,DNS Server: 4518422559.ip3.static.mediacommerce.com.co,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+190.12.61.146,4,8825,DNS Server: corp-190-12-61-146.loh.puntonet.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+190.63.54.76,4,27577,DNS Server: customer-190-63-54-76.claro.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+157.100.58.174,4,26809,DNS Server: host-157-100-58-174.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+164.163.133.102,4,1,DNS Server: host-164-163-133-102.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+164.163.133.21,4,2061,DNS Server: host-164-163-133-21.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+177.234.212.94,4,-9,DNS Server: host-177-234-212-94.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+186.4.206.188,4,-101,DNS Server: host-186-4-206-188.netlife.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+186.4.212.236,4,297417,DNS Server: host-186-4-212-236.netlife.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+200.24.136.233,4,35186,DNS Server: host-200-24-136-233.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+45.224.148.158,4,32488914,DNS Server: host-45-224-148-158.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+45.224.148.169,4,-2,DNS Server: host-45-224-148-169.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+45.224.148.61,4,1438,DNS Server: host-45-224-148-61.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+45.236.107.105,4,1172,DNS Server: host-45-236-107-105.fibramax.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+205.235.2.3,4,-20,DoH server: dnscry.pt-guayaquil-ipv4,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+200.63.106.2,4,-4,Ookla Speedtest Server 10511: sp1.iplanet.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+179.49.26.234,4,9,Ookla Speedtest Server 11998: speedtest2.puntonet.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+45.173.229.246,4,11491,Ookla Speedtest Server 13216: speedtest.ecuriolindo.com,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+200.25.38.205,4,20,Ookla Speedtest Server 29620: spt-uio.edgeuno.com,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+45.189.56.10,4,19476461,Ookla Speedtest Server 44733: speedtestn.cbvision.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Machachi
+45.4.201.226,4,-4,Ookla Speedtest Server 45076: speedtestgye.fibramax.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+45.70.58.5,4,-1,Ookla Speedtest Server 50429: speedtestsimantec.simantec.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+171.22.165.128,4,15641473,Ookla Speedtest Server 51019: speedtest.amazontvnet.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+200.24.139.162,4,19,Ookla Speedtest Server 53259: speedpvm.airwon.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+200.31.6.98,4,-12,Ookla Speedtest Server 55030: quito.speedtest.ciriontechnologies.com,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+181.198.102.179,4,1675,Ookla Speedtest Server 56928: speed.dfscom.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+45.186.6.190,4,11,Ookla Speedtest Server 59567: speedtest.fastnett.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+177.234.212.92,4,-9,Ookla Speedtest Server 59635: speedtestpquito.rednuevaconexion.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+45.173.229.178,4,-205478,Ookla Speedtest Server 62632: speedtest.movitech.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+186.219.48.157,4,-9,Ookla Speedtest Server 68521: speeduio.ultralink.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+171.22.165.193,4,203800,Ookla Speedtest Server 73298: speedtestcayambe.amazontvnet.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+181.188.216.6,4,0,Ookla Speedtest Server 73813: speedtest.jakfiber.com,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+192.188.52.3,4,35930,ucsg.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito

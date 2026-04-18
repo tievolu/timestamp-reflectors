@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+172.103.90.168,4,79200373,DNS Server: host-103-90-168.junet.se,SE,Europe,Northern Europe,Sweden,Västra Götaland County,,Borås
+91.208.174.139,4,-7,ellos.se,SE,Europe,Northern Europe,Sweden,Västra Götaland County,,Borås
+91.208.174.141,4,6,jotex.se,SE,Europe,Northern Europe,Sweden,Västra Götaland County,,Borås

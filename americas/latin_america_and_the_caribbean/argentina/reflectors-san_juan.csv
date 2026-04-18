@@ -1,3 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-45.226.226.251,4,255,Ookla Speedtest Server 44469: speedtest.zetro.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,San Juan,,Albardón
-190.124.224.11,4,20,unsj.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,San Juan,,San Juan
+143.0.170.144,4,22,Ookla Speedtest Server 35942: speedtest.interredes.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,San Juan,,Santa Lucía
+45.226.226.251,4,8,Ookla Speedtest Server 44469: speedtest.zetro.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,San Juan,,Pocito
+201.250.0.190,4,-5,Ookla Speedtest Server 47849: speedtest.fibrasanjuan.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,San Juan,,San Juan
+128.201.80.205,4,-9,Ookla Speedtest Server 70946: spes.gpscom.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,San Juan,,Rawson
+190.9.70.32,4,3330,Ookla Speedtest Server 74341: speedtest.tdtnet.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,San Juan,,San Juan

@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-91.212.25.233,4,367,Ookla Speedtest Server 7233: speedtest.interka.pl,PL,Europe,Eastern Europe,Poland,Opole Voivodeship,,Olesno
+79.162.192.189,4,25134,DNS Server: 79.162.192.189.ipv4.public.orange.pl,PL,Europe,Eastern Europe,Poland,Opole Voivodeship,,Olesno
+79.162.199.119,4,84,DNS Server: 79.162.199.119.ipv4.public.orange.pl,PL,Europe,Eastern Europe,Poland,Opole Voivodeship,,Olesno
+91.212.25.233,4,-1,Ookla Speedtest Server 7233: speedtest.interka.pl,PL,Europe,Eastern Europe,Poland,Opole Voivodeship,,Olesno

@@ -1,3 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-193.205.80.99,4,6,sssup.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Pisa,Pisa
-131.114.73.85,4,87,unipi.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Pisa,Pisa
+146.48.123.9,4,1,d4science.org,IT,Europe,Southern Europe,Italy,Tuscany,Province of Pisa,Pisa
+146.48.123.22,4,-2,europeanfilmgateway.eu,IT,Europe,Southern Europe,Italy,Tuscany,Province of Pisa,Pisa
+193.205.80.99,4,20,sssup.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Pisa,Pisa
+131.114.73.85,4,10,unipi.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Pisa,Pisa

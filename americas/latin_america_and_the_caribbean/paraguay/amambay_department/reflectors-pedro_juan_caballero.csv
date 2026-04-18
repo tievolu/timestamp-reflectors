@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-45.238.38.14,4,46802,Ookla Speedtest Server: speedtest.sfanetwork.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Amambay Department,,Pedro Juan Caballero
+45.238.37.54,4,26011,DNS Server: ip-45-238-37-54.pool-0-37-238-45.globaldelta.net,PY,Americas,Latin America and the Caribbean,Paraguay,Amambay Department,,Pedro Juan Caballero
+45.180.114.250,4,15,Ookla Speedtest Server 12738: test.link.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Amambay Department,,Pedro Juan Caballero
+45.238.38.14,4,11549,Ookla Speedtest Server 46088: speedtest.sfanetwork.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Amambay Department,,Pedro Juan Caballero
+45.180.180.254,4,3,Ookla Speedtest Server 48311: speedtest.lanet.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Amambay Department,,Pedro Juan Caballero

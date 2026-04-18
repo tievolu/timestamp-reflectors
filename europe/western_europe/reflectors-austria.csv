@@ -1,493 +1,650 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-188.65.74.71,4,5,1000ps.at,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
-188.65.73.62,4,4,1000ps.de,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
-188.65.74.76,4,6,1000ps.net,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
-185.145.132.59,4,3,9jacommunity.com,AT,Europe,Western Europe,Austria,,,
-185.145.132.46,4,2,9jaweb.co.uk,AT,Europe,Western Europe,Austria,,,
+188.65.74.71,4,15,1000ps.at,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
+188.65.73.62,4,37,1000ps.de,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
+188.65.74.76,4,7,1000ps.net,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
+93.189.24.51,4,1675,12termann.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+185.145.132.46,4,-33211,9jadates.com,AT,Europe,Western Europe,Austria,,,
 185.145.132.47,4,3,9jaweb.co.uk,AT,Europe,Western Europe,Austria,,,
-84.242.9.222,4,47,a-trust.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-193.58.164.14,4,17,achensee.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-37.252.187.234,4,18,aerztezeitung.at,AT,Europe,Western Europe,Austria,,,
-85.233.121.46,4,5,agru.at,AT,Europe,Western Europe,Austria,Lower Austria,,Haidershofen
-213.145.224.50,4,15,aids.at,AT,Europe,Western Europe,Austria,,,
-193.170.200.75,4,1,akbild.ac.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-95.129.200.41,4,30,akis.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-213.208.134.165,4,16,algo.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-86.59.21.20,4,4,amd.co.at,AT,Europe,Western Europe,Austria,,,
-37.252.191.252,4,3,amiblu.com,AT,Europe,Western Europe,Austria,,,
-185.77.253.13,4,30,andritz.com,AT,Europe,Western Europe,Austria,,,
-188.172.220.146,4,40,anexia.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+84.242.9.222,4,1,a-trust.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+193.58.164.14,4,11,achensee.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+213.145.225.160,4,-2,across-magazine.com,AT,Europe,Western Europe,Austria,,,
+94.247.144.143,4,2,adeg.at,AT,Europe,Western Europe,Austria,,,
+37.252.187.234,4,-20,aerztezeitung.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+85.233.121.46,4,20,agru.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
+213.145.224.50,4,-10,aids.at,AT,Europe,Western Europe,Austria,,,
+152.53.31.62,4,-5,air802.cl,AT,Europe,Western Europe,Austria,,,
+193.170.200.75,4,133,akbild.ac.at,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
+95.129.200.41,4,-3,akis.at,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+152.53.228.158,4,40,alfacareers.com,AT,Europe,Western Europe,Austria,,,
+213.208.134.165,4,34,algo.at,AT,Europe,Western Europe,Austria,,,
+217.196.146.166,4,-4,alpenblick.at,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
+86.59.21.20,4,4,amd.co.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+37.252.191.252,4,7,amiblu.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+185.77.253.13,4,-39,andritz.com,AT,Europe,Western Europe,Austria,,,
+188.172.220.146,4,11,anexia.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 213.145.235.250,4,489,apertus.org,AT,Europe,Western Europe,Austria,,,
-37.252.191.192,4,14,apothekerkammer.at,AT,Europe,Western Europe,Austria,,,
-212.152.181.203,4,10,aps-hl.at,AT,Europe,Western Europe,Austria,Carinthia,,Spittal an der Drau
-188.172.246.5,4,60,arbeiterkammer.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-95.129.200.19,4,28458,architektenlexikon.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-85.158.227.121,4,8,archivinformationssystem.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-185.230.132.68,4,51,ardv.at,AT,Europe,Western Europe,Austria,Lower Austria,,Waldkirchen an der Thaya
-94.198.137.80,4,4,askoe.at,AT,Europe,Western Europe,Austria,Tyrol,,
-91.220.179.203,4,51,aspr.ac.at,AT,Europe,Western Europe,Austria,,,
-188.172.204.124,4,30,auersignal.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-185.165.188.52,4,-22,aupairinfrance.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-94.198.139.112,4,70,aureliolech.com,AT,Europe,Western Europe,Austria,Tyrol,,
-193.58.164.187,4,21,austrialpin.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-212.232.25.98,4,11,austrian.audio,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+37.252.191.192,4,13,apothekerkammer.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+212.152.181.203,4,10,aps-hl.at,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
+185.52.189.12,4,-7,arabcasinodirectory.com,AT,Europe,Western Europe,Austria,,,
+188.172.246.5,4,-2,arbeiterkammer.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+193.19.92.130,4,42,arc2020.eu,AT,Europe,Western Europe,Austria,,,
+95.129.200.19,4,1034778,architektenlexikon.at,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+85.158.227.121,4,16,archivinformationssystem.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+185.230.132.68,4,51,ardv.at,AT,Europe,Western Europe,Austria,Lower Austria,,Jaidhof
+152.53.37.15,4,-6,armstrongguardservices.com,AT,Europe,Western Europe,Austria,,,
+83.164.133.11,4,21,artweger.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
+94.198.137.80,4,-1,askoe.at,AT,Europe,Western Europe,Austria,Tyrol,,
+217.196.146.168,4,-3,aspoeck.com,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
+91.220.179.203,4,5,aspr.ac.at,AT,Europe,Western Europe,Austria,,,
+188.172.204.124,4,8,auersignal.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+94.198.139.112,4,-2,aureliolech.com,AT,Europe,Western Europe,Austria,Tyrol,,
+193.58.164.187,4,41,austrialpin.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+212.232.25.98,4,15,austrian.audio,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 185.106.248.181,4,22,austriatech.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-188.172.246.11,4,9,awblog.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-195.189.4.150,4,15,awekas.at,AT,Europe,Western Europe,Austria,Upper Austria,,Kirchdorf an der Krems
-193.58.164.62,4,9,badkleinkirchheim.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-213.145.225.140,4,12,basketballaustria.at,AT,Europe,Western Europe,Austria,,,
-188.172.205.214,4,22,beachvolleyball.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-95.129.200.37,4,8,beigewum.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-217.196.145.51,4,25,belphegor.at,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
-213.145.228.32,4,5,bergnews.com,AT,Europe,Western Europe,Austria,,,
+185.230.217.38,4,33,autoitscript.com,AT,Europe,Western Europe,Austria,,,
+86.106.183.207,4,-3,avionio.com,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+188.172.246.11,4,4,awblog.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+195.189.4.150,4,9,awekas.at,AT,Europe,Western Europe,Austria,Upper Austria,,Schlierbach
+193.58.164.62,4,2,badkleinkirchheim.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+213.145.225.140,4,41,basketballaustria.at,AT,Europe,Western Europe,Austria,,,
+193.58.165.26,4,3,bbt-se.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+95.129.200.53,4,-40,beigewum.at,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+95.129.200.37,4,8,beigewum.at,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+217.196.145.51,4,0,belphegor.at,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
+213.145.228.32,4,-3,bergnews.com,AT,Europe,Western Europe,Austria,,,
 193.58.164.24,4,4,bergsteigen.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-86.59.12.35,4,5,berufslexikon.at,AT,Europe,Western Europe,Austria,,,
-92.60.15.11,4,6,bewerberportal.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-94.247.150.18,4,3288,bezirksmuseum.at,AT,Europe,Western Europe,Austria,,,
+213.145.224.100,4,8,bergsteigerdoerfer.org,AT,Europe,Western Europe,Austria,,,
+193.58.164.15,4,41,best-of-zillertal.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+109.70.103.103,4,-2,betting-india.pro,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+83.68.128.0,4,-13,betting-tips.africa,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+92.60.15.11,4,1,bewerberportal.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+94.247.150.18,4,5419,bezirksmuseum.at,AT,Europe,Western Europe,Austria,,,
 188.172.243.186,4,15,bildrecht.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 213.145.225.40,4,4,bio.top,AT,Europe,Western Europe,Austria,,,
-86.59.12.41,4,3,biomasseverband.at,AT,Europe,Western Europe,Austria,,,
-195.2.221.102,4,4,biorama.eu,AT,Europe,Western Europe,Austria,,,
-80.243.168.87,4,-53475,biz-up.at,AT,Europe,Western Europe,Austria,Upper Austria,,Wels
-185.9.19.61,4,4,bpackindustries.in,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-195.190.26.235,4,64,brauwelt.at,AT,Europe,Western Europe,Austria,,,
+195.2.221.102,4,35,biorama.eu,AT,Europe,Western Europe,Austria,,,
+213.145.224.160,4,7,biosphaerenpark.eu,AT,Europe,Western Europe,Austria,,,
+152.53.45.184,4,-2,bondi.de,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+213.208.144.106,4,-26,bonus-parissportifs-gratuits.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+195.69.174.6,4,-10,bonusscommesse.pro,AT,Europe,Western Europe,Austria,,,
+195.190.26.235,4,19,brauwelt.at,AT,Europe,Western Europe,Austria,,,
+83.65.7.61,4,8,bruckneruni.ac.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 62.99.143.89,4,5,bruckneruni.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 213.145.225.170,4,21,buehnehollenthon.at,AT,Europe,Western Europe,Austria,,,
-37.235.56.160,4,5,bundesfeuerwehrverband.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-93.189.25.130,4,7,burlesque-show.at,AT,Europe,Western Europe,Austria,,,
-185.126.21.107,4,10,c02.at,AT,Europe,Western Europe,Austria,,,
-31.14.17.118,4,5,cdkeysforgames.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-83.218.188.110,4,9,checkeffect.at,AT,Europe,Western Europe,Austria,Tyrol,,
+93.189.25.130,4,7,burlesque-show.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+185.126.21.107,4,10,c02.at,AT,Europe,Western Europe,Austria,Lower Austria,,Schönau an der Triesting
+152.53.126.17,4,2,c64-wiki.com,AT,Europe,Western Europe,Austria,,,
+152.53.123.230,4,-2,canaleenergia.com,AT,Europe,Western Europe,Austria,,,
+193.22.104.22,4,-9,car4you.at,AT,Europe,Western Europe,Austria,,,
+109.70.103.97,4,0,casasdeapuestas-colombia.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+193.170.194.51,4,3,cba.media,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
+31.14.17.118,4,5,cdkeysforgames.com,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+31.14.17.179,4,0,census2011.co.in,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+83.218.188.110,4,-12,checkeffect.at,AT,Europe,Western Europe,Austria,Tyrol,,
 194.24.129.73,4,7,chelsea.co.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-91.220.179.205,4,18,cityfoto.at,AT,Europe,Western Europe,Austria,,,
-82.150.209.245,4,5,climbers-paradise.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-85.31.0.51,4,2,colop.com,AT,Europe,Western Europe,Austria,Upper Austria,,Wels
-94.247.150.64,4,897,cooph.com,AT,Europe,Western Europe,Austria,,,
-82.218.183.50,4,6,cyano.at,AT,Europe,Western Europe,Austria,Lower Austria,,Amstetten
-195.2.220.21,4,-288675,dancecharts.at,AT,Europe,Western Europe,Austria,,,
-109.70.102.206,4,13,danube-region.eu,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-77.244.246.165,4,3,ddsg-blue-danube.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-195.2.220.65,4,149,debra-austria.org,AT,Europe,Western Europe,Austria,,,
-77.244.242.187,4,27,deepsec.net,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-194.116.243.40,4,101,derstandard.de,AT,Europe,Western Europe,Austria,Lower Austria,,Perchtoldsdorf
-91.143.108.102,4,50,diagonale.at,AT,Europe,Western Europe,Austria,Styria,,Graz
-94.247.150.222,4,11,diakonie.at,AT,Europe,Western Europe,Austria,,,
-93.189.24.51,4,3,diekassa.at,AT,Europe,Western Europe,Austria,,,
-194.116.243.43,4,3,diestandard.at,AT,Europe,Western Europe,Austria,Lower Austria,,Perchtoldsdorf
+152.53.85.61,4,21021,chromjuwelen.com,AT,Europe,Western Europe,Austria,,,
+152.53.239.248,4,-20,cideu.org,AT,Europe,Western Europe,Austria,,,
+89.58.21.20,4,27,citizen-science.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+91.220.179.205,4,-9,cityfoto.at,AT,Europe,Western Europe,Austria,,,
+193.58.165.25,4,0,climbers-paradise.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+94.247.150.64,4,19768,cooph.com,AT,Europe,Western Europe,Austria,,,
+62.212.187.3,4,36,crowdcoopfunding.at,AT,Europe,Western Europe,Austria,Lower Austria,,Grosspertholz
+82.218.183.50,4,6,cyano.at,AT,Europe,Western Europe,Austria,Lower Austria,,Tulln
+152.53.1.206,4,9,dabamos.de,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+195.2.220.21,4,-3819819,dancecharts.at,AT,Europe,Western Europe,Austria,,,
+109.70.102.206,4,-5,danube-region.eu,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+77.244.242.187,4,98339,deepsec.net,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+5.183.217.19,4,21,dermann.at,AT,Europe,Western Europe,Austria,,,
+194.116.243.40,4,-17,derstandard.de,AT,Europe,Western Europe,Austria,Lower Austria,,Zwölfaxing
+91.143.108.102,4,15,diagonale.at,AT,Europe,Western Europe,Austria,Styria,,Graz
+94.247.150.222,4,33,diakonie.at,AT,Europe,Western Europe,Austria,,,
+194.116.243.43,4,28,diestandard.at,AT,Europe,Western Europe,Austria,Lower Austria,,Zwölfaxing
+110.172.148.110,4,21,diggita.com,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
 91.212.136.42,4,14,digitalcity.wien,AT,Europe,Western Europe,Austria,,,
-77.244.243.43,4,4,dkt.co.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-78.132.50.222,4,-15726101,DNS Server: 078132050222.public.t-mobile.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-78.132.106.136,4,2,DNS Server: 078132106136.public.t-mobile.at,AT,Europe,Western Europe,Austria,Upper Austria,,Redlham
+77.244.243.43,4,-6,dkt.co.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+78.132.15.3,4,-2277802560,DNS Server: 078132015003.public.t-mobile.at,AT,Europe,Western Europe,Austria,,,
+194.208.13.7,4,-4,DNS Server: 194-208-013-007.tele.net,AT,Europe,Western Europe,Austria,Vorarlberg,,Rankweil
 194.24.138.78,4,4,DNS Server: 194.24.138.78.wireless.dyn.drei.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-195.192.106.49,4,5348,DNS Server: 195-192-106-49.dyn.cablelink.at,AT,Europe,Western Europe,Austria,Styria,,Gröbming
-195.192.18.201,4,220,DNS Server: 195-192-18-201.stat.cablelink.at,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
-195.192.8.98,4,-2143643808,DNS Server: 195-192-8-98.stat.cablelink.at,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
-195.192.86.170,4,11,DNS Server: 195-192-86-170.dyn.cablelink.at,AT,Europe,Western Europe,Austria,Salzburg,,Annaberg im Lammertal
-2.56.163.36,4,71868,DNS Server: 2.56.163.36.dyn.kraftcom.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-212.236.18.126,4,101,DNS Server: 212-236-018-126.telecom5.net,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-151.236.4.50,4,4,DNS Server: 50-4-236-151.static.edis.at,AT,Europe,Western Europe,Austria,,,
-77.119.240.124,4,734,DNS Server: 77.119.240.124.static.drei.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-80.80.244.225,4,790780,DNS Server: 80-80-244-225.stat.stw-net.at,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
-80.80.244.235,4,790850,DNS Server: 80-80-244-235.stat.stw-net.at,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
-80.80.245.46,4,5888,DNS Server: 80-80-245-46.stat.stw-net.at,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
-80.93.37.202,4,-3599100,DNS Server: 80-93-37-202.static.kufnet.at,AT,Europe,Western Europe,Austria,Tyrol,,Kufstein
-81.223.155.17,4,62,DNS Server: 81-223-155-17.static.upcbusiness.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-82.194.131.72,4,33898,DNS Server: 82-194-131-72.dyn.salzburg-online.at,AT,Europe,Western Europe,Austria,Salzburg,,Altenmarkt im Pongau
-83.65.242.41,4,16,DNS Server: 83-65-242-41.static.upcbusiness.at,AT,Europe,Western Europe,Austria,Vorarlberg,,Dornbirn
-89.185.98.109,4,2,DNS Server: 89.185.98.109.net.netplanet.at,AT,Europe,Western Europe,Austria,Lower Austria,,Seitenstetten Markt
-91.115.246.156,4,-1057,DNS Server: 91-115-246-156.adsl.highway.telekom.at,AT,Europe,Western Europe,Austria,Tyrol,,Steinach am Brenner
-91.133.78.17,4,100,DNS Server: 91-133-78-17.stat.cablelink.at,AT,Europe,Western Europe,Austria,Salzburg,,Wals
-94.136.99.250,4,5,DNS Server: 94-136-99-250.static.net4you.net,AT,Europe,Western Europe,Austria,,,
-92.39.169.159,4,33038,DNS Server: customer.kabel-braunau.tv,AT,Europe,Western Europe,Austria,Upper Austria,,Braunau am Inn
-82.218.161.241,4,80,DNS Server: h082218161241.host.kabsi.at,AT,Europe,Western Europe,Austria,Lower Austria,,Mödling
-82.218.186.177,4,26592,DNS Server: h082218186177.host.wavenet.at,AT,Europe,Western Europe,Austria,Lower Austria,,Ruprechtshofen
-195.234.100.25,4,708120,DNS Server: IOO-25.static.anw.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-62.99.231.229,4,11068,DNS Server: mail.x-net.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-83.219.168.152,4,53906,DNS Server: p83-219-168-152.snwdip.snw.at,AT,Europe,Western Europe,Austria,Tyrol,,Wörgl
-89.185.121.250,4,300,DNS Server: pns1.netplanet.at,AT,Europe,Western Europe,Austria,Lower Austria,,Perchtoldsdorf
+195.192.8.98,4,-2142877092,DNS Server: 195-192-8-98.stat.cablelink.at,AT,Europe,Western Europe,Austria,Salzburg,,Filzmoos
+195.192.86.170,4,-2,DNS Server: 195-192-86-170.dyn.cablelink.at,AT,Europe,Western Europe,Austria,Salzburg,,Elsbethen
+195.192.9.141,4,16198,DNS Server: 195-192-9-141.stat.cablelink.at,AT,Europe,Western Europe,Austria,Salzburg,,Filzmoos
+195.70.113.203,4,156484,DNS Server: 195-70-113-203.stat.salzburg-online.at,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
+212.236.18.126,4,-2,DNS Server: 212-236-018-126.telecom5.net,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+77.119.232.100,4,163376,DNS Server: 77.119.232.100.static.drei.at,AT,Europe,Western Europe,Austria,Lower Austria,,Mödling
+80.80.244.225,4,1494445,DNS Server: 80-80-244-225.stat.stw-net.at,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
+80.80.244.235,4,1494445,DNS Server: 80-80-244-235.stat.stw-net.at,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
+80.93.37.202,4,-3598443,DNS Server: 80-93-37-202.static.kufnet.at,AT,Europe,Western Europe,Austria,Tyrol,,Kufstein
+81.223.155.17,4,-1,DNS Server: 81-223-155-17.static.upcbusiness.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+83.215.238.42,4,3,DNS Server: 83-215-238-42.stmi.stat.salzburg-online.at,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
+83.215.94.71,4,-27138,DNS Server: 83-215-94-71.stjo.dyn.salzburg-online.at,AT,Europe,Western Europe,Austria,Salzburg,,Sankt Veit im Pongau
+83.64.142.210,4,-12,DNS Server: 83-64-142-210.static.upcbusiness.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+83.65.242.41,4,-1,DNS Server: 83-65-242-41.static.upcbusiness.at,AT,Europe,Western Europe,Austria,Vorarlberg,,Dornbirn
+83.65.7.54,4,-2,DNS Server: 83-65-7-54.static.upcbusiness.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+89.185.98.109,4,-4,DNS Server: 89.185.98.109.net.netplanet.at,AT,Europe,Western Europe,Austria,Carinthia,,Grafenstein
+91.133.78.17,4,-6,DNS Server: 91-133-78-17.stat.cablelink.at,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
+91.222.93.252,4,-30457,DNS Server: 91.222.92.252.steirerlan.at,AT,Europe,Western Europe,Austria,Styria,,Fresing
+83.175.101.244,4,16,DNS Server: clnet-p101-244.ikbnet.co.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+83.175.105.182,4,-4,DNS Server: clnet-p105-182.ikbnet.co.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+82.218.161.241,4,-1,DNS Server: h082218161241.host.kabsi.at,AT,Europe,Western Europe,Austria,,,
+195.234.100.25,4,255754,DNS Server: IOO-25.static.anw.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+80.120.198.50,4,80247,DNS Server: is50.schneid.at,AT,Europe,Western Europe,Austria,Burgenland,,Deutsch Kaltenbrunn
+88.116.69.18,4,-4,DNS Server: mail.anrei.at,AT,Europe,Western Europe,Austria,Upper Austria,,Steyr
+80.122.230.10,4,-3,DNS Server: mail.clevercarsolution.eu,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
+62.99.231.229,4,-1,DNS Server: mail.x-net.at,AT,Europe,Western Europe,Austria,Styria,,Graz
+89.185.121.250,4,-5,DNS Server: pns1.netplanet.at,AT,Europe,Western Europe,Austria,Lower Austria,,Lanzendorf
+77.237.53.202,4,-3,DNS Server: sde.fh-campuswien.ac.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+109.70.103.135,4,-3,DNS Server: stat-109-70-103-135.customers.nextlayer.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+92.61.49.154,4,-11,DNS Server: static-92-61-49-154.wnt.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+89.58.60.58,4,-4,DNS Server: v2202212189609211474.quicksrv.de,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+94.198.41.235,4,-3,DoH server: cs-austria,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+152.53.130.105,4,-4,DoH server: dns.datenquark.de,AT,Europe,Western Europe,Austria,,,
+185.69.161.122,4,-1119627,DoH server: dns.fancyorg.at,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
+83.138.55.186,4,-4,DoH server: dnscry.pt-vienna-ipv4,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
 213.145.228.49,4,-4,domaintechnik.at,AT,Europe,Western Europe,Austria,,,
-193.170.99.77,4,80,dorftv.at,AT,Europe,Western Europe,Austria,Styria,,Graz
+193.170.99.77,4,25,dorftv.at,AT,Europe,Western Europe,Austria,Upper Austria,,Vorchdorf
 195.66.92.212,4,19,drittemanntour.at,AT,Europe,Western Europe,Austria,,,
-95.129.206.155,4,2,dschungelwien.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-185.202.195.49,4,-3,eanm.org,AT,Europe,Western Europe,Austria,,,
+95.129.206.155,4,-6,dschungelwien.at,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+185.202.195.49,4,-35,eanm.org,AT,Europe,Western Europe,Austria,,,
 77.244.243.2,4,28,easyname.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 213.145.224.200,4,8,ecdl.at,AT,Europe,Western Europe,Austria,,,
-62.218.211.243,4,7,ecology.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-91.227.205.233,4,2,edis.at,AT,Europe,Western Europe,Austria,,,
-185.165.188.111,4,-32,eidoo.io,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-185.165.188.101,4,-30,eidoo.io,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+152.53.36.14,4,-15,ecfs.org,AT,Europe,Western Europe,Austria,,,
+83.218.161.111,4,-7,edelweiss-gurgl.com,AT,Europe,Western Europe,Austria,Tyrol,,
+91.227.205.233,4,-23,edis.at,AT,Europe,Western Europe,Austria,,,
 77.244.243.38,4,35,einfachcreativ.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-83.218.188.148,4,51,eishockey.at,AT,Europe,Western Europe,Austria,Tyrol,,
-37.252.191.191,4,4,energyagency.at,AT,Europe,Western Europe,Austria,,,
-213.145.228.130,4,33,enhydra.org,AT,Europe,Western Europe,Austria,,,
-213.208.135.157,4,-305,ergotherapie.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-193.58.164.15,4,90,erlebnistherme-zillertal.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-5.183.217.106,4,21,eurospine.org,AT,Europe,Western Europe,Austria,,,
-92.42.139.5,4,9,evermeet.cx,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-80.243.171.226,4,288345,eww.at,AT,Europe,Western Europe,Austria,Upper Austria,,Wels
-38.180.59.132,4,9,explay.ru,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-94.247.146.105,4,4,fahrradwien.at,AT,Europe,Western Europe,Austria,,,
-193.171.119.194,4,6,fh-kaernten.at,AT,Europe,Western Europe,Austria,Styria,,Graz
+83.218.188.148,4,16,eishockey.at,AT,Europe,Western Europe,Austria,Tyrol,,
+37.252.191.191,4,-11,energyagency.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+213.145.228.130,4,-6,enhydra.org,AT,Europe,Western Europe,Austria,,,
+213.208.135.157,4,-43827,ergotherapie.at,AT,Europe,Western Europe,Austria,,,
+193.200.112.144,4,19,esf.at,AT,Europe,Western Europe,Austria,,,
+152.53.51.119,4,-1,eupolicy.social,AT,Europe,Western Europe,Austria,,,
+152.53.2.36,4,27,eventradeltd.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+152.53.38.219,4,115675,everburninglight.org,AT,Europe,Western Europe,Austria,,,
+92.42.139.5,4,10,evermeet.cx,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+80.243.171.226,4,5,eww.at,AT,Europe,Western Europe,Austria,Upper Austria,,Wels
+213.145.224.13,4,-17,familienhotel-berger.at,AT,Europe,Western Europe,Austria,,,
+152.53.19.3,4,-7,feddit.rocks,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+193.171.119.194,4,-1,fh-kaernten.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+91.220.179.26,4,21,fieberbrunn.com,AT,Europe,Western Europe,Austria,,,
 91.220.179.202,4,25,fieberbrunn.com,AT,Europe,Western Europe,Austria,,,
-95.129.200.133,4,6,filmarchiv.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-78.41.115.142,4,16,financialcryptography.com,AT,Europe,Western Europe,Austria,,,
-89.58.21.15,4,12,finest-rock.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-185.216.8.53,4,10,flex.at,AT,Europe,Western Europe,Austria,,,
-188.172.236.220,4,8,forbes.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+95.129.200.133,4,6,filmarchiv.at,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+152.53.102.191,4,58638,finanzrechner.at,AT,Europe,Western Europe,Austria,,,
+185.126.208.105,4,9,flachau.com,AT,Europe,Western Europe,Austria,,,
+188.172.236.220,4,2,forbes.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 213.145.228.113,4,118,fort-robson.com,AT,Europe,Western Europe,Austria,,,
+146.255.56.98,4,12687,Foundation for Applied Privacy,AT,Europe,Western Europe,Austria,Lower Austria,,Wiener Neudorf
 193.58.164.72,4,28,fragsburg.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+45.142.242.66,4,-12,frauscher.com,AT,Europe,Western Europe,Austria,,,
+45.142.242.67,4,34,frauscher.com,AT,Europe,Western Europe,Austria,,,
 45.142.242.115,4,6,frauscher.com,AT,Europe,Western Europe,Austria,,,
-217.19.44.151,4,23,freytagberndt.com,AT,Europe,Western Europe,Austria,,,
-193.170.194.31,4,28,fro.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-37.252.191.54,4,5,fsw.at,AT,Europe,Western Europe,Austria,,,
-92.60.5.121,4,4,fundus.org,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-195.69.174.7,4,11,fussball-wm.pro,AT,Europe,Western Europe,Austria,,,
+193.58.164.76,4,2,freizeit-tirol.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+217.19.44.151,4,0,freytagberndt.com,AT,Europe,Western Europe,Austria,,,
+193.170.194.31,4,-2,fro.at,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
+37.252.191.54,4,45,fsw.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+193.58.165.7,4,11,fuessen.de,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+92.60.5.121,4,-1,fundus.org,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+195.69.174.7,4,-7,fussball-wm.pro,AT,Europe,Western Europe,Austria,,,
 45.141.58.30,4,4,fviplions.com,AT,Europe,Western Europe,Austria,,,
-94.247.150.90,4,26,gallup-international.com,AT,Europe,Western Europe,Austria,,,
+94.247.150.90,4,-18,gallup-international.bg,AT,Europe,Western Europe,Austria,,,
 83.68.131.86,4,8,game-city.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-92.42.142.45,4,34,gamers.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 195.133.88.19,4,5,gancio.org,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-193.58.164.107,4,24,gastein.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-62.212.166.203,4,23,gea-waldviertler.at,AT,Europe,Western Europe,Austria,Lower Austria,,Grosspertholz
-83.65.7.36,4,1,gemeinwohl-oekonomie.org,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+93.189.31.130,4,-9,ganz-wien.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+193.58.164.107,4,10,gastein.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+38.180.197.118,4,7,gcrio.org,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+62.212.166.203,4,-7,gea-waldviertler.at,AT,Europe,Western Europe,Austria,Lower Austria,,Schrems
+83.65.7.36,4,-2,gemeinwohl-oekonomie.org,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 77.75.18.20,4,4,geomix.at,AT,Europe,Western Europe,Austria,,,
-193.58.164.202,4,3,glungezerbahn.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-5.11.3.133,4,20,goed.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-37.252.187.59,4,28,goinginternational.eu,AT,Europe,Western Europe,Austria,,,
-217.196.145.112,4,4,golf-zellamsee.at,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
-5.11.3.67,4,24,gpa-djp.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+152.53.37.117,4,-6,giggetter.com,AT,Europe,Western Europe,Austria,,,
+152.53.160.254,4,317,gitslayer.de,AT,Europe,Western Europe,Austria,,,
+152.53.1.108,4,9,glacisbeisl.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+91.244.70.99,4,17,glaspodravine.hr,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+193.58.164.202,4,-1,glungezerbahn.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+5.11.3.133,4,11,goed.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+37.252.187.59,4,-7,goinginternational.eu,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+217.196.145.112,4,18,golf-zellamsee.at,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
+38.180.197.17,4,5,googlewhack.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 193.200.113.78,4,31,grabner.com,AT,Europe,Western Europe,Austria,,,
+185.51.199.73,4,-5,grazmuseum.at,AT,Europe,Western Europe,Austria,,,
 193.200.113.179,4,5,grazmuseum.at,AT,Europe,Western Europe,Austria,,,
-193.58.164.193,4,42,grobgroup.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+202.61.209.108,4,2,grml.org,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+193.58.164.193,4,22,grobgroup.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
 152.53.66.7,4,21,grocy.info,AT,Europe,Western Europe,Austria,,,
+185.126.208.45,4,-7,grossarltal.info,AT,Europe,Western Europe,Austria,,,
 91.220.179.240,4,15,gutesvombauernhof.at,AT,Europe,Western Europe,Austria,,,
-213.145.228.120,4,3,hall-tirol.at,AT,Europe,Western Europe,Austria,,,
-94.247.146.85,4,22,handelsverband.at,AT,Europe,Western Europe,Austria,,,
-213.145.233.31,4,513,hartgeld.com,AT,Europe,Western Europe,Austria,,,
-94.136.19.132,4,31,haschek.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+213.145.228.120,4,-3,hall-tirol.at,AT,Europe,Western Europe,Austria,,,
+94.247.146.85,4,1,handelsverband.at,AT,Europe,Western Europe,Austria,,,
+176.123.54.43,4,-1,happysound.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+213.145.233.31,4,372,hartgeld.com,AT,Europe,Western Europe,Austria,,,
 195.2.220.41,4,-2,hb.at,AT,Europe,Western Europe,Austria,,,
 94.136.29.72,4,18,hearonymus.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-213.208.133.110,4,-560170,heimat.eu,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-193.58.164.102,4,3,hg-pharma.shop,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-213.145.225.190,4,17,hilfsgemeinschaft.at,AT,Europe,Western Europe,Austria,,,
+213.208.133.110,4,-2565358,heim.at,AT,Europe,Western Europe,Austria,,,
+80.75.252.30,4,9769,hereke.at,AT,Europe,Western Europe,Austria,Lower Austria,,Seebenstein
+152.53.93.57,4,-11,hgm.at,AT,Europe,Western Europe,Austria,,,
+185.124.144.27,4,-11,highline179.tirol,AT,Europe,Western Europe,Austria,Tyrol,,
+213.145.225.190,4,-13,hilfsgemeinschaft.at,AT,Europe,Western Europe,Austria,,,
 94.247.150.29,4,875,hirterbier.at,AT,Europe,Western Europe,Austria,,,
+83.218.161.101,4,0,hno.at,AT,Europe,Western Europe,Austria,Tyrol,,
 94.136.30.253,4,5,hoanzl.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-193.58.164.57,4,13,hochfuegenski.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-193.58.164.208,4,20,hochschober.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+193.58.164.57,4,-18,hochfuegenski.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+193.58.164.208,4,0,hochschober.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
 217.175.202.148,4,16,hookipapharma.com,AT,Europe,Western Europe,Austria,,,
-213.145.225.30,4,10,horx.com,AT,Europe,Western Europe,Austria,,,
+213.145.225.30,4,-2,horx.com,AT,Europe,Western Europe,Austria,,,
 185.229.88.49,4,66,hosttech.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-37.252.187.37,4,10,hs.at,AT,Europe,Western Europe,Austria,,,
-144.208.16.59,4,3,hypovbg.at,AT,Europe,Western Europe,Austria,,,
+188.172.241.180,4,10,hot.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+193.58.165.55,4,-2,hotel-cafe-central.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+93.189.24.55,4,14,houseofstrauss.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+37.252.187.37,4,10,hs.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+185.229.88.137,4,0,hubertvongoisern.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+91.220.179.84,4,33,humantechnology.at,AT,Europe,Western Europe,Austria,,,
+144.208.16.59,4,0,hypovbg.at,AT,Europe,Western Europe,Austria,,,
+78.41.115.142,4,-21,iang.org,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 140.78.118.194,4,5,icchp.org,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
+213.145.233.94,4,0,ice.hockey,AT,Europe,Western Europe,Austria,,,
+185.51.199.74,4,-3,icmpd.org,AT,Europe,Western Europe,Austria,,,
 94.247.150.115,4,19,icmpd.org,AT,Europe,Western Europe,Austria,,,
-213.145.225.110,4,6,iiid.net,AT,Europe,Western Europe,Austria,,,
-91.221.138.142,4,12,impulstanz.com,AT,Europe,Western Europe,Austria,,,
-185.37.106.106,4,51,inits.at,AT,Europe,Western Europe,Austria,,,
-82.150.218.3,4,49,innsbruck.info,AT,Europe,Western Europe,Austria,Tyrol,,Seefeld in Tirol
-212.126.64.28,4,6,internic.at,AT,Europe,Western Europe,Austria,,,
-93.189.24.207,4,4,ipax.at,AT,Europe,Western Europe,Austria,,,
-78.142.177.118,4,7,ipv6-spider.com,AT,Europe,Western Europe,Austria,Lower Austria,,Hetzmannsdorf
-193.170.194.206,4,3,irational.org,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+78.104.136.166,4,31,ihs.ac.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+213.145.225.110,4,-3,iiid.net,AT,Europe,Western Europe,Austria,,,
+83.138.55.133,4,-36,ilikevents.com,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+91.221.138.142,4,107355,impulstanz.com,AT,Europe,Western Europe,Austria,,,
+185.126.208.46,4,6,imst.at,AT,Europe,Western Europe,Austria,,,
+185.37.106.106,4,33,inits.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+193.58.164.108,4,-4,innsbruck.info,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+212.126.64.28,4,-26,internic.at,AT,Europe,Western Europe,Austria,,,
+93.189.24.206,4,-11,ipax.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+93.189.24.207,4,4,ipax.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+193.170.194.206,4,-1,irational.org,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
 212.232.25.226,4,8,isovolta.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-37.252.235.242,4,9,itwelt.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-193.58.164.118,4,10,ivb.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+37.252.189.154,4,-5,ispa.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+37.252.235.242,4,-18,itwelt.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+193.58.164.118,4,36,ivb.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+152.53.231.116,4,-7,ixbrowser.com,AT,Europe,Western Europe,Austria,,,
+152.53.229.225,4,-7,ixspy.com,AT,Europe,Western Europe,Austria,,,
+89.58.62.143,4,-8,jackbondpreston.me,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 94.136.22.101,4,3,jaw.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-213.145.228.110,4,29,jetticket.net,AT,Europe,Western Europe,Austria,,,
-140.78.3.160,4,2,jku.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
-83.65.141.131,4,2,johammer.com,AT,Europe,Western Europe,Austria,Tyrol,,Kundl
-37.252.185.123,4,3,juandiegoflorez.com,AT,Europe,Western Europe,Austria,,,
-94.136.22.133,4,2,kapper.net,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-83.218.188.107,4,2,kaprun.at,AT,Europe,Western Europe,Austria,Tyrol,,
-195.2.200.149,4,27,kastner-oehler.at,AT,Europe,Western Europe,Austria,,,
-213.145.228.64,4,33,katschberg.at,AT,Europe,Western Europe,Austria,,,
-213.145.228.170,4,15,katschi.at,AT,Europe,Western Europe,Austria,,,
+213.145.228.110,4,-9,jetticket.net,AT,Europe,Western Europe,Austria,,,
+140.78.3.160,4,-9,jku.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
+152.53.131.69,4,1,jormax.com,AT,Europe,Western Europe,Austria,,,
+37.252.185.123,4,3,juandiegoflorez.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+92.60.8.59,4,12,kallithea-scm.org,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+195.69.174.0,4,-16,kalyteri-stoiximatiki.gr,AT,Europe,Western Europe,Austria,,,
+152.53.236.72,4,28,kamrad.ru,AT,Europe,Western Europe,Austria,,,
+78.142.177.118,4,2,kanzlei-trachtenberg.at,AT,Europe,Western Europe,Austria,,,
+94.136.22.133,4,4,kapper.net,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+83.218.188.107,4,0,kaprun.at,AT,Europe,Western Europe,Austria,Tyrol,,
+195.2.200.149,4,-2,kastner-oehler.at,AT,Europe,Western Europe,Austria,,,
+213.145.228.64,4,-18,katschberg.at,AT,Europe,Western Europe,Austria,,,
+213.145.228.170,4,1,katschi.at,AT,Europe,Western Europe,Austria,,,
 185.136.80.32,4,17,keba.com,AT,Europe,Western Europe,Austria,,,
+193.58.165.40,4,-8,kinderhotels.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
 185.175.59.188,4,3,kithfan.org,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-217.14.230.56,4,13,kitz.net,AT,Europe,Western Europe,Austria,Tyrol,,Kitzbühel
-193.58.164.116,4,2,kitzbuehel.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-83.218.188.111,4,5,kitzsteinhorn.at,AT,Europe,Western Europe,Austria,Tyrol,,
+217.14.230.56,4,44,kitz.net,AT,Europe,Western Europe,Austria,Tyrol,,Kitzbühel
+193.58.164.116,4,38,kitzbuehel.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+185.126.208.108,4,18,kitzski.at,AT,Europe,Western Europe,Austria,,,
+83.218.188.111,4,58,kitzsteinhorn.at,AT,Europe,Western Europe,Austria,Tyrol,,
 89.58.18.255,4,10,klemensschillinger.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-86.59.21.178,4,20,klingt.org,AT,Europe,Western Europe,Austria,,,
-89.207.121.197,4,5,knapp.com,AT,Europe,Western Europe,Austria,Styria,,Bärnbach
-185.229.88.70,4,10,konzertmeister.app,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+5.183.217.137,4,-5,klimaaktiv.at,AT,Europe,Western Europe,Austria,,,
+86.59.21.178,4,-69,klingt.org,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+185.229.88.70,4,-13,konzertmeister.app,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 185.65.234.19,4,23,kpic.at,AT,Europe,Western Europe,Austria,,,
-94.247.144.10,4,48,krallerhof.com,AT,Europe,Western Europe,Austria,,,
-62.212.176.115,4,23,krems.at,AT,Europe,Western Europe,Austria,Lower Austria,,Grossschönau
+94.247.144.10,4,1,krallerhof.com,AT,Europe,Western Europe,Austria,,,
+62.212.176.115,4,-4,krems.at,AT,Europe,Western Europe,Austria,Lower Austria,,Grosspertholz
+91.220.179.11,4,1,kroeswang.at,AT,Europe,Western Europe,Austria,,,
+37.16.72.147,4,18,krossmedia.at,AT,Europe,Western Europe,Austria,,,
 89.106.208.37,4,36,kulturserver-graz.at,AT,Europe,Western Europe,Austria,,,
-94.136.22.99,4,6,kunstforumwien.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-193.170.194.11,4,5,kupf.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-37.252.184.132,4,6,landwirt.com,AT,Europe,Western Europe,Austria,,,
-91.206.8.224,4,5,laserinnsbruck.com,AT,Europe,Western Europe,Austria,,,
-85.31.17.163,4,4,laumat.at,AT,Europe,Western Europe,Austria,Upper Austria,,Wels
-85.31.17.164,4,26,laumat.at,AT,Europe,Western Europe,Austria,Upper Austria,,Wels
+94.136.22.99,4,-1,kunstforumwien.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+193.170.194.11,4,1,kupf.at,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
+37.252.184.132,4,25,landwirt.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+91.206.8.224,4,-27,laserinnsbruck.com,AT,Europe,Western Europe,Austria,,,
+2.59.22.245,4,-63,lastrada.org.mk,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+185.126.208.218,4,2,lechtal.at,AT,Europe,Western Europe,Austria,,,
+213.145.225.225,4,21,ledl.net,AT,Europe,Western Europe,Austria,,,
 199.232.17.124,4,85,leiner.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-193.58.164.43,4,9,leitner-ropeways.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-37.252.190.205,4,4,linux-club.de,AT,Europe,Western Europe,Austria,,,
+94.136.22.71,4,2,leisure.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+193.58.164.43,4,-4,leitner-ropeways.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+152.53.231.67,4,-3,librerie.coop,AT,Europe,Western Europe,Austria,,,
+152.53.172.158,4,47,liebeleu.de,AT,Europe,Western Europe,Austria,,,
+37.252.190.205,4,14,linux-club.de,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 213.145.232.38,4,-1854,linux-vserver.org,AT,Europe,Western Europe,Austria,,,
-193.200.112.137,4,3,linuxmce.org,AT,Europe,Western Europe,Austria,,,
-195.230.168.67,4,70,linuxwochen.at,AT,Europe,Western Europe,Austria,Burgenland,,Hochstraß
-212.33.55.8,4,5,liwest.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
+193.200.112.137,4,9,linuxmce.org,AT,Europe,Western Europe,Austria,,,
+195.230.168.67,4,-4,linuxwochen.at,AT,Europe,Western Europe,Austria,Burgenland,,Tadten
+213.208.144.108,4,0,livetipsportal.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+212.33.55.8,4,-5,liwest.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
 45.141.56.116,4,30,logolynx.com,AT,Europe,Western Europe,Austria,,,
+217.19.44.42,4,3,ludwig-reiter.com,AT,Europe,Western Europe,Austria,,,
 193.58.164.115,4,3,lufthansa-city-center.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-213.235.239.156,4,-508,machinaero.com,AT,Europe,Western Europe,Austria,,,
-185.51.199.12,4,16,madison.at,AT,Europe,Western Europe,Austria,,,
-193.170.194.3,4,4,maiz.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-152.53.36.174,4,3,makingofamom.com,AT,Europe,Western Europe,Austria,,,
-185.164.5.189,4,62,marionetten.at,AT,Europe,Western Europe,Austria,,,
-86.59.113.118,4,31,matuzo.at,AT,Europe,Western Europe,Austria,,,
-5.183.217.143,4,17,mauthausen-memorial.at,AT,Europe,Western Europe,Austria,,,
-193.58.164.176,4,7,mayrhofen.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-193.58.164.195,4,18,mayrhofner-bergbahnen.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+185.51.199.12,4,-3,madison.at,AT,Europe,Western Europe,Austria,,,
+80.245.199.195,4,1,mail.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+193.170.194.3,4,4,maiz.at,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
+83.218.160.16,4,-10,marcati.at,AT,Europe,Western Europe,Austria,Tyrol,,
+193.233.161.150,4,64,marsbahisgunceladres.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+152.53.131.206,4,952,masdarsteel.com,AT,Europe,Western Europe,Austria,,,
+86.59.113.118,4,-5,matuzo.at,AT,Europe,Western Europe,Austria,,,
+5.183.217.143,4,-1,mauthausen-memorial.at,AT,Europe,Western Europe,Austria,,,
+193.58.164.176,4,3,mayrhofen.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+193.58.164.195,4,5,mayrhofner-bergbahnen.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
 193.200.112.157,4,3,mbmc.at,AT,Europe,Western Europe,Austria,,,
-212.52.198.92,4,2,mcexpert.at,AT,Europe,Western Europe,Austria,,,
-89.106.208.32,4,-4228,med-user.net,AT,Europe,Western Europe,Austria,,,
+212.52.198.92,4,2,mcexpert.at,AT,Europe,Western Europe,Austria,Upper Austria,,Wels
+89.106.208.32,4,7,med-user.net,AT,Europe,Western Europe,Austria,,,
 77.244.243.57,4,69,med4you.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-93.189.28.16,4,23,medaustron.at,AT,Europe,Western Europe,Austria,,,
-5.183.216.66,4,60,mediathek.at,AT,Europe,Western Europe,Austria,,,
+93.189.28.16,4,23,medaustron.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+5.183.216.66,4,3,mediathek.at,AT,Europe,Western Europe,Austria,,,
+77.244.243.55,4,-3,megaherz.de,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+193.46.58.233,4,8,meinl.com,AT,Europe,Western Europe,Austria,,,
 80.64.137.16,4,-2539,mensen.at,AT,Europe,Western Europe,Austria,,,
-5.183.217.32,4,7,messe-tulln.at,AT,Europe,Western Europe,Austria,,,
-93.189.30.3,4,4905,mischertraxler.com,AT,Europe,Western Europe,Austria,,,
-94.136.22.195,4,7,mkoe.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+5.183.217.32,4,-7,messe-tulln.at,AT,Europe,Western Europe,Austria,,,
+185.229.88.100,4,14,metropolnews.info,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+93.189.30.3,4,168462,mischertraxler.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+94.136.22.195,4,-13,mkoe.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 94.247.150.111,4,-4699,mkw-sanitary.at,AT,Europe,Western Europe,Austria,,,
-78.41.115.131,4,26,mond.at,AT,Europe,Western Europe,Austria,,,
+78.41.115.131,4,26,mond.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+62.218.228.5,4,-4902,mondial-reisen.com,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+188.172.236.218,4,-12,monitis.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 89.58.21.18,4,16,monkeydesk.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-62.116.23.60,4,53,monochrom.at,AT,Europe,Western Europe,Austria,,,
-89.185.118.29,4,4,motornetzwerk.at,AT,Europe,Western Europe,Austria,Lower Austria,,Perchtoldsdorf
-83.164.168.67,4,22,moviemento.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
+62.116.23.60,4,-1,monochrom.at,AT,Europe,Western Europe,Austria,,,
+89.185.118.29,4,3,motornetzwerk.at,AT,Europe,Western Europe,Austria,Lower Austria,,Lanzendorf
+213.145.225.136,4,13,mountainbikers.at,AT,Europe,Western Europe,Austria,,,
+83.164.168.67,4,-2,moviemento.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
+185.26.191.2,4,2,mozarthausvienna.at,AT,Europe,Western Europe,Austria,,,
 5.183.216.9,4,1,mqw.at,AT,Europe,Western Europe,Austria,,,
-144.208.243.1,4,4,mueller.de,AT,Europe,Western Europe,Austria,,,
+144.208.243.10,4,-1,mueller.hr,AT,Europe,Western Europe,Austria,,,
+185.35.181.97,4,0,muenze-hall.at,AT,Europe,Western Europe,Austria,Tyrol,,Wattens
+213.145.225.230,4,2,muerz.info,AT,Europe,Western Europe,Austria,,,
+94.247.144.161,4,7,muk.ac.at,AT,Europe,Western Europe,Austria,,,
 5.183.217.148,4,9,mumok.at,AT,Europe,Western Europe,Austria,,,
-94.198.140.98,4,3,mynet.at,AT,Europe,Western Europe,Austria,Tyrol,,
-185.51.196.73,4,24,myplace.de,AT,Europe,Western Europe,Austria,,,
-94.198.137.69,4,16,nada.at,AT,Europe,Western Europe,Austria,Tyrol,,
-193.200.113.175,4,15,ndu.ac.at,AT,Europe,Western Europe,Austria,,,
-83.137.41.8,4,3,nemox.net Informationstechnologie OG 1,AT,Europe,Western Europe,Austria,,,
+152.53.67.91,4,-16,musiktheater-im-revier.de,AT,Europe,Western Europe,Austria,,,
+152.53.84.238,4,-1,musiktheater-im-revier.de,AT,Europe,Western Europe,Austria,,,
+89.58.21.22,4,-2,muth.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+94.198.140.98,4,-2,mynet.at,AT,Europe,Western Europe,Austria,Tyrol,,
+94.198.137.69,4,0,nada.at,AT,Europe,Western Europe,Austria,Tyrol,,
+193.200.113.175,4,4,ndu.ac.at,AT,Europe,Western Europe,Austria,,,
+85.124.85.17,4,3081,neba.at,AT,Europe,Western Europe,Austria,Tyrol,,Steeg
+83.137.41.8,4,-1,nemox.net Informationstechnologie OG 1,AT,Europe,Western Europe,Austria,,,
 83.137.41.9,4,3,nemox.net Informationstechnologie OG 2,AT,Europe,Western Europe,Austria,,,
-194.177.128.9,4,38,net4you.net,AT,Europe,Western Europe,Austria,,,
+194.177.128.9,4,1,net4you.net,AT,Europe,Western Europe,Austria,Carinthia,,Villach
 144.208.243.2,4,3,netcup.com,AT,Europe,Western Europe,Austria,,,
-37.252.190.195,4,112,netidee.at,AT,Europe,Western Europe,Austria,,,
+37.252.190.195,4,112,netidee.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 185.202.195.41,4,-1,netkey.at,AT,Europe,Western Europe,Austria,,,
-89.106.208.48,4,2,no-racism.net,AT,Europe,Western Europe,Austria,,,
+152.53.225.155,4,8,netzgemeinde.eu,AT,Europe,Western Europe,Austria,,,
+152.53.37.201,4,177380,newreleases.io,AT,Europe,Western Europe,Austria,,,
+89.58.63.173,4,2,nextgen-podcast.de,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+109.70.103.101,4,-9,niederoesterreich-card.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+89.106.208.48,4,-130,no-racism.net,AT,Europe,Western Europe,Austria,,,
 81.223.2.206,4,11,noctua.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 193.58.164.114,4,4,noerpel.de,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-94.136.24.182,4,10,o94.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-193.58.164.199,4,2,obereggen.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-193.170.194.40,4,71,oberhumer.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+94.136.24.173,4,3,o94.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+193.58.164.199,4,9,obereggen.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+193.170.194.40,4,5,oberhumer.com,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
+213.145.228.19,4,0,obertauern-webcam.de,AT,Europe,Western Europe,Austria,,,
 213.145.233.120,4,332,ocg.at,AT,Europe,Western Europe,Austria,,,
-95.129.200.102,4,33,oe-journal.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-80.240.225.61,4,28,oeamtc.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-93.189.30.11,4,55,oeh.ac.at,AT,Europe,Western Europe,Austria,,,
-217.19.44.146,4,11,oeht.at,AT,Europe,Western Europe,Austria,,,
+95.129.200.102,4,-35,oe-journal.at,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+80.240.225.61,4,-6,oeamtc.at,AT,Europe,Western Europe,Austria,,,
+83.218.161.136,4,2,oehb.at,AT,Europe,Western Europe,Austria,Tyrol,,
+217.19.44.146,4,2,oeht.at,AT,Europe,Western Europe,Austria,,,
 5.183.216.16,4,28,oehv.at,AT,Europe,Western Europe,Austria,,,
-185.238.34.150,4,58,oeko-tex.com,AT,Europe,Western Europe,Austria,,,
-83.175.83.105,4,56,oekofen.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-83.218.161.136,4,3,oelv.at,AT,Europe,Western Europe,Austria,Tyrol,,
-86.59.113.241,4,26,oeps.at,AT,Europe,Western Europe,Austria,,,
-82.150.218.43,4,43,oetzi-dorf.at,AT,Europe,Western Europe,Austria,Tyrol,,Seefeld in Tirol
-193.58.164.162,4,2,oetztal.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-89.185.97.30,4,48,oevsv.at,AT,Europe,Western Europe,Austria,Lower Austria,,Seitenstetten Markt
-94.247.144.145,4,17,ogl.at,AT,Europe,Western Europe,Austria,,,
+185.238.34.150,4,-4,oeko-tex.com,AT,Europe,Western Europe,Austria,,,
+83.175.83.105,4,25,oekofen.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+193.200.113.178,4,1,oesterreich-isst-informiert.at,AT,Europe,Western Europe,Austria,,,
+91.221.138.21,4,-11,oesterreichwiki.org,AT,Europe,Western Europe,Austria,,,
+193.58.164.162,4,-17,oetztal.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+89.185.97.30,4,11,oevsv.at,AT,Europe,Western Europe,Austria,Carinthia,,Grafenstein
+94.247.144.145,4,0,ogl.at,AT,Europe,Western Europe,Austria,,,
 195.2.220.23,4,7,ogni.at,AT,Europe,Western Europe,Austria,,,
-152.53.66.225,4,60,olarila.com,AT,Europe,Western Europe,Austria,,,
+152.53.66.225,4,-10,olarila.com,AT,Europe,Western Europe,Austria,,,
+152.53.231.153,4,19,olbernhau.de,AT,Europe,Western Europe,Austria,,,
+193.58.165.54,4,22,olympiaworld.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
 62.99.143.83,4,99,onlineberatung-telefonseelsorge.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-212.33.36.188,4,347,Ookla Speedtest Server 818: speedcheck.liwest.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
-217.175.202.118,4,435,Ookla Speedtest Server 3199: speedtest.nextlayer.at,AT,Europe,Western Europe,Austria,,,
-109.68.104.25,4,272,Ookla Speedtest Server 5476: speedtest.power-speed.at,AT,Europe,Western Europe,Austria,Upper Austria,,Gmunden
-87.247.212.71,4,238,Ookla Speedtest Server 6317: speedtest.telfs.com,AT,Europe,Western Europe,Austria,Tyrol,,Telfs
-94.136.28.254,4,436,Ookla Speedtest Server 7412: speedtest.kapper.net,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-193.187.212.6,4,323,Ookla Speedtest Server 12390: speedtest.a1.net,AT,Europe,Western Europe,Austria,,,
-80.121.203.250,4,331,Ookla Speedtest Server 14296: speedtest.lucas.company,AT,Europe,Western Europe,Austria,Upper Austria,,Schärding
-185.159.200.114,4,178,Ookla Speedtest Server 16161: speedtest-vix.cosys.cc,AT,Europe,Western Europe,Austria,Upper Austria,,Walding
-185.211.217.25,4,304,Ookla Speedtest Server 16472: speedtest.ama-networx.net,AT,Europe,Western Europe,Austria,,,
-62.99.138.105,4,407,Ookla Speedtest Server 35566: speed.g.ml-net.at,AT,Europe,Western Europe,Austria,Styria,,Graz
-109.234.151.120,4,367,Ookla Speedtest Server 41545: speedtest.goingnet.at,AT,Europe,Western Europe,Austria,Upper Austria,,
-195.144.21.206,4,267,Ookla Speedtest Server 46058: at.blackhost.network,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-89.187.168.6,4,324,Ookla Speedtest Server 50599: datapacket.xyz,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-176.123.54.17,4,194,Ookla Speedtest Server 53528: speedtest.telematica.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-83.218.178.116,4,358,Ookla Speedtest Server 59234: speedtest.tirolnet.com,AT,Europe,Western Europe,Austria,Tyrol,,Landeck
-94.16.31.41,4,286,Ookla Speedtest Server 60470: speedtest.netcup.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-194.0.72.27,4,48953,Ookla Speedtest Server 63719: speedtest.ftth.wien,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-92.60.10.109,4,145,Ookla Speedtest Server: speedtest.drei.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-81.16.110.7,4,5,Ookla Speedtest Server: www.dic.at,AT,Europe,Western Europe,Austria,,,
+213.208.144.105,4,-18,only-bets.de,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+212.33.36.188,4,-4,Ookla Speedtest Server 818: speedcheck.liwest.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
+92.60.10.110,4,-3,Ookla Speedtest Server 1738: speedtest.drei.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+217.175.202.118,4,12,Ookla Speedtest Server 3199: speedtest.nextlayer.at,AT,Europe,Western Europe,Austria,,,
+85.31.5.226,4,7,Ookla Speedtest Server 3840: speedtest.itandtel.at,AT,Europe,Western Europe,Austria,Upper Austria,,Wels
+185.27.121.37,4,9,Ookla Speedtest Server 3926: speedtest.cablevision.at,AT,Europe,Western Europe,Austria,Upper Austria,,Hochrain
+109.68.104.25,4,-4,Ookla Speedtest Server 5476: speedtest.power-speed.at,AT,Europe,Western Europe,Austria,Upper Austria,,Gmunden
+80.93.32.150,4,8,Ookla Speedtest Server 5662: speedtest.kufnet.at,AT,Europe,Western Europe,Austria,Tyrol,,Kufstein
+50.7.53.12,4,6,Ookla Speedtest Server 6070: lg-vie.fdcservers.net,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+87.247.212.71,4,8,Ookla Speedtest Server 6317: speedtest.telfs.com,AT,Europe,Western Europe,Austria,Tyrol,,Telfs
+94.136.28.254,4,-3,Ookla Speedtest Server 7412: speedtest.kapper.net,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+213.153.32.170,4,-5,Ookla Speedtest Server 11532: speed.cablelink.at,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
+193.187.212.6,4,-3,Ookla Speedtest Server 12390: speedtest.a1.net,AT,Europe,Western Europe,Austria,,,
+193.187.212.2,4,-3,Ookla Speedtest Server 12390: speedtest.a1.net,AT,Europe,Western Europe,Austria,,,
+188.172.241.197,4,-11,Ookla Speedtest Server 12777: speedtest0401.anexia-it.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+185.31.52.34,4,15,Ookla Speedtest Server 15904: speedtest.kraftcom.at,AT,Europe,Western Europe,Austria,Lower Austria,,Steinakirchen am Forst
+185.159.200.114,4,20,Ookla Speedtest Server 16161: speedtest-vix.cosys.cc,AT,Europe,Western Europe,Austria,Upper Austria,,Goldwörth
+185.211.217.25,4,-1,Ookla Speedtest Server 16472: speedtest.ama-networx.net,AT,Europe,Western Europe,Austria,,,
+80.92.117.213,4,1,Ookla Speedtest Server 29944: speedtest.citynet.at,AT,Europe,Western Europe,Austria,Tyrol,,Hall in Tirol
+92.60.10.108,4,2,Ookla Speedtest Server 32648: h3g-speed1.rootsrv.nextlayer.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+185.52.120.120,4,38,Ookla Speedtest Server 35528: speedtest.inn-energie.de,AT,Europe,Western Europe,Austria,Upper Austria,,Braunau am Inn
+62.99.138.105,4,-3,Ookla Speedtest Server 35566: speed.g.ml-net.at,AT,Europe,Western Europe,Austria,Styria,,Graz
+109.234.151.120,4,-1,Ookla Speedtest Server 41545: speedtest.goingnet.at,AT,Europe,Western Europe,Austria,Upper Austria,,
+185.159.200.211,4,8,Ookla Speedtest Server 44437: speedtest-sdt.cosys.cc,AT,Europe,Western Europe,Austria,Upper Austria,,Goldwörth
+2.59.22.206,4,-3,Ookla Speedtest Server 46058: at.blackhost.network,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+89.187.168.6,4,145083,Ookla Speedtest Server 50599: datapacket.xyz,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+176.123.54.17,4,4,Ookla Speedtest Server 53528: speedtest.telematica.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+89.58.17.104,4,-3,Ookla Speedtest Server 57530: speedtest.ba-lu.eu,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+83.218.178.116,4,-7,Ookla Speedtest Server 59234: speedtest.tirolnet.com,AT,Europe,Western Europe,Austria,Tyrol,,
+94.16.31.41,4,-1,Ookla Speedtest Server 60470: speedtest.netcup.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+152.53.93.124,4,21776,Ookla Speedtest Server 61126: speedtest.sinovatec.com,AT,Europe,Western Europe,Austria,,,
+91.244.70.82,4,-12,Ookla Speedtest Server 70748: ookla.evolushost.com,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+185.211.219.93,4,3,Ookla Speedtest Server 72709: speed04.ama-networx.net,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
+31.193.166.254,4,-4,Ookla Speedtest Server 73500: speedtest2.power-speed.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
+92.60.10.109,4,7,Ookla Speedtest Server: speedtest.drei.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+81.16.110.7,4,-45,Ookla Speedtest Server: www.dic.at,AT,Europe,Western Europe,Austria,Lower Austria,,Ochsenburg
 195.225.236.239,4,20,opage.at,AT,Europe,Western Europe,Austria,,,
-81.16.111.2,4,6,open-networld.at,AT,Europe,Western Europe,Austria,,,
-37.252.185.249,4,4,operimsteinbruch.at,AT,Europe,Western Europe,Austria,,,
-193.58.164.49,4,35,osttirol.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-194.183.147.36,4,6,ovb-heimatzeitungen.de,AT,Europe,Western Europe,Austria,Vorarlberg,,Bregenz
-193.58.164.190,4,2,ove.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-94.247.146.115,4,4,ovi.at,AT,Europe,Western Europe,Austria,,,
+81.16.111.2,4,6,open-networld.at,AT,Europe,Western Europe,Austria,Lower Austria,,Ochsenburg
+37.252.185.249,4,30,operimsteinbruch.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+213.145.224.210,4,18,orthofer.at,AT,Europe,Western Europe,Austria,,,
+152.53.136.188,4,10,ostarrichi.com,AT,Europe,Western Europe,Austria,,,
+193.58.164.49,4,7,osttirol.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+194.183.147.37,4,4,ovb-heimatzeitungen.de,AT,Europe,Western Europe,Austria,Vorarlberg,,Hard
+194.183.147.36,4,6,ovb-heimatzeitungen.de,AT,Europe,Western Europe,Austria,Vorarlberg,,Hard
+193.58.164.190,4,4,ove.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+94.247.146.115,4,-16,ovi.at,AT,Europe,Western Europe,Austria,,,
 185.69.162.219,4,22,palfrader.org,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
-146.255.58.212,4,44,pentek-timing.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-193.58.164.40,4,5,ph-tirol.ac.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-193.170.194.5,4,8,physicalnarration.org,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-94.198.139.109,4,0,physiotherm.com,AT,Europe,Western Europe,Austria,Tyrol,,
-93.189.31.147,4,5,piatnik.com,AT,Europe,Western Europe,Austria,,,
-83.218.161.110,4,11,pitztal.com,AT,Europe,Western Europe,Austria,Tyrol,,
-83.218.161.109,4,8,pitztaler-gletscher.at,AT,Europe,Western Europe,Austria,Tyrol,,
-185.51.199.11,4,8,pmu.ac.at,AT,Europe,Western Europe,Austria,,,
-91.220.179.188,4,27,pollenwarndienst.at,AT,Europe,Western Europe,Austria,,,
+213.208.141.100,4,-13,parents.at,AT,Europe,Western Europe,Austria,,,
+81.16.148.25,4,-8,parissportif-afrique.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+110.172.148.31,4,24,pausehardware.com,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+146.255.58.212,4,1,pentek-timing.at,AT,Europe,Western Europe,Austria,Lower Austria,,Wiener Neudorf
+152.53.231.140,4,7,petrockblock.com,AT,Europe,Western Europe,Austria,,,
+193.58.164.40,4,2,ph-tirol.ac.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+193.170.194.5,4,8,physicalnarration.org,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
+185.106.249.238,4,5,physioaustria.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+94.198.139.109,4,5,physiotherm.com,AT,Europe,Western Europe,Austria,Tyrol,,
+93.189.31.147,4,3,piatnik.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+152.53.163.220,4,5,pikapods.com,AT,Europe,Western Europe,Austria,,,
+185.126.208.102,4,0,pitztal.com,AT,Europe,Western Europe,Austria,,,
+83.218.161.109,4,7,pitztaler-gletscher.at,AT,Europe,Western Europe,Austria,Tyrol,,
+91.220.179.23,4,-1,pollenwarndienst.at,AT,Europe,Western Europe,Austria,,,
+157.173.25.3,4,-10,poslovni-savjetnik.com,AT,Europe,Western Europe,Austria,,,
 77.244.243.49,4,56,prfd.aero,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-91.220.179.180,4,35,primetals.com,AT,Europe,Western Europe,Austria,,,
-46.102.156.21,4,18,private.coffee,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-37.252.190.57,4,16,professional-tuner.at,AT,Europe,Western Europe,Austria,,,
-86.59.114.198,4,31,proftpd.org,AT,Europe,Western Europe,Austria,,,
-83.65.141.132,4,54,proges.at,AT,Europe,Western Europe,Austria,Tyrol,,Kundl
-85.124.85.17,4,-128417,prva.at,AT,Europe,Western Europe,Austria,Tyrol,,Weissenbach am Lech
-89.58.20.16,4,1,pustet.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+46.102.156.21,4,18,private.coffee,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+86.59.114.198,4,357,proftpd.org,AT,Europe,Western Europe,Austria,,,
+83.65.141.132,4,16,proges.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+152.53.38.245,4,3,promarkengineering.com,AT,Europe,Western Europe,Austria,,,
+37.252.252.61,4,14,prueckel.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+152.53.49.49,4,823,psi.com.lb,AT,Europe,Western Europe,Austria,,,
 81.223.46.154,4,-17,quatscha.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-212.232.26.218,4,8,quintessenz.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-137.208.57.37,4,27,r-project.org,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-188.172.241.108,4,34,rauch.cc,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-94.198.139.72,4,3,raxalpe.com,AT,Europe,Western Europe,Austria,Tyrol,,
-80.240.225.109,4,1811,rechtsanwaelte.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-85.208.170.13,4,-5,reconstructme.net,AT,Europe,Western Europe,Austria,Upper Austria,,Dietach
-80.64.132.122,4,36,redbullerzbergrodeo.com,AT,Europe,Western Europe,Austria,,,
-185.164.4.131,4,95,reglist24.com,AT,Europe,Western Europe,Austria,,,
-5.132.190.50,4,7,remax.at,AT,Europe,Western Europe,Austria,,,
-193.170.194.33,4,7,republicart.net,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-152.53.17.116,4,24,riedel.net,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-85.31.12.81,4,11,rosenbauer.com,AT,Europe,Western Europe,Austria,Upper Austria,,Wels
-217.19.44.159,4,12,rother.de,AT,Europe,Western Europe,Austria,,,
-217.74.13.226,4,59746,rundrweb.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-83.164.148.131,4,4,runtastic.com,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
-194.183.143.49,4,5,russmedia.com,AT,Europe,Western Europe,Austria,Vorarlberg,,Rankweil
-193.58.164.224,4,15,saale-unstrut-tourismus.de,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-83.218.188.87,4,25,sacher.com,AT,Europe,Western Europe,Austria,Tyrol,,
-217.196.158.134,4,3,salzburg.com,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
-217.196.157.160,4,-20278,salzburgring.com,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
-83.164.133.11,4,3,sanitaer-heinze.com,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
+212.232.26.218,4,7,quintessenz.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+137.208.57.37,4,-6,r-project.org,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+193.170.194.2,4,10,radical-openness.org,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
+83.138.55.172,4,1,radio.menu,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+152.53.49.123,4,6,radioislam.org.za,AT,Europe,Western Europe,Austria,,,
+89.58.21.15,4,-26,radlobby.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+213.145.225.210,4,7,raiffeisen-energie.at,AT,Europe,Western Europe,Austria,,,
+188.172.241.108,4,15,rauch.cc,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+93.189.24.36,4,1739,rauchfrei.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+94.198.139.72,4,13,raxalpe.com,AT,Europe,Western Europe,Austria,Tyrol,,
+85.125.193.10,4,4,rechtbekommen.eu,AT,Europe,Western Europe,Austria,Styria,,
+80.240.225.109,4,3477,rechtsanwaelte.at,AT,Europe,Western Europe,Austria,,,
+85.208.170.13,4,17,reconstructme.net,AT,Europe,Western Europe,Austria,Upper Austria,,Dietach
+5.132.190.50,4,17,remax.at,AT,Europe,Western Europe,Austria,,,
+193.170.194.33,4,9,republicart.net,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
+152.53.31.58,4,7,reselleragents.com,AT,Europe,Western Europe,Austria,,,
+5.132.159.131,4,31,restauranttester.at,AT,Europe,Western Europe,Austria,,,
+152.53.17.116,4,0,riedel.net,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+213.208.134.236,4,-43008,rittisberg.at,AT,Europe,Western Europe,Austria,,,
+94.198.139.79,4,-6,rofanseilbahn.at,AT,Europe,Western Europe,Austria,Tyrol,,
+83.138.55.171,4,-2,rosecitysoftware.com,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+217.19.44.159,4,11,rother.de,AT,Europe,Western Europe,Austria,,,
+217.175.202.214,4,6,ruhrtopcard.de,AT,Europe,Western Europe,Austria,,,
+194.183.143.49,4,5,russmedia.com,AT,Europe,Western Europe,Austria,Tyrol,,Saint Anton
+193.58.164.224,4,8,saale-unstrut-tourismus.de,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+83.218.188.87,4,4,sacher.com,AT,Europe,Western Europe,Austria,Tyrol,,
+94.198.140.86,4,19,salzburgerhof.com,AT,Europe,Western Europe,Austria,Tyrol,,
+217.196.157.160,4,51047,salzburgring.com,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
 81.189.131.121,4,3,santanderconsumer.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-213.153.32.161,4,2,sbg.at,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
-94.198.139.115,4,27,schick-hotels.com,AT,Europe,Western Europe,Austria,Tyrol,,
-94.247.150.125,4,4,schloss-hartheim.at,AT,Europe,Western Europe,Austria,,,
-217.196.157.206,4,414,schloss-leopoldskron.com,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
-193.58.164.82,4,49,schloss-tratzberg.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-37.235.63.40,4,3,schnittberichte.com,AT,Europe,Western Europe,Austria,,,
-82.218.164.142,4,73,schulweb.at,AT,Europe,Western Europe,Austria,Lower Austria,,Mödling
-185.228.151.164,4,25,scra.at,AT,Europe,Western Europe,Austria,,,
+152.53.231.184,4,19,saporideisassi.it,AT,Europe,Western Europe,Austria,,,
+152.53.210.62,4,3,sarbatdabhalatrust.com,AT,Europe,Western Europe,Austria,,,
+213.153.32.161,4,12,sbg.at,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
+94.247.150.125,4,11,schloss-hartheim.at,AT,Europe,Western Europe,Austria,,,
+217.196.157.206,4,47234,schloss-leopoldskron.com,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
+193.58.164.82,4,20,schloss-tratzberg.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+37.235.63.40,4,3,schnittberichte.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+77.244.254.34,4,9,schulweb.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+185.228.151.164,4,33,scra.at,AT,Europe,Western Europe,Austria,,,
 37.252.250.172,4,3,scriptics.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-152.53.55.53,4,4,scv.org,AT,Europe,Western Europe,Austria,,,
+152.53.208.125,4,15,searx.be,AT,Europe,Western Europe,Austria,,,
 152.53.16.45,4,8,searx.be,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 83.218.168.152,4,37,secnd.me,AT,Europe,Western Europe,Austria,Tyrol,,
-83.218.160.212,4,6,see.at,AT,Europe,Western Europe,Austria,Tyrol,,
+83.218.160.212,4,13,see.at,AT,Europe,Western Europe,Austria,Tyrol,,
+46.102.156.216,4,5,seecult.org,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
 193.58.164.12,4,7,seefeld-sports.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-185.229.88.100,4,3,seo-galaxy.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+185.126.208.110,4,17,seefeld.com,AT,Europe,Western Europe,Austria,,,
+152.53.236.119,4,-12,segelflug.de,AT,Europe,Western Europe,Austria,,,
+152.53.130.110,4,13,sengotta.net,AT,Europe,Western Europe,Austria,,,
+77.244.243.51,4,12,senioricum.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 83.175.83.104,4,34,seo-textagentur.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
 89.58.16.193,4,6,seo4business.de,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-193.170.194.26,4,1,servus.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-77.244.243.53,4,27,simonrepp.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-89.106.208.60,4,15,sixpackfilm.com,AT,Europe,Western Europe,Austria,,,
+152.53.250.197,4,-10,seoboostservice.com,AT,Europe,Western Europe,Austria,,,
+193.170.194.26,4,4,servus.at,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
+77.244.243.53,4,-1,simonrepp.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+77.244.243.24,4,9,sinevibes.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+89.106.208.60,4,-76,sixpackfilm.com,AT,Europe,Western Europe,Austria,,,
 94.136.22.64,4,4,siz.cc,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-217.196.146.126,4,30,ski-obertauern.at,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
-91.223.147.33,4,42,skigastein.com,AT,Europe,Western Europe,Austria,,,
-188.65.75.20,4,31,skiline.cc,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
-93.189.26.205,4,32,skrapid.at,AT,Europe,Western Europe,Austria,,,
-45.84.253.44,4,42,sodalitas.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-89.58.61.70,4,33,soeren-hentzschel.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-94.198.139.79,4,23,sonnenkopf.com,AT,Europe,Western Europe,Austria,Tyrol,,
-195.230.189.67,4,34,sonnentherme.at,AT,Europe,Western Europe,Austria,Burgenland,,Eisenstadt
-62.212.163.180,4,13,sonnentor.com,AT,Europe,Western Europe,Austria,Lower Austria,,Grosspertholz
-94.247.150.100,4,14,soundportal.at,AT,Europe,Western Europe,Austria,,,
-37.252.187.168,4,27,sparklingscience.at,AT,Europe,Western Europe,Austria,,,
-94.136.22.155,4,23,sportdata.org,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-213.145.225.90,4,54,sportlive.at,AT,Europe,Western Europe,Austria,,,
-62.116.23.99,4,18,sra.at,AT,Europe,Western Europe,Austria,,,
+217.196.146.127,4,26,ski-obertauern.at,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
+91.223.147.33,4,11,skigastein.com,AT,Europe,Western Europe,Austria,,,
+188.65.75.20,4,15,skiline.cc,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
+185.126.208.109,4,8,skiwelt.at,AT,Europe,Western Europe,Austria,,,
+93.189.26.205,4,32,skrapid.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+45.84.253.44,4,27,sodalitas.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+89.58.61.70,4,19,soeren-hentzschel.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+83.218.166.130,4,46,sonnenkopf.com,AT,Europe,Western Europe,Austria,Tyrol,,
+195.230.189.67,4,9,sonnentherme.at,AT,Europe,Western Europe,Austria,Burgenland,,Eisenstadt
+62.212.163.180,4,16,sonnentor.com,AT,Europe,Western Europe,Austria,Lower Austria,,Schrems
+94.247.150.100,4,8,soundportal.at,AT,Europe,Western Europe,Austria,,,
+152.53.37.129,4,44,souvenirtrading.com,AT,Europe,Western Europe,Austria,,,
+37.252.187.168,4,27,sparklingscience.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+67.159.17.42,4,0,spcs.top,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+152.53.110.39,4,-21,sportivoo.co.uk,AT,Europe,Western Europe,Austria,,,
+213.145.225.90,4,15,sportlive.at,AT,Europe,Western Europe,Austria,,,
+95.129.200.188,4,17,sra.at,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
 5.183.217.155,4,3,srs.at,AT,Europe,Western Europe,Austria,,,
+91.221.138.30,4,10,stadler-schuhe.at,AT,Europe,Western Europe,Austria,,,
 5.183.217.39,4,32,stanna.at,AT,Europe,Western Europe,Austria,,,
-213.145.225.24,4,60,starlinger.com,AT,Europe,Western Europe,Austria,,,
-195.190.26.242,4,52,starmovie.at,AT,Europe,Western Europe,Austria,,,
-195.190.26.241,4,36,starmovie.at,AT,Europe,Western Europe,Austria,,,
-80.123.128.10,4,62,steinbauer.cc,AT,Europe,Western Europe,Austria,Upper Austria,,Pucking
+213.145.225.24,4,1,starlinger.com,AT,Europe,Western Europe,Austria,,,
+195.190.26.242,4,15,starmovie.at,AT,Europe,Western Europe,Austria,,,
+195.190.26.241,4,12,starmovie.at,AT,Europe,Western Europe,Austria,,,
+62.240.128.10,4,38,steinbauer.cc,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 81.223.232.90,4,0,stephanscom.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-77.75.21.32,4,78,steyr-arms.com,AT,Europe,Western Europe,Austria,,,
-195.190.26.234,4,2,stiegl.at,AT,Europe,Western Europe,Austria,,,
-5.183.217.48,4,3,stift-klosterneuburg.at,AT,Europe,Western Europe,Austria,,,
-37.252.187.41,4,25,stift-st-florian.at,AT,Europe,Western Europe,Austria,,,
-62.99.143.66,4,5,stifterhaus.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-94.247.146.82,4,2,stipendium.at,AT,Europe,Western Europe,Austria,,,
-85.31.14.41,4,-8392806,stleonhard.at,AT,Europe,Western Europe,Austria,Upper Austria,,Wels
-93.189.28.229,4,6,stocker-verlag.com,AT,Europe,Western Europe,Austria,,,
+77.75.21.32,4,-3,steyr-arms.com,AT,Europe,Western Europe,Austria,,,
+195.190.26.234,4,18,stiegl.at,AT,Europe,Western Europe,Austria,,,
+37.252.187.41,4,32,stift-st-florian.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+62.99.143.66,4,0,stifterhaus.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+94.247.146.82,4,9,stipendium.at,AT,Europe,Western Europe,Austria,,,
+93.189.28.229,4,8,stocker-verlag.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 178.255.156.84,4,11,stoos-muotatal.ch,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
-37.252.186.144,4,34,storyclash.com,AT,Europe,Western Europe,Austria,,,
-5.183.173.98,4,2,stroeck.at,AT,Europe,Western Europe,Austria,,,
-194.24.129.67,4,2,subnet.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-95.129.202.170,4,115934,superfly.fm,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-213.174.248.69,4,11,svried.at,AT,Europe,Western Europe,Austria,Upper Austria,,Ried im Innkreis
-89.58.18.7,4,72,tagdesdenkmals.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-193.34.206.79,4,5,tangerinedream-music.com,AT,Europe,Western Europe,Austria,,,
-91.143.107.58,4,3,tannheimertal.at,AT,Europe,Western Europe,Austria,Styria,,Graz
-195.2.221.10,4,3,tantefanny.at,AT,Europe,Western Europe,Austria,,,
-31.14.17.177,4,91,tatasteelchess.in,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-83.218.188.141,4,6,tauernspakaprun.com,AT,Europe,Western Europe,Austria,Tyrol,,
-89.106.208.57,4,-8,theinfluencers.org,AT,Europe,Western Europe,Austria,,,
-86.59.12.14,4,5,theioi.org,AT,Europe,Western Europe,Austria,,,
-193.58.164.240,4,7,therme-erding.de,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-83.218.188.117,4,9,therme-geinberg.at,AT,Europe,Western Europe,Austria,Tyrol,,
-93.189.31.148,4,22,therme-laa.at,AT,Europe,Western Europe,Austria,,,
-46.102.156.145,4,-1046,thregr.org,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-193.170.194.2,4,34,timesup.org,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-77.244.243.39,4,9,titanpad.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-188.172.220.51,4,7,tolltickets.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-94.247.150.117,4,15,topprodukte.at,AT,Europe,Western Europe,Austria,,,
-212.56.191.186,4,13,transkribus.eu,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-188.65.74.70,4,24,triumph-schongau.de,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
-95.129.200.110,4,12,trost.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-193.58.164.112,4,6,tui-reisecenter.de,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-193.58.164.93,4,4,tux.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
-188.172.236.218,4,6,tvcdn.de,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-5.254.187.132,4,13,umweltfoerderung.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-213.145.224.60,4,8,unesco.at,AT,Europe,Western Europe,Austria,,,
-193.171.87.37,4,3,unileoben.ac.at,AT,Europe,Western Europe,Austria,Styria,,Passail
-217.196.145.56,4,10,untha.com,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
-83.65.2.30,4,2,upc.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-5.183.217.131,4,7,urlaubshamster.de,AT,Europe,Western Europe,Austria,,,
-194.183.143.47,4,6,utilecopii.ro,AT,Europe,Western Europe,Austria,Vorarlberg,,Rankweil
-37.252.235.117,4,104985,vav.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-31.14.17.148,4,6,vbrae.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-94.247.150.155,4,13,versich.at,AT,Europe,Western Europe,Austria,,,
-5.11.3.68,4,74,vida.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-93.189.27.75,4,0,viennaticketoffice.com,AT,Europe,Western Europe,Austria,,,
-94.247.150.133,4,-2147,viktorfrankl.org,AT,Europe,Western Europe,Austria,,,
-194.177.128.69,4,4,visitklagenfurt.at,AT,Europe,Western Europe,Austria,,,
-109.70.102.68,4,75,vivo-shopping.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+37.252.186.144,4,16,storyclash.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+5.183.173.98,4,19,stroeck.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+152.53.229.13,4,20,strudel.cc,AT,Europe,Western Europe,Austria,,,
+83.64.189.151,4,21,stuhleck.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+194.24.129.67,4,25,subnet.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+152.53.209.136,4,-6,summertwilight.lk,AT,Europe,Western Europe,Austria,,,
+95.129.202.170,4,350902,superfly.fm,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+185.126.208.115,4,14,superskicard.com,AT,Europe,Western Europe,Austria,,,
+213.174.248.69,4,6,svried.at,AT,Europe,Western Europe,Austria,Upper Austria,,Ried im Innkreis
+193.34.206.79,4,24,tangerinedream.org,AT,Europe,Western Europe,Austria,,,
+91.143.107.58,4,29,tannheimertal.at,AT,Europe,Western Europe,Austria,Styria,,Graz
+83.218.161.119,4,16,tannheimertal.com,AT,Europe,Western Europe,Austria,Tyrol,,
+195.2.221.10,4,11,tantefanny.at,AT,Europe,Western Europe,Austria,,,
+31.14.17.177,4,11,tatasteelchess.in,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+83.218.188.141,4,14,tauernspakaprun.com,AT,Europe,Western Europe,Austria,Tyrol,,
+89.106.208.57,4,15,theinfluencers.org,AT,Europe,Western Europe,Austria,,,
+193.58.164.240,4,-11,therme-erding.de,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+83.218.188.117,4,10,therme-geinberg.at,AT,Europe,Western Europe,Austria,Tyrol,,
+93.189.31.148,4,15,therme-laa.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+46.102.156.145,4,-1990,thregr.org,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+77.244.243.39,4,22,titanpad.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+188.172.220.51,4,-3,tolltickets.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+185.44.210.5,4,17,tonstueck.at,AT,Europe,Western Europe,Austria,,,
+152.53.36.174,4,9,totallycoolpix.com,AT,Europe,Western Europe,Austria,,,
+212.56.191.186,4,30,transkribus.eu,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+94.198.139.115,4,16,trattlerhof.at,AT,Europe,Western Europe,Austria,Tyrol,,
+193.58.164.102,4,11,tributeband-live.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+188.65.74.70,4,16,triumph-duesseldorf.com,AT,Europe,Western Europe,Austria,Carinthia,,Klagenfurt
+95.129.200.110,4,3,trost.at,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+195.39.201.4,4,17,trustnbet.com,AT,Europe,Western Europe,Austria,,,
+193.58.164.112,4,5,tui-reisecenter.de,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+193.58.164.93,4,13,tux.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+213.145.224.60,4,10,unesco.at,AT,Europe,Western Europe,Austria,,,
+193.171.87.37,4,19,unileoben.ac.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+86.106.183.58,4,13,univetbantara.ac.id,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+217.196.145.56,4,17,untha.com,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
+83.65.2.30,4,29,upc.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+5.183.217.131,4,16,urlaubshamster.at,AT,Europe,Western Europe,Austria,,,
+194.183.143.47,4,11,utilecopii.ro,AT,Europe,Western Europe,Austria,Tyrol,,Saint Anton
+94.177.9.213,4,7,uugear.com,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+31.14.17.148,4,6,vbrae.com,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+152.53.38.167,4,277,vestibulandoweb.com.br,AT,Europe,Western Europe,Austria,,,
+94.198.139.116,4,19,viaclaudia.org,AT,Europe,Western Europe,Austria,Tyrol,,
+194.183.143.25,4,11,vienna.at,AT,Europe,Western Europe,Austria,Tyrol,,Saint Anton
+93.189.27.75,4,31,viennaticketoffice.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+94.247.150.133,4,-5207,viktorfrankl.org,AT,Europe,Western Europe,Austria,,,
+213.143.122.71,4,73859,vis.ac.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+194.177.128.69,4,-6,visitklagenfurt.at,AT,Europe,Western Europe,Austria,Carinthia,,Villach
+109.70.102.68,4,12,vivo-shopping.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 217.196.146.208,4,68,voglauer.com,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
-194.183.143.25,4,6,vol.at,AT,Europe,Western Europe,Austria,Vorarlberg,,Rankweil
-94.247.144.154,4,26,vor.at,AT,Europe,Western Europe,Austria,,,
-194.183.143.48,4,17,vorarlbergernachrichten.at,AT,Europe,Western Europe,Austria,Vorarlberg,,Rankweil
-94.198.140.100,4,2,waldrapp.eu,AT,Europe,Western Europe,Austria,Tyrol,,
+194.183.147.40,4,21,vol.at,AT,Europe,Western Europe,Austria,Vorarlberg,,Hard
+93.189.30.8,4,-111646,volkskundemuseum.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+94.247.144.154,4,11,vor.at,AT,Europe,Western Europe,Austria,,,
+194.183.143.48,4,62,vorarlbergernachrichten.at,AT,Europe,Western Europe,Austria,Tyrol,,Saint Anton
+94.198.140.100,4,14,waldrapp.eu,AT,Europe,Western Europe,Austria,Tyrol,,
 38.180.197.167,4,12,websmush.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-77.244.247.199,4,5,weihnachtsmarkt.co.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-213.145.224.100,4,10,weingut-schlager.at,AT,Europe,Western Europe,Austria,,,
-83.218.188.152,4,10,weissesroessl.at,AT,Europe,Western Europe,Austria,Tyrol,,
-94.198.139.122,4,8,wellnesshotel.com,AT,Europe,Western Europe,Austria,Tyrol,,
-185.126.20.160,4,5,werk-x.at,AT,Europe,Western Europe,Austria,,,
-185.51.198.151,4,5,whu.edu,AT,Europe,Western Europe,Austria,,,
-146.255.56.83,4,20,wien.rocks,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-185.140.140.136,4,33,wienerriesenrad.com,AT,Europe,Western Europe,Austria,,,
-185.26.191.2,4,5,wienholding.at,AT,Europe,Western Europe,Austria,,,
-195.2.221.22,4,41,wienmitte-themall.at,AT,Europe,Western Europe,Austria,,,
-94.247.146.64,4,15,wienmuseum.at,AT,Europe,Western Europe,Austria,,,
+195.39.201.2,4,6,weddenbonus.com,AT,Europe,Western Europe,Austria,,,
+77.244.247.199,4,-2,weihnachtsmarkt.co.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+83.218.188.152,4,-8,weissesroessl.at,AT,Europe,Western Europe,Austria,Tyrol,,
+149.154.152.151,4,-8,wellness-point.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+94.198.139.122,4,12,wellnesshotel.com,AT,Europe,Western Europe,Austria,Tyrol,,
+185.126.20.160,4,5,werk-x.at,AT,Europe,Western Europe,Austria,Lower Austria,,Schönau an der Triesting
+83.68.128.4,4,12,wett-apps.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+81.16.148.29,4,14,wett-bonus.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+185.140.140.136,4,22,wienerriesenrad.com,AT,Europe,Western Europe,Austria,,,
+195.2.221.22,4,9,wienmitte-themall.at,AT,Europe,Western Europe,Austria,,,
+94.247.146.64,4,4,wienmuseum.at,AT,Europe,Western Europe,Austria,,,
+83.68.131.93,4,-6,wienxtra.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 83.68.131.89,4,17,wienxtra.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-91.221.138.29,4,9,wikipedia.at,AT,Europe,Western Europe,Austria,,,
-193.22.104.2,4,11,willhaben.at,AT,Europe,Western Europe,Austria,,,
-77.244.243.51,4,0,wincept.eu,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-185.69.160.74,4,3,windhager.com,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
-94.177.8.119,4,6,windowsbbs.com,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-77.242.72.36,4,9,wintersteiger.com,AT,Europe,Western Europe,Austria,Upper Austria,,Ried im Innkreis
-5.183.216.4,4,2,wittmann.at,AT,Europe,Western Europe,Austria,,,
-83.219.161.15,4,30,woergl.at,AT,Europe,Western Europe,Austria,Tyrol,,Wörgl
+94.247.146.105,4,0,wienzufuss.at,AT,Europe,Western Europe,Austria,,,
+91.221.138.29,4,21,wikipedia.at,AT,Europe,Western Europe,Austria,,,
+152.53.110.17,4,4,wikiservice.at,AT,Europe,Western Europe,Austria,,,
+89.58.18.52,4,7,wildeboer.net,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+185.126.208.107,4,19,wilderkaiser.info,AT,Europe,Western Europe,Austria,,,
+193.22.104.2,4,8,willhaben.at,AT,Europe,Western Europe,Austria,,,
+185.69.160.74,4,7,windhager.com,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
+94.177.8.119,4,5,windowsbbs.com,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+77.242.72.36,4,18,wintersteiger.com,AT,Europe,Western Europe,Austria,Upper Austria,,Ried im Innkreis
+5.183.216.4,4,10,wittmann.at,AT,Europe,Western Europe,Austria,,,
+83.219.161.15,4,23,woergl.at,AT,Europe,Western Europe,Austria,Tyrol,,Wörgl
 188.172.204.110,4,95,wohnnet.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-192.138.211.2,4,2,wthashtag.com,AT,Europe,Western Europe,Austria,Upper Austria,,Rainbach im Mühlkreis
-93.189.24.54,4,10,wua-wien.at,AT,Europe,Western Europe,Austria,,,
-194.208.76.9,4,2944,wucher-helicopter.at,AT,Europe,Western Europe,Austria,Vorarlberg,,Rankweil
-95.129.206.26,4,-13182,wuk.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-91.220.179.200,4,6,wwtf.at,AT,Europe,Western Europe,Austria,,,
+185.51.199.78,4,24,wolftheiss.com,AT,Europe,Western Europe,Austria,,,
+152.53.184.68,4,11,wpfastestcache.com,AT,Europe,Western Europe,Austria,,,
+93.189.24.54,4,3,wua-wien.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
+194.208.76.9,4,4,wucher-helicopter.at,AT,Europe,Western Europe,Austria,Tyrol,,Saint Anton
+95.129.206.26,4,1049,wuk.at,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+91.220.179.200,4,7,wwtf.at,AT,Europe,Western Europe,Austria,,,
+38.180.59.132,4,27,xn--80adjaaqabpiqn.xn--p1ai,AT,Europe,Western Europe,Austria,Vienna,,Vienna
 213.153.32.183,4,128,xn--dorfbckerei-steger-ptb.at,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
-152.53.44.80,4,17540,youngscience.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-193.200.113.104,4,5,zdravotniklaun.cz,AT,Europe,Western Europe,Austria,,,
-77.244.243.24,4,75,zerowasteaustria.at,AT,Europe,Western Europe,Austria,Vienna,,Vienna
-193.58.164.37,4,18,zillertal-bier.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
+5.254.187.132,4,-1,xn--gerte-retter-prmie-ntbm.at,AT,Europe,Western Europe,Austria,,,
+185.52.189.13,4,9,xn--mgbaaap8b7gfgcrbcxbhwhf.com,AT,Europe,Western Europe,Austria,,,
+91.206.8.177,4,8,yesss.at,AT,Europe,Western Europe,Austria,,,
+152.53.92.68,4,-16,zahnaerztekammer.at,AT,Europe,Western Europe,Austria,,,
+193.200.113.104,4,2,zdravotniklaun.cz,AT,Europe,Western Europe,Austria,,,
+217.196.145.108,4,14,zellamsee.at,AT,Europe,Western Europe,Austria,Salzburg,,Salzburg
+193.58.164.37,4,4,zillertal-bier.at,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
 193.58.164.124,4,9,zillertalarena.com,AT,Europe,Western Europe,Austria,Tyrol,,Innsbruck
 91.206.237.93,4,4,zimo.at,AT,Europe,Western Europe,Austria,,,
-82.150.199.225,4,4,zuerisee.ch,AT,Europe,Western Europe,Austria,Tyrol,,Seefeld in Tirol

@@ -1,949 +1,1269 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 194.117.236.202,4,1351,121.ro,RO,Europe,Eastern Europe,Romania,,,
-195.191.47.33,4,-149574,1616.ro,RO,Europe,Eastern Europe,Romania,,,
+195.191.47.33,4,-4,1616.ro,RO,Europe,Eastern Europe,Romania,,,
 93.113.55.76,4,933,1asig.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 45.129.65.133,4,6,1px.ro,RO,Europe,Eastern Europe,Romania,,,
-185.220.186.173,4,5,2biz.ro,RO,Europe,Eastern Europe,Romania,,,
-89.42.39.160,4,670886,3x.ro,RO,Europe,Eastern Europe,Romania,,,
-89.42.38.155,4,670885,3xforum.ro,RO,Europe,Eastern Europe,Romania,,,
+185.220.186.173,4,11,2biz.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.38.155,4,1501409,3xforum.ro,RO,Europe,Eastern Europe,Romania,,,
 194.88.148.34,4,30874,4tuning.ro,RO,Europe,Eastern Europe,Romania,,,
-81.196.84.126,4,804918,800mb.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-80.96.7.66,4,803,ablog.ro,RO,Europe,Eastern Europe,Romania,,,
+185.146.87.112,4,0,7iasi.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+81.196.84.126,4,643522,800mb.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+80.96.7.66,4,1,ablog.ro,RO,Europe,Eastern Europe,Romania,,,
 193.226.7.211,4,6892132,academicdirect.org,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
 217.19.14.37,4,65,acadiasi.ro,RO,Europe,Eastern Europe,Romania,,,
-89.45.197.162,4,22,acasa.ro,RO,Europe,Eastern Europe,Romania,,,
-5.2.139.93,4,7,accentgroup.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-37.156.180.126,4,46,ach.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.45.197.162,4,16,acasa.ro,RO,Europe,Eastern Europe,Romania,,,
+5.2.139.93,4,-1,accentgroup.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 85.120.19.82,4,8,acr.ro,RO,Europe,Eastern Europe,Romania,,,
+85.121.32.156,4,-3,actamedicamarisiensis.ro,RO,Europe,Eastern Europe,Romania,,,
 45.134.162.170,4,10,activecitizensfund.ro,RO,Europe,Eastern Europe,Romania,,,
-81.181.253.206,4,59,activenews.ro,RO,Europe,Eastern Europe,Romania,,,
-193.226.70.248,4,4,actmedia.eu,RO,Europe,Eastern Europe,Romania,,,
-89.45.15.215,4,1396,adelaparvu.com,RO,Europe,Eastern Europe,Romania,,,
-81.181.254.122,4,34,adielatravel.ro,RO,Europe,Eastern Europe,Romania,,,
+81.181.253.206,4,3,activenews.ro,RO,Europe,Eastern Europe,Romania,,,
+193.226.70.248,4,5,actmedia.eu,RO,Europe,Eastern Europe,Romania,,,
+89.44.109.165,4,560,actualtaxi.ro,RO,Europe,Eastern Europe,Romania,,,
+91.102.64.54,4,35,adcs.org.uk,RO,Europe,Eastern Europe,Romania,,,
+89.45.15.215,4,1760,adelaparvu.com,RO,Europe,Eastern Europe,Romania,,,
+81.181.254.122,4,-864,adielatravel.ro,RO,Europe,Eastern Europe,Romania,,,
+93.113.174.94,4,-14,adihadean.ro,RO,Europe,Eastern Europe,Romania,,,
 89.44.120.139,4,13,administratie.ro,RO,Europe,Eastern Europe,Romania,,,
+85.9.58.134,4,-12,adrmuntenia.ro,RO,Europe,Eastern Europe,Romania,Ilfov,,Popeşti-Leordeni
 185.146.84.92,4,103,adtob.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.42.218.34,4,1274,aegps.com,RO,Europe,Eastern Europe,Romania,,,
-185.248.199.173,4,6,agendaconstructiilor.ro,RO,Europe,Eastern Europe,Romania,,,
+195.8.196.34,4,-5,af-ad.co.uk,RO,Europe,Eastern Europe,Romania,,,
+185.248.199.173,4,-3,agendaconstructiilor.ro,RO,Europe,Eastern Europe,Romania,,,
 89.33.26.112,4,722,agendepiele.biz,RO,Europe,Eastern Europe,Romania,,,
 5.35.208.162,4,242,agentiadecarte.ro,RO,Europe,Eastern Europe,Romania,,,
-85.9.26.12,4,-289,agentiadepresamondena.com,RO,Europe,Eastern Europe,Romania,Ilfov,,Popeşti-Leordeni
+85.9.26.12,4,-289,agentiadepresamondena.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 91.188.227.250,4,21,agro-tv.ro,RO,Europe,Eastern Europe,Romania,,,
-185.146.85.178,4,39,agroinfo.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.42.218.250,4,987,ajungemmari.ro,RO,Europe,Eastern Europe,Romania,,,
-85.9.26.206,4,1121,akemi.ro,RO,Europe,Eastern Europe,Romania,Ilfov,,Popeşti-Leordeni
+89.42.218.250,4,939,ajungemmari.ro,RO,Europe,Eastern Europe,Romania,,,
+188.212.252.241,4,-360,ajutorlucrarelicenta.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+37.156.4.240,4,970,akemi.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+85.9.26.206,4,1121,akemi.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 93.119.153.3,4,3056,alaskanmalamute.ro,RO,Europe,Eastern Europe,Romania,,,
-93.113.11.171,4,4,alephnews.ro,RO,Europe,Eastern Europe,Romania,,,
-89.37.143.203,4,24,alistmagazine.ro,RO,Europe,Eastern Europe,Romania,,,
+93.113.11.171,4,31,alephnews.ro,RO,Europe,Eastern Europe,Romania,,,
+81.181.254.245,4,-891,aleva.ro,RO,Europe,Eastern Europe,Romania,,,
+188.240.2.42,4,-1,alexandrumarin.com,RO,Europe,Eastern Europe,Romania,,,
+85.9.19.129,4,-681,alexisme.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.37.143.2,4,39,alistmagazine.ro,RO,Europe,Eastern Europe,Romania,,,
+89.40.72.186,4,764,all.ro,RO,Europe,Eastern Europe,Romania,,,
 85.120.222.68,4,74,all.ro,RO,Europe,Eastern Europe,Romania,,,
-176.126.200.100,4,12,allianztc.ro,RO,Europe,Eastern Europe,Romania,,,
-85.120.59.42,4,54428,alltvspots.com,RO,Europe,Eastern Europe,Romania,,,
-86.104.13.201,4,17,allview.ro,RO,Europe,Eastern Europe,Romania,,,
-194.117.236.228,4,1640,alpinet.org,RO,Europe,Eastern Europe,Romania,,,
-146.19.133.234,4,28,altgradauto.ro,RO,Europe,Eastern Europe,Romania,,,
+176.126.200.100,4,10,allianztc.ro,RO,Europe,Eastern Europe,Romania,,,
+195.88.80.203,4,7,alloverescorts.com,RO,Europe,Eastern Europe,Romania,,,
+85.120.59.42,4,1253,alltvspots.com,RO,Europe,Eastern Europe,Romania,,,
+86.104.13.201,4,183,allview.ro,RO,Europe,Eastern Europe,Romania,,,
+194.117.236.228,4,2440,alpinet.org,RO,Europe,Eastern Europe,Romania,,,
+146.19.133.234,4,2,altgradauto.ro,RO,Europe,Eastern Europe,Romania,,,
+89.40.17.176,4,305,amanetelectronicetimisoara.com,RO,Europe,Eastern Europe,Romania,,,
 94.176.105.169,4,7,ambilet.ro,RO,Europe,Eastern Europe,Romania,Arad County,,Curtici
-93.115.112.13,4,13667,amfostacolo.ro,RO,Europe,Eastern Europe,Romania,,,
+93.115.112.13,4,15691,amfostacolo.ro,RO,Europe,Eastern Europe,Romania,,,
+185.236.84.150,4,2,anapan.ro,RO,Europe,Eastern Europe,Romania,,,
 89.36.154.170,4,64,anat.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 213.177.10.50,4,70,andnet.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 91.188.226.150,4,15,andra-cretu.com,RO,Europe,Eastern Europe,Romania,,,
-84.232.181.64,4,6,angelli.ro,RO,Europe,Eastern Europe,Romania,Teleorman County,,Alexandria
-80.96.35.187,4,36,animest.ro,RO,Europe,Eastern Europe,Romania,,,
-193.169.156.1,4,63,anm.ro,RO,Europe,Eastern Europe,Romania,,,
-31.14.23.18,4,50,anpc.ro,RO,Europe,Eastern Europe,Romania,,,
+89.35.192.210,4,15,anes.gov.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+185.199.175.123,4,472,angelinecakes.ro,RO,Europe,Eastern Europe,Romania,,,
+84.232.181.64,4,0,angelli.ro,RO,Europe,Eastern Europe,Romania,Teleorman County,,Alexandria
+193.189.75.58,4,5,angloamericanoptical.co.uk,RO,Europe,Eastern Europe,Romania,,,
+188.240.3.105,4,14,anidescoala.ro,RO,Europe,Eastern Europe,Romania,,,
+80.96.35.187,4,0,animest.ro,RO,Europe,Eastern Europe,Romania,,,
+193.169.156.1,4,14,anm.ro,RO,Europe,Eastern Europe,Romania,,,
 213.177.27.66,4,600066,anrmap.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-176.223.110.90,4,9,antipa.ro,RO,Europe,Eastern Europe,Romania,,,
-93.113.28.251,4,19,apti.ro,RO,Europe,Eastern Europe,Romania,,,
-193.231.246.1,4,21,apulum.ro,RO,Europe,Eastern Europe,Romania,,,
-93.115.114.94,4,2528,aquarell.ro,RO,Europe,Eastern Europe,Romania,,,
+89.37.143.160,4,-2,antipa.ro,RO,Europe,Eastern Europe,Romania,,,
+193.151.29.16,4,5,apia.org.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+74.117.153.19,4,558,appseed.us,RO,Europe,Eastern Europe,Romania,,,
+93.113.28.251,4,-20,apti.ro,RO,Europe,Eastern Europe,Romania,,,
+193.231.246.1,4,-5,apulum.ro,RO,Europe,Eastern Europe,Romania,,,
+89.40.32.232,4,507,aquarell.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 185.146.87.79,4,5,arc.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-45.15.23.224,4,6,archeus.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-86.107.57.235,4,60,arcub.ro,RO,Europe,Eastern Europe,Romania,,,
-89.43.174.34,4,65,arhiblog.ro,RO,Europe,Eastern Europe,Romania,,,
-86.105.216.196,4,285749,armyacademy.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-193.231.147.202,4,39,arteiasi.ro,RO,Europe,Eastern Europe,Romania,,,
-31.14.23.204,4,49,artigianix.ro,RO,Europe,Eastern Europe,Romania,,,
+86.107.57.235,4,-3,arcub.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.43.174.34,4,-35,arhiblog.ro,RO,Europe,Eastern Europe,Romania,,,
+86.105.216.196,4,630203,armyacademy.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+185.199.172.199,4,137,arr.ro,RO,Europe,Eastern Europe,Romania,,,
+193.231.147.202,4,8,arteiasi.ro,RO,Europe,Eastern Europe,Romania,,,
+31.14.23.204,4,1,artigianix.com,RO,Europe,Eastern Europe,Romania,,,
 193.169.136.219,4,4,asro.ro,RO,Europe,Eastern Europe,Romania,,,
-45.129.64.93,4,844,astazi.ro,RO,Europe,Eastern Europe,Romania,,,
+184.75.241.70,4,12,asse.com,RO,Europe,Eastern Europe,Romania,,,
+45.129.64.93,4,509,astazi.ro,RO,Europe,Eastern Europe,Romania,,,
+45.134.163.106,4,610,astrafilm.ro,RO,Europe,Eastern Europe,Romania,,,
+37.156.4.82,4,-782,attotrafic.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 89.40.33.215,4,511,attotrafic.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-93.115.53.125,4,27,aurelian.ro,RO,Europe,Eastern Europe,Romania,,,
+89.44.47.83,4,-7,atv-de-vanzare.ro,RO,Europe,Eastern Europe,Romania,,,
 89.35.161.31,4,792,autismancaar.ro,RO,Europe,Eastern Europe,Romania,,,
 89.42.218.251,4,335,autismromania.ro,RO,Europe,Eastern Europe,Romania,,,
 46.102.250.6,4,20,autogari.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.55,4,422,autogenova.ro,RO,Europe,Eastern Europe,Romania,,,
+89.44.139.106,4,3086,autorally.ro,RO,Europe,Eastern Europe,Romania,,,
 89.44.105.182,4,594,autosic.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.37.157.1,4,4,autospectator.com,RO,Europe,Eastern Europe,Romania,,,
-83.97.20.141,4,58,avax-wallet.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.42.218.173,4,1050,aviseco.ro,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.8,4,1293,avistravel.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.173,4,1062,aviseco.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.8,4,2750,avistravel.ro,RO,Europe,Eastern Europe,Romania,,,
 193.189.98.234,4,54,avocatnet.ro,RO,Europe,Eastern Europe,Romania,,,
-89.45.194.5,4,10991,avocatura.com,RO,Europe,Eastern Europe,Romania,,,
-80.86.107.131,4,2,axigen.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-86.104.182.182,4,-799,b-mall.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-86.124.19.142,4,12,baar.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-185.104.182.79,4,765,baiamare.ro,RO,Europe,Eastern Europe,Romania,,,
-86.104.220.20,4,17,banatulazi.ro,RO,Europe,Eastern Europe,Romania,,,
-185.36.252.215,4,141,baniiq.ro,RO,Europe,Eastern Europe,Romania,,,
+89.45.194.5,4,165013,avocatura.com,RO,Europe,Eastern Europe,Romania,,,
+86.105.108.122,4,58,avp.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+188.212.101.125,4,12,b-zone.ro,RO,Europe,Eastern Europe,Romania,,,
+86.124.19.142,4,1,baar.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+185.104.182.79,4,574,baiamare.ro,RO,Europe,Eastern Europe,Romania,,,
+86.104.220.20,4,6,banatulazi.ro,RO,Europe,Eastern Europe,Romania,,,
+85.120.223.107,4,-6,bancherul.ro,RO,Europe,Eastern Europe,Romania,,,
+185.36.252.215,4,311,baniiq.ro,RO,Europe,Eastern Europe,Romania,,,
 217.19.15.228,4,509,banknews.ro,RO,Europe,Eastern Europe,Romania,,,
-193.231.9.17,4,-4597117,bcub.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.34,4,3440,baroqueevents.ro,RO,Europe,Eastern Europe,Romania,,,
+31.14.8.35,4,0,bb-shop.ro,RO,Europe,Eastern Europe,Romania,,,
+193.231.9.17,4,-6,bcub.ro,RO,Europe,Eastern Europe,Romania,,,
 185.92.194.90,4,70,beatricedesign.ro,RO,Europe,Eastern Europe,Romania,,,
-193.151.29.15,4,-27,bec.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-80.86.106.231,4,2,bei.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+193.151.29.15,4,4,bec.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 91.195.29.125,4,174,beko.ro,RO,Europe,Eastern Europe,Romania,,,
-93.113.174.11,4,16,belsorriso.ro,RO,Europe,Eastern Europe,Romania,,,
+89.33.26.189,4,1890,bellisiciliani.ro,RO,Europe,Eastern Europe,Romania,,,
+185.171.185.95,4,1458,bettinginside.ro,RO,Europe,Eastern Europe,Romania,,,
 89.45.193.68,4,24,beturi.ro,RO,Europe,Eastern Europe,Romania,,,
-213.177.9.178,4,27,biblacad.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-45.134.161.156,4,3,bigbrands-outlet.ro,RO,Europe,Eastern Europe,Romania,,,
-176.223.126.121,4,493,bistriteanu.ro,RO,Europe,Eastern Europe,Romania,,,
+213.177.9.178,4,-18,biblacad.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+45.134.161.156,4,-9,bigbrands-outlet.ro,RO,Europe,Eastern Europe,Romania,,,
+185.18.226.194,4,-5,bilet.ro,RO,Europe,Eastern Europe,Romania,,,
+85.9.35.36,4,1500,bilete-pariuri.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+188.213.20.225,4,-14,bioo.ro,RO,Europe,Eastern Europe,Romania,,,
+86.107.78.55,4,-751,biozoojournals.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+176.223.126.121,4,762,bistriteanu.ro,RO,Europe,Eastern Europe,Romania,,,
+89.45.193.2,4,316,bistrodorobanti.ro,RO,Europe,Eastern Europe,Romania,,,
 83.97.20.38,4,39,bitcheese.net,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.39.246.191,4,6,bizbrasov.ro,RO,Europe,Eastern Europe,Romania,,,
+89.39.246.191,4,527,bizbrasov.ro,RO,Europe,Eastern Europe,Romania,,,
 5.154.224.56,4,3,blacksea-cbc.net,RO,Europe,Eastern Europe,Romania,,,
-89.44.105.96,4,97,blogs-collection.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-45.129.64.89,4,2360,blt.ro,RO,Europe,Eastern Europe,Romania,,,
+185.171.187.197,4,623,blastsoltech.com,RO,Europe,Eastern Europe,Romania,,,
+185.250.104.94,4,-4,blogactiv.eu,RO,Europe,Eastern Europe,Romania,,,
+89.44.105.96,4,-673,blogs-collection.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+45.129.64.89,4,2240,blt.ro,RO,Europe,Eastern Europe,Romania,,,
 81.181.253.237,4,39,boardingpass.ro,RO,Europe,Eastern Europe,Romania,,,
 89.33.197.197,4,9,bocu.ro,RO,Europe,Eastern Europe,Romania,,,
-93.114.248.241,4,285,book-land.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.41.38.162,4,1241,bookaholic.ro,RO,Europe,Eastern Europe,Romania,,,
-195.64.179.195,4,148,botosani.ro,RO,Europe,Eastern Europe,Romania,,,
+85.9.19.238,4,-416,boogie-bar.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+80.97.162.140,4,1714,bookhub.ro,RO,Europe,Eastern Europe,Romania,,,
+86.105.152.30,4,2,bradet-rezidence.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+185.181.241.16,4,-1199,braicoop.ro,RO,Europe,Eastern Europe,Romania,,,
 89.40.16.152,4,-8,braila-portal.ro,RO,Europe,Eastern Europe,Romania,,,
-84.232.181.52,4,6,brainbond.ro,RO,Europe,Eastern Europe,Romania,Teleorman County,,Alexandria
-89.44.137.93,4,35,bran-castle.com,RO,Europe,Eastern Europe,Romania,,,
-91.206.161.230,4,1109,brandminds.com,RO,Europe,Eastern Europe,Romania,,,
+84.232.181.52,4,16,brainbond.ro,RO,Europe,Eastern Europe,Romania,Teleorman County,,Alexandria
+185.236.85.146,4,27,bran-castle.com,RO,Europe,Eastern Europe,Romania,,,
+91.206.161.230,4,1,brandminds.com,RO,Europe,Eastern Europe,Romania,,,
 89.33.27.132,4,857,brazicraciun.net,RO,Europe,Eastern Europe,Romania,,,
-89.42.26.163,4,143,brukenthalmuseum.ro,RO,Europe,Eastern Europe,Romania,,,
+80.96.145.251,4,536,brukenthalmuseum.ro,RO,Europe,Eastern Europe,Romania,,,
 176.223.121.156,4,8,bruneitourism.travel,RO,Europe,Eastern Europe,Romania,,,
-185.247.224.91,4,9,btnull.org,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-86.107.169.249,4,838,bucharest-marathon.com,RO,Europe,Eastern Europe,Romania,,,
+89.44.138.188,4,4,brutariacumaia.ro,RO,Europe,Eastern Europe,Romania,,,
+86.107.169.249,4,2512,bucharest-marathon.com,RO,Europe,Eastern Europe,Romania,,,
 185.104.182.68,4,11,bucuresteni.ro,RO,Europe,Eastern Europe,Romania,,,
-85.204.100.11,4,7,bucurestifm.ro,RO,Europe,Eastern Europe,Romania,,,
-89.43.174.96,4,1,bursa.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.72,4,1479,bunincarieranucleara.ro,RO,Europe,Eastern Europe,Romania,,,
+85.120.19.86,4,3,bunsimt.ro,RO,Europe,Eastern Europe,Romania,,,
+89.43.174.96,4,9,bursa.ro,RO,Europe,Eastern Europe,Romania,,,
 176.126.172.52,4,9,businesscover.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-93.113.11.102,4,11,businessmagazin.ro,RO,Europe,Eastern Europe,Romania,,,
+93.113.11.102,4,4,businessmagazin.ro,RO,Europe,Eastern Europe,Romania,,,
 185.244.151.84,4,4,businessopad.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-185.251.28.214,4,7,bzi.ro,RO,Europe,Eastern Europe,Romania,,,
+89.38.233.156,4,547,byzantion.ro,RO,Europe,Eastern Europe,Romania,,,
+86.105.152.174,4,-5,bzb.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+185.251.28.214,4,-4,bzi.ro,RO,Europe,Eastern Europe,Romania,,,
+185.248.197.125,4,1,c3solutions.ro,RO,Europe,Eastern Europe,Romania,,,
 213.177.4.142,4,-5,caa.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.42.218.79,4,973,cadibo.ro,RO,Europe,Eastern Europe,Romania,,,
-193.203.205.90,4,961,cadouri-din-inima.ro,RO,Europe,Eastern Europe,Romania,,,
-85.120.58.199,4,1058,caini-de-vanzare.ro,RO,Europe,Eastern Europe,Romania,,,
-89.42.219.189,4,238,caleaeuropeana.ro,RO,Europe,Eastern Europe,Romania,,,
-84.234.96.221,4,9,carfratiafiliasi.ro,RO,Europe,Eastern Europe,Romania,,,
-176.126.200.105,4,5,carpatair.com,RO,Europe,Eastern Europe,Romania,,,
-46.102.146.183,4,186,carpathia.org,RO,Europe,Eastern Europe,Romania,,,
-185.173.18.65,4,8,cartepedia.ro,RO,Europe,Eastern Europe,Romania,,,
-81.196.111.74,4,5,carturesti.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-94.177.36.83,4,10,castel.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+91.213.188.11,4,15,cadouri-din-inima.ro,RO,Europe,Eastern Europe,Romania,,,
+89.39.246.28,4,528,calculators.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.219.189,4,1208,caleaeuropeana.ro,RO,Europe,Eastern Europe,Romania,,,
+80.97.51.70,4,-656,calusaru.ro,RO,Europe,Eastern Europe,Romania,,,
+188.241.152.179,4,1481,carconfort.ro,RO,Europe,Eastern Europe,Romania,,,
+176.126.200.105,4,59,carpatair.com,RO,Europe,Eastern Europe,Romania,,,
+46.102.146.183,4,-532,carpathia.org,RO,Europe,Eastern Europe,Romania,,,
+188.211.165.50,4,-5,carpati.org,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+85.120.59.127,4,1255,carprogresulcfr.ro,RO,Europe,Eastern Europe,Romania,,,
+81.196.111.74,4,2,carturesti.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+45.14.238.61,4,243,casafrosa.ro,RO,Europe,Eastern Europe,Romania,,,
+77.81.164.37,4,1251,casinoinside.ro,RO,Europe,Eastern Europe,Romania,,,
+94.177.36.83,4,-5,castel.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.44.137.93,4,1064,castelulbran.ro,RO,Europe,Eastern Europe,Romania,,,
+188.213.20.165,4,3022,casteluldracula.ro,RO,Europe,Eastern Europe,Romania,,,
 176.126.200.3,4,18,castlesworld.com,RO,Europe,Eastern Europe,Romania,,,
-89.41.38.107,4,1234,catavencii.ro,RO,Europe,Eastern Europe,Romania,,,
 195.88.81.76,4,1326,catavencu.ro,RO,Europe,Eastern Europe,Romania,,,
 89.33.197.166,4,5,cauciucurijante.ro,RO,Europe,Eastern Europe,Romania,,,
+89.44.105.210,4,916,cautis.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+185.146.86.235,4,7,cazino.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 85.120.19.219,4,18,ccerpa.ro,RO,Europe,Eastern Europe,Romania,,,
 89.36.133.247,4,1014,ccir.ro,RO,Europe,Eastern Europe,Romania,,,
-130.195.251.52,4,3,ceccar.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-176.126.200.72,4,9945,ceelegalmatters.com,RO,Europe,Eastern Europe,Romania,,,
+130.195.251.52,4,-28,ceccarmehedinti.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 95.214.135.198,4,20,centralatelefonica.ro,RO,Europe,Eastern Europe,Romania,,,
-89.42.231.69,4,8,cfr1907.ro,RO,Europe,Eastern Europe,Romania,,,
-193.230.156.43,4,18,cfrcalatori.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.41.114,4,38,cfr1907.ro,RO,Europe,Eastern Europe,Romania,,,
+193.230.156.43,4,-16,cfrcalatori.ro,RO,Europe,Eastern Europe,Romania,,,
 188.241.116.103,4,3,chara-hobby.com,RO,Europe,Eastern Europe,Romania,,,
-86.105.152.166,4,28,chris-tv.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.36.93.13,4,-1758,chroot.ro,RO,Europe,Eastern Europe,Romania,,,
-193.203.204.202,4,906,citatepedia.ro,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.44,4,954,cji.ro,RO,Europe,Eastern Europe,Romania,,,
-89.121.198.226,4,-2274307,cjneamt.ro,RO,Europe,Eastern Europe,Romania,Suceava,,Liteni
-136.255.207.138,4,5,cjph.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-31.14.14.72,4,5,clapat-themes.com,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.249,4,624,classiq.me,RO,Europe,Eastern Europe,Romania,,,
-85.9.63.215,4,-429,classoft.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-85.9.19.29,4,779,clausweb.ro,RO,Europe,Eastern Europe,Romania,Ilfov,,Popeşti-Leordeni
-89.35.7.178,4,24,clickbox.ro,RO,Europe,Eastern Europe,Romania,,,
-194.88.148.18,4,36,clopotel.ro,RO,Europe,Eastern Europe,Romania,,,
+194.36.143.89,4,502,childpsy.org,RO,Europe,Eastern Europe,Romania,,,
+86.105.152.166,4,14,chris-pc.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.36.93.13,4,4,chroot.ro,RO,Europe,Eastern Europe,Romania,,,
+37.156.4.15,4,-859,cinepub.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+184.75.254.188,4,98,cippec.org,RO,Europe,Eastern Europe,Romania,,,
+45.134.161.108,4,-5,citadinul.ro,RO,Europe,Eastern Europe,Romania,,,
+194.242.46.19,4,-27108,citatepedia.ro,RO,Europe,Eastern Europe,Romania,,,
+93.115.32.14,4,-26,citycafemenu.com,RO,Europe,Eastern Europe,Romania,,,
+89.121.198.226,4,-2274307,cjneamt.ro,RO,Europe,Eastern Europe,Romania,Brăila County,,Brăila
+80.97.226.146,4,-7,cjph.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+85.204.145.130,4,-19,cjtulcea.ro,RO,Europe,Eastern Europe,Romania,,,
+31.14.14.72,4,-2,clapat-themes.com,RO,Europe,Eastern Europe,Romania,,,
+85.204.69.227,4,1208,classoft.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.37.212.77,4,477,classpark.ro,RO,Europe,Eastern Europe,Romania,,,
+85.9.19.19,4,1096,clausweb.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+85.9.19.29,4,779,clausweb.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+92.114.95.4,4,-19,clever-recruitment.ro,RO,Europe,Eastern Europe,Romania,,,
+89.35.7.178,4,-7,clickbox.ro,RO,Europe,Eastern Europe,Romania,,,
+194.88.148.18,4,-6,clopotel.ro,RO,Europe,Eastern Europe,Romania,,,
 176.223.126.72,4,2072,clubaudi.ro,RO,Europe,Eastern Europe,Romania,,,
 185.236.84.156,4,5,clubferoviar.ro,RO,Europe,Eastern Europe,Romania,,,
-91.209.189.43,4,3,clujit.ro,RO,Europe,Eastern Europe,Romania,,,
-212.93.145.10,4,5,cmu-edu.eu,RO,Europe,Eastern Europe,Romania,Brașov County,,Brasov
+91.209.189.43,4,3,clujit.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
+92.114.98.161,4,791,cmcabroad.com,RO,Europe,Eastern Europe,Romania,,,
+212.93.145.10,4,-6,cmu-edu.eu,RO,Europe,Eastern Europe,Romania,Brașov County,,Brasov
 91.188.226.95,4,3,cna.ro,RO,Europe,Eastern Europe,Romania,,,
 93.113.174.182,4,1,cnas.ro,RO,Europe,Eastern Europe,Romania,,,
-185.171.185.26,4,1034,cndt.ro,RO,Europe,Eastern Europe,Romania,,,
-85.9.35.39,4,910,cnscbt.ro,RO,Europe,Eastern Europe,Romania,Teleorman County,,Alexandria
-193.239.85.202,4,-51,cock.li,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-81.181.255.199,4,4,codurisoftware.ro,RO,Europe,Eastern Europe,Romania,,,
+185.171.185.26,4,122,cndt.ro,RO,Europe,Eastern Europe,Romania,,,
+193.151.29.33,4,-25,cnsas.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+85.9.35.39,4,910,cnscbt.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.42.42.61,4,-1,coasta-de-azur.fr,RO,Europe,Eastern Europe,Romania,Alba County,,Coleșeni
+193.239.85.202,4,2,cock.li,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.42.13.166,4,-857,cocor.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 89.39.83.184,4,3,cofetariaclaus.ro,RO,Europe,Eastern Europe,Romania,,,
 31.14.14.103,4,469,coffee-sensor.com,RO,Europe,Eastern Europe,Romania,,,
 95.214.133.54,4,2915,colegiul-nichita.ro,RO,Europe,Eastern Europe,Romania,,,
 188.240.3.153,4,23,colegiulavlaicu.ro,RO,Europe,Eastern Europe,Romania,,,
 89.35.6.168,4,88,comenzi.ro,RO,Europe,Eastern Europe,Romania,,,
 185.171.185.254,4,1222,commercial-song.net,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.246,4,803,comparativereligion.com,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.195,4,1462,competitii-sportive.ro,RO,Europe,Eastern Europe,Romania,,,
+81.181.87.18,4,500,companiaddd.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.246,4,1058,comparativereligion.com,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.195,4,1768,competitii-sportive.ro,RO,Europe,Eastern Europe,Romania,,,
 86.105.153.230,4,200,computerblog.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.238.213.214,4,6,comunic.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
+89.238.213.214,4,6,comunic.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 89.45.197.157,4,60,comunicatedepresa.ro,RO,Europe,Eastern Europe,Romania,,,
-46.102.236.76,4,-151,conso.ro,RO,Europe,Eastern Europe,Romania,,,
-89.39.83.172,4,6,continentalhotels.ro,RO,Europe,Eastern Europe,Romania,,,
-31.14.14.93,4,5,control-club.ro,RO,Europe,Eastern Europe,Romania,,,
-194.88.149.111,4,5,copilul.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.79,4,593,comunitateinmiscare.ro,RO,Europe,Eastern Europe,Romania,,,
+46.102.236.76,4,590,conso.ro,RO,Europe,Eastern Europe,Romania,,,
+31.14.13.111,4,-9,contaexpertconsult.ro,RO,Europe,Eastern Europe,Romania,,,
+89.39.83.172,4,760,continentalhotels.ro,RO,Europe,Eastern Europe,Romania,,,
+31.14.14.93,4,3,control-club.ro,RO,Europe,Eastern Europe,Romania,,,
+194.88.149.111,4,-14,copilul.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.11.4,4,1834,copsi.ro,RO,Europe,Eastern Europe,Romania,,,
 185.171.186.246,4,18,cores.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.83,4,1245,cotidianul.md,RO,Europe,Eastern Europe,Romania,,,
 89.42.218.73,4,310,coupleseurope.eu,RO,Europe,Eastern Europe,Romania,,,
-93.115.119.139,4,156,cpp-luxury.com,RO,Europe,Eastern Europe,Romania,,,
+93.115.119.139,4,-495,cpp-luxury.com,RO,Europe,Eastern Europe,Romania,,,
 185.248.197.10,4,25,craiovaimobiliare.ro,RO,Europe,Eastern Europe,Romania,,,
 185.250.104.18,4,6,creafuture.ro,RO,Europe,Eastern Europe,Romania,,,
-188.241.119.161,4,49,credius.ro,RO,Europe,Eastern Europe,Romania,,,
-194.88.148.16,4,880,crestinortodox.ro,RO,Europe,Eastern Europe,Romania,,,
-89.35.6.234,4,-93,cristianchinabirta.ro,RO,Europe,Eastern Europe,Romania,,,
-185.173.17.13,4,5,criticatac.ro,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.38,4,1281,crucearosie.ro,RO,Europe,Eastern Europe,Romania,,,
-89.40.196.182,4,1025,csviitorulvaslui.ro,RO,Europe,Eastern Europe,Romania,Vaslui County,,Negreşti
+91.236.58.207,4,18853,credesicerceteaza.ro,RO,Europe,Eastern Europe,Romania,,,
+188.241.119.161,4,10,credius.ro,RO,Europe,Eastern Europe,Romania,,,
+217.156.86.37,4,856,cremaperfecta.ro,RO,Europe,Eastern Europe,Romania,,,
+194.88.148.16,4,1500,crestinortodox.ro,RO,Europe,Eastern Europe,Romania,,,
+89.35.6.234,4,-441,cristianchinabirta.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.38,4,2466,crucearosie.ro,RO,Europe,Eastern Europe,Romania,,,
+185.146.86.127,4,-4,crustandcraft.eu,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+37.251.146.56,4,965,csm-suceava.ro,RO,Europe,Eastern Europe,Romania,,,
+85.120.166.211,4,-4,csm1909.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 176.223.125.235,4,5,ct100.ro,RO,Europe,Eastern Europe,Romania,,,
-176.223.122.172,4,-5119,ctpcj.ro,RO,Europe,Eastern Europe,Romania,,,
+176.223.122.172,4,-5684,ctpcj.ro,RO,Europe,Eastern Europe,Romania,,,
+80.96.33.112,4,0,ctproductions.co,RO,Europe,Eastern Europe,Romania,,,
+37.156.4.73,4,-739,ctrsv.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 188.241.72.249,4,47,culturaverde.ro,RO,Europe,Eastern Europe,Romania,,,
-91.213.11.215,4,13,cupio.ro,RO,Europe,Eastern Europe,Romania,,,
-185.199.175.81,4,182,curentul.info,RO,Europe,Eastern Europe,Romania,,,
-92.114.94.233,4,11,curier.ro,RO,Europe,Eastern Europe,Romania,,,
+188.241.88.11,4,-9,cunoastelumea.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+91.213.11.215,4,3,cupio.ro,RO,Europe,Eastern Europe,Romania,,,
+92.114.94.233,4,-48,curier.ro,RO,Europe,Eastern Europe,Romania,,,
 89.42.218.102,4,805,curierulnational.ro,RO,Europe,Eastern Europe,Romania,,,
-46.102.145.153,4,13660,curs-valutar-bnr.ro,RO,Europe,Eastern Europe,Romania,,,
-185.84.64.167,4,515,cursbnr.ro,RO,Europe,Eastern Europe,Romania,,,
-86.105.216.130,4,17,curteadeconturi.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-90.84.236.180,4,6,cvlpress.ro,RO,Europe,Eastern Europe,Romania,Ilfov,,Voluntari
+46.102.145.153,4,15561,curs-valutar-bnr.ro,RO,Europe,Eastern Europe,Romania,,,
+185.84.64.167,4,637,cursbnr.ro,RO,Europe,Eastern Europe,Romania,,,
+86.105.216.130,4,11,curteadeconturi.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+90.84.236.180,4,4,cvlpress.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 176.223.124.30,4,1615,cyberfolks.ro,RO,Europe,Eastern Europe,Romania,,,
 194.117.236.97,4,4,daciaclub.ro,RO,Europe,Eastern Europe,Romania,,,
-176.126.202.230,4,40,dacinsara.ro,RO,Europe,Eastern Europe,Romania,,,
-185.162.67.39,4,851,dafo.ro,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.218,4,424,dailydreamdecor.com,RO,Europe,Eastern Europe,Romania,,,
+176.126.202.230,4,-10,dacinsara.ro,RO,Europe,Eastern Europe,Romania,,,
+185.162.67.39,4,1050,dafo.ro,RO,Europe,Eastern Europe,Romania,,,
+85.121.5.120,4,-3,dailypaul.com,RO,Europe,Eastern Europe,Romania,,,
+195.8.197.120,4,6,dailysudoku.com,RO,Europe,Eastern Europe,Romania,,,
 31.14.21.169,4,4,daisylinden.com,RO,Europe,Eastern Europe,Romania,,,
-193.168.141.111,4,8,darkpad.org,RO,Europe,Eastern Europe,Romania,,,
+5.83.47.64,4,-7,darcvigilante.site,RO,Europe,Eastern Europe,Romania,,,
+89.37.143.6,4,-10,dbv.ro,RO,Europe,Eastern Europe,Romania,,,
 89.42.218.10,4,1346,de-a-arhitectura.ro,RO,Europe,Eastern Europe,Romania,,,
-45.129.66.52,4,39,deleanu.ro,RO,Europe,Eastern Europe,Romania,,,
-86.105.153.210,4,-460,derbrutkasten.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-185.146.86.191,4,4,desteptarea.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-37.251.146.131,4,1099,destepti.ro,RO,Europe,Eastern Europe,Romania,,,
+74.117.152.12,4,-17,delbridge.solutions,RO,Europe,Eastern Europe,Romania,,,
+45.129.66.52,4,0,deleanu.ro,RO,Europe,Eastern Europe,Romania,,,
+86.105.153.210,4,-8,derbrutkasten.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+193.176.85.218,4,-1087612,descarc.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+185.146.86.191,4,-16,desteptarea.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+37.251.146.131,4,2694,destepti.ro,RO,Europe,Eastern Europe,Romania,,,
+188.241.118.20,4,23,destinatiaanului.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+188.241.115.206,4,1853,dex.ro,RO,Europe,Eastern Europe,Romania,,,
+31.14.13.58,4,-118,dexonline.net,RO,Europe,Eastern Europe,Romania,,,
+188.240.47.112,4,-8,dexonline.ro,RO,Europe,Eastern Europe,Romania,,,
 92.114.98.4,4,3,dexonline.ro,RO,Europe,Eastern Europe,Romania,,,
+185.165.169.138,4,7,dgrnewsservice.org,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+176.223.122.150,4,-35,digicamcontrol.com,RO,Europe,Eastern Europe,Romania,,,
 94.176.213.227,4,454,digitalogy.ro,RO,Europe,Eastern Europe,Romania,,,
-85.9.63.237,4,-449,directory-free.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.42.13.52,4,546,directory-free.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 188.240.235.250,4,5,disdeco.ro,RO,Europe,Eastern Europe,Romania,,,
-86.107.76.135,4,-79059,DNS Server: 135.76.107.86.laroiasnet.ro,RO,Europe,Eastern Europe,Romania,Timiș County,,Săcălaz
-185.125.111.46,4,20,DNS Server: 185-125-111-46.static.intovps.com,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
-188.173.183.131,4,20549504,DNS Server: 188-173-183-131.next-gen.ro,RO,Europe,Eastern Europe,Romania,Giurgiu County,,Giurgiu
-188.173.80.150,4,-5812,DNS Server: 188-173-80-150.next-gen.ro,RO,Europe,Eastern Europe,Romania,Ialomița County,,Slobozia
-188.27.139.114,4,-12,DNS Server: 188-27-139-114.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Mureș County,,Câmpu Cetăţii
-188.27.244.73,4,-387,DNS Server: 188-27-244-73.dynamic.brasov.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Brașov County,,Brasov
-89.42.218.20,4,-12,DNS Server: 21.20.whmpanels.com,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.22,4,-180,DNS Server: 218.22.whmpanels.com,RO,Europe,Eastern Europe,Romania,,,
-82.208.188.239,4,3117,DNS Server: 2ip-colegiulleonida-basarabia47-fo.b.astral.ro,RO,Europe,Eastern Europe,Romania,Ilfov,,Berceni
-46.214.244.212,4,8365,DNS Server: 46-214-244-212.next-gen.ro,RO,Europe,Eastern Europe,Romania,Bacău County,,Buhuşi
-46.214.245.53,4,11636,DNS Server: 46-214-245-53.next-gen.ro,RO,Europe,Eastern Europe,Romania,Bacău County,,Buhuşi
-77.81.179.15,4,22953,DNS Server: 77.81.179.15.velsat.ro,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
-79.115.246.139,4,64731,DNS Server: 79-115-246-139.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Bihor County,,Oradea
-79.115.29.173,4,30,DNS Server: 79-115-29-173.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-79.115.31.76,4,61,DNS Server: 79-115-31-76.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-80.96.4.194,4,6,DNS Server: 80.96.4.194.teentelecom.net,RO,Europe,Eastern Europe,Romania,,,
-81.196.111.92,4,2,DNS Server: 81-196-111-92.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-81.196.191.86,4,6,DNS Server: 81-196-191-86.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Constanța County,,Mihail Kogălniceanu
-82.137.27.130,4,2623,DNS Server: 82-137-27-130.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-82.76.228.89,4,1923,DNS Server: 82-76-228-89.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-82.77.48.243,4,1765,DNS Server: 82-77-48-243.static.rdsor.ro,RO,Europe,Eastern Europe,Romania,Bihor County,,Oradea
-82.77.63.193,4,655,DNS Server: 82-77-63-193.static.rdsor.ro,RO,Europe,Eastern Europe,Romania,Bihor County,,Oradea
-82.78.12.105,4,6522,DNS Server: 82-78-12-105.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Bihor County,,Oradea
-82.78.13.159,4,2175,DNS Server: 82-78-13-159.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Bihor County,,Oradea
-86.121.220.153,4,43995,DNS Server: 86-121-220-153.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Sector 1
-86.122.102.57,4,136287,DNS Server: 86-122-102-57.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Ilfov,,Otopeni
-86.122.55.7,4,3105,DNS Server: 86-122-55-7.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Constanța County,,Constanța
-86.124.144.77,4,22,DNS Server: 86-124-144-077.iasi.fiberlink.ro,RO,Europe,Eastern Europe,Romania,Iași County,,Iasi
-86.125.42.133,4,-12416,DNS Server: 86-125-42-133.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.165.142.251,4,61,DNS Server: 89-165-142-251.next-gen.ro,RO,Europe,Eastern Europe,Romania,Harghita County,,Odorheiu Secuiesc
-89.165.220.202,4,-23444252,DNS Server: 89-165-220-202.next-gen.ro,RO,Europe,Eastern Europe,Romania,Arges,,Piteşti
-89.42.118.83,4,-28798989,DNS Server: 89-42-118-83.dcn.ro,RO,Europe,Eastern Europe,Romania,București,,Sector 3
-90.84.230.195,4,53028,DNS Server: 90-84-230-195.orangero.net,RO,Europe,Eastern Europe,Romania,Iași County,,Iasi
-94.52.189.75,4,-7199892,DNS Server: 94-52-189-75.next-gen.ro,RO,Europe,Eastern Europe,Romania,Sibiu County,,Sibiu
-92.86.108.170,4,49,DNS Server: adsl92-86-108-170.romtelecom.net,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
-92.86.143.156,4,225,DNS Server: adsl92-86-143-156.romtelecom.net,RO,Europe,Eastern Europe,Romania,Ilfov,,Voluntari
-95.76.162.137,4,39609,DNS Server: ahlautorent-dacia93-fo.b.astral.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-81.196.210.194,4,47311,DNS Server: cerf-81.196.210.194.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Arges,,Ciofrângeni
-91.235.165.129,4,69,DNS Server: client-129.netergy.ro,RO,Europe,Eastern Europe,Romania,,,
-89.33.88.5,4,18,DNS Server: cs.sel.ro,RO,Europe,Eastern Europe,Romania,Constanța County,,Năvodari
-89.42.219.139,4,5,DNS Server: dedi77986.whmpanels.com,RO,Europe,Eastern Europe,Romania,,,
-5.2.196.32,4,-231,DNS Server: fmail.timcj.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
-82.208.134.105,4,-1246,DNS Server: ip-oficiulroman-caleavictoriei118-fo.b.astral.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
-89.238.206.66,4,4741,DNS Server: ip4-89-238-206-66.euroweb.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.238.213.193,4,259327,DNS Server: ip4-89-238-213-193.euroweb.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
-89.238.234.50,4,43,DNS Server: ip4-89-238-234-50.euroweb.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.238.246.6,4,93941,DNS Server: ip4-89-238-246-6.euroweb.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.238.247.35,4,-100160,DNS Server: ip4-89-238-247-35.euroweb.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.238.254.156,4,84,DNS Server: ip4-89-238-254-156.euroweb.ro,RO,Europe,Eastern Europe,Romania,Iași County,,Iasi
-89.238.255.150,4,8061,DNS Server: ip4-89-238-255-150.euroweb.ro,RO,Europe,Eastern Europe,Romania,Iași County,,Iasi
-95.77.96.11,4,1717,DNS Server: mail.asco.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-5.2.201.75,4,372,DNS Server: mail.clubapollo.ro,RO,Europe,Eastern Europe,Romania,Mureș County,,Târgu Mureş
-95.77.99.62,4,-12859,DNS Server: mail.interprima.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.37.108.3,4,374,DNS Server: mail.teleson.ro,RO,Europe,Eastern Europe,Romania,,,
-94.53.114.252,4,124,DNS Server: mailz.superstarcom.ro,RO,Europe,Eastern Europe,Romania,Suceava,,Radauti
-82.208.146.164,4,79,DNS Server: neumann-cadereabastiliei61-fo.b.astral.ro,RO,Europe,Eastern Europe,Romania,Iași County,,Iasi
-93.114.80.200,4,100,DNS Server: ns1-hosting.intrabit.ro,RO,Europe,Eastern Europe,Romania,,,
-193.111.161.1,4,126,DNS Server: ns1.fortesys.ro,RO,Europe,Eastern Europe,Romania,,,
-93.114.80.201,4,88,DNS Server: ns2-hosting.intrabit.ro,RO,Europe,Eastern Europe,Romania,,,
-193.230.183.201,4,666398,DNS Server: nsx.euroweb.ro,RO,Europe,Eastern Europe,Romania,,,
-91.217.187.1,4,139,DNS Server: old.excelbet.ro,RO,Europe,Eastern Europe,Romania,,,
-89.45.205.89,4,-2152676327,DNS Server: pc89.efx.ro,RO,Europe,Eastern Europe,Romania,Iași County,,Iasi
-80.96.177.217,4,116,DNS Server: phn.ro,RO,Europe,Eastern Europe,Romania,Iași County,,Podu Iloaiei
-89.38.58.11,4,142,DNS Server: R10.easynet.dev,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-91.212.191.85,4,481270,DNS Server: server.vladoianu.ro,RO,Europe,Eastern Europe,Romania,,,
-5.2.148.118,4,557,DNS Server: static-5-2-148-118.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-5.2.178.189,4,1820,DNS Server: static-5-2-178-189.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Mureș County,,Târgu Mureş
-5.2.219.31,4,276,DNS Server: static-5-2-219-31.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-82.77.137.111,4,287,DNS Server: static-82-77-137-111.severin.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Brăila County,,Braila
-86.120.147.183,4,290,DNS Server: static-86-120-147-183.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-86.120.45.162,4,47929,DNS Server: static-86-120-45-162.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Ilfov,,Dobroeşti
-86.120.47.44,4,12336,DNS Server: static-86-120-47-44.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Ilfov,,Dobroeşti
-86.120.57.238,4,350,DNS Server: static-86-120-57-238.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Sector 6
-86.121.221.240,4,289,DNS Server: static-86-121-221-240.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Sector 1
-86.122.95.159,4,87076,DNS Server: static-86-122-95-159.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Sector 6
-86.123.140.156,4,272,DNS Server: static-86-123-140-156.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-86.125.46.220,4,-17386,DNS Server: static-86-125-46-220.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-78.31.59.12,4,1186,DNS Server: Unassigned-Reverse.Buzau.FiberNETWORK.Ro,RO,Europe,Eastern Europe,Romania,Buzău County,,Buzau
-89.42.219.106,4,324,DNS Server: vps114.whmpanels.com,RO,Europe,Eastern Europe,Romania,,,
-80.86.107.11,4,46,doingbusiness.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-193.111.16.190,4,15,dol.ro,RO,Europe,Eastern Europe,Romania,,,
-31.14.56.144,4,16,dolce-sport.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+86.104.254.11,4,8,dispersie.ro,RO,Europe,Eastern Europe,Romania,,,
+86.107.76.135,4,-39547,DNS Server: 135.76.107.86.laroiasnet.ro,RO,Europe,Eastern Europe,Romania,Timiș County,,Săcălaz
+185.125.111.46,4,-7,DNS Server: 185-125-111-46.static.intovps.com,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
+188.173.183.131,4,75600736,DNS Server: 188-173-183-131.next-gen.ro,RO,Europe,Eastern Europe,Romania,Giurgiu County,,Giurgiu
+188.173.80.150,4,130461,DNS Server: 188-173-80-150.next-gen.ro,RO,Europe,Eastern Europe,Romania,Ialomița County,,Slobozia
+188.27.139.114,4,-21,DNS Server: 188-27-139-114.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
+188.27.244.73,4,-2109,DNS Server: 188-27-244-73.dynamic.brasov.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Brașov County,,Brasov
+89.42.218.20,4,-106,DNS Server: 21.20.whmpanels.com,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.22,4,-242,DNS Server: 218.22.whmpanels.com,RO,Europe,Eastern Europe,Romania,,,
+46.214.245.189,4,-1621517021,DNS Server: 46-214-245-189.next-gen.ro,RO,Europe,Eastern Europe,Romania,Bacău County,,Buhuşi
+85.122.151.75,4,3415,DNS Server: 75-151-122-85.netfil.ro,RO,Europe,Eastern Europe,Romania,Dolj,,Filiaşi
+85.122.151.77,4,34675,DNS Server: 77-151-122-85.netfil.ro,RO,Europe,Eastern Europe,Romania,Dolj,,Filiaşi
+77.81.179.15,4,10343,DNS Server: 77.81.179.15.velsat.ro,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
+79.115.246.139,4,195708,DNS Server: 79-115-246-139.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Bihor County,,Oradea
+79.115.31.76,4,-7,DNS Server: 79-115-31-76.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+80.96.4.194,4,-4,DNS Server: 80.96.4.194.teentelecom.net,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+82.137.27.130,4,10043,DNS Server: 82-137-27-130.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Constanța County,,Constanța
+82.76.228.89,4,14048,DNS Server: 82-76-228-89.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+82.77.48.243,4,5388,DNS Server: 82-77-48-243.static.rdsor.ro,RO,Europe,Eastern Europe,Romania,Bihor County,,Oradea
+82.77.63.193,4,12494,DNS Server: 82-77-63-193.static.rdsor.ro,RO,Europe,Eastern Europe,Romania,Bihor County,,Oradea
+82.78.12.105,4,6832,DNS Server: 82-78-12-105.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Arad County,,Arad
+82.78.13.159,4,-3,DNS Server: 82-78-13-159.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Arad County,,Arad
+82.78.15.22,4,-3,DNS Server: 82-78-15-22.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Arad County,,Arad
+82.78.94.101,4,-712,DNS Server: 82.78.94.101-static.cluj.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Maramureş,,Baia Mare
+86.121.220.153,4,6801,DNS Server: 86-121-220-153.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+86.122.102.57,4,721,DNS Server: 86-122-102-57.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+86.122.55.7,4,32763361,DNS Server: 86-122-55-7.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Constanța County,,Constanța
+86.124.144.77,4,-2,DNS Server: 86-124-144-077.iasi.fiberlink.ro,RO,Europe,Eastern Europe,Romania,Iași County,,Iași
+86.125.102.202,4,64224594,DNS Server: 86-125-102-202.static.brasov.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Brașov County,,Brasov
+86.125.216.169,4,638,DNS Server: 86.125.216.169.bb.fo.static.rdsar.ro,RO,Europe,Eastern Europe,Romania,Suceava,,Suceava
+89.165.142.251,4,335,DNS Server: 89-165-142-251.next-gen.ro,RO,Europe,Eastern Europe,Romania,Prahova,,Câmpina
+89.165.197.77,4,5525,DNS Server: 89-165-197-77.next-gen.ro,RO,Europe,Eastern Europe,Romania,Tulcea County,,Tulcea
+89.18.30.127,4,-93,DNS Server: 89.18.30.127.primetelecom.ro,RO,Europe,Eastern Europe,Romania,Ilfov,,Mogosoaia
+94.52.189.75,4,79200001,DNS Server: 94-52-189-75.next-gen.ro,RO,Europe,Eastern Europe,Romania,Sibiu County,,Sibiu
+94.52.89.226,4,31364,DNS Server: 94-52-89-226.next-gen.ro,RO,Europe,Eastern Europe,Romania,Giurgiu County,,Giurgiu
+94.53.116.110,4,-16424,DNS Server: 94-53-116-110.next-gen.ro,RO,Europe,Eastern Europe,Romania,Suceava,,Radauti
+94.53.120.150,4,27420787,DNS Server: 94-53-120-150.next-gen.ro,RO,Europe,Eastern Europe,Romania,Covasna County,,Sânzieni
+92.86.108.170,4,0,DNS Server: adsl92-86-108-170.romtelecom.net,RO,Europe,Eastern Europe,Romania,Mehedinți County,,Bistrița
+92.86.143.156,4,11,DNS Server: adsl92-86-143-156.romtelecom.net,RO,Europe,Eastern Europe,Romania,Călărași County,,Budeşti
+92.86.31.114,4,-2,DNS Server: adsl92-86-31-114.romtelecom.net,RO,Europe,Eastern Europe,Romania,Bacău County,,Bacau
+86.107.230.197,4,-3586449,DNS Server: alfa.mediasat.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+81.196.210.194,4,15682,DNS Server: cerf-81.196.210.194.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Arges,,Piteşti
+91.235.165.129,4,-2,DNS Server: client-129.netergy.ro,RO,Europe,Eastern Europe,Romania,,,
+89.33.88.5,4,-4,DNS Server: cs.sel.ro,RO,Europe,Eastern Europe,Romania,Constanța County,,Năvodari
+89.42.219.139,4,-52,DNS Server: dedi77986.whmpanels.com,RO,Europe,Eastern Europe,Romania,,,
+5.2.196.32,4,4203,DNS Server: fmail.timcj.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
+89.38.251.126,4,-4,DNS Server: georgetatoma.ro,RO,Europe,Eastern Europe,Romania,,,
+185.193.127.98,4,-4,DNS Server: host-185-193-127-98.njalla.net,RO,Europe,Eastern Europe,Romania,,,
+82.208.134.105,4,-3,DNS Server: ip-oficiulroman-caleavictoriei118-fo.b.astral.ro,RO,Europe,Eastern Europe,Romania,Alba County,,Alba Iulia
+89.238.206.66,4,97320,DNS Server: ip4-89-238-206-66.euroweb.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.238.213.193,4,10251397,DNS Server: ip4-89-238-213-193.euroweb.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.238.247.35,4,-5,DNS Server: ip4-89-238-247-35.euroweb.ro,RO,Europe,Eastern Europe,Romania,Arges,,Piteşti
+89.238.254.156,4,-2148891135,DNS Server: ip4-89-238-254-156.euroweb.ro,RO,Europe,Eastern Europe,Romania,Iași County,,Iași
+89.238.255.150,4,17442,DNS Server: ip4-89-238-255-150.euroweb.ro,RO,Europe,Eastern Europe,Romania,Iași County,,Iași
+5.2.188.106,4,68870440,DNS Server: itaromtechnologies.iasi.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Iași County,,Iași
+5.2.231.131,4,-24,DNS Server: mail.abadl-rowater.ro,RO,Europe,Eastern Europe,Romania,Constanța County,,Constanța
+62.217.240.110,4,0,DNS Server: mail.aectra.ro,RO,Europe,Eastern Europe,Romania,Ilfov,,Corbeanca
+5.2.201.75,4,-42,DNS Server: mail.clubapollo.ro,RO,Europe,Eastern Europe,Romania,Mureș County,,Târgu Mureş
+86.34.150.170,4,-4,DNS Server: mail.dentas.ro,RO,Europe,Eastern Europe,Romania,Brașov County,,Brasov
+188.241.94.65,4,-233,DNS Server: mail.ifocus.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+95.77.99.62,4,-7635,DNS Server: mail.interprima.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+86.35.6.74,4,3356,DNS Server: mail.ramo.ro,RO,Europe,Eastern Europe,Romania,Neamț County,,Piatra Neamţ
+89.37.108.3,4,-3,DNS Server: mail.teleson.ro,RO,Europe,Eastern Europe,Romania,,,
+94.53.114.252,4,-280,DNS Server: mailz.superstarcom.ro,RO,Europe,Eastern Europe,Romania,Suceava,,Radauti
+82.208.146.164,4,1,DNS Server: neumann-cadereabastiliei61-fo.b.astral.ro,RO,Europe,Eastern Europe,Romania,Ilfov,,Voluntari
+93.114.80.200,4,-5,DNS Server: ns1-hosting.intrabit.ro,RO,Europe,Eastern Europe,Romania,,,
+193.111.161.1,4,-3,DNS Server: ns1.fortesys.ro,RO,Europe,Eastern Europe,Romania,,,
+93.114.80.201,4,-6,DNS Server: ns2-hosting.intrabit.ro,RO,Europe,Eastern Europe,Romania,,,
+193.138.192.2,4,-4,DNS Server: ns2.TeenTelecom.net,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+193.230.183.201,4,4836496,DNS Server: nsx.euroweb.ro,RO,Europe,Eastern Europe,Romania,,,
+91.217.187.1,4,-3,DNS Server: old.excelbet.ro,RO,Europe,Eastern Europe,Romania,,,
+89.45.205.89,4,0,DNS Server: pc89.efx.ro,RO,Europe,Eastern Europe,Romania,Iași County,,Iași
+80.96.177.217,4,-2,DNS Server: phn.ro,RO,Europe,Eastern Europe,Romania,,,
+89.38.58.11,4,-5,DNS Server: R10.easynet.dev,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+95.77.96.79,4,-3,DNS Server: regata.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+37.251.140.126,4,-2,DNS Server: server.instaionut.ro,RO,Europe,Eastern Europe,Romania,,,
+91.212.191.85,4,697656,DNS Server: server.vladoianu.ro,RO,Europe,Eastern Europe,Romania,,,
+89.37.143.122,4,-4,DNS Server: server1.fntm.ro,RO,Europe,Eastern Europe,Romania,,,
+5.2.180.46,4,-8719,DNS Server: static-5-2-180-46.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Prahova,,Ploieşti
+5.2.205.177,4,-28120,DNS Server: static-5-2-205-177.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Galați County,,Galati
+5.2.219.31,4,-2,DNS Server: static-5-2-219-31.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Neamț County,,Piatra Neamţ
+5.2.249.4,4,119892,DNS Server: static-5-2-249-4.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Suceava,,Suceava
+5.2.251.21,4,-170,DNS Server: static-5-2-251-21.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Suceava,,Suceava
+81.196.116.145,4,-3268,DNS Server: static-81-196-116-145.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Floreşti
+82.76.32.233,4,14549,DNS Server: static-82-76-32-233.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Vaslui County,,Vaslui
+82.77.100.255,4,27356,DNS Server: static-82-77-100-255.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+82.77.137.111,4,31462450,DNS Server: static-82-77-137-111.severin.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Brăila County,,Brăila
+82.77.248.132,4,974,DNS Server: static-82-77-248-132.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Turda
+86.120.147.183,4,0,DNS Server: static-86-120-147-183.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+86.120.45.162,4,5942,DNS Server: static-86-120-45-162.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+86.121.246.205,4,1232,DNS Server: static-86-121-246-205.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Sibiu County,,Mediaş
+86.122.185.167,4,-1,DNS Server: static-86-122-185-167.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Prahova,,Ploieşti
+86.122.94.69,4,-2,DNS Server: static-86-122-94-69.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Brașov County,,Brasov
+86.122.95.159,4,15969,DNS Server: static-86-122-95-159.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Brașov County,,Brasov
+86.123.161.217,4,1412,DNS Server: static-86-123-161-217.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
+86.125.39.49,4,3506,DNS Server: static-86-125-39-49.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Bihor County,,Oradea
+86.125.46.220,4,-37404,DNS Server: static-86-125-46-220.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+86.126.7.188,4,2516,DNS Server: static-86-126-7-188.rdsnet.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+193.226.61.1,4,639,DNS Server: tag.euroweb.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.42.219.106,4,-30,DNS Server: vps114.whmpanels.com,RO,Europe,Eastern Europe,Romania,,,
+146.70.66.227,4,-3,DoH server: cs-ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+185.93.221.167,4,-7,DoH server: dnscry.pt-bucharest-ipv4,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+185.207.125.100,4,-4,DoH server: dnscry.pt-oradea-ipv4,RO,Europe,Eastern Europe,Romania,Bihor County,,Oradea
+45.134.48.25,4,-3,DoH server: dnscry.pt-timisoara-ipv4,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
+193.142.58.115,4,-6,DoH server: ro-bu.foxyfy.net,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+193.142.58.137,4,-5,DoH server: ro-buc-w-f-1.nashkan.net,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+193.142.58.179,4,-5,DoH server: ro-buc-w-p-1.nashkan.net,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+80.86.107.11,4,8951,doingbusiness.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+93.174.167.125,4,17,dojotech.ro,RO,Europe,Eastern Europe,Romania,,,
 176.126.200.2,4,61,dolphinconstruct.ro,RO,Europe,Eastern Europe,Romania,,,
+89.40.72.75,4,772,donaonline.ro,RO,Europe,Eastern Europe,Romania,,,
+195.8.197.49,4,9,dreamhawk.com,RO,Europe,Eastern Europe,Romania,,,
 89.42.218.226,4,349,drinkshop.ro,RO,Europe,Eastern Europe,Romania,,,
 89.38.248.132,4,1193,dspb.ro,RO,Europe,Eastern Europe,Romania,,,
 89.45.168.34,4,13658,e-retete.ro,RO,Europe,Eastern Europe,Romania,,,
 89.42.218.85,4,908,e-scoala.ro,RO,Europe,Eastern Europe,Romania,,,
-89.39.83.214,4,20,easyengineering.eu,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.88,4,139,easyminer.net,RO,Europe,Eastern Europe,Romania,,,
-217.156.46.22,4,159,echipamente-scule.ro,RO,Europe,Eastern Europe,Romania,,,
+185.248.196.14,4,-15,e-vinil.ro,RO,Europe,Eastern Europe,Romania,,,
+212.146.102.119,4,-18,eastrolog.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+212.146.102.117,4,-10,eastrolog.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+212.146.102.118,4,-32,eastrolog.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.39.83.214,4,282,easyengineering.eu,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.88,4,801,easyminer.net,RO,Europe,Eastern Europe,Romania,,,
+217.156.46.22,4,5582,echipamente-scule.ro,RO,Europe,Eastern Europe,Romania,,,
+80.96.120.19,4,-1,ecoforumjournal.ro,RO,Europe,Eastern Europe,Romania,,,
 80.96.120.12,4,2,ecoforumjournal.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.95,4,1285,ectap.ro,RO,Europe,Eastern Europe,Romania,,,
 89.42.218.110,4,680,ecx.ro,RO,Europe,Eastern Europe,Romania,,,
+185.236.85.96,4,2268,edaa.eu,RO,Europe,Eastern Europe,Romania,,,
 37.156.181.226,4,75,edemantiques.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-185.173.18.70,4,4,editura-art.ro,RO,Europe,Eastern Europe,Romania,,,
-185.173.18.71,4,5,editura-arthur.ro,RO,Europe,Eastern Europe,Romania,,,
-82.78.17.227,4,59,edituratrei.ro,RO,Europe,Eastern Europe,Romania,Bihor County,,Oradea
-89.42.218.39,4,1497,educred.ro,RO,Europe,Eastern Europe,Romania,,,
-92.114.98.139,4,-154,eeagrants.ro,RO,Europe,Eastern Europe,Romania,,,
-185.251.29.114,4,92,ego.ro,RO,Europe,Eastern Europe,Romania,,,
+188.240.20.176,4,2401,edusoft.ro,RO,Europe,Eastern Europe,Romania,,,
+92.114.98.139,4,-822,eeagrants.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.240,4,978,efsupit.ro,RO,Europe,Eastern Europe,Romania,,,
+91.195.28.238,4,5,egrup.ro,RO,Europe,Eastern Europe,Romania,,,
 93.113.174.237,4,1392,eldorado777.ro,RO,Europe,Eastern Europe,Romania,,,
-188.212.127.95,4,255,electrodb.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-94.52.102.216,4,109,electromec.info,RO,Europe,Eastern Europe,Romania,Sălaj County,,Zalău
-89.42.218.211,4,1045,electronoobs.io,RO,Europe,Eastern Europe,Romania,,,
+89.45.168.178,4,854,electricsys.ro,RO,Europe,Eastern Europe,Romania,,,
+89.37.29.30,4,1227,electrodb.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+94.52.102.216,4,-7,electromec.info,RO,Europe,Eastern Europe,Romania,Sălaj County,,Zalău
 31.14.56.42,4,654,elenis.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-37.156.180.235,4,458,eligon.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-46.102.247.192,4,5,elsacooks.com,RO,Europe,Eastern Europe,Romania,,,
-46.174.148.129,4,49,emag.pl,RO,Europe,Eastern Europe,Romania,,,
-185.146.87.201,4,11,emaramures.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-37.143.170.31,4,7,emol.ro,RO,Europe,Eastern Europe,Romania,,,
-176.126.201.2,4,48,enciclopediaromaniei.ro,RO,Europe,Eastern Europe,Romania,,,
+37.156.180.235,4,-556,eligon.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+86.107.78.155,4,1235,elvila.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+185.146.87.201,4,3,emaramures.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+5.2.198.107,4,-2,eme.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
+91.188.226.230,4,1216,enational.ro,RO,Europe,Eastern Europe,Romania,,,
+176.126.201.2,4,-20,enciclopediaromaniei.ro,RO,Europe,Eastern Europe,Romania,,,
+193.151.29.22,4,9,energie.gov.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+185.236.86.159,4,6435,energyindustryreview.com,RO,Europe,Eastern Europe,Romania,,,
 185.92.192.135,4,5,energyindustryreview.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.38.248.15,4,-7856076,entertix.ro,RO,Europe,Eastern Europe,Romania,,,
-82.78.47.245,4,14,epochtimes-romania.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.38.248.15,4,132622,entertix.ro,RO,Europe,Eastern Europe,Romania,,,
+37.156.4.212,4,-544,episculpt-beauty.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+86.120.168.141,4,35551,epitesti.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+82.78.47.245,4,14,epochtimes-romania.com,RO,Europe,Eastern Europe,Romania,Gorj County,,Târgu Jiu
+89.44.121.184,4,9,erasmusplus.ro,RO,Europe,Eastern Europe,Romania,,,
+93.115.53.61,4,805,escaperooms.ro,RO,Europe,Eastern Europe,Romania,,,
 31.14.14.60,4,32,escapers-zone.net,RO,Europe,Eastern Europe,Romania,,,
 89.43.174.117,4,1,esteto.ro,RO,Europe,Eastern Europe,Romania,,,
-81.181.198.69,4,1142,euplatesc.ro,RO,Europe,Eastern Europe,Romania,,,
-185.220.185.49,4,84,eurec.be,RO,Europe,Eastern Europe,Romania,,,
+81.181.198.69,4,108,euplatesc.ro,RO,Europe,Eastern Europe,Romania,,,
+185.220.185.49,4,-4,eurec.be,RO,Europe,Eastern Europe,Romania,,,
 188.240.2.127,4,4,euroauditorfin.ro,RO,Europe,Eastern Europe,Romania,,,
+84.239.11.89,4,5,euroavocatura.ro,RO,Europe,Eastern Europe,Romania,,,
 89.42.218.93,4,575,euroialinsol.ro,RO,Europe,Eastern Europe,Romania,,,
 185.216.190.195,4,1894,euromeatnews.com,RO,Europe,Eastern Europe,Romania,,,
-89.238.225.78,4,2807,euroweb.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-176.126.200.106,4,41,euworkers.fr,RO,Europe,Eastern Europe,Romania,,,
-91.188.226.11,4,-97,evolvehoreca.ro,RO,Europe,Eastern Europe,Romania,,,
-93.113.199.183,4,7,evomag.ro,RO,Europe,Eastern Europe,Romania,,,
-93.113.199.184,4,9,evomag.ro,RO,Europe,Eastern Europe,Romania,,,
+188.213.19.166,4,-26,europatrade.ro,RO,Europe,Eastern Europe,Romania,,,
+89.238.225.78,4,4046,euroweb.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+45.86.220.2,4,543,euvisajobs.com,RO,Europe,Eastern Europe,Romania,,,
+176.126.200.106,4,-7,euworkers.fr,RO,Europe,Eastern Europe,Romania,,,
+213.164.254.76,4,-5,evenimentul.ro,RO,Europe,Eastern Europe,Romania,Ialomița County,,Slobozia
+89.37.121.58,4,-5,eventbook.ro,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
+188.241.152.172,4,1457,evmarket.ro,RO,Europe,Eastern Europe,Romania,,,
+93.115.53.253,4,718,evofarmacia.ro,RO,Europe,Eastern Europe,Romania,,,
+92.114.98.112,4,-7,evolvehoreca.ro,RO,Europe,Eastern Europe,Romania,,,
+93.113.199.184,4,7,evomag.ro,RO,Europe,Eastern Europe,Romania,,,
+93.113.199.183,4,-6,evomag.ro,RO,Europe,Eastern Europe,Romania,,,
 185.181.240.112,4,393,excavatii-demolari.ro,RO,Europe,Eastern Europe,Romania,,,
 31.14.56.114,4,506,extragsm.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.38.248.194,4,22,facibanionline.ro,RO,Europe,Eastern Europe,Romania,,,
-89.200.243.40,4,14,fancourier.ro,RO,Europe,Eastern Europe,Romania,,,
+188.215.245.194,4,2903,fabrica-de-tamplarie.ro,RO,Europe,Eastern Europe,Romania,,,
+89.38.248.194,4,9,facibanionline.ro,RO,Europe,Eastern Europe,Romania,,,
+89.200.243.40,4,9,fancourier.ro,RO,Europe,Eastern Europe,Romania,Ilfov,,Ştefăneştii de Jos
 89.42.218.37,4,747,fanuriotimetracking.com,RO,Europe,Eastern Europe,Romania,,,
+194.36.143.180,4,421,faradepunere.ro,RO,Europe,Eastern Europe,Romania,,,
 89.33.26.192,4,836,fashiontips.ro,RO,Europe,Eastern Europe,Romania,,,
 31.14.15.108,4,22,faurerom.com,RO,Europe,Eastern Europe,Romania,,,
 176.223.125.137,4,-5113,fcrapid.ro,RO,Europe,Eastern Europe,Romania,,,
-89.38.248.140,4,-430,fdsc.ro,RO,Europe,Eastern Europe,Romania,,,
-85.120.61.142,4,41,feeder.ro,RO,Europe,Eastern Europe,Romania,,,
-80.96.99.12,4,53,filehost.ro,RO,Europe,Eastern Europe,Romania,,,
-80.96.99.39,4,48,fileshare.ro,RO,Europe,Eastern Europe,Romania,,,
+193.226.71.194,4,2903,fdsc.ro,RO,Europe,Eastern Europe,Romania,,,
+85.120.61.142,4,6,feeder.ro,RO,Europe,Eastern Europe,Romania,,,
+80.96.99.12,4,0,filehost.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+80.96.99.39,4,48,fileshare.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+185.92.195.115,4,828,filmari-arad.ro,RO,Europe,Eastern Europe,Romania,,,
 188.215.244.85,4,10,filmari-arad.ro,RO,Europe,Eastern Europe,Romania,,,
-188.241.183.183,4,19,filme-carti.ro,RO,Europe,Eastern Europe,Romania,,,
-89.41.37.160,4,621,filmedefestival.ro,RO,Europe,Eastern Europe,Romania,,,
-176.126.202.142,4,66,filmtett.ro,RO,Europe,Eastern Europe,Romania,,,
+188.241.183.183,4,-42,filme-carti.ro,RO,Europe,Eastern Europe,Romania,,,
+89.41.37.160,4,1416,filmedefestival.ro,RO,Europe,Eastern Europe,Romania,,,
+176.126.202.142,4,-12,filmtett.ro,RO,Europe,Eastern Europe,Romania,,,
 93.115.53.84,4,34,financialintelligence.ro,RO,Europe,Eastern Europe,Romania,,,
 89.44.120.245,4,27,firesafety.ro,RO,Europe,Eastern Europe,Romania,,,
+185.126.237.55,4,29,flatkill.org,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 91.195.28.49,4,7,fleseriuassociates.ro,RO,Europe,Eastern Europe,Romania,,,
-185.100.84.14,4,406,flokinet.is,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.39.246.214,4,10,focuspress.ro,RO,Europe,Eastern Europe,Romania,,,
+185.100.84.14,4,1602,flokinet.is,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.39.246.214,4,1064,focuspress.ro,RO,Europe,Eastern Europe,Romania,,,
+185.199.172.35,4,250,forbes.ro,RO,Europe,Eastern Europe,Romania,,,
 92.114.98.240,4,823,forbes.ro,RO,Europe,Eastern Europe,Romania,,,
-45.136.199.185,4,2,forumeurasia.ru,RO,Europe,Eastern Europe,Romania,,,
-188.212.100.133,4,1554,fplayt.ro,RO,Europe,Eastern Europe,Romania,,,
+185.92.192.93,4,48150,formular230.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+193.25.112.49,4,2798,fotografi-cameramani.ro,RO,Europe,Eastern Europe,Romania,,,
+188.212.100.133,4,2,fplayt.ro,RO,Europe,Eastern Europe,Romania,,,
+146.70.66.61,4,5,fragrances.bg,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+92.114.94.236,4,29,frbaschet.ro,RO,Europe,Eastern Europe,Romania,,,
 91.195.98.230,4,10,frbaschet.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 85.204.99.154,4,982,free.org.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+93.115.53.79,4,794,frf-ajf.ro,RO,Europe,Eastern Europe,Romania,,,
 92.87.106.12,4,4650,frfotbal.ro,RO,Europe,Eastern Europe,Romania,Iași County,,Hârlău
 89.33.44.228,4,30,frh.ro,RO,Europe,Eastern Europe,Romania,,,
-45.134.162.179,4,1159,frontivo.ro,RO,Europe,Eastern Europe,Romania,,,
+45.134.162.179,4,905,frontivo.ro,RO,Europe,Eastern Europe,Romania,,,
+92.82.180.27,4,-39,fundatiaorange.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+85.9.27.9,4,23,fundatiascheherazade.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+93.113.54.40,4,239,furnicadincarpati.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 86.105.152.129,4,55,gallerytoday.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-188.212.255.217,4,220,garana-jazz.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 91.206.206.30,4,-16,gazduire-domeniu.com,RO,Europe,Eastern Europe,Romania,,,
-185.179.156.10,4,9,gazduire.net,RO,Europe,Eastern Europe,Romania,,,
+185.179.156.10,4,14,gazduire.net,RO,Europe,Eastern Europe,Romania,,,
 91.208.142.73,4,143,gazduire.ro,RO,Europe,Eastern Europe,Romania,,,
-85.9.26.18,4,-280,gazetanord-vest.ro,RO,Europe,Eastern Europe,Romania,Ilfov,,Popeşti-Leordeni
+89.40.19.72,4,296,gazetadecarasseverin.ro,RO,Europe,Eastern Europe,Romania,,,
+85.9.26.18,4,-280,gazetanord-vest.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 93.119.152.198,4,41,geekstir.com,RO,Europe,Eastern Europe,Romania,,,
-5.35.211.194,4,24,generali.ro,RO,Europe,Eastern Europe,Romania,,,
-89.33.197.127,4,-161,georgeenescu.ro,RO,Europe,Eastern Europe,Romania,,,
-193.138.192.243,4,36,getamap.net,RO,Europe,Eastern Europe,Romania,,,
-45.86.220.151,4,14,getprintedbox.com,RO,Europe,Eastern Europe,Romania,,,
+5.35.211.194,4,-23,generali.ro,RO,Europe,Eastern Europe,Romania,,,
+89.33.197.127,4,-772,georgeenescu.ro,RO,Europe,Eastern Europe,Romania,,,
+193.138.192.243,4,14,getamap.net,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+45.86.220.151,4,-27,getprintedbox.com,RO,Europe,Eastern Europe,Romania,,,
 91.194.28.52,4,99,ghidul-nuntii.ro,RO,Europe,Eastern Europe,Romania,,,
-91.194.28.51,4,10,ghidul.ro,RO,Europe,Eastern Europe,Romania,,,
-91.194.28.50,4,63,ghidul.ro,RO,Europe,Eastern Europe,Romania,,,
-80.96.99.49,4,6,girlshare.ro,RO,Europe,Eastern Europe,Romania,,,
-89.44.137.46,4,13,glsa.ro,RO,Europe,Eastern Europe,Romania,,,
-93.174.160.138,4,4,goldenrecord.org,RO,Europe,Eastern Europe,Romania,,,
+91.194.28.51,4,0,ghidul.ro,RO,Europe,Eastern Europe,Romania,,,
+91.194.28.50,4,-27,ghidul.ro,RO,Europe,Eastern Europe,Romania,,,
+80.96.99.49,4,6,girlshare.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.44.137.46,4,881,glsa.ro,RO,Europe,Eastern Europe,Romania,,,
+93.174.160.138,4,1,goldenrecord.org,RO,Europe,Eastern Europe,Romania,,,
+195.8.196.232,4,19,goodfinance.org.uk,RO,Europe,Eastern Europe,Romania,,,
 146.70.56.164,4,-1486,gopups.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-85.9.47.190,4,867,graiul.ro,RO,Europe,Eastern Europe,Romania,Teleorman County,,Alexandria
-146.19.133.147,4,4,guateclasifica2.com,RO,Europe,Eastern Europe,Romania,,,
+176.223.96.234,4,26,gorjonline.ro,RO,Europe,Eastern Europe,Romania,,,
+193.189.75.105,4,2,graham-price.co.uk,RO,Europe,Eastern Europe,Romania,,,
+85.9.47.190,4,867,graiul.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.40.72.123,4,43,gralmedical.ro,RO,Europe,Eastern Europe,Romania,,,
+188.215.245.64,4,6687,grammstore.ro,RO,Europe,Eastern Europe,Romania,,,
+194.102.33.67,4,1350,greenderma.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.44,4,1951,greenspasalon.ro,RO,Europe,Eastern Europe,Romania,,,
 45.129.64.87,4,1577,guidetocanaryislands.com,RO,Europe,Eastern Europe,Romania,,,
-89.33.44.100,4,12,hamnet.ro,RO,Europe,Eastern Europe,Romania,,,
-85.186.88.238,4,9,hargitamegye.ro,RO,Europe,Eastern Europe,Romania,Bacău County,,Bacau
-89.42.41.164,4,1266,hargitatours.ro,RO,Europe,Eastern Europe,Romania,,,
-89.36.93.229,4,-635,harom.ro,RO,Europe,Eastern Europe,Romania,,,
+89.33.44.100,4,10,hamnet.ro,RO,Europe,Eastern Europe,Romania,,,
+46.102.254.12,4,5012,hanulmoaracunoroc.ro,RO,Europe,Eastern Europe,Romania,,,
+85.186.88.238,4,9,hargitamegye.ro,RO,Europe,Eastern Europe,Romania,Botoșani County,,Botoșani
+89.36.93.229,4,-16,harom.ro,RO,Europe,Eastern Europe,Romania,,,
+176.126.201.3,4,-5,hefe.ro,RO,Europe,Eastern Europe,Romania,,,
 89.41.38.83,4,21,helpautism.ro,RO,Europe,Eastern Europe,Romania,,,
-89.40.72.251,4,5,helponline.ro,RO,Europe,Eastern Europe,Romania,Mehedinți County,,Izvorălu
+46.102.249.238,4,-28,helpdeskit.ro,RO,Europe,Eastern Europe,Romania,,,
+89.40.72.251,4,626,helponline.ro,RO,Europe,Eastern Europe,Romania,,,
+176.223.167.110,4,-254,hermannstaedter.ro,RO,Europe,Eastern Europe,Romania,,,
 31.14.56.225,4,724,hermannstaedter.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.42.38.160,4,14,hi2.ro,RO,Europe,Eastern Europe,Romania,,,
-82.78.133.10,4,27,hidro.ro,RO,Europe,Eastern Europe,Romania,Timiș County,,Lugoj
-89.33.236.15,4,15,hidroplasto.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.38.160,4,57,hi2.ro,RO,Europe,Eastern Europe,Romania,,,
+82.78.133.10,4,-2,hidro.ro,RO,Europe,Eastern Europe,Romania,Timiș County,,Lugoj
+89.33.236.15,4,-8,hidroplasto.ro,RO,Europe,Eastern Europe,Romania,,,
 188.241.115.40,4,15,highaffiliates.com,RO,Europe,Eastern Europe,Romania,,,
-85.121.150.70,4,12,hirmondo.ro,RO,Europe,Eastern Europe,Romania,,,
-92.114.98.60,4,37,homelux.ro,RO,Europe,Eastern Europe,Romania,,,
-31.14.252.162,4,649,homeworlddesign.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+185.199.172.208,4,113,homelux.ro,RO,Europe,Eastern Europe,Romania,,,
+31.14.252.162,4,1300,homeworlddesign.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 89.46.100.131,4,43,horacredit.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.42.218.80,4,334,hospice.ro,RO,Europe,Eastern Europe,Romania,,,
-89.45.251.8,4,41,hosterion.ro,RO,Europe,Eastern Europe,Romania,,,
-77.81.2.1,4,29,hostico.ro,RO,Europe,Eastern Europe,Romania,,,
-195.191.47.32,4,5,hotcity.ro,RO,Europe,Eastern Europe,Romania,,,
-176.223.127.30,4,30274,hotel-bucuresti.com,RO,Europe,Eastern Europe,Romania,,,
+5.35.214.76,4,10,hostx.ro,RO,Europe,Eastern Europe,Romania,,,
+195.191.47.32,4,1,hotcity.ro,RO,Europe,Eastern Europe,Romania,,,
+176.223.127.30,4,-10,hotel-bucuresti.com,RO,Europe,Eastern Europe,Romania,,,
 89.42.13.156,4,148,hotelplutitorserano.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-185.199.175.191,4,9,hoteltransilvaniacluj.ro,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.194,4,1056,hpinfotech.ro,RO,Europe,Eastern Europe,Romania,,,
-176.223.126.46,4,4,hsound.ro,RO,Europe,Eastern Europe,Romania,,,
+176.223.126.46,4,-9,hsound.ro,RO,Europe,Eastern Europe,Romania,,,
 91.213.11.8,4,9,hsvhandball.com,RO,Europe,Eastern Europe,Romania,,,
 31.14.22.110,4,37,huff.ro,RO,Europe,Eastern Europe,Romania,,,
-89.37.143.6,4,6,hyperion.ro,RO,Europe,Eastern Europe,Romania,,,
-188.214.214.89,4,918,iab-romania.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-195.246.243.107,4,14,idealist.ro,RO,Europe,Eastern Europe,Romania,,,
+193.226.69.17,4,12,iagency.ro,RO,Europe,Eastern Europe,Romania,,,
+194.153.237.167,4,-4,iasi4u.ro,RO,Europe,Eastern Europe,Romania,,,
+176.97.76.117,4,-8,icecakemoscow.ru,RO,Europe,Eastern Europe,Romania,București,,
+176.223.167.166,4,-262,icks.ro,RO,Europe,Eastern Europe,Romania,,,
+195.246.243.107,4,18,idealist.ro,RO,Europe,Eastern Europe,Romania,,,
 195.85.239.28,4,15,idrept.ro,RO,Europe,Eastern Europe,Romania,,,
-80.96.33.245,4,774,iiccmer.ro,RO,Europe,Eastern Europe,Romania,,,
+80.96.33.245,4,573,iiccmer.ro,RO,Europe,Eastern Europe,Romania,,,
 93.115.116.101,4,13657,iluminat-ieftin.ro,RO,Europe,Eastern Europe,Romania,,,
-89.36.154.183,4,85,impact.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-176.223.121.4,4,81,imperatortravel.ro,RO,Europe,Eastern Europe,Romania,,,
-217.156.104.42,4,38,infim.ro,RO,Europe,Eastern Europe,Romania,,,
+93.114.248.241,4,888,imobiliaresalaj.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.36.154.183,4,-525,impact.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+176.223.121.4,4,-15,imperatortravel.ro,RO,Europe,Eastern Europe,Romania,,,
+37.251.146.250,4,-4,india-casino.in,RO,Europe,Eastern Europe,Romania,,,
+89.36.154.95,4,-499,indpart.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.149.61.68,4,9,ines.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+93.113.54.70,4,237,infarom.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+217.156.104.42,4,4,infim.ro,RO,Europe,Eastern Europe,Romania,,,
+89.39.209.93,4,-31,inflpr.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 176.126.200.7,4,23,infodentis.com,RO,Europe,Eastern Europe,Romania,,,
+193.230.156.108,4,4,infofer.ro,RO,Europe,Eastern Europe,Romania,,,
 188.241.74.89,4,21,infotravelromania.ro,RO,Europe,Eastern Europe,Romania,,,
-89.45.197.164,4,5,infoturism.ro,RO,Europe,Eastern Europe,Romania,,,
+89.45.197.164,4,1,infoturism.ro,RO,Europe,Eastern Europe,Romania,,,
 195.189.145.63,4,11,infp.ro,RO,Europe,Eastern Europe,Romania,,,
+89.40.19.45,4,223,ingrijirebatraniaustria.ro,RO,Europe,Eastern Europe,Romania,,,
+185.146.87.234,4,-29,inidanauto.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 89.42.218.71,4,1251,innovacio.hu,RO,Europe,Eastern Europe,Romania,,,
-85.120.20.1,4,2,inoe.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-46.102.249.154,4,39,inshr-ew.ro,RO,Europe,Eastern Europe,Romania,,,
-193.151.29.23,4,-61,insse.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-92.81.68.198,4,165665,inst-puscariu.ro,RO,Europe,Eastern Europe,Romania,Ilfov,,Voluntari
+85.120.20.176,4,-1,inoe.ro,RO,Europe,Eastern Europe,Romania,,,
+128.140.227.115,4,233,inotec.ro,RO,Europe,Eastern Europe,Romania,,,
+85.120.18.140,4,6,inscop.ro,RO,Europe,Eastern Europe,Romania,,,
+188.241.112.30,4,-5,inselatorie.ro,RO,Europe,Eastern Europe,Romania,,,
+46.102.249.154,4,805,inshr-ew.ro,RO,Europe,Eastern Europe,Romania,,,
+92.81.68.198,4,165665,inst-puscariu.ro,RO,Europe,Eastern Europe,Romania,Vrancea,,Focşani
 89.40.17.17,4,689,instalator-sanitar-bucuresti.ro,RO,Europe,Eastern Europe,Romania,,,
+92.82.184.31,4,12,institutfrancais.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.40.196.182,4,4211,intalnirisecrete.ro,RO,Europe,Eastern Europe,Romania,Vaslui County,,Vaslui
 86.107.78.1,4,463,integritate.eu,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-188.240.47.86,4,10,intes.com.ro,RO,Europe,Eastern Europe,Romania,,,
+176.223.121.217,4,-774,interlink.ro,RO,Europe,Eastern Europe,Romania,,,
 89.39.83.129,4,4,intimmagazin.ro,RO,Europe,Eastern Europe,Romania,,,
 93.113.174.225,4,10,intodns.com,RO,Europe,Eastern Europe,Romania,,,
-193.242.120.194,4,7499958,ipa.ro,RO,Europe,Eastern Europe,Romania,,,
+217.156.93.91,4,-1,ipp.md,RO,Europe,Eastern Europe,Romania,,,
 89.33.24.224,4,1580,irrini.ro,RO,Europe,Eastern Europe,Romania,,,
-193.231.32.194,4,1702,ismb.edu.ro,RO,Europe,Eastern Europe,Romania,Dolj,,Craiova
+185.125.111.130,4,9,isjbihor.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
+176.97.76.60,4,-21,ist-budget.ru,RO,Europe,Eastern Europe,Romania,București,,
 89.43.174.35,4,67,it-sh.ro,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.40,4,394,italyscapes.com,RO,Europe,Eastern Europe,Romania,,,
-193.239.65.130,4,46,itcnet.ro,RO,Europe,Eastern Europe,Romania,,,
-45.129.65.135,4,3,itgalaxy.ro,RO,Europe,Eastern Europe,Romania,,,
-80.86.106.61,4,-70,itsybitsy.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.33.44.199,4,13,iuliusmall.com,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.40,4,786,italyscapes.com,RO,Europe,Eastern Europe,Romania,,,
+193.239.65.130,4,3,itcnet.ro,RO,Europe,Eastern Europe,Romania,,,
+89.39.209.89,4,2,itexclusiv.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+45.129.65.135,4,30,itgalaxy.ro,RO,Europe,Eastern Europe,Romania,,,
+80.86.106.61,4,-181,itsybitsy.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.33.44.199,4,363,iuliustown.ro,RO,Europe,Eastern Europe,Romania,,,
 91.212.101.50,4,8,ivanoiu.ro,RO,Europe,Eastern Europe,Romania,,,
-81.196.12.101,4,7,iw.ro,RO,Europe,Eastern Europe,Romania,Constanța County,,Năvodari
+81.196.12.101,4,0,iw.ro,RO,Europe,Eastern Europe,Romania,Arges,,Piteşti
 176.223.123.48,4,7,ja-galaxy-forum.com,RO,Europe,Eastern Europe,Romania,,,
-193.151.29.11,4,36,jandarmeriaromana.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-185.36.252.214,4,139,jaromania.org,RO,Europe,Eastern Europe,Romania,,,
-83.97.20.147,4,3,jaxxliberty.io,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.45.174.50,4,2497,jck.ro,RO,Europe,Eastern Europe,Romania,,,
-37.251.142.143,4,4,jocpacanele.ro,RO,Europe,Eastern Europe,Romania,,,
-176.126.202.229,4,4,jocresponsabil.ro,RO,Europe,Eastern Europe,Romania,,,
-89.38.248.28,4,3,jocsloturi.ro,RO,Europe,Eastern Europe,Romania,,,
-188.215.51.69,4,26,jocuricazinouri.com,RO,Europe,Eastern Europe,Romania,,,
+193.151.29.11,4,-19,jandarmeriaromana.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+185.36.252.214,4,361,jaromania.org,RO,Europe,Eastern Europe,Romania,,,
+185.193.125.86,4,-9,jaxx-web.org,RO,Europe,Eastern Europe,Romania,,,
+188.241.117.93,4,12,jazzinthepark.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.45.174.50,4,5090,jck.ro,RO,Europe,Eastern Europe,Romania,,,
+154.56.0.32,4,1153,jetexplore.co.uk,RO,Europe,Eastern Europe,Romania,Ilfov,,
+37.251.142.143,4,3,jocpacanele.ro,RO,Europe,Eastern Europe,Romania,,,
+176.126.202.229,4,298,jocresponsabil.ro,RO,Europe,Eastern Europe,Romania,,,
+89.38.248.28,4,-4,jocsloturi.ro,RO,Europe,Eastern Europe,Romania,,,
+188.215.51.69,4,-4,jocuricazinouri.com,RO,Europe,Eastern Europe,Romania,,,
+176.126.200.72,4,-12,jogiforum.hu,RO,Europe,Eastern Europe,Romania,,,
+89.42.219.78,4,620,jomapel.ro,RO,Europe,Eastern Europe,Romania,,,
+185.199.175.81,4,-270,jucatorul.ro,RO,Europe,Eastern Europe,Romania,,,
+184.75.248.30,4,113,judgecasino.com,RO,Europe,Eastern Europe,Romania,,,
+89.47.241.19,4,1438,julgames.com,RO,Europe,Eastern Europe,Romania,,,
 5.254.67.147,4,6,juridice.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-194.152.42.80,4,6,jurnalul.ro,RO,Europe,Eastern Europe,Romania,București,,Sector 2
+188.240.47.86,4,7,jurnaldemariaj.ro,RO,Europe,Eastern Europe,Romania,,,
+194.152.42.80,4,-3,jurnalul.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 89.41.36.231,4,796,jurnaluldeafaceri.ro,RO,Europe,Eastern Europe,Romania,,,
-188.247.237.26,4,4,jurnaluldearges.ro,RO,Europe,Eastern Europe,Romania,,,
-89.35.6.82,4,23,karpaten.ro,RO,Europe,Eastern Europe,Romania,,,
-193.203.204.199,4,2002,kenvandermark.com,RO,Europe,Eastern Europe,Romania,,,
-93.113.54.240,4,486,kesheromania.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-91.188.227.206,4,3,kevinsites.net,RO,Europe,Eastern Europe,Romania,,,
+188.247.237.26,4,-5,jurnaluldearges.ro,RO,Europe,Eastern Europe,Romania,,,
+93.113.54.240,4,-597,kesheromania.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+45.87.122.3,4,337,kia.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.36,4,3115,kingeuroservice.ro,RO,Europe,Eastern Europe,Romania,,,
+185.120.146.100,4,-28,kissfm.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 128.140.230.4,4,3,kissfm.ro,RO,Europe,Eastern Europe,Romania,,,
-93.115.113.34,4,161,kls-soft.com,RO,Europe,Eastern Europe,Romania,,,
+93.115.113.34,4,-376,kls-soft.com,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.49,4,3044,kodcomputers.ro,RO,Europe,Eastern Europe,Romania,,,
 89.42.218.225,4,885,kodcomputers.ro,RO,Europe,Eastern Europe,Romania,,,
 93.119.122.252,4,280,kogaionon.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+193.189.98.15,4,-5,konkurs.ro,RO,Europe,Eastern Europe,Romania,,,
 193.189.98.14,4,-113441,konkurs.ro,RO,Europe,Eastern Europe,Romania,,,
-188.240.2.135,4,4,krimket.ro,RO,Europe,Eastern Europe,Romania,,,
-45.67.36.233,4,350,kzs.ro,RO,Europe,Eastern Europe,Romania,,,
-89.35.160.250,4,13,lab501.ro,RO,Europe,Eastern Europe,Romania,,,
+193.189.75.83,4,-41,korcula.net,RO,Europe,Eastern Europe,Romania,,,
+195.8.197.130,4,12,korculainfo.com,RO,Europe,Eastern Europe,Romania,,,
+188.240.2.135,4,-7,krimket.ro,RO,Europe,Eastern Europe,Romania,,,
+89.35.160.250,4,10,lab501.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.23,4,2461,laculracilor.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.96,4,996,lajetoane.ro,RO,Europe,Eastern Europe,Romania,,,
+91.216.156.40,4,-5,lamavro.ro,RO,Europe,Eastern Europe,Romania,,,
 176.223.126.53,4,39,lauraadamache.ro,RO,Europe,Eastern Europe,Romania,,,
-81.181.198.253,4,7,lauralaurentiu.ro,RO,Europe,Eastern Europe,Romania,,,
-89.44.105.89,4,80,ldmstudio.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+188.241.74.88,4,-3,lauragalea.ro,RO,Europe,Eastern Europe,Romania,,,
+81.181.199.242,4,-13,lauralaurentiu.ro,RO,Europe,Eastern Europe,Romania,,,
+89.44.105.89,4,-504,ldmstudio.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+193.189.74.170,4,5,leafcutterjohn.com,RO,Europe,Eastern Europe,Romania,,,
+89.33.126.178,4,1169,leblanc-cotroceni.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 31.14.14.75,4,3858,legestart.ro,RO,Europe,Eastern Europe,Romania,,,
-94.176.104.223,4,58,librariadelfin.ro,RO,Europe,Eastern Europe,Romania,Arad County,,Curtici
-146.70.77.183,4,-1864,librariaeminescu.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.211,4,1996,leotrans.ro,RO,Europe,Eastern Europe,Romania,,,
+176.223.126.104,4,-1,lesaffre.ro,RO,Europe,Eastern Europe,Romania,,,
+176.126.200.12,4,1808,liberalist.ro,RO,Europe,Eastern Europe,Romania,,,
+94.176.104.223,4,-32,librariadelfin.ro,RO,Europe,Eastern Europe,Romania,Arad County,,Curtici
+146.70.77.183,4,-11,librariaeminescu.ro,RO,Europe,Eastern Europe,Romania,,,
+89.45.174.143,4,2399,liceultehnologicmioveni.ro,RO,Europe,Eastern Europe,Romania,,,
 89.37.212.158,4,23,lifedentalspa.ro,RO,Europe,Eastern Europe,Romania,,,
-93.119.122.53,4,-279,lifeisanepisode.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.44.200.94,4,66,lingv.ro,RO,Europe,Eastern Europe,Romania,,,
-85.9.26.240,4,606,loftlounge.ro,RO,Europe,Eastern Europe,Romania,Ilfov,,Popeşti-Leordeni
+93.119.122.53,4,-404,lifeisanepisode.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+91.216.80.19,4,-11,lifeishard.ro,RO,Europe,Eastern Europe,Romania,,,
+193.189.74.10,4,-8,lightillusion.com,RO,Europe,Eastern Europe,Romania,,,
+185.92.195.234,4,2143,lili-spalatoriecovoare.ro,RO,Europe,Eastern Europe,Romania,,,
+89.44.200.94,4,-2,lingv.ro,RO,Europe,Eastern Europe,Romania,,,
+85.9.26.240,4,606,loftlounge.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 84.234.97.208,4,9,loresoft.gr,RO,Europe,Eastern Europe,Romania,,,
-86.105.27.18,4,6,los-santos.ro,RO,Europe,Eastern Europe,Romania,,,
-188.240.3.248,4,4849,loto.ro,RO,Europe,Eastern Europe,Romania,,,
-82.208.134.197,4,5,lpf.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
+188.240.3.248,4,6556,loto.ro,RO,Europe,Eastern Europe,Romania,,,
+82.208.134.197,4,-3,lpf.ro,RO,Europe,Eastern Europe,Romania,Alba County,,Alba Iulia
+81.181.254.24,4,1179,ltme.ro,RO,Europe,Eastern Europe,Romania,,,
+188.215.251.46,4,-1,lubrifianti-auto.ro,RO,Europe,Eastern Europe,Romania,,,
 89.44.47.236,4,-541,lubrifianti-auto.ro,RO,Europe,Eastern Europe,Romania,,,
-89.36.93.33,4,12,lug.ro,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.27,4,659,lumenpublishing.com,RO,Europe,Eastern Europe,Romania,,,
+89.36.93.33,4,-5,lug.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.27,4,388,lumenpublishing.com,RO,Europe,Eastern Europe,Romania,,,
 185.92.195.17,4,533,lundin.ro,RO,Europe,Eastern Europe,Romania,,,
-193.151.29.26,4,63,madr.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-193.151.29.7,4,2,mae.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-193.226.68.150,4,4139,magazinsalajean.ro,RO,Europe,Eastern Europe,Romania,,,
+185.181.240.219,4,-1016,luxorcomp.ro,RO,Europe,Eastern Europe,Romania,,,
+193.151.29.7,4,-4,mae.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+193.226.68.150,4,-11,magazinsalajean.ro,RO,Europe,Eastern Europe,Romania,,,
+91.201.83.9,4,4,magicearth.com,RO,Europe,Eastern Europe,Romania,Brașov County,,Brasov
 128.140.230.7,4,10,magicfm.ro,RO,Europe,Eastern Europe,Romania,,,
-91.201.83.8,4,12,magiclane.com,RO,Europe,Eastern Europe,Romania,Brașov County,,Brasov
-91.201.83.9,4,3,magiclane.com,RO,Europe,Eastern Europe,Romania,Brașov County,,Brasov
 91.201.83.7,4,10,magiclane.com,RO,Europe,Eastern Europe,Romania,Brașov County,,Brasov
-193.151.29.12,4,6,mai-dga.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-193.226.71.230,4,12,malinaionescu.ro,RO,Europe,Eastern Europe,Romania,,,
-91.195.29.199,4,3039,marcocars.ro,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.23,4,1054,mariusbancila.ro,RO,Europe,Eastern Europe,Romania,,,
-31.14.56.65,4,-444,marosme.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-185.100.87.211,4,88,mastodon.ml,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-185.232.66.211,4,12,mcm-backpacks.com.co,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
+91.201.83.8,4,12,magiclane.com,RO,Europe,Eastern Europe,Romania,Brașov County,,Brasov
+80.96.7.2,4,7,makispizza.ro,RO,Europe,Eastern Europe,Romania,,,
+45.82.28.166,4,-2,makitajobs.ro,RO,Europe,Eastern Europe,Romania,,,
+193.226.71.230,4,-18,malinaionescu.ro,RO,Europe,Eastern Europe,Romania,,,
+188.213.205.44,4,-2181,mantransport.ro,RO,Europe,Eastern Europe,Romania,,,
+74.117.153.172,4,-332030,mapawatt.com,RO,Europe,Eastern Europe,Romania,,,
+89.33.26.81,4,1685,maramedia.ro,RO,Europe,Eastern Europe,Romania,,,
+91.195.29.199,4,6053,marcocars.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.13.33,4,530,marosme.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+85.204.100.17,4,350,marosvasarhelyiradio.ro,RO,Europe,Eastern Europe,Romania,,,
+85.9.45.189,4,398,masterdruck.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+185.100.87.211,4,-12,mastodon.ml,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.42.218.239,4,1448,maternitateagiulesti.ro,RO,Europe,Eastern Europe,Romania,,,
+188.214.214.206,4,1275,max-alarme.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.47.243.89,4,2521,maxjobs.ro,RO,Europe,Eastern Europe,Romania,,,
+185.232.66.211,4,58,mcm-backpacks.com.co,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
 93.113.11.101,4,41,mediafax.ro,RO,Europe,Eastern Europe,Romania,,,
-89.36.134.22,4,973,medichub.ro,RO,Europe,Eastern Europe,Romania,,,
-89.42.219.206,4,1359,medlife.ro,RO,Europe,Eastern Europe,Romania,,,
-86.105.231.130,4,82,meh.ro,RO,Europe,Eastern Europe,Romania,,,
-85.120.223.72,4,2,memorialsighet.ro,RO,Europe,Eastern Europe,Romania,,,
-89.36.18.30,4,-611,mercedesblog.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.44.109.103,4,-227,mergilasigur.ro,RO,Europe,Eastern Europe,Romania,,,
+93.115.53.108,4,407,mediaflux.ro,RO,Europe,Eastern Europe,Romania,,,
+185.92.194.11,4,-7,medical4u.ro,RO,Europe,Eastern Europe,Romania,,,
+89.33.27.227,4,167,medicaldevicestore.ro,RO,Europe,Eastern Europe,Romania,,,
+89.36.134.22,4,642,medichub.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.219.206,4,1605,medlife.ro,RO,Europe,Eastern Europe,Romania,,,
+86.105.231.130,4,24,meh.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.223,4,-405,memoria.ro,RO,Europe,Eastern Europe,Romania,,,
+85.120.223.72,4,4,memorialsighet.ro,RO,Europe,Eastern Europe,Romania,,,
+185.193.126.146,4,28,memoryoftheworld.org,RO,Europe,Eastern Europe,Romania,,,
+89.36.18.30,4,-1,mercedesblog.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.44.109.103,4,540,mergilasigur.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.47,4,2335,metagap.ro,RO,Europe,Eastern Europe,Romania,,,
 89.43.17.43,4,38,metalhead.ro,RO,Europe,Eastern Europe,Romania,,,
-193.26.129.18,4,25,meteoromania.ro,RO,Europe,Eastern Europe,Romania,,,
-91.235.116.194,4,42,methylblue.com,RO,Europe,Eastern Europe,Romania,,,
+45.86.220.131,4,2411,metropolis.studio,RO,Europe,Eastern Europe,Romania,,,
 188.240.2.189,4,4,micapi.ro,RO,Europe,Eastern Europe,Romania,,,
+45.128.119.196,4,15,michaelkorsoutlet.us,RO,Europe,Eastern Europe,Romania,,,
 85.120.59.109,4,54416,micro-logic.ro,RO,Europe,Eastern Europe,Romania,,,
-176.126.172.44,4,6,millionsoffriends.org,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+176.126.172.44,4,-20,millionsoffriends.org,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+193.189.75.132,4,-2,mindtrainingsystems.com,RO,Europe,Eastern Europe,Romania,,,
+89.35.173.94,4,1144,minifarmonline.ro,RO,Europe,Eastern Europe,Romania,,,
+81.181.66.160,4,973,minoxidil.eu,RO,Europe,Eastern Europe,Romania,,,
 81.181.66.123,4,912,minoxidil5.ro,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.35,4,1830,mipex.eu,RO,Europe,Eastern Europe,Romania,,,
-91.195.99.115,4,10,mir.cr,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.42.218.35,4,2331,mipex.eu,RO,Europe,Eastern Europe,Romania,,,
+91.195.99.115,4,22,mir.cr,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 95.214.133.80,4,7,miricom.ro,RO,Europe,Eastern Europe,Romania,,,
-91.195.99.122,4,1,mirrored.to,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+91.195.99.116,4,2,mirrorcreator.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+91.195.99.122,4,5,mirrored.to,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 80.86.107.140,4,0,misiuneacasa.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.45.172.88,4,1623,misterimobiliare.ro,RO,Europe,Eastern Europe,Romania,,,
+176.223.110.10,4,5,mitropolia.eu,RO,Europe,Eastern Europe,Romania,,,
 80.96.33.228,4,4,mixmag.ro,RO,Europe,Eastern Europe,Romania,,,
-185.232.64.46,4,6,mklcleaningservices.co.uk,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
-93.115.53.143,4,17,mm-podium.ro,RO,Europe,Eastern Europe,Romania,,,
-193.151.29.13,4,-101,mmanpis.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+46.102.254.11,4,5210,mixstudio.ro,RO,Europe,Eastern Europe,Romania,,,
+185.232.64.46,4,-7,mklcleaningservices.co.uk,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
+193.151.29.13,4,4,mmuncii.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 193.151.29.5,4,3,mmuncii.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-85.9.26.84,4,867,mnlr.ro,RO,Europe,Eastern Europe,Romania,Ilfov,,Popeşti-Leordeni
+84.232.181.66,4,-4,mnar.ro,RO,Europe,Eastern Europe,Romania,Teleorman County,,Alexandria
+176.223.167.196,4,1352,mnlr.ro,RO,Europe,Eastern Europe,Romania,,,
+85.9.26.84,4,867,mnlr.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.44.139.149,4,6,mntr.ro,RO,Europe,Eastern Europe,Romania,,,
 188.212.156.68,4,533,mobilewave.ro,RO,Europe,Eastern Europe,Romania,,,
-185.199.175.206,4,-592,modernism.ro,RO,Europe,Eastern Europe,Romania,,,
-86.105.195.197,4,28,monitoruldegalati.ro,RO,Europe,Eastern Europe,Romania,,,
+195.8.196.209,4,1,mobo.com,RO,Europe,Eastern Europe,Romania,,,
+185.199.175.206,4,-1073,modernism.ro,RO,Europe,Eastern Europe,Romania,,,
+94.176.2.88,4,-10,monitoruldegalati.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.100,4,2539,monitorulexpres.ro,RO,Europe,Eastern Europe,Romania,,,
 46.102.249.137,4,51,monitorulneamt.ro,RO,Europe,Eastern Europe,Romania,,,
-188.240.3.200,4,13,mos-craciun-inchiriere.ro,RO,Europe,Eastern Europe,Romania,,,
-188.215.250.103,4,41,motelandratecuci.ro,RO,Europe,Eastern Europe,Romania,,,
+188.240.3.200,4,3,mos-craciun-inchiriere.ro,RO,Europe,Eastern Europe,Romania,,,
+188.215.250.103,4,539,motelandratecuci.ro,RO,Europe,Eastern Europe,Romania,,,
 185.181.100.50,4,411,motociclism.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.42.218.240,4,700,mountainguide-sibiu.ro,RO,Europe,Eastern Europe,Romania,,,
-93.113.11.199,4,3,mpinteractiv.ro,RO,Europe,Eastern Europe,Romania,,,
-193.151.29.21,4,-99,mpublic.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-81.196.10.78,4,29343356,mstdn.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-193.151.29.16,4,-99,mt.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-185.199.175.115,4,-1841,muslimheritage.com,RO,Europe,Eastern Europe,Romania,,,
-188.241.118.148,4,13,muzeul-etnografic.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-46.102.144.13,4,175,muzeul-satului.ro,RO,Europe,Eastern Europe,Romania,,,
-85.9.26.165,4,512,muzeulbucurestiului.ro,RO,Europe,Eastern Europe,Romania,Ilfov,,Popeşti-Leordeni
-89.38.233.224,4,3,muzeultaranuluiroman.ro,RO,Europe,Eastern Europe,Romania,,,
+81.181.253.191,4,-8,movienews.ro,RO,Europe,Eastern Europe,Romania,,,
+93.113.11.199,4,-1,mpinteractiv.ro,RO,Europe,Eastern Europe,Romania,,,
+193.151.29.21,4,0,mpublic.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+81.196.10.78,4,2230,mstdn.ro,RO,Europe,Eastern Europe,Romania,Arges,,Piteşti
+193.151.29.17,4,0,mts.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+185.199.175.115,4,895,muslimheritage.com,RO,Europe,Eastern Europe,Romania,,,
+188.241.118.148,4,-7,muzeul-etnografic.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+46.102.144.13,4,-403,muzeul-satului.ro,RO,Europe,Eastern Europe,Romania,,,
+93.119.122.114,4,-369,muzeulbucurestiului.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+85.9.26.165,4,512,muzeulbucurestiului.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.38.233.224,4,2,muzeultaranuluiroman.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.111,4,851,muzicamagazin.ro,RO,Europe,Eastern Europe,Romania,,,
 176.223.125.146,4,1618,mxhost.ro,RO,Europe,Eastern Europe,Romania,,,
 89.42.218.206,4,835,mxmedia.agency,RO,Europe,Eastern Europe,Romania,,,
 89.46.103.117,4,4,myconnector.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 188.212.156.33,4,6,myexpert.ro,RO,Europe,Eastern Europe,Romania,,,
-81.181.167.31,4,37,myforum.ro,RO,Europe,Eastern Europe,Romania,,,
-194.117.237.87,4,36,mygarage.ro,RO,Europe,Eastern Europe,Romania,,,
-194.88.149.200,4,-251,myjob.ro,RO,Europe,Eastern Europe,Romania,,,
-89.33.246.197,4,6,mystage.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-82.79.20.34,4,21,mytex.ro,RO,Europe,Eastern Europe,Romania,Ilfov,,Afumaţi
-89.38.248.14,4,-7856059,myticket.ro,RO,Europe,Eastern Europe,Romania,,,
-194.36.143.79,4,1187,narantuulhotel.com,RO,Europe,Eastern Europe,Romania,,,
-91.188.226.230,4,888,national.ro,RO,Europe,Eastern Europe,Romania,,,
-85.9.26.120,4,867,nemultumiri.ro,RO,Europe,Eastern Europe,Romania,Ilfov,,Popeşti-Leordeni
-81.18.71.228,4,8,netdania.com,RO,Europe,Eastern Europe,Romania,Teleorman County,,Dobroteşti
+81.181.167.31,4,9,myforum.ro,RO,Europe,Eastern Europe,Romania,,,
+194.117.237.87,4,-12,mygarage.ro,RO,Europe,Eastern Europe,Romania,,,
+194.88.149.200,4,-156,myjob.ro,RO,Europe,Eastern Europe,Romania,,,
+89.33.246.197,4,5,mystage.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+82.79.20.34,4,-2,mytex.ro,RO,Europe,Eastern Europe,Romania,Brașov County,,Sânpetru
+89.38.248.14,4,132590,myticket.ro,RO,Europe,Eastern Europe,Romania,,,
+91.188.227.240,4,-17,namogo.com,RO,Europe,Eastern Europe,Romania,,,
+193.189.75.147,4,25,nano.org.uk,RO,Europe,Eastern Europe,Romania,,,
+194.36.143.79,4,2239,narantuulhotel.com,RO,Europe,Eastern Europe,Romania,,,
+85.9.26.120,4,867,nemultumiri.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+81.18.71.228,4,5,netdania.com,RO,Europe,Eastern Europe,Romania,Suceava,,Huși
 92.114.98.142,4,36,news20.ro,RO,Europe,Eastern Europe,Romania,,,
 89.37.212.105,4,41,newsar.ro,RO,Europe,Eastern Europe,Romania,,,
-188.247.160.2,4,20,newsin.ro,RO,Europe,Eastern Europe,Romania,,,
-89.35.160.37,4,22,newsweek.ro,RO,Europe,Eastern Europe,Romania,,,
+91.102.64.64,4,8,newsincyprus.com,RO,Europe,Eastern Europe,Romania,,,
+89.35.160.37,4,-3,newsweek.ro,RO,Europe,Eastern Europe,Romania,,,
+185.125.109.72,4,-5,nilechronicles.com,RO,Europe,Eastern Europe,Romania,,,
+146.19.133.147,4,-8,niramobdesign.ro,RO,Europe,Eastern Europe,Romania,,,
 31.14.14.147,4,50,noapteamuzeelor.org,RO,Europe,Eastern Europe,Romania,,,
-91.209.189.177,4,5307,nord-vest.ro,RO,Europe,Eastern Europe,Romania,,,
-188.240.20.132,4,1036,noutaticontabile.ro,RO,Europe,Eastern Europe,Romania,,,
+91.209.189.177,4,231,nord-vest.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
+91.200.120.219,4,1973,nordmarine.ro,RO,Europe,Eastern Europe,Romania,,,
+188.241.118.23,4,280,noticiasformosa.com.ar,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+188.240.20.132,4,1421,noutaticontabile.ro,RO,Europe,Eastern Europe,Romania,,,
 185.181.240.180,4,247,nsttotal.ro,RO,Europe,Eastern Europe,Romania,,,
-94.177.106.20,4,4,nudeexpress.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.42.218.82,4,372,nyugatijelen.com,RO,Europe,Eastern Europe,Romania,,,
-89.40.16.6,4,617,obiectivbr.ro,RO,Europe,Eastern Europe,Romania,,,
-89.37.135.5,4,40,oddsmath.com,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.31,4,1133,ofertaromania.ro,RO,Europe,Eastern Europe,Romania,,,
-86.104.214.103,4,13,okazii.ro,RO,Europe,Eastern Europe,Romania,,,
-86.104.214.102,4,13,okazii.ro,RO,Europe,Eastern Europe,Romania,,,
-86.104.214.104,4,-4,okazii.ro,RO,Europe,Eastern Europe,Romania,,,
-86.104.214.101,4,-102,okazii.ro,RO,Europe,Eastern Europe,Romania,,,
-193.189.98.50,4,699034,one.ro,RO,Europe,Eastern Europe,Romania,,,
-86.104.17.24,4,30,oneworld.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.82,4,318,nyugatijelen.com,RO,Europe,Eastern Europe,Romania,,,
+89.40.16.6,4,-2,obiectivbr.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.227,4,3498,oderma.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.31,4,1339,ofertaromania.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.13.46,4,546,oftalmoclass.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+86.104.214.103,4,3,okazii.ro,RO,Europe,Eastern Europe,Romania,,,
+86.104.214.104,4,3,okazii.ro,RO,Europe,Eastern Europe,Romania,,,
+86.104.214.102,4,6,okazii.ro,RO,Europe,Eastern Europe,Romania,,,
+86.104.214.101,4,-3,okazii.ro,RO,Europe,Eastern Europe,Romania,,,
+92.118.159.61,4,-7,okthemes.com,RO,Europe,Eastern Europe,Romania,,,
+193.189.98.50,4,91377,one.ro,RO,Europe,Eastern Europe,Romania,,,
+185.92.192.202,4,559,onehundredgamblers.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+86.104.17.24,4,18,oneworld.ro,RO,Europe,Eastern Europe,Romania,,,
 91.195.29.103,4,1687,ong.ro,RO,Europe,Eastern Europe,Romania,,,
-193.151.29.37,4,19,onjn.gov.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.47.241.19,4,546,onlinegames.io,RO,Europe,Eastern Europe,Romania,,,
-195.49.254.231,4,356,Ookla Speedtest Server 668: speedtest.bensoft.ro,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
-86.106.170.60,4,-387,Ookla Speedtest Server 3322: speedtest1.banat-net.ro,RO,Europe,Eastern Europe,Romania,,,
-89.36.93.2,4,360,Ookla Speedtest Server 4089: speedtest.chroot.ro,RO,Europe,Eastern Europe,Romania,,,
-84.247.82.154,4,364,Ookla Speedtest Server 4290: speedtest.ines.ro,RO,Europe,Eastern Europe,Romania,Ilfov,,Voluntari
-91.229.0.2,4,411,Ookla Speedtest Server 5170: bronxnet.ro,RO,Europe,Eastern Europe,Romania,,,
-89.40.72.167,4,337,Ookla Speedtest Server 7682: testmyspeed1.bocu.ro,RO,Europe,Eastern Europe,Romania,Mehedinți County,,Izvorălu
-89.35.128.146,4,17783,Ookla Speedtest Server 8071: speedtest.intersat-telecom.ro,RO,Europe,Eastern Europe,Romania,,,
+193.151.29.37,4,4,onjn.gov.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+195.49.254.231,4,-7,Ookla Speedtest Server 668: speedtest.bensoft.ro,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
+86.106.170.60,4,-16338,Ookla Speedtest Server 3322: speedtest1.banat-net.ro,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
+89.36.93.2,4,4,Ookla Speedtest Server 4089: speedtest.chroot.ro,RO,Europe,Eastern Europe,Romania,,,
+84.247.82.154,4,-5,Ookla Speedtest Server 4290: speedtest.ines.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+91.229.0.2,4,-7,Ookla Speedtest Server 5170: bronxnet.ro,RO,Europe,Eastern Europe,Romania,,,
+89.40.72.167,4,163,Ookla Speedtest Server 7682: testmyspeed1.bocu.ro,RO,Europe,Eastern Europe,Romania,,,
+89.35.128.146,4,21526,Ookla Speedtest Server 8071: speedtest.intersat-telecom.ro,RO,Europe,Eastern Europe,Romania,,,
 5.154.224.14,4,357,Ookla Speedtest Server 9836: speedtest.server.ro,RO,Europe,Eastern Europe,Romania,,,
-81.12.229.238,4,-457302,Ookla Speedtest Server 14665: speedtestcluj.vodafone.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Sânnicoară
-95.77.34.198,4,303,Ookla Speedtest Server 14767: stnetcj.fixed-nw.vodafone.ro,RO,Europe,Eastern Europe,Romania,Prahova,,Ploieşti
-95.77.35.14,4,274,Ookla Speedtest Server 15004: stnetb.fixed-nw.vodafone.ro,RO,Europe,Eastern Europe,Romania,Prahova,,Ploieşti
-93.113.0.102,4,101,Ookla Speedtest Server 15247: buc.signalx.uk,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-81.181.85.24,4,285,Ookla Speedtest Server 15281: speedtest.cobranet.ro,RO,Europe,Eastern Europe,Romania,Arad County,,Arad
-92.86.84.173,4,130,Ookla Speedtest Server 16457: speedtest.fix.orange.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-193.226.5.26,4,146,Ookla Speedtest Server 16918: speedtest.utcluj.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
-86.105.231.70,4,409,Ookla Speedtest Server 23605: speedtest.leadhosts.com,RO,Europe,Eastern Europe,Romania,,,
-193.226.158.66,4,327,Ookla Speedtest Server 29707: speedtest.gtstelecom.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-86.105.231.78,4,441,Ookla Speedtest Server 41156: speedtest.biztelecom.ro,RO,Europe,Eastern Europe,Romania,,,
-193.231.242.78,4,401,Ookla Speedtest Server 45427: speedtest.gmbcomputers.ro,RO,Europe,Eastern Europe,Romania,Constanța County,,Constanța
-193.239.252.8,4,97,Ookla Speedtest Server 46827: speedtest.silvernet.ro,RO,Europe,Eastern Europe,Romania,,,
-193.226.56.145,4,250,Ookla Speedtest Server 48152: speedtest.cti.ugal.ro,RO,Europe,Eastern Europe,Romania,Galați County,,Galati
-209.127.202.100,4,226,Ookla Speedtest Server 50720: amsterdam.getstreamhosting.com,RO,Europe,Eastern Europe,Romania,,,
-194.9.92.11,4,168,Ookla Speedtest Server 52769: speedtest.lansoft.net,RO,Europe,Eastern Europe,Romania,,,
-188.247.244.193,4,199,Ookla Speedtest Server 52801: speedtest3.primetelecom.ro,RO,Europe,Eastern Europe,Romania,,,
-91.194.234.158,4,814,Ookla Speedtest Server 55394: buh-nx1-ookla-sp1.dotro.network,RO,Europe,Eastern Europe,Romania,,,
-89.37.117.115,4,279,Ookla Speedtest Server 58039: speedtest.nexonhost.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-85.120.220.64,4,252,Ookla Speedtest Server 62633: speedtest.createnet.ro,RO,Europe,Eastern Europe,Romania,,,
-185.248.197.44,4,175,Ookla Speedtest Server: maxpack.ro,RO,Europe,Eastern Europe,Romania,,,
+89.45.200.11,4,14,Ookla Speedtest Server 10910: speedtest.efx.ro,RO,Europe,Eastern Europe,Romania,Iași County,,Iași
+81.196.8.146,4,-4,Ookla Speedtest Server 11494: speedtest.rcs-rds.ro,RO,Europe,Eastern Europe,Romania,Arges,,Piteşti
+81.196.122.82,4,-13,Ookla Speedtest Server 11500: speedtest-tm.rcs-rds.ro,RO,Europe,Eastern Europe,Romania,Neamț County,,Târgu Neamţ
+213.157.176.194,4,15,Ookla Speedtest Server 11502: speedtest-is.rcs-rds.ro,RO,Europe,Eastern Europe,Romania,Prahova,,Ploieşti
+80.96.120.18,4,5,Ookla Speedtest Server 11854: speedtest1.usv.ro,RO,Europe,Eastern Europe,Romania,,,
+81.12.229.238,4,75517717,Ookla Speedtest Server 14665: speedtestcluj.vodafone.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+95.77.34.198,4,4,Ookla Speedtest Server 14767: stnetcj.fixed-nw.vodafone.ro,RO,Europe,Eastern Europe,Romania,Iași County,,Iași
+95.77.35.14,4,19,Ookla Speedtest Server 15004: stnetb.fixed-nw.vodafone.ro,RO,Europe,Eastern Europe,Romania,Iași County,,Iași
+81.181.85.24,4,14,Ookla Speedtest Server 15281: speedtest.cobranet.ro,RO,Europe,Eastern Europe,Romania,Arad County,,Arad
+92.86.84.173,4,121,Ookla Speedtest Server 16457: speedtest.fix.orange.ro,RO,Europe,Eastern Europe,Romania,Dâmbovița County,,Crevedia
+193.226.5.26,4,3,Ookla Speedtest Server 16918: speedtest.utcluj.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
+185.105.5.100,4,-2,Ookla Speedtest Server 22267: bucharest.getstreamhosting.com,RO,Europe,Eastern Europe,Romania,București,,
+85.204.98.43,4,-1,Ookla Speedtest Server 22714: speedtest.banatnet.ro,RO,Europe,Eastern Europe,Romania,Timiș County,,Urseni
+89.238.202.12,4,-4,Ookla Speedtest Server 22756: speedtest.euroweb.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+86.105.231.70,4,-7,Ookla Speedtest Server 23605: speedtest.leadhosts.com,RO,Europe,Eastern Europe,Romania,,,
+188.26.117.67,4,127,Ookla Speedtest Server 28837: speedtest.tamaseduard.com,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
+193.226.158.66,4,-3,Ookla Speedtest Server 29707: speedtest.gtstelecom.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+188.208.128.146,4,-7,Ookla Speedtest Server 38023: speedtest.infinitytelecom.ro,RO,Europe,Eastern Europe,Romania,București,,
+86.105.231.78,4,1,Ookla Speedtest Server 41156: speedtest.biztelecom.ro,RO,Europe,Eastern Europe,Romania,,,
+193.231.242.78,4,-9,Ookla Speedtest Server 45427: speedtest.gmbcomputers.ro,RO,Europe,Eastern Europe,Romania,Constanța County,,Constanța
+188.241.119.116,4,40,Ookla Speedtest Server 46454: speed.hosterion.net,RO,Europe,Eastern Europe,Romania,,,
+193.239.252.8,4,1,Ookla Speedtest Server 46827: speedtest.silvernet.ro,RO,Europe,Eastern Europe,Romania,,,
+193.226.56.145,4,-4,Ookla Speedtest Server 48152: speedtest.cti.ugal.ro,RO,Europe,Eastern Europe,Romania,Brăila County,,Brăila
+85.122.54.13,4,-1,Ookla Speedtest Server 49368: speedtest.cnetwork.ro,RO,Europe,Eastern Europe,Romania,Arad County,,Curtici
+209.127.202.100,4,0,Ookla Speedtest Server 50720: amsterdam.getstreamhosting.com,RO,Europe,Eastern Europe,Romania,,,
+194.9.92.11,4,-18,Ookla Speedtest Server 52769: speedtest.lansoft.net,RO,Europe,Eastern Europe,Romania,,,
+188.247.244.193,4,-3,Ookla Speedtest Server 52801: speedtest3.primetelecom.ro,RO,Europe,Eastern Europe,Romania,,,
+89.37.117.115,4,-6,Ookla Speedtest Server 58039: speedtest.nexonhost.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+193.239.212.12,4,12,Ookla Speedtest Server 73475: ookla.toptel.ro,RO,Europe,Eastern Europe,Romania,,,
+86.106.170.45,4,4,Ookla Speedtest Server 74478: speedtest.infinilink.com,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
+185.248.197.44,4,-20,Ookla Speedtest Server: maxpack.ro,RO,Europe,Eastern Europe,Romania,,,
 89.40.67.84,4,308,Ookla Speedtest Server: speed.alienstation.ro,RO,Europe,Eastern Europe,Romania,,,
 86.127.118.246,4,8,Ookla Speedtest Server: speedtest.rdsor.ro,RO,Europe,Eastern Europe,Romania,Bihor County,,Oradea
-81.12.227.186,4,1943,Ookla Speedtest Server: speedtestbucuresti.vodafone.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Sânnicoară
-193.203.204.116,4,384,Ookla Speedtest Server: www.simpliq.ro,RO,Europe,Eastern Europe,Romania,,,
-213.173.104.202,4,80,open-assistant.io,RO,Europe,Eastern Europe,Romania,,,
-93.113.55.95,4,929,operanb.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+81.12.227.186,4,-3553329,Ookla Speedtest Server: speedtest1.vodafone.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+93.113.55.95,4,231,operanb.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.35.173.10,4,608,optiterra.ro,RO,Europe,Eastern Europe,Romania,,,
 93.115.116.16,4,13670,optonica.ro,RO,Europe,Eastern Europe,Romania,,,
-89.33.44.86,4,3,oradea.ro,RO,Europe,Eastern Europe,Romania,,,
-195.88.81.62,4,35,oradestiri.ro,RO,Europe,Eastern Europe,Romania,,,
+89.33.44.86,4,540,oradea.ro,RO,Europe,Eastern Europe,Romania,,,
+195.88.81.62,4,18,oradestiri.ro,RO,Europe,Eastern Europe,Romania,,,
+185.92.193.124,4,47644,oraexacta.eu,RO,Europe,Eastern Europe,Romania,,,
 217.19.14.34,4,143,orafixa.eu,RO,Europe,Eastern Europe,Romania,,,
-89.41.38.22,4,1099,orangeprize.co.uk,RO,Europe,Eastern Europe,Romania,,,
-195.191.47.72,4,1,orangesport.ro,RO,Europe,Eastern Europe,Romania,,,
-212.146.85.111,4,506,otopeni-rent-a-car.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+195.191.47.72,4,946,orangesport.ro,RO,Europe,Eastern Europe,Romania,,,
+212.146.85.111,4,-408,otopeni-rent-a-car.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 185.100.85.96,4,33,ourhome2.net,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 185.93.220.70,4,1,owni.eu,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 193.201.82.97,4,7,oxyhelp.com,RO,Europe,Eastern Europe,Romania,,,
-193.168.141.44,4,6,pad.pm,RO,Europe,Eastern Europe,Romania,,,
+84.234.98.204,4,-17,pacanele-gratis.ro,RO,Europe,Eastern Europe,Romania,,,
+89.47.242.170,4,1960,pacoconstruct.ro,RO,Europe,Eastern Europe,Romania,,,
+92.114.95.61,4,0,paliparan.com,RO,Europe,Eastern Europe,Romania,,,
+185.250.104.21,4,165,paperyork.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.81,4,721,paradaromania.ro,RO,Europe,Eastern Europe,Romania,,,
+91.213.11.35,4,-10,parfumzone.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.97,4,1561,pariuri365.ro,RO,Europe,Eastern Europe,Romania,,,
+93.113.174.118,4,22,partyarena.ro,RO,Europe,Eastern Europe,Romania,,,
 185.104.181.247,4,86,pasion-prohibida.com,RO,Europe,Eastern Europe,Romania,,,
-194.36.140.87,4,2,pastry-workshop.com,RO,Europe,Eastern Europe,Romania,,,
+31.14.13.76,4,4,patriarhia.ro,RO,Europe,Eastern Europe,Romania,,,
 195.95.228.186,4,18,patriarhia.ro,RO,Europe,Eastern Europe,Romania,,,
-85.9.19.15,4,687,paysecure.ro,RO,Europe,Eastern Europe,Romania,Ilfov,,Popeşti-Leordeni
-85.9.27.87,4,791,pcmadd.com,RO,Europe,Eastern Europe,Romania,Ilfov,,Popeşti-Leordeni
+85.9.19.15,4,687,paysecure.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+85.9.27.87,4,794,pcmadd.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 194.60.72.73,4,202290,pcnews.ro,RO,Europe,Eastern Europe,Romania,,,
-85.120.19.61,4,24,pdgroup.ro,RO,Europe,Eastern Europe,Romania,,,
-89.37.143.160,4,5858,peles.ro,RO,Europe,Eastern Europe,Romania,,,
-85.9.47.1,4,84,pensiune-doina.ro,RO,Europe,Eastern Europe,Romania,Teleorman County,,Alexandria
-84.247.89.66,4,35,pentrugatit.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.42.218.84,4,1028,phnews.ro,RO,Europe,Eastern Europe,Romania,,,
-85.121.136.6,4,38,pieseauto.ro,RO,Europe,Eastern Europe,Romania,,,
-81.181.254.12,4,751,pieseautocomenzi.ro,RO,Europe,Eastern Europe,Romania,,,
+193.189.75.202,4,-9,peerproduction.net,RO,Europe,Eastern Europe,Romania,,,
+89.37.143.190,4,-21,peles.ro,RO,Europe,Eastern Europe,Romania,,,
+81.196.168.1,4,38,pensiimaramures.ro,RO,Europe,Eastern Europe,Romania,Vrancea,,Focşani
+85.9.47.1,4,84,pensiune-doina.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+93.113.174.170,4,8,pentrugatit.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.218,4,285,personnel.com.ro,RO,Europe,Eastern Europe,Romania,,,
+89.44.47.106,4,16,pescarialuimatei.ro,RO,Europe,Eastern Europe,Romania,,,
+188.212.37.78,4,-32,petasta.ro,RO,Europe,Eastern Europe,Romania,,,
+45.136.199.185,4,18,pfo.ru,RO,Europe,Eastern Europe,Romania,București,,
+89.42.218.84,4,739,phnews.ro,RO,Europe,Eastern Europe,Romania,,,
+85.9.19.243,4,-151,pieseagricoleconst.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+85.121.136.6,4,-12,pieseauto.ro,RO,Europe,Eastern Europe,Romania,,,
+81.181.254.12,4,1147,pieseautocomenzi.ro,RO,Europe,Eastern Europe,Romania,,,
 91.206.206.1,4,-5,pieseclimaauto.com,RO,Europe,Eastern Europe,Romania,,,
+184.75.255.166,4,2,pipenv.org,RO,Europe,Eastern Europe,Romania,,,
+93.113.174.42,4,-779,pizzagemelli.ro,RO,Europe,Eastern Europe,Romania,,,
 85.120.61.65,4,34,plai.ro,RO,Europe,Eastern Europe,Romania,,,
-185.251.29.173,4,15,playtech.ro,RO,Europe,Eastern Europe,Romania,,,
-185.251.29.171,4,33,playtech.ro,RO,Europe,Eastern Europe,Romania,,,
+213.177.4.189,4,10,ploiesti.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 94.24.55.40,4,32,pneumosfstefan.ro,RO,Europe,Eastern Europe,Romania,,,
-188.215.244.236,4,4810,pnl.ro,RO,Europe,Eastern Europe,Romania,,,
-194.102.238.102,4,62,poeditor.com,RO,Europe,Eastern Europe,Romania,,,
+188.215.244.236,4,1274,pnl.ro,RO,Europe,Eastern Europe,Romania,,,
+194.102.238.102,4,6,poeditor.com,RO,Europe,Eastern Europe,Romania,,,
+195.8.197.77,4,5,poetsgraves.co.uk,RO,Europe,Eastern Europe,Romania,,,
 188.209.212.213,4,5,pofta-buna.com,RO,Europe,Eastern Europe,Romania,,,
 93.115.53.48,4,66,politiarutiera.ro,RO,Europe,Eastern Europe,Romania,,,
-193.231.32.28,4,48,portal.edu.ro,RO,Europe,Eastern Europe,Romania,Dolj,,Craiova
+193.231.32.28,4,-16,portal.edu.ro,RO,Europe,Eastern Europe,Romania,,,
 91.195.98.226,4,25,portalit.net,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.42.218.147,4,994,positivewordsresearch.com,RO,Europe,Eastern Europe,Romania,,,
-5.254.103.154,4,71,posta-romana.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-93.119.122.143,4,930,potatobusiness.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-193.151.29.25,4,58,presamil.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-193.151.29.6,4,69,presidency.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-188.241.118.254,4,597,pressalert.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-95.214.132.189,4,82,pressesc.com,RO,Europe,Eastern Europe,Romania,,,
-128.140.224.132,4,56,price.ro,RO,Europe,Eastern Europe,Romania,,,
-128.140.224.133,4,72,price.ro,RO,Europe,Eastern Europe,Romania,,,
-213.177.29.172,4,10,primariaarad.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.42.218.147,4,1195,positivewordsresearch.com,RO,Europe,Eastern Europe,Romania,,,
+5.254.103.154,4,9,posta-romana.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+193.151.29.6,4,5,presidency.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+188.241.118.254,4,1324,pressalert.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+95.214.132.189,4,-7,pressesc.com,RO,Europe,Eastern Europe,Romania,,,
+213.177.29.172,4,4,primariaarad.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+176.223.120.74,4,3,primariacraiova.ro,RO,Europe,Eastern Europe,Romania,,,
+31.14.56.201,4,-821,primariamovileni.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+81.196.131.129,4,5,primariarojiste.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 37.156.4.56,4,598,primariateius.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-82.137.31.190,4,77,primarie3.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-195.191.47.108,4,74,primatv.ro,RO,Europe,Eastern Europe,Romania,,,
-188.209.212.220,4,59,printesaurbana.ro,RO,Europe,Eastern Europe,Romania,,,
-37.251.146.114,4,29,printrecarti.ro,RO,Europe,Eastern Europe,Romania,,,
+82.137.31.190,4,22,primarie3.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+195.191.47.97,4,28,primasport.ro,RO,Europe,Eastern Europe,Romania,,,
+195.191.47.108,4,22,primatv.ro,RO,Europe,Eastern Europe,Romania,,,
+188.209.212.220,4,-45,printesaurbana.ro,RO,Europe,Eastern Europe,Romania,,,
+37.251.146.114,4,13,printrecarti.ro,RO,Europe,Eastern Europe,Romania,,,
 5.2.179.73,4,11,procam.ro,RO,Europe,Eastern Europe,Romania,Mureș County,,Târgu Mureş
 195.191.47.92,4,42,profit.ro,RO,Europe,Eastern Europe,Romania,,,
-91.247.179.203,4,4,profitshare.ro,RO,Europe,Eastern Europe,Romania,,,
+80.96.34.41,4,600,promopark.md,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.142,4,1098,prontomobile.ro,RO,Europe,Eastern Europe,Romania,,,
+93.174.160.25,4,4,proorchestra.ro,RO,Europe,Eastern Europe,Romania,,,
 89.43.174.24,4,17,prwave.ro,RO,Europe,Eastern Europe,Romania,,,
 84.232.181.53,4,9,ps2.ro,RO,Europe,Eastern Europe,Romania,Teleorman County,,Alexandria
-89.39.83.74,4,70,ps4.ro,RO,Europe,Eastern Europe,Romania,,,
-185.100.84.150,4,12,psiram.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-194.116.247.20,4,26,publica.ro,RO,Europe,Eastern Europe,Romania,,,
-176.126.172.181,4,21,punctul.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-91.235.116.180,4,14,pupukanorganik.net,RO,Europe,Eastern Europe,Romania,,,
-87.237.106.74,4,5,pwc.ro,RO,Europe,Eastern Europe,Romania,,,
-89.44.105.232,4,279,qmagazine.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-45.134.160.75,4,9,r3media.ro,RO,Europe,Eastern Europe,Romania,,,
+89.39.83.74,4,45,ps4.ro,RO,Europe,Eastern Europe,Romania,,,
+185.100.85.76,4,-8,psiram.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+176.126.172.181,4,3,punctul.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.42.218.3,4,577,purmed.ro,RO,Europe,Eastern Europe,Romania,,,
+87.237.106.74,4,22,pwc.ro,RO,Europe,Eastern Europe,Romania,,,
+89.44.105.232,4,872,qmagazine.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.35.7.226,4,5,quadrat.ro,RO,Europe,Eastern Europe,Romania,,,
+45.134.160.75,4,-6,r3media.ro,RO,Europe,Eastern Europe,Romania,,,
 89.38.230.6,4,52,racai.ro,RO,Europe,Eastern Europe,Romania,,,
-85.204.100.58,4,138,radio3net.ro,RO,Europe,Eastern Europe,Romania,,,
-85.204.100.12,4,70,radiocluj.ro,RO,Europe,Eastern Europe,Romania,,,
-193.231.72.238,4,49,radioconstanta.ro,RO,Europe,Eastern Europe,Romania,,,
-188.215.250.59,4,96,radiodj.ro,RO,Europe,Eastern Europe,Romania,,,
-85.204.100.15,4,100,radioiasi.ro,RO,Europe,Eastern Europe,Romania,,,
-85.204.100.17,4,87,radiomures.ro,RO,Europe,Eastern Europe,Romania,,,
-85.204.100.14,4,84,radiooltenia.ro,RO,Europe,Eastern Europe,Romania,,,
-5.2.193.15,4,43062,radiorenasterea.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
-85.204.100.16,4,69,radioresita.ro,RO,Europe,Eastern Europe,Romania,,,
-85.204.100.18,4,136,radiotimisoara.ro,RO,Europe,Eastern Europe,Romania,,,
+85.204.100.58,4,10,radio3net.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.114,4,1646,radiocertitudinea.ro,RO,Europe,Eastern Europe,Romania,,,
+188.215.250.59,4,33,radiodj.ro,RO,Europe,Eastern Europe,Romania,,,
+85.204.100.15,4,283,radioiasi.ro,RO,Europe,Eastern Europe,Romania,,,
+188.212.102.230,4,-3,radiostres.com,RO,Europe,Eastern Europe,Romania,,,
 188.241.74.192,4,91,radiotochka.kz,RO,Europe,Eastern Europe,Romania,,,
-193.231.72.227,4,36,rador.ro,RO,Europe,Eastern Europe,Romania,,,
-89.44.139.58,4,16,railwaypro.com,RO,Europe,Eastern Europe,Romania,,,
+193.231.72.227,4,590,rador.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.44.139.58,4,8,railwaypro.com,RO,Europe,Eastern Europe,Romania,,,
+193.189.75.86,4,-2,railwaysarchive.co.uk,RO,Europe,Eastern Europe,Romania,,,
+85.121.5.212,4,48,rank-craft.com,RO,Europe,Eastern Europe,Romania,,,
 89.44.120.74,4,60,ratbv.ro,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.91,4,717,rationalplan.com,RO,Europe,Eastern Europe,Romania,,,
-176.223.123.242,4,34,ravantivirus.com,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.91,4,699,rationalplan.com,RO,Europe,Eastern Europe,Romania,,,
+176.223.123.242,4,6181,ravantivirus.com,RO,Europe,Eastern Europe,Romania,,,
 89.42.218.29,4,1448,rawideas.ro,RO,Europe,Eastern Europe,Romania,,,
-185.232.64.41,4,6,raybansbocco.it,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
+185.232.64.41,4,5,raybansbocco.it,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
 80.96.33.173,4,62,razboi.ro,RO,Europe,Eastern Europe,Romania,,,
 81.181.66.52,4,446,razboinici.ro,RO,Europe,Eastern Europe,Romania,,,
 86.105.153.2,4,14,razvanbb.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.42.218.130,4,1563,razvanpascu.ro,RO,Europe,Eastern Europe,Romania,,,
-195.42.138.111,4,23,realitatea.net,RO,Europe,Eastern Europe,Romania,,,
-176.97.76.60,4,48,redht.ru,RO,Europe,Eastern Europe,Romania,București,,
-86.120.109.254,4,64,regis-online.ro,RO,Europe,Eastern Europe,Romania,Arad County,,Arad
+89.42.218.130,4,2119,razvanpascu.ro,RO,Europe,Eastern Europe,Romania,,,
+91.188.227.120,4,11,reactor-cluj.com,RO,Europe,Eastern Europe,Romania,,,
+93.113.54.7,4,238,real-url.org,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+86.123.234.147,4,49895353,realbet.ro,RO,Europe,Eastern Europe,Romania,Dolj,,Craiova
+89.42.218.14,4,1604,realitateavalceana.ro,RO,Europe,Eastern Europe,Romania,,,
+91.244.247.178,4,17,refgroup.it,RO,Europe,Eastern Europe,Romania,,,
+86.120.109.254,4,20,regis-online.ro,RO,Europe,Eastern Europe,Romania,Covasna County,,Sfântu Gheorghe
 128.0.55.124,4,11,remsimobiliare.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
-89.42.218.92,4,909,rent-a-car-otopeni.ro,RO,Europe,Eastern Europe,Romania,,,
+91.213.188.10,4,14,renasterea.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.92,4,957,rent-a-car-otopeni.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.13.24,4,548,rentacar-ro.eu,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 188.214.214.194,4,55,rentacar-ro.eu,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 89.41.38.2,4,613,reper24.ro,RO,Europe,Eastern Europe,Romania,,,
 89.41.38.71,4,924,reporteris.ro,RO,Europe,Eastern Europe,Romania,,,
-185.247.225.8,4,585,reportersunited.gr,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-185.146.87.178,4,10,revista-ferma.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-185.165.187.2,4,17,revistacultura.ro,RO,Europe,Eastern Europe,Romania,,,
-86.122.81.14,4,107,rgk.ro,RO,Europe,Eastern Europe,Romania,București,,Sector 3
-89.33.236.193,4,16,rgnpress.ro,RO,Europe,Eastern Europe,Romania,,,
-193.203.204.206,4,891,ro-en.ro,RO,Europe,Eastern Europe,Romania,,,
-89.165.215.208,4,26,roanunt.ro,RO,Europe,Eastern Europe,Romania,Gorj County,,Târgu Jiu
+185.247.225.8,4,154,reportersunited.gr,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+86.124.80.123,4,22,repper.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+128.140.227.218,4,-1105,restaurant-insula.ro,RO,Europe,Eastern Europe,Romania,,,
+91.244.247.5,4,2225,reteauadecarti.ro,RO,Europe,Eastern Europe,Romania,,,
+185.165.187.2,4,-1,revistacultura.ro,RO,Europe,Eastern Europe,Romania,,,
+193.151.29.23,4,6,revistadestatistica.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+217.197.98.40,4,4,revistatimpul.ro,RO,Europe,Eastern Europe,Romania,,,
+89.33.236.193,4,9,rgnpress.ro,RO,Europe,Eastern Europe,Romania,,,
+195.246.242.53,4,22,rivieramamaia.ro,RO,Europe,Eastern Europe,Romania,,,
+193.189.75.73,4,10,rmhh.co.uk,RO,Europe,Eastern Europe,Romania,,,
+194.242.46.5,4,-2175,ro-en.ro,RO,Europe,Eastern Europe,Romania,,,
+176.126.202.199,4,5870,ro.com.es,RO,Europe,Eastern Europe,Romania,,,
+89.165.215.208,4,26,roanunt.ro,RO,Europe,Eastern Europe,Romania,Constanța County,,Mangalia
+185.120.146.110,4,1,rockfm.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 128.140.230.8,4,32,rockfm.ro,RO,Europe,Eastern Europe,Romania,,,
-193.151.29.17,4,31,rocnee.eu,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-93.113.174.92,4,70,rokaflex.ro,RO,Europe,Eastern Europe,Romania,,,
-79.115.31.193,4,61,rol.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-185.236.84.128,4,41,rolandia.eu,RO,Europe,Eastern Europe,Romania,,,
-193.231.72.249,4,38,romania-muzical.ro,RO,Europe,Eastern Europe,Romania,,,
+93.113.174.92,4,8,rokaflex.ro,RO,Europe,Eastern Europe,Romania,,,
+79.115.31.193,4,-1,rol.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+185.236.84.128,4,47,rolandia.eu,RO,Europe,Eastern Europe,Romania,,,
+193.231.72.249,4,695,romania-muzical.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 31.14.13.170,4,4808,romania-seo.ro,RO,Europe,Eastern Europe,Romania,,,
+193.151.29.25,4,8,romania.travel,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 176.126.172.116,4,54,romaniajournal.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-84.234.98.202,4,19,romaniansoccer.ro,RO,Europe,Eastern Europe,Romania,,,
+84.234.98.202,4,9,romaniansoccer.ro,RO,Europe,Eastern Europe,Romania,,,
+89.41.38.214,4,3708,romanianyellowpages.com,RO,Europe,Eastern Europe,Romania,,,
+80.97.162.104,4,1643,romaniapozitiva.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.39,4,1627,romanor.eu,RO,Europe,Eastern Europe,Romania,,,
 89.42.218.98,4,815,romanor.eu,RO,Europe,Eastern Europe,Romania,,,
-80.97.1.13,4,1357,romedic.ro,RO,Europe,Eastern Europe,Romania,,,
-5.254.56.3,4,2,romfilatelia.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-85.121.150.105,4,3,romkat.ro,RO,Europe,Eastern Europe,Romania,,,
-193.29.227.55,4,14,romlit.ro,RO,Europe,Eastern Europe,Romania,,,
+185.199.175.184,4,-13,romar.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.217.196,4,848,romarg.ro,RO,Europe,Eastern Europe,Romania,,,
+80.97.1.13,4,2721,romedic.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+93.115.53.43,4,692,romexpo.ro,RO,Europe,Eastern Europe,Romania,,,
+85.121.150.105,4,-4,romkat.ro,RO,Europe,Eastern Europe,Romania,,,
+193.29.227.55,4,0,romlit.ro,RO,Europe,Eastern Europe,Romania,,,
+89.39.83.192,4,298,romqualitycert.ro,RO,Europe,Eastern Europe,Romania,,,
 185.104.182.62,4,56,roportal.ro,RO,Europe,Eastern Europe,Romania,,,
-188.212.37.151,4,8,rosilva.ro,RO,Europe,Eastern Europe,Romania,,,
+188.212.37.151,4,6,rosilva.ro,RO,Europe,Eastern Europe,Romania,,,
+185.162.66.83,4,1968,rotrico.ro,RO,Europe,Eastern Europe,Romania,,,
+93.113.174.14,4,8,rsgbiota.org,RO,Europe,Eastern Europe,Romania,,,
 92.114.98.191,4,718,rsgbiota.org,RO,Europe,Eastern Europe,Romania,,,
-176.126.200.6,4,11,rtsa.ro,RO,Europe,Eastern Europe,Romania,,,
-217.19.14.59,4,6,rugbyromania.ro,RO,Europe,Eastern Europe,Romania,,,
-193.46.255.29,4,42,rutor.info,RO,Europe,Eastern Europe,Romania,,,
-185.171.186.81,4,22,samoyede.ro,RO,Europe,Eastern Europe,Romania,,,
+176.126.200.6,4,1702,rtsa.ro,RO,Europe,Eastern Europe,Romania,,,
+217.19.14.59,4,12,rugbyromania.ro,RO,Europe,Eastern Europe,Romania,,,
+217.156.8.121,4,6,russpuss.ru,RO,Europe,Eastern Europe,Romania,,,
+193.46.255.29,4,23,rutor.info,RO,Europe,Eastern Europe,Romania,,,
+81.181.66.169,4,968,salestore.ro,RO,Europe,Eastern Europe,Romania,,,
+185.146.86.78,4,27,salinaturda.eu,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+46.102.145.128,4,4703,salonarcadya.ro,RO,Europe,Eastern Europe,Romania,,,
+176.223.123.134,4,2532,salongolescu.ro,RO,Europe,Eastern Europe,Romania,,,
+31.14.23.26,4,20,salubrizare5.ro,RO,Europe,Eastern Europe,Romania,,,
+185.171.186.81,4,11,samoyede.ro,RO,Europe,Eastern Europe,Romania,,,
 185.247.225.10,4,1206,sandiegocream.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-146.70.77.146,4,20,sapientia.ro,RO,Europe,Eastern Europe,Romania,,,
-89.38.233.61,4,1958,sapteseri.ro,RO,Europe,Eastern Europe,Romania,,,
-45.134.162.79,4,34,sar.org.ro,RO,Europe,Eastern Europe,Romania,,,
+85.204.19.52,4,3188,sapientia.ro,RO,Europe,Eastern Europe,Romania,,,
+89.38.233.61,4,3674,sapteseri.ro,RO,Europe,Eastern Europe,Romania,,,
+45.134.162.79,4,7,sar.org.ro,RO,Europe,Eastern Europe,Romania,,,
 92.114.98.169,4,1797,scauneonline.ro,RO,Europe,Eastern Europe,Romania,,,
 89.42.218.138,4,764,schimbdetrafic.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.50,4,1918,schonvestments.ro,RO,Europe,Eastern Europe,Romania,,,
+93.113.174.224,4,11,scientia.ro,RO,Europe,Eastern Europe,Romania,,,
+81.180.144.121,4,7,scoala-mea.com,RO,Europe,Eastern Europe,Romania,,,
+188.212.101.221,4,20,scoalaautovlad.ro,RO,Europe,Eastern Europe,Romania,,,
+91.188.227.30,4,21,scoaladedictie.ro,RO,Europe,Eastern Europe,Romania,,,
 194.102.62.224,4,4,scpe.org,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.99,4,604,scuderiafans.com,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.99,4,1292,scuderiafans.com,RO,Europe,Eastern Europe,Romania,,,
+193.151.29.26,4,21,scumc.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+85.9.19.249,4,-97,seaopenresearch.eu,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 5.154.224.54,4,4036,secarica.ro,RO,Europe,Eastern Europe,Romania,,,
 188.241.222.140,4,38,sediul.ro,RO,Europe,Eastern Europe,Romania,,,
-89.44.105.64,4,97,selfpay.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-185.162.64.34,4,673,semneletimpului.ro,RO,Europe,Eastern Europe,Romania,,,
-185.181.103.174,4,15,seniormates.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.40.72.90,4,697,sehrschon.ro,RO,Europe,Eastern Europe,Romania,,,
+89.44.105.64,4,-325,selfpay.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+217.197.98.240,4,2,semiton.ro,RO,Europe,Eastern Europe,Romania,,,
+185.162.64.34,4,955,semneletimpului.ro,RO,Europe,Eastern Europe,Romania,,,
 89.38.50.45,4,17,sensodays.ro,RO,Europe,Eastern Europe,Romania,,,
-94.24.55.187,4,35,sentimente.ro,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.15,4,1416,senty.ro,RO,Europe,Eastern Europe,Romania,,,
+94.24.55.187,4,15,sentimente.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.15,4,1903,senty.ro,RO,Europe,Eastern Europe,Romania,,,
 86.107.169.130,4,1054,senzori-automatizari.ro,RO,Europe,Eastern Europe,Romania,,,
-195.191.47.94,4,23,servuscluj.ro,RO,Europe,Eastern Europe,Romania,,,
+176.126.200.11,4,8,sepsiosk.ro,RO,Europe,Eastern Europe,Romania,,,
+188.241.222.75,4,11,serviciifunerarewinad.ro,RO,Europe,Eastern Europe,Romania,,,
+195.191.47.94,4,10,servuscluj.ro,RO,Europe,Eastern Europe,Romania,,,
 45.134.163.31,4,784,servuspress.ro,RO,Europe,Eastern Europe,Romania,,,
-193.226.71.70,4,4,sfatulbatranilor.ro,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.9,4,998,sfaturiortodoxe.ro,RO,Europe,Eastern Europe,Romania,,,
-193.151.29.33,4,-88,sgg.gov.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+193.151.29.12,4,19,sgg.gov.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+80.96.7.219,4,1033,shop-4you.com,RO,Europe,Eastern Europe,Romania,,,
 89.42.218.228,4,366,shoproyal.ro,RO,Europe,Eastern Europe,Romania,,,
 185.247.225.7,4,318,shortyzone.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 188.241.222.8,4,5,showfx.ro,RO,Europe,Eastern Europe,Romania,,,
-89.37.214.136,4,470,sigmaonline.ro,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.100,4,875,simonatache.ro,RO,Europe,Eastern Europe,Romania,,,
-89.39.246.67,4,6,simrace.ro,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.243,4,189,sistemegsm.ro,RO,Europe,Eastern Europe,Romania,,,
+193.226.71.186,4,-518,shuttle-cluj.com,RO,Europe,Eastern Europe,Romania,,,
+89.41.38.6,4,925,sibiul.ro,RO,Europe,Eastern Europe,Romania,,,
+89.37.214.136,4,633,sigmaonline.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.80,4,459,simonacarniciu.ro,RO,Europe,Eastern Europe,Romania,,,
+89.39.246.67,4,728,simrace.ro,RO,Europe,Eastern Europe,Romania,,,
+188.215.245.40,4,6166,sindicateuropol.ro,RO,Europe,Eastern Europe,Romania,,,
+195.85.239.6,4,572,sintact.ro,RO,Europe,Eastern Europe,Romania,,,
+185.165.187.49,4,1,sisteme-de-copiat.ro,RO,Europe,Eastern Europe,Romania,,,
 195.82.130.3,4,1,siveco.ro,RO,Europe,Eastern Europe,Romania,,,
 91.244.247.79,4,23,skat.tf,RO,Europe,Eastern Europe,Romania,,,
-93.119.227.55,4,1104,smartwpress.com,RO,Europe,Eastern Europe,Romania,,,
-195.88.80.105,4,1315,soferdetir.ro,RO,Europe,Eastern Europe,Romania,,,
-146.70.213.146,4,32,softnews.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-5.2.209.70,4,5,solidaritatea-sanitara.ro,RO,Europe,Eastern Europe,Romania,Galați County,,Galati
+94.24.72.63,4,2,sloturipetocuri.ro,RO,Europe,Eastern Europe,Romania,,,
+89.38.248.47,4,23,smart-bet.ro,RO,Europe,Eastern Europe,Romania,,,
+89.46.7.76,4,2510,smartchat.ro,RO,Europe,Eastern Europe,Romania,,,
+93.119.227.55,4,-5,smartwpress.com,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.42,4,2454,smc-auto.ro,RO,Europe,Eastern Europe,Romania,,,
+195.8.196.60,4,7,smidgeup.com,RO,Europe,Eastern Europe,Romania,,,
+188.212.127.108,4,1817,sms-receive.net,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+85.121.4.251,4,30,softdroids.com,RO,Europe,Eastern Europe,Romania,,,
+146.70.213.146,4,12,softnews.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+5.2.209.70,4,34,solidaritatea-sanitara.ro,RO,Europe,Eastern Europe,Romania,Galați County,,Galati
+188.241.222.84,4,13,solturism.ro,RO,Europe,Eastern Europe,Romania,,,
 89.41.38.91,4,491,solturism.ro,RO,Europe,Eastern Europe,Romania,,,
 176.223.120.171,4,10,soucial.net,RO,Europe,Eastern Europe,Romania,,,
 176.126.201.64,4,16,soulseeker.ro,RO,Europe,Eastern Europe,Romania,,,
-176.223.110.10,4,28,specialgarden.ro,RO,Europe,Eastern Europe,Romania,,,
 89.40.17.26,4,694,spidromglass.ro,RO,Europe,Eastern Europe,Romania,,,
-94.176.180.29,4,2,spiruharet.ro,RO,Europe,Eastern Europe,Romania,,,
-141.85.227.85,4,-480807,srait.ro,RO,Europe,Eastern Europe,Romania,București,,Sector 6
-89.42.218.248,4,324,srgm.ro,RO,Europe,Eastern Europe,Romania,,,
-85.204.100.27,4,616,srr.ro,RO,Europe,Eastern Europe,Romania,,,
-146.70.110.11,4,-211,steauafc.com,RO,Europe,Eastern Europe,Romania,,,
-94.176.135.102,4,70,steconomiceuoradea.ro,RO,Europe,Eastern Europe,Romania,,,
+94.176.180.29,4,11,spiruharet.ro,RO,Europe,Eastern Europe,Romania,,,
+141.85.227.85,4,-480807,srait.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.42.218.248,4,1574,srgm.ro,RO,Europe,Eastern Europe,Romania,,,
+93.119.152.141,4,1695,srmtc.ro,RO,Europe,Eastern Europe,Romania,,,
+85.204.100.27,4,1471,srr.ro,RO,Europe,Eastern Europe,Romania,,,
+193.189.99.253,4,7,start-up.ro,RO,Europe,Eastern Europe,Romania,,,
+146.70.110.45,4,6,steauafc.com,RO,Europe,Eastern Europe,Romania,,,
 188.241.75.36,4,47,stefangabos.ro,RO,Europe,Eastern Europe,Romania,,,
 31.14.14.81,4,19,stelian-tanase.ro,RO,Europe,Eastern Europe,Romania,,,
-89.43.174.98,4,22,stiintasitehnica.com,RO,Europe,Eastern Europe,Romania,,,
+89.43.174.98,4,13,stiintasitehnica.com,RO,Europe,Eastern Europe,Romania,,,
 185.171.184.65,4,1113,stiri.ong,RO,Europe,Eastern Europe,Romania,,,
 188.241.118.36,4,611273,stiri21.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 91.213.11.12,4,17,stmf.ro,RO,Europe,Eastern Europe,Romania,,,
-193.151.29.8,4,78,sts.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+193.151.29.8,4,11,sts.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 81.180.145.84,4,9,stylezza.com,RO,Europe,Eastern Europe,Romania,,,
+176.223.96.222,4,12,succes.ro,RO,Europe,Eastern Europe,Romania,,,
 89.33.27.218,4,1328,succesulprofesional.ro,RO,Europe,Eastern Europe,Romania,,,
-77.81.164.141,4,31,summerwell.ro,RO,Europe,Eastern Europe,Romania,,,
+195.8.196.115,4,2,summerhall.co.uk,RO,Europe,Eastern Europe,Romania,,,
 146.70.56.163,4,-1501,sundaybiggs.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-193.203.204.180,4,1,sunphoto.ro,RO,Europe,Eastern Europe,Romania,,,
-37.251.149.78,4,-870,supercazino.ro,RO,Europe,Eastern Europe,Romania,,,
-85.122.127.214,4,0,superking.com.hk,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+194.246.100.12,4,-59,sunphoto.ro,RO,Europe,Eastern Europe,Romania,,,
+185.199.175.191,4,13,sunsetresidence.ro,RO,Europe,Eastern Europe,Romania,,,
+85.121.5.81,4,2,superchatroulette.com,RO,Europe,Eastern Europe,Romania,,,
+85.122.127.214,4,29,superking.com.hk,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 185.248.197.79,4,0,superservicii.com,RO,Europe,Eastern Europe,Romania,,,
-185.232.66.214,4,21,suvipvn.com,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
+185.248.196.6,4,11,suplimentuldecultura.ro,RO,Europe,Eastern Europe,Romania,,,
 91.213.11.6,4,1134,sviluppoinsiemesivince.eu,RO,Europe,Eastern Europe,Romania,,,
 31.14.56.126,4,504,swarovski-gioielli.it,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-188.213.217.213,4,1,szabadsag.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
-176.126.172.243,4,8,tablet-news.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-185.92.195.54,4,2458,targulcartii.ro,RO,Europe,Eastern Europe,Romania,,,
-89.45.251.84,4,-93,targuldecariere.ro,RO,Europe,Eastern Europe,Romania,,,
-93.115.53.43,4,4,targuldeturism.ro,RO,Europe,Eastern Europe,Romania,,,
-91.244.247.200,4,1893,tdmromania.ro,RO,Europe,Eastern Europe,Romania,,,
+188.213.217.213,4,11,szabadsag.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
+176.126.172.243,4,14,tablet-news.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+185.92.195.54,4,4585,targulcartii.ro,RO,Europe,Eastern Europe,Romania,,,
+91.244.247.200,4,2194,tdmromania.ro,RO,Europe,Eastern Europe,Romania,,,
 94.24.55.184,4,25,teamdeals.ro,RO,Europe,Eastern Europe,Romania,,,
-86.105.152.250,4,25,techniumscience.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.42.218.11,4,647,teamfitness.ro,RO,Europe,Eastern Europe,Romania,,,
+86.105.152.250,4,14,techniumscience.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+93.113.174.7,4,-255,techsylvania.com,RO,Europe,Eastern Europe,Romania,,,
 92.114.98.42,4,8,techsylvania.com,RO,Europe,Eastern Europe,Romania,,,
-91.213.76.29,4,129,tecunosc.ro,RO,Europe,Eastern Europe,Romania,,,
-91.188.227.240,4,29,tehno-ms.md,RO,Europe,Eastern Europe,Romania,,,
-188.247.129.165,4,4,tehnoetic.com,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.95,4,1144,tehnofor-star.com,RO,Europe,Eastern Europe,Romania,,,
+91.213.76.29,4,3995,tecunosc.ro,RO,Europe,Eastern Europe,Romania,,,
+188.247.129.165,4,11,tehnoetic.com,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.5,4,250,tehnofor-star.com,RO,Europe,Eastern Europe,Romania,,,
 128.140.224.82,4,98,telegrafonline.ro,RO,Europe,Eastern Europe,Romania,,,
-185.181.102.231,4,17078197,tfm.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-188.214.30.160,4,7,thc.ro,RO,Europe,Eastern Europe,Romania,,,
-89.37.212.18,4,17,thefashiontag.com,RO,Europe,Eastern Europe,Romania,,,
-185.247.225.40,4,29,theindicter.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+80.97.162.102,4,1641,telem.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.117,4,4152,telework.ro,RO,Europe,Eastern Europe,Romania,,,
+193.189.74.165,4,5,terramedia.co.uk,RO,Europe,Eastern Europe,Romania,,,
+185.193.127.40,4,10,textz.com,RO,Europe,Eastern Europe,Romania,,,
+185.181.102.231,4,16337967,tfm.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+188.214.30.160,4,-6,thc.ro,RO,Europe,Eastern Europe,Romania,,,
+162.254.84.75,4,26,theappcode.site,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.37.212.18,4,240,thefashiontag.com,RO,Europe,Eastern Europe,Romania,,,
+185.247.225.40,4,14,theindicter.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+91.188.226.100,4,-701,thepub.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.243,4,391,thevagabondpub.co.uk,RO,Europe,Eastern Europe,Romania,,,
+74.117.153.21,4,12,theweatherprediction.com,RO,Europe,Eastern Europe,Romania,,,
+31.14.15.164,4,6,thewebster.ro,RO,Europe,Eastern Europe,Romania,,,
 89.39.209.53,4,4,thewoman.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-95.214.135.192,4,11,tildanovaserv.ro,RO,Europe,Eastern Europe,Romania,,,
+95.214.135.192,4,4132,tildanovaserv.ro,RO,Europe,Eastern Europe,Romania,,,
+195.8.197.149,4,7,timetraveltv.com,RO,Europe,Eastern Europe,Romania,,,
 185.104.182.64,4,120,timisoreni.ro,RO,Europe,Eastern Europe,Romania,,,
 91.220.63.93,4,1352,timpul.md,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 188.209.214.81,4,1348,tinlavir.ro,RO,Europe,Eastern Europe,Romania,,,
-5.2.178.80,4,3,tirgumures.ro,RO,Europe,Eastern Europe,Romania,Mureș County,,Târgu Mureş
-81.181.252.2,4,989,title-generator.com,RO,Europe,Eastern Europe,Romania,,,
-193.231.32.154,4,-536450,titularizare.edu.ro,RO,Europe,Eastern Europe,Romania,Dolj,,Craiova
-84.232.181.150,4,6,tnb.ro,RO,Europe,Eastern Europe,Romania,Teleorman County,,Alexandria
-89.42.218.101,4,477,topinsolventa.ro,RO,Europe,Eastern Europe,Romania,,,
-185.57.80.218,4,1919,torrentinvites.org,RO,Europe,Eastern Europe,Romania,,,
+5.2.178.80,4,11,tirgumures.ro,RO,Europe,Eastern Europe,Romania,Mureș County,,Târgu Mureş
+185.181.240.114,4,35,titans-family.com,RO,Europe,Eastern Europe,Romania,,,
+81.181.252.2,4,1400,title-generator.com,RO,Europe,Eastern Europe,Romania,,,
+193.231.32.154,4,-469961,titularizare.edu.ro,RO,Europe,Eastern Europe,Romania,,,
+84.232.181.150,4,16,tnb.ro,RO,Europe,Eastern Europe,Romania,Teleorman County,,Alexandria
+185.193.127.97,4,5,toast-wallet.net,RO,Europe,Eastern Europe,Romania,,,
+89.33.27.14,4,2055,tomisnews.ro,RO,Europe,Eastern Europe,Romania,,,
+86.104.220.32,4,988,tonimob.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.101,4,1072,topconta.ro,RO,Europe,Eastern Europe,Romania,,,
+185.165.169.30,4,15,tornadobet.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.39.83.134,4,789,totalbet.ro,RO,Europe,Eastern Europe,Romania,,,
 176.223.110.191,4,41,tourandtravel.eu,RO,Europe,Eastern Europe,Romania,,,
-91.209.189.52,4,670,transilvaniareporter.ro,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.239,4,489,transylvaniancastle.com,RO,Europe,Eastern Europe,Romania,,,
-89.40.19.83,4,749,travelworld.ro,RO,Europe,Eastern Europe,Romania,,,
-89.41.38.6,4,334,tribuna.ro,RO,Europe,Eastern Europe,Romania,,,
+176.223.123.40,4,0,tpmmedias.ro,RO,Europe,Eastern Europe,Romania,,,
+45.134.160.74,4,21,traditii-sanatoase.ro,RO,Europe,Eastern Europe,Romania,,,
+45.86.220.12,4,2171,transilvaniabrokergalati.ro,RO,Europe,Eastern Europe,Romania,,,
+91.209.189.126,4,18,transilvaniareporter.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
+91.213.188.9,4,20,transmen.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.115,4,1334,transportpietrisnisip.ro,RO,Europe,Eastern Europe,Romania,,,
+89.40.19.83,4,270,travelworld.ro,RO,Europe,Eastern Europe,Romania,,,
 176.223.124.138,4,5,trinitas.tv,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.9,4,1358,trivent-publishing.eu,RO,Europe,Eastern Europe,Romania,,,
+92.114.98.114,4,14,trusted.ro,RO,Europe,Eastern Europe,Romania,,,
 93.113.174.251,4,-43,trusted.ro,RO,Europe,Eastern Europe,Romania,,,
-193.151.29.22,4,11,turism.gov.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-194.8.80.3,4,1120,turism.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-193.186.33.181,4,-29440,tvr.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-193.186.33.61,4,12,tvrplus.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.41.38.20,4,417,twbooks.co.uk,RO,Europe,Eastern Europe,Romania,,,
-85.122.16.23,4,3,uaic.ro,RO,Europe,Eastern Europe,Romania,Iași County,,Iasi
-89.35.77.38,4,5348,uav.ro,RO,Europe,Eastern Europe,Romania,,,
-193.231.34.11,4,2485978,ub.ro,RO,Europe,Eastern Europe,Romania,Dolj,,Craiova
-193.231.20.15,4,13,ubbcluj.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
-193.231.17.20,4,-65357,ubm.ro,RO,Europe,Eastern Europe,Romania,Maramureş,,Baia Mare
-85.9.47.80,4,596,ucdc.ro,RO,Europe,Eastern Europe,Romania,Teleorman County,,Alexandria
-89.44.139.59,4,4,ucoz.ro,RO,Europe,Eastern Europe,Romania,,,
-194.169.191.55,4,1468079,ulbsibiu.ro,RO,Europe,Eastern Europe,Romania,Sibiu County,,Sibiu
-89.42.218.115,4,318,uleiuri.ro,RO,Europe,Eastern Europe,Romania,,,
+85.120.223.11,4,-6,tryagain.ro,RO,Europe,Eastern Europe,Romania,,,
+89.41.38.61,4,864,turdanews.net,RO,Europe,Eastern Europe,Romania,,,
+193.151.29.38,4,28,turism.gov.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+194.8.80.3,4,782,turism.ro,RO,Europe,Eastern Europe,Romania,București,,
+193.186.33.181,4,-49290,tvr.ro,RO,Europe,Eastern Europe,Romania,,,
+89.41.38.220,4,3438,twbooks.co.uk,RO,Europe,Eastern Europe,Romania,,,
+85.122.16.23,4,20,uaic.ro,RO,Europe,Eastern Europe,Romania,,,
+89.35.77.38,4,1450,uav.ro,RO,Europe,Eastern Europe,Romania,,,
+193.0.225.15,4,19,ubbcluj.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
+193.231.17.20,4,-164711,ubm.ro,RO,Europe,Eastern Europe,Romania,,,
+85.9.47.80,4,691,ucdc.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.44.139.59,4,2038,ucoz.ro,RO,Europe,Eastern Europe,Romania,,,
+85.9.26.93,4,1796,ucv1948.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.44.139.135,4,40,udsr.ro,RO,Europe,Eastern Europe,Romania,,,
+194.169.191.55,4,233315,ulbsibiu.ro,RO,Europe,Eastern Europe,Romania,Sibiu County,,Sibiu
 80.96.33.94,4,425,ultimatemembershippro.com,RO,Europe,Eastern Europe,Romania,,,
-94.176.104.88,4,4,umfcd.ro,RO,Europe,Eastern Europe,Romania,Arad County,,Curtici
-85.9.35.91,4,515,umfcluj.ro,RO,Europe,Eastern Europe,Romania,Teleorman County,,Alexandria
-85.121.32.178,4,43,umfst.ro,RO,Europe,Eastern Europe,Romania,Mureș County,,Târgu Mureş
-85.121.32.36,4,6,umftgm.ro,RO,Europe,Eastern Europe,Romania,Mureș County,,Târgu Mureş
-85.121.32.156,4,4,umftgm.ro,RO,Europe,Eastern Europe,Romania,Mureș County,,Târgu Mureş
-86.105.219.51,4,-1,unap.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.42.219.72,4,705,unarte.org,RO,Europe,Eastern Europe,Romania,,,
-89.41.38.18,4,931,uncover-romania.com,RO,Europe,Eastern Europe,Romania,,,
-80.96.21.209,4,609,unibuc.ro,RO,Europe,Eastern Europe,Romania,București,,Sector 6
+185.105.4.208,4,-27,ulusalkanal.com.tr,RO,Europe,Eastern Europe,Romania,București,,
+94.176.104.88,4,-6,umfcd.ro,RO,Europe,Eastern Europe,Romania,Arad County,,Curtici
+85.9.35.91,4,-154,umfcluj.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+85.121.32.178,4,19,umfst.ro,RO,Europe,Eastern Europe,Romania,,,
+85.121.32.36,4,6,umftgm.ro,RO,Europe,Eastern Europe,Romania,,,
+86.105.219.51,4,-10,unap.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.42.219.72,4,485,unarte.org,RO,Europe,Eastern Europe,Romania,,,
+89.41.38.18,4,1327,uncover-romania.com,RO,Europe,Eastern Europe,Romania,,,
 89.149.28.119,4,2,uniuneanotarilor.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-94.176.2.56,4,10,univ-danubius.ro,RO,Europe,Eastern Europe,Romania,,,
-81.196.166.101,4,26,univ-ovidius.ro,RO,Europe,Eastern Europe,Romania,Buzău County,,Buzau
-82.77.63.44,4,5,univagora.ro,RO,Europe,Eastern Europe,Romania,Bihor County,,Oradea
-89.45.251.36,4,-93,universuljuridic.ro,RO,Europe,Eastern Europe,Romania,,,
-193.230.241.1,4,5,upet.ro,RO,Europe,Eastern Europe,Romania,,,
-78.96.48.44,4,-252983,upg-ploiesti.ro,RO,Europe,Eastern Europe,Romania,Constanța County,,Cernavodă
-78.96.59.4,4,23315,upg-ploiesti.ro,RO,Europe,Eastern Europe,Romania,Constanța County,,Cernavodă
-193.230.188.34,4,0,upit.ro,RO,Europe,Eastern Europe,Romania,,,
-45.13.38.15,4,26,urls-shortener.eu,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
+94.176.2.56,4,29,univ-danubius.ro,RO,Europe,Eastern Europe,Romania,,,
+81.196.166.102,4,8,univ-ovidius.ro,RO,Europe,Eastern Europe,Romania,Vrancea,,Focşani
+81.196.166.101,4,26,univ-ovidius.ro,RO,Europe,Eastern Europe,Romania,Vrancea,,Focşani
+82.77.63.44,4,14,univagora.ro,RO,Europe,Eastern Europe,Romania,Bihor County,,Oradea
+195.8.197.105,4,32,universities-scotland.ac.uk,RO,Europe,Eastern Europe,Romania,,,
+185.247.61.136,4,10,unmb.ro,RO,Europe,Eastern Europe,Romania,,,
+78.96.59.4,4,2693,upg-ploiesti.ro,RO,Europe,Eastern Europe,Romania,Constanța County,,Cernavodă
+78.96.48.44,4,17852958,upg-ploiesti.ro,RO,Europe,Eastern Europe,Romania,Constanța County,,Cernavodă
+193.230.188.34,4,12,upit.ro,RO,Europe,Eastern Europe,Romania,,,
+184.75.254.5,4,4,urbandigs.com,RO,Europe,Eastern Europe,Romania,,,
 89.42.218.94,4,1217,urologbun.ro,RO,Europe,Eastern Europe,Romania,,,
 80.96.33.105,4,412,usagaraj.com,RO,Europe,Eastern Europe,Romania,,,
-185.199.175.97,4,-1906,usamv.ro,RO,Europe,Eastern Europe,Romania,,,
+185.199.175.97,4,-2092,usamv.ro,RO,Europe,Eastern Europe,Romania,,,
 85.120.222.158,4,38,usefuldiyprojects.com,RO,Europe,Eastern Europe,Romania,,,
-80.96.120.15,4,5,usv.ro,RO,Europe,Eastern Europe,Romania,,,
-193.231.3.1,4,17,utcb.ro,RO,Europe,Eastern Europe,Romania,,,
-89.37.184.44,4,485,utchimsteel.ro,RO,Europe,Eastern Europe,Romania,,,
-193.226.5.7,4,309241,utcluj.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
-31.14.19.2,4,120396,utgjiu.ro,RO,Europe,Eastern Europe,Romania,,,
-91.216.151.56,4,8438269,uv.ro,RO,Europe,Eastern Europe,Romania,,,
-85.120.206.130,4,6,uvt.ro,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
+80.96.120.15,4,-6,usv.ro,RO,Europe,Eastern Europe,Romania,,,
+89.37.184.44,4,83,utchimsteel.ro,RO,Europe,Eastern Europe,Romania,,,
+193.226.5.7,4,1247491,utcluj.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
+31.14.19.2,4,190284,utgjiu.ro,RO,Europe,Eastern Europe,Romania,,,
+92.85.194.126,4,7,utm.ro,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
+91.216.151.56,4,17903,uv.ro,RO,Europe,Eastern Europe,Romania,,,
+85.120.206.130,4,9,uvt.ro,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
 89.46.7.239,4,4789,uxseo.ro,RO,Europe,Eastern Europe,Romania,,,
 217.156.47.168,4,2442,uzp.org.ro,RO,Europe,Eastern Europe,Romania,,,
-86.105.110.114,4,18,vaccinare-covid.gov.ro,RO,Europe,Eastern Europe,Romania,,,
-86.105.110.115,4,5,vaccinare-covid.gov.ro,RO,Europe,Eastern Europe,Romania,,,
-86.105.110.116,4,21,vaccinare-covid.gov.ro,RO,Europe,Eastern Europe,Romania,,,
-176.223.127.112,4,-5108,vadrexim.ro,RO,Europe,Eastern Europe,Romania,,,
-85.120.59.155,4,1137,valeaflorilor.ro,RO,Europe,Eastern Europe,Romania,,,
+86.105.110.114,4,40,vaccinare-covid.gov.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+86.105.110.115,4,37,vaccinare-covid.gov.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+86.105.110.116,4,39,vaccinare-covid.gov.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+176.223.127.112,4,-5475,vadrexim.ro,RO,Europe,Eastern Europe,Romania,,,
+85.120.59.155,4,1364,valeaflorilor.ro,RO,Europe,Eastern Europe,Romania,,,
 89.44.120.135,4,3,valentinbosioc.com,RO,Europe,Eastern Europe,Romania,,,
-89.42.203.151,4,688,vanzari-parbrize.ro,RO,Europe,Eastern Europe,Romania,,,
-92.114.98.43,4,-202429,vdtruck.ro,RO,Europe,Eastern Europe,Romania,,,
-185.146.84.86,4,150,veedyou.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.42.203.151,4,688,vanzari-parbrize.ro,RO,Europe,Eastern Europe,Romania,Ilfov,,Pantelimon
+185.146.84.86,4,-654,veedyou.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.47.53.113,4,2104,velto.ro,RO,Europe,Eastern Europe,Romania,,,
 212.146.84.65,4,618,vendiofa.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.38.241.67,4,19,veridica.ro,RO,Europe,Eastern Europe,Romania,,,
 89.38.241.66,4,1222,veridica.ro,RO,Europe,Eastern Europe,Romania,,,
-185.146.87.53,4,1056,verificaip.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-188.215.51.22,4,1027,viata-medicala.ro,RO,Europe,Eastern Europe,Romania,,,
-89.45.251.209,4,1,viataverdeviu.ro,RO,Europe,Eastern Europe,Romania,,,
-89.33.25.21,4,5,viataverdeviu.ro,RO,Europe,Eastern Europe,Romania,,,
-89.45.83.150,4,2,viataverdeviu.ro,RO,Europe,Eastern Europe,Romania,Mehedinți County,,Drobeta-Turnu Severin
-193.138.192.244,4,5,viewweather.com,RO,Europe,Eastern Europe,Romania,,,
+185.146.87.53,4,81,verificaip.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+185.247.61.135,4,7,vestibune.com,RO,Europe,Eastern Europe,Romania,,,
+81.196.55.4,4,16967,viata-libera.ro,RO,Europe,Eastern Europe,Romania,Suceava,,Suceava
+188.215.51.22,4,670,viata-medicala.ro,RO,Europe,Eastern Europe,Romania,,,
+188.241.117.221,4,-3,viataverdeviu.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.33.25.21,4,264,viataverdeviu.ro,RO,Europe,Eastern Europe,Romania,,,
+89.45.83.150,4,1838,viataverdeviu.ro,RO,Europe,Eastern Europe,Romania,,,
+188.240.2.145,4,8,videotutorial.ro,RO,Europe,Eastern Europe,Romania,,,
+217.156.8.54,4,13,vidmate1.com,RO,Europe,Eastern Europe,Romania,,,
+193.138.192.244,4,9,viewweather.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 176.223.125.167,4,55,viitoaremireasa.ro,RO,Europe,Eastern Europe,Romania,,,
-89.42.218.14,4,1359,vinul.ro,RO,Europe,Eastern Europe,Romania,,,
+176.223.125.48,4,11,visitcluj.ro,RO,Europe,Eastern Europe,Romania,,,
+185.165.169.251,4,54,viz.plus,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+37.156.4.187,4,-78,voceatransilvaniei.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
 89.42.13.25,4,919,voceatransilvaniei.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-45.136.199.57,4,71,vodkamuseum.ru,RO,Europe,Eastern Europe,Romania,,,
-89.40.196.174,4,617,vremeanoua.ro,RO,Europe,Eastern Europe,Romania,Vaslui County,,Negreşti
+185.100.85.189,4,23,vodicedalmacija.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+45.136.199.57,4,8,vodkamuseum.ru,RO,Europe,Eastern Europe,Romania,București,,
+89.41.38.48,4,895,voineasa.ro,RO,Europe,Eastern Europe,Romania,,,
+82.77.226.166,4,9,vreauprofit.ro,RO,Europe,Eastern Europe,Romania,Iași County,,Iași
 81.181.253.254,4,3,wallrite.ro,RO,Europe,Eastern Europe,Romania,,,
-86.105.153.89,4,-1,warcraft-secrets.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-83.97.20.83,4,55,web-sollet.io,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-185.232.66.215,4,26,webgraphic.ro,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
+86.105.153.89,4,4,warcraft-secrets.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.42.11.69,4,677,webcen.ro,RO,Europe,Eastern Europe,Romania,,,
+185.232.66.215,4,5,webgraphic.ro,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
 89.38.233.211,4,16,webstock.ro,RO,Europe,Eastern Europe,Romania,,,
-93.174.167.243,4,9,welcometoromania.ro,RO,Europe,Eastern Europe,Romania,,,
-188.241.113.228,4,11,whatnetworth.com,RO,Europe,Eastern Europe,Romania,,,
-193.203.204.226,4,1521,worldwar2.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.249,4,478,wedding-day.ro,RO,Europe,Eastern Europe,Romania,,,
+93.174.167.243,4,11,welcometoromania.ro,RO,Europe,Eastern Europe,Romania,,,
+37.156.4.251,4,805,wilmark.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
+89.42.218.231,4,1186,winmarketad.com,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.209,4,2030,wiu.edu.sy,RO,Europe,Eastern Europe,Romania,,,
+93.119.153.2,4,4,wolfhouseproductions.ro,RO,Europe,Eastern Europe,Romania,,,
+185.232.66.214,4,5,woolrich-clearance.com,RO,Europe,Eastern Europe,Romania,Timiș County,,Timișoara
+91.213.188.13,4,5,worldwar2.ro,RO,Europe,Eastern Europe,Romania,,,
+195.8.197.209,4,14,worldwideinsure.com,RO,Europe,Eastern Europe,Romania,,,
 80.96.33.80,4,403,wpindeed.com,RO,Europe,Eastern Europe,Romania,,,
+162.249.126.195,4,7,wrswebsolutions.ca,RO,Europe,Eastern Europe,Romania,,,
+89.42.39.160,4,1501068,x-jocuri.ro,RO,Europe,Eastern Europe,Romania,,,
+193.29.187.56,4,11,xbets.ro,RO,Europe,Eastern Europe,Romania,,,
+185.199.172.123,4,-9,xn--kasinotilmanrekisteritymist-1kc82c.com,RO,Europe,Eastern Europe,Romania,,,
 193.29.187.24,4,6,xpertbet.ro,RO,Europe,Eastern Europe,Romania,,,
 92.114.95.46,4,531,yearly-horoscope.org,RO,Europe,Eastern Europe,Romania,,,
-176.126.236.183,4,3406726,yogaesoteric.net,RO,Europe,Eastern Europe,Romania,,,
+176.126.236.183,4,6838100,yogaesoteric.net,RO,Europe,Eastern Europe,Romania,,,
+193.189.75.22,4,7,yorkshiretimes.co.uk,RO,Europe,Eastern Europe,Romania,,,
 93.115.53.130,4,9,yougetactive.com,RO,Europe,Eastern Europe,Romania,,,
 185.250.105.137,4,3,yuka.ro,RO,Europe,Eastern Europe,Romania,,,
-91.209.189.185,4,6,zcj.ro,RO,Europe,Eastern Europe,Romania,,,
-89.41.38.21,4,868,zdbc.ro,RO,Europe,Eastern Europe,Romania,,,
+91.209.189.185,4,3,zcj.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
 217.156.46.2,4,4,zepelintour.ro,RO,Europe,Eastern Europe,Romania,,,
-93.113.11.103,4,-1,zf.ro,RO,Europe,Eastern Europe,Romania,,,
-93.113.11.104,4,-2,zfcorporate.ro,RO,Europe,Eastern Europe,Romania,,,
+93.113.11.103,4,3,zf.ro,RO,Europe,Eastern Europe,Romania,,,
+93.113.11.104,4,1,zfcorporate.ro,RO,Europe,Eastern Europe,Romania,,,
 92.114.98.40,4,1230,zi-de-zi.ro,RO,Europe,Eastern Europe,Romania,,,
-92.114.98.52,4,890,ziardecluj.ro,RO,Europe,Eastern Europe,Romania,,,
-94.24.55.188,4,25,ziareromania.ro,RO,Europe,Eastern Europe,Romania,,,
-80.97.43.34,4,1,ziaristii.com,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-46.102.249.113,4,5,ziarulargesul.ro,RO,Europe,Eastern Europe,Romania,,,
-82.208.151.102,4,10,ziarulevenimentul.ro,RO,Europe,Eastern Europe,Romania,Iași County,,Iasi
-89.42.218.43,4,1022,ziarulfaclia.ro,RO,Europe,Eastern Europe,Romania,,,
-193.201.232.166,4,1368,ziarulprahova.ro,RO,Europe,Eastern Europe,Romania,,,
-89.37.212.86,4,15,ziarulprofit.ro,RO,Europe,Eastern Europe,Romania,,,
-176.126.172.61,4,8,ziarulring.ro,RO,Europe,Eastern Europe,Romania,București,,Bucharest
-89.37.212.169,4,7,zilesinopti.ro,RO,Europe,Eastern Europe,Romania,,,
-91.209.189.60,4,2910,ziuadecj.ro,RO,Europe,Eastern Europe,Romania,,,
+92.114.98.52,4,554,ziardecluj.ro,RO,Europe,Eastern Europe,Romania,,,
+185.199.172.161,4,-309,ziaristul.ro,RO,Europe,Eastern Europe,Romania,,,
+46.102.249.113,4,0,ziarulargesul.ro,RO,Europe,Eastern Europe,Romania,,,
+82.208.151.102,4,767900,ziarulevenimentul.ro,RO,Europe,Eastern Europe,Romania,Iași County,,Iași
+89.42.218.43,4,2084,ziarulfaclia.ro,RO,Europe,Eastern Europe,Romania,,,
+193.201.232.166,4,2610,ziarulprahova.ro,RO,Europe,Eastern Europe,Romania,,,
+89.37.212.86,4,118,ziarulprofit.ro,RO,Europe,Eastern Europe,Romania,,,
+89.42.218.217,4,958,ziarulrevolutionarul.ro,RO,Europe,Eastern Europe,Romania,,,
+146.19.133.16,4,2581,ziarulring.ro,RO,Europe,Eastern Europe,Romania,,,
+89.37.212.169,4,767,zilesinopti.ro,RO,Europe,Eastern Europe,Romania,,,
+185.247.61.82,4,-11,ziuaconstanta.ro,RO,Europe,Eastern Europe,Romania,,,
+91.209.189.60,4,6737,ziuadecj.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
 188.241.116.234,4,1,ziuadevest.ro,RO,Europe,Eastern Europe,Romania,,,
-91.216.156.70,4,447,ziuaveche.ro,RO,Europe,Eastern Europe,Romania,,,
-89.41.38.90,4,529,zonait.ro,RO,Europe,Eastern Europe,Romania,,,
+91.216.156.70,4,849,ziuaveche.ro,RO,Europe,Eastern Europe,Romania,,,
+89.41.38.90,4,977,zonait.ro,RO,Europe,Eastern Europe,Romania,,,
 91.237.248.223,4,937,zonen.ro,RO,Europe,Eastern Europe,Romania,,,
 185.171.185.225,4,1103,zoohoo.ro,RO,Europe,Eastern Europe,Romania,,,

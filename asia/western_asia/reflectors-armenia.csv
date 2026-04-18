@@ -1,50 +1,82 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 185.57.68.12,4,0,arminco.com,AM,Asia,Western Asia,Armenia,,,
-185.57.68.15,4,20,arpinet.am,AM,Asia,Western Asia,Armenia,,,
+185.57.68.15,4,-3,arpinet.am,AM,Asia,Western Asia,Armenia,,,
+217.113.25.216,4,15050330,celog.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
 91.195.255.228,4,62672,celog.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+77.91.68.11,4,-4,chas-daily.com,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+2.56.206.6,4,-5,cmf.am,AM,Asia,Western Asia,Armenia,,,
 81.16.14.33,4,44156,datalex.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-46.130.120.30,4,-128,DNS Server: 30.120.130.46.in-addr.mts.am,AM,Asia,Western Asia,Armenia,Gegharkunik,,Aygut
-46.130.117.7,4,-10798495,DNS Server: 7.117.130.46.in-addr.mts.am,AM,Asia,Western Asia,Armenia,Gegharkunik,,Aygut
-93.187.167.53,4,80,DNS Server: cmg-gw.asnet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-81.89.215.193,4,11,DNS Server: customer215-193.crossnet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-45.159.74.1,4,16,DNS Server: dns1.virusnet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-81.16.8.103,4,22208,DNS Server: host-103.8.16.81.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-37.157.215.109,4,-15,DNS Server: host-109.215.157.37.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-37.252.72.109,4,819,DNS Server: host-109.72.252.37.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-37.252.78.115,4,2908,DNS Server: host-115.78.252.37.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-81.16.1.131,4,11964,DNS Server: host-131.1.16.81.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-5.77.240.131,4,1251,DNS Server: host-131.240.77.5.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-81.16.10.162,4,7501,DNS Server: host-162.10.16.81.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-81.16.9.173,4,-339,DNS Server: host-173.9.16.81.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-37.157.212.188,4,1339,DNS Server: host-188.212.157.37.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-91.196.37.196,4,-14367154,DNS Server: host-196-37-196-91.hnet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-109.75.41.201,4,98254,DNS Server: host-201.41.75.109.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-37.157.218.32,4,-11,DNS Server: host-32.218.157.37.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-109.75.40.32,4,-269,DNS Server: host-32.40.75.109.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-45.159.75.122,4,0,DNS Server: host-45.159.75.122.virusnet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-45.159.75.170,4,-10615,DNS Server: host-45.159.75.170.virusnet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-81.16.9.47,4,13665,DNS Server: host-47.9.16.81.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-212.34.232.70,4,445,DNS Server: host-70.232.34.212.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-37.252.74.76,4,89283,DNS Server: host-76.74.252.37.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-91.103.29.245,4,-39618281,DNS Server: host-91-103-29-245.customers.mts.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-95.140.203.92,4,30192262,DNS Server: host-95-140-203-92.customers.mts.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-130.193.122.173,4,-4737,DNS Server: ip-130-193-122-173.gnc.net,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-37.186.115.160,4,-14394856,DNS Server: ip-37-186-115-160.gnc.net,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-46.19.100.26,4,151,DNS Server: ip-46-19-100-26.gnc.net,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-5.63.162.225,4,83,DNS Server: ip-5-63-162-225.gnc.net,AM,Asia,Western Asia,Armenia,,,
-80.86.231.136,4,88,DNS Server: netsys.am,AM,Asia,Western Asia,Armenia,,,
-91.223.82.206,4,7,footsoccerpro.co,AM,Asia,Western Asia,Armenia,,,
-37.26.170.60,4,707338,freenet.am,AM,Asia,Western Asia,Armenia,,,
-93.187.162.109,4,3,genocide-museum.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-37.26.174.115,4,-1,nla.am,AM,Asia,Western Asia,Armenia,,,
-178.160.207.186,4,328,Ookla Speedtest Server 14851: speedtest-100g.telecomarmenia.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-83.139.0.19,4,948,Ookla Speedtest Server 19443: speedtesthost2.mts.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+46.130.117.7,4,75608909,DNS Server: 7.117.130.46.in-addr.mts.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+81.89.215.193,4,1,DNS Server: customer215-193.crossnet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+45.159.74.1,4,-7,DNS Server: dns1.virusnet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+37.157.215.109,4,-3,DNS Server: host-109.215.157.37.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+37.252.72.109,4,10379,DNS Server: host-109.72.252.37.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+37.252.78.115,4,1705,DNS Server: host-115.78.252.37.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+37.157.216.131,4,17188,DNS Server: host-131.216.157.37.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+81.16.6.158,4,1429,DNS Server: host-158.6.16.81.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+81.16.10.162,4,844,DNS Server: host-162.10.16.81.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+81.16.9.173,4,-2615,DNS Server: host-173.9.16.81.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+81.16.12.177,4,71999248,DNS Server: host-177.12.16.81.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+212.34.245.179,4,737,DNS Server: host-179.245.34.212.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+37.252.77.18,4,674,DNS Server: host-18.77.252.37.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+37.157.212.188,4,3214,DNS Server: host-188.212.157.37.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+91.196.37.196,4,72329208,DNS Server: host-196-37-196-91.hnet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+109.75.41.201,4,26659,DNS Server: host-201.41.75.109.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+37.157.223.205,4,3120,DNS Server: host-205.223.157.37.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+37.157.218.208,4,19604,DNS Server: host-208.218.157.37.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+81.16.11.229,4,3,DNS Server: host-229.11.16.81.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+81.16.2.229,4,78073801,DNS Server: host-229.2.16.81.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+37.157.218.32,4,-5,DNS Server: host-32.218.157.37.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+109.75.40.32,4,15018,DNS Server: host-32.40.75.109.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+109.75.46.41,4,694,DNS Server: host-41.46.75.109.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+45.159.75.122,4,-12,DNS Server: host-45.159.75.122.virusnet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+45.159.75.170,4,-6736,DNS Server: host-45.159.75.170.virusnet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+45.159.75.226,4,47657,DNS Server: host-45.159.75.226.virusnet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+81.16.9.47,4,638,DNS Server: host-47.9.16.81.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+37.252.74.76,4,56021,DNS Server: host-76.74.252.37.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+81.16.6.83,4,1310,DNS Server: host-83.6.16.81.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+91.103.29.245,4,74069577,DNS Server: host-91-103-29-245.customers.mts.am,AM,Asia,Western Asia,Armenia,,,
+91.103.31.44,4,17815,DNS Server: host-91-103-31-44.customers.mts.am,AM,Asia,Western Asia,Armenia,,,
+93.94.217.218,4,71762222,DNS Server: host-93-94-217-218.customers.mts.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+93.94.223.233,4,13833593,DNS Server: host-93-94-223-233.customers.mts.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+95.140.203.92,4,13833591,DNS Server: host-95-140-203-92.customers.mts.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+37.186.119.247,4,349,DNS Server: ip-37-186-119-247.gnc.net,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+46.19.100.26,4,-6,DNS Server: ip-46-19-100-26.gnc.net,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+5.63.162.225,4,10,DNS Server: ip-5-63-162-225.gnc.net,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+80.86.230.58,4,166194,DNS Server: mail.aybeng.com,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+31.47.195.250,4,-53,DNS Server: mail.goriscity.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+80.86.231.136,4,-8,DNS Server: netsys.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+91.223.82.133,4,592,doctorlib.info,AM,Asia,Western Asia,Armenia,,,
+85.90.207.199,4,0,DoH server: dnscry.pt-yerevan-ipv4,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+91.223.82.203,4,-2,footsoccerpro.co,AM,Asia,Western Asia,Armenia,,,
+37.26.170.60,4,966281,freenet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+93.187.162.109,4,33,genocide-museum.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+87.121.47.187,4,-22,lince.ru,AM,Asia,Western Asia,Armenia,,,
+195.250.67.108,4,30,mskh.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+37.26.174.115,4,11,nla.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+185.9.185.45,4,10,omnicomm.ru,AM,Asia,Western Asia,Armenia,,,
+178.160.207.186,4,108,Ookla Speedtest Server 14851: speedtest-100g.telecomarmenia.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+83.139.0.19,4,547,Ookla Speedtest Server 19443: speedtesthost.viva.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+45.159.74.2,4,-35,Ookla Speedtest Server 24730: speedtest.virusnet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+195.191.186.78,4,-13,Ookla Speedtest Server 32183: speedtest.skynet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
 195.191.187.111,4,439,Ookla Speedtest Server 32183: speedtest.skynet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-194.39.82.13,4,179226,Ookla Speedtest Server 60445: speedtest.tins.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-217.113.25.26,4,330,Ookla Speedtest Server 61359: speedtest.i-net.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-178.78.176.20,4,247,Ookla Speedtest Server 63160: sp3.ucom.am,AM,Asia,Western Asia,Armenia,,,
-185.57.68.2,4,264,Ookla Speedtest Server: speed.arpinet.am,AM,Asia,Western Asia,Armenia,,,
-93.187.162.98,4,5,sci.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+62.89.7.99,4,-11,Ookla Speedtest Server 32511: speedtest3.itsec.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+109.68.122.117,4,2,Ookla Speedtest Server 34558: evn-speed.arpinet.am,AM,Asia,Western Asia,Armenia,,,
+217.113.29.65,4,2153,Ookla Speedtest Server 38655: speedtest.maxinetartik.am,AM,Asia,Western Asia,Armenia,Shirak,,Shirak
+194.39.82.13,4,486485,Ookla Speedtest Server 60445: speedtest.tins.am,AM,Asia,Western Asia,Armenia,,,
+217.113.25.26,4,5,Ookla Speedtest Server 61359: speedtest.i-net.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+178.78.176.20,4,3,Ookla Speedtest Server 63160: sp3.ucom.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+45.11.137.59,4,2477258,Ookla Speedtest Server 64286: speedtest.icn.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+139.45.214.99,4,46,Ookla Speedtest Server 65277: speedtest-evn.retn.net,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+91.103.248.21,4,-6,Ookla Speedtest Server 68570: gw1.banali.org,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+195.128.166.28,4,12,Ookla Speedtest Server 68967: speedtest.hachn.am,AM,Asia,Western Asia,Armenia,,,
+91.205.198.14,4,213,Ookla Speedtest Server 72212: ookla.homenet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+185.57.68.2,4,3,Ookla Speedtest Server: speed.arpinet.am,AM,Asia,Western Asia,Armenia,,,
+2.56.204.133,4,-4,redmineup.com,AM,Asia,Western Asia,Armenia,,,
+93.187.162.98,4,39,sci.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+2.56.205.8,4,1353,sheynin.ru,AM,Asia,Western Asia,Armenia,,,
+91.223.82.8,4,1290,uahistory.co,AM,Asia,Western Asia,Armenia,,,
+176.32.195.163,4,22,unibank.am,AM,Asia,Western Asia,Armenia,,,
 83.139.13.250,4,-232166,unibank.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-37.26.168.23,4,-11,yerphi.am,AM,Asia,Western Asia,Armenia,,,
-81.89.217.205,4,18026,zvartnots.aero,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+37.26.168.23,4,9,yerphi.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+91.223.82.30,4,6,zdescargas.org,AM,Asia,Western Asia,Armenia,,,

@@ -1,224 +1,385 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-190.14.231.58,4,163,ada-aero.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
 200.122.217.234,4,12,ada-aero.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
 179.50.14.235,4,52,antillana.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-190.8.176.102,4,20,asfaltosgr.com.co,CO,Americas,Latin America and the Caribbean,Colombia,,,
-181.49.136.162,4,-20,barranquilla.gov.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-190.248.57.62,4,3,barranquilla.gov.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-190.60.110.144,4,19957,cerlalc.org,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+181.58.255.114,4,-4515,asopat.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.248.57.62,4,3,barranquilla.gov.co,CO,Americas,Latin America and the Caribbean,Colombia,Atlántico,,Barranquilla
+181.49.136.162,4,-20,barranquilla.gov.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.90.160.165,4,9,biblored.gov.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.60.110.144,4,327,cerlalc.org,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+186.154.221.98,4,-16,cinematecadebogota.gov.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
 186.30.115.137,4,-47179,cinematecadebogota.gov.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-190.90.160.100,4,995,conexcol.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,
-190.90.160.75,4,699,conexcol.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,
-190.8.176.216,4,-1,consultoresayc.co,CO,Americas,Latin America and the Caribbean,Colombia,,,
-190.90.160.166,4,1,cut.org.co,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,
-186.28.238.155,4,3,desarrolloeconomico.gov.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-190.60.103.101,4,55,DNS Server: 101.103.60.190.static.host.ifxnetworks.com,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-186.194.160.118,4,-12017,DNS Server: 118-160-194-186.static-col.telenetdigital.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-181.78.15.137,4,128,DNS Server: 137-15-78-181.ufinet.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-45.162.84.162,4,15656491,DNS Server: 162-84-162-45.static-col.wifaocolombia.com,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-170.254.231.77,4,-67439,DNS Server: 17025423177.ip81.static.mediacommerce.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Huila Department,,Neiva
-181.174.228.107,4,91,DNS Server: 181-174-228-107.host.net.sinergy.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Huila Department,,Pitalito
-181.225.78.235,4,953,DNS Server: 18122578235.mc.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Santander Department,,Bucaramanga
-190.217.28.197,4,76,DNS Server: 190-217-28-197.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-190.217.28.198,4,90,DNS Server: 190-217-28-198.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-190.217.28.200,4,-2172,DNS Server: 190-217-28-200.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-190.217.28.204,4,251,DNS Server: 190-217-28-204.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-190.217.29.177,4,46,DNS Server: 190-217-29-177.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-190.217.31.74,4,2130,DNS Server: 190-217-31-74.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-190.107.19.170,4,-2145041796,DNS Server: 19010719170.ip60.static.mediacommerce.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-190.107.20.164,4,2,DNS Server: 19010720164.ip61.static.mediacommerce.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Pamplona
-190.107.25.170,4,-494,DNS Server: 19010725170.ip66.static.mediacommerce.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-190.14.224.45,4,6953,DNS Server: 1901422445.ip1.static.mediacommerce.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-190.14.235.165,4,18,DNS Server: 19014235165.ip12.static.mediacommerce.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Armenia
-200.31.19.203,4,32,DNS Server: 200.31.19-203.static.impsat.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-200.31.19.204,4,37,DNS Server: 200.31.19-204.static.impsat.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-200.41.77.85,4,19174548,DNS Server: 200.41.77-85.static.impsat.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-200.110.168.42,4,21689,DNS Server: 20011016842.mc.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Risaralda Department,,Pereira
-201.234.67.138,4,123,DNS Server: 201.234.67-138.static.impsat.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-204.199.116.45,4,10,DNS Server: 204-199-116-45.dia.static.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-204.199.117.186,4,769,DNS Server: 204-199-117-186.dia.static.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Santander Department,,Floridablanca
-204.199.122.250,4,-6679,DNS Server: 204-199-122-250.dia.static.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-204.199.98.107,4,-2090,DNS Server: 204-199-98-107.dia.static.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-204.199.81.94,4,19163,DNS Server: 205-199-81-94.dia.static.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-190.60.36.220,4,5457,DNS Server: 220-36-60-190.ufinet.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-190.60.37.226,4,-23186,DNS Server: 226-37-60-190.ufinet.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.78.24.228,4,-110854,DNS Server: 228.24.78.181.ufinet.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-190.60.84.243,4,111,DNS Server: 243.84.60.190.static.host.ifxnetworks.com,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-190.60.32.42,4,354,DNS Server: 42-32-60-190.ufinet.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
-198.49.129.61,4,64,DNS Server: 61-129-49-198.static-col.kuatro.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-186.159.114.62,4,14,DNS Server: 62-114-159-186.static.itelkom.co,CO,Americas,Latin America and the Caribbean,Colombia,Departamento de Córdoba,,Cereté
-181.78.17.68,4,1340,DNS Server: 68.17.78.181.ufinet.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-8.242.153.162,4,62,DNS Server: 8-242-153-162.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,Gachancipá
-8.242.153.165,4,33,DNS Server: 8-242-153-165.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,Gachancipá
-8.242.153.169,4,15,DNS Server: 8-242-153-169.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,Gachancipá
-8.242.153.171,4,16,DNS Server: 8-242-153-171.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,Gachancipá
-8.242.215.91,4,1253,DNS Server: 8-242-215-91.dia.static.level3.net,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-8.242.215.93,4,9649,DNS Server: 8-242-215-93.dia.static.level3.net,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-181.129.10.70,4,106978,DNS Server: adsl-181-129-10-70.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.129.183.19,4,-4613741,DNS Server: adsl-181-129-183-19.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Santander Department,,Bucaramanga
-181.129.223.226,4,48,DNS Server: adsl-181-129-223-226.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.129.225.26,4,1443,DNS Server: adsl-181-129-225-26.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Risaralda Department,,Pereira
-181.129.36.242,4,3239,DNS Server: adsl-181-129-36-242.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.129.48.10,4,73137,DNS Server: adsl-181-129-48-10.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.129.5.98,4,2549,DNS Server: adsl-181-129-5-98.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.129.57.146,4,3106,DNS Server: adsl-181-129-57-146.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-190.6.179.182,4,-19943976,DNS Server: adsl-bug-182-179.ert.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-190.71.63.18,4,-12618478,DNS Server: adsl190-71-63-18.epm.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.129.138.155,4,191,DNS Server: agrinsa.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-45.173.12.139,4,26286,DNS Server: ateneateleco139.ateneatelecomunicaciones.co,CO,Americas,Latin America and the Caribbean,Colombia,Santander Department,,San Gil
-177.93.44.64,4,130786,DNS Server: azteca-comunicaciones.com,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-201.184.253.122,4,-210056516,DNS Server: beepinshoes.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-190.248.67.206,4,-3,DNS Server: cable190-248-67-206.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-190.249.158.58,4,-2496,DNS Server: cable190-249-158-58.epm.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-190.249.168.212,4,2022,DNS Server: cable190-249-168-212.epm.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-190.249.170.32,4,23962,DNS Server: cable190-249-170-32.epm.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-200.116.135.169,4,40996,DNS Server: cable200-116-135-169.epm.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-200.93.166.136,4,593,DNS Server: clientes_corpor_datamundo93166-136.etb.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-200.116.110.39,4,2534,DNS Server: conm200-116-110-39.epm.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-190.144.36.118,4,29,DNS Server: correo.alphaseguridad.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-138.0.90.83,4,3,DNS Server: dc90-83.dobleclick.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Cauca Department,,Popayán
-181.205.127.82,4,31306172,DNS Server: Dinamic-Tigo-181-205-127-82.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.205.139.194,4,-537884794,DNS Server: Dinamic-Tigo-181-205-139-194.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.205.180.114,4,91,DNS Server: Dinamic-Tigo-181-205-180-114.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.205.196.114,4,9357,DNS Server: Dinamic-Tigo-181-205-196-114.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.205.206.162,4,16832314,DNS Server: Dinamic-Tigo-181-205-206-162.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.205.21.146,4,-136819,DNS Server: Dinamic-Tigo-181-205-21-146.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.205.224.98,4,12072,DNS Server: Dinamic-Tigo-181-205-224-98.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.205.241.34,4,3235,DNS Server: Dinamic-Tigo-181-205-241-34.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.205.252.242,4,2474,DNS Server: Dinamic-Tigo-181-205-252-242.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.205.28.162,4,1865,DNS Server: Dinamic-Tigo-181-205-28-162.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.205.3.34,4,5654,DNS Server: Dinamic-Tigo-181-205-3-34.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.205.36.114,4,71785,DNS Server: Dinamic-Tigo-181-205-36-114.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.205.47.219,4,87998,DNS Server: Dinamic-Tigo-181-205-47-219.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.205.49.234,4,8247,DNS Server: Dinamic-Tigo-181-205-49-234.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.205.60.162,4,7,DNS Server: Dinamic-Tigo-181-205-60-162.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.205.61.122,4,9820,DNS Server: Dinamic-Tigo-181-205-61-122.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.205.65.93,4,40227,DNS Server: Dinamic-Tigo-181-205-65-93.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-186.97.156.82,4,-2771,DNS Server: Dinamic-Tigo186-97-156-82.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-186.97.157.218,4,9659,DNS Server: Dinamic-Tigo186-97-157-218.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-186.97.167.210,4,-3,DNS Server: Dinamic-Tigo186-97-167-210.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-186.97.192.138,4,2,DNS Server: Dinamic-Tigo186-97-192-138.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-186.97.194.162,4,442,DNS Server: Dinamic-Tigo186-97-194-162.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-186.97.195.122,4,10706,DNS Server: Dinamic-Tigo186-97-195-122.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-186.97.197.26,4,777,DNS Server: Dinamic-Tigo186-97-197-26.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-186.97.208.162,4,11692,DNS Server: Dinamic-Tigo186-97-208-162.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-186.97.208.18,4,25032,DNS Server: Dinamic-Tigo186-97-208-18.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-186.97.218.42,4,-4778,DNS Server: Dinamic-Tigo186-97-218-42.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-186.97.229.138,4,-246315,DNS Server: Dinamic-Tigo186-97-229-138.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-186.97.229.178,4,42997,DNS Server: Dinamic-Tigo186-97-229-178.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-186.97.246.178,4,27338,DNS Server: Dinamic-Tigo186-97-246-178.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-186.97.98.18,4,-392967966,DNS Server: Dinamic-Tigo186-97-98-18.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-200.29.101.62,4,2690,DNS Server: dsl-emcali-200.29.101.62.emcali.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-200.29.108.132,4,2458,DNS Server: dsl-emcali-200.29.108.132.emcali.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-200.29.108.64,4,-468182877,DNS Server: dsl-emcali-200.29.108.64.emcali.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-200.29.120.233,4,33193,DNS Server: dsl-emcali-200.29.120.233.emcali.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-186.29.173.186,4,490,DNS Server: dynamic-186-29-173-186.dynamic.etb.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-186.145.238.50,4,4246,DNS Server: dynamic-ip-18614523850.cable.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-186.86.209.55,4,18000222,DNS Server: dynamic-ip-1868620955.cable.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-190.108.77.195,4,4,DNS Server: gpon-190.108.77.195-celsiainternet.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Palmira
-201.184.145.29,4,3522,DNS Server: ingentar.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-45.233.169.21,4,64,DNS Server: ip-cr4523316921.clientesimectgroup.com,CO,Americas,Latin America and the Caribbean,Colombia,Cauca Department,,Popayán
-45.233.169.27,4,11,DNS Server: ip-cr4523316927.clientesimectgroup.com,CO,Americas,Latin America and the Caribbean,Colombia,Cauca Department,,Popayán
-201.184.128.50,4,30769,DNS Server: mundiutil.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-200.6.181.139,4,-458,DNS Server: residencial-200.6.181.139.costanet.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-181.129.121.42,4,385,DNS Server: static-181-129-121-42.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.129.69.226,4,22693,DNS Server: static-181-129-69-226.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-186.155.196.56,4,914,DNS Server: static-186-155-196-56.static.etb.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-190.25.241.210,4,397,DNS Server: static-190-25-241-210.static.etb.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-181.204.14.218,4,10587,DNS Server: Static-BA-181-204-14-218.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Departamento de Bolívar,,Cartagena
-181.204.147.243,4,128017,DNS Server: Static-BA-181-204-147-243.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-181.204.15.250,4,-462,DNS Server: Static-BA-181-204-15-250.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Departamento de Bolívar,,Cartagena
-181.204.185.18,4,3907,DNS Server: Static-BA-181-204-185-18.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-181.204.20.138,4,48701,DNS Server: Static-BA-181-204-20-138.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Departamento de Bolívar,,Cartagena
-181.204.229.114,4,2842,DNS Server: Static-BA-181-204-229-114.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-181.204.232.2,4,19213,DNS Server: Static-BA-181-204-232-2.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-181.204.72.122,4,-197783657,DNS Server: Static-BA-181-204-72-122.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Caldas Department,,Manizales
-181.204.80.106,4,-5509439,DNS Server: Static-BA-181-204-80-106.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Risaralda Department,,Dosquebradas
-190.0.32.94,4,24414,DNS Server: Static-BAFibra190-0-32-94.epm.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-190.0.35.234,4,3917,DNS Server: Static-BAFibra190-0-35-234.epm.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-190.8.176.140,4,1,ensubate.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.239.88.68,4,1,escuelaing.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+149.130.180.209,4,-5,coljuegos.gov.co,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,Cota
+190.90.160.75,4,25,conexcol.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.144.56.83,4,-2,dao.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+186.28.238.155,4,-10,desarrolloeconomico.gov.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+186.194.160.118,4,-11561,DNS Server: 118-160-194-186.static-col.telenetdigital.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+181.78.15.137,4,1,DNS Server: 137-15-78-181.ufinet.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Santander Department,,Barrancabermeja
+138.117.84.149,4,-6,DNS Server: 138-117-84-149.host.net.sinergy.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Huila Department,,Timaná
+45.162.84.162,4,8393,DNS Server: 162-84-162-45.static-col.wifaocolombia.com,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,
+170.254.231.77,4,6028983,DNS Server: 17025423177.ip81.static.mediacommerce.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+179.49.161.26,4,221885,DNS Server: 179-49-161-26.ims-ipv4.com,CO,Americas,Latin America and the Caribbean,Colombia,,,
+181.174.228.107,4,7171,DNS Server: 181-174-228-107.host.net.sinergy.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Huila Department,,Pitalito
+181.174.228.125,4,140,DNS Server: 181-174-228-125.host.net.sinergy.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Huila Department,,Pitalito
+181.225.72.186,4,4526,DNS Server: 18122572186.static.mediacommerce.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.225.78.235,4,-6,DNS Server: 18122578235.mc.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.217.31.74,4,-40851,DNS Server: 190-217-31-74.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+190.90.138.78,4,-3,DNS Server: 190-90-138-78.dns.dobleclick.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.107.19.170,4,2,DNS Server: 19010719170.ip60.static.mediacommerce.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Candelaria
+190.107.20.164,4,-6,DNS Server: 19010720164.ip61.static.mediacommerce.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Candelaria
+190.107.25.170,4,-4083,DNS Server: 19010725170.ip66.static.mediacommerce.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.107.25.74,4,32,DNS Server: 1901072574.ip66.static.mediacommerce.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.14.224.45,4,3543,DNS Server: 1901422445.ip1.static.mediacommerce.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.14.235.165,4,-2,DNS Server: 19014235165.ip12.static.mediacommerce.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Casanare Department,,Tauramena
+200.41.77.85,4,21304541,DNS Server: 200.41.77-85.static.impsat.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+200.110.168.42,4,78538177,DNS Server: 20011016842.mc.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+200.110.168.69,4,7397,DNS Server: 20011016869.mc.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+201.234.67.138,4,-17,DNS Server: 201.234.67-138.static.impsat.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+204.199.121.162,4,-45,DNS Server: 204-199-121-162.dia.static.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Nariño,,Pasto
+204.199.121.58,4,144117,DNS Server: 204-199-121-58.dia.static.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Nariño,,Pasto
+204.199.98.107,4,30781,DNS Server: 204-199-98-107.dia.static.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+204.199.73.4,4,-34,DNS Server: 205-199-72-4.dia.static.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+204.199.81.90,4,92893,DNS Server: 205-199-81-90.dia.static.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+204.199.81.94,4,24072,DNS Server: 205-199-81-94.dia.static.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.60.37.226,4,-5992,DNS Server: 226-37-60-190.ufinet.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.60.84.243,4,-4,DNS Server: 243.84.60.190.static.host.ifxnetworks.com,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+190.60.81.50,4,-3,DNS Server: 50.81.60.190.static.host.ifxnetworks.com,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+198.49.129.61,4,-6378133,DNS Server: 61-129-49-198.static-col.kuatro.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+190.60.32.66,4,-82875,DNS Server: 66.32.60.190.ufinet.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+8.242.153.162,4,407,DNS Server: 8-242-153-162.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+8.242.153.165,4,406,DNS Server: 8-242-153-165.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+8.242.153.166,4,407,DNS Server: 8-242-153-166.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+8.242.153.168,4,407,DNS Server: 8-242-153-168.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+8.242.153.169,4,406,DNS Server: 8-242-153-169.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+8.242.153.170,4,406,DNS Server: 8-242-153-170.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+8.242.153.171,4,-81821,DNS Server: 8-242-153-171.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+8.242.215.91,4,16071,DNS Server: 8-242-215-91.dia.static.level3.net,CO,Americas,Latin America and the Caribbean,Colombia,,,
+8.242.215.92,4,16075,DNS Server: 8-242-215-92.dia.static.level3.net,CO,Americas,Latin America and the Caribbean,Colombia,,,
+8.242.215.93,4,16073,DNS Server: 8-242-215-93.dia.static.level3.net,CO,Americas,Latin America and the Caribbean,Colombia,,,
+181.129.10.70,4,198948,DNS Server: adsl-181-129-10-70.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.129.14.3,4,4426,DNS Server: adsl-181-129-14-3.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.129.183.19,4,37294552,DNS Server: adsl-181-129-183-19.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Santander Department,,Bucaramanga
+181.129.223.226,4,-3,DNS Server: adsl-181-129-223-226.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cartago
+181.129.225.26,4,7198,DNS Server: adsl-181-129-225-26.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.129.27.132,4,-48636,DNS Server: adsl-181-129-27-132.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.129.36.242,4,8567,DNS Server: adsl-181-129-36-242.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.129.42.138,4,15655,DNS Server: adsl-181-129-42-138.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.129.48.10,4,10510,DNS Server: adsl-181-129-48-10.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.129.5.98,4,551,DNS Server: adsl-181-129-5-98.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.129.57.146,4,4595,DNS Server: adsl-181-129-57-146.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.129.57.155,4,3778,DNS Server: adsl-181-129-57-155.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+186.159.17.108,4,1021,DNS Server: adsl-186-159-17-108.edatel.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+186.159.4.66,4,13145,DNS Server: adsl-186-159-4-66.edatel.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.71.229.74,4,15,DNS Server: adsl190-71-229-74.epm.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.71.229.77,4,15,DNS Server: adsl190-71-229-77.epm.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.71.65.122,4,27,DNS Server: adsl190-71-65-122.epm.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Palmira
+181.129.138.155,4,13,DNS Server: agrinsa.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+45.173.12.139,4,412,DNS Server: ateneateleco139.ateneatelecomunicaciones.co,CO,Americas,Latin America and the Caribbean,Colombia,Santander Department,,San Gil
+177.93.44.64,4,44127,DNS Server: azteca-comunicaciones.com,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+190.248.153.162,4,-12,DNS Server: cable190-248-153-162.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Arauca Department,,Arauca
+190.248.67.206,4,-9,DNS Server: cable190-248-67-206.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.248.67.34,4,77431382,DNS Server: cable190-248-67-34.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.249.149.96,4,32377,DNS Server: cable190-249-149-96.epm.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.249.158.58,4,-22757,DNS Server: cable190-249-158-58.epm.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.249.168.212,4,6349,DNS Server: cable190-249-168-212.epm.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.249.170.32,4,43679,DNS Server: cable190-249-170-32.epm.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+138.0.90.83,4,-3,DNS Server: dc90-83.dobleclick.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Cauca Department,,Popayán
+181.205.124.50,4,871,DNS Server: Dinamic-Tigo-181-205-124-50.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.129.210,4,10747,DNS Server: Dinamic-Tigo-181-205-129-210.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.142.178,4,-103197,DNS Server: Dinamic-Tigo-181-205-142-178.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.146.74,4,9392,DNS Server: Dinamic-Tigo-181-205-146-74.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.164.90,4,1461,DNS Server: Dinamic-Tigo-181-205-164-90.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.170.58,4,295567,DNS Server: Dinamic-Tigo-181-205-170-58.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.190.2,4,31779344,DNS Server: Dinamic-Tigo-181-205-190-2.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.196.114,4,3670,DNS Server: Dinamic-Tigo-181-205-196-114.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.204.163,4,10203,DNS Server: Dinamic-Tigo-181-205-204-163.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.206.162,4,21100447,DNS Server: Dinamic-Tigo-181-205-206-162.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.21.146,4,102654,DNS Server: Dinamic-Tigo-181-205-21-146.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.219.202,4,23631,DNS Server: Dinamic-Tigo-181-205-219-202.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.224.98,4,1042,DNS Server: Dinamic-Tigo-181-205-224-98.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.233.82,4,12116,DNS Server: Dinamic-Tigo-181-205-233-82.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.241.34,4,64082655,DNS Server: Dinamic-Tigo-181-205-241-34.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.252.242,4,30390,DNS Server: Dinamic-Tigo-181-205-252-242.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.34.122,4,6410780,DNS Server: Dinamic-Tigo-181-205-34-122.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.47.219,4,-2600,DNS Server: Dinamic-Tigo-181-205-47-219.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.48.18,4,-7,DNS Server: Dinamic-Tigo-181-205-48-18.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.49.234,4,22642,DNS Server: Dinamic-Tigo-181-205-49-234.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.60.162,4,4,DNS Server: Dinamic-Tigo-181-205-60-162.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.61.122,4,23428,DNS Server: Dinamic-Tigo-181-205-61-122.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.62.27,4,336,DNS Server: Dinamic-Tigo-181-205-62-27.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.65.194,4,6615,DNS Server: Dinamic-Tigo-181-205-65-194.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.78.42,4,49733,DNS Server: Dinamic-Tigo-181-205-78-42.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+186.97.101.178,4,53,DNS Server: Dinamic-Tigo186-97-101-178.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+186.97.130.130,4,159753,DNS Server: Dinamic-Tigo186-97-130-130.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+186.97.165.146,4,412,DNS Server: Dinamic-Tigo186-97-165-146.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+186.97.166.34,4,67000168,DNS Server: Dinamic-Tigo186-97-166-34.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+186.97.194.162,4,128113,DNS Server: Dinamic-Tigo186-97-194-162.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+186.97.195.122,4,4015,DNS Server: Dinamic-Tigo186-97-195-122.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+186.97.208.162,4,18148,DNS Server: Dinamic-Tigo186-97-208-162.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+186.97.208.18,4,123222,DNS Server: Dinamic-Tigo186-97-208-18.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+186.97.218.42,4,102866,DNS Server: Dinamic-Tigo186-97-218-42.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+186.97.229.138,4,-6537,DNS Server: Dinamic-Tigo186-97-229-138.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+186.97.246.178,4,-24,DNS Server: Dinamic-Tigo186-97-246-178.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+200.29.108.64,4,-543941327,DNS Server: dsl-emcali-200.29.108.64.emcali.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cali
+200.29.120.233,4,1618,DNS Server: dsl-emcali-200.29.120.233.emcali.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cali
+186.86.209.55,4,18000748,DNS Server: dynamic-ip-1868620955.cable.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+201.184.145.29,4,11515,DNS Server: ingentar.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+200.35.56.26,4,-5,DNS Server: mail.etigraf.com.co,CO,Americas,Latin America and the Caribbean,Colombia,,,
+191.102.107.237,4,18222,DNS Server: rapidhardware.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Departamento del Chocó,,Quibdó
+181.129.117.226,4,64509,DNS Server: static-181-129-117-226.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.129.121.42,4,33729,DNS Server: static-181-129-121-42.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.129.69.226,4,3866,DNS Server: static-181-129-69-226.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.129.70.106,4,5384,DNS Server: static-181-129-70-106.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.129.78.170,4,1,DNS Server: static-181-129-78-170.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.129.84.210,4,-6,DNS Server: static-181-129-84-210.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.143.1.118,4,-13,DNS Server: static-181-143-1-118.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.143.102.218,4,58963199,DNS Server: static-181-143-102-218.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.143.117.210,4,7713,DNS Server: static-181-143-117-210.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.143.196.83,4,51395006,DNS Server: static-181-143-196-83.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Magdalena Department,,Santa Marta
+181.143.20.10,4,10,DNS Server: static-181-143-20-10.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.143.204.98,4,-184,DNS Server: static-181-143-204-98.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Magdalena Department,,Santa Marta
+181.143.215.50,4,96,DNS Server: static-181-143-215-50.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.143.244.178,4,-5,DNS Server: static-181-143-244-178.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.143.27.98,4,96008,DNS Server: static-181-143-27-98.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.143.28.156,4,-2,DNS Server: static-181-143-28-156.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.143.28.158,4,-1,DNS Server: static-181-143-28-158.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.143.37.202,4,1347372,DNS Server: static-181-143-37-202.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.143.60.245,4,12380,DNS Server: static-181-143-60-245.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+186.155.196.56,4,180,DNS Server: static-186-155-196-56.static.etb.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+186.29.140.144,4,225,DNS Server: static-186-29-140-144.etb.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+190.248.143.210,4,2447,DNS Server: static-190-248-143-210.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+201.244.210.59,4,-5,DNS Server: static-201-244-210-59.etb.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+201.244.33.106,4,7392,DNS Server: static-201-244-33-106.static.etb.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+190.7.150.194,4,883,DNS Server: static-adsl190-7-150-194.epm.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+201.184.125.130,4,23521,DNS Server: static-adsl201-184-125-130.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Barrios Unidos
+201.184.126.218,4,4303,DNS Server: static-adsl201-184-126-218.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Barrios Unidos
+201.184.130.90,4,6,DNS Server: static-adsl201-184-130-90.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+201.184.156.252,4,-2,DNS Server: static-adsl201-184-156-252.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+201.184.167.2,4,77753789,DNS Server: static-adsl201-184-167-2.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+201.184.175.242,4,7194683,DNS Server: static-adsl201-184-175-242.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+201.184.18.138,4,-9,DNS Server: static-adsl201-184-18-138.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+201.184.180.58,4,15663,DNS Server: static-adsl201-184-180-58.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+201.184.187.98,4,22040,DNS Server: static-adsl201-184-187-98.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+201.184.224.50,4,23015,DNS Server: static-adsl201-184-224-50.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+201.184.229.210,4,1,DNS Server: static-adsl201-184-229-210.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+201.184.237.218,4,12093,DNS Server: static-adsl201-184-237-218.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+201.184.60.178,4,64223362,DNS Server: static-adsl201-184-60-178.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+181.204.14.218,4,-4,DNS Server: Static-BA-181-204-14-218.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Departamento de Bolívar,,Cartagena
+181.204.147.243,4,425,DNS Server: Static-BA-181-204-147-243.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+181.204.15.250,4,-16,DNS Server: Static-BA-181-204-15-250.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Departamento de Bolívar,,Cartagena
+181.204.156.18,4,56,DNS Server: Static-BA-181-204-156-18.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+181.204.183.74,4,64524,DNS Server: Static-BA-181-204-183-74.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cali
+181.204.185.18,4,2159,DNS Server: Static-BA-181-204-185-18.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cali
+181.204.20.138,4,28392,DNS Server: Static-BA-181-204-20-138.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Departamento de Bolívar,,Cartagena
+181.204.214.146,4,1561,DNS Server: Static-BA-181-204-214-146.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Santander Department,,Bucaramanga
+181.204.232.2,4,14482,DNS Server: Static-BA-181-204-232-2.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Kennedy
+181.204.36.42,4,12130,DNS Server: Static-BA-181-204-36-42.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Santander Department,,Bucaramanga
+181.204.8.66,4,4101,DNS Server: Static-BA-181-204-8-66.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Departamento de Bolívar,,Cartagena
+181.204.80.106,4,5965626,DNS Server: Static-BA-181-204-80-106.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Risaralda Department,,Pereira
+181.204.9.106,4,8842,DNS Server: Static-BA-181-204-9-106.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Departamento de Bolívar,,Cartagena
+190.0.32.94,4,30362,DNS Server: Static-BAFibra190-0-32-94.epm.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.0.35.234,4,7998,DNS Server: Static-BAFibra190-0-35-234.epm.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.0.62.118,4,-10963,DNS Server: Static-BAFibra190-0-62-118.epm.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.129.129.66,4,21974,DNS Server: static-bafo-181-129-129-66.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.129.143.66,4,-3,DNS Server: static-bafo-181-129-143-66.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+200.122.255.26,4,7583,DNS Server: static-dedicado-200-122-255-26.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+181.57.131.122,4,1819,DNS Server: static-ip-18157131122.cable.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.57.149.82,4,6,DNS Server: static-ip-1815714982.cable.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.57.187.242,4,67865606,DNS Server: static-ip-18157187242.cable.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+181.57.215.94,4,77694762,DNS Server: static-ip-1815721594.cable.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+186.147.249.90,4,1450,DNS Server: static-ip-18614724990.cable.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Risaralda Department,,Pereira
+190.146.86.19,4,17999051,DNS Server: static-ip-1901468619.cable.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.147.40.42,4,95811,DNS Server: static-ip-cr1901474042.cable.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+190.156.238.29,4,1780,DNS Server: static-ip-cr19015623829.cable.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cali
+181.143.19.78,4,153218,DNS Server: todelarmedellin.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.0.2.98,4,135973,DNS Server: Wimax-Cali-190-0-2-98.orbitel.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+191.103.216.34,4,-2141681395,DNS Server: xdsl-191-103-216-34.edatel.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Sucre Department,,Tolú
+103.57.250.54,4,-1,DoH server: bog01.dnscry.pt,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+149.130.180.136,4,2,elimpresor.cl,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,Cota
+45.239.88.68,4,-5,escuelaing.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
 45.163.29.160,4,-5,fedepalma.org,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,
-186.31.70.38,4,-3,fesfa.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-179.50.60.20,4,391327,funlam.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-190.85.135.226,4,-337917,galotrans.com,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-190.90.160.103,4,750,hsbnoticias.com,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,
-45.173.7.100,4,-2,i3campus.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-190.85.250.66,4,5,jep.gov.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-190.8.176.107,4,5,laproff.com,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.178.5.254,4,12,levidia.ch,CO,Americas,Latin America and the Caribbean,Colombia,,,
-190.8.176.187,4,8,mariachisdemedellin.com.co,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.178.5.198,4,2,mlbbox.me,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.178.5.134,4,3,mlbbox.me,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.178.6.105,4,2,nflbox.me,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.178.5.196,4,2,nflbox.me,CO,Americas,Latin America and the Caribbean,Colombia,,,
-38.191.219.241,4,-77033,Ookla Speedtest Server 13541: speedtest.conectate.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-191.102.232.99,4,317,Ookla Speedtest Server 14393: speedtest.directv.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-179.1.74.125,4,268,Ookla Speedtest Server 14746: speedtest.colomtel.com,CO,Americas,Latin America and the Caribbean,Colombia,Santander Department,,Barrancabermeja
-200.13.249.233,4,329,Ookla Speedtest Server 15017: speedtestmed1.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-200.24.58.11,4,349,Ookla Speedtest Server 15018: speedtestbog1.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,,,
-200.10.29.60,4,170,Ookla Speedtest Server 16624: sunspeedtest.suncomunicaciones.co,CO,Americas,Latin America and the Caribbean,Colombia,Meta Department,,Villavicencio
-201.217.220.34,4,121,Ookla Speedtest Server 19537: speedtest-ifx-co.ifxcorp.com,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-45.187.48.254,4,350,Ookla Speedtest Server 43319: speedtest.worldconnections.co,CO,Americas,Latin America and the Caribbean,Colombia,La Guajira Department,,Barrancas
-181.48.254.78,4,380,Ookla Speedtest Server 44095: speedtestbog01.claro.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-181.48.254.74,4,356,Ookla Speedtest Server 44096: speedtestmed01.claro.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-190.6.160.74,4,154456,Ookla Speedtest Server 44398: medicion.ert.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-191.102.216.105,4,31975,Ookla Speedtest Server 47928: speedtestatl.directv.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Atlántico,,Barranquilla
-190.61.62.10,4,318,Ookla Speedtest Server 48513: speedtest-baq10g.ufinet.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Puerto Berrío
-190.61.62.14,4,122,Ookla Speedtest Server 48715: speedtest-bog10g.ufinet.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Puerto Berrío
-181.224.222.4,4,251,Ookla Speedtest Server 51440: speedtest.ipcomsistemas.co,CO,Americas,Latin America and the Caribbean,Colombia,Santander Department,,Contratación
-38.196.178.17,4,289,Ookla Speedtest Server 52727: speedtest.cableexito.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
-206.84.80.245,4,296,Ookla Speedtest Server 52729: speed.somosinternet.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-38.224.41.2,4,231,Ookla Speedtest Server 53426: toro.fibranetplus.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Toro
-38.224.40.2,4,267,Ookla Speedtest Server 53427: speedtestlv.fibranetplus.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,La Victoria
-201.234.78.114,4,-1648091,Ookla Speedtest Server 55026: bogota.speedtest.ciriontechnologies.com,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-200.93.148.249,4,222,Ookla Speedtest Server 56387: eagle-server.ufps.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
-45.173.9.2,4,159,Ookla Speedtest Server 56404: speedtest.mymnet.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
-45.173.15.8,4,339,Ookla Speedtest Server 57508: speedtest2.tvisla.net.co,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.173.44.8,4,296,Ookla Speedtest Server 57792: speedtest.fiwii.tv,CO,Americas,Latin America and the Caribbean,Colombia,Sucre Department,,San Andrés de Palomo
-181.78.65.218,4,-9463,Ookla Speedtest Server 58684: speedtest.befast.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-45.169.99.163,4,378,Ookla Speedtest Server 59838: speedtest.netcomunicaciones.com,CO,Americas,Latin America and the Caribbean,Colombia,Putumayo Department,,Mocoa
-45.191.234.66,4,277,Ookla Speedtest Server 60287: speedtest.wirelesscolombia.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-38.224.42.2,4,390,Ookla Speedtest Server 61142: blg.fibranetplus.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Bugalagrande
-181.204.172.67,4,-9147,Ookla Speedtest Server 61264: speed.ultranetconexionesinalambricas.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-200.41.79.225,4,256,Ookla Speedtest Server 62075: speedtest.technetsas.com,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-200.10.30.66,4,171,Ookla Speedtest Server 62209: speedtest.superredes.net,CO,Americas,Latin America and the Caribbean,Colombia,Risaralda Department,,La Virginia
-38.224.43.2,4,297,Ookla Speedtest Server 62674: launion.fibranetplus.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,La Unión
-190.90.132.253,4,294,Ookla Speedtest Server 62700: amtecsas.ddns.net,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,
-190.90.39.78,4,3191,Ookla Speedtest Server 63159: speedtest.esmitel.com,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,
-200.10.31.38,4,226,Ookla Speedtest Server 63193: speedtest-pereira.superredes.net,CO,Americas,Latin America and the Caribbean,Colombia,Risaralda Department,,Pereira
-143.137.98.123,4,241,Ookla Speedtest Server 63323: speedtest.cadcom.tv,CO,Americas,Latin America and the Caribbean,Colombia,Caldas Department,,Manzanares
-179.1.198.34,4,516,Ookla Speedtest Server 63773: test.icrnetworkca.com,CO,Americas,Latin America and the Caribbean,Colombia,Departamento de Córdoba,,Montería
+157.137.225.59,4,3,habitatbogota.gov.co,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,Cota
+190.131.220.70,4,2656,i3campus.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.90.160.170,4,0,jetxcel.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+201.219.192.30,4,33258836,manizales.gov.co,CO,Americas,Latin America and the Caribbean,Colombia,,,
+179.50.19.250,4,75578,Ookla Speedtest Server 11516: test.gtdcolombia.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.189.24.35,4,2,Ookla Speedtest Server 13403: speed.evernet.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,Chía
+38.191.219.245,4,36,Ookla Speedtest Server 13541: speedtest.conectate.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Yumbo
+179.1.74.125,4,17,Ookla Speedtest Server 14746: speedtest.colomtel.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+200.13.249.233,4,-426,Ookla Speedtest Server 15017: speedtestmed1.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+200.24.58.11,4,1753,Ookla Speedtest Server 15018: speedtestbog1.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.70.124.126,4,4257,Ookla Speedtest Server 15019: speedtestbaq1.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,,,
+200.33.28.202,4,49,Ookla Speedtest Server 15201: speedtest.buho-net.com,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,Cajicá
+190.0.241.6,4,-3,Ookla Speedtest Server 15998: test2.mediacommerce.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+200.10.29.60,4,-29,Ookla Speedtest Server 16624: sunspeedtest.suncomunicaciones.co,CO,Americas,Latin America and the Caribbean,Colombia,Meta Department,,Villavicencio
+38.56.124.142,4,9,Ookla Speedtest Server 17403: speedtest.baq.co.pit.net,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+38.156.13.7,4,-1,Ookla Speedtest Server 17509: speedtest.webmastercolombia.net,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+152.204.128.194,4,13,Ookla Speedtest Server 17577: testdevelocidad.movistar.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Kennedy
+45.162.126.8,4,-2,Ookla Speedtest Server 22921: speedtest.entertelecomunicaciones.com,CO,Americas,Latin America and the Caribbean,Colombia,Huila Department,,San Agustín
+207.230.10.242,4,11,Ookla Speedtest Server 26699: speedtest.ticcol.com,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,Choachí
+201.182.251.238,4,-12,Ookla Speedtest Server 27087: speedtest.sistemaspalacios.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Nariño,,Pasto
+200.25.0.229,4,0,Ookla Speedtest Server 29638: spt-bog1.edgeuno.com,CO,Americas,Latin America and the Caribbean,Colombia,,,
+200.25.60.86,4,-5,Ookla Speedtest Server 29672: spt-eze1.edgeuno.com,CO,Americas,Latin America and the Caribbean,Colombia,,,
+38.56.122.146,4,-10,Ookla Speedtest Server 31695: speedtest.bog.co.pit.net,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+45.175.20.102,4,-18,Ookla Speedtest Server 35373: speedtest.colombia.815d.net,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+45.172.222.226,4,2,Ookla Speedtest Server 39491: speedtest.ateneatelecomunicaciones.vip,CO,Americas,Latin America and the Caribbean,Colombia,Santander Department,,San Gil
+200.10.31.84,4,0,Ookla Speedtest Server 40521: speedtest.servired.co,CO,Americas,Latin America and the Caribbean,Colombia,Risaralda Department,,Pereira
+45.187.48.254,4,-26,Ookla Speedtest Server 43319: speedtest.worldconnections.co,CO,Americas,Latin America and the Caribbean,Colombia,La Guajira Department,,Barrancas
+181.48.254.78,4,8,Ookla Speedtest Server 44095: speedtestbog01.claro.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.48.254.74,4,0,Ookla Speedtest Server 44096: speedtestmed01.claro.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+187.251.16.62,4,26,Ookla Speedtest Server 44311: speedtest-col.transtelco.net,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+190.6.160.74,4,154456,Ookla Speedtest Server 44398: medicion.ert.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cali
+138.0.88.142,4,9,Ookla Speedtest Server 44602: test.dobleclick.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Cauca Department,,Popayán
+191.102.216.105,4,-4,Ookla Speedtest Server 47928: speedtestatl.directv.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Atlántico,,Barranquilla
+190.61.62.10,4,-5,Ookla Speedtest Server 48513: speedtest-baq10g.ufinet.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+190.61.62.14,4,-13,Ookla Speedtest Server 48715: speedtest-bog10g.ufinet.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+38.191.208.29,4,2533,Ookla Speedtest Server 50357: speedtest.netslink.co,CO,Americas,Latin America and the Caribbean,Colombia,Santander Department,,Bucaramanga
+45.181.188.236,4,-10,Ookla Speedtest Server 50453: speedtest.kaludecolombia.com,CO,Americas,Latin America and the Caribbean,Colombia,,,
+45.167.248.4,4,20407730,Ookla Speedtest Server 50948: speedtest.sinured.co,CO,Americas,Latin America and the Caribbean,Colombia,Departamento de Córdoba,,Montería
+181.224.222.4,4,-14,Ookla Speedtest Server 51440: speedtest.ipcomsistemas.co,CO,Americas,Latin America and the Caribbean,Colombia,Santander Department,,Contratación
+38.196.178.17,4,-2,Ookla Speedtest Server 52727: speedtest.cableexito.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
+38.188.255.66,4,20,Ookla Speedtest Server 52729: speed2.somosinternet.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+38.224.41.2,4,1,Ookla Speedtest Server 53426: toro.fibranetplus.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Toro
+38.224.40.2,4,-9,Ookla Speedtest Server 53427: speedtestlv.fibranetplus.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,La Victoria
+190.131.219.94,4,16527,Ookla Speedtest Server 53501: speed.caribetech.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+204.199.120.28,4,491826,Ookla Speedtest Server 54141: test.stbdecolombia.com,CO,Americas,Latin America and the Caribbean,Colombia,Nariño,,Pasto
+185.236.182.59,4,7,Ookla Speedtest Server 54322: hseingenieria.co,CO,Americas,Latin America and the Caribbean,Colombia,Putumayo Department,,
+201.234.78.114,4,-7,Ookla Speedtest Server 55026: bogota.speedtest.ciriontechnologies.com,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+38.191.220.114,4,26,Ookla Speedtest Server 56019: speedtest.globaltronik.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
+45.173.9.2,4,-19,Ookla Speedtest Server 56404: speedtest.mymnet.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
+190.217.116.132,4,-2,Ookla Speedtest Server 57289: speed.legoncomunicaciones.com,CO,Americas,Latin America and the Caribbean,Colombia,Risaralda Department,,Dosquebradas
+45.173.15.8,4,-9,Ookla Speedtest Server 57508: speedtest2.tvisla.net.co,CO,Americas,Latin America and the Caribbean,Colombia,,,
+45.173.44.8,4,-6,Ookla Speedtest Server 57792: speedtest.fiwii.tv,CO,Americas,Latin America and the Caribbean,Colombia,San Andres y Providencia,,San Andrés
+38.199.68.254,4,-1,Ookla Speedtest Server 57881: speed.somostvinternet.com,CO,Americas,Latin America and the Caribbean,Colombia,Cauca Department,,Santander de Quilichao
+207.230.10.18,4,-3,Ookla Speedtest Server 58413: speedtest-santafe.tvline.com.co,CO,Americas,Latin America and the Caribbean,Colombia,,,
+190.60.35.228,4,-644,Ookla Speedtest Server 58436: speedtest.ubiprel.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Yarumal
+38.156.77.82,4,-9,Ookla Speedtest Server 58443: speedtest.intv.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Cauca Department,,Corinto
+190.60.57.158,4,-3,Ookla Speedtest Server 59065: speedtest.megatv.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+209.61.59.3,4,7,Ookla Speedtest Server 59451: speedinter.intermaxcomunicaciones.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cali
+45.172.184.237,4,-18,Ookla Speedtest Server 59738: st.betelsas.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Dagua
+45.169.99.163,4,8,Ookla Speedtest Server 59838: speedtest.netcomunicaciones.com,CO,Americas,Latin America and the Caribbean,Colombia,Putumayo Department,,Mocoa
+8.243.166.220,4,-45,Ookla Speedtest Server 60035: speedtest.picontel.com,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+45.191.234.66,4,22,Ookla Speedtest Server 60287: speedtest.wirelesscolombia.com,CO,Americas,Latin America and the Caribbean,Colombia,Caldas Department,,La Dorada
+179.1.68.202,4,2618942,Ookla Speedtest Server 60456: speedtest3.setelin.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.224.92.2,4,-1,Ookla Speedtest Server 61719: speedtest.leowisp.com,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,Sopó
+190.60.36.24,4,9,Ookla Speedtest Server 61799: speedtest.mundodigitaltvsas.com,CO,Americas,Latin America and the Caribbean,Colombia,Departamento de Bolívar,,Calamar
+200.10.30.66,4,-37,Ookla Speedtest Server 62209: speedtest.superredes.net,CO,Americas,Latin America and the Caribbean,Colombia,Risaralda Department,,Pereira
+38.210.96.255,4,-3,Ookla Speedtest Server 62211: tunja.tvn.red,CO,Americas,Latin America and the Caribbean,Colombia,Departamento de Boyacá,,Tunja
+38.224.43.2,4,1,Ookla Speedtest Server 62674: launion.fibranetplus.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,La Unión
+190.90.132.253,4,14,Ookla Speedtest Server 62700: amtecsas.ddns.net,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+185.236.182.42,4,-18,Ookla Speedtest Server 62873: hseingenieriacolombia.com,CO,Americas,Latin America and the Caribbean,Colombia,Putumayo Department,,
+179.1.234.2,4,-5432,Ookla Speedtest Server 63159: speedtest.esmitel.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+38.199.28.2,4,3,Ookla Speedtest Server 63182: speedtest.spectratelecomunicaciones.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cali
+200.10.31.38,4,-25,Ookla Speedtest Server 63193: speedtest-pereira.superredes.net,CO,Americas,Latin America and the Caribbean,Colombia,Risaralda Department,,Pereira
+200.10.28.2,4,-20,Ookla Speedtest Server 63227: speedtest-manizales.superredes.net,CO,Americas,Latin America and the Caribbean,Colombia,Caldas Department,,Manizales
+143.137.98.123,4,-17,Ookla Speedtest Server 63323: speedtest.cadcom.tv,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+170.254.3.34,4,24,Ookla Speedtest Server 63511: speedtest.kgbtelecomunicaciones.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Ginebra
+138.117.43.6,4,8,Ookla Speedtest Server 64194: speedtest2.kgbtelecomunicaciones.com,CO,Americas,Latin America and the Caribbean,Colombia,Caldas Department,,Belalcázar
+181.78.236.211,4,19,Ookla Speedtest Server 64470: test.speedsitelinks.com,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+191.102.216.147,4,-5,Ookla Speedtest Server 64530: speedtestatl2.directv.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Atlántico,,Barranquilla
+179.1.110.114,4,-6,Ookla Speedtest Server 64616: speedtest.silcom.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Villa del Rosario
 185.75.12.74,4,390,Ookla Speedtest Server 64827: speedtest.ticsoluciones.net,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,El Carmen de Viboral
-204.157.232.254,4,286,Ookla Speedtest Server 64848: speedtest.isp-intercol.com,CO,Americas,Latin America and the Caribbean,Colombia,Cesar Department,,Valledupar
-204.199.120.28,4,173963,Ookla Speedtest Server: test.stbdecolombia.com,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-45.5.184.24,4,-86167,promusa.org,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-186.113.12.198,4,35,renata.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,,,
-190.8.176.44,4,0,runcode.co,CO,Americas,Latin America and the Caribbean,Colombia,,,
+38.190.6.253,4,-8,Ookla Speedtest Server 64848: speedtest.isp-intercol.com,CO,Americas,Latin America and the Caribbean,Colombia,Cesar Department,,Valledupar
+38.191.216.195,4,-6,Ookla Speedtest Server 65312: speedtest.holadigital.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
+38.191.214.3,4,17119392,Ookla Speedtest Server 65323: transintermet.ticcol.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Villavicencio
+179.1.125.51,4,17278,Ookla Speedtest Server 67272: speedtest.wayiranet.com,CO,Americas,Latin America and the Caribbean,Colombia,Departamento del Chocó,,Quibdó
+181.78.15.68,4,-16,Ookla Speedtest Server 67548: arrobadigitalspeeed.yapagos.com,CO,Americas,Latin America and the Caribbean,Colombia,Santander Department,,Barrancabermeja
+179.51.109.2,4,8167404,Ookla Speedtest Server 67637: speedtest.hvmultiplay.co,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,Soacha
+179.51.109.16,4,-5,Ookla Speedtest Server 67637: speedtest.hvmultiplay.co,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,Soacha
+190.14.232.219,4,-67,Ookla Speedtest Server 67660: mc.oiti.co,CO,Americas,Latin America and the Caribbean,Colombia,Casanare Department,,Tauramena
+138.117.168.10,4,-16,Ookla Speedtest Server 67819: speedtest.interredes.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Restrepo
+24.152.59.94,4,15,Ookla Speedtest Server 68360: speedtest2.vivercom.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Santander Department,,Bucaramanga
+38.156.13.27,4,332,Ookla Speedtest Server 68446: speedtest.fiestatvferneycastro.com,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+209.14.101.4,4,-3,Ookla Speedtest Server 68867: speed2.cablefibraplus.com,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,Mosquera
+181.79.90.126,4,-59177,Ookla Speedtest Server 68880: draconet.ticcol.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+38.252.94.226,4,-7,Ookla Speedtest Server 68989: speedtest.vivotelecomunicaciones.net,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Envigado
+8.242.143.98,4,-15,Ookla Speedtest Server 69369: speedcali.legoncomunicaciones.com,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+181.78.20.113,4,44937654,Ookla Speedtest Server 69632: tes.tif.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+45.178.14.87,4,3,Ookla Speedtest Server 69784: speedtest-bog01.walix.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+170.0.8.218,4,-35,Ookla Speedtest Server 70062: speedtest.guajiranet.com,CO,Americas,Latin America and the Caribbean,Colombia,La Guajira Department,,Albania
+201.219.220.56,4,489248,Ookla Speedtest Server 70266: speedtest.itelkom.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.119.67.69,4,2113,Ookla Speedtest Server 70416: speedtest.servitelsoluciones.com,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,El Zulia
+206.1.80.253,4,-7,Ookla Speedtest Server 70427: speedtest1.wayiranet.com,CO,Americas,Latin America and the Caribbean,Colombia,La Guajira Department,,Maicao
+138.121.12.123,4,-192526,Ookla Speedtest Server 70484: speed.fourtv.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.60.55.204,4,-15,Ookla Speedtest Server 70593: speedtest.red-planet.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cali
+38.224.216.1,4,-187,Ookla Speedtest Server 71158: speed.eycpluss.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Bello
+190.217.17.45,4,197048,Ookla Speedtest Server 71187: test.fibernetgroup.net,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.14.244.203,4,-23,Ookla Speedtest Server 71225: speedtest.servicteksas.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+45.172.222.227,4,-8,Ookla Speedtest Server 71226: speedtest.uhfcomunicaciones.com,CO,Americas,Latin America and the Caribbean,Colombia,Santander Department,,San Gil
+31.56.215.2,4,14,Ookla Speedtest Server 71242: yumbo.fibranetplus.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Yumbo
+170.254.0.13,4,0,Ookla Speedtest Server 71417: speedtest.jefferson-afe.com,CO,Americas,Latin America and the Caribbean,Colombia,,,
+181.78.2.8,4,-14,Ookla Speedtest Server 71475: speedtest1.ubiprel.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Valdivia
+200.26.232.16,4,9,Ookla Speedtest Server 71542: speedtest.siscohuila.com,CO,Americas,Latin America and the Caribbean,Colombia,Huila Department,,La Plata
+38.191.212.247,4,-3,Ookla Speedtest Server 71616: speedtest-ccta01.tvymas.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
+190.60.36.29,4,-3,Ookla Speedtest Server 71658: servespeedtest.mundodigitaltvsas.com,CO,Americas,Latin America and the Caribbean,Colombia,Departamento de Bolívar,,Calamar
+187.73.176.210,4,251,Ookla Speedtest Server 71672: speedtest.interyatv.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Yarumal
+38.191.218.249,4,-23671,Ookla Speedtest Server 71780: speedtest.terawi.com,CO,Americas,Latin America and the Caribbean,Colombia,Arauca Department,,Tame
+179.32.55.236,4,-35475,Ookla Speedtest Server 71875: speedtest.intermaxmedellinsas.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.214.105.110,4,10551,Ookla Speedtest Server 71887: speedtest.teconectafull.com,CO,Americas,Latin America and the Caribbean,Colombia,Risaralda Department,,Pereira
+38.191.41.233,4,-11,Ookla Speedtest Server 72058: speedtest.fibrazo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Departamento de Bolívar,,Cartagena
+168.90.15.37,4,-4413,Ookla Speedtest Server 72066: speedtest01.ispgroup.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Departamento de Boyacá,,Chiquinquirá
+45.194.119.22,4,-4,Ookla Speedtest Server 72393: velocidad.fibercom.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
+38.225.228.4,4,5,Ookla Speedtest Server 72464: speed-bta2.somosinternet.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+190.61.45.100,4,1599,Ookla Speedtest Server 72494: speedtest-medellin.visionsatelital.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+38.191.190.25,4,7,Ookla Speedtest Server 72507: speedtest.novacom.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Putumayo Department,,Valle del Guamuez
+190.61.47.214,4,-69378,Ookla Speedtest Server 72544: speedtest-medellin.cablemas.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.143.11.158,4,-9,Ookla Speedtest Server 72569: speedtest.airoscomunicaciones.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+200.33.28.244,4,10,Ookla Speedtest Server 72608: speedtest2.buho-net.com,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,Cajicá
+190.60.46.187,4,-113828,Ookla Speedtest Server 72690: speedtest-cali.visionsatelital.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.78.71.244,4,-2841,Ookla Speedtest Server 72767: speedtest-horizonte.cablemas.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.78.24.210,4,-8239,Ookla Speedtest Server 72770: speedtest-mercurio.visionsatelital.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+170.239.207.110,4,6281,Ookla Speedtest Server 72789: speedtest.totalconexioncol.co,CO,Americas,Latin America and the Caribbean,Colombia,Atlántico,,Barranquilla
+181.79.92.130,4,-76024,Ookla Speedtest Server 72822: speedtest.interfibrasdelvalle.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Bolívar
+200.110.171.153,4,29266,Ookla Speedtest Server 72851: speedtest-manizales.visionsatelital.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.61.45.114,4,2797,Ookla Speedtest Server 72948: speedtest-cali.cablemas.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.78.211.228,4,357,Ookla Speedtest Server 72952: speedtest-neira.visionsatelital.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+177.93.43.227,4,42326,Ookla Speedtest Server 72955: speedtest-tunja.visionsatelital.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+38.191.212.245,4,9,Ookla Speedtest Server 73028: speedtest.ryc-sas.com,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
+170.239.207.245,4,-17904,Ookla Speedtest Server 73075: server.gerconnectionsas.com,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,Soacha
+181.207.81.187,4,-24217,Ookla Speedtest Server 73189: loginnetest.loginnet.online,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.242.40.251,4,-121097,Ookla Speedtest Server 73225: speedtest.wifimaxcolombia.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.78.72.25,4,-1403,Ookla Speedtest Server 73247: speedtest-bogota.visionsatelital.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.90.100.35,4,-3,Ookla Speedtest Server 73251: speedtest.conectic.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Cauca Department,,Popayán
+179.1.240.226,4,16,Ookla Speedtest Server 73257: pruebadevelocidad.integradossys.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.60.35.14,4,-12206,Ookla Speedtest Server 73339: speedtest-subachoque.visionsatelital.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.60.49.139,4,-1,Ookla Speedtest Server 73355: speedtest-subachoque.cablemas.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Santander Department,,Floridablanca
+190.109.29.163,4,4145,Ookla Speedtest Server 73487: speed.companylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Cesar Department,,Valledupar
+187.102.195.14,4,3,Ookla Speedtest Server 73535: speedtest-bog4-1.wircom.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+181.143.38.166,4,-23,Ookla Speedtest Server 73540: speedtest.ultrafibraisp.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Caucasia
+38.255.6.58,4,-16,Ookla Speedtest Server 73667: speedtest3.cableexito.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Urabá
+190.242.131.174,4,5,Ookla Speedtest Server 73714: speedtest.simplecomunicaciones.com,CO,Americas,Latin America and the Caribbean,Colombia,Sucre Department,,Sincelejo
+45.229.192.34,4,-12,Ookla Speedtest Server 73753: medidor.interlans.net,CO,Americas,Latin America and the Caribbean,Colombia,Caldas Department,,Neira
+181.214.105.218,4,-25,Ookla Speedtest Server 73880: speedtest-bogota.superredes.net,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+179.1.199.152,4,13376,Ookla Speedtest Server 73904: sincelejo.tvn.red,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+190.61.63.146,4,-10,Ookla Speedtest Server 73956: speedtest.redviva.co,CO,Americas,Latin America and the Caribbean,Colombia,Santander Department,,Barrancabermeja
+38.190.7.34,4,-11,Ookla Speedtest Server 74090: speedtest.riohacha.isp-intercol.com,CO,Americas,Latin America and the Caribbean,Colombia,La Guajira Department,,Riohacha
+181.78.19.87,4,65594,Ookla Speedtest Server 74344: speedtest.fenixsw.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+38.191.197.25,4,9,Ookla Speedtest Server 74350: speedtest.innovationtelecomunicaciones.com,CO,Americas,Latin America and the Caribbean,Colombia,Santander Department,,Bucaramanga
+186.194.57.28,4,-38,Ookla Speedtest Server 74375: speedtest.redesdecolombia.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+181.78.1.158,4,2980,Ookla Speedtest Server 74380: server.tvzona.net,CO,Americas,Latin America and the Caribbean,Colombia,Magdalena Department,,Prado-Sevilla
+38.191.197.253,4,24,Ookla Speedtest Server 74393: speedtest-bmanga01.tvymas.co,CO,Americas,Latin America and the Caribbean,Colombia,Santander Department,,Bucaramanga
+179.1.223.203,4,-5457,Ookla Speedtest Server 74409: server.joantv.net,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+186.121.142.164,4,-14,Ookla Speedtest Server 74458: speedfibranet.yapagos.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Yumbo
+38.191.219.39,4,1,Ookla Speedtest Server 74499: speedtest-yumbo01.tvymas.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Yumbo
+170.239.207.34,4,4,Ookla Speedtest Server 74549: serversm.gerconnectionsas.com,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,Soacha
+186.30.162.37,4,-5,pactoglobal-colombia.org,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+38.180.182.52,4,6,play-stake-casino.com,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+190.71.252.41,4,44,politecnicojic.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+45.5.184.24,4,-12,promusa.org,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cali
+190.85.39.162,4,-1589,quios.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
+190.15.31.3,4,-2,renata.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,Caldas Department,,Manizales
 149.130.181.220,4,2,segursystem.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,Cota
+190.90.160.166,4,-3,servtecnica.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
 190.61.250.130,4,123925,sohopoint.com.ar,CO,Americas,Latin America and the Caribbean,Colombia,,,
-190.8.176.86,4,4,splegalbrokers.com,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.178.5.133,4,3,strikeout.im,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.178.6.104,4,6,strikeout.im,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.178.6.146,4,45,strikeout.im,CO,Americas,Latin America and the Caribbean,Colombia,,,
+190.131.233.69,4,11,supergiros.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
 190.61.250.140,4,-333622,todo-argentina.net,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.5.186.24,4,-86129,tropicalforages.info,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
+45.5.186.24,4,-4,tropicalforages.info,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cali
+179.50.90.223,4,18,ucaldas.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+200.2.66.59,4,42617,ucatolica.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,,,
 200.2.64.7,4,22,ucatolica.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,,,
 179.50.16.128,4,0,ucatolicaluisamigo.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-186.190.254.42,4,-441,uexternado.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,Tocancipá
-200.93.148.3,4,4832302,ufps.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,Norte de Santander Department,,Cúcuta
-200.91.233.66,4,-637,unicolmayor.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,Bogota D.C.,,Bogotá
-45.178.6.101,4,14,vipbox.lc,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.178.7.138,4,4,vipbox.lc,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.178.5.50,4,32,vipbox.lc,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.178.7.142,4,65,vipboxtv.sk,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.178.6.103,4,38,vipboxtv.sk,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.178.6.110,4,3,vipleague.im,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.178.5.131,4,4,vipleague.im,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.178.6.147,4,4,vipleague.im,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.178.6.148,4,18,vipleague.pm,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.178.6.102,4,15,vipleague.pm,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.178.5.51,4,5,vipleague.pm,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.178.6.108,4,14,viprow.nu,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.178.6.149,4,7,viprow.nu,CO,Americas,Latin America and the Caribbean,Colombia,,,
-45.178.5.132,4,6,viprow.nu,CO,Americas,Latin America and the Caribbean,Colombia,,,
+186.190.254.42,4,-433,uexternado.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,Tocancipá
+190.60.126.67,4,-2,ufps.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.215.197.17,4,-15,unicartagena.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,,,
+200.91.233.66,4,8,unicolmayor.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,Atlántico,,Barranquilla
+157.137.238.165,4,6,upme.gov.co,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,Cota
+149.130.188.125,4,9,utp.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,Cundinamarca,,Cota

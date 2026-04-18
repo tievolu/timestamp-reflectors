@@ -1,3 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-161.49.226.52,4,3740,DNS Server: 161.49.226.52.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Nueva Ecija,Lupao
-103.39.146.180,4,276,Ookla Speedtest Server 61996: queb-speedtest.adscabletv.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Nueva Ecija,Muñoz
+122.52.221.250,4,24598744,DNS Server: 122.52.221.250.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Nueva Ecija,Cabanatuan City
+138.84.65.245,4,12705,Ookla Speedtest Server 13771: sane-jaen.sharknet.ph,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Nueva Ecija,San Antonio
+103.39.146.180,4,-17,Ookla Speedtest Server 61996: queb-speedtest.adscabletv.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Nueva Ecija,Science City of Muñoz
+180.191.22.183,4,-40006,Ookla Speedtest Server 65215: f0270e5d9408.sn.mynetname.net,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Nueva Ecija,Cabanatuan City

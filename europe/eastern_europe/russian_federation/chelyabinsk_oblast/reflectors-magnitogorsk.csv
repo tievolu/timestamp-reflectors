@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-185.199.11.207,4,12331,Ookla Speedtest Server 5206: st.freedom1.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Magnitogorsk
+109.195.209.136,4,-3,DNS Server: 109x195x209x136.static-business.mgn.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Magnitogorsk
+80.244.39.50,4,12197,DNS Server: clients39-mgn-50.freedom1.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Magnitogorsk
+109.195.208.230,4,21,Ookla Speedtest Server 2699: speedtest.mgn.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Magnitogorsk
+185.199.11.207,4,11,Ookla Speedtest Server 5206: st.freedom1.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Magnitogorsk

@@ -1,7 +1,11 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 89.40.146.149,4,6,cenzi.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Torun
-46.171.249.23,4,118,DNS Server: pjp23.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Torun
-158.75.64.90,4,7,kangur-mat.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Torun
-89.40.146.237,4,31,mir.gov.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Torun
-89.40.145.239,4,19,stonestudio.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Torun
-158.75.1.96,4,1,umk.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Torun
+95.160.31.73,4,22864,DNS Server: 095160031073.business.static.vectranet.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Torun
+83.16.181.78,4,0,DNS Server: agz78.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Torun
+158.75.1.57,4,-7,eduroam.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Torun
+89.40.145.239,4,-7,gdpr.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Torun
+158.75.64.90,4,-3,kangur-mat.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Torun
+89.40.146.237,4,38,mir.gov.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Torun
+217.173.176.19,4,11654,Ookla Speedtest Server 11305: speedtest1.tvk.torun.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Torun
+158.75.35.16,4,8,torun.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Torun
+158.75.1.96,4,9,umk.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Torun

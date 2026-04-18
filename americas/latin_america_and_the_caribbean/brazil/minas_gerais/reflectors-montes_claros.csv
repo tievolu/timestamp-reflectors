@@ -1,13 +1,21 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-177.130.140.23,4,29,DNS Server: 177-130-140-23.mcl-fb.mastercabo.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
-187.44.1.143,4,8,DNS Server: 187-44-1-143.mcl-fb.mastercabo.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
-187.44.4.71,4,-35617145,DNS Server: 187-44-4-71.mcl-fb.mastercabo.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
-191.240.96.1,4,3,DNS Server: 191-240-96-1.prs-wr.mastercabo.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
-177.36.201.88,4,25597,DNS Server: customer-177-36-201-88.conectv.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
-168.121.8.158,4,42383,Ookla Speedtest Server: giganet.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
-177.10.144.103,4,311,Ookla Speedtest Server: speedtest-mcl.plim.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
-177.190.145.201,4,287,Ookla Speedtest Server: speedtestmc.mknetwork.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
-177.85.232.26,4,0,Ookla Speedtest Server: speedvox-mcl01.voxconexao.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
-131.0.140.244,4,51115,Ookla Speedtest Server: teste.mgnetmoc.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
-45.165.16.23,4,149,Ookla Speedtest Server: teste.netmaisnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
-192.145.204.253,4,67392,Ookla Speedtest Server: teste.vibconexao.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
+177.101.40.224,4,236,DNS Server: 177-101-40-224.clientes.microtellinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
+177.130.189.216,4,-965764322,DNS Server: 177-130-189-216.mcl-fb.mastercabo.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
+187.44.0.18,4,-18,DNS Server: 187-44-0-18.mcl.mastercabo.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
+187.44.4.71,4,-284271977,DNS Server: 187-44-4-71.mcl-fb.mastercabo.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
+191.30.24.1,4,10,DNS Server: 191.30.24.1.static.gvt.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
+177.36.201.88,4,23390,DNS Server: customer-177-36-201-88.conectv.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
+200.131.173.201,4,15,ifsuldeminas.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
+177.10.144.103,4,-52,Ookla Speedtest Server 2531: speedtest-mcl.plim.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
+177.85.232.26,4,2,Ookla Speedtest Server 18690: speedvox-mcl01.voxconexao.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
+45.165.16.23,4,14,Ookla Speedtest Server 24311: teste.netmaisnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
+177.73.169.211,4,-8,Ookla Speedtest Server 40928: sp1.provedornetfacil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
+177.73.169.212,4,5,Ookla Speedtest Server 41971: sp2.provedornetfacil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
+131.0.140.244,4,1037184,Ookla Speedtest Server 49689: teste.mgnetmoc.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
+187.44.0.15,4,11,Ookla Speedtest Server 68409: vel-moc.soumaster.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
+45.186.1.5,4,-13,Ookla Speedtest Server 68942: teste10ge.mknet-fibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
+177.137.26.130,4,-15,Ookla Speedtest Server 70679: speedavgnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
+138.0.132.245,4,0,Ookla Speedtest Server 73798: speedgiga.giganetmoc.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
+177.73.168.135,4,-145,Ookla Speedtest Server 74359: clicknetmoc.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
+200.131.252.174,4,13,ufvjm.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
+200.131.252.165,4,1320,ufvjm.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros

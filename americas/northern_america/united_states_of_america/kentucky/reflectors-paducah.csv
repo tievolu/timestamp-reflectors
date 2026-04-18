@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-207.162.163.209,4,3,vci.net,US,Americas,Northern America,United States of America,Kentucky,,Paducah
+209.156.141.70,4,-2,DNS Server: 209-156-141-70.ip.mcleodusa.net,US,Americas,Northern America,United States of America,Kentucky,,Paducah
+207.162.163.209,4,-8,etelonline.com,US,Americas,Northern America,United States of America,Kentucky,,Paducah
+199.36.135.36,4,-4,Ookla Speedtest Server 7684: speedtest.ppsfibernet.com,US,Americas,Northern America,United States of America,Kentucky,,Paducah

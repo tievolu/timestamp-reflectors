@@ -1,4 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-189.244.93.81,4,150,DNS Server: dsl-189-244-93-81-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Torreón
-187.190.126.66,4,380,Ookla Speedtest Server 50633: torreon.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Torreón
-189.199.226.14,4,1163,panoramainmobiliario.co,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Torreón
+177.229.198.250,4,446,circusbowl.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Torreón
+201.132.200.114,4,4,Ookla Speedtest Server 3547: speedtest.torreon.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Torreón
+187.190.126.66,4,-2,Ookla Speedtest Server 50633: torreon.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Torreón
+201.132.200.116,4,0,Ookla Speedtest Server 64127: speedtest.gpa.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Torreón

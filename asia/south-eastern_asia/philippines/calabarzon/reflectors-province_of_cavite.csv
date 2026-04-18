@@ -1,14 +1,20 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-103.252.35.170,4,7780,aiias.edu,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Imus
-122.55.6.151,4,66993,dbp.ph,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Dasmariñas
-122.2.207.185,4,-23340992,DNS Server: 122.2.207.185.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Bacoor
-122.3.232.38,4,-26866068,DNS Server: 122.3.232.38.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Dasmariñas
-122.55.236.166,4,-4258017123,DNS Server: 122.55.236.166.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Cavite City
-122.55.242.166,4,-4239284842,DNS Server: 122.55.242.166.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Cavite City
-122.55.242.174,4,-40829425,DNS Server: 122.55.242.174.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Cavite City
-122.55.246.153,4,-53828843,DNS Server: 122.55.246.153.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Cavite City
-210.213.213.206,4,-57195,DNS Server: 210.213.213.206.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Silang
-210.213.218.169,4,19671669,DNS Server: 210.213.218.169.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Silang
-210.213.218.233,4,-16171883,DNS Server: 210.213.218.233.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Silang
-210.213.223.17,4,-21938800,DNS Server: 210.213.223.17.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Silang
-122.49.209.68,4,3040346,DNS Server: ns2.wificity.com.ph,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Cavite City
+203.177.183.195,4,-3,aiias.edu,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Silang
+122.53.95.126,4,6829086,DNS Server: 122.53.95.126.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Bacoor City
+210.5.101.242,4,71071026,DNS Server: 210.5.101.242.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Imus
+210.5.111.178,4,57373277,DNS Server: 210.5.111.178.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Imus
+210.5.125.6,4,14162570,DNS Server: 210.5.125.6.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Imus
+210.5.98.130,4,36847946,DNS Server: 210.5.98.130.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Imus
+210.5.98.46,4,-4183169982,DNS Server: 210.5.98.46.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Imus
+103.91.140.25,4,17,Ookla Speedtest Server 27979: speedtest.dascacable.com,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Dasmariñas
+136.158.20.22,4,11,Ookla Speedtest Server 36736: brc-spdtst-srv.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Imus
+103.149.36.23,4,2,Ookla Speedtest Server 38280: speedtest.meridianfiberblaze.com,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Imus
+103.66.142.23,4,2,Ookla Speedtest Server 64627: speedtest.infinitybroadband.ph,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,General Trias
+103.183.192.23,4,-37,Ookla Speedtest Server 65244: speedtest.spectrumfiberblaze.com,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Silang
+160.191.38.254,4,14,Ookla Speedtest Server 68857: speedtest.air-fiber.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Tanza
+131.226.92.164,4,931208,Ookla Speedtest Server 68882: speedtestco3s5.dito.ph,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Carmona
+160.30.166.3,4,21,Ookla Speedtest Server 68928: speedtest.alefiber.com,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Bacoor
+124.6.190.14,4,57926754,Ookla Speedtest Server 71181: hyperbytesnds.site,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Bacoor
+160.30.68.29,4,14,Ookla Speedtest Server 71270: bacoor-speedtest.dnsfibersolution.com,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Bacoor
+144.79.92.254,4,-19,Ookla Speedtest Server 73344: speedtest.powerlink.ph,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Naic
+160.30.68.19,4,19,Ookla Speedtest Server 74098: mn2-speedtest.dnsfibersolution.com,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Cavite,Bacoor

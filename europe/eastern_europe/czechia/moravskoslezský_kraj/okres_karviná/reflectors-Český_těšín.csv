@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-78.157.167.57,4,24,tdituning.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Okres Karviná,Český Těšín
+78.157.162.147,4,-2,DNS Server: 78-157-162-147-static.silesnet.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Okres Karviná,Český Těšín
+78.157.165.21,4,-76,DNS Server: 78-157-165-21-static.silesnet.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Okres Karviná,Český Těšín
+78.157.167.57,4,-23,tdi-tuning.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Okres Karviná,Český Těšín

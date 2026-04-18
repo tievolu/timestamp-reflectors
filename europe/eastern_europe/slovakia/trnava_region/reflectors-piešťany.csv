@@ -1,2 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-185.152.196.106,4,6,kellysbike.com,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Piešťany
+185.152.196.106,4,-16,kellysbike.com,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Piešťany
+62.168.94.163,4,-2,krestannavidieku.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Piešťany
+185.152.196.10,4,5,Ookla Speedtest Server 4983: speedtest.lombard.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Piešťany
+62.168.94.212,4,13,tkkbs.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Piešťany
+62.168.94.182,4,11,tvlux.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Piešťany

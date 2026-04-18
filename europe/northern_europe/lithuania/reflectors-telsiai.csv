@@ -1,2 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-46.36.66.66,4,-12556,kli.lt,LT,Europe,Northern Europe,Lithuania,Telsiai,Mažeikiai District Municipality,Mažeikiai
+46.36.66.34,4,-11,besmegeniai.lt,LT,Europe,Northern Europe,Lithuania,Telsiai,Mažeikiai District Municipality,Mažeikiai
+82.135.197.108,4,-51221,DNS Server: 82-135-197-108.static.zebra.lt,LT,Europe,Northern Europe,Lithuania,Telsiai,Telšiai District Municipality,Telšiai
+46.36.70.39,4,2,DNS Server: mail.tavopastoge.lt,LT,Europe,Northern Europe,Lithuania,Telsiai,Mažeikiai District Municipality,Mažeikiai
+46.36.66.66,4,-4797,kli.lt,LT,Europe,Northern Europe,Lithuania,Telsiai,Mažeikiai District Municipality,Mažeikiai
+46.36.66.58,4,1424472,Ookla Speedtest Server 12638: sp1.kli.lt,LT,Europe,Northern Europe,Lithuania,Telsiai,Mažeikiai District Municipality,Mažeikiai

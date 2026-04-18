@@ -1,61 +1,169 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 103.142.21.66,4,-10,banktapeunadana.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
-103.165.43.10,4,57298,DNS Server: 10.43.165.103.net.iforte.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
-103.105.55.101,4,41,DNS Server: 103-105-55-101.megadata.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
-114.7.120.14,4,88,DNS Server: 114-7-120-14.resources.indosat.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
-103.148.24.35,4,12,DNS Server: host-103-148-24-35.menaksopal.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Trenggalek
-103.129.92.33,4,64,DNS Server: host-92-129-104-33.myrepublic.co.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
-103.175.237.3,4,-7999,DNS Server: ip.3-237.marvatel.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
-103.175.237.47,4,138,DNS Server: ip.47-237.marvatel.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
-89.213.211.226,4,-6,fohmint.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
-89.213.211.215,4,2,lolasix.info,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
-139.228.39.18,4,264,Ookla Speedtest Server 4802: sby-speedtest.link.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
-103.169.9.8,4,209,Ookla Speedtest Server 15800: speedtest.jansae.net,ID,Asia,South-eastern Asia,Indonesia,East Java,,Ngawi
+103.155.246.69,4,0,DNS Server: amn-246-69.amanna.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Sukoharjo
+202.6.235.131,4,-1193,karuniamedicalclinic.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+178.83.188.195,4,-18,nusantaraglobal.ac.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+139.228.39.18,4,34,Ookla Speedtest Server 4802: sby-speedtest.link.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+203.89.31.138,4,20,Ookla Speedtest Server 4958: spd-sub.datautama.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+160.22.217.10,4,-8,Ookla Speedtest Server 12754: speedtest.lintasmediasolusindo.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
+103.209.250.82,4,31,Ookla Speedtest Server 13210: speedtestsby.yesnet.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.163.13.98,4,-4,Ookla Speedtest Server 14069: speedtest.simtel.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Bojonegoro
 103.124.137.169,4,-4763,Ookla Speedtest Server 16360: kediri.cellolink.my.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Kediri
-103.19.56.6,4,281,Ookla Speedtest Server 21296: speedtest.bitsnet.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Ngawi
-103.183.99.30,4,320,Ookla Speedtest Server 39085: speedtest.lexxadata.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Tulungagung
-103.172.1.26,4,274,Ookla Speedtest Server 48457: speedtest.cubiespot.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Pasuruan
-103.172.196.66,4,282919,Ookla Speedtest Server 48473: speedtest.csnet.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Banyuwangi
-103.180.118.19,4,247,Ookla Speedtest Server 52674: speedtest.perekonomian.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Gresik
-103.105.76.71,4,283,Ookla Speedtest Server 53038: speedtest07.garuda.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Kediri
-103.175.236.211,4,183,Ookla Speedtest Server 54182: speedtest-jkt.marvatel.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
-103.20.91.130,4,213,Ookla Speedtest Server 55755: sp02-sby.cloudraya.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
-203.29.26.18,4,109,Ookla Speedtest Server 55776: ookla.javahome.co.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Jember
-103.46.11.2,4,205,Ookla Speedtest Server 55819: speedmlg.ldp.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
-103.179.217.14,4,555,Ookla Speedtest Server 57415: speedtestsby.ldm.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
-103.220.22.42,4,301,Ookla Speedtest Server 58272: estt.fazanetwork.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
-202.6.233.140,4,407,Ookla Speedtest Server 58395: speedtest-sby.padinet.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
-103.169.9.52,4,341,Ookla Speedtest Server 58785: speedtest.takalink.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Ngawi
-103.184.19.49,4,-455,Ookla Speedtest Server 59770: speedup.dasarata.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
-103.162.205.158,4,399,Ookla Speedtest Server 60169: speedtest-psr.jiex.co.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Pasuruan
-103.228.246.27,4,222814,Ookla Speedtest Server 60486: speedtest.gpm-madiun.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Ponorogo
-103.147.73.251,4,332,Ookla Speedtest Server 61398: blitar-speedtest.alfatindo.co.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Kediri
-103.166.10.163,4,362,Ookla Speedtest Server 61450: speedtest.kgwifi.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Kediri
-103.144.18.11,4,324,Ookla Speedtest Server 61910: speedtest-jember.gasatek.co.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Jember
-103.215.229.29,4,182,Ookla Speedtest Server 62263: speedtest-sub.herzacloud.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
-103.158.250.103,4,231,Ookla Speedtest Server 62568: blitar.vcd.my.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Tulungagung
-103.160.148.178,4,243,Ookla Speedtest Server 62795: jbbspeedtest.arsenet.co.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Jember
-103.180.118.61,4,-195602,Ookla Speedtest Server 62910: lamongan.persadanetwork.my.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Gresik
-103.153.190.19,4,233,Ookla Speedtest Server 63187: speedtest-jkt.winet.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Jember
-103.174.66.35,4,63381,Ookla Speedtest Server 63219: speedtest.sby.act.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
-103.186.212.9,4,241,Ookla Speedtest Server 63456: speedtest.laros.ae,ID,Asia,South-eastern Asia,Indonesia,East Java,,Banyuwangi
-103.170.97.34,4,270,Ookla Speedtest Server 63509: ookla.globaldataaksespersada.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Pasuruan
-49.156.20.74,4,-84616,Ookla Speedtest Server 63839: speedtest5.palapa.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Banyuwangi
-103.227.186.37,4,275,Ookla Speedtest Server 63849: speedtest.beenetcom.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Banyuwangi
-103.235.153.83,4,343,Ookla Speedtest Server 64378: ookla-sby.maxindo.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
-175.111.96.127,4,-54134,Ookla Speedtest Server 64768: speedtest.wifipedia.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Banyuwangi
-103.111.118.130,4,266,Ookla Speedtest Server: ookla.upaz.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Tulungagung
-114.198.244.110,4,11,Ookla Speedtest Server: speedtestkdr.sdi.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Kediri
-103.189.121.34,4,136,Ookla Speedtest Server: sptmdn.dbn.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Ponorogo
-125.163.137.176,4,137,Ookla Speedtest Server: test.yapsidarussalam.or.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
-103.148.25.234,4,7,Ookla Speedtest Server: trenggalek.menaksopal.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Trenggalek
-89.213.211.250,4,34,parre.org,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
-89.213.211.210,4,18,restaurantlacassoleta.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
-202.148.12.230,4,19,tac.link,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
-175.45.184.69,4,16,ub.ac.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
-103.17.76.3,4,3,uin-malang.ac.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
-103.211.49.132,4,15,uinsby.ac.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Sidoarjo
-36.92.193.60,4,-301,ulb.ac.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Gresik
-210.57.208.253,4,12,unair.ac.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
-103.165.209.227,4,9,unikama.ac.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
-36.92.135.60,4,47390,unsiq.ac.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Tuban Timur
+117.18.20.26,4,-83289,Ookla Speedtest Server 16480: surabaya.databuana.my.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.232.20.114,4,19,Ookla Speedtest Server 18088: speedtest1.tenetindo.net,ID,Asia,South-eastern Asia,Indonesia,East Java,,Pasuruan
+115.178.181.201,4,0,Ookla Speedtest Server 23161: sby1-speedtest.smartfren.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.53.76.25,4,2,Ookla Speedtest Server 25898: speedtest-sby.inti.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+182.23.98.58,4,10,Ookla Speedtest Server 31188: speedtest-eir.idola.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.88.171.238,4,-5,Ookla Speedtest Server 36502: v92.faznet.co.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+114.5.9.166,4,-30358,Ookla Speedtest Server 36699: speedtest2.indosatooredoo.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+114.5.9.162,4,-2977113,Ookla Speedtest Server 36700: speedtest3.indosatooredoo.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+202.65.123.22,4,8,Ookla Speedtest Server 36813: speedtest2.solo.citra.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Sukoharjo
+103.88.169.222,4,14,Ookla Speedtest Server 37186: v93.faznet.co.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+154.47.151.237,4,307183,Ookla Speedtest Server 37697: v95.faznet.co.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.159.96.46,4,9,Ookla Speedtest Server 38615: speedtestbwy.myriseid.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Banyuwangi
+202.6.229.10,4,1,Ookla Speedtest Server 40010: speedtest-jkt.padinet.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.158.13.143,4,8,Ookla Speedtest Server 42490: gmdpspeedtest.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Bojonegoro
+103.124.138.26,4,52395,Ookla Speedtest Server 42491: speedtest-kediri.gmdp.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Kediri
+103.15.214.15,4,-3,Ookla Speedtest Server 45450: speedtest-gresik.nusantara.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Gresik
+158.140.186.73,4,-18,Ookla Speedtest Server 46071: speedtest.malang.myrepublic.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
+158.140.186.79,4,2047989,Ookla Speedtest Server 46091: speedtest.surabaya.myrepublic.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.166.125.66,4,5,Ookla Speedtest Server 47064: speedtest-tuban.lhost.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Kabupaten Tuban
+103.106.219.38,4,-4,Ookla Speedtest Server 47122: speedtest.aldm.link,ID,Asia,South-eastern Asia,Indonesia,East Java,,Pasuruan
+157.66.174.242,4,41,Ookla Speedtest Server 48198: oklamjkt.winartha.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Mojokerto
+103.124.138.165,4,5,Ookla Speedtest Server 51220: speedtest-gresik.gmdp.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Gresik
+103.189.121.34,4,16,Ookla Speedtest Server 53594: sptmdn.dbn.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Madiun
+103.182.52.186,4,-22,Ookla Speedtest Server 54664: speedtest.gonethome.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Lumajang
+202.57.27.116,4,-73,Ookla Speedtest Server 54959: bwi-speedtest.wahyuadidaya.co.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Banyuwangi
+103.191.217.8,4,-20,Ookla Speedtest Server 55129: speedtestsby.vnt.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.20.91.130,4,0,Ookla Speedtest Server 55755: sp02-sby.cloudraya.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+203.29.26.18,4,8,Ookla Speedtest Server 55776: ookla.javahome.co.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Jember
+103.154.231.18,4,20079,Ookla Speedtest Server 56693: speedtestlmg.dmt.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Lamongan
+114.198.244.110,4,22,Ookla Speedtest Server 56706: speedtestkdr.sdi.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Kediri
+103.179.217.14,4,1274,Ookla Speedtest Server 57415: speedtestsby.ldm.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.155.190.66,4,-11,Ookla Speedtest Server 57560: tuban.trisuladata.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Tuban
+103.169.255.157,4,-39,Ookla Speedtest Server 57863: speedtestbwx.masterstar.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Banyuwangi
+160.25.245.2,4,21,Ookla Speedtest Server 58207: speed.jaringankita.my.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Ngawi
+202.6.233.140,4,6,Ookla Speedtest Server 58395: speedtest-sby.padinet.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.177.106.76,4,-9,Ookla Speedtest Server 58419: spd1.dataartasedaya.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Ngawi
+103.155.198.245,4,36,Ookla Speedtest Server 59347: speedtest.lintashome.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Batu
+103.183.10.100,4,10,Ookla Speedtest Server 59369: speedtest.fiberplus.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Madiun
+103.80.81.181,4,45,Ookla Speedtest Server 59527: riznetwork.jsn-lmg.my.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Lamongan
+103.44.19.25,4,-32,Ookla Speedtest Server 59650: ookla.intimedia.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Sidoarjo
+103.171.245.6,4,0,Ookla Speedtest Server 59720: spd11.amandanetworks.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Ngawi
+210.79.142.142,4,-20,Ookla Speedtest Server 60058: speedtest.t-agung.gayatri.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Tulungagung
+103.155.190.67,4,-19,Ookla Speedtest Server 60585: speed.trisuladata.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Blitar
+103.155.190.68,4,3,Ookla Speedtest Server 61163: nganjuk.trisuladata.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Nganjuk
+112.215.223.4,4,15,Ookla Speedtest Server 61853: speedtest-sby.xl.co.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.155.191.137,4,-10,Ookla Speedtest Server 61870: tulungagung.trisuladata.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Tulungagung
+157.20.253.60,4,-20273,Ookla Speedtest Server 61908: fdt.gmdp.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Tulungagung
+103.186.92.66,4,11,Ookla Speedtest Server 62144: speed-gsk.gis.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Gresik
+103.155.246.222,4,5,Ookla Speedtest Server 62249: speedtest-skh.amanna.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Sukoharjo
+103.215.229.29,4,1,Ookla Speedtest Server 62263: speedtest-sub.herzacloud.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.148.19.18,4,-4,Ookla Speedtest Server 62576: speedtest.lilly.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
+103.148.19.19,4,-9,Ookla Speedtest Server 62577: speedtest.rtrw.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
+182.253.188.154,4,9273,Ookla Speedtest Server 63021: tkjspeed.smkn2kediri.sch.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Kediri
+103.153.190.19,4,-2,Ookla Speedtest Server 63187: speedtest-jkt.winet.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Jember
+157.20.157.147,4,6,Ookla Speedtest Server 63466: speedtest.ismayadjati.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Madiun
+103.227.186.37,4,5,Ookla Speedtest Server 63849: speedtest.beenetcom.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Banyuwangi
+103.80.82.196,4,39,Ookla Speedtest Server 63943: speedtest.intiselarasnusantara.my.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Ponorogo
+103.242.104.117,4,45,Ookla Speedtest Server 63945: manyar.lintasnet.my.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Gresik
+103.235.153.83,4,40,Ookla Speedtest Server 64378: ookla-sby.maxindo.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.60.88.83,4,18,Ookla Speedtest Server 64449: mlg.si-evo.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
+103.60.88.98,4,9,Ookla Speedtest Server 64504: speedtest.si-evo.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Lamongan
+103.161.195.82,4,28487,Ookla Speedtest Server 64614: malang.skarnet.my.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
+103.189.250.58,4,9,Ookla Speedtest Server 64662: pljn.pandawalimo.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Banyuwangi
+103.60.88.203,4,7,Ookla Speedtest Server 64719: tuban.si-evo.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Tuban
+175.111.96.127,4,-47516,Ookla Speedtest Server 64768: speedtest.wifipedia.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Banyuwangi
+103.68.213.254,4,123,Ookla Speedtest Server 64806: ozi.mdnet.co.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
+103.203.233.20,4,1,Ookla Speedtest Server 64926: speedtest.intidataguna.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
+157.15.0.176,4,14,Ookla Speedtest Server 65256: speedtest-dmnet.ngw.my.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Ngawi
+49.0.26.235,4,-10,Ookla Speedtest Server 65345: speedtest.desadigitalmandiri.net,ID,Asia,South-eastern Asia,Indonesia,East Java,,Tuban
+103.189.254.25,4,-2,Ookla Speedtest Server 65366: speedtest.lintasdaya.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.247.120.135,4,8,Ookla Speedtest Server 65446: speedtest.rsudps.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.155.191.134,4,3,Ookla Speedtest Server 66248: kediri.trisuladata.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Kediri
+103.106.216.170,4,6,Ookla Speedtest Server 66880: speedtest.lmg.juos.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Gresik
+157.20.252.251,4,7,Ookla Speedtest Server 67366: ookla-lmg.gmdp.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Lamongan
+103.156.71.226,4,-6,Ookla Speedtest Server 67503: test.o-net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Banyuwangi
+103.108.20.202,4,13,Ookla Speedtest Server 67938: speed-mlg-01.ioh.co.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
+163.61.55.249,4,21,Ookla Speedtest Server 68062: speedtest.infinity-isp.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Probolinggo
+163.61.55.101,4,7,Ookla Speedtest Server 68264: speedtest.satujaringan.my.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Probolinggo
+103.148.19.20,4,-4,Ookla Speedtest Server 68379: speedtest1.lilly.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
+157.15.212.1,4,10,Ookla Speedtest Server 68401: mrtg.netgpusat.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.187.226.219,4,3,Ookla Speedtest Server 68454: speedtest-pnrg.bintangnusantara.co.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Ponorogo
+157.15.67.247,4,-2,Ookla Speedtest Server 68649: ooklaserver.trimitra.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Tulungagung
+103.83.0.252,4,1,Ookla Speedtest Server 68650: speedtest.kiaakses.co.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Lamongan
+103.150.45.235,4,-4,Ookla Speedtest Server 68739: flash.gwk.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Jember
+157.15.82.205,4,-2,Ookla Speedtest Server 68740: speedtest-gresik.8bit.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Gresik
+43.245.185.250,4,-3,Ookla Speedtest Server 68767: speedtest-sby.gmedia.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.165.35.30,4,65274,Ookla Speedtest Server 68791: speedtest.smkislam1blitar.sch.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Blitar
+160.25.196.253,4,4,Ookla Speedtest Server 68810: speedtest.myrnet.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Bojonegoro
+160.22.217.91,4,10326,Ookla Speedtest Server 68948: qudsinet-test.lintasmedia.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
+202.154.36.21,4,-11,Ookla Speedtest Server 69064: speedtest.corp.gayatri.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.155.190.76,4,-7,Ookla Speedtest Server 69081: surabaya.trisuladata.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.183.99.94,4,-4,Ookla Speedtest Server 69087: speedtest.sby.lexxadata.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.144.146.51,4,-10,Ookla Speedtest Server 69088: speedtest.tag.lexxadata.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Tulungagung
+157.66.1.254,4,6,Ookla Speedtest Server 69114: ookla.zigma.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
+117.18.16.37,4,84992,Ookla Speedtest Server 69506: speedtest.gopal.my.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Jombang
+117.18.16.33,4,36,Ookla Speedtest Server 69520: jombang.gopalnet.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Jombang
+103.220.22.99,4,-6,Ookla Speedtest Server 69669: speedtest.gresik.gayatri.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.220.22.101,4,-2,Ookla Speedtest Server 69689: speedtest.lamongan.gayatri.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.177.10.49,4,10,Ookla Speedtest Server 69780: spidtestkdr.nalendra.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Kediri
+103.159.96.220,4,8,Ookla Speedtest Server 69783: speedtestmdn.myriseid.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Madiun
+103.137.110.5,4,1,Ookla Speedtest Server 70014: speedtest.cdn.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+160.25.245.3,4,-13,Ookla Speedtest Server 70108: speed.majumapan.info,ID,Asia,South-eastern Asia,Indonesia,East Java,,Ngawi
+103.80.214.107,4,-19,Ookla Speedtest Server 70219: speedtest.krajannet.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Sidoarjo
+103.71.162.138,4,-48361,Ookla Speedtest Server 70510: test.ganeshatransjaya.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Trenggalek
+103.183.99.42,4,0,Ookla Speedtest Server 70530: member.lexxadata.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.183.99.186,4,-14,Ookla Speedtest Server 70532: speedtest.suryanetwork.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.156.141.101,4,10,Ookla Speedtest Server 70613: speedtest.tekling.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Jember
+119.2.47.249,4,3,Ookla Speedtest Server 70614: speedtest-sby.laxo.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.131.19.37,4,-17820,Ookla Speedtest Server 70658: ookla-jombang.gmdp.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Jombang
+103.169.188.20,4,-3,Ookla Speedtest Server 70836: speedtest.kanebsa.my.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Magetan
+103.171.82.223,4,0,Ookla Speedtest Server 70966: bbt.mni.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Bojonegoro
+103.171.82.217,4,-7,Ookla Speedtest Server 70987: pal.mni.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
+103.122.66.123,4,-18,Ookla Speedtest Server 71126: speedtest.vvipnet.biz.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
+117.18.16.130,4,-16009,Ookla Speedtest Server 71272: lamongan.gopalnet.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Lamongan
+103.254.169.45,4,0,Ookla Speedtest Server 71296: speedtest.jatayu.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.178.21.114,4,2,Ookla Speedtest Server 71328: speedtest3-pucung.tma.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
+165.99.225.129,4,59756,Ookla Speedtest Server 71330: speedtest.fansmediajember.net,ID,Asia,South-eastern Asia,Indonesia,East Java,,Jember
+165.99.225.76,4,50,Ookla Speedtest Server 71345: mlokorejo.fansmediajember.net,ID,Asia,South-eastern Asia,Indonesia,East Java,,Jember
+165.99.202.4,4,-2,Ookla Speedtest Server 71384: ooklaspeedtest.connexa.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Ponorogo
+157.15.62.86,4,-29920,Ookla Speedtest Server 71548: speedtest-tlg.amanisp.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Tulungagung
+165.99.225.131,4,61252952,Ookla Speedtest Server 71556: speedtest.jawara-balung.web.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Jember
+103.55.253.9,4,1,Ookla Speedtest Server 71562: ookla.omda.analogi.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+157.15.62.85,4,-29906,Ookla Speedtest Server 71571: speedtest-tgk.amanisp.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Trenggalek
+157.15.63.99,4,47,Ookla Speedtest Server 71577: speedtest-sby.amanisp.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.232.21.99,4,-8,Ookla Speedtest Server 71611: speedtestnew.bytehome.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Pasuruan
+157.15.63.98,4,38,Ookla Speedtest Server 71666: speedtest-mlg.amanisp.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
+157.15.63.101,4,39,Ookla Speedtest Server 71667: speedtest-sda.amanisp.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
+160.191.192.45,4,9,Ookla Speedtest Server 71835: speedtest.pratista.my.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Bondowoso
+103.86.116.62,4,26464288,Ookla Speedtest Server 71911: ookla-smp.barokah.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Lenteng
+117.18.17.90,4,21,Ookla Speedtest Server 72036: speedtest.kopasaccess.net,ID,Asia,South-eastern Asia,Indonesia,East Java,,Tuban
+103.99.27.35,4,9138,Ookla Speedtest Server 72095: priamalas.my.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Kediri
+103.60.88.117,4,-9,Ookla Speedtest Server 72130: sby.si-evo.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+157.15.44.144,4,9,Ookla Speedtest Server 72238: probolinggo.snt.my.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Probolinggo
+103.158.250.14,4,-8,Ookla Speedtest Server 72248: tulungagung.vissie.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Tulungagung
+157.66.192.47,4,122086,Ookla Speedtest Server 72279: surabaya.alfarizqinet.my.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+49.156.20.174,4,43,Ookla Speedtest Server 72452: speedtest-mojo.palapa.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Mojokerto
+103.211.26.20,4,-7,Ookla Speedtest Server 72501: speedtest.olean.co.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Madiun
+157.66.87.123,4,-28,Ookla Speedtest Server 72572: ookla.surabaya.erkafiber.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+160.25.46.4,4,13,Ookla Speedtest Server 72654: speedtest.adata.co.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Tuban
+103.80.214.136,4,2,Ookla Speedtest Server 72682: speedtest.letsredi.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Sidoarjo
+103.191.55.251,4,10,Ookla Speedtest Server 72707: speedtest.saranalink.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Blitar
+43.252.159.5,4,-5,Ookla Speedtest Server 72945: ookla-sby.blip.co.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+160.22.217.82,4,1,Ookla Speedtest Server 73025: speedtest2.lintasmediasolusindo.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
+103.105.57.87,4,0,Ookla Speedtest Server 73178: malang.speedtest.lambda.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
+139.228.38.2,4,30,Ookla Speedtest Server 73203: sby-speedtest.fast.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.169.10.11,4,22,Ookla Speedtest Server 73552: sby-speedtest.garnet.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+202.58.77.228,4,88141,Ookla Speedtest Server 73591: speedtest1.khasnetwork.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Blitar
+103.144.18.110,4,9,Ookla Speedtest Server 73621: ookla-jember.gasatek.co.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Jember
+103.141.196.68,4,31697,Ookla Speedtest Server 73867: speedtest-sby.marvatel.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+49.156.23.2,4,42,Ookla Speedtest Server 74102: speedtest-sby.palapa.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+202.58.73.6,4,7,Ookla Speedtest Server 74130: ro04.pahlawanldr.co.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+192.88.101.18,4,27,Ookla Speedtest Server 74154: speedtest.bimanetmedianusantara.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Jombang
+103.109.210.41,4,13,poliwangi.ac.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Banyuwangi
+103.142.21.130,4,165,staika.ac.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.142.255.3,4,5,stikes-bhm.ac.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Jombang
+103.142.21.84,4,953,suarangawi.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Surabaya
+103.111.251.59,4,602,untag-sby.ac.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Malang
+103.255.109.151,4,-29,ydsf.org,ID,Asia,South-eastern Asia,Indonesia,East Java,,Sidoarjo

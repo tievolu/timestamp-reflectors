@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-129.97.206.129,4,68,planetmath.org,CA,Americas,Northern America,Canada,Ontario,,Kitchener
+45.62.200.26,4,-67487,DNS Server: panel.cloudatcost.com,CA,Americas,Northern America,Canada,Ontario,,Kitchener
+208.90.96.230,4,-2,Ookla Speedtest Server 1061: speedtest.netflash.net,CA,Americas,Northern America,Canada,Ontario,,Kitchener
+129.97.206.129,4,3,planetmath.org,CA,Americas,Northern America,Canada,Ontario,,Kitchener

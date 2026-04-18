@@ -1,5 +1,25 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-181.209.101.10,4,9350,DNS Server: 10.101.209.181.in-addr.arpa,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Victoria
-190.183.223.98,4,0,fmmail.in,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Pueblo Moreno
-190.57.226.237,4,6,secundaria9rg.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Paraná
+190.183.221.236,4,1,amur.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Paraná
+190.183.221.238,4,1,amur.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Paraná
+190.183.221.237,4,6,amur.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Paraná
+164.163.56.4,4,110921,aukeramuebles.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Paraná
+181.209.101.10,4,-54290,DNS Server: 10.101.209.181.in-addr.arpa,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Victoria
+181.209.105.154,4,11724,DNS Server: 154.105.209.181.in-addr.arpa,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Victoria
+181.209.105.156,4,11724,DNS Server: 156.105.209.181.in-addr.arpa,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Victoria
+181.209.111.170,4,7,DNS Server: 170.111.209.181.in-addr.arpa,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Victoria
+181.209.97.170,4,-4,DNS Server: 170.97.209.181.in-addr.arpa,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Victoria
+181.209.104.203,4,3,DNS Server: 203.104.209.181.in-addr.arpa,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Victoria
+181.209.109.210,4,583,DNS Server: 210.109.209.181.in-addr.arpa,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Victoria
+181.209.104.234,4,8,DNS Server: 234.104.209.181.in-addr.arpa,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Victoria
+181.209.108.3,4,-3,DNS Server: 3.108.209.181.in-addr.arpa,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Victoria
+181.209.100.42,4,-4,DNS Server: 42.100.209.181.in-addr.arpa,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Victoria
+66.128.32.59,4,33,DNS Server: host-59-32-128-66.rev.itelsa.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Chajarí
+170.0.93.67,4,0,DNS Server: host093067.entrerios.net,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Gualeguaychú
+190.183.223.98,4,32,fmmail.in,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Paraná
+190.183.223.59,4,1,justiciachaco.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Paraná
+66.128.32.94,4,-8,Ookla Speedtest Server 30603: srv1.itel.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Chajarí
+45.175.149.18,4,-16,Ookla Speedtest Server 41215: speedtest1.infinet.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Villaguay
+181.209.110.2,4,3,Ookla Speedtest Server 68318: speedtest.eleyce.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Victoria
+190.183.218.25,4,28,trivento.com,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Paraná
 200.61.248.118,4,1,uner.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Concepción del Uruguay
+190.7.19.43,4,1,wearedrew.co,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Paraná

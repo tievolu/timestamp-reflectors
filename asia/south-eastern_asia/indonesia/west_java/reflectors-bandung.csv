@@ -1,17 +1,29 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-111.223.252.151,4,-3,boozet.org,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
-202.146.241.33,4,1,centrin.net.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
-202.150.152.108,4,79062,DNS Server: host108.subnet152.comnet.net.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
-202.150.146.130,4,152,DNS Server: host130.subnet146.comnet.net.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
-202.150.146.133,4,-25199101,DNS Server: host133.subnet146.comnet.net.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
-202.150.153.186,4,102629,DNS Server: host186.subnet153.comnet.net.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
-202.150.155.214,4,10,DNS Server: host214.subnet155.comnet.net.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
-103.151.226.42,4,83,DNS Server: s226-42.urbanaccess.net,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
-103.10.171.230,4,27335,DNS Server: vmw230.transtech.co.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
-103.162.36.14,4,62,onsa-sipilunwim.ac.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
-103.189.110.22,4,2072,Ookla Speedtest Server 58480: ookla.morizt.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
-202.138.224.16,4,6736,Ookla Speedtest Server 58481: speedtest-bdg.melsa.net.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
-103.164.235.250,4,230,Ookla Speedtest Server 63662: tesinternet.bantani.net.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
-103.75.101.58,4,15317,stikesmitrakeluarga.ac.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
-111.223.252.99,4,7,unpad.ac.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
-103.23.244.116,4,4,upi.edu,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+202.150.133.52,4,-213754,DNS Server: 52.subnet133.comnet.net.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+36.91.170.3,4,-3,gbk.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+115.178.186.65,4,5,Ookla Speedtest Server 17316: bdg1-speedtest.smartfren.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+202.146.241.33,4,-11,Ookla Speedtest Server 24921: speedtest2.centrin.net.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+103.19.56.73,4,-31,Ookla Speedtest Server 26770: speedtest-bdg.bitsnet.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+182.23.98.34,4,1,Ookla Speedtest Server 31383: speedtest-bdg.idola.net.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+103.242.104.93,4,36,Ookla Speedtest Server 31925: speedtest1.lintas.net.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+103.242.104.174,4,33,Ookla Speedtest Server 32019: speedtest3.lintas.net.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+103.242.104.86,4,36,Ookla Speedtest Server 32141: speedtest5.lintas.net.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+103.242.104.101,4,34,Ookla Speedtest Server 32223: speedtest4.lintas.net.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+217.217.27.35,4,16,Ookla Speedtest Server 38523: ookla.lancartech.co.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+103.194.173.10,4,0,Ookla Speedtest Server 43124: speedtest.mynet.co.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+103.148.113.13,4,-11,Ookla Speedtest Server 43885: speedtest.sid.net.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+103.19.56.246,4,-10,Ookla Speedtest Server 47829: speedtest-srg.bitsnet.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+103.168.190.42,4,8,Ookla Speedtest Server 48993: speedtest.viberlink.net,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+202.138.224.130,4,187993,Ookla Speedtest Server 58481: speedtest-bdg.melsa.net.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+202.138.224.16,4,188000,Ookla Speedtest Server 58481: speedtest-bdg.melsa.net.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+103.242.106.113,4,255,Ookla Speedtest Server 63945: manyar.lintasnet.my.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+202.57.26.27,4,5,Ookla Speedtest Server 66987: speedtest-bdg.winet.net.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+103.194.173.113,4,64438127,Ookla Speedtest Server 69112: speedtest-bdg.mynet.co.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+38.211.24.251,4,35,Ookla Speedtest Server 70206: speedtest-bdg.dinetkan.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+160.19.165.181,4,28,Ookla Speedtest Server 70791: speedtest.deltanet.co.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+103.73.73.49,4,147830,Ookla Speedtest Server 71082: speedtest.bnet.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+157.20.48.7,4,2,Ookla Speedtest Server 73295: speedtestbbu.nuansateknologi.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+114.122.96.82,4,-17,Ookla Speedtest Server 74395: speedtest.sumedang.telkomsel.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+36.50.219.21,4,-1778,Ookla Speedtest Server 74490: speedtest.fasindomultimedia.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+114.5.194.182,4,28,unespadang.ac.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung
+36.91.189.242,4,7,unigha.ac.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bandung

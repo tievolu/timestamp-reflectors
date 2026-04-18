@@ -1,3 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-103.184.66.110,4,303,Ookla Speedtest Server 56767: pandeglang.siber.net.id,ID,Asia,South-eastern Asia,Indonesia,Banten,,Pandeglang
-103.184.66.115,4,251,Ookla Speedtest Server 56985: panimbang.siber.net.id,ID,Asia,South-eastern Asia,Indonesia,Banten,,Pandeglang
+103.184.66.110,4,36,Ookla Speedtest Server 56767: pandeglang.siber.net.id,ID,Asia,South-eastern Asia,Indonesia,Banten,,Pandeglang
+103.36.8.98,4,4,Ookla Speedtest Server 61223: speedtest-pandeglang.awi.net.id,ID,Asia,South-eastern Asia,Indonesia,Banten,,Pandeglang
+103.36.8.102,4,-3,Ookla Speedtest Server 61228: speedtest12.awi.net.id,ID,Asia,South-eastern Asia,Indonesia,Banten,,Pandeglang
+103.230.81.43,4,1,Ookla Speedtest Server 71317: ookla4.pas.net.id,ID,Asia,South-eastern Asia,Indonesia,Banten,,Pandeglang

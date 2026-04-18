@@ -1,9 +1,7 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-185.53.153.1,4,-31859342,DNS Server: 1.153.53.185.ajc.com.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bielsko-Biala
-185.53.155.245,4,108,DNS Server: 245.155.53.185.ajc.com.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bielsko-Biala
-91.241.32.39,4,11,DNS Server: 91-241-32-39.internet.jettel.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bielsko-Biala
-79.189.52.202,4,35439,DNS Server: ica202.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bielsko-Biala
-91.244.230.115,4,123,DNS Server: ip-91-244-230-115.simant.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bielsko-Biala
-91.244.231.149,4,156,DNS Server: ip-91-244-231-149.simant.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bielsko-Biala
-91.244.231.251,4,485,Ookla Speedtest Server: st1.simant.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bielsko-Biala
-91.244.231.91,4,7,wertui.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bielsko-Biala
+81.15.187.161,4,24438,DNS Server: 161.187.euro-lan.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bielsko-Biala
+91.241.32.39,4,-5,DNS Server: 91-241-32-39.internet.jettel.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bielsko-Biala
+194.33.76.1,4,1,DNS Server: ip-194-33-76-1.static.speed-net.com.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bielsko-Biala
+91.192.196.131,4,-22961,DNS Server: rev196-131.sferanet.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bielsko-Biala
+91.241.32.157,4,-6,Ookla Speedtest Server 71718: speedtestookla.m3.net.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bielsko-Biala
+91.198.94.43,4,-1,Ookla Speedtest Server: test.ajc.com.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bielsko-Biala

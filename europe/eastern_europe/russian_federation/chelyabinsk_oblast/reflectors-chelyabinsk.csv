@@ -1,15 +1,30 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-95.47.161.67,4,12,addons-guru.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+95.47.161.67,4,29,addons-guru.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
 95.47.161.64,4,11,august-chat.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
-37.113.134.195,4,70616,DNS Server: 37x113x134x195.static-business.chel.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
-80.85.153.75,4,24,DNS Server: a1990sh.pserver.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
-195.69.217.130,4,7273,DNS Server: mail.chelsignal.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
-5.79.238.234,4,-3363402912,DNS Server: pool-5-79-238-234.is74.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
-31.40.113.204,4,223,DNS Server: U204-R1.dynamic.miass.multinex.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
-93.170.76.134,4,114,leohd59.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
-95.47.161.42,4,1,letnews.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
-92.43.184.31,4,103,Ookla Speedtest Server 1906: speedtest.mks-chel.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
-95.47.161.37,4,14,peterburg.center,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
-93.170.76.62,4,204,rukodelie-club.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+92.43.187.159,4,-34,autonavigator.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+37.113.134.170,4,17203,DNS Server: 37x113x134x170.static-business.chel.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+37.113.134.195,4,11090,DNS Server: 37x113x134x195.static-business.chel.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+37.113.134.196,4,96567,DNS Server: 37x113x134x196.static-business.chel.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+91.144.135.156,4,52522,DNS Server: 91x144x135x156.static-business.chel.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+91.144.135.81,4,31087,DNS Server: 91x144x135x81.static-business.chel.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+94.181.44.48,4,-7,DNS Server: 94x181x44x48.static-customer.chel.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+95.78.156.108,4,375,DNS Server: 95x78x156x108.static-customer.chel.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+94.181.34.197,4,261484,DNS Server: dynamicip-94-181-34-197.pppoe.chel.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+94.181.35.172,4,2,DNS Server: dynamicip-94-181-35-172.pppoe.chel.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+95.78.144.236,4,-42176231,DNS Server: dynamicip-95-78-144-236.pppoe.chel.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+94.181.44.104,4,2095,DNS Server: home.srg.pp.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+195.69.217.130,4,8988,DNS Server: mail.chelsignal.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+94.181.33.149,4,4,DNS Server: ns.ural.keramir.com,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+5.79.238.234,4,-141929482,DNS Server: pool-5-79-238-234.is74.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+5.79.244.108,4,63545451,DNS Server: pool-5-79-244-108.is74.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+31.40.113.204,4,-11,DNS Server: U204-R1.dynamic.miass.multinex.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+93.170.76.134,4,-3,leohd59.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+91.144.132.88,4,4,Ookla Speedtest Server 2717: speedtest.chel.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+89.31.188.119,4,21,Ookla Speedtest Server 5045: speedtest.chelyabinsk.gldn.net,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+194.186.181.66,4,19,Ookla Speedtest Server 6572: chelyabinsk-speedtest.corbina.net,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+195.69.216.14,4,-11,Ookla Speedtest Server 50488: speedtest0.is-telecom.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+95.47.161.37,4,-7,peterburg.center,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+93.170.76.62,4,-6,rukodelie-club.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
 37.113.131.153,4,-2021076,shininvest.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
+95.47.161.32,4,7,uzcm.ru,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk
 37.113.129.47,4,26,xn--74-6kc3bgx7i.xn--p1ai,RU,Europe,Eastern Europe,Russian Federation,Chelyabinsk Oblast,,Chelyabinsk

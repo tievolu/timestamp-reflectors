@@ -1,46 +1,60 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-216.194.67.5,4,-564975,braillebookstore.com,CA,Americas,Northern America,Canada,Alberta,,Hay Lakes
-204.13.48.143,4,15,brainmaster.com,CA,Americas,Northern America,Canada,Alberta,,Calgary
-64.141.20.67,4,9,caedm.ca,CA,Americas,Northern America,Canada,Alberta,,Edmonton
-207.34.49.200,4,-221,camacdonald.com,CA,Americas,Northern America,Canada,Alberta,,Edmonton
-216.113.194.113,4,1134,chemposite.com,CA,Americas,Northern America,Canada,Alberta,,St. Albert
-66.51.103.239,4,4,civilwarsignals.org,CA,Americas,Northern America,Canada,Alberta,,Sherwood Park
+162.217.233.203,4,-32,acecasinos.ca,CA,Americas,Northern America,Canada,Alberta,,Calgary
+136.159.190.44,4,-2,amateurcinema.org,CA,Americas,Northern America,Canada,Alberta,,Calgary
+216.194.67.5,4,-461251,braillebookstore.com,CA,Americas,Northern America,Canada,Alberta,,Lacombe
+198.161.96.233,4,33,camacdonald.com,CA,Americas,Northern America,Canada,Alberta,,Edmonton
+72.142.145.36,4,6,cbabc.org,CA,Americas,Northern America,Canada,Alberta,,Edmonton
 162.223.224.40,4,1,collegeofdietitians.org,CA,Americas,Northern America,Canada,Alberta,,Calgary
-68.147.177.95,4,262,DNS Server: S01067cad74184961.cg.shawcable.net,CA,Americas,Northern America,Canada,Alberta,,Calgary
-64.71.128.227,4,34,fiberjournal.com,CA,Americas,Northern America,Canada,Alberta,,Cochrane
-146.75.109.91,4,14,gentoo.org,CA,Americas,Northern America,Canada,Alberta,,Calgary
-74.3.176.186,4,3042,gofullframe.com,CA,Americas,Northern America,Canada,Alberta,,Edmonton
-207.34.49.234,4,-35,incentre.net,CA,Americas,Northern America,Canada,Alberta,,Edmonton
-64.71.128.228,4,130,inda.org,CA,Americas,Northern America,Canada,Alberta,,Cochrane
-216.194.64.161,4,30,jhauser.us,CA,Americas,Northern America,Canada,Alberta,,Hay Lakes
-129.128.216.41,4,-5,jhsonline.org,CA,Americas,Northern America,Canada,Alberta,,Edmonton
-216.194.72.3,4,1,karlheinzstockhausen.org,CA,Americas,Northern America,Canada,Alberta,,Sherwood Park
-216.138.192.230,4,11,kinnikinnick.com,CA,Americas,Northern America,Canada,Alberta,,Edmonton
-66.51.97.90,4,31932,lasttrumpetministries.org,CA,Americas,Northern America,Canada,Alberta,,Sherwood Park
-216.194.64.151,4,6,magicalchildhood.com,CA,Americas,Northern America,Canada,Alberta,,Hay Lakes
-66.51.103.203,4,4,marilynmonroe.ca,CA,Americas,Northern America,Canada,Alberta,,Sherwood Park
+216.194.64.151,4,-8,contextmagic.com,CA,Americas,Northern America,Canada,Alberta,,Lacombe
+216.234.165.38,4,3,cruffler.com,CA,Americas,Northern America,Canada,Alberta,,Spruce Grove
+82.197.198.205,4,-3,DNS Server: 82-197-198-205.dsl.cambrium.nl,CA,Americas,Northern America,Canada,Alberta,,Edmonton
+50.65.169.147,4,17021191,DNS Server: S0106000db9480740.ed.shawcable.net,CA,Americas,Northern America,Canada,Alberta,,Edmonton
+23.133.64.121,4,-4,DoH server: dnscry.pt-calgary-ipv4,CA,Americas,Northern America,Canada,Alberta,,Calgary
+198.161.96.232,4,-34,eqtraders.com,CA,Americas,Northern America,Canada,Alberta,,Edmonton
+162.223.224.23,4,11,eralberta.ca,CA,Americas,Northern America,Canada,Alberta,,Calgary
+72.13.188.158,4,5,finkproject.org,CA,Americas,Northern America,Canada,Alberta,,Beaumont
+146.75.109.91,4,0,gentoo.org,CA,Americas,Northern America,Canada,Alberta,,Calgary
+216.234.165.232,4,3,gregbrown.org,CA,Americas,Northern America,Canada,Alberta,,Spruce Grove
+170.39.115.27,4,53,healthyheating.com,CA,Americas,Northern America,Canada,Alberta,,Calgary
+198.161.96.235,4,-27,incentre.net,CA,Americas,Northern America,Canada,Alberta,,Edmonton
+72.142.147.37,4,-9448,inuitcircumpolar.com,CA,Americas,Northern America,Canada,Alberta,,Edmonton
+129.128.216.41,4,-4,jhsonline.org,CA,Americas,Northern America,Canada,Alberta,,Edmonton
+216.194.64.161,4,-44,karlheinzstockhausen.org,CA,Americas,Northern America,Canada,Alberta,,Lacombe
+162.223.224.78,4,-2,lawnow.org,CA,Americas,Northern America,Canada,Alberta,,Calgary
 142.109.1.79,4,-1,mtroyal.ca,CA,Americas,Northern America,Canada,Alberta,,Calgary
-69.10.129.60,4,24,netidea.com,CA,Americas,Northern America,Canada,Alberta,,Whitecourt
 74.118.54.54,4,55,newsadvertiser.com,CA,Americas,Northern America,Canada,Alberta,,Vegreville
 74.200.22.17,4,26,northwestjournal.ca,CA,Americas,Northern America,Canada,Alberta,,Calgary
-96.125.140.80,4,168,Ookla Speedtest Server 17168: west-speedtest.frontiernetworks.ca,CA,Americas,Northern America,Canada,Alberta,,Edmonton
-192.236.12.14,4,6,Ookla Speedtest Server: speedtest01.o-net.ca,CA,Americas,Northern America,Canada,Alberta,,High River
-184.70.180.50,4,-2,openbsdfoundation.org,CA,Americas,Northern America,Canada,Alberta,,Edmonton
-129.128.216.10,4,15,openeducationalberta.ca,CA,Americas,Northern America,Canada,Alberta,,Edmonton
+24.244.63.10,4,-3,Ookla Speedtest Server 4207: speedtest.cg.shawcable.net,CA,Americas,Northern America,Canada,Alberta,,Banff
+24.244.63.14,4,1,Ookla Speedtest Server 4207: speedtest.cg.shawcable.net,CA,Americas,Northern America,Canada,Alberta,,Banff
+24.244.63.34,4,3,Ookla Speedtest Server 4240: speedtest.gv.shawcable.net,CA,Americas,Northern America,Canada,Alberta,,Banff
+24.244.63.38,4,-4,Ookla Speedtest Server 4240: speedtest.gv.shawcable.net,CA,Americas,Northern America,Canada,Alberta,,Banff
+24.244.63.46,4,2,Ookla Speedtest Server 4241: speedtest.ok.shawcable.net,CA,Americas,Northern America,Canada,Alberta,,Banff
+24.244.63.42,4,3,Ookla Speedtest Server 4241: speedtest.ok.shawcable.net,CA,Americas,Northern America,Canada,Alberta,,Banff
+24.244.63.26,4,-10,Ookla Speedtest Server 4242: speedtest.ed.shawcable.net,CA,Americas,Northern America,Canada,Alberta,,Banff
+24.244.63.30,4,3,Ookla Speedtest Server 4242: speedtest.ed.shawcable.net,CA,Americas,Northern America,Canada,Alberta,,Banff
+24.244.63.22,4,7,Ookla Speedtest Server 4244: speedtest.wp.shawcable.net,CA,Americas,Northern America,Canada,Alberta,,Banff
+24.244.63.18,4,8,Ookla Speedtest Server 4244: speedtest.wp.shawcable.net,CA,Americas,Northern America,Canada,Alberta,,Banff
+207.34.77.1,4,6,Ookla Speedtest Server 4392: calgary.speedtest.telus.com,CA,Americas,Northern America,Canada,Alberta,,Calgary
+64.178.156.102,4,8,Ookla Speedtest Server 11640: speedtest-west.eastlink.ca,CA,Americas,Northern America,Canada,Alberta,,Grande Prairie
+209.115.181.110,4,18,Ookla Speedtest Server 15736: speedtest.switch.ca,CA,Americas,Northern America,Canada,Alberta,,Edmonton
+207.34.77.3,4,9,Ookla Speedtest Server 17555: calgary2.speedtest.telus.com,CA,Americas,Northern America,Canada,Alberta,,Calgary
+208.77.198.36,4,281104,Ookla Speedtest Server 22773: speedtest.wolfpaw.net,CA,Americas,Northern America,Canada,Alberta,,Edmonton
+137.83.48.132,4,8,Ookla Speedtest Server 28801: speedtest.itel.com,CA,Americas,Northern America,Canada,Alberta,,Calgary
+192.236.12.14,4,-9,Ookla Speedtest Server 31362: speedtest01.o-net.ca,CA,Americas,Northern America,Canada,Alberta,,Okotoks
+69.168.185.43,4,-2,Ookla Speedtest Server 55080: yyc-speedtest.xplore.ca,CA,Americas,Northern America,Canada,Alberta,,Calgary
+64.227.208.11,4,-482631,Ookla Speedtest Server 60609: speedtest1.cfoc.tech,CA,Americas,Northern America,Canada,Alberta,,Sherwood Park
+104.37.148.72,4,3,Ookla Speedtest Server 69635: ldc01-speedtest.whipcord.com,CA,Americas,Northern America,Canada,Alberta,,Lethbridge
+216.234.161.31,4,-5,Ookla Speedtest Server: speedtest.tera-byte.com,CA,Americas,Northern America,Canada,Alberta,,Spruce Grove
+198.166.139.14,4,20,openbsdfoundation.org,CA,Americas,Northern America,Canada,Alberta,,Calgary
+129.128.216.10,4,1,openeducationalberta.ca,CA,Americas,Northern America,Canada,Alberta,,Edmonton
 24.109.102.114,4,-1052,outdoorsmenforum.ca,CA,Americas,Northern America,Canada,Alberta,,Edmonton
-69.10.129.62,4,0,oxygenhealingtherapies.com,CA,Americas,Northern America,Canada,Alberta,,Whitecourt
-216.113.194.119,4,1118,paoweb.com,CA,Americas,Northern America,Canada,Alberta,,St. Albert
-216.194.69.147,4,2,power-tab.net,CA,Americas,Northern America,Canada,Alberta,,Hay Lakes
-216.194.64.152,4,1,quadibloc.com,CA,Americas,Northern America,Canada,Alberta,,Hay Lakes
-162.223.224.23,4,24,rainbowresourcecentre.org,CA,Americas,Northern America,Canada,Alberta,,Calgary
-162.223.224.20,4,6,sealegacy.org,CA,Americas,Northern America,Canada,Alberta,,Calgary
-204.13.48.101,4,-63072,sequart.org,CA,Americas,Northern America,Canada,Alberta,,Calgary
-74.200.22.16,4,1482,sungreen.net,CA,Americas,Northern America,Canada,Alberta,,Calgary
-74.200.22.14,4,14,thecrosstown.ca,CA,Americas,Northern America,Canada,Alberta,,Calgary
-216.171.233.37,4,30200,thenewswire.com,CA,Americas,Northern America,Canada,Alberta,,Calgary
-216.113.194.241,4,25,tiro.com,CA,Americas,Northern America,Canada,Alberta,,St. Albert
-69.10.135.253,4,18,ultimaterollercoaster.com,CA,Americas,Northern America,Canada,Alberta,,Whitecourt
-69.10.154.200,4,9,ultimatewaterpark.com,CA,Americas,Northern America,Canada,Alberta,,Fort McMurray
-216.113.193.137,4,22,uniserve.ca,CA,Americas,Northern America,Canada,Alberta,,St. Albert
-204.13.48.131,4,64,votenader.org,CA,Americas,Northern America,Canada,Alberta,,Calgary
-72.142.150.137,4,29760,wildsafebc.com,CA,Americas,Northern America,Canada,Alberta,,Edmonton
+216.194.69.129,4,12,power-tab.net,CA,Americas,Northern America,Canada,Alberta,,Lacombe
+184.69.214.34,4,19,practicar.ca,CA,Americas,Northern America,Canada,Alberta,,Calgary
+216.194.64.152,4,4,quadibloc.com,CA,Americas,Northern America,Canada,Alberta,,Lacombe
+162.223.224.20,4,17,sealegacy.org,CA,Americas,Northern America,Canada,Alberta,,Calgary
+216.234.160.207,4,7,spaceports.com,CA,Americas,Northern America,Canada,Alberta,,Spruce Grove
+170.39.115.11,4,16,sungreen.net,CA,Americas,Northern America,Canada,Alberta,,Calgary
+216.234.161.11,4,16,tera-byte.com,CA,Americas,Northern America,Canada,Alberta,,Spruce Grove
+170.39.112.41,4,32,thenewswire.com,CA,Americas,Northern America,Canada,Alberta,,Calgary
+72.142.150.137,4,29760,wildsafebc.com,CA,Americas,Northern America,Canada,Alberta,,Airdrie
+107.190.76.189,4,131,workersofthe.world,CA,Americas,Northern America,Canada,Alberta,,Calgary

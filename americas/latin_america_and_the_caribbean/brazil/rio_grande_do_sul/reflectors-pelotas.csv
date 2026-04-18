@@ -1,5 +1,13 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-187.86.156.95,4,96,DNS Server: ip-187-86-156-95.vetorialnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Pelotas
-191.5.216.134,4,229,Ookla Speedtest Server 23043: speedtest.osirnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Pelotas
+187.86.156.95,4,0,DNS Server: ip-187-86-156-95.vetorialnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Pelotas
+187.86.130.146,4,-13,Ookla Speedtest Server 7627: speedtest.vetorial.net,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Pelotas
+170.238.163.41,4,-5,Ookla Speedtest Server 17537: speedtest.chip7.cc,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Pelotas
+191.5.216.134,4,3,Ookla Speedtest Server 23043: speedtest.osirnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Pelotas
+201.71.48.214,4,-32,Ookla Speedtest Server 41250: speed01.rgsul.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Pelotas
+45.233.135.50,4,-5,Ookla Speedtest Server 43237: velocidade.arealnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Pelotas
+177.129.68.247,4,5,Ookla Speedtest Server 63126: speedtest.localnetpelotas.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Pelotas
+177.87.31.116,4,390692,Ookla Speedtest Server 69924: velocimetro01.wordnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Pelotas
+131.161.119.247,4,-8,Ookla Speedtest Server 71059: speedtest.redesulnet.com,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Pelotas
+45.237.58.12,4,27062,Ookla Speedtest Server 71721: velocimetro.navegarnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Pelotas
+187.86.132.238,4,6,pelotas.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Pelotas
 187.86.132.228,4,2,pelotas.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Pelotas
-200.17.160.80,4,6,ufpel.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Pelotas

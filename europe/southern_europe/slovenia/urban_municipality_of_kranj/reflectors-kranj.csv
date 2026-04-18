@@ -1,0 +1,5 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+84.255.244.10,4,66095,DNS Server: 84-255-244-10.static.t-2.net,SI,Europe,Southern Europe,Slovenia,Urban Municipality of Kranj,,Kranj
+84.255.255.191,4,135051,DNS Server: 84-255-255-191.static.t-2.net,SI,Europe,Southern Europe,Slovenia,Urban Municipality of Kranj,,Kranj
+67.221.248.32,4,12,exit.si,SI,Europe,Southern Europe,Slovenia,Urban Municipality of Kranj,,Kranj
+193.138.63.52,4,-12,hrvaska.net,SI,Europe,Southern Europe,Slovenia,Urban Municipality of Kranj,,Kranj

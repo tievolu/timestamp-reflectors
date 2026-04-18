@@ -1,4 +1,7 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-217.75.213.196,4,38,chomutov.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Chomutov District,Chomutov
-77.48.159.46,4,96930,DNS Server: ip-77-48-159-46.net.vodafone.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Chomutov District,Chomutov
-147.161.26.42,4,38,ipmedia.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Chomutov District,Chomutov
+217.75.213.196,4,-18,chomutov.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Chomutov District,Chomutov
+77.48.159.46,4,170568,DNS Server: ip-77-48-159-46.net.vodafone.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Chomutov District,Jirkov
+78.111.121.102,4,-26563,DNS Server: mail.technoline.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Chomutov District,Chomutov
+91.192.32.80,4,15840,DNS Server: user91-192-32-80.grape.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Chomutov District,Chomutov
+147.161.26.42,4,-70,ipmedia.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Chomutov District,Chomutov
+217.75.208.140,4,9003345,Ookla Speedtest Server 4162: speedtest1.ispalliance.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Chomutov District,Chomutov

@@ -1,342 +1,440 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-90.190.145.137,4,10,1182.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,,Harjumaa
-5.45.112.235,4,4,20th.su,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+90.190.145.137,4,-37,1182.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+5.45.118.133,4,0,1k.com.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+91.199.137.35,4,73,1lib.sk,EE,Europe,Northern Europe,Estonia,,,
+5.45.127.50,4,-9,1xbetlive.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.112.235,4,-2,20th.su,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.4.73.247,4,-3,29-potolok.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.120.156,4,5,4love4you.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.101.115.228,4,5,4x4.media,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.155.96.196,4,71,abook-club.ru,EE,Europe,Northern Europe,Estonia,,,
-5.101.180.147,4,3,abordazh.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-91.193.75.4,4,10,acg.rip,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-5.101.123.224,4,7,agbina-grass.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.155.99.26,4,7,agronews.com,EE,Europe,Northern Europe,Estonia,,,
-46.36.221.208,4,25,airgun.org.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.114.137,4,20,akb02.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.115.228,4,23,4x4.media,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.155.96.196,4,9,abook-club.ru,EE,Europe,Northern Europe,Estonia,,,
+5.101.180.147,4,-5,abordazh.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+194.127.164.6,4,-1,acg.rip,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+185.246.187.58,4,6,advent.ee,EE,Europe,Northern Europe,Estonia,,,
+185.31.92.98,4,18,adverto.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+5.101.123.224,4,-29,agbina.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.124.7,4,4,agro2b.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.155.99.26,4,41,agronews.com,EE,Europe,Northern Europe,Estonia,,,
 5.101.179.198,4,125,alfamotori.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.124.59,4,41,all-smeta.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-159.253.18.123,4,9,allprint.moscow,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.18.123,4,18,allprint.moscow,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 159.253.19.143,4,201,altertravel.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.101.114.138,4,-3,ams-photo-software.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.125.173,4,40,androidis.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.42.170.200,4,72,anduin.net,EE,Europe,Northern Europe,Estonia,,,
-46.36.219.238,4,25,animalmeet.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.114.138,4,-57,ams-photo-software.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.218.48,4,-5,anapa.info,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.219.238,4,-20,animalmeet.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 185.4.75.222,4,29,antor.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.124.161,4,2,apostas-app.com.br,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.18.186,4,13,artonline.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 185.4.73.9,4,4,artonline.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 159.253.19.222,4,89,artsforum.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.219.113,4,9,atlas100.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.219.14,4,8,autodoc24.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.223.163.130,4,51,autogespot.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-46.36.216.232,4,12,autoshcool.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.101.113.60,4,13,avto-blogger.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.219.113,4,-30,atlas100.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.4.73.28,4,7,auto2.info,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.218.184,4,-10,autopik-glass.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 159.253.18.130,4,62,avtoliga.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 159.253.20.226,4,79,avtoportal76.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.4.74.25,4,6,baltimorechronicle.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-176.97.74.26,4,7,bankirs.ru,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-159.253.22.110,4,5,bankomatchik.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.219.243,4,35,barbosu.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+194.204.59.17,4,-6,aw.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+5.101.115.97,4,-5,ayzdorov.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+37.252.4.89,4,-4,b2bslots.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+5.101.121.26,4,-4,banker.az,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.22.110,4,-15,bankomatchik.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 159.253.22.147,4,6,baseus1.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.221.84,4,12,bazamayak.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.221.84,4,0,bazamayak.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 185.86.211.137,4,4,bcforwards.ee,EE,Europe,Northern Europe,Estonia,Pärnumaa,Pärnu linn,Pärnu
+83.172.139.236,4,40,beautyjournaal.nl,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
 5.45.115.165,4,12,berdichev.info,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.120.42,4,39,bitcoin24.su,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-159.253.20.35,4,12,blagovest-info.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-217.146.72.218,4,11,bluemoon.ee,EE,Europe,Northern Europe,Estonia,,,
-185.86.211.138,4,16,bollyn.com,EE,Europe,Northern Europe,Estonia,Pärnumaa,Pärnu linn,Pärnu
-159.253.23.13,4,5,bonbone.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.223.243,4,5,carsinspections.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.216.83,4,7,bibliogorod.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.20.109,4,-5,bikepost.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+176.97.74.26,4,8,biz-alert.ru,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+159.253.20.35,4,-4,blagovest-info.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.218.106,4,39,blessmydress.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+217.146.72.218,4,-8,bluemoon.ee,EE,Europe,Northern Europe,Estonia,,,
+185.86.211.138,4,0,bollyn.com,EE,Europe,Northern Europe,Estonia,Pärnumaa,Pärnu linn,Pärnu
+159.253.23.13,4,34,bonbone.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.124.189,4,127,brilliance-motor.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.181.109,4,40,business-asset.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.216.247,4,-5,byyd.me,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.123.84,4,-19,candy-style.com.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.114.116.39,4,-29,casinoz.biz,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+5.101.176.95,4,42,chastnik.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 46.36.222.59,4,3,china-spec.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.23.33,4,-4,chocolatier.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 159.253.22.254,4,5,cinemotionlab.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 159.253.18.17,4,4,ciranova.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.124.43,4,5,club-kia.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-45.129.96.44,4,5,credo.press,EE,Europe,Northern Europe,Estonia,,,
-185.4.75.141,4,5,cskamoskva.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+45.129.96.44,4,-2,credo.press,EE,Europe,Northern Europe,Estonia,,,
+46.36.216.92,4,-4,crmindex.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.4.75.141,4,46,cskamoskva.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 46.36.217.34,4,2,cuba-tut.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 159.253.18.43,4,3,d-mebela.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-159.253.22.138,4,8,dadaeda.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.22.138,4,-28,dadaeda.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 46.36.218.124,4,36,dancesport.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-109.94.209.211,4,-58763,datalab.com.ua,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-147.45.60.44,4,15,di-nai.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-46.36.216.151,4,32,didrov.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.116.204,4,7,directtravel.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+213.219.93.245,4,-8,datagate.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Rae vald,Rae Parish
+46.36.216.151,4,5,didrov.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+87.236.146.190,4,2,dikidi.app,EE,Europe,Northern Europe,Estonia,,,
 5.101.127.9,4,27,dnr-board.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-91.146.70.24,4,171353,DNS Server: 70024.fill.ee,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Narva linn,Narva
-91.146.86.248,4,67,DNS Server: 86248.fill.ee,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Narva linn,Narva
-195.80.119.99,4,125,DNS Server: ns2.rpz.cert.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-46.226.143.86,4,205,DNS Server: ns3.rpz.cert.ee,EE,Europe,Northern Europe,Estonia,,,
+91.146.70.24,4,34734656,DNS Server: 70024.fill.ee,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Narva linn,Narva
+91.146.86.248,4,-1081704297,DNS Server: 86248.fill.ee,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Narva linn,Narva
+193.109.120.172,4,-3,DNS Server: Kie2dS.ravensgift.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+195.80.119.99,4,-3,DNS Server: ns2.rpz.cert.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+46.226.143.86,4,-1,DNS Server: ns3.rpz.cert.ee,EE,Europe,Northern Europe,Estonia,,,
+87.121.86.63,4,-3,DNS Server: pppoe-87-121-86-63.citybs.net,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+46.36.219.173,4,31438,DNS Server: s97d01d5f.fastvps-server.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.226.143.83,4,-5,DoH server: dns.cert.ee,EE,Europe,Northern Europe,Estonia,,,
+185.194.53.22,4,-4,DoH server: dnscry.pt-tallinn-ipv4,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+185.37.252.146,4,-3,DoH server: ee-tll.doh.sb,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
 46.36.217.37,4,20,dombusin.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.101.176.10,4,5,doorinworld.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.112.118,4,4,dpthemes.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-80.235.77.188,4,13,eantiik.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-46.36.219.165,4,-22,egaist.info,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+80.235.77.188,4,-64,eantiik.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
 185.4.74.204,4,34,eizvestia.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.169.68.29,4,45,ekf.ee,EE,Europe,Northern Europe,Estonia,,,
-185.174.161.236,4,64,eki.ee,EE,Europe,Northern Europe,Estonia,,,
+185.169.68.29,4,1292,ekf.ee,EE,Europe,Northern Europe,Estonia,,,
+185.174.161.236,4,-4,eki.ee,EE,Europe,Northern Europe,Estonia,,,
 5.45.117.64,4,14,ekostil-salon.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.121.183,4,4,elitetrader.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+90.190.150.135,4,-62,ellex.legal,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
 5.101.114.180,4,4,energo-24.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-195.222.16.65,4,15,euroland.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-195.222.16.66,4,6,euroland.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+46.36.220.63,4,195924,eurocredit.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+195.222.16.66,4,-34,euroland.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+195.222.16.65,4,6,euroland.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+5.101.179.190,4,13,eurozaem.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 212.7.4.155,4,-126774,evgeny.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-46.36.222.194,4,5,exbets.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.125.34,4,24,f1comp.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-159.253.22.120,4,4,fcmx.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.125.34,4,17,f1comp.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.123.184,4,6,fapl.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.4.74.27,4,9,fb-killa.pro,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.22.120,4,-10,fcmx.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.121.101,4,13,fialki.su,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.101.179.207,4,26,find-seller.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 159.253.18.37,4,50,forlord.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-159.253.19.132,4,3,forumdate.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.12.236.31,4,26,fotki.com,EE,Europe,Northern Europe,Estonia,Harjumaa,,Harjumaa
-5.101.115.98,4,8,foundico.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.116.223,4,24,free-software.com.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.19.132,4,-1,forumdate.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.12.236.31,4,12,fotki.com,EE,Europe,Northern Europe,Estonia,,,
+5.101.115.98,4,-4,foundico.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.4.73.188,4,-7,fr-od.com.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.119.210,4,-1,free-minigames.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.116.223,4,-26,free-software.com.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.218.236,4,47,freeway.fish,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.101.127.46,4,10,frocus.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.126.217,4,4,fulledu.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-217.146.72.235,4,12370,gamesfort.net,EE,Europe,Northern Europe,Estonia,,,
-46.36.223.121,4,21,garagebiz.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.145.6.206,4,-4,gamershood.com,EE,Europe,Northern Europe,Estonia,Tartu,Tartu linn,Tartu
+46.36.223.121,4,3,garagebiz.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 109.94.209.3,4,47,gazetanv.ru,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
 46.36.223.63,4,14,gemorroya-net.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 109.94.209.115,4,12,gibbynonccev43.top,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
 46.36.223.54,4,23,ginix.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.4.75.239,4,-6,gladpwnz.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 185.4.75.23,4,10,gladpwnz.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+109.94.209.27,4,-22,golosarmenii.am,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
 159.253.18.155,4,99373,goodgame.rs,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.115.171,4,9,gpsmarker.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.223.233,4,38,greets.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.116.14,4,4,h-freed.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-188.92.160.116,4,12,hansawire.eu,EE,Europe,Northern Europe,Estonia,,,
+5.45.116.14,4,-12,h-freed.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+95.47.173.35,4,19,habrastorage.org,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+95.47.173.34,4,84,habrastorage.org,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
 89.235.196.101,4,7,hantik.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-185.31.92.98,4,42,havenk.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-46.36.221.127,4,7,hellomonaco.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.221.127,4,-15,hellomonaco.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+37.252.4.138,4,31,hellspin.app,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+37.252.5.87,4,6,hellspinlogin.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
 5.101.180.52,4,12,hockeyclub.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.217.108,4,38,homeidea.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.117.63,4,4,homemediaserver.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.223.139,4,5191,hostdb.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.101.119.133,4,5,hubstub.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.217.108,4,62,homeidea.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.117.63,4,6,homemediaserver.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.223.139,4,189920,hostdb.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.101.114.186,4,34,i2r.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-195.222.16.85,4,7,idroo.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-195.222.16.84,4,12,idroo.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+5.45.127.210,4,-32,imageup.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.123.189,4,-20,imigo.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.121.32,4,-7,imtw.org,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.119.164,4,75,inetlog.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.116.8,4,56,infinite-soul.org,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.181.65,4,11,infinite-soul.org,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+212.7.0.101,4,-1,infonet.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+5.45.120.222,4,2,insis-internet.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.118.186,4,2,intercap.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.125.143,4,18,interesnyefakty.org,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-188.92.160.12,4,7,interruptions.net,EE,Europe,Northern Europe,Estonia,,,
-5.45.127.79,4,2,inweb.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.101.115.49,4,66,iskra-news.info,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.155.96.31,4,6,istok.ru,EE,Europe,Northern Europe,Estonia,,,
+5.45.125.143,4,-2,interesnyefakty.org,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+188.92.160.12,4,-2,interruptions.net,EE,Europe,Northern Europe,Estonia,,,
+5.45.127.79,4,-4,inweb.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.22.101,4,14,ipbmafia.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.155.96.31,4,56,istok.ru,EE,Europe,Northern Europe,Estonia,,,
 5.45.120.212,4,4,iswin.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-159.253.20.16,4,5,itecgroup.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.154.222.230,4,2,itvnet.lv,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
 46.36.219.218,4,2,jjew.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.124.82,4,17,kaermorhen.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-80.250.114.239,4,30,kanuu.com,EE,Europe,Northern Europe,Estonia,Tartu,Kambja vald,Kambja
+5.45.124.82,4,-14,kaermorhen.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+80.250.114.243,4,-14,kanuu.com,EE,Europe,Northern Europe,Estonia,Tartu,Tartu linn,Tartu
+80.250.114.239,4,30,kanuu.com,EE,Europe,Northern Europe,Estonia,Tartu,Tartu linn,Tartu
 159.253.21.83,4,103482,kazanreporter.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.223.163.105,4,53,keurmerkfysiotherapie.nl,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-46.22.212.44,4,47,kipelov.ru,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+46.22.212.44,4,-72,kipelov.ru,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+185.158.177.148,4,-15,klick.ee,EE,Europe,Northern Europe,Estonia,,,
 185.4.72.2,4,3,klstr.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.169.68.23,4,-6,koduvein.ee,EE,Europe,Northern Europe,Estonia,,,
 185.86.211.143,4,30,koeru.eu,EE,Europe,Northern Europe,Estonia,Pärnumaa,Pärnu linn,Pärnu
-84.50.110.197,4,51,kood.org,EE,Europe,Northern Europe,Estonia,Tartu,Tartu linn,Tartu
+84.50.110.197,4,-46,kood.org,EE,Europe,Northern Europe,Estonia,Tartu,Tartu linn,Tartu
 5.101.179.30,4,29,korabli.eu,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-159.253.21.72,4,39,kosmetichka.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.123.112,4,20,krasotkaepil.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.101.180.86,4,48,kripipasta.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.21.72,4,13,kosmetichka.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.19.212,4,-1,kp.md,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.123.112,4,3,krasotkaepil.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.180.86,4,2,kripipasta.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 46.36.216.114,4,6,kursy-programmistov.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.21.67,4,5,lada-largus.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 159.253.21.135,4,103,ladyfashioniser.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-80.79.119.234,4,3,largusladaclub.ru,EE,Europe,Northern Europe,Estonia,,,
-159.253.19.43,4,7,lemonsport.sk,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.19.43,4,24,lemonsport.sk,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 185.169.68.32,4,-91,lennusadam.eu,EE,Europe,Northern Europe,Estonia,,,
-5.45.126.218,4,3,lovelytutorials.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.4.73.39,4,6,mafia-game.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.218.169,4,139,make-self.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.86.211.140,4,3,linnagalerii.ee,EE,Europe,Northern Europe,Estonia,Pärnumaa,Pärnu linn,Pärnu
+185.4.72.50,4,-6,listing.help,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+80.235.78.115,4,-67,livenewschat.eu,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+217.146.76.241,4,30,logo.ee,EE,Europe,Northern Europe,Estonia,,,
+5.45.126.218,4,-1,lovelytutorials.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.4.73.39,4,7,mafia-game.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.218.169,4,0,make-self.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.124.142,4,6,makeword.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 185.4.72.18,4,3,mamako.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.218.253,4,33,marqer.online,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.220.41,4,60,masterclassy.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-159.253.20.102,4,9,me-forum.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.220.41,4,7,masterclassy.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.18.250,4,-14,mayalanya.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.4.72.89,4,3,mcdevlab.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.20.102,4,-3,me-forum.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 159.253.21.34,4,6,mehgrad.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 188.92.162.231,4,21,menelon.ee,EE,Europe,Northern Europe,Estonia,,,
-185.4.72.160,4,16,mentaframework.org,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.101.180.15,4,22237,mestam.info,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.180.15,4,622104,mestam.info,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.4.74.219,4,-5,metalamp.io,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 159.253.21.119,4,9,metallicheckiy-portal.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.117.201,4,10,microsin.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 159.253.21.115,4,7,midoma.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.112.142,4,27,mining-enc.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-159.253.23.153,4,40,mokka-club.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-109.235.242.2,4,5,moles.ee,EE,Europe,Northern Europe,Estonia,,,
-5.45.123.221,4,38,molodaja-semja.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.112.126,4,40,morozovadance.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-159.253.21.136,4,32,myboard.com.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.122.199,4,11,mzk2.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.101.180.162,4,20,nacekomie.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.112.142,4,-3,mining-enc.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.220.142,4,-9,miuirom.org,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.23.153,4,-1,mokka-club.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+109.235.242.2,4,23,moles.ee,EE,Europe,Northern Europe,Estonia,,,
+5.45.120.4,4,13,molodaja-semja.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.23.54,4,5,mos-holidays.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.114.116.231,4,-3,motr-online.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+46.36.222.21,4,4,mrcars.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.112.37,4,-12,myadept.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.21.136,4,24,myboard.com.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.122.199,4,0,mzk2.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.180.162,4,1,nacekomie.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.19.90,4,-1,natyazhnye-potolki-moskva.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 159.253.22.121,4,7,nedvigimost72.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 46.36.218.72,4,5,neurohive.io,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.114.72,4,35,news-rasha.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-159.253.19.160,4,13,newsib.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.114.72,4,-9,news-rasha.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.223.5,4,4,newsliga.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 109.94.209.111,4,5,newsone.ua,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+5.101.180.132,4,1,newsonline24.com.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.101.181.86,4,4,nfs-world.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.20.100.193,4,2,nh.ee,EE,Europe,Northern Europe,Estonia,,,
-185.20.100.192,4,4,nh.ee,EE,Europe,Northern Europe,Estonia,,,
-5.45.122.23,4,8,nimak.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.220.250,4,11,nhl.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.101.181.97,4,3,niva-club.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.101.114.108,4,6,nkj.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-88.196.97.187,4,48,nordica.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-159.253.18.248,4,16,novgaz-rzn.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.114.108,4,-1,nkj.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.180.54,4,2,nofollow.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.18.248,4,-1,novgaz-rzn.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 46.36.222.216,4,4,novomoskov.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.127.185,4,5,novostiua.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.127.185,4,9,novostiua.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.218.142,4,8,novyjgod.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.123.45,4,9,np.by,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 46.36.217.238,4,4,nr2.com.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.101.117.214,4,5,nvf-sobor.com.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.101.114.61,4,34,nvip.com.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-80.79.123.120,4,6,obeschania.ru,EE,Europe,Northern Europe,Estonia,,,
+46.36.222.110,4,-11,o001oo.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+80.79.123.120,4,-33,obeschania.ru,EE,Europe,Northern Europe,Estonia,,,
+185.4.74.182,4,-1,oblvesti.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.114.71,4,15,obob.tv,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.86.211.141,4,8,okupatsioon.ee,EE,Europe,Northern Europe,Estonia,Pärnumaa,Pärnu linn,Pärnu
-81.25.255.71,4,198,Ookla Speedtest Server 5654: speedtest1.telset.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Maardu linn,Maardu
-185.155.96.59,4,634960,Ookla Speedtest Server 12456: speedtest.fairyhosting.com,EE,Europe,Northern Europe,Estonia,,,
-91.146.94.236,4,306,Ookla Speedtest Server 32983: speedtest.fill.ee,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Narva linn,Narva
-194.126.115.6,4,144,Ookla Speedtest Server: kiirustest.elion.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-5.101.116.118,4,6,openreviewhub.org,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.4.72.120,4,2,oteatre.info,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.222.48,4,6,oxford-school.com.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.123.60,4,8,ozersk.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+176.118.167.27,4,10,ok-vmeste.ru,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+185.86.211.141,4,-1,okupatsioon.ee,EE,Europe,Northern Europe,Estonia,Pärnumaa,Pärnu linn,Pärnu
+185.169.70.26,4,1241,onparou.com,EE,Europe,Northern Europe,Estonia,,,
+185.155.96.59,4,1589,Ookla Speedtest Server 12456: speedtest.fairyhosting.com,EE,Europe,Northern Europe,Estonia,,,
+85.196.241.164,4,4,Ookla Speedtest Server 29062: speedtest.stv.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+91.146.94.236,4,-3,Ookla Speedtest Server 32983: speedtest.fill.ee,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Narva linn,Narva
+194.126.115.6,4,-4,Ookla Speedtest Server: kiirustest.elion.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+5.45.120.151,4,4,openmall.info,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.116.118,4,-1,openreviewhub.org,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.253.178.5,4,9,orthodox.ee,EE,Europe,Northern Europe,Estonia,,,
+185.4.72.120,4,8,oteatre.info,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.179.147,4,23,otzyvov.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.222.48,4,13,oxford-school.com.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.123.60,4,-9,ozersk.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.101.180.219,4,72,paketrassada.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 185.4.72.63,4,31,parkgarten.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.181.27,4,5,partneroff.pro,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.127.215,4,57,partnerusa.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.216.107,4,4,pddmaster.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+91.199.147.66,4,10,passwordrecoverytools.com,EE,Europe,Northern Europe,Estonia,,,
+46.36.216.107,4,24,pddmaster.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 159.253.18.58,4,59,penta-club.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.222.105,4,34,perfectsolutionlabs.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.121.31,4,8,peterburg.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+193.40.13.40,4,-9,pereraadio.ee,EE,Europe,Northern Europe,Estonia,Tartu,Tartu linn,Tartu
+185.4.72.37,4,12,perfectsolutionlabs.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.180.179,4,-2,petersburgcity.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 46.36.221.220,4,15,petz.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.127.188,4,10,photo-monster.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-159.253.20.5,4,18,photo-monster.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.86.211.139,4,22,photobuildings.com,EE,Europe,Northern Europe,Estonia,Pärnumaa,Pärnu linn,Pärnu
-185.4.74.49,4,58,photodiva.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.86.211.139,4,-4,photobuildings.com,EE,Europe,Northern Europe,Estonia,Pärnumaa,Pärnu linn,Pärnu
+185.4.74.49,4,-46,photodiva.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 185.4.75.61,4,31,photogeek.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.114.53,4,59,phpbb-work.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.114.3,4,26,piko-shop.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-159.253.21.232,4,5,pilomaterial.info,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.21.232,4,0,pilomaterial.info,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.101.112.206,4,16,pkpribor.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 185.4.75.60,4,6,playback.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.101.117.177,4,14,plmaster.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.218.130,4,20,pnevmopodveska-club.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.222.21,4,16,podmash.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.126.220,4,20,podrujka.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.121.85,4,11,polemika.com.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.218.130,4,10,pnevmopodveska-club.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+194.26.141.224,4,-2339,pocketbrokers.ru,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+5.45.121.184,4,7,polemika.com.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 185.4.73.27,4,6,pomni24.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.101.123.151,4,28,popcake.tv,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.223.31,4,43,porti.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.112.204,4,40,pravdabeslana.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-198.133.206.11,4,-162520,press24.mk,EE,Europe,Northern Europe,Estonia,,,
-5.45.112.162,4,38,profinews.com.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.101.112.19,4,31,profstrah.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.223.109,4,4,progastromed.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.4.75.194,4,56,prohunt.su,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.220.223,4,75,prom23.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.179.93,4,248192,poradnyk.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.112.204,4,49,pravdabeslana.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.113.10,4,3,privivok.net.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.125.223,4,43,pro-lazertag.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.112.162,4,16,profinews.com.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.219.48,4,12,proflinks.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.112.19,4,5,profstrah.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.220.223,4,5,prom23.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.115.5,4,68,prometey.org,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.101.179.249,4,53,promoteukraine.org,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-147.28.0.62,4,64,psg.com,EE,Europe,Northern Europe,Estonia,,,
 159.253.19.32,4,5,pugofka.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-80.79.117.226,4,39,pulmad.ee,EE,Europe,Northern Europe,Estonia,,,
-5.45.121.246,4,34,pushkinska.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+80.79.119.19,4,38,pulmad.ee,EE,Europe,Northern Europe,Estonia,,,
+5.45.121.246,4,9,pushkinska.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 46.36.217.198,4,5,python-scripts.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-147.28.0.53,4,4,qrd.org,EE,Europe,Northern Europe,Estonia,,,
-5.101.123.22,4,10,qumo.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-87.119.191.9,4,36,raamatukoi.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+46.36.216.80,4,14,qpaa.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.123.22,4,17,qumo.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 46.36.216.183,4,6,rahillymotor.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.220.4,4,20,railwaymarket.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.220.4,4,8,railwaymarket.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+176.118.167.143,4,26,randevucity.net,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
 109.94.209.144,4,75,randevucity.net,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-212.7.8.176,4,71,rate.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-159.253.18.13,4,20,readme.md,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.4.73.99,4,30,religio.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+212.7.8.176,4,10,rate.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+109.235.247.124,4,47,reactive.network,EE,Europe,Northern Europe,Estonia,,,
+176.97.74.247,4,30,readingbook.ru,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+46.36.217.39,4,4,readme.md,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.18.29,4,-30,recetitasmexicanas.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.4.73.99,4,5,religio.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.216.232,4,0,remont-sv.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.4.74.93,4,-24,reproduktor.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.219.212,4,9,rifme.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.127.246,4,5,robotbox.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.101.113.109,4,5,rosexport.su,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.101.179.190,4,6,rosfincom.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.117.243,4,6,rosspetsmash.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 159.253.23.250,4,4,rtn.one,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.101.121.191,4,33,ru-news.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.220.130,4,33,ruchnoi.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.220.130,4,3,ruchnoi.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.101.181.95,4,8807,rusmnb.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.123.79,4,12,russian-polymer.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.101.117.176,4,3,rwr.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.4.73.32,4,4,rybalka44.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.117.176,4,-6,rwr.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.126.170,4,7,s-parfum-shop.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.122.88,4,7,saia-plc.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.114.55,4,16,salonveronika.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 80.79.116.118,4,-372665,samhome.bg,EE,Europe,Northern Europe,Estonia,,,
 109.94.209.72,4,1,samstroy.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-188.92.160.14,4,16,sannata.org,EE,Europe,Northern Europe,Estonia,,,
+185.169.68.34,4,14,sandberg.ee,EE,Europe,Northern Europe,Estonia,,,
+188.92.160.14,4,6,sannata.org,EE,Europe,Northern Europe,Estonia,,,
+159.253.22.131,4,5,sapkowski.su,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 185.86.211.133,4,39,satakuntaenduro.com,EE,Europe,Northern Europe,Estonia,Pärnumaa,Pärnu linn,Pärnu
 185.4.72.192,4,44843,scambinance.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.101.119.210,4,4,sdelaisebe.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.119.147,4,9,sdelanounih.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-80.235.54.10,4,-911595899,sellaite.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-5.101.117.202,4,47,seti.ee,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+80.235.54.10,4,-2761288060,sellaite.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+5.101.181.99,4,6,service-pixel.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.117.202,4,13,seti.ee,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 159.253.20.201,4,25,sevastopolnews.info,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.122.201,4,6,shakin.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-159.253.19.209,4,3,shkolaprazdnika.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.217.250,4,4,sinonim.org,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.217.120,4,5,showgamer.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.217.250,4,9,sinonim.org,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 185.86.211.135,4,13,sirp.ee,EE,Europe,Northern Europe,Estonia,Pärnumaa,Pärnu linn,Pärnu
-5.101.115.164,4,2,sitesco.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.117.175,4,8,sjthemes.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.115.164,4,13,sitesco.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+165.231.141.164,4,-189355,skecrystalpolska.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+165.231.141.163,4,-189306,skeelektroniksigara.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+185.4.73.71,4,10,skinguru.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.45.115.78,4,41,skinguru.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.114.116.159,4,13,skripters.biz,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
 5.45.121.44,4,10,skuky.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.116.209,4,17,slideshow-forum.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.116.209,4,37,slideshow-forum.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 185.4.73.168,4,19,smaslom.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.22.112,4,7,smthemes.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.101.114.242,4,3,smthemes.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-188.92.160.8,4,7,solnet.ee,EE,Europe,Northern Europe,Estonia,,,
+188.92.160.8,4,29,solnet.ee,EE,Europe,Northern Europe,Estonia,,,
+5.45.123.114,4,26,solomarbellarealty.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.22.174,4,6,solowine.es,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.20.13,4,10,sosdienests.lv,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 185.86.211.134,4,14,sotuland.com,EE,Europe,Northern Europe,Estonia,Pärnumaa,Pärnu linn,Pärnu
 46.36.221.79,4,45,spb-velo.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.169.68.27,4,6,sphider.eu,EE,Europe,Northern Europe,Estonia,,,
-185.154.222.232,4,0,spoki.lv,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-5.101.181.99,4,0,sport-in-my-life.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-217.146.74.73,4,84,sportacentrs.com,EE,Europe,Northern Europe,Estonia,,,
-5.45.121.130,4,4729,sportbalans.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.223.163.6,4,9,stadsgehoorzaalkampen.nl,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-37.252.5.235,4,47,starlink-auto.ru,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-159.253.20.184,4,3,stena.ee,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-159.253.18.19,4,41,strategy4you.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.101.180.132,4,95,studway.com.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.223.109,4,8,spc2.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+109.94.209.147,4,-3,spec-school.org,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+46.36.223.158,4,20,spectator.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.169.68.27,4,1214,sphider.eu,EE,Europe,Northern Europe,Estonia,,,
+217.146.74.73,4,14,sportacentrs.com,EE,Europe,Northern Europe,Estonia,,,
+37.252.5.235,4,12,starlink-auto.ru,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+159.253.20.184,4,0,stena.ee,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+176.118.167.176,4,10,sundaynews.info,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
 185.4.73.216,4,56159,superiorrealty.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-193.40.113.42,4,3,suri.ee,EE,Europe,Northern Europe,Estonia,Viljandimaa,Viljandi linn,Viljandi
-185.86.211.130,4,16,surina.net,EE,Europe,Northern Europe,Estonia,Pärnumaa,Pärnu linn,Pärnu
 5.101.127.194,4,9,suvorov-krasnodar.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.4.75.207,4,24,sweetsensations.fr,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.86.211.131,4,2,tarsiman.ee,EE,Europe,Northern Europe,Estonia,Pärnumaa,Pärnu linn,Pärnu
+185.4.73.94,4,22,sweetbonanza.run,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.4.75.207,4,12,sweetsensations.fr,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.86.211.131,4,19,tarsiman.ee,EE,Europe,Northern Europe,Estonia,Pärnumaa,Pärnu linn,Pärnu
+185.86.211.130,4,0,tasutakasiino.com,EE,Europe,Northern Europe,Estonia,Pärnumaa,Pärnu linn,Pärnu
 159.253.18.98,4,10,tdauto.lv,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.169.70.23,4,93,telegraafhotel.com,EE,Europe,Northern Europe,Estonia,,,
-159.253.21.200,4,61,teoriya.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+213.180.31.70,4,121511,teatmik.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+5.45.120.123,4,6,tehnopanorama.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.169.70.23,4,1219,telegraafhotel.com,EE,Europe,Northern Europe,Estonia,,,
+5.45.120.128,4,13,telegram.org.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.21.200,4,-16,teoriya.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.181.87,4,13,tgrm.su,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.220.235,4,21,the-geek.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.217.110,4,22,theinweb.media,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 46.36.218.178,4,27,theme.today,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+176.46.35.92,4,-490,thepiratebay.ee,EE,Europe,Northern Europe,Estonia,Tartu,Tartu linn,Tartu
+185.4.73.120,4,19,thrift-stores-near-me.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 109.94.209.117,4,5,tips.gives,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
 46.36.223.150,4,2,tktl.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-80.235.77.97,4,12,tln.edu.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
 185.4.74.146,4,2,tlttimes.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-193.40.239.27,4,2105,tlu.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Rae vald,Rae Parish
-5.45.118.244,4,24,tntmusic.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+193.40.239.27,4,8039,tlu.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Saue vald,Saue
+5.45.118.244,4,30,tntmusic.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.180.230,4,-4,tokiyskiy-gul-jut-su.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 46.36.217.106,4,34,touchg.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 185.4.74.229,4,9,touristyonline.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.219.230,4,23,traffnews.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+80.79.119.198,4,-12,traders-rating.com,EE,Europe,Northern Europe,Estonia,,,
+46.36.219.230,4,51,traffnews.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.123.42,4,8,trafsait.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 46.36.218.21,4,15,travelerschat.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.223.163.73,4,5,tropicalzoo.nl,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
 159.253.18.192,4,10,tssz.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.4.72.32,4,9,ttnews.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-185.4.74.211,4,8,typejournal.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-80.79.112.66,4,15,ua.ee,EE,Europe,Northern Europe,Estonia,,,
-5.45.115.149,4,14,uapress.info,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.4.72.32,4,24,ttnews.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+38.180.45.67,4,23,tvoe-avto.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+185.4.74.211,4,4,typejournal.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.22.211,4,14,tzstroy.su,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.115.149,4,15,uapress.info,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.18.81,4,10,ufa-help.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+109.94.209.214,4,14,ukrindustrial.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
 5.45.127.154,4,10,umka.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.219.165,4,-14,vagaro.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+165.231.141.166,4,-189349,vapegrosshandelschweiz.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+165.231.141.6,4,296670,vapeyoo.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
 159.253.19.119,4,6465,vdforum.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-62.65.41.162,4,-330,veinifest.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
 5.45.119.130,4,17,velocat.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.101.181.64,4,23,vertikal-nn.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-188.92.162.2,4,-3914,vesikoer.ee,EE,Europe,Northern Europe,Estonia,,,
+5.101.181.64,4,14,vertikal-nn.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 46.36.216.186,4,4,vgspb.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.20.5,4,2,videosmile.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 176.118.167.196,4,6,vito-house.by,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-185.255.178.42,4,-1,viziteurope.ru,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+185.255.178.42,4,-47,viziteurope.ru,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+5.45.125.35,4,22,vkserfing.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+80.79.119.250,4,18,vodkabetslot.ru,EE,Europe,Northern Europe,Estonia,,,
+165.231.141.5,4,296614,voopoovapebelgique.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+185.4.72.104,4,2,vostlit.info,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+165.231.141.165,4,-189308,vozolpufffrance.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+185.4.73.112,4,12,vpiter.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 46.36.221.201,4,4,vsem-instrumenti.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+109.94.209.86,4,34,vseproremont.com,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+159.253.23.181,4,12,vseremontytut.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 46.36.222.61,4,10,vsyarybalka.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-80.79.121.2,4,4,welltechnology.eu,EE,Europe,Northern Europe,Estonia,,,
-5.101.181.155,4,-1954,womenclub.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.221.146,4,4,wordexpert.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-46.36.223.194,4,23,wow-helper.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-194.204.20.2,4,24,www.ee,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
-80.79.114.155,4,214,www1.ee,EE,Europe,Northern Europe,Estonia,,,
+109.94.209.107,4,41,webfuture.top,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+5.45.123.58,4,28,webmascon.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.169.68.41,4,15,win.ee,EE,Europe,Northern Europe,Estonia,,,
+5.45.120.159,4,4,wma-united.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+185.4.75.198,4,8,wmking.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.181.155,4,55943,womenclub.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.221.146,4,6,wordexpert.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.223.194,4,8,wow-helper.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+80.79.114.155,4,389,www1.ee,EE,Europe,Northern Europe,Estonia,,,
 5.45.124.125,4,6,www96.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 5.101.124.12,4,5,x-zona.su,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.124.221,4,71544,xage.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-176.97.74.247,4,7,xn--1-7sbb4ajnbsk0n.xn--p1ai,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+5.45.124.221,4,310824,xage.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.219.14,4,6,xdebug.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.181.202.57,4,3,xdsoft.net,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+5.45.126.194,4,10,xn--80aaezhrgabgsbeohh4e.xn--p1ai,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
 109.94.209.168,4,105,xn--80adidt0bv.su,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
 159.253.18.78,4,14,yachol.online,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.45.123.58,4,7,ynks.net,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-5.101.126.98,4,37,zakon-auto.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-193.40.25.57,4,2,zbi.ee,EE,Europe,Northern Europe,Estonia,Tartu,Tartu linn,Tartu
-159.253.18.234,4,9,zefirgood1.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
-109.94.209.214,4,1001,zpostbox.ru,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+5.101.180.228,4,-7,yourhotcar.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.223.243,4,9,yumito.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.179.191,4,1,yuzhnie-vorota.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.180.98,4,9,za-dveryu.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.220.189,4,8,zagittya.com.ua,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.126.98,4,-8,zakon-auto.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+193.40.25.57,4,-14,zbi.ee,EE,Europe,Northern Europe,Estonia,Tartu,Tartu linn,Tartu
+46.22.211.136,4,-25,zbs.bet,EE,Europe,Northern Europe,Estonia,Harjumaa,Tallinn,Tallinn
+159.253.18.246,4,6,zdorovnik.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+159.253.18.234,4,11,zefirgood1.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+46.36.220.21,4,0,zismo.biz,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.124.197,4,0,zonakulinara.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.124.195,4,-1,zooeco.com,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.45.127.13,4,6,zrdtest.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi
+5.101.114.102,4,2,zyablikovo-mos.ru,EE,Europe,Northern Europe,Estonia,Ida-Virumaa,Jõhvi vald,Jõhvi

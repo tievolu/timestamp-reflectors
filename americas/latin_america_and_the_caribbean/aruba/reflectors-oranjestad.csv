@@ -1,2 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-186.189.1.21,4,371,Ookla Speedtest Server 46697: speedtest.setarnet.aw,AW,Americas,Latin America and the Caribbean,Aruba,,,Oranjestad
+201.229.68.14,4,-7081,DNS Server: 201-229-68-14.setardsl.aw,AW,Americas,Latin America and the Caribbean,Aruba,,,Oranjestad
+186.189.1.21,4,-6,Ookla Speedtest Server 46697: speedtest.setarnet.aw,AW,Americas,Latin America and the Caribbean,Aruba,,,Oranjestad
+186.189.63.36,4,-20,Ookla Speedtest Server 69342: speedtestsnc.setarnet.aw,AW,Americas,Latin America and the Caribbean,Aruba,,,Oranjestad
+186.189.25.36,4,-31,Ookla Speedtest Server 69500: speedteststc.setarnet.aw,AW,Americas,Latin America and the Caribbean,Aruba,,,Oranjestad
+186.189.187.36,4,-5,Ookla Speedtest Server 69576: speedtestnpb.setarnet.aw,AW,Americas,Latin America and the Caribbean,Aruba,,,Oranjestad

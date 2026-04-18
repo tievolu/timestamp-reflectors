@@ -1,12 +1,51 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-186.219.247.202,4,10,ac.gov.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Ji Paraná
-186.219.247.201,4,2,ac.gov.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Ji Paraná
-168.205.124.9,4,26580,DNS Server: 168-205-124-9.host.brasildigital.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Porto Velho
-179.124.160.38,4,307,Ookla Speedtest Server 50192: speedtest.extremanetwork.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Porto Velho
-45.179.84.226,4,297,Ookla Speedtest Server 52717: portaltelecom.ravisystems.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Costa Marques
-200.80.118.33,4,249961,Ookla Speedtest Server 53647: speedtestimpactonetsfg.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,São Francisco do Guaporé
-177.221.56.53,4,140,Ookla Speedtest Server 53681: a-speedtest.brasildigital.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Porto Velho
-179.42.112.26,4,113725,Ookla Speedtest Server 55658: ookla.kacelinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Alta Floresta d'Oeste
-200.16.92.226,4,232,Ookla Speedtest Server 63395: speed.cronostelecomnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Machadinho d'Oeste
-131.108.196.22,4,146,Ookla Speedtest Server: teste.milleniumnetro.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Nova Mamoré
-201.2.96.78,4,8,ro.gov.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Porto Velho
+138.219.50.74,4,39562,DNS Server: 138-219-50-74.host.sistemtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Rolim de Moura
+168.205.124.9,4,49778,DNS Server: 168-205-124-9.host.brasildigital.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Porto Velho
+177.125.132.18,4,14,DNS Server: 177-125-132-18.ronnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Cerejeiras
+131.108.198.196,4,-14,Ookla Speedtest Server 11317: test.rnfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Nova Mamoré
+131.108.164.18,4,-4,Ookla Speedtest Server 11354: st1.netwaytelecon.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Pimenta Bueno
+179.191.6.242,4,-4,Ookla Speedtest Server 14142: test.brazilnetro.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Alto Alegre dos Parecis
+45.161.203.10,4,30765,Ookla Speedtest Server 15827: teste.ultranetro.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Nova União
+45.179.215.9,4,502365,Ookla Speedtest Server 26084: speed.fgtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Porto Velho
+143.202.188.10,4,-3,Ookla Speedtest Server 27964: st2.interfacenet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Vilhena
+177.125.132.14,4,10,Ookla Speedtest Server 32630: speedtest.ronnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Cerejeiras
+179.48.60.19,4,-5,Ookla Speedtest Server 32658: speedtest.digitaltelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Cacoal
+160.238.163.46,4,12,Ookla Speedtest Server 33334: speedteste.pelikan.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Ji Paraná
+192.144.66.222,4,16,Ookla Speedtest Server 35774: speedtest.redecompleta.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Ji Paraná
+170.233.110.18,4,-5,Ookla Speedtest Server 37528: speedtest.rolimnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Rolim de Moura
+45.235.114.66,4,-27,Ookla Speedtest Server 38378: speedtest.linknetspeedtest.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Porto Velho
+45.181.106.10,4,29537,Ookla Speedtest Server 40088: speedtest.vipnetconexao.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Porto Velho
+189.127.149.19,4,-6,Ookla Speedtest Server 40223: speedtest.wilnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Guajará-Mirim
+131.0.118.83,4,-22,Ookla Speedtest Server 42223: speedtest.ollatelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Porto Velho
+200.215.252.71,4,-3,Ookla Speedtest Server 42792: speedtest.conectjadns.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Extrema
+177.22.104.251,4,-2,Ookla Speedtest Server 43876: speedtest.speedtravel.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Cacoal
+200.124.84.6,4,-5,Ookla Speedtest Server 45650: teste.cybernettel.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Ariquemes
+201.148.184.42,4,-357980,Ookla Speedtest Server 46405: ookla.grtelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Rolim de Moura
+131.0.118.169,4,-15,Ookla Speedtest Server 47891: speed.grinternett.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Porto Velho
+138.185.44.39,4,-22,Ookla Speedtest Server 48145: speed.centranet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Espigão dOeste
+190.83.57.138,4,5955,Ookla Speedtest Server 48209: speedtest.ssctelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Chupinguaia
+179.124.160.38,4,7,Ookla Speedtest Server 50192: speedtest.extremanetwork.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Porto Velho
+45.172.52.37,4,4,Ookla Speedtest Server 51474: ookla.deltaconnex.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Urupá
+45.179.84.226,4,6,Ookla Speedtest Server 52717: portaltelecom.ravisystems.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Costa Marques
+200.80.118.33,4,-10,Ookla Speedtest Server 53647: speedtestimpactonetsfg.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,São Francisco do Guaporé
+177.221.56.53,4,-11,Ookla Speedtest Server 53681: a-speedtest.brasildigital.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Porto Velho
+45.185.112.250,4,-8,Ookla Speedtest Server 53766: ookla.rgtelecomchp.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Chupinguaia
+168.195.72.78,4,-3,Ookla Speedtest Server 55878: speed.comandosnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Espigão d'Oeste
+45.188.15.23,4,33,Ookla Speedtest Server 56143: speedtest.fenixnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Mirante da Serra
+45.235.112.195,4,-8,Ookla Speedtest Server 57711: souza.linknetspeedtest.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Porto Velho
+170.79.87.229,4,-115685,Ookla Speedtest Server 57932: speednetafo.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Cacoal
+177.44.216.35,4,1,Ookla Speedtest Server 58344: test.rondonet-telecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Ariquemes
+131.221.121.194,4,17,Ookla Speedtest Server 59450: speedtest.unifica.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Porto Velho
+190.3.160.254,4,882290,Ookla Speedtest Server 61254: speedtest.uptelecom-ro.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Porto Velho
+177.129.127.50,4,8,Ookla Speedtest Server 62181: speedtest.bulletinet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Cacaulândia
+45.187.183.2,4,1,Ookla Speedtest Server 62352: speedtest.helpdesksolucoes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Rolim de Moura
+160.238.240.100,4,5,Ookla Speedtest Server 62681: speedtest.worldnetfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Ariquemes
+200.16.92.226,4,-25,Ookla Speedtest Server 63395: speed.cronostelecomnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Machadinho d'Oeste
+189.113.56.0,4,26,Ookla Speedtest Server 63407: speedtest.ak4digital.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Porto Velho
+138.97.96.39,4,9,Ookla Speedtest Server 64438: speedtest.duxnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Cacoal
+154.64.15.0,4,-19,Ookla Speedtest Server 64845: speedtest.conectnorte.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Porto Velho
+45.187.183.9,4,-177,Ookla Speedtest Server 65362: helpdesksolucoes.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Rolim de Moura
+191.37.216.11,4,1,Ookla Speedtest Server 65471: a.speedtest.souuni.com,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Jaru
+170.233.109.94,4,4,Ookla Speedtest Server 65498: speedtest-vsbu.rolimnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Porto Velho
+45.186.85.182,4,-3,Ookla Speedtest Server 66893: speedtest.volttelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Ji Paraná
+131.0.119.78,4,144,Ookla Speedtest Server 67801: teste.infinity-ro.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rondônia,,Ouro Preto do Oeste

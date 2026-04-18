@@ -1,3 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-183.177.126.186,4,10,DNS Server: 183.177.126.186.orangeinfocom.in,IN,Asia,Southern Asia,India,Maharashtra,,Nagpur
-103.229.25.252,4,30,nitplrrc.com,IN,Asia,Southern Asia,India,Maharashtra,,Nagpur
+203.192.224.3,4,3405982,Ookla Speedtest Server 10426: ngpspeedtest.onebroadband.in,IN,Asia,Southern Asia,India,Maharashtra,,Nagpur
+103.252.169.58,4,-7,Ookla Speedtest Server 25961: speedtest.ucnindia.net,IN,Asia,Southern Asia,India,Maharashtra,,Nagpur
+103.109.221.2,4,19,Ookla Speedtest Server 61022: ns1.fab5network.com,IN,Asia,Southern Asia,India,Maharashtra,,Nagpur
+103.182.220.83,4,-3,Ookla Speedtest Server 65514: bigvnagpur.bigventuresmedia.com,IN,Asia,Southern Asia,India,Maharashtra,,Nagpur

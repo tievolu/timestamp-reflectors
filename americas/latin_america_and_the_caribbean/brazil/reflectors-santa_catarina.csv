@@ -1,49 +1,179 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+177.10.165.118,4,-43,abiis.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+201.48.255.119,4,-8,andes.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,São João Batista
 170.81.43.218,4,11,brasil123.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
+45.163.12.10,4,-19,brdrive.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Videira
 177.39.132.51,4,-45364,capinzalnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Capinzal
-143.0.123.197,4,1,cpb.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Joinville
-179.108.126.62,4,22,crea-sc.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Florianópolis
-179.179.145.6,4,-748,DNS Server: 179.179.145.6.static.gvt.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Joinville
-186.211.105.13,4,5,DNS Server: 186-211-105-13.gegnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Corupá
-186.225.10.4,4,6,DNS Server: 186-225-10-4.unifique.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Videira
-187.102.47.33,4,20,DNS Server: 187-102-47-33.mkm.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Braço do Norte
-187.17.236.135,4,14749,DNS Server: 187-17-236-135.redesiminternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Joinville
-187.94.102.14,4,54001,DNS Server: 187-94-102-14.unifique.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Florianópolis
-187.45.101.123,4,2564,DNS Server: 187.45.101.123.mhnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
-191.240.172.91,4,161,DNS Server: 191-240-172-91.clonix.srv.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Criciúma
-201.76.3.30,4,-30,DNS Server: 201-76-3-30.contato.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Araranguá
-201.76.8.37,4,37362,DNS Server: 201-76-8-37.contato.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Tubarão
-170.82.193.57,4,-17,DNS Server: 57.193.82.170.italine.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Itajaí
-177.10.162.82,4,16,DNS Server: entrenanet--177-10-162-82.enn.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
-170.81.42.155,4,7,eaemaq.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
+201.76.0.20,4,-71,contato.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Araranguá
+143.0.123.197,4,-26,cpb.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Joinville
+200.80.111.178,4,423,crc-ce.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Itajaí
+189.28.37.162,4,23015,DNS Server: 162.37.28.189.intercorp.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Florianópolis
+177.222.144.86,4,-2,DNS Server: 177-222-144-86.interline.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Concórdia
+186.225.10.4,4,-4,DNS Server: 186-225-10-4.unifique.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Videira
+187.102.47.33,4,-19,DNS Server: 187-102-47-33.mkm.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Braço do Norte
+187.17.236.135,4,26869,DNS Server: 187-17-236-135.redesiminternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,São Bento do Sul
+187.87.177.134,4,-10,DNS Server: 187-87-177-134.csnet.inf.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Tangará
+187.45.101.123,4,869,DNS Server: 187.45.101.123.mhnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+187.45.101.35,4,40,DNS Server: 187.45.101.35.mhnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+191.240.172.91,4,2003,DNS Server: 191-240-172-91.clonix.srv.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Criciúma
+201.76.3.30,4,-3,DNS Server: 201-76-3-30.contato.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Araranguá
+201.76.8.37,4,3847,DNS Server: 201-76-8-37.contato.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Tubarão
+186.250.37.216,4,-5,DNS Server: 216.37.250.186.in-addr.arpa.verointernet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,São Lourenço do Oeste
+45.227.195.14,4,16001,DNS Server: 45.227.195.14.mhnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Concórdia
+170.82.193.57,4,-4,DNS Server: 57.193.82.170.italine.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Itajaí
+179.127.181.186,4,50378723,DNS Server: dynamic-179-127-181-186.tpa.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Canoinhas
+177.10.162.82,4,-16,DNS Server: entrenanet--177-10-162-82.enn.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+191.5.179.151,4,-4085,DNS Server: entrenanet--191-5-179-151.enn.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+191.5.179.62,4,549,DNS Server: entrenanet--191-5-179-62.enn.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+200.175.44.230,4,253,DNS Server: mail.contabilizesc.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Balneário Camboriú
+179.190.96.82,4,215930,DNS Server: mail.lufamar.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Blumenau
+177.222.144.66,4,41537,DNS Server: smtp.inviosat.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Concórdia
 45.224.128.126,4,843,espacorecomecar.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
-191.36.0.94,4,34,ifsc.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
-170.81.42.72,4,8,kissfm.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
-45.224.128.24,4,35,noticiasconcursos.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
-192.141.60.4,4,335,Ookla Speedtest Server 15686: speedtest.centralnetmg.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Major Gercino
-138.204.144.71,4,203,Ookla Speedtest Server 17214: speedtest-otc.experts.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Otacílio Costa
-131.255.108.27,4,233,Ookla Speedtest Server 21397: sptest.4u.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,São José
-179.109.99.30,4,224,Ookla Speedtest Server 45908: speedtest.floripanet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Florianópolis
-177.91.114.26,4,315,Ookla Speedtest Server 49408: speedtest.sabertelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Quilombo
-45.173.235.35,4,211,Ookla Speedtest Server 49825: speedtest.mmbtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Itajaí
-45.70.148.50,4,317,Ookla Speedtest Server 52867: ookla.shfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Imbituba
-187.108.13.25,4,358480,Ookla Speedtest Server 55845: speedtest.sfrtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Joinville
-170.244.36.9,4,306,Ookla Speedtest Server 56937: stest.instatel.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Itapema
-177.221.71.253,4,335,Ookla Speedtest Server 59398: speedcb01.deltaativa.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Balneário Camboriú
-138.97.182.30,4,293,Ookla Speedtest Server 59809: teste.mixconect.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,São João Batista
-45.237.108.214,4,246,Ookla Speedtest Server 60242: svr-01-sc-bgc-bgc-lnx-spd.verointernet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Palhoça
-186.226.126.254,4,249,Ookla Speedtest Server 62882: speedtestitp.scnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Balneário Camboriú
-186.226.216.12,4,217,Ookla Speedtest Server 63272: speedtest.8bit.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Camboriú
-177.75.161.9,4,128,Ookla Speedtest Server: sp1.infopasa.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Videira
-187.63.215.11,4,298,Ookla Speedtest Server: speedtest.superip.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
-177.72.26.94,4,286,Ookla Speedtest Server: speedtest2.dunet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Sombrio
+177.170.10.149,4,-11708,fepaf.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Florianópolis
+189.45.192.187,4,2133,fricar.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Blumenau
+45.224.131.237,4,17,gigage.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
+170.81.42.155,4,-5,guajava.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
+179.190.98.98,4,-53,hemosc.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Blumenau
+191.36.0.94,4,14,ifsc.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Jaraguá do Sul
+170.81.43.111,4,-6,infludigital.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
+45.174.128.200,4,-1,ixcsoft.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+170.81.42.72,4,-2,kissfm.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
+170.81.43.137,4,-4,noticiasconcursos.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
+177.124.120.14,4,-14,Ookla Speedtest Server 4061: speedtest.vmaisnet.com,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Tubarão
+191.242.248.111,4,-4,Ookla Speedtest Server 6231: speedtest.conectainter.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Araranguá
+179.107.83.30,4,11,Ookla Speedtest Server 6569: speedtest.bjnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Brusque
+138.204.188.61,4,4,Ookla Speedtest Server 8298: speedtest.wstelecom.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,São João Batista
+160.238.199.136,4,-11,Ookla Speedtest Server 8891: speedtest.twf.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Ipira
+168.195.196.7,4,16,Ookla Speedtest Server 10677: sp1.taionet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Taió
+138.117.147.10,4,1,Ookla Speedtest Server 11067: speedtest.infomixbr.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Bom Retiro
+177.75.149.102,4,20,Ookla Speedtest Server 11370: mhnet-fns-ookla1.mhnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Florianópolis
+177.126.23.156,4,-16,Ookla Speedtest Server 12040: speedtest.3dtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,São Ludgero
+192.141.60.4,4,-8,Ookla Speedtest Server 15686: speedtest.centralnetmg.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Major Gercino
+177.36.186.160,4,-10,Ookla Speedtest Server 16629: speedtest.orbisnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Canelinha
+201.76.1.234,4,-4,Ookla Speedtest Server 17231: speedtest.contato.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Sombrio
+187.87.188.150,4,-9,Ookla Speedtest Server 17662: speedtest.csnet.inf.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Tangará
+179.109.80.186,4,-31,Ookla Speedtest Server 18094: speedtest.pontosat.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Tubarão
+131.0.32.71,4,14,Ookla Speedtest Server 20795: speedtest.qnetfacil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Criciúma
+187.102.40.5,4,-19,Ookla Speedtest Server 21093: ookla.mkminternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Braço do Norte
+131.255.108.27,4,-29,Ookla Speedtest Server 21397: sptest.4u.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,São José
+45.237.244.13,4,-5,Ookla Speedtest Server 21676: medidor.barranet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Itajaí
+186.235.255.5,4,-12,Ookla Speedtest Server 23393: speedtest.tiagosilvaprovedores.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Canelinha
+170.246.61.133,4,47,Ookla Speedtest Server 24100: speedtest.sbnettelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Campo Erê
+187.17.228.230,4,18,Ookla Speedtest Server 24743: speedtest.simfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,São Bento do Sul
+168.227.132.131,4,-9,Ookla Speedtest Server 26082: speedtest.3snet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Timbó
+186.230.14.20,4,-6,Ookla Speedtest Server 26090: spetstfns01.timbrasil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Florianópolis
+186.226.112.45,4,-12,Ookla Speedtest Server 26757: speedtestsmo.scnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+201.48.44.70,4,-1,Ookla Speedtest Server 27262: velocidade-lgs.algartelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Lages
+187.63.215.11,4,619718,Ookla Speedtest Server 27269: speedtest.superip.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+45.163.12.6,4,-40,Ookla Speedtest Server 27312: ooklaserver.brdrive.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Videira
+177.39.132.61,4,-17,Ookla Speedtest Server 27489: speedtest.capinzalnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Capinzal
+131.161.188.13,4,-6,Ookla Speedtest Server 27586: speedtest.aomnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Pinhalzinho
+177.124.4.39,4,-4,Ookla Speedtest Server 27995: speedtest.imbranet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Camboriú
+45.175.200.35,4,-15,Ookla Speedtest Server 28287: ookla.alaicom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Joinville
+45.236.5.250,4,-21,Ookla Speedtest Server 28692: teste.wbtelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,São Bento do Sul
+168.121.73.165,4,-3,Ookla Speedtest Server 29433: speedtest.sulcatel.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Forquilhinha
+189.28.176.130,4,-9,Ookla Speedtest Server 30009: speedtest.engeplus.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Criciúma
+45.172.159.245,4,-12,Ookla Speedtest Server 30439: medidor.multisistem.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Laurentino
+177.126.56.10,4,-3,Ookla Speedtest Server 30924: speedtest.expressnetsc.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,União do Oeste
+186.227.144.24,4,14,Ookla Speedtest Server 31136: speedtest.interone.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+170.244.224.18,4,-9,Ookla Speedtest Server 31375: speedtest.openinternet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Passo de Torres
+45.163.74.10,4,-18,Ookla Speedtest Server 31803: speedtest.gnettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Jaraguá do Sul
+177.11.79.236,4,-11,Ookla Speedtest Server 31806: speedtestjgs.athenatelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Guaramirim
+201.131.180.7,4,-7,Ookla Speedtest Server 33291: teste.sincroniza.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Pouso Redondo
+143.255.144.35,4,-3,Ookla Speedtest Server 34189: speed01.pontonetsul.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Sombrio
+177.91.227.100,4,0,Ookla Speedtest Server 34294: speedtest.ccstv.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Balneário Camboriú
+177.37.69.39,4,75964352,Ookla Speedtest Server 34748: speedtest-lgs.ultrat.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Campos Novos
+179.109.116.9,4,-23,Ookla Speedtest Server 34957: speed.artecnologia.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Itajaí
+138.94.88.36,4,-14,Ookla Speedtest Server 34970: speedtest.networkdigital.inf.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Otacílio Costa
+167.250.153.230,4,-3,Ookla Speedtest Server 35094: velocidade2.ateky.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Orleans
+177.124.148.41,4,-8,Ookla Speedtest Server 35395: speedtest.grb.xpc.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Garopaba
+160.238.128.11,4,9,Ookla Speedtest Server 35630: server1.fastsignal.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Itajaí
+45.190.55.8,4,7,Ookla Speedtest Server 35698: teste.exainternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Araranguá
+177.37.69.23,4,13,Ookla Speedtest Server 35842: speedtest-mca1.ultrat.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Campos Novos
+45.239.155.26,4,-8,Ookla Speedtest Server 36353: speedtest.speedline.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,São Francisco do Sul
+45.230.19.40,4,2,Ookla Speedtest Server 36696: speed.webnetbg.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Balneário Gaivota
+131.161.240.42,4,-636915,Ookla Speedtest Server 36839: spd.cianetwork.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Presidente Getúlio
+138.185.88.3,4,-46,Ookla Speedtest Server 37826: speed.uptelecomnt.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Florianópolis
+177.8.136.10,4,-11,Ookla Speedtest Server 38349: speed.mundisul.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Balneário Barra do Sul
+177.85.63.244,4,2,Ookla Speedtest Server 39161: speed.floriani.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Rio dos Cedros
+186.225.254.62,4,-6,Ookla Speedtest Server 39519: st2.unetvale.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Porto Belo
+179.127.116.14,4,-6,Ookla Speedtest Server 40448: speed.plugnet.inf.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Lebon Régis
+187.17.228.228,4,6,Ookla Speedtest Server 41976: speedtest2.simfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,São Bento do Sul
+138.97.32.22,4,77,Ookla Speedtest Server 42250: speedtest.maisinternet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Palhoça
+177.222.216.4,4,-17,Ookla Speedtest Server 42523: teste.portouniao.tv.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Porto União
+170.233.16.20,4,4,Ookla Speedtest Server 42856: velocidade.nettri.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Dionísio Cerqueira
+177.124.32.22,4,-15,Ookla Speedtest Server 43164: teste2.sninternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Navegantes
+179.109.99.30,4,85064,Ookla Speedtest Server 45908: speedtest.floripanet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Florianópolis
+192.141.156.108,4,-3,Ookla Speedtest Server 46313: speedtest.w8telecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,São José
+201.54.185.252,4,-10,Ookla Speedtest Server 47176: speedtest.maxline.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Corupá
+179.125.118.234,4,-3,Ookla Speedtest Server 48057: speed.tactelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Jaguaruna
+168.0.27.246,4,-13,Ookla Speedtest Server 48210: speedtest.meganetsaojoaquim.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,São Joaquim
+177.91.114.26,4,-10,Ookla Speedtest Server 49408: speedtest.sabertelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Quilombo
+191.253.41.1,4,1337388,Ookla Speedtest Server 49419: teste.serrageral.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Laguna
+177.66.128.42,4,0,Ookla Speedtest Server 49677: teste.clonix.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Criciúma
+177.155.140.30,4,-5,Ookla Speedtest Server 51268: inova.net.gegnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+189.126.129.6,4,-4,Ookla Speedtest Server 53425: spdtest.foxfiber.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Joinville
+168.227.132.130,4,-11,Ookla Speedtest Server 54239: speedtest.infixnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Timbó
+186.208.218.250,4,17,Ookla Speedtest Server 54651: teste.yukanet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Balneário Piçarras
+187.108.13.25,4,733817,Ookla Speedtest Server 55845: speedtest.sfrtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Joinville
+177.221.67.185,4,-10,Ookla Speedtest Server 56428: speedta01.deltaativa.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Taió
+170.244.36.9,4,-4,Ookla Speedtest Server 56937: stest.instatel.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Itapema
+168.0.16.228,4,-5,Ookla Speedtest Server 57534: speedpg01.deltaativa.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Presidente Getúlio
+177.10.208.26,4,10,Ookla Speedtest Server 57855: teste01.miltelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Itajaí
+160.238.216.36,4,48031,Ookla Speedtest Server 58431: speed.wiupfibra.com,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Palhoça
+45.234.48.138,4,-5,Ookla Speedtest Server 59049: teste.portofrancoti.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Botuverá
+177.221.71.253,4,-7,Ookla Speedtest Server 59398: speedcb01.deltaativa.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Camboriú
+170.150.237.123,4,-10,Ookla Speedtest Server 59659: speedtest-jfa.vol.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Rio do Sul
+177.72.26.94,4,-10,Ookla Speedtest Server 59783: speedtest2.dunet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Sombrio
+138.97.182.30,4,-11,Ookla Speedtest Server 59809: teste.mixconect.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Brusque
+200.24.117.197,4,-23,Ookla Speedtest Server 60209: velocidade.infopoint.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Maravilha
+45.237.108.214,4,-6,Ookla Speedtest Server 60242: svr-01-sc-bgc-bgc-lnx-spd.verointernet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Palhoça
+201.150.52.61,4,0,Ookla Speedtest Server 60407: teste.cambuhytelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Florianópolis
+45.5.99.241,4,-4,Ookla Speedtest Server 60742: testevelocidade.giganet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Laguna
+177.52.151.4,4,1,Ookla Speedtest Server 60805: speedtestsc.brsulnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Campo Belo do Sul
+45.235.55.227,4,-2,Ookla Speedtest Server 60835: velocimetro1.sim.floripa.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Florianópolis
+177.37.69.81,4,13,Ookla Speedtest Server 61015: speedtest-jca.ultrat.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Campos Novos
+187.86.168.5,4,-28,Ookla Speedtest Server 61104: teste.khromos.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Campos Novos
+170.81.41.3,4,1,Ookla Speedtest Server 61350: sts.oeste.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
+187.108.12.11,4,-9,Ookla Speedtest Server 61461: speed.fusaoredes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Itaiópolis
+170.245.130.11,4,41,Ookla Speedtest Server 61512: speed.infinityprovedor.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Joinville
+170.233.180.5,4,7,Ookla Speedtest Server 62068: speed.carlessi.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Turvo
+45.184.15.248,4,-5,Ookla Speedtest Server 62586: speedtest.jetline.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,São Francisco do Sul
+186.226.126.254,4,249,Ookla Speedtest Server 62882: speedtestitp.scnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Maravilha
+177.75.165.170,4,1672,Ookla Speedtest Server 63289: cersul.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Turvo
+45.190.172.3,4,7,Ookla Speedtest Server 64909: mileniumtelecom.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Água Doce
+177.101.98.109,4,-7,Ookla Speedtest Server 65014: speedtest3.unifique.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Blumenau
+45.182.160.66,4,2,Ookla Speedtest Server 65042: speedtest.lhtech.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Ibirama
+186.232.152.7,4,-22,Ookla Speedtest Server 65146: medidor.blufibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Blumenau
+177.10.160.245,4,88772,Ookla Speedtest Server 65383: teste.enn.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+177.155.133.230,4,788313,Ookla Speedtest Server 68204: speedtest.mirainternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Descanso
+138.121.92.28,4,-11,Ookla Speedtest Server 68220: speedtest.ebertinformatica.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Correia Pinto
+186.225.1.145,4,125541,Ookla Speedtest Server 68351: teste.connectatelecomabdsc.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Joinville
+138.204.122.114,4,-4,Ookla Speedtest Server 68496: velocidade.se-connect-internet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Capivari de Baixo
+201.182.126.37,4,2,Ookla Speedtest Server 69228: speedteste02.nik.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Capivari de Baixo
+131.196.164.114,4,-17,Ookla Speedtest Server 69310: speedtest2.triunfointernet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Itaiópolis
+189.22.91.52,4,9,Ookla Speedtest Server 70075: spd68.claro.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Brusque
+186.250.188.11,4,-9,Ookla Speedtest Server 70326: speed.bwtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Itapema
+170.84.187.192,4,404842,Ookla Speedtest Server 70327: testes.fpjnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Anitápolis
+45.6.64.251,4,-3,Ookla Speedtest Server 70453: speed.localinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Balneário Camboriú
+131.108.123.142,4,-11,Ookla Speedtest Server 70746: br7.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Luiz Alves
+190.123.192.36,4,-3,Ookla Speedtest Server 70960: speedtest.ccstelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Balneário Camboriú
+45.166.52.54,4,-12,Ookla Speedtest Server 71266: velocidade.zlink.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Garuva
+186.211.106.228,4,-161200,Ookla Speedtest Server 71364: speedtest.lgredes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Treze Tílias
+131.255.132.4,4,-24,Ookla Speedtest Server 71603: speedtest-jve.ultrat.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Rio Branco
+168.195.99.190,4,6,Ookla Speedtest Server 71618: teste.frasanet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Joinville
+45.227.31.131,4,10945,Ookla Speedtest Server 72335: speedtest.bwprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Concórdia
+187.61.96.4,4,5,Ookla Speedtest Server 72488: speed.conexaolink.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Itapema
+177.155.130.250,4,-5,Ookla Speedtest Server 72554: speed.mknetprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Papanduva
+45.187.152.3,4,18,Ookla Speedtest Server 73030: teste.xinternet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Palhoça
 191.240.135.227,4,95,Ookla Speedtest Server: speedtestcco.scnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
-177.52.151.4,4,3,Ookla Speedtest Server: speedtestsc.brsulnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Campo Belo do Sul
-45.190.55.8,4,59,Ookla Speedtest Server: teste.exainternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Araranguá
+187.85.164.152,4,1273,pcj.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Blumenau
 45.224.128.220,4,826,peixeurbano.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
 170.81.41.119,4,11,pensarcursos.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
-200.19.215.161,4,-56,sc.gov.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Palhoça
-150.162.2.10,4,9,ufsc.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Florianópolis
-179.127.80.235,4,1162,unibave.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Criciúma
-170.81.42.122,4,342,vozdabahia.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
-177.200.196.254,4,10,wk.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Joinville
+45.163.12.53,4,114,portaldemarcelino.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Videira
+170.81.43.64,4,8,sbis.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
+200.19.215.161,4,0,sc.gov.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+45.224.131.211,4,37,simplicissimo.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
+170.81.43.153,4,14,uniali.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
+179.127.80.235,4,618,unibave.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Criciúma
+177.200.196.254,4,10,wk.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Blumenau

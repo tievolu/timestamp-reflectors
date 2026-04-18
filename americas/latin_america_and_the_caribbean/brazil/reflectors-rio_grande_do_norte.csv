@@ -1,27 +1,64 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-187.33.241.19,4,28,apuanaesportes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
-187.33.241.58,4,28,cldo.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
-177.91.134.172,4,8,DNS Server: 172-134-91-177.worldnetrn.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
-138.36.5.234,4,30976,DNS Server: din-138-36-5-234.vivatelecomnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Mossoró
-167.250.141.148,4,88560,DNS Server: din-167-250-141-148.jhnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Caicó
-187.33.241.16,4,4,hoogli.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
-187.33.241.49,4,53,literaturaacessivel.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
-187.33.241.10,4,35,maisgazeta.com,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
-187.33.241.13,4,22,maranhaohoje.com,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
-128.201.216.130,4,54,Ookla Speedtest Server 16299: speedtest2.qerotelecom.com,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Extremoz
-45.234.108.3,4,92,Ookla Speedtest Server 17673: speed01.connectnetbrasil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Ipanguaçu
-170.80.156.3,4,375,Ookla Speedtest Server 33874: speedtest.zaznatal.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
-186.211.185.194,4,331,Ookla Speedtest Server 38540: speedtest.jonnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
-143.137.76.36,4,334,Ookla Speedtest Server 38756: speed.net4you.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Tibau do Sul
-170.82.254.138,4,228,Ookla Speedtest Server 49970: speedtest.tcomp.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
-45.181.143.22,4,113,Ookla Speedtest Server 55940: speedt.prlinkprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
-200.9.104.10,4,323,Ookla Speedtest Server 55947: speedt.clicktellecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
-181.232.228.34,4,87,Ookla Speedtest Server 56177: teste.clikpower.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
-187.33.228.81,4,320,Ookla Speedtest Server 56546: speedt.connectnownet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
-177.11.66.16,4,267,Ookla Speedtest Server 57973: speedt.ionnetbr.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
-170.82.253.4,4,350,Ookla Speedtest Server 61842: speedt.netfulltelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Senador Elói de Souza
-187.19.151.214,4,-261666,Ookla Speedtest Server 63044: speedtest.agilitytelecomcruz.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,São Tomé
+177.37.220.25,4,12488,brisanet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,São Miguel
+177.37.220.26,4,-73350,brisanet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,São Miguel
+177.91.134.172,4,38805,DNS Server: 172-134-91-177.worldnetrn.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+177.91.134.173,4,38804,DNS Server: 173-134-91-177.worldnetrn.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+138.36.5.234,4,6721,DNS Server: din-138-36-5-234.vivatelecomnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Mossoró
+167.250.141.148,4,-13209,DNS Server: din-167-250-141-148.jhnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Caicó
+138.204.220.44,4,32,fiern.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+138.99.164.247,4,196475,Ookla Speedtest Server 9722: speedtest.zecnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Mossoró
+45.171.56.12,4,0,Ookla Speedtest Server 12739: speedtest.gmnetprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Governador Dix-Sept Rosado
+45.238.73.244,4,3,Ookla Speedtest Server 13078: speedtest.aliancalink.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+160.238.190.3,4,17,Ookla Speedtest Server 15512: teste01.ssmtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Açu
+45.228.100.2,4,-178932,Ookla Speedtest Server 19258: speed-currais.telecab.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Currais Novos
+170.83.168.238,4,-48,Ookla Speedtest Server 24122: st1.mtinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Macaíba
+45.161.124.8,4,-20,Ookla Speedtest Server 27456: speed.fastrn.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+45.169.81.4,4,-6,Ookla Speedtest Server 28803: speedtest.misterlink.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+45.71.120.217,4,-1,Ookla Speedtest Server 31326: teste.agrestetelecomunicacoes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Santo Antônio
+177.11.64.135,4,0,Ookla Speedtest Server 33177: ookla.digicontrol.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+170.80.156.3,4,0,Ookla Speedtest Server 33874: speedtest.zaznatal.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+168.196.199.36,4,117279,Ookla Speedtest Server 35732: speedtest.multcon.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+138.94.92.13,4,-2809913,Ookla Speedtest Server 35870: speedtest.viafacilnet.com,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Açu
+170.82.255.245,4,-7,Ookla Speedtest Server 36242: speedtest.netgo.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+179.42.116.253,4,13712,Ookla Speedtest Server 36771: speedtest.mktelecomnatal.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+143.137.76.36,4,-77,Ookla Speedtest Server 38756: speed.net4you.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Goianinha
+138.185.252.90,4,-9,Ookla Speedtest Server 39789: speedtest.topwebtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Nova Cruz
+201.159.160.19,4,-1996218436,Ookla Speedtest Server 40176: speedtest.citconecta.net,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Vera Cruz
+170.233.96.42,4,10,Ookla Speedtest Server 40342: ookla.dginet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Serra Negra do Norte
+187.49.180.61,4,6,Ookla Speedtest Server 43432: speedtest.ultracabo.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Bom Jesus
+170.79.116.22,4,22,Ookla Speedtest Server 43603: ookla.gigaflash.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+177.154.223.130,4,-7511,Ookla Speedtest Server 44090: speed.tcm10.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Caraúbas
+170.82.255.251,4,17,Ookla Speedtest Server 45960: speedtest.cit.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+190.107.164.8,4,-24,Ookla Speedtest Server 46251: speedtest.localtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,São Miguel
+191.37.208.203,4,-2,Ookla Speedtest Server 49389: speedtest.sertaolink.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Riacho de Santana
+170.82.254.138,4,-40,Ookla Speedtest Server 49970: speedtest.tcomp.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+170.82.253.88,4,-2,Ookla Speedtest Server 50793: velocidade.rmsnetprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+45.171.228.53,4,-83,Ookla Speedtest Server 50851: speedtest.powercomnetwork.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Brejinho
+45.181.143.22,4,-18,Ookla Speedtest Server 55940: speedt.prlinkprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+200.9.104.10,4,-6,Ookla Speedtest Server 55947: speedt.clicktellecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+181.232.228.34,4,16,Ookla Speedtest Server 56177: teste.clikpower.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+186.250.160.170,4,-14,Ookla Speedtest Server 56546: speedt.ispconnect.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,São Gonçalo do Amarante
+170.82.252.136,4,3,Ookla Speedtest Server 57915: rsp1.jbnettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+177.11.66.16,4,0,Ookla Speedtest Server 57973: speedt.ionnetbr.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+177.11.65.216,4,34388,Ookla Speedtest Server 58812: speedt.potiguarnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+190.89.184.200,4,-7,Ookla Speedtest Server 58948: speedt.netjet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Santa Cruz
+45.171.230.61,4,5,Ookla Speedtest Server 59199: speedtest.multi.ppnetwork.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Arês
+177.91.132.12,4,-22,Ookla Speedtest Server 59810: speed.worldnetrn.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+149.78.8.19,4,8,Ookla Speedtest Server 61842: speedt.netfulltelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Poço Branco
+200.229.208.250,4,-23,Ookla Speedtest Server 62008: speedt.r2webnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Angicos
 170.233.120.182,4,26048,Ookla Speedtest Server 63277: velocidade.jctelecomsjm.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
-170.82.252.136,4,31398,Ookla Speedtest Server: rsp1.jbnettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
-189.124.128.58,4,312,Ookla Speedtest Server: speedtest.cabonatal.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
-187.33.241.46,4,66,plugando.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+190.89.19.10,4,-8,Ookla Speedtest Server 63771: ookla.navegaja.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Cruzeta
+189.89.64.71,4,-11,Ookla Speedtest Server 65422: speedtest.interjato.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+168.0.112.30,4,1249,Ookla Speedtest Server 67773: speedtest.tcmnatal.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Parnamirim
+45.225.60.13,4,-23,Ookla Speedtest Server 67871: speedtest10.inforwaynet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Canguaretama
+138.122.44.134,4,-10,Ookla Speedtest Server 68180: speedtest.cicloti.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Serra do Mel
+132.255.78.22,4,4,Ookla Speedtest Server 69311: speedt.ativa2telecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Serra Caiada
+170.82.254.41,4,185,Ookla Speedtest Server 69463: teste.rnconect.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+45.161.124.9,4,8,Ookla Speedtest Server 69561: sp.fastrn.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+45.169.83.156,4,-23,Ookla Speedtest Server 69736: speed.adtelecomrn.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+179.42.117.4,4,-1,Ookla Speedtest Server 70572: speedtest.linktec.ppnetwork.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal
+168.194.176.82,4,12,Ookla Speedtest Server 71204: ookla.netcomrn.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Ceará-Mirim
+168.227.163.44,4,-15,Ookla Speedtest Server 71903: ookla.booanet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Montanhas
+190.89.187.19,4,14,Ookla Speedtest Server 72844: speedtest.acnetrnprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Santa Cruz
+179.51.188.192,4,140586,Ookla Speedtest Server 73116: speed.pezaotelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Pau dos Ferros
+189.124.128.58,4,13,Ookla Speedtest Server: speedtest.cabonatal.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Norte,,Natal

@@ -1,2 +1,8 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-138.122.72.243,4,762,DNS Server: 138-122-72-243.user.starinternet.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Gravataí
+138.122.72.243,4,-9,DNS Server: 138-122-72-243.user.starinternet.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Gravataí
+45.235.208.19,4,750,DNS Server: r-45-235-208-019.cyberwebatjp.inf.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Gravataí
+45.235.208.238,4,4,Ookla Speedtest Server 33265: speedtest.cyberwebatjp.inf.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Gravataí
+138.122.72.8,4,0,Ookla Speedtest Server 43775: speed.star.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Gravataí
+45.191.68.154,4,11,Ookla Speedtest Server 67555: node1.speedtest.netgti.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Gravataí
+177.67.151.241,4,7,Ookla Speedtest Server 70177: velocidade.gti.masternetrs.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Gravataí
+177.67.148.41,4,5,Ookla Speedtest Server 70947: velocidade.chn.masternetrs.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Gravataí

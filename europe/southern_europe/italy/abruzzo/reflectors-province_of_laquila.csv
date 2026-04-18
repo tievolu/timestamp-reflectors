@@ -1,3 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-45.142.134.100,4,8,DNS Server: ip100-134.dinamic.retail.az.witel.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of L'Aquila,Avezzano
-185.184.136.203,4,54,i-ticket.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of L'Aquila,Avezzano
+185.120.80.8,4,-9,fondazioneisal.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of L'Aquila,Sulmona
+185.184.136.233,4,0,i-ticket.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of L'Aquila,Collelongo
+185.47.97.255,4,-2,Ookla Speedtest Server 7769: speedtest.sinetsrl.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of L'Aquila,Sulmona

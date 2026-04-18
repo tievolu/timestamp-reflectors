@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-45.228.32.139,4,1267,DNS Server: 45-228-32-139.acbinfo.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Itaberaí
+45.228.32.139,4,15811,DNS Server: 45-228-32-139.acbinfo.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Itaberaí
+45.238.100.26,4,-5,Ookla Speedtest Server 26586: ookla.oraclon.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Itaberaí
+45.228.32.43,4,5195,Ookla Speedtest Server 35829: teste.acbfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Itaberaí

@@ -1,3 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-177.75.75.1,4,3,DNS Server: 1.75.75.177.in-addr.arpa,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Paulo Afonso
-177.75.75.0,4,36084,Ookla Speedtest Server 55329: teste.i9telecon.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Paulo Afonso
+177.75.75.1,4,10,DNS Server: 1.75.75.177.in-addr.arpa,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Paulo Afonso
+177.75.75.0,4,-2,Ookla Speedtest Server 55329: teste.i9telecon.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Paulo Afonso
+45.184.221.98,4,0,Ookla Speedtest Server 64744: teste1.uau1.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Paulo Afonso
+191.5.199.28,4,4802,Ookla Speedtest Server 69998: teste.netlins.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Paulo Afonso

@@ -1,7 +1,12 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-154.66.140.72,4,967,DNS Server: c.140-072.dynamic.isoceltelecom.net,BJ,Africa,Sub-Saharan Africa,Benin,Littoral,,Cotonou
-154.66.140.80,4,1049,DNS Server: c.140-080.dynamic.isoceltelecom.net,BJ,Africa,Sub-Saharan Africa,Benin,Littoral,,Cotonou
-154.66.140.120,4,292,DNS Server: c.140-120.dynamic.isoceltelecom.net,BJ,Africa,Sub-Saharan Africa,Benin,Littoral,,Cotonou
-154.66.140.132,4,212,DNS Server: c.140-132.dynamic.isoceltelecom.net,BJ,Africa,Sub-Saharan Africa,Benin,Littoral,,Cotonou
-154.66.140.224,4,-22362313,DNS Server: c.140-224.dynamic.isoceltelecom.net,BJ,Africa,Sub-Saharan Africa,Benin,Littoral,,Cotonou
+154.66.140.72,4,925,DNS Server: c.140-072.dynamic.isoceltelecom.net,BJ,Africa,Sub-Saharan Africa,Benin,Littoral,,Cotonou
+154.66.140.80,4,626,DNS Server: c.140-080.dynamic.isoceltelecom.net,BJ,Africa,Sub-Saharan Africa,Benin,Littoral,,Cotonou
+154.66.140.120,4,408,DNS Server: c.140-120.dynamic.isoceltelecom.net,BJ,Africa,Sub-Saharan Africa,Benin,Littoral,,Cotonou
+154.66.140.132,4,647,DNS Server: c.140-132.dynamic.isoceltelecom.net,BJ,Africa,Sub-Saharan Africa,Benin,Littoral,,Cotonou
+154.66.140.224,4,262,DNS Server: c.140-224.dynamic.isoceltelecom.net,BJ,Africa,Sub-Saharan Africa,Benin,Littoral,,Cotonou
+41.79.218.245,4,2,Ookla Speedtest Server 31546: myspeedtest01.mtn.bj,BJ,Africa,Sub-Saharan Africa,Benin,Littoral,,Cotonou
+41.138.90.4,4,-5,Ookla Speedtest Server 36430: speedtest.moov-africa.bj,BJ,Africa,Sub-Saharan Africa,Benin,Littoral,,Cotonou
+41.85.175.211,4,-16,Ookla Speedtest Server 48766: speedtest1.sbin.bj,BJ,Africa,Sub-Saharan Africa,Benin,Littoral,,Cotonou
+137.255.1.34,4,5,Ookla Speedtest Server 57204: speedtest10g.sbin.bj,BJ,Africa,Sub-Saharan Africa,Benin,Littoral,,Cotonou
+41.86.224.122,4,-18145,Ookla Speedtest Server 58617: speedtest.isoceltelecom.com,BJ,Africa,Sub-Saharan Africa,Benin,,,
 196.192.16.2,4,-22172,uac.bj,BJ,Africa,Sub-Saharan Africa,Benin,,,

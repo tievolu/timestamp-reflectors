@@ -1,5 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-77.69.35.118,4,43,athenianbrewery.gr,GR,Europe,Southern Europe,Greece,Thessaly,Nomós Larísis,Larissa
-2.86.33.153,4,634,DNS Server: ppp-2-86-33-153.home.otenet.gr,GR,Europe,Southern Europe,Greece,Thessaly,Nomós Kardhítsas,Agios Nikolaos
-185.4.132.122,4,343,Ookla Speedtest Server 25306: skoultsos.eu,GR,Europe,Southern Europe,Greece,Thessaly,Magnesia,Argalastí
-77.69.37.68,4,43,Vodafone-Panafon Hellenic Telecommunications Company SA Thessaloniki,GR,Europe,Southern Europe,Greece,Thessaly,Nomós Larísis,Larissa
+85.73.73.246,4,-10,DNS Server: 246.73.73.85.static.otenet.gr,GR,Europe,Southern Europe,Greece,Thessaly,,Larissa
+77.49.160.241,4,51077523,DNS Server: 77.49.160.241.dsl.dyn.forthnet.gr,GR,Europe,Southern Europe,Greece,Thessaly,,Volos
+2.85.190.113,4,547,DNS Server: ppp-2-85-190-113.home.otenet.gr,GR,Europe,Southern Europe,Greece,Thessaly,,Zagora-Mouresi
+94.67.232.215,4,716,DNS Server: ppp-94-67-232-215.home.otenet.gr,GR,Europe,Southern Europe,Greece,Thessaly,,Larissa
+185.4.132.122,4,15,Ookla Speedtest Server 25306: skoultsos.eu,GR,Europe,Southern Europe,Greece,Thessaly,,Argalastí

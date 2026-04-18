@@ -1,3 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-189.204.230.182,4,16,DNS Server: 182.189-204-230.bestelclientes.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Saltillo
-45.5.94.206,4,639,DNS Server: slw.nrtmexico.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Saltillo
+187.216.41.205,4,25829,DNS Server: customer-187-216-41-205.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Saltillo
+45.5.94.206,4,762,DNS Server: slw.nrtmexico.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Saltillo
+187.244.33.10,4,-5,Ookla Speedtest Server 17297: speedtest.sllo.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Saltillo
+138.185.226.2,4,-2,Ookla Speedtest Server 25775: speedtest.spectro.mx,MX,Americas,Latin America and the Caribbean,Mexico,Coahuila,,Saltillo

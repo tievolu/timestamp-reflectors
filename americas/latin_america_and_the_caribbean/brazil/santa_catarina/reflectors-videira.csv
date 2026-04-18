@@ -1,3 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-186.225.10.4,4,6,DNS Server: 186-225-10-4.unifique.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Videira
-177.75.161.9,4,128,Ookla Speedtest Server: sp1.infopasa.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Videira
+45.163.12.10,4,-19,brdrive.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Videira
+186.225.10.4,4,-4,DNS Server: 186-225-10-4.unifique.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Videira
+45.163.12.6,4,-40,Ookla Speedtest Server 27312: ooklaserver.brdrive.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Videira
+45.163.12.53,4,114,portaldemarcelino.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Videira

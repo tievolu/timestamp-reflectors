@@ -1,5 +1,10 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-189.254.232.225,4,-23687,DNS Server: customer-189-254-232-225-sta.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Morelia
-189.135.35.118,4,281,DNS Server: dsl-189-135-35-118-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Sahuayo de Morelos
-189.254.225.213,4,376,DNS Server: mail.cesantoni.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Zamora
-201.144.48.73,4,3521606,DNS Server: static.customer-201-144-48-73.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Morelia
+189.254.232.225,4,-391248,DNS Server: customer-189-254-232-225-sta.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Morelia
+201.117.254.241,4,-1097223067,DNS Server: customer-201-117-254-241.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Morelia
+201.164.60.34,4,87821,DNS Server: customer-MCA-ZRA-60-34.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Zamora
+187.244.25.2,4,-12,Ookla Speedtest Server 39681: speedtest.mor.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Morelia
+187.244.23.34,4,-29,Ookla Speedtest Server 59022: speedtest.uru.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Uruapan
+38.45.247.9,4,-3,Ookla Speedtest Server 62589: speedtest.mtfibra.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Apatzingán
+45.174.251.50,4,2,Ookla Speedtest Server 68709: speedtest.wifmax.com,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Morelia
+206.85.8.153,4,-3,Ookla Speedtest Server 73860: speedtest.malamik.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Huetamo de Núñez
+148.216.108.180,4,37359,umich.mx,MX,Americas,Latin America and the Caribbean,Mexico,Michoacán,,Morelia

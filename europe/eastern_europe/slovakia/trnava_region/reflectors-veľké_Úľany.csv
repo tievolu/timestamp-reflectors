@@ -1,0 +1,5 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+185.227.169.67,4,-27287,DNS Server: mail.rapidnet.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Veľké Úľany
+195.91.91.136,4,1,DNS Server: static-flarion-136.195-91-91.telekom.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Veľké Úľany
+195.91.93.37,4,57693259,DNS Server: static-flarion-37.195-91-93.telekom.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Veľké Úľany
+195.91.92.38,4,13,DNS Server: static-flarion-38.195-91-92.telekom.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Veľké Úľany

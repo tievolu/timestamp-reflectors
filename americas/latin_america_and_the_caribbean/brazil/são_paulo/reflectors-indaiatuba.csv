@@ -1,3 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-45.190.108.12,4,331,Ookla Speedtest Server: speedtest.iffc.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Indaiatuba
-200.152.17.53,4,202,Ookla Speedtest Server: speedtest.novaprovedora.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Indaiatuba
+189.108.0.254,4,53420559,DNS Server: 189-108-0-254.customer.tdatabrasil.net.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Indaiatuba
+45.190.108.12,4,1,Ookla Speedtest Server 30835: speedtest.iffc.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Indaiatuba
+200.152.17.53,4,6,Ookla Speedtest Server 63889: speedtest.novaprovedora.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Indaiatuba

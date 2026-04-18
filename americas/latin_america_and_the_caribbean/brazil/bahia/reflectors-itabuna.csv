@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-179.106.174.11,4,265,Ookla Speedtest Server 54848: speedtest-itb.henet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Itabuna
+45.238.25.10,4,9,Ookla Speedtest Server 26932: speed.interlinktelecomunicacoes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Itabuna
+45.6.90.6,4,4,Ookla Speedtest Server 31535: ookla.jmnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Itabuna
+179.106.174.11,4,-3,Ookla Speedtest Server 54848: speedtest-itb.henet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Itabuna
+177.87.10.13,4,-5,Ookla Speedtest Server 68853: speedvox-ita.voxconexao.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Itabuna

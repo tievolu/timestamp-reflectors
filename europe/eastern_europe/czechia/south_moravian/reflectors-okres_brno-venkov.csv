@@ -1,7 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-89.190.44.50,4,41,DNS Server: 89-190-44-50.cust.selfnet.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Okres Brno-venkov,Popůvky
-89.190.47.113,4,15032,DNS Server: 89-190-47-113.cust.selfnet.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Okres Brno-venkov,Popůvky
-89.190.60.130,4,4,DNS Server: 89-190-60-130.cust.selfnet.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Okres Brno-venkov,Hrušovany u Brna
-178.77.243.102,4,-29321054,DNS Server: ip-178-77-243-102.net.vodafone.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Okres Brno-venkov,Vlasatice
-77.48.45.234,4,5494,DNS Server: ip-77-48-45-234.net.vodafone.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Okres Brno-venkov,Střelice
-217.112.171.196,4,10682,DNS Server: mta.frystak.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Okres Brno-venkov,Lelekovice
+89.190.47.113,4,1378,DNS Server: 89-190-47-113.cust.selfnet.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Okres Brno-venkov,Židlochovice
+109.105.40.34,4,48964,DNS Server: cpanel.vegatm.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Okres Brno-venkov,Neslovice
+77.48.45.234,4,8847,DNS Server: ip-77-48-45-234.net.vodafone.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Okres Brno-venkov,Střelice
+93.99.7.106,4,149162,DNS Server: ip-93-99-7-106.net.vodafone.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Okres Brno-venkov,Řícmanice
+46.149.120.55,4,-44,DNS Server: snat2-55.alfservis.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Okres Brno-venkov,Tišnov

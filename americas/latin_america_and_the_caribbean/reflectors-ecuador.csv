@@ -1,55 +1,187 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-186.69.15.61,4,24,conocimientolibre.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
-181.112.60.126,4,-53416677,DNS Server: 126.60.112.181.static.anycast.cnt-grms.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
-190.152.182.150,4,-8275745,DNS Server: 150.182.152.190.static.anycast.cnt-grms.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
-204.199.157.70,4,-1003291,DNS Server: 204-199-157-70.dia.static.centurylink.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
-191.100.22.36,4,34,DNS Server: 36.191-100-22.etapanet.net,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
-191.100.20.40,4,51,DNS Server: 40.191-100-20.etapanet.net,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
-190.63.54.76,4,109077,DNS Server: customer-190-63-54-76.claro.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
-131.196.14.211,4,9,DNS Server: host-131-196-14-211.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Quevedo
-157.100.55.226,4,24371,DNS Server: host-157-100-55-226.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
-157.100.63.111,4,9,DNS Server: host-157-100-63-111.ecua.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
-164.163.133.142,4,-39401372,DNS Server: host-164-163-133-142.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
-177.234.199.222,4,266,DNS Server: host-177-234-199-222.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
-177.234.229.75,4,-38064,DNS Server: host-177-234-229-75.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Manta
-177.234.245.244,4,120,DNS Server: host-177-234-245-244.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Babahoyo
-177.234.249.65,4,892,DNS Server: host-177-234-249-65.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Tungurahua Province,,Baños
-200.24.136.233,4,904,DNS Server: host-200-24-136-233.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
-200.24.146.10,4,30750441,DNS Server: host-200-24-146-10.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Ventanas
-200.24.159.207,4,11,DNS Server: host-200-24-159-207.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
-45.186.140.23,4,77,DNS Server: host-45-186-140-23.tecmesh.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,El Oro,,Huaquillas
-45.224.148.158,4,31192370,DNS Server: host-45-224-148-158.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
-45.224.153.236,4,430936,DNS Server: host-45-224-153-236.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Esmeraldas,,Atacames
-45.224.22.25,4,-8638052,DNS Server: host-45-224-22-25.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Chimborazo Province,,Riobamba
-45.224.98.58,4,196,DNS Server: host-45-224-98-58.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
-45.225.105.117,4,88,DNS Server: host-45-225-105-117.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,El Oro,,Marcabelí
-45.70.201.66,4,-35881961,DNS Server: host-45-70-201-66.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Cotopaxi,,San Miguel de Salcedo
-45.70.238.213,4,118,DNS Server: host-45-70-238-213.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Portoviejo
-45.71.186.42,4,113,DNS Server: host-45-71-186-42.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Quevedo
-45.230.241.228,4,106,DNS Server: ip-45-230-241-228.alfanet.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Portoviejo
-186.3.15.117,4,7,ecotec.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
-190.95.206.99,4,26,olade.org,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
-45.71.252.25,4,-2057,Ookla Speedtest Server 15574: speedtest2.visionnet.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Loja,,Loja
-131.161.223.230,4,41,Ookla Speedtest Server 16715: speedtest1.gonet.ec,EC,Americas,Latin America and the Caribbean,Ecuador,El Oro,,Machala
-167.250.180.78,4,331,Ookla Speedtest Server 44180: se.sistemasempresariales.net,EC,Americas,Latin America and the Caribbean,Ecuador,Cotopaxi,,Latacunga
-45.228.172.19,4,246,Ookla Speedtest Server 46276: speedtestavisa.teccial.com,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
-138.122.108.91,4,-27465274,Ookla Speedtest Server 47486: speedtest.brinatel.com,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Milagro
-200.31.6.98,4,173,Ookla Speedtest Server 55030: quito.speedtest.ciriontechnologies.com,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
-181.198.102.179,4,1373,Ookla Speedtest Server 56928: speed.dfscom.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
-177.234.249.77,4,327,Ookla Speedtest Server 57742: speedtest.fiberhome-patate.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Tungurahua Province,,Patate
-45.161.33.234,4,121353,Ookla Speedtest Server 57970: speedtest.grupovelocity.com,EC,Americas,Latin America and the Caribbean,Ecuador,Loja,,Loja
-45.161.34.210,4,379,Ookla Speedtest Server 58852: speedtestc.grupovelocity.com,EC,Americas,Latin America and the Caribbean,Ecuador,Loja,,Loja
+186.68.104.155,4,-56,cna-ecuador.com,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+186.69.15.91,4,13,conocimientolibre.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+38.190.187.101,4,1,diarioeltiempo.com.ve,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+191.100.20.116,4,5524,DNS Server: 116.191-100-20.etapanet.net,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+190.152.5.126,4,464,DNS Server: 126.5.152.190.static.anycast.cnt-grms.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+181.112.60.126,4,41479940,DNS Server: 126.60.112.181.static.anycast.cnt-grms.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+190.152.219.135,4,240,DNS Server: 135.219.152.190.static.anycast.cnt-grms.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+179.60.244.1,4,-8,DNS Server: 179-60-244-1-mtk.wisp.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Imbabura,,Ibarra
+179.60.244.11,4,-11,DNS Server: 179-60-244-11-ptr.wisp.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Imbabura,,Ibarra
+191.100.22.36,4,-22,DNS Server: 36.191-100-22.etapanet.net,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+191.100.20.40,4,-599,DNS Server: 40.191-100-20.etapanet.net,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+45.184.225.59,4,12,DNS Server: 4518422559.ip3.static.mediacommerce.com.co,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+190.12.61.146,4,8825,DNS Server: corp-190-12-61-146.loh.puntonet.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+190.63.54.76,4,27577,DNS Server: customer-190-63-54-76.claro.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+131.196.14.211,4,-2,DNS Server: host-131-196-14-211.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Quevedo
+157.100.58.174,4,26809,DNS Server: host-157-100-58-174.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+157.100.63.111,4,-3,DNS Server: host-157-100-63-111.ecua.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Cotopaxi,,Pujilí
+157.100.63.48,4,1075,DNS Server: host-157-100-63-48.ecua.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Cotopaxi,,Pujilí
+164.163.133.102,4,1,DNS Server: host-164-163-133-102.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+164.163.133.21,4,2061,DNS Server: host-164-163-133-21.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+177.234.199.222,4,0,DNS Server: host-177-234-199-222.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+177.234.209.111,4,4036,DNS Server: host-177-234-209-111.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+177.234.209.142,4,-1,DNS Server: host-177-234-209-142.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+177.234.212.94,4,-9,DNS Server: host-177-234-212-94.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+177.234.226.92,4,-2,DNS Server: host-177-234-226-92.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,El Oro,,Pasaje
+177.234.245.105,4,5434,DNS Server: host-177-234-245-105.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Babahoyo
+177.234.245.244,4,81,DNS Server: host-177-234-245-244.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Babahoyo
+177.234.249.65,4,-15,DNS Server: host-177-234-249-65.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Chimborazo Province,,Riobamba
+181.199.127.197,4,30751,DNS Server: host-181-199-127-197.ecua.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+186.4.206.188,4,-101,DNS Server: host-186-4-206-188.netlife.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+186.4.212.236,4,297417,DNS Server: host-186-4-212-236.netlife.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+200.24.130.124,4,-6,DNS Server: host-200-24-130-124.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+200.24.136.233,4,35186,DNS Server: host-200-24-136-233.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+200.24.146.10,4,31668145,DNS Server: host-200-24-146-10.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Esmeraldas,,Esmeraldas
+200.24.159.207,4,2,DNS Server: host-200-24-159-207.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+45.186.140.23,4,4609,DNS Server: host-45-186-140-23.tecmesh.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,El Oro,,Huaquillas
+45.224.148.158,4,32488914,DNS Server: host-45-224-148-158.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+45.224.148.169,4,-2,DNS Server: host-45-224-148-169.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+45.224.148.61,4,1438,DNS Server: host-45-224-148-61.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+45.224.153.18,4,-5513,DNS Server: host-45-224-153-18.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Sucumbíos,,Nueva Loja
+45.224.153.22,4,-5513,DNS Server: host-45-224-153-22.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Sucumbíos,,Nueva Loja
+45.224.153.236,4,16944,DNS Server: host-45-224-153-236.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Sucumbíos,,Nueva Loja
+45.224.153.60,4,-2,DNS Server: host-45-224-153-60.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Sucumbíos,,Nueva Loja
+45.224.22.25,4,34415,DNS Server: host-45-224-22-25.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Bahía de Caráquez
+45.224.96.67,4,-21,DNS Server: host-45-224-96-67.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Portoviejo
+45.224.98.132,4,37209,DNS Server: host-45-224-98-132.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Portoviejo
+45.224.98.58,4,-18,DNS Server: host-45-224-98-58.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Portoviejo
+45.236.107.105,4,1172,DNS Server: host-45-236-107-105.fibramax.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+45.70.196.11,4,155,DNS Server: host-45-70-196-11.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Buena Fe
+45.70.196.236,4,-12,DNS Server: host-45-70-196-236.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Buena Fe
+45.71.203.144,4,-11,DNS Server: host-45-71-203-144.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,El Oro,,Piñas
+45.71.37.98,4,-447,DNS Server: host-45-71-37-98.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Quevedo
+45.183.141.201,4,-6879,DNS Server: host-45.183.141-201.csed.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Santo Domingo de los Tsáchilas,,Santo Domingo de los Colorados
+45.230.240.182,4,64493740,DNS Server: ip-45-230-240-182.alfanet.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Santo Domingo de los Tsáchilas,,Santo Domingo de los Colorados
+45.230.241.252,4,7,DNS Server: ip-45-230-241-252.alfanet.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Santo Domingo de los Tsáchilas,,Santo Domingo de los Colorados
+205.235.2.3,4,-20,DoH server: dnscry.pt-guayaquil-ipv4,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+186.3.15.117,4,-31,ecotec.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,El Oro,,Machala
+190.15.131.16,4,-5,iaen.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+66.231.64.5,4,-11,isolatot.com,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+45.71.185.100,4,-10,NEDETEL S.A.,EC,Americas,Latin America and the Caribbean,Ecuador,El Oro,,El Guabo
+181.78.192.253,4,6,Ookla Speedtest Server 2441: speedtest.hsyns.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Babahoyo
+186.178.234.2,4,-6,Ookla Speedtest Server 4970: speedtest-gye.fastboy.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+143.255.248.157,4,-3,Ookla Speedtest Server 8442: speedtest.cedia.org.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+200.63.106.2,4,-4,Ookla Speedtest Server 10511: sp1.iplanet.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+179.49.26.234,4,9,Ookla Speedtest Server 11998: speedtest2.puntonet.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+45.173.229.246,4,11491,Ookla Speedtest Server 13216: speedtest.ecuriolindo.com,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+45.71.252.25,4,13,Ookla Speedtest Server 15574: speedtest.visionnet.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Loja,,Amaluza
+131.161.223.230,4,-6,Ookla Speedtest Server 16715: speedtest1.gonet.ec,EC,Americas,Latin America and the Caribbean,Ecuador,El Oro,,Santa Rosa
+190.96.96.3,4,-10,Ookla Speedtest Server 17299: speedtest.nettplus.net,EC,Americas,Latin America and the Caribbean,Ecuador,Loja,,Loja
+179.60.247.252,4,-6,Ookla Speedtest Server 27813: mrtg.wisp.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Imbabura,,Ibarra
+170.83.216.19,4,1,Ookla Speedtest Server 28963: speedtest.masnet.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Santa Ana de Vuelta Larga
+200.25.38.205,4,20,Ookla Speedtest Server 29620: spt-uio.edgeuno.com,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+45.6.224.74,4,6,Ookla Speedtest Server 31043: speed.extreme.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Tungurahua Province,,Ambato
+170.244.208.6,4,-5,Ookla Speedtest Server 32671: speedtest.ip-access.net,EC,Americas,Latin America and the Caribbean,Ecuador,Tungurahua Province,,Ambato
+45.70.239.45,4,-9,Ookla Speedtest Server 35636: speedtest.silvegnetfiber.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Manta
+157.100.52.35,4,8,Ookla Speedtest Server 36493: speedtest.danatelfiber.com,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+177.234.245.251,4,-16,Ookla Speedtest Server 36964: speedtest.chmx.rimtel.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Babahoyo
+45.225.44.30,4,6,Ookla Speedtest Server 37274: speedtest.maxxnet.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Chimborazo Province,,Riobamba
+45.190.87.57,4,3,Ookla Speedtest Server 37690: speedtest.cnc.rimtel.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,,,
+45.190.87.60,4,-24,Ookla Speedtest Server 38742: speedtest.gye.rimtel.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+187.61.95.204,4,-24,Ookla Speedtest Server 39691: speedtest2.alfanet.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Portoviejo
+45.189.58.1,4,36614739,Ookla Speedtest Server 39832: speedtest.cbvision.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Paute
+45.186.140.10,4,-12,Ookla Speedtest Server 39948: speed.tecmesh.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,El Oro,,Huaquillas
+45.230.240.44,4,10,Ookla Speedtest Server 39963: speedtest1.alfanet.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Santo Domingo de los Tsáchilas,,Santo Domingo de los Colorados
+157.100.54.7,4,5,Ookla Speedtest Server 40133: speedtest.espinettv.com,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+45.171.163.10,4,-1,Ookla Speedtest Server 41605: sp1.tecglo.com,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Portoviejo
+190.94.134.250,4,11,Ookla Speedtest Server 41908: speedtest.etapa.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+45.190.87.58,4,5,Ookla Speedtest Server 41909: speedtest.mnt.rimtel.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Manta
+200.24.131.229,4,4,Ookla Speedtest Server 41945: speedtest.conectados-ec.com,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+192.141.38.7,4,26,Ookla Speedtest Server 42156: speedtest.mercredi.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,El Triunfo
+190.89.128.184,4,-10,Ookla Speedtest Server 42233: speedtest.grupointercom.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Naranjal
+131.196.14.34,4,-5,Ookla Speedtest Server 43772: speedtest.gobravcorp.com,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Quevedo
+45.71.115.1,4,18,Ookla Speedtest Server 44689: speedtestduran.netcomcorp.info,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+45.189.56.10,4,19476461,Ookla Speedtest Server 44733: speedtestn.cbvision.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Machachi
+179.63.20.242,4,-25,Ookla Speedtest Server 45014: speedtest.dcnet.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Rocafuerte
+45.4.201.226,4,-4,Ookla Speedtest Server 45076: speedtestgye.fibramax.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+170.83.217.250,4,-23,Ookla Speedtest Server 45093: speedtest.conredsat.net,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Portoviejo
+45.228.172.19,4,-6,Ookla Speedtest Server 46276: speedtestavisa.teccial.com,EC,Americas,Latin America and the Caribbean,Ecuador,,,
+45.224.23.116,4,71920675,Ookla Speedtest Server 47383: speedtest1.conectados-ec.com,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Bahía de Caráquez
+138.122.108.91,4,2,Ookla Speedtest Server 47486: speedtest.brinatel.com,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Milagro
+45.70.13.3,4,-7,Ookla Speedtest Server 47634: speedtest.iplus.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Imbabura,,Ibarra
+177.184.92.230,4,-7,Ookla Speedtest Server 48657: speedtest.nethome.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,El Carmen
+177.53.214.42,4,-2,Ookla Speedtest Server 48937: speedmanta.fibramax.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Manta
+45.190.87.59,4,-9,Ookla Speedtest Server 49422: speedtest.maxitel.hsyns.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Vinces
+190.12.150.60,4,-21,Ookla Speedtest Server 49923: speed1.one.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Esmeraldas,,Quininde
+45.224.23.132,4,9,Ookla Speedtest Server 49955: speedtest.intercom-manabi.net,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Bahía de Caráquez
+192.141.37.114,4,-3,Ookla Speedtest Server 50376: speedtest.netmaxxbalzar.com,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,
+45.70.58.5,4,-1,Ookla Speedtest Server 50429: speedtestsimantec.simantec.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+45.224.23.130,4,19,Ookla Speedtest Server 50578: speedtest.mananetsa.net,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Bahía de Caráquez
+185.172.178.18,4,6,Ookla Speedtest Server 50655: speedtestpuyo.britel.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Napo,,Tena
+171.22.165.128,4,15641473,Ookla Speedtest Server 51019: speedtest.amazontvnet.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+192.141.37.32,4,-3,Ookla Speedtest Server 51201: libertad.mercredi.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,
+201.182.242.139,4,-15,Ookla Speedtest Server 52202: speedtest.saraguros.info,EC,Americas,Latin America and the Caribbean,Ecuador,Loja,,Saraguro
+200.24.139.162,4,19,Ookla Speedtest Server 53259: speedpvm.airwon.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+131.161.221.158,4,-35,Ookla Speedtest Server 53686: speedtest.gonet.ec,EC,Americas,Latin America and the Caribbean,Ecuador,El Oro,,Santa Rosa
+177.234.230.196,4,12173,Ookla Speedtest Server 54582: test.pasajetv.com,EC,Americas,Latin America and the Caribbean,Ecuador,El Oro,,Pasaje
+200.31.6.98,4,-12,Ookla Speedtest Server 55030: quito.speedtest.ciriontechnologies.com,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+170.83.216.39,4,-5,Ookla Speedtest Server 56455: speedtestpvo.masnet.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Santa Ana de Vuelta Larga
+45.224.22.174,4,-2,Ookla Speedtest Server 56899: speedtest.fiberpluz.net,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Bahía de Caráquez
+181.198.102.179,4,1675,Ookla Speedtest Server 56928: speed.dfscom.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+181.224.89.129,4,-5,Ookla Speedtest Server 57159: speedtest1.sitertl.com,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+181.78.201.13,4,2,Ookla Speedtest Server 57679: speedtest.skylife.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+45.161.33.234,4,-17,Ookla Speedtest Server 57970: speedtest.grupovelocity.com,EC,Americas,Latin America and the Caribbean,Ecuador,Loja,,Loja
+201.182.85.254,4,1,Ookla Speedtest Server 58226: speedtest.tvnetlago.com,EC,Americas,Latin America and the Caribbean,Ecuador,Sucumbíos,,Nueva Loja
+38.156.254.2,4,14,Ookla Speedtest Server 58263: speedtest.bosconetworks.com,EC,Americas,Latin America and the Caribbean,Ecuador,Morona-Santiago Province,,
+45.161.34.210,4,-3,Ookla Speedtest Server 58852: speedtestc.grupovelocity.com,EC,Americas,Latin America and the Caribbean,Ecuador,Loja,,Catamayo
+45.71.185.106,4,-7,Ookla Speedtest Server 59100: spdtest.netk.tel,EC,Americas,Latin America and the Caribbean,Ecuador,El Oro,,El Guabo
+45.186.6.190,4,11,Ookla Speedtest Server 59567: speedtest.fastnett.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+205.235.1.132,4,-27640,Ookla Speedtest Server 59634: speedtestgui.rednuevaconexion.net,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
 200.24.135.133,4,276,Ookla Speedtest Server 59634: speedtestgui.rednuevaconexion.net,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
-45.161.35.130,4,121307,Ookla Speedtest Server 60176: speedtestz.grupovelocity.com,EC,Americas,Latin America and the Caribbean,Ecuador,Zamora Chinchipe,,Zamora
-45.236.141.213,4,6859,Ookla Speedtest Server 62155: speedtest.yiga5.com,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
-181.188.218.222,4,353,Ookla Speedtest Server 62925: speedtest.indynet.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Loja,,Loja
+177.234.212.92,4,-9,Ookla Speedtest Server 59635: speedtestpquito.rednuevaconexion.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+181.224.88.193,4,-12,Ookla Speedtest Server 60007: speedtest2.sitertl.com,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+45.236.148.107,4,1,Ookla Speedtest Server 60039: speedtest.conexiontotal.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Gualaceo
+45.183.143.38,4,4,Ookla Speedtest Server 60791: speedtest.csed.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Santo Domingo de los Tsáchilas,,Santo Domingo de los Colorados
+205.235.1.154,4,-5,Ookla Speedtest Server 60972: speedtest.telcomfib.com,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+164.163.49.222,4,-1,Ookla Speedtest Server 61674: speedtest.zoenet.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Morona-Santiago Province,,Macas
+177.234.250.238,4,867,Ookla Speedtest Server 62106: speedtiwintza.bosconetworks.com,EC,Americas,Latin America and the Caribbean,Ecuador,Chimborazo Province,,Riobamba
+38.156.254.129,4,3112,Ookla Speedtest Server 62220: speedmendez.bosconetworks.com,EC,Americas,Latin America and the Caribbean,Ecuador,Morona-Santiago Province,,
+45.173.229.178,4,-205478,Ookla Speedtest Server 62632: speedtest.movitech.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+181.188.218.222,4,4,Ookla Speedtest Server 62925: speedtest.indynet.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Loja,,Loja
+45.233.102.35,4,-3,Ookla Speedtest Server 63032: speedmw.internetdecalidad.com,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
 45.233.101.59,4,173,Ookla Speedtest Server 63032: speedmw.internetdecalidad.com,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
-45.164.66.238,4,-40384109,Ookla Speedtest Server 63106: speedtest.vilcanet.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Loja,,Loja
-45.189.57.130,4,-114929,Ookla Speedtest Server 63271: speedtest1.cbvision.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Santa Rosa de Cusubamba
-200.24.154.84,4,262,Ookla Speedtest Server: speedtest.concelnet.com,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Rocafuerte
-179.63.20.242,4,293,Ookla Speedtest Server: speedtest.dcnet.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Portoviejo
-45.70.13.74,4,181,Ookla Speedtest Server: speedtest.iplus.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Imbabura,,Ibarra
-200.1.161.62,4,9,uees.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
-192.207.244.25,4,10115,uleam.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Manta
-201.159.222.210,4,7,uti.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
-190.15.136.231,4,201,utm.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Portoviejo
+45.71.254.17,4,-8,Ookla Speedtest Server 63140: speedtest.redplus.ec,EC,Americas,Latin America and the Caribbean,Ecuador,El Oro,,Balsas
+45.189.57.130,4,-2926,Ookla Speedtest Server 63271: speedtest1.cbvision.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Cañar,,La Troncal
+181.233.51.131,4,1,Ookla Speedtest Server 63929: speedtest.redy.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Loja,,Loja
+38.44.109.6,4,10,Ookla Speedtest Server 64014: speedtest.grupococavision.com,EC,Americas,Latin America and the Caribbean,Ecuador,Orellana Province,,Puerto Francisco de Orellana
+157.100.52.147,4,-8,Ookla Speedtest Server 64635: speedtest.uio2.rimtel.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Baba
+201.217.67.178,4,-23,Ookla Speedtest Server 65316: speedtest1.hostingsupremo.org,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Portoviejo
+186.68.104.141,4,71406,Ookla Speedtest Server 65500: speedquito.hostingsupremo.org,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+45.235.13.70,4,14,Ookla Speedtest Server 67961: testdur.speednet.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Daule
+200.112.219.162,4,2,Ookla Speedtest Server 68068: ookla.flylifecuador.com,EC,Americas,Latin America and the Caribbean,Ecuador,Imbabura,,Ibarra
+200.112.219.163,4,7,Ookla Speedtest Server 68069: ooklasanlor.flylifecuador.com,EC,Americas,Latin America and the Caribbean,Ecuador,Esmeraldas,,San Lorenzo de Esmeraldas
+181.198.21.5,4,0,Ookla Speedtest Server 68373: speedtest.orientelink.net,EC,Americas,Latin America and the Caribbean,Ecuador,Morona-Santiago Province,,Huamboya
+186.219.48.157,4,-9,Ookla Speedtest Server 68521: speeduio.ultralink.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+201.182.78.249,4,-7,Ookla Speedtest Server 68830: speedtest.fibergo.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Manta
+186.219.50.255,4,-50,Ookla Speedtest Server 69117: speedesme.ultralink.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Esmeraldas,,Atacames
+45.236.140.78,4,-16,Ookla Speedtest Server 69248: speedtest.yiga5empresas.com,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+66.231.64.19,4,3,Ookla Speedtest Server 69470: ookla.gigaipnet.com,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+186.3.44.138,4,7,Ookla Speedtest Server 69507: speedsincablesnet.uxsistemas.com,EC,Americas,Latin America and the Caribbean,Ecuador,Pastaza Province,,Puyo
+45.70.200.6,4,0,Ookla Speedtest Server 69591: speedtest.tecnycompsa.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Zamora Chinchipe,,Yantzaza
+181.198.68.147,4,1012,Ookla Speedtest Server 69751: speedtest.intelce.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+45.71.38.10,4,-4,Ookla Speedtest Server 70091: alfayomega.alfayomega.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Quevedo
+181.78.198.233,4,-5,Ookla Speedtest Server 71320: speedtest.mtv.rimtel.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Montalvo
+181.233.79.210,4,-9,Ookla Speedtest Server 71567: speedtest.velocity.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+185.181.35.99,4,-17,Ookla Speedtest Server 71732: speedfast.urdatel.com,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,
+45.224.153.63,4,-7,Ookla Speedtest Server 71802: speedtest.interplus.online,EC,Americas,Latin America and the Caribbean,Ecuador,Zamora Chinchipe,,Yantzaza
+45.70.12.30,4,40784906,Ookla Speedtest Server 72193: riobamba-bw.iplus.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Chimborazo Province,,Riobamba
+179.51.136.58,4,10,Ookla Speedtest Server 72374: speedtest1.cablemagico.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Morona-Santiago Province,,Macas
+181.188.203.26,4,15,Ookla Speedtest Server 72561: speedtest.isanett.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Montalvo
+59.153.47.206,4,-114,Ookla Speedtest Server 72648: speedtestpv.hazanet.com,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,San Juan
+103.23.62.237,4,-9,Ookla Speedtest Server 72937: speedtest.tvdatos.net,EC,Americas,Latin America and the Caribbean,Ecuador,Santo Domingo de los Tsáchilas,,Santo Domingo de los Colorados
+171.22.165.193,4,203800,Ookla Speedtest Server 73298: speedtestcayambe.amazontvnet.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+157.100.52.141,4,81585,Ookla Speedtest Server 73595: speedtest.sntln.rimtel.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Santa Elena,,Salinas
+157.100.52.142,4,81557,Ookla Speedtest Server 73599: speedtest.sntln1.rimtel.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Santa Elena,,
+181.188.216.6,4,0,Ookla Speedtest Server 73813: speedtest.jakfiber.com,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+157.100.52.50,4,-7,Ookla Speedtest Server 73823: speedtest.pdrnls.rimtel.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Cañar,,Azogues
+45.188.229.245,4,152588,Ookla Speedtest Server 74141: speedtest.astronetv.net,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+177.126.39.231,4,29,prd.org.mx,EC,Americas,Latin America and the Caribbean,Ecuador,,,
+200.93.198.229,4,-102521,pycca.com,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+186.5.76.46,4,25,repcontver.com,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+190.15.141.153,4,200788,sangregorio.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+192.188.52.3,4,35930,ucsg.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
+200.1.161.62,4,9,uees.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,,,
+192.188.46.4,4,17452476,uta.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Tungurahua Province,,Ambato
+201.159.222.210,4,4,uti.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+190.103.191.42,4,2,yachaytech.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Imbabura,,

@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-45.181.41.4,4,241,Ookla Speedtest Server 53786: sp01.protokol.mx,MX,Americas,Latin America and the Caribbean,Mexico,Oaxaca,,Oaxaca City
+189.129.34.244,4,242,DNS Server: dsl-189-129-34-244-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Oaxaca,,Oaxaca City
+45.181.41.4,4,-4,Ookla Speedtest Server 53786: sp01.protokol.mx,MX,Americas,Latin America and the Caribbean,Mexico,Oaxaca,,Oaxaca City
+187.243.117.2,4,-5,Ookla Speedtest Server 67693: speedtest.oax.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Oaxaca,,Oaxaca City
+187.141.121.227,4,11,suneo.mx,MX,Americas,Latin America and the Caribbean,Mexico,Oaxaca,,Oaxaca City

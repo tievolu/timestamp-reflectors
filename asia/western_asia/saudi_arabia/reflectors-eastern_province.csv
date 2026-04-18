@@ -1,6 +1,13 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-34.166.77.54,4,120,ara.tv,SA,Asia,Western Asia,Saudi Arabia,Eastern Province,,Dammam
 158.101.244.137,4,28,arib.com.sa,SA,Asia,Western Asia,Saudi Arabia,Eastern Province,,
+158.101.235.219,4,10,digi-labs.site,SA,Asia,Western Asia,Saudi Arabia,Eastern Province,,
 77.232.100.183,4,77,dulani.gov.sa,SA,Asia,Western Asia,Saudi Arabia,Eastern Province,,Dammam
-86.51.82.252,4,211,Ookla Speedtest Server 1734: dam.myspeed.net.sa,SA,Asia,Western Asia,Saudi Arabia,Eastern Province,,Dammam
-86.51.26.145,4,198,Ookla Speedtest Server 48995: dah.myspeed.net.sa,SA,Asia,Western Asia,Saudi Arabia,Eastern Province,,Dhahran
+80.225.67.56,4,-13,kaia.sa,SA,Asia,Western Asia,Saudi Arabia,Eastern Province,,
+86.51.82.252,4,12,Ookla Speedtest Server 1734: dam.myspeed.net.sa,SA,Asia,Western Asia,Saudi Arabia,Eastern Province,,Dammam
+86.51.26.52,4,8,Ookla Speedtest Server 25379: khobar.myspeed.net.sa,SA,Asia,Western Asia,Saudi Arabia,Eastern Province,,Khobar
+86.51.83.244,4,40,Ookla Speedtest Server 27911: hfr.myspeed.net.sa,SA,Asia,Western Asia,Saudi Arabia,Eastern Province,,Hafar Al-Batin
+86.51.26.146,4,3,Ookla Speedtest Server 28245: jbl.myspeed.net.sa,SA,Asia,Western Asia,Saudi Arabia,Eastern Province,,Jubail
+86.51.26.145,4,-1,Ookla Speedtest Server 48995: dah.myspeed.net.sa,SA,Asia,Western Asia,Saudi Arabia,Eastern Province,,Dhahran
+86.51.83.253,4,-2,Ookla Speedtest Server 58333: qtf.myspeed.net.sa,SA,Asia,Western Asia,Saudi Arabia,Eastern Province,,Al Qaţīf
+158.101.233.9,4,38,seif8911.xyz,SA,Asia,Western Asia,Saudi Arabia,Eastern Province,,
+34.166.85.121,4,24,tscosmeticseg.com,SA,Asia,Western Asia,Saudi Arabia,Eastern Province,,Dammam

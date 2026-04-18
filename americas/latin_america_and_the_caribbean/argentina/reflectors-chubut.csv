@@ -1,4 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-200.24.255.251,4,111,DNS Server: 251-255-24-200.comodoro.net,AR,Americas,Latin America and the Caribbean,Argentina,Chubut,,Comodoro Rivadavia
-200.24.255.73,4,-4,DNS Server: 73-255-24-200.comodoro.net,AR,Americas,Latin America and the Caribbean,Argentina,Chubut,,Comodoro Rivadavia
-216.244.195.11,4,-1416776,uolsinectis.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Chubut,,Rawson
+200.24.249.1,4,10267,DNS Server: 1-249-24-200.comodoro.net,AR,Americas,Latin America and the Caribbean,Argentina,Chubut,,Comodoro Rivadavia
+200.24.248.3,4,1086481,Ookla Speedtest Server 2457: test.fibra.scpl.coop,AR,Americas,Latin America and the Caribbean,Argentina,Chubut,,Comodoro Rivadavia
+138.59.0.9,4,2,Ookla Speedtest Server 13909: speedtest.nodonet.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Chubut,,Puerto Madryn
+45.236.26.5,4,2,Ookla Speedtest Server 41396: speedtest.flashband-internet.com,AR,Americas,Latin America and the Caribbean,Argentina,Chubut,,Esquel
+216.244.195.11,4,32,uolsinectis.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Chubut,,Comodoro Rivadavia

@@ -1,5 +1,11 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-128.201.111.220,4,10,bariloche.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Rio Negro,,Bariloche
-168.96.248.133,4,-713676,experttel.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Rio Negro,,Bariloche
-45.71.106.250,4,326,Ookla Speedtest Server 16247: speedtest.fiberland.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Rio Negro,,Cipolletti
-168.96.248.140,4,-713654,scielo.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Rio Negro,,Bariloche
+128.201.111.220,4,-11,bariloche.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Rio Negro,,Bariloche
+190.14.159.7,4,-5,clinicacentral.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Rio Negro,,Cipolletti
+201.251.135.158,4,0,DNS Server: 201-251-135-158.mrse.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Rio Negro,,Villa Regina
+168.196.25.241,4,78356249,Ookla Speedtest Server 787: speedtest.gc-group.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Rio Negro,,San Antonio Oeste
+45.71.106.250,4,-5,Ookla Speedtest Server 16247: speedtest.fiberland.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Rio Negro,,Cipolletti
+190.92.109.30,4,26,Ookla Speedtest Server 31748: speedtest.rionetweb.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Rio Negro,,Viedma
+191.97.96.8,4,3,Ookla Speedtest Server 55699: speedtest.vallenet.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Rio Negro,,General Roca
+186.0.212.50,4,143,Ookla Speedtest Server 59570: speedtest.gnet.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Rio Negro,,Bariloche
+38.50.62.2,4,-9,Ookla Speedtest Server 68741: elbolson.ispgroup.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Rio Negro,,El Bolsón
+128.201.108.241,4,-3,Ookla Speedtest Server 73152: stest.barinet.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Rio Negro,,Bariloche

@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-177.234.245.244,4,120,DNS Server: host-177-234-245-244.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Babahoyo
+177.234.245.105,4,5434,DNS Server: host-177-234-245-105.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Babahoyo
+177.234.245.244,4,81,DNS Server: host-177-234-245-244.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Babahoyo
+181.78.192.253,4,6,Ookla Speedtest Server 2441: speedtest.hsyns.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Babahoyo
+177.234.245.251,4,-16,Ookla Speedtest Server 36964: speedtest.chmx.rimtel.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Babahoyo

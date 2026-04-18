@@ -1,6 +1,14 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-122.53.95.126,4,-21536878,DNS Server: 122.53.95.126.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Western Visayas,Province of Aklan,Malay
-122.53.95.26,4,-4253018539,DNS Server: 122.53.95.26.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Western Visayas,Province of Aklan,Malay
-182.18.209.211,4,12,mozcom.com,PH,Asia,South-eastern Asia,Philippines,Western Visayas,Province of Iloilo,Iloilo City
-103.173.5.242,4,356,Ookla Speedtest Server 45882: speed.cinevision.live,PH,Asia,South-eastern Asia,Philippines,Western Visayas,Province of Iloilo,Iloilo City
-103.107.159.163,4,2120,Ookla Speedtest Server 64967: speedtest-server.airlivecom.com,PH,Asia,South-eastern Asia,Philippines,Western Visayas,Province of Iloilo,Pasig-bo
+122.54.17.218,4,7956646,DNS Server: 122.54.17.218.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Western Visayas,Province of Negros Occidental,Bacolod City
+122.54.23.49,4,28185699,DNS Server: 122.54.23.49.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Western Visayas,Province of Negros Occidental,Bacolod City
+58.69.21.74,4,37861824,DNS Server: 58.69.21.74.pldt.net,PH,Asia,South-eastern Asia,Philippines,Western Visayas,Province of Iloilo,Pavia
+121.54.22.186,4,-4225656,Ookla Speedtest Server 7428: vis2.smart.com.ph,PH,Asia,South-eastern Asia,Philippines,Western Visayas,Province of Iloilo,Iloilo City
+103.84.177.8,4,14,Ookla Speedtest Server 9935: ns3.panaybroadband.com.ph,PH,Asia,South-eastern Asia,Philippines,Western Visayas,Province of Iloilo,Iloilo City
+103.114.199.46,4,-20,Ookla Speedtest Server 13796: speedtest.pantelco.net,PH,Asia,South-eastern Asia,Philippines,Western Visayas,Province of Aklan,Makato
+120.28.63.198,4,-3,Ookla Speedtest Server 20538: ilo-speedtest.globe.com.ph,PH,Asia,South-eastern Asia,Philippines,Western Visayas,Province of Iloilo,Iloilo City
+120.28.63.202,4,-5,Ookla Speedtest Server 20539: bcn-speedtest.globe.com.ph,PH,Asia,South-eastern Asia,Philippines,Western Visayas,Province of Negros Occidental,Bacolod City
+222.127.246.155,4,-104576,Ookla Speedtest Server 54187: speedtest.netcampmms.com,PH,Asia,South-eastern Asia,Philippines,Western Visayas,Province of Iloilo,Iloilo City
+103.107.80.197,4,-8,Ookla Speedtest Server 54773: speedtest.kcatfiber.com,PH,Asia,South-eastern Asia,Philippines,Western Visayas,Province of Negros Occidental,Kabankalan
+103.137.178.10,4,-13,Ookla Speedtest Server 61475: speedtest.paradisecabletv.com,PH,Asia,South-eastern Asia,Philippines,Western Visayas,Province of Aklan,Malay
+204.144.188.170,4,-5,Ookla Speedtest Server 62318: speedtest-iloilo.rise.as,PH,Asia,South-eastern Asia,Philippines,Western Visayas,Province of Iloilo,Iloilo City
+163.227.123.14,4,4,Ookla Speedtest Server 67604: speedtest.ileadict.com,PH,Asia,South-eastern Asia,Philippines,Western Visayas,Province of Negros Occidental,Bacolod City

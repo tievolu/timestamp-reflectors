@@ -1,5 +1,8 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-79.134.152.192,4,-10799138,DNS Server: gw192-152.jcsfiberlink.net,JO,Asia,Western Asia,Jordan,Amman Governorate,,Amman
-188.247.93.122,4,40091,DNS Server: ip188-247-93-122.zaindata.jo,JO,Asia,Western Asia,Jordan,Amman Governorate,,Amman
-79.134.128.7,4,312,Ookla Speedtest Server 33140: speed2.jcs.jo,JO,Asia,Western Asia,Jordan,Amman Governorate,,Amman
-176.29.210.254,4,136,Ookla Speedtest Server 55597: speedtest4.zaindata.com.jo,JO,Asia,Western Asia,Jordan,Amman Governorate,,Amman
+79.134.152.192,4,33043081,DNS Server: gw192-152.jcsfiberlink.net,JO,Asia,Western Asia,Jordan,Amman Governorate,,Amman
+81.21.9.218,4,0,Ookla Speedtest Server 3529: speedtest01.vtel.jo,JO,Asia,Western Asia,Jordan,Amman Governorate,,Amman
+82.212.103.30,4,455,Ookla Speedtest Server 23119: speed.damamax.jo,JO,Asia,Western Asia,Jordan,Amman Governorate,,Amman
+176.28.163.150,4,-3,Ookla Speedtest Server 31160: speedtest2.zaindata.com.jo,JO,Asia,Western Asia,Jordan,Amman Governorate,,Amman
+79.134.128.7,4,-4,Ookla Speedtest Server 33140: speed2.jcs.jo,JO,Asia,Western Asia,Jordan,Amman Governorate,,Amman
+176.29.210.250,4,-6,Ookla Speedtest Server 55578: speedtest3.zaindata.com.jo,JO,Asia,Western Asia,Jordan,Amman Governorate,,Amman
+176.29.210.254,4,4,Ookla Speedtest Server 55597: speedtest4.zaindata.com.jo,JO,Asia,Western Asia,Jordan,Amman Governorate,,Amman

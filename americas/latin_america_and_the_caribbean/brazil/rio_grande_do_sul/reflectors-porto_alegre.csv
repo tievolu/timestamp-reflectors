@@ -1,12 +1,32 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-177.69.64.22,4,9,crea-rs.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
-177.159.109.29,4,40,DNS Server: 177.159.109.29.static.gvt.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
-45.238.64.198,4,11847,DNS Server: 45-238-64-198.pontualtelecomunicacoes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
-131.196.220.10,4,41,DNS Server: dyn10.220.melnetrs.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
-131.196.220.11,4,372,Ookla Speedtest Server 13905: speedtest1.melnetrs.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
-177.67.34.3,4,-19532824,Ookla Speedtest Server 56010: speedtest.coopernortetelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
-138.0.147.181,4,292,Ookla Speedtest Server 56919: speed3.internetosul.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
-38.191.39.4,4,361,Ookla Speedtest Server 63531: speedtest.fale.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+177.159.109.29,4,-74,DNS Server: 177.159.109.29.static.gvt.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+131.196.220.10,4,-3,DNS Server: dyn10.220.melnetrs.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+45.148.96.40,4,-7,embalagemmarca.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+45.148.96.63,4,-12,ibecensino.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+200.155.138.203,4,-6,leckerhaus.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+131.196.220.11,4,20,Ookla Speedtest Server 13905: speedtest1.melnetrs.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+45.238.64.254,4,239020,Ookla Speedtest Server 24204: teste.pontualtelecomunicacoes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+45.181.135.4,4,-4,Ookla Speedtest Server 30646: speedtest.lucfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+177.53.48.51,4,0,Ookla Speedtest Server 30798: teste.tscom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+200.25.42.28,4,7,Ookla Speedtest Server 38008: spt-poa1.edgeuno.com,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+216.98.215.62,4,-4,Ookla Speedtest Server 38068: speedtest.lpinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+170.79.140.18,4,3,Ookla Speedtest Server 38210: speedtest.i9net.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+200.155.149.74,4,93865,Ookla Speedtest Server 42935: speedtestpoa.telium.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+170.82.32.14,4,-13,Ookla Speedtest Server 43989: speedtest.litoraltelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+200.36.220.194,4,-20,Ookla Speedtest Server 52447: speedtestookla.gnspoa.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+177.67.34.3,4,29290,Ookla Speedtest Server 56010: speedtest.coopernortetelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+138.0.147.181,4,8,Ookla Speedtest Server 56919: speed3.internetosul.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+38.191.39.4,4,-35,Ookla Speedtest Server 63531: speedtest.fale.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+45.174.12.38,4,-3,Ookla Speedtest Server 70297: speedtest.clicnet.net,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+189.14.224.226,4,74292,Ookla Speedtest Server 71748: speedtest-pae.adyl.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+187.32.6.226,4,30390,Ookla Speedtest Server 74073: speedtest01.vibrainternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
 45.148.96.9,4,52,pinkfire.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
-143.54.31.24,4,45,sbc.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
-143.54.2.20,4,2,ufrgs.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+45.148.96.28,4,-16,planaltomovelaria.com,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+45.148.96.11,4,-11,radioaltouruguai.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+201.3.169.199,4,37,radiopampa.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+45.148.96.49,4,-13,riccpp.com,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+143.54.31.24,4,14,sbc.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+45.148.96.13,4,-28,selecty.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+45.148.96.7,4,1,sidybatalha.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+45.148.96.20,4,-8,tecnoimp.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+143.54.2.20,4,17,ufrgs.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre

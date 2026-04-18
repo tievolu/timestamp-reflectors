@@ -1,9 +1,25 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-138.122.97.226,4,4110,DNS Server: 138-122-97-226.internet.static.ientc.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Apaseo el Grande
-187.102.231.23,4,7808,DNS Server: 23-231-102-187.static.linktec.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Valle de Santiago
-201.117.254.241,4,-1239990666,DNS Server: customer-201-117-254-241.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
-38.45.242.10,4,9856,Ookla Speedtest Server 51651: wifimaxspeedtest.com,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,San Diego de la Unión
-187.187.53.239,4,192,Ookla Speedtest Server 56655: speedtest.celaya.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Celaya
-187.244.24.2,4,240,Ookla Speedtest Server 63934: speedtest.sma.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,San Miguel de Allende
-201.134.76.213,4,7,solmar.com,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
-201.134.115.36,4,27910882,Uninet S.A. de C.V.,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
+138.94.141.13,4,38482,DNS Server: 13-141-94-138.jobnetworks.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Irapuato
+187.102.231.23,4,3008,DNS Server: 23-231-102-187.static.linktec.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Valle de Santiago
+38.65.136.250,4,1,DNS Server: 38-65-136-250.customer.ientc.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Celaya
+138.99.150.105,4,384582,DNS Server: customer-138-99-150-105.gbic.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Uriangato
+189.194.86.5,4,-3,DNS Server: customer-XAL-86-5.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
+189.254.225.213,4,-3,DNS Server: mail.cesantoni.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Guanajuato City
+187.188.150.41,4,126314,DNS Server: sana.dicoba.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
+201.144.48.73,4,7,DNS Server: static.customer-201-144-48-73.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
+201.147.242.124,4,-27,DNS Server: static.customer-201-147-242-124.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,La Paz
+69.171.212.60,4,4,iislweb.org,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Cuerámaro
+189.194.232.210,4,-36,Ookla Speedtest Server 3568: speedtest.leon.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
+189.203.166.146,4,14,Ookla Speedtest Server 37266: leon.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
+187.244.47.106,4,-19,Ookla Speedtest Server 40776: speedtest.gto.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Guanajuato City
+189.194.224.52,4,-8,Ookla Speedtest Server 49164: speedtest.sal.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Salamanca
+189.203.170.142,4,18,Ookla Speedtest Server 50567: salamanca.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Salamanca
+189.203.170.154,4,1,Ookla Speedtest Server 50569: silao.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Silao
+189.203.170.158,4,14,Ookla Speedtest Server 50632: sanmigueldeallende.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,San Miguel de Allende
+189.203.170.106,4,3,Ookla Speedtest Server 50687: irapuato.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Irapuato
+187.187.53.239,4,16,Ookla Speedtest Server 56655: speedtest.celaya.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Celaya
+187.244.24.2,4,1,Ookla Speedtest Server 63934: speedtest.sma.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,San Miguel de Allende
+38.49.150.42,4,-988,Ookla Speedtest Server 68668: speedtest.sanfelipedigital.com,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,San Felipe
+187.102.229.118,4,39959,Ookla Speedtest Server 72871: sps1.yesnet.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,San Luis de la Paz
+201.134.76.213,4,-4,solmar.com,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
+201.134.115.36,4,66604033,Uninet S.A. de C.V.,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León

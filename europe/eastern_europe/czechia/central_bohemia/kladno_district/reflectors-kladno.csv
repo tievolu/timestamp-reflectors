@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-195.128.222.20,4,355,DNS Server: r1core.netserv.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kladno District,Kladno
+81.201.48.171,4,-8,czfree.net,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kladno District,Kladno
+81.201.51.76,4,-3,DNS Server: test2.milann.klfree.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kladno District,Kladno
+90.176.150.92,4,-56,vedavyzkum.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kladno District,Kladno
+89.31.42.169,4,6,vsers.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kladno District,Kladno

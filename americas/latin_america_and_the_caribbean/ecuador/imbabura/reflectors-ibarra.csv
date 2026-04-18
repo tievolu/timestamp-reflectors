@@ -1,2 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-45.70.13.74,4,181,Ookla Speedtest Server: speedtest.iplus.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Imbabura,,Ibarra
+179.60.244.1,4,-8,DNS Server: 179-60-244-1-mtk.wisp.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Imbabura,,Ibarra
+179.60.244.11,4,-11,DNS Server: 179-60-244-11-ptr.wisp.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Imbabura,,Ibarra
+179.60.247.252,4,-6,Ookla Speedtest Server 27813: mrtg.wisp.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Imbabura,,Ibarra
+45.70.13.3,4,-7,Ookla Speedtest Server 47634: speedtest.iplus.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Imbabura,,Ibarra
+200.112.219.162,4,2,Ookla Speedtest Server 68068: ookla.flylifecuador.com,EC,Americas,Latin America and the Caribbean,Ecuador,Imbabura,,Ibarra

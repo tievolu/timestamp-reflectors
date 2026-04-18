@@ -1,2 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-5.98.128.5,4,-2470269,DNS Server: host-5-98-128-5.business.telecomitalia.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Pisa,San Miniato Basso
+194.36.75.14,4,1,Ookla Speedtest Server 22857: srv-st03.arcolink.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Pisa,San Miniato Basso
+194.36.75.60,4,-4,Ookla Speedtest Server 29875: srv-st04.arcolink.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Pisa,San Miniato Basso
+194.36.75.117,4,-4,Ookla Speedtest Server 29949: srv-st10.arcolink.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Pisa,San Miniato Basso
+194.36.75.46,4,4,Ookla Speedtest Server 29951: srv-st12.arcolink.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Pisa,San Miniato Basso
+194.36.75.6,4,-7,Ookla Speedtest Server 29953: srv-st08.arcolink.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Pisa,San Miniato Basso

@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-45.187.48.254,4,350,Ookla Speedtest Server 43319: speedtest.worldconnections.co,CO,Americas,Latin America and the Caribbean,Colombia,La Guajira Department,,Barrancas
+45.187.48.254,4,-26,Ookla Speedtest Server 43319: speedtest.worldconnections.co,CO,Americas,Latin America and the Caribbean,Colombia,La Guajira Department,,Barrancas
+170.0.8.218,4,-35,Ookla Speedtest Server 70062: speedtest.guajiranet.com,CO,Americas,Latin America and the Caribbean,Colombia,La Guajira Department,,Albania
+206.1.80.253,4,-7,Ookla Speedtest Server 70427: speedtest1.wayiranet.com,CO,Americas,Latin America and the Caribbean,Colombia,La Guajira Department,,Maicao
+38.190.7.34,4,-11,Ookla Speedtest Server 74090: speedtest.riohacha.isp-intercol.com,CO,Americas,Latin America and the Caribbean,Colombia,La Guajira Department,,Riohacha

@@ -1,3 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-80.242.34.175,4,359,DNS Server: poxiqueo.gaya.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Martin
-80.242.34.186,4,33,mojmartin.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Martin
+80.242.34.175,4,-1,DNS Server: poxiqueo.gaya.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Martin
+87.197.174.186,4,3,DNS Server: static-bband-186.87-197-174.telecom.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Martin
+80.242.34.186,4,2,mestomartin.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Martin
+80.242.36.146,4,6,Ookla Speedtest Server 23472: speed1.gaya.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Martin
+193.87.80.169,4,9,ujs.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Martin

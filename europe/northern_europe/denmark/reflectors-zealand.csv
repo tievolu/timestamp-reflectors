@@ -1,8 +1,13 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-5.103.25.139,4,-8,DNS Server: 5.103.25.139.static.fibianet.dk,DK,Europe,Northern Europe,Denmark,Zealand,,Fakse
-5.103.33.50,4,30,DNS Server: 5.103.33.50.static.fibianet.dk,DK,Europe,Northern Europe,Denmark,Zealand,,Holbæk
-80.209.71.197,4,12,DNS Server: 80.209.71.197.static.fibianet.dk,DK,Europe,Northern Europe,Denmark,Zealand,,Maribo
-77.66.124.111,4,4,flymuseum.dk,DK,Europe,Northern Europe,Denmark,Zealand,,Greve
-152.115.36.116,4,12,iba.dk,DK,Europe,Northern Europe,Denmark,Zealand,,Skælskør
-152.115.36.105,4,58,sveiby.com,DK,Europe,Northern Europe,Denmark,Zealand,,Skælskør
-77.66.82.107,4,1128,trifork.nl,DK,Europe,Northern Europe,Denmark,Zealand,,Greve
+38.180.20.173,4,8,casinoblueyellow.com,DK,Europe,Northern Europe,Denmark,Zealand,,
+38.180.20.191,4,22,casinosatisfi.com,DK,Europe,Northern Europe,Denmark,Zealand,,
+130.225.250.133,4,-40,deic.dk,DK,Europe,Northern Europe,Denmark,Zealand,,Torrig
+5.103.28.174,4,-2146349448,DNS Server: 5.103.28.174.static.fibianet.dk,DK,Europe,Northern Europe,Denmark,Zealand,,Vig
+5.103.76.220,4,-662895712,DNS Server: 5.103.76.220.dhcp.fibianet.dk,DK,Europe,Northern Europe,Denmark,Zealand,,Haslev
+77.33.154.82,4,192,DNS Server: 77.33.154.82.dhcp.fibianet.dk,DK,Europe,Northern Europe,Denmark,Zealand,,Lille Skensved
+77.33.167.66,4,5,DNS Server: 77.33.167.66.dhcp.fibianet.dk,DK,Europe,Northern Europe,Denmark,Zealand,,Eskilstrup
+80.209.71.197,4,-4,DNS Server: 80.209.71.197.static.fibianet.dk,DK,Europe,Northern Europe,Denmark,Zealand,,Borup
+80.196.240.182,4,-10,DNS Server: cpe.ge-0-0-3-100.oelbynqe30.dk.customer.tdc.net,DK,Europe,Northern Europe,Denmark,Zealand,,Korsør
+185.118.248.162,4,-1,Ookla Speedtest Server 14014: speedtest.hiper.dk,DK,Europe,Northern Europe,Denmark,Zealand,,Nykøbing Falster
+212.10.12.74,4,6,Ookla Speedtest Server 27370: dck-speedtest01.stofa.net,DK,Europe,Northern Europe,Denmark,Zealand,,Sorø
+80.208.28.141,4,10,saebyavis.dk,DK,Europe,Northern Europe,Denmark,Zealand,,Køge

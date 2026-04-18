@@ -1,3 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-66.163.0.161,4,-1064930,DNS Server: 66-163-0-161.ip.tor.radiant.net,CA,Americas,Northern America,Canada,Ontario,,Whitby
-66.163.0.173,4,-1064930,DNS Server: 66-163-0-173.ip.tor.radiant.net,CA,Americas,Northern America,Canada,Ontario,,Whitby
+67.223.101.61,4,7,changedetection.io,CA,Americas,Northern America,Canada,Ontario,,Whitby
+66.163.0.161,4,-1160093,DNS Server: 66-163-0-161.ip.tor.radiant.net,CA,Americas,Northern America,Canada,Ontario,,Whitby
+66.163.0.173,4,-1160092,DNS Server: 66-163-0-173.ip.tor.radiant.net,CA,Americas,Northern America,Canada,Ontario,,Whitby
+67.223.101.59,4,11,tshirtslayer.com,CA,Americas,Northern America,Canada,Ontario,,Whitby

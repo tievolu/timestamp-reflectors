@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-80.77.128.140,4,9,in.fo,FO,Europe,Northern Europe,Faroe Islands,,,Tórshavn
+80.77.128.140,4,49,in.fo,FO,Europe,Northern Europe,Faroe Islands,,,Tórshavn
+81.18.224.54,4,-47,Ookla Speedtest Server 462: speedtest1.internet.fo,FO,Europe,Northern Europe,Faroe Islands,,,Tórshavn
+80.77.139.253,4,-3,Ookla Speedtest Server 58523: sp.sudurnet.fo,FO,Europe,Northern Europe,Faroe Islands,,,Tórshavn

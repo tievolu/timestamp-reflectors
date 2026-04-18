@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-91.205.88.15,4,315,Ookla Speedtest Server 5851: speedtest.tau.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Biała Podlaska
+185.40.115.12,4,-4,bialapodlaska.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Biała Podlaska
+91.205.88.15,4,15,Ookla Speedtest Server 5851: speedtest.tau.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Biała Podlaska
+91.205.88.16,4,-1,Ookla Speedtest Server 23071: speedtest3.tau.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Biała Podlaska

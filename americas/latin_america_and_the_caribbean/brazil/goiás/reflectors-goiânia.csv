@@ -1,12 +1,48 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-168.195.135.67,4,4649,DNS Server: 168-195-135-67.deltafibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
-168.195.135.71,4,4525,DNS Server: 168-195-135-71.deltafibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
-38.50.128.108,4,1164,DNS Server: 38-50-128-108.linqtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
-45.191.205.205,4,-3345,DNS Server: 45-191-205-205.lanfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
-45.235.47.246,4,57,DNS Server: 45-235-47-246.liveinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
-45.65.222.39,4,136,DNS Server: 45-65-222-39.linqtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
-186.228.22.196,4,195,Ookla Speedtest Server 15269: bhe.i-systems.com,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
-45.178.148.70,4,371,Ookla Speedtest Server 32569: speedtest.fibrapura.com,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+168.195.135.67,4,15635,DNS Server: 168-195-135-67.deltafibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+168.195.135.71,4,15635,DNS Server: 168-195-135-71.deltafibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+201.48.9.4,4,5240,DNS Server: 201-048-009-004.static.ctbctelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+201.48.9.5,4,5237,DNS Server: 201-048-009-005.static.ctbctelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+45.191.205.205,4,-184,DNS Server: 45-191-205-205.lanfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+45.65.222.39,4,2,DNS Server: 45-65-222-39.linqtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+200.17.56.16,4,2,ifg.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+45.5.19.171,4,2,Ookla Speedtest Server 11996: ookla.bandaa.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+179.108.88.22,4,-6,Ookla Speedtest Server 14071: sp1.ragtek.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+45.239.136.10,4,-5,Ookla Speedtest Server 21814: speedtest.alanhouse.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+45.237.212.14,4,-5,Ookla Speedtest Server 23845: speedtest.fresnel.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+45.239.139.11,4,-5,Ookla Speedtest Server 24496: speedtest.masterturbonet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+45.65.220.22,4,-8,Ookla Speedtest Server 24965: speedtest.linqtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+45.238.0.21,4,-17,Ookla Speedtest Server 25838: speedtest.netmaisfibra.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+186.230.14.19,4,-2,Ookla Speedtest Server 26091: spetstgna01.timbrasil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+168.195.132.244,4,-8,Ookla Speedtest Server 26122: speedtest.deltafibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+170.0.73.242,4,-20,Ookla Speedtest Server 27442: speedtest.cyberline.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+45.182.73.4,4,-5,Ookla Speedtest Server 28201: speedtest.jrconnectfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+170.82.76.127,4,-4,Ookla Speedtest Server 32936: speedtest.wlnetbandalarga.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+45.160.170.18,4,3,Ookla Speedtest Server 37268: speedtest.turbomais.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+45.164.248.254,4,2,Ookla Speedtest Server 37370: speedtest.wignet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+45.184.218.23,4,3,Ookla Speedtest Server 44392: speedtest.jetturbonetwork.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+186.224.94.166,4,-22,Ookla Speedtest Server 44493: sp2.brcentral.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+45.172.133.201,4,-29064,Ookla Speedtest Server 46992: speedtest.binarynet2.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+181.174.245.18,4,-2,Ookla Speedtest Server 48525: speedtest.alphanetworks.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+177.107.186.212,4,-27,Ookla Speedtest Server 49360: velocidade.ataol.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+179.108.91.180,4,5,Ookla Speedtest Server 50508: speedtest.siconnecta.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+179.124.168.18,4,-4,Ookla Speedtest Server 52878: sp1.enovatelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+168.227.220.9,4,-5,Ookla Speedtest Server 54945: g5fibra.theworkpc.com,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+179.96.29.70,4,23,Ookla Speedtest Server 57680: speed.livrefibra.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+45.182.72.55,4,-22,Ookla Speedtest Server 58071: speed.airplanenettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+187.84.116.253,4,792469,Ookla Speedtest Server 58577: speedtest.autolinknet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+45.187.166.194,4,25,Ookla Speedtest Server 59978: speedtest.thefiber.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
 170.82.76.21,4,253,Ookla Speedtest Server 59978: speedtest.thefiber.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
-45.226.40.61,4,342,Ookla Speedtest Server 62390: speed.olvtelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
-45.70.211.18,4,-610194,Ookla Speedtest Server 64660: speedtest.federalfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+143.202.130.2,4,6,Ookla Speedtest Server 62178: ookla.telecocal.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+179.108.95.135,4,-5,Ookla Speedtest Server 62533: sp3.omeganetworks.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+45.70.211.18,4,-177115,Ookla Speedtest Server 64660: speedtest.federalfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+45.189.81.217,4,11719,Ookla Speedtest Server 67447: speedtestt.fasten2.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+45.184.216.50,4,2,Ookla Speedtest Server 67695: velocidade.spacynet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+143.255.148.120,4,-5,Ookla Speedtest Server 67755: speedgnaaqs.unetelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+200.106.200.18,4,876485,Ookla Speedtest Server 68173: speedtest-gna.redem2b.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+45.237.214.3,4,-16,Ookla Speedtest Server 68774: velocidade.excellencenet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+45.171.97.174,4,5,Ookla Speedtest Server 68915: speedtest.elosolucoes.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+186.224.88.117,4,-7,Ookla Speedtest Server 68917: spt1.interneturu.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+45.182.75.163,4,5,Ookla Speedtest Server 72213: speedtest.tcg.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+138.94.43.167,4,42276,Ookla Speedtest Server 72326: speedtest.vettatelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+187.32.183.73,4,66,ubc.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia

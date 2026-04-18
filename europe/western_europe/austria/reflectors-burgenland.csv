@@ -1,3 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-195.230.168.67,4,70,linuxwochen.at,AT,Europe,Western Europe,Austria,Burgenland,,Hochstraß
-195.230.189.67,4,34,sonnentherme.at,AT,Europe,Western Europe,Austria,Burgenland,,Eisenstadt
+80.120.198.50,4,80247,DNS Server: is50.schneid.at,AT,Europe,Western Europe,Austria,Burgenland,,Deutsch Kaltenbrunn
+195.230.168.67,4,-4,linuxwochen.at,AT,Europe,Western Europe,Austria,Burgenland,,Tadten
+195.230.189.67,4,9,sonnentherme.at,AT,Europe,Western Europe,Austria,Burgenland,,Eisenstadt

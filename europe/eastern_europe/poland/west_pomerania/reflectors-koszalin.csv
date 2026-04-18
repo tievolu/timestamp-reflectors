@@ -1,3 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-83.145.140.15,4,-20501769,Ookla Speedtest Server 994: speedtest.tkk.net.pl,PL,Europe,Eastern Europe,Poland,West Pomerania,,Koszalin
-89.239.122.106,4,379,Ookla Speedtest Server 15033: speedtest-zk.gawex.pl,PL,Europe,Eastern Europe,Poland,West Pomerania,,Koszalin
+83.145.133.2,4,-4,DNS Server: zzdw.koszalin.pl,PL,Europe,Eastern Europe,Poland,West Pomerania,,Koszalin
+83.145.140.15,4,65984348,Ookla Speedtest Server 994: speedtest.tkk.net.pl,PL,Europe,Eastern Europe,Poland,West Pomerania,,Koszalin
+89.239.122.106,4,6,Ookla Speedtest Server 15033: speedtest-zk.gawex.pl,PL,Europe,Eastern Europe,Poland,West Pomerania,,Koszalin

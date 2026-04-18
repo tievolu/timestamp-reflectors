@@ -1,0 +1,5 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+80.254.115.108,4,-2,DNS Server: 108.115.254.80.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Tsimlyansk
+80.254.116.128,4,10635,DNS Server: 128.116.254.80.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Tsimlyansk
+80.254.125.158,4,3,DNS Server: 158.125.254.80.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Tsimlyansk
+80.254.123.70,4,11999087,DNS Server: 70.123.254.80.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Tsimlyansk

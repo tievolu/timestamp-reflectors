@@ -1,10 +1,19 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-196.10.148.37,4,-1489,DNS Server: dns02.webmasters.co.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,Cidade de Maputo,,Maputo
-196.22.60.4,4,287,DNS Server: ip-196-22-60-4.teledata.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,,,
-196.3.101.3,4,3,jornalnoticias.co.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,,,
-41.76.145.100,4,5646892,Ookla Speedtest Server 16881: speedtest.vm.co.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,Cidade de Maputo,,Maputo
-197.218.5.246,4,392,Ookla Speedtest Server 32923: speedtest2.movitel.co.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,Cidade de Maputo,,Maputo
-196.3.100.162,4,278,rm.co.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,,,
-197.249.0.15,4,2032,tvcabo.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,Cidade de Maputo,,Maputo
-196.3.96.206,4,355,uem.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,,,
-196.3.96.207,4,704,unitiva.ac.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,,,
+169.239.104.183,4,5,ara-sul.gov.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,,,
+196.3.97.82,4,2296,DNS Server: fdd082.uem.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,Maputo Province,,
+196.22.60.4,4,3386,DNS Server: ip-196-22-60-4.teledata.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,,,
+165.90.81.50,4,958,iese.ac.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,Cidade de Maputo,,Maputo
+196.3.96.208,4,887,isgecof.ac.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,Maputo Province,,
+196.3.101.3,4,-9,jornalnoticias.co.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,Maputo Province,,
+197.249.243.90,4,3,misau.gov.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,Cidade de Maputo,,Maputo
+197.249.0.237,4,7,Ookla Speedtest Server 12713: speedtest.tvcabo.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,Cidade de Maputo,,Maputo
+41.76.145.100,4,-2,Ookla Speedtest Server 16881: speedtest.vm.co.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,,,
+41.77.134.182,4,4,Ookla Speedtest Server 22326: speedtest.clubnet.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,Cidade de Maputo,,Maputo
+41.220.200.12,4,14,Ookla Speedtest Server 28816: speedtest.tmcel.co.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,Cidade de Maputo,,Maputo
+196.10.148.6,4,-18868,Ookla Speedtest Server 39337: speed.webmasters.co.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,Cidade de Maputo,,Maputo
+102.211.109.227,4,2,Ookla Speedtest Server 69058: speedtest.netmoz.co.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,,,
+102.203.152.18,4,8,Ookla Speedtest Server 74482: speedtest.iztelecom.com,MZ,Africa,Sub-Saharan Africa,Mozambique,Cidade de Maputo,,Maputo
+196.3.100.162,4,15683574,rm.co.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,Maputo Province,,
+197.249.0.15,4,1168,tvcabo.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,Cidade de Maputo,,Maputo
+196.3.96.206,4,8,uem.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,Maputo Province,,
+196.3.96.207,4,704,unitiva.ac.mz,MZ,Africa,Sub-Saharan Africa,Mozambique,Maputo Province,,

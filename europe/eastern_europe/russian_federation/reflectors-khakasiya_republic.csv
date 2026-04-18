@@ -1,3 +1,12 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-185.112.224.247,4,107,DNS Server: 247.224.112.185.abk.orionnet.ru,RU,Europe,Eastern Europe,Russian Federation,Khakasiya Republic,,Abakan
-176.116.190.37,4,123,khsu.ru,RU,Europe,Eastern Europe,Russian Federation,Khakasiya Republic,,Abakan
+185.112.224.247,4,-4,DNS Server: 247.224.112.185.abk.orionnet.ru,RU,Europe,Eastern Europe,Russian Federation,Khakasiya Republic,,Abakan
+90.189.113.130,4,8464,DNS Server: host-113-130.available.khakasnet.ru,RU,Europe,Eastern Europe,Russian Federation,Khakasiya Republic,,Abakan
+90.189.116.138,4,909,DNS Server: host-116-138.available.khakasnet.ru,RU,Europe,Eastern Europe,Russian Federation,Khakasiya Republic,,Abakan
+90.189.117.217,4,-3,DNS Server: host-117-217.available.khakasnet.ru,RU,Europe,Eastern Europe,Russian Federation,Khakasiya Republic,,Abakan
+176.119.19.17,4,69128,DNS Server: host.176.119.19.17.alfatelplus.ru,RU,Europe,Eastern Europe,Russian Federation,Khakasiya Republic,,Abakan
+176.119.20.125,4,792,DNS Server: host.176.119.20.125.alfatelplus.ru,RU,Europe,Eastern Europe,Russian Federation,Khakasiya Republic,,Abakan
+90.189.123.153,4,-26,DNS Server: host153-123.static.khakasnet.ru,RU,Europe,Eastern Europe,Russian Federation,Khakasiya Republic,,Ust-abakan
+90.189.123.161,4,-833706336,DNS Server: host161-123.static.khakasnet.ru,RU,Europe,Eastern Europe,Russian Federation,Khakasiya Republic,,Ust-abakan
+90.189.119.192,4,955,DNS Server: host192-119.static.khakasnet.ru,RU,Europe,Eastern Europe,Russian Federation,Khakasiya Republic,,Abakan
+176.116.190.37,4,420,khsu.ru,RU,Europe,Eastern Europe,Russian Federation,Khakasiya Republic,,Abakan
+176.119.20.35,4,-255523058,nbdrx.ru,RU,Europe,Eastern Europe,Russian Federation,Khakasiya Republic,,Abakan

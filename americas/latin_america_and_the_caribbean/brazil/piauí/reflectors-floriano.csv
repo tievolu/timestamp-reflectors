@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-45.226.63.254,4,111,Ookla Speedtest Server: speedtestflo.virtex.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Piauí,,Floriano
+45.226.63.254,4,-14,Ookla Speedtest Server 16790: speedtestflo.virtex.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Piauí,,Floriano
+187.62.158.129,4,30,Ookla Speedtest Server 61434: srvtest.klictelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Piauí,,Floriano
+179.125.124.92,4,0,Ookla Speedtest Server 64405: speedtestthe.virtex.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Piauí,,Floriano
+187.62.158.229,4,-24,Ookla Speedtest Server 65009: speedtestfloriano.megalinkpiaui.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Piauí,,Floriano

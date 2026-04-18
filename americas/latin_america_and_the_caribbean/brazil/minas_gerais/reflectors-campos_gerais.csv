@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-186.250.183.91,4,9300,DNS Server: 186-250-183-091.cangere.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Campos Gerais
+186.250.183.91,4,2519,DNS Server: 186-250-183-091.cangere.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Campos Gerais
+168.205.216.20,4,15,Ookla Speedtest Server 69875: teste.speedmaxtelecomcg.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Campos Gerais
+186.250.176.38,4,-2,Ookla Speedtest Server 70093: speedtest.cangere.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Campos Gerais
+45.182.8.10,4,-4,Ookla Speedtest Server 73300: upnet-velocidade.consultisp.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Campos Gerais

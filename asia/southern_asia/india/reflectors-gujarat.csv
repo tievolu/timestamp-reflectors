@@ -1,23 +1,58 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-182.237.8.34,4,-24,gtpl.net,IN,Asia,Southern Asia,India,Gujarat,,Ahmedabad
-210.212.129.101,4,330,Ookla Speedtest Server 5812: bsnlooklaahb.mywire.org,IN,Asia,Southern Asia,India,Gujarat,,Ahmedabad
-103.30.224.6,4,334,Ookla Speedtest Server 14058: sp1.kutchtelelink.com,IN,Asia,Southern Asia,India,Gujarat,,Bhuj
-202.131.120.4,4,334,Ookla Speedtest Server 15224: st.blazenet.co,IN,Asia,Southern Asia,India,Gujarat,,Ahmedabad
-182.237.8.50,4,-15,Ookla Speedtest Server 16273: speedtest-abd01.gtpl.net,IN,Asia,Southern Asia,India,Gujarat,,Ahmedabad
-103.106.23.102,4,117,Ookla Speedtest Server 18782: speedtest.oceanicnet.in,IN,Asia,Southern Asia,India,Gujarat,,Ahmedabad
-103.156.144.6,4,384,Ookla Speedtest Server 39959: speedtest.treelink.in,IN,Asia,Southern Asia,India,Gujarat,,Gandhinagar
-103.148.122.2,4,210,Ookla Speedtest Server 46965: speedtest.barodabroadband.com,IN,Asia,Southern Asia,India,Gujarat,,Vadodara
-103.172.10.14,4,347,Ookla Speedtest Server 47663: speedtest.dwipl.com,IN,Asia,Southern Asia,India,Gujarat,,
-124.123.126.10,4,326,Ookla Speedtest Server 51969: speedtestahmd.actcorp.in,IN,Asia,Southern Asia,India,Gujarat,,Ahmedabad
-103.76.118.178,4,331,Ookla Speedtest Server 57013: sp1.wsnet.in,IN,Asia,Southern Asia,India,Gujarat,,Deesa
-103.221.239.6,4,323,Ookla Speedtest Server 58977: speedtest.sphatiknetwork.in,IN,Asia,Southern Asia,India,Gujarat,,Jogan
-103.209.214.6,4,287,Ookla Speedtest Server 63737: speedtest.kpinfratel.in,IN,Asia,Southern Asia,India,Gujarat,,Botad
-49.45.64.86,4,410,Ookla Speedtest Server: kmrjooklaspeed1.jioconnect.com,IN,Asia,Southern Asia,India,Gujarat,,Surat
-103.167.52.86,4,308,Ookla Speedtest Server: speed.speedwaybroadband.co.in,IN,Asia,Southern Asia,India,Gujarat,,Porbandar
-103.249.120.11,4,-10828,Ookla Speedtest Server: speedtest-val.qcpl.in,IN,Asia,Southern Asia,India,Gujarat,,Valsād
-103.177.5.254,4,178,Ookla Speedtest Server: speedtest.mahalaxmicommunication.com,IN,Asia,Southern Asia,India,Gujarat,,Valsād
-103.170.88.148,4,155,Ookla Speedtest Server: speedtest.quicklinknetworks.in,IN,Asia,Southern Asia,India,Gujarat,,Dahej
-103.139.117.18,4,-17,Ookla Speedtest Server: speedtest.segva.charotarbroadband.in,IN,Asia,Southern Asia,India,Gujarat,,Anand
-27.109.5.214,4,30092,Ookla Speedtest Server: st.blazenet.biz,IN,Asia,Southern Asia,India,Gujarat,,Vadodara
-103.254.247.250,4,7,Ookla Speedtest Server: stgnd.blazenet.biz,IN,Asia,Southern Asia,India,Gujarat,,Ahmedabad
-103.182.164.11,4,-30,Ookla Speedtest Server: surat-snetta.isp.krutarth.network,IN,Asia,Southern Asia,India,Gujarat,,Surat
+14.139.127.177,4,-199198,actrec.gov.in,IN,Asia,Southern Asia,India,Gujarat,,Gandhinagar
+14.98.138.138,4,34472,DNS Server: static-138.138.98.14-tataidc.co.in,IN,Asia,Southern Asia,India,Gujarat,,Ahmedabad
+14.97.106.65,4,58008,DNS Server: static-65.106.97.14-tataidc.co.in,IN,Asia,Southern Asia,India,Gujarat,,Ahmedabad
+182.237.8.34,4,-19,gtpl.net,IN,Asia,Southern Asia,India,Gujarat,,Vadodara
+210.212.129.101,4,34,Ookla Speedtest Server 5812: bsnlooklaahb.mywire.org,IN,Asia,Southern Asia,India,Gujarat,,Ahmedabad
+203.109.71.155,4,7,Ookla Speedtest Server 6068: sp1-srt.youbroadband.in,IN,Asia,Southern Asia,India,Gujarat,,Surat
+103.81.116.3,4,-15,Ookla Speedtest Server 10696: speedtest.excogitatesoftware.com,IN,Asia,Southern Asia,India,Gujarat,,Rajkot
+103.26.51.14,4,6,Ookla Speedtest Server 11896: speedtest.anand.charotarbroadband.in,IN,Asia,Southern Asia,India,Gujarat,,Anand
+103.66.112.229,4,10,Ookla Speedtest Server 12953: speedtest.dishawaves.com,IN,Asia,Southern Asia,India,Gujarat,,Ahmedabad
+27.109.5.214,4,71,Ookla Speedtest Server 14822: st.blazenet.biz,IN,Asia,Southern Asia,India,Gujarat,,Ahmedabad
+49.45.64.86,4,-37159,Ookla Speedtest Server 14841: kmrjooklaspeed1.jioconnect.com,IN,Asia,Southern Asia,India,Gujarat,,Surat
+182.237.8.50,4,19,Ookla Speedtest Server 16273: speedtest-abd01.gtpl.net,IN,Asia,Southern Asia,India,Gujarat,,Vadodara
+103.231.4.78,4,-6,Ookla Speedtest Server 16708: speedtest.rajkot.plusnet.co.in,IN,Asia,Southern Asia,India,Gujarat,,Rajkot
+103.80.198.10,4,-7,Ookla Speedtest Server 20641: sp1.exploreworldinfranet.com,IN,Asia,Southern Asia,India,Gujarat,,Pātan
+111.90.173.4,4,-10,Ookla Speedtest Server 28421: vadodara-sptest.ishancloud.com,IN,Asia,Southern Asia,India,Gujarat,,Vadodara
+150.107.252.254,4,-8,Ookla Speedtest Server 31402: speedtest-rjt01.gtpl.net,IN,Asia,Southern Asia,India,Gujarat,,Rajkot
+103.134.8.2,4,3,Ookla Speedtest Server 31418: speedtest.bluelineisp.com,IN,Asia,Southern Asia,India,Gujarat,,Ankleshwar
+103.108.99.3,4,2527325,Ookla Speedtest Server 33715: speedtest.wingsnet.in,IN,Asia,Southern Asia,India,Gujarat,,Gāndhīdhām
+103.254.247.250,4,-24,Ookla Speedtest Server 36642: stgnd.blazenet.biz,IN,Asia,Southern Asia,India,Gujarat,,Gāndhīdhām
+103.161.25.195,4,5,Ookla Speedtest Server 37190: sp.gj2internet.com,IN,Asia,Southern Asia,India,Gujarat,,Mehsāna District
+103.228.44.250,4,-91699,Ookla Speedtest Server 38644: speedtest.qcpl.in,IN,Asia,Southern Asia,India,Gujarat,,Vapi
+103.250.159.122,4,-2,Ookla Speedtest Server 39282: speedtest-hll01.gtpl.net,IN,Asia,Southern Asia,India,Gujarat,,Anand
+103.177.172.20,4,1,Ookla Speedtest Server 42822: sai.isp.krutarth.network,IN,Asia,Southern Asia,India,Gujarat,,Navsari
+103.217.87.10,4,8,Ookla Speedtest Server 43587: speedtest.dlgtpl.net,IN,Asia,Southern Asia,India,Gujarat,,Surat
+103.139.117.27,4,-20,Ookla Speedtest Server 43865: speedtest.gondal.charotarbroadband.in,IN,Asia,Southern Asia,India,Gujarat,,Gondal
+103.159.46.60,4,7,Ookla Speedtest Server 45298: speedtest.kingnetsol.com,IN,Asia,Southern Asia,India,Gujarat,,Ahmedabad
+103.148.122.2,4,1,Ookla Speedtest Server 46965: speedtest.barodabroadband.com,IN,Asia,Southern Asia,India,Gujarat,,Vadodara
+103.172.10.14,4,17,Ookla Speedtest Server 47663: speedtest.dwipl.com,IN,Asia,Southern Asia,India,Gujarat,,Lūnāvāda
+103.79.8.38,4,-2527,Ookla Speedtest Server 49412: ahmedabad-aone.isp.krutarth.network,IN,Asia,Southern Asia,India,Gujarat,,Ahmedabad
+103.170.88.148,4,3,Ookla Speedtest Server 50131: speedtest.quicklinknetworks.in,IN,Asia,Southern Asia,India,Gujarat,,Dahej
+103.105.233.212,4,-17,Ookla Speedtest Server 50271: speed.skyonline.online,IN,Asia,Southern Asia,India,Gujarat,,Rajkot
+103.235.91.140,4,-6,Ookla Speedtest Server 50291: speed.ssolution.in,IN,Asia,Southern Asia,India,Gujarat,,Borsad
+27.109.7.122,4,5,Ookla Speedtest Server 51751: stbrd.blazenet.biz,IN,Asia,Southern Asia,India,Gujarat,,Vadodara
+124.123.126.10,4,-10,Ookla Speedtest Server 51969: speedtestahmd.actcorp.in,IN,Asia,Southern Asia,India,Gujarat,,Ahmedabad
+45.64.212.98,4,-1,Ookla Speedtest Server 55337: speedtest.mahua.charotarbroadband.in,IN,Asia,Southern Asia,India,Gujarat,,Mahuva
+144.48.251.8,4,34,Ookla Speedtest Server 55590: speedtest.netwireinternet.in,IN,Asia,Southern Asia,India,Gujarat,,Vadodara
+103.76.118.226,4,18,Ookla Speedtest Server 57013: sp1.wsnet.in,IN,Asia,Southern Asia,India,Gujarat,,Lakhani
+103.221.239.6,4,323,Ookla Speedtest Server 58977: speedtest.sphatiknetwork.in,IN,Asia,Southern Asia,India,Gujarat,,Jetpur
+103.188.236.227,4,-31,Ookla Speedtest Server 59784: speedtest.pacelinknetwork.com,IN,Asia,Southern Asia,India,Gujarat,,Vadodara
+103.148.97.18,4,15,Ookla Speedtest Server 61724: speedtest.ultrawave.in,IN,Asia,Southern Asia,India,Gujarat,,Vapi
+103.166.188.42,4,16,Ookla Speedtest Server 62014: speedtest.alhutaibnetsol.com,IN,Asia,Southern Asia,India,Gujarat,,Dohad
+122.252.238.6,4,13,Ookla Speedtest Server 62223: adi.speedtest.railtel.in,IN,Asia,Southern Asia,India,Gujarat,,Ahmedabad
+103.246.61.254,4,-868474,Ookla Speedtest Server 63239: speedtest.clplfiberbroadband.com,IN,Asia,Southern Asia,India,Gujarat,,Surat
+103.249.120.11,4,-78638,Ookla Speedtest Server 64229: speedtest-val.qcpl.in,IN,Asia,Southern Asia,India,Gujarat,,Valsād
+45.64.191.150,4,15,Ookla Speedtest Server 64406: speedtest.vadsar.charotarbroadband.in,IN,Asia,Southern Asia,India,Gujarat,,Vadodara
+103.139.117.18,4,-42,Ookla Speedtest Server 64970: speedtest.segva.charotarbroadband.in,IN,Asia,Southern Asia,India,Gujarat,,Anand
+103.172.56.78,4,-2,Ookla Speedtest Server 65074: st.mtplbroadband.in,IN,Asia,Southern Asia,India,Gujarat,,Khārol
+103.228.47.6,4,6,Ookla Speedtest Server 67844: speedtest-vapi.qcpl.in,IN,Asia,Southern Asia,India,Gujarat,,Vapi
+112.79.47.94,4,-4,Ookla Speedtest Server 67885: ooklatestahmedabad.live.vodafone.in,IN,Asia,Southern Asia,India,Gujarat,,Ahmedabad
+103.162.79.82,4,5,Ookla Speedtest Server 68024: speedtest.weblinkwifi.co.in,IN,Asia,Southern Asia,India,Gujarat,,Thara
+103.249.120.6,4,-11382,Ookla Speedtest Server 68063: speedtest-valsad.qcpl.in,IN,Asia,Southern Asia,India,Gujarat,,Valsād
+103.19.248.2,4,-4,Ookla Speedtest Server 69692: speedtest-bilimora.qcpl.in,IN,Asia,Southern Asia,India,Gujarat,,Bilimora
+160.250.173.28,4,22,Ookla Speedtest Server 70232: strashi.ospot.in,IN,Asia,Southern Asia,India,Gujarat,,Vyāra
+180.211.115.198,4,27,Ookla Speedtest Server 70547: stsur.blazenet.biz,IN,Asia,Southern Asia,India,Gujarat,,Surat
+45.64.190.65,4,-1,Ookla Speedtest Server 72054: speedtest.palej.charotarbroadband.in,IN,Asia,Southern Asia,India,Gujarat,,Vadodara
+45.64.190.67,4,0,Ookla Speedtest Server 72149: speedtest.mandva.charotarbroadband.in,IN,Asia,Southern Asia,India,Gujarat,,Vadodara
+160.19.69.82,4,15,Ookla Speedtest Server 74266: speedtest.nencycable.com,IN,Asia,Southern Asia,India,Gujarat,,Anjār

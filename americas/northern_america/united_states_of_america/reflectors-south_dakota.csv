@@ -1,8 +1,14 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-184.83.102.247,4,307,DNS Server: 184-83-102-247-static.midco.net,US,Americas,Northern America,United States of America,South Dakota,,Sioux Falls
-208.107.65.5,4,113,DNS Server: 208-107-65-5-static.midco.net,US,Americas,Northern America,United States of America,South Dakota,,Rapid City
+66.35.109.22,4,-11,bravoevents-online.com,US,Americas,Northern America,United States of America,South Dakota,,Aberdeen
+24.220.72.190,4,6,DNS Server: 24-220-72-190-static.midco.net,US,Americas,Northern America,United States of America,South Dakota,,Sioux Falls
+96.2.228.18,4,-3,DNS Server: 96-2-228-18-static.midco.net,US,Americas,Northern America,United States of America,South Dakota,,Pierre
 66.35.110.223,4,8,hubcityradio.com,US,Americas,Northern America,United States of America,South Dakota,,Aberdeen
-184.105.38.250,4,318,Ookla Speedtest Server: speedtest-fcc.sdncommunications.com,US,Americas,Northern America,United States of America,South Dakota,,Sioux Falls
-24.52.14.36,4,3,Ookla Speedtest Server: st-hur.midco.net,US,Americas,Northern America,United States of America,South Dakota,,Huron
-24.52.14.116,4,4,Ookla Speedtest Server: st-wtn.midco.net,US,Americas,Northern America,United States of America,South Dakota,,Watertown
-64.68.190.150,4,1814,presentationsisters.org,US,Americas,Northern America,United States of America,South Dakota,,Aberdeen
+24.220.1.6,4,-6,Ookla Speedtest Server 4324: st-sf.midco.net,US,Americas,Northern America,United States of America,South Dakota,,Sioux Falls
+24.52.14.52,4,-19188,Ookla Speedtest Server 7031: st-rc.midco.net,US,Americas,Northern America,United States of America,South Dakota,,Rapid City
+24.52.14.133,4,7883,Ookla Speedtest Server 7032: st-ykn.midco.net,US,Americas,Northern America,United States of America,South Dakota,,Yankton
+24.52.14.116,4,3856,Ookla Speedtest Server 7033: st-wtn.midco.net,US,Americas,Northern America,United States of America,South Dakota,,Watertown
+24.52.14.36,4,6221,Ookla Speedtest Server 12375: st-hur.midco.net,US,Americas,Northern America,United States of America,South Dakota,,Huron
+24.52.14.4,4,-16,Ookla Speedtest Server 14316: st-abr.midco.net,US,Americas,Northern America,United States of America,South Dakota,,Aberdeen
+23.171.224.229,4,-4,Ookla Speedtest Server 30942: speedtest.wavelengthinternet.com,US,Americas,Northern America,United States of America,South Dakota,,Aberdeen
+64.68.162.45,4,34,Ookla Speedtest Server 34216: speedcheck.nvc.net,US,Americas,Northern America,United States of America,South Dakota,,Aberdeen
+103.229.153.234,4,1,Ookla Speedtest Server 70996: speedtest.gozunga.com,US,Americas,Northern America,United States of America,South Dakota,,Sioux Falls

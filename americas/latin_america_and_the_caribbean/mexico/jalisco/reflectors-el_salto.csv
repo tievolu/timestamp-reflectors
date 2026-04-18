@@ -1,3 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-45.190.197.235,4,4059,DNS Server: 235-197-190-45.tecnianet.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,El Salto
-204.199.202.2,4,63189,Ookla Speedtest Server 63891: speedtest.weii.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,El Salto
+45.190.197.235,4,1310,DNS Server: 235-197-190-45.tecnianet.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,El Salto
+45.190.196.103,4,-1,Ookla Speedtest Server 30551: tecnianet.ecatel.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,El Salto
+186.26.75.133,4,560,Ookla Speedtest Server 41719: sp1.interanet.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,El Salto

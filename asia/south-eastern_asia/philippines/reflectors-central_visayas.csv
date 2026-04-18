@@ -1,15 +1,19 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-203.177.116.182,4,-42,cebucity.gov.ph,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Cebu City
-122.53.184.177,4,24637000,DNS Server: 122.53.184.177.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Danao
-122.53.190.226,4,25499800,DNS Server: 122.53.190.226.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Danao
-122.54.62.137,4,18257641,DNS Server: 122.54.62.137.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Cebu City
-124.107.105.97,4,31968580,DNS Server: 124.107.105.97.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Cebu City
-210.213.126.161,4,7759476,DNS Server: 210.213.126.161.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Lapu-Lapu City
-210.213.192.241,4,5343105,DNS Server: 210.213.192.241.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Cebu City
-210.213.242.242,4,3903204,DNS Server: 210.213.242.242.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Cebu City
-210.213.243.26,4,-4253946580,DNS Server: 210.213.243.26.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Cebu City
-210.5.87.146,4,-4256493225,DNS Server: 210.5.87.146.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Toledo City
-210.5.92.22,4,-25736955,DNS Server: 210.5.92.22.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Toledo City
-58.69.41.17,4,29664240,DNS Server: 58.69.41.17.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Bohol,Panglao
-2.58.231.59,4,277,Ookla Speedtest Server 50176: speedtest6.dctv.com.ph,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Liloan
-203.28.64.71,4,176,Ookla Speedtest Server 57435: speedtest-davao.rise.as,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Cebu City
+120.28.63.206,4,-6,Ookla Speedtest Server 3735: lhg2-speedtest.globe.com.ph,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Cebu City
+119.92.223.221,4,36,Ookla Speedtest Server 7293: 119-92-223-221,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Cebu City
+222.127.254.223,4,282599,Ookla Speedtest Server 15837: speedfast.site,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Negros Oriental,Bais
+203.96.183.150,4,11335,Ookla Speedtest Server 16520: speedtest.bitsfiberopc.com,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Lahug
+143.44.160.30,4,-174222,Ookla Speedtest Server 41827: ceb-spdtst-srv.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Cebu City
+2.58.229.3,4,-1,Ookla Speedtest Server 44195: speedtest5.dctv.com.ph,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Liloan
+43.226.4.91,4,-12,Ookla Speedtest Server 45310: speedtest-manila2.rise.as,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Cebu City
+43.226.4.93,4,-12,Ookla Speedtest Server 45310: speedtest-manila2.rise.as,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Cebu City
+103.161.60.38,4,23,Ookla Speedtest Server 59578: fpsti1.ddns.net,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Cebu City
+43.226.6.89,4,-9,Ookla Speedtest Server 61364: speedtest-cebu2.rise.as,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Cebu City
+131.226.92.161,4,6,Ookla Speedtest Server 64914: speedtestco3s2.dito.ph,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Cebu City
+139.135.78.90,4,-20,Ookla Speedtest Server 67769: speedtest.kazibufastnet.com,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Bohol,Tibigan
+112.198.194.16,4,0,Ookla Speedtest Server 67776: cebucity.matechwifi.com,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Lahug
+122.54.237.51,4,16518,Ookla Speedtest Server 68875: speedtest1.kazibufastnet.com,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Bohol,Getafe
+139.135.77.238,4,-2662,Ookla Speedtest Server 71306: speedtest.znetworks-negros.net,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Negros Oriental,Tanjay
+126.209.79.82,4,18,Ookla Speedtest Server 72597: cebuspeed.infinivan.com,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Cebu City
+27.126.159.94,4,-6,Ookla Speedtest Server 72825: tubspeedtest.kazibufastnet.com,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Bohol,Tibigan
+58.69.143.70,4,10,Ookla Speedtest Server 73971: pldtsme2.ritche.org,PH,Asia,South-eastern Asia,Philippines,Central Visayas,Province of Cebu,Bogo

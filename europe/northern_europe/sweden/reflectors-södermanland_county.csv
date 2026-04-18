@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+83.233.220.210,4,-54,DNS Server: 83-233-220-210.cust.bredband2.com,SE,Europe,Northern Europe,Sweden,Södermanland County,,Katrineholm
+85.30.62.129,4,-1,DNS Server: fw-tc1-sth1.a3network.se,SE,Europe,Northern Europe,Sweden,Södermanland County,,Nyköping
+77.91.218.230,4,60067859,DNS Server: static230-218.cust.gastabud.com,SE,Europe,Northern Europe,Sweden,Södermanland County,,Nyköping

@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+131.100.80.12,4,255511,Ookla Speedtest Server 45765: teste.futurowireless.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Frederico Westphalen
+177.8.144.114,4,16,Ookla Speedtest Server 63671: speedtest.atuanet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Frederico Westphalen
+187.108.19.178,4,-5,Ookla Speedtest Server 65194: speedtest.tcheturbo.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Frederico Westphalen

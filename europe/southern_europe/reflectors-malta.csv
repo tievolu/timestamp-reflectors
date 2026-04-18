@@ -1,16 +1,13 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-5.198.253.250,4,66,batofar.org,MT,Europe,Southern Europe,Malta,,,
-84.255.32.87,4,65,DNS Server: c32-87.i04-9.onvol.net,MT,Europe,Southern Europe,Malta,Tas-Sliema,,Sliema
-84.255.53.202,4,11,DNS Server: c53-202.i04-14.onvol.net,MT,Europe,Southern Europe,Malta,Tas-Sliema,,Sliema
-185.76.245.85,4,166,itfa.org,MT,Europe,Southern Europe,Malta,,,
-5.198.248.66,4,898,japook.com,MT,Europe,Southern Europe,Malta,,,
-193.188.46.34,4,0,nic.org.mt,MT,Europe,Southern Europe,Malta,Ħaż-Żabbar,,Żabbar
-217.15.103.2,4,221,Ookla Speedtest Server 1665: speedtest.go.com.mt,MT,Europe,Southern Europe,Malta,,,
-80.85.110.50,4,310,Ookla Speedtest Server 60383: speedtest2.epic.com.mt,MT,Europe,Southern Europe,Malta,Saint Venera,,Saint Venera
-5.198.250.122,4,-317,packetfactory.net,MT,Europe,Southern Europe,Malta,,,
-5.198.254.70,4,810,sdmiaoliyuan.com,MT,Europe,Southern Europe,Malta,,,
-213.165.185.250,4,-7199156,the-case.eu,MT,Europe,Southern Europe,Malta,Il-Gżira,,Gżira
-193.188.46.240,4,25,um.edu.mt,MT,Europe,Southern Europe,Malta,Ħaż-Żabbar,,Żabbar
-85.184.96.28,4,6,unibet.com,MT,Europe,Southern Europe,Malta,,,
+84.255.30.153,4,36189596,DNS Server: c30-153.i04-8.onvol.net,MT,Europe,Southern Europe,Malta,Is-Swieqi,,Swieqi
+84.255.32.87,4,-4,DNS Server: c32-87.i04-9.onvol.net,MT,Europe,Southern Europe,Malta,Tas-Sliema,,Sliema
+193.188.46.34,4,0,nic.org.mt,MT,Europe,Southern Europe,Malta,Il-Marsa,,Marsa
+217.15.103.2,4,-9,Ookla Speedtest Server 1665: speedtest.go.com.mt,MT,Europe,Southern Europe,Malta,,,
+212.56.138.60,4,-39,Ookla Speedtest Server 14799: infra.speedtest.melita.com,MT,Europe,Southern Europe,Malta,Birkirkara,,Birkirkara
+80.85.110.50,4,-3,Ookla Speedtest Server 60383: speedtest2.epic.com.mt,MT,Europe,Southern Europe,Malta,Birkirkara,,Birkirkara
+217.15.103.82,4,2,Ookla Speedtest Server 70482: spdztn1.go.com.mt,MT,Europe,Southern Europe,Malta,,,
+80.85.98.78,4,12,Ookla Speedtest Server 73351: speedtest3.epic.com.mt,MT,Europe,Southern Europe,Malta,Saint Venera,,Saint Venera
+193.188.46.240,4,12,um.edu.mt,MT,Europe,Southern Europe,Malta,Il-Marsa,,Marsa
+85.184.96.28,4,16,unibet.com,MT,Europe,Southern Europe,Malta,,,
 85.184.96.42,4,1,unibet.fr,MT,Europe,Southern Europe,Malta,,,
-85.184.96.0,4,32,vladcazino.ro,MT,Europe,Southern Europe,Malta,,,
+85.184.96.0,4,14,vladcazino.ro,MT,Europe,Southern Europe,Malta,,,

@@ -1,8 +1,19 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-190.6.201.202,4,19,DNS Server: 190-6-201-202.reverse.cablecolor.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
-190.92.38.210,4,2045,DNS Server: 190-92-38-210.reverse.cablecolor.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
-179.49.112.116,4,429,DNS Server: block1-112-static-116.asinetwork.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
-131.108.233.13,4,4352,DNS Server: block108-233-static-13.asinetwork.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
-181.199.177.238,4,13119,Ookla Speedtest Server 45703: sp2.pronto.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+190.6.200.161,4,-7,DNS Server: 190-6-200-161.reverse.cablecolor.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+179.49.112.116,4,517166,DNS Server: block1-112-static-116.asinetwork.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+190.124.166.45,4,-26280,DNS Server: block166-static45.reytelhn.net,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+200.52.149.220,4,46,DNS Server: mail.industriassula.com,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+45.181.87.102,4,1,Ookla Speedtest Server 12256: speedtest.cablenethn.com,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+200.115.188.12,4,3,Ookla Speedtest Server 14666: block188-12.gnethn.com,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+168.197.172.5,4,9,Ookla Speedtest Server 35562: speedtest.gozfly.net,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+168.228.192.18,4,-29,Ookla Speedtest Server 39958: speedtest.multicable.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+45.190.13.26,4,2,Ookla Speedtest Server 41216: speedtestairnetworkhn.com,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,Puerto Cortés
+170.83.119.242,4,-3,Ookla Speedtest Server 43072: speedtest.cablesatelite.com,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+181.199.177.238,4,1125,Ookla Speedtest Server 45703: sp2.pronto.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+192.141.5.146,4,-5,Ookla Speedtest Server 52228: speedtest.netsys.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
 190.5.94.74,4,4630,Ookla Speedtest Server 57241: speedtest.cableceiba.net,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
-179.49.112.27,4,241,Ookla Speedtest Server 59767: speedtest02.asinetwork.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+179.49.112.27,4,-14,Ookla Speedtest Server 59767: speedtest02.asinetwork.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+190.92.50.10,4,7,Ookla Speedtest Server 65213: speedtestsps.cablecolor.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+177.10.184.134,4,-3,Ookla Speedtest Server 68673: speedtest.catelsa.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+192.141.166.2,4,-9,Ookla Speedtest Server 70720: rtlo-ookla-speed-eza.redtelo.net,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+190.124.166.8,4,15872,Redes y Telecomunicaciones,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula

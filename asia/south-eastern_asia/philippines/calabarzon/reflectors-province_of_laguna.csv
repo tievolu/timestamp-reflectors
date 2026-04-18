@@ -1,6 +1,14 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-210.5.101.242,4,-15044512,DNS Server: 210.5.101.242.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Laguna,Calamba
-210.5.111.178,4,2401459,DNS Server: 210.5.111.178.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Laguna,Calamba
-210.5.98.130,4,-4222278145,DNS Server: 210.5.98.130.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Laguna,Calamba
-210.5.98.46,4,2675646,DNS Server: 210.5.98.46.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Laguna,Calamba
-136.158.236.26,4,25873,DNS Server: 26.236.158.136.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Laguna,Calamba
+122.53.148.193,4,26850811,DNS Server: 122.53.148.193.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Laguna,Cabuyao
+122.53.156.206,4,-30,DNS Server: 122.53.156.206.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Laguna,Cabuyao
+122.53.156.212,4,-29,DNS Server: 122.53.156.212.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Laguna,Cabuyao
+122.53.156.220,4,-29,DNS Server: 122.53.156.220.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Laguna,Cabuyao
+122.53.156.221,4,-30,DNS Server: 122.53.156.221.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Laguna,Cabuyao
+124.83.65.243,4,-5920713,DNS Server: 124.83.65.243.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Laguna,Pagsanjan
+124.83.69.24,4,-282515,DNS Server: 124.83.69.24.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Laguna,Pagsanjan
+136.158.18.22,4,-56,Ookla Speedtest Server 36737: spl-spdtst-srv.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Laguna,San Pablo
+103.132.168.13,4,0,Ookla Speedtest Server 39777: speedtest.cablevisionsystemscorp.com,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Laguna,Pagsanjan
+124.6.181.214,4,-5,Ookla Speedtest Server 41188: srs-speedtest.globe.com.ph,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Laguna,Santa Rosa
+103.249.198.45,4,-27,Ookla Speedtest Server 67511: bmo1-speedtest1.switchfiber.ph,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Laguna,Rizal
+165.101.180.35,4,-6,Ookla Speedtest Server 71764: lagu-speedtest.jackfiber.com,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Laguna,Los Baños
+163.227.240.30,4,-2,Ookla Speedtest Server 72401: speedtest.intelcofiber.com,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Laguna,Biñan

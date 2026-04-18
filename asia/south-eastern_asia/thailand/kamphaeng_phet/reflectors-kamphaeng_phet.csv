@@ -1,0 +1,5 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+1.2.245.208,4,428,DNS Server: node-n9s.pool-1-2.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Kamphaeng Phet,,Kamphaeng Phet
+1.2.252.50,4,-5189,DNS Server: node-oj6.pool-1-2.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Kamphaeng Phet,,Kamphaeng Phet
+1.2.252.75,4,3,DNS Server: node-ojv.pool-1-2.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Kamphaeng Phet,,Kamphaeng Phet
+1.2.252.137,4,2,DNS Server: node-oll.pool-1-2.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Kamphaeng Phet,,Kamphaeng Phet

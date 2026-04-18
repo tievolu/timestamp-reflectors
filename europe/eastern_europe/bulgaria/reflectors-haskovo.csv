@@ -1,3 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-79.100.162.95,4,102,DNS Server: 79-100-162-95.ip.btc-net.bg,BG,Europe,Eastern Europe,Bulgaria,Haskovo,,Svilengrad
-195.24.88.66,4,-3,haskovo.net,BG,Europe,Eastern Europe,Bulgaria,Haskovo,,Haskovo
+82.137.89.244,4,4179,DNS Server: 82-137-89-244.ip.btc-net.bg,BG,Europe,Eastern Europe,Bulgaria,Haskovo,,Haskovo
+83.148.72.194,4,24,DNS Server: 83-148-72-194.ip.btc-net.bg,BG,Europe,Eastern Europe,Bulgaria,Haskovo,,Dimitrovgrad
+195.24.88.66,4,2,haskovo.net,BG,Europe,Eastern Europe,Bulgaria,Haskovo,,Haskovo
+195.24.89.7,4,14,Ookla Speedtest Server 3176: escom.bg,BG,Europe,Eastern Europe,Bulgaria,Haskovo,,Haskovo

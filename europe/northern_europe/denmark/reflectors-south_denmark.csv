@@ -1,14 +1,20 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-45.148.28.104,4,5,cptheatre.co.uk,DK,Europe,Northern Europe,Denmark,South Denmark,,Middelfart
-46.32.62.49,4,5,d-star4all.dk,DK,Europe,Northern Europe,Denmark,South Denmark,,Esbjerg
-87.54.234.171,4,-2158282599,dantimax.dk,DK,Europe,Northern Europe,Denmark,South Denmark,,Haderslev
-2.105.69.220,4,41,DNS Server: 2-105-69-220-cable.dk.customer.tdc.net,DK,Europe,Northern Europe,Denmark,South Denmark,,Haderslev
-94.138.81.162,4,104,DNS Server: 5E8A51A2.rev.sefiber.dk,DK,Europe,Northern Europe,Denmark,South Denmark,,Toftlund
-95.154.54.30,4,48,DNS Server: 5F9A361E.rev.sefiber.dk,DK,Europe,Northern Europe,Denmark,South Denmark,,Esbjerg
-195.215.31.242,4,79,DNS Server: cpe.ge-4-3-1-756.samnqe40.dk.customer.tdc.net,DK,Europe,Northern Europe,Denmark,South Denmark,,Ullerslev
-93.184.203.199,4,86,filmdatabase.dk,DK,Europe,Northern Europe,Denmark,South Denmark,,Munkebo
-45.148.29.59,4,7,hihaho.com,DK,Europe,Northern Europe,Denmark,South Denmark,,Middelfart
-185.156.98.185,4,-7,lavpristrae.dk,DK,Europe,Northern Europe,Denmark,South Denmark,,Tønder
-185.156.96.16,4,234,Ookla Speedtest Server 9062: sp1.wnbhosting.dk,DK,Europe,Northern Europe,Denmark,South Denmark,,Tønder
-45.136.70.58,4,12,orpheum.at,DK,Europe,Northern Europe,Denmark,South Denmark,,Middelfart
-82.103.133.20,4,2,zitobox.com,DK,Europe,Northern Europe,Denmark,South Denmark,,Rødding
+45.148.28.104,4,-7,cptheatre.co.uk,DK,Europe,Northern Europe,Denmark,South Denmark,,Asperup
+46.32.62.49,4,17,d-star4all.dk,DK,Europe,Northern Europe,Denmark,South Denmark,,Tistrup
+87.54.234.171,4,-2154682848,dantimax.dk,DK,Europe,Northern Europe,Denmark,South Denmark,,Sønderborg
+87.62.97.64,4,-37,DNS Server: 0x573e6140.static.cust.fastspeed.dk,DK,Europe,Northern Europe,Denmark,South Denmark,,Vejle
+2.105.69.220,4,164,DNS Server: 2-105-69-220-cable.dk.customer.tdc.net,DK,Europe,Northern Europe,Denmark,South Denmark,,Fredericia
+94.138.93.5,4,1,DNS Server: 5E8A5D05.rev.sefiber.dk,DK,Europe,Northern Europe,Denmark,South Denmark,,Rødding
+95.154.54.30,4,21,DNS Server: 5F9A361E.rev.sefiber.dk,DK,Europe,Northern Europe,Denmark,South Denmark,,Sønderborg
+176.62.207.21,4,-6,ebillet.dk,DK,Europe,Northern Europe,Denmark,South Denmark,,Kolding
+93.184.203.199,4,86,filmdatabase.dk,DK,Europe,Northern Europe,Denmark,South Denmark,,Odense
+45.148.29.59,4,1,hihaho.com,DK,Europe,Northern Europe,Denmark,South Denmark,,Asperup
+152.115.36.116,4,-6,iba.dk,DK,Europe,Northern Europe,Denmark,South Denmark,,Odense
+185.156.98.185,4,-19,lavpristrae.dk,DK,Europe,Northern Europe,Denmark,South Denmark,,Tønder
+185.156.96.16,4,-8,Ookla Speedtest Server 9062: sp1.wnbhosting.dk,DK,Europe,Northern Europe,Denmark,South Denmark,,Tønder
+188.228.0.47,4,2,Ookla Speedtest Server 39781: speedtest-iks.altibox.net,DK,Europe,Northern Europe,Denmark,South Denmark,,Give
+62.107.252.5,4,80,Ookla Speedtest Server 72198: dck-speedtest01.ip.nl-sp.dk,DK,Europe,Northern Europe,Denmark,South Denmark,,Kolding
+45.136.70.58,4,-5,orpheum.at,DK,Europe,Northern Europe,Denmark,South Denmark,,Asperup
+185.156.96.152,4,11,seasonimport.dk,DK,Europe,Northern Europe,Denmark,South Denmark,,Tønder
+152.115.36.100,4,-6,spelberoende.se,DK,Europe,Northern Europe,Denmark,South Denmark,,Odense
+152.115.36.105,4,58,sveiby.com,DK,Europe,Northern Europe,Denmark,South Denmark,,Odense

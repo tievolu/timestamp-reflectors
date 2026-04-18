@@ -1,3 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-91.137.131.25,4,90,DNS Server: 91-137-131-25.opticon.hu,HU,Europe,Eastern Europe,Hungary,Jász-Nagykun-Szolnok,,Mezőtúr
-185.152.182.252,4,342,Ookla Speedtest Server 20386: sp02.wavecom.hu,HU,Europe,Eastern Europe,Hungary,Jász-Nagykun-Szolnok,,Szolnok
+86.101.57.229,4,4124,DNS Server: catv-86-101-57-229.catv.fixed.vodafone.hu,HU,Europe,Eastern Europe,Hungary,Jász-Nagykun-Szolnok,,Jászberény
+88.132.111.168,4,0,DNS Server: host-88-132-111-168.prtelecom.hu,HU,Europe,Eastern Europe,Hungary,Jász-Nagykun-Szolnok,,Jászapáti
+45.67.159.244,4,-3,Ookla Speedtest Server 24446: speedtest.jztkft.hu,HU,Europe,Eastern Europe,Hungary,Jász-Nagykun-Szolnok,,Mezőtúr
+80.85.60.12,4,16,Ookla Speedtest Server 37106: teszt.novicom.hu,HU,Europe,Eastern Europe,Hungary,Jász-Nagykun-Szolnok,,Abádszalók

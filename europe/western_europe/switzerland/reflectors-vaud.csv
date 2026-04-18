@@ -1,5 +1,22 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-84.253.52.126,4,-254,DNS Server: 126.52.253.84.static.wline.lns.sme.cust.swisscom.ch,CH,Europe,Western Europe,Switzerland,Vaud,,Carrouge
-185.43.244.104,4,308,Ookla Speedtest Server 16402: speedtest.wifx.net,CH,Europe,Western Europe,Switzerland,Vaud,,Lausanne
-185.25.192.49,4,294,Ookla Speedtest Server: sp1.swissnetwork.ch,CH,Europe,Western Europe,Switzerland,Vaud,,Écublens
+5.1.100.166,4,0,aligro.ch,CH,Europe,Western Europe,Switzerland,Vaud,,Lausanne
+185.75.33.92,4,55,cullyjazz.ch,CH,Europe,Western Europe,Switzerland,Vaud,,Lausanne
+212.41.196.133,4,-2,DNS Server: ns.delwag.ch,CH,Europe,Western Europe,Switzerland,Vaud,,Lausanne
+185.75.33.17,4,-28,editionsfavre.com,CH,Europe,Western Europe,Switzerland,Vaud,,Lausanne
+185.75.33.73,4,65,editionsfavre.com,CH,Europe,Western Europe,Switzerland,Vaud,,Lausanne
+37.35.106.20,4,-12,getfiregpg.org,CH,Europe,Western Europe,Switzerland,Vaud,,Lausanne
+185.75.33.44,4,5,gout.ch,CH,Europe,Western Europe,Switzerland,Vaud,,Lausanne
+185.75.33.82,4,-4,infolio.ch,CH,Europe,Western Europe,Switzerland,Vaud,,Lausanne
+37.35.104.116,4,-11,Ookla Speedtest Server 3930: speedtest.alpinedc.ch,CH,Europe,Western Europe,Switzerland,Vaud,,Lausanne
+185.25.192.49,4,-1,Ookla Speedtest Server 7483: sp1.swissnetwork.ch,CH,Europe,Western Europe,Switzerland,Vaud,,Écublens
+185.25.194.5,4,19,Ookla Speedtest Server 8782: spespeedtest1.world-connect.ch,CH,Europe,Western Europe,Switzerland,Vaud,,Écublens
+185.43.244.104,4,-4,Ookla Speedtest Server 16402: speedtest.wifx.net,CH,Europe,Western Europe,Switzerland,Vaud,,Lausanne
+213.221.143.52,4,-5,Ookla Speedtest Server 25560: netspeed.netplus.ch,CH,Europe,Western Europe,Switzerland,Vaud,,Chesières
+62.220.146.42,4,8,opendigitalradio.org,CH,Europe,Western Europe,Switzerland,Vaud,,Lausanne
+217.71.244.75,4,8,sports-5.ch,CH,Europe,Western Europe,Switzerland,Vaud,,Gland
 217.71.244.73,4,75,sports-5.ch,CH,Europe,Western Europe,Switzerland,Vaud,,Gland
+195.176.53.226,4,12,unesco.ch,CH,Europe,Western Europe,Switzerland,Vaud,,Palézieux
+195.176.53.239,4,9,unisi.ch,CH,Europe,Western Europe,Switzerland,Vaud,,Palézieux
+195.176.55.64,4,14,usi.ch,CH,Europe,Western Europe,Switzerland,Vaud,,Palézieux
+195.176.53.237,4,14,visual-literacy.org,CH,Europe,Western Europe,Switzerland,Vaud,,Palézieux
+109.203.45.102,4,1178,xlxbul.net,CH,Europe,Western Europe,Switzerland,Vaud,,Orbe

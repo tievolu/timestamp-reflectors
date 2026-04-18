@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-213.157.35.62,4,307,Ookla Speedtest Server 42854: tldk-st.astel.kz,KZ,Asia,Central Asia,Kazakhstan,Jetisu Region,,Taldykorgan
+145.249.127.5,4,-1053,Ookla Speedtest Server 6944: tld-st10g.2day.kz,KZ,Asia,Central Asia,Kazakhstan,Jetisu Region,,Taldykorgan
+213.157.35.62,4,-23,Ookla Speedtest Server 42854: tldk-st.astel.kz,KZ,Asia,Central Asia,Kazakhstan,Jetisu Region,,Taldykorgan
+95.46.139.199,4,765039,Ookla Speedtest Server 70281: speedtest.kmedia.kz,KZ,Asia,Central Asia,Kazakhstan,Jetisu Region,,Taldykorgan

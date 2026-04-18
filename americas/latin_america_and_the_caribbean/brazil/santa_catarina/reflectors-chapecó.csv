@@ -1,6 +1,15 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-187.45.101.123,4,2564,DNS Server: 187.45.101.123.mhnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
-177.10.162.82,4,16,DNS Server: entrenanet--177-10-162-82.enn.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
-191.36.0.94,4,34,ifsc.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
-187.63.215.11,4,298,Ookla Speedtest Server: speedtest.superip.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+177.10.165.118,4,-43,abiis.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+187.45.101.123,4,869,DNS Server: 187.45.101.123.mhnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+187.45.101.35,4,40,DNS Server: 187.45.101.35.mhnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+177.10.162.82,4,-16,DNS Server: entrenanet--177-10-162-82.enn.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+191.5.179.151,4,-4085,DNS Server: entrenanet--191-5-179-151.enn.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+191.5.179.62,4,549,DNS Server: entrenanet--191-5-179-62.enn.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+45.174.128.200,4,-1,ixcsoft.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+186.226.112.45,4,-12,Ookla Speedtest Server 26757: speedtestsmo.scnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+187.63.215.11,4,619718,Ookla Speedtest Server 27269: speedtest.superip.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+186.227.144.24,4,14,Ookla Speedtest Server 31136: speedtest.interone.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+177.155.140.30,4,-5,Ookla Speedtest Server 51268: inova.net.gegnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+177.10.160.245,4,88772,Ookla Speedtest Server 65383: teste.enn.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
 191.240.135.227,4,95,Ookla Speedtest Server: speedtestcco.scnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+200.19.215.161,4,0,sc.gov.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó

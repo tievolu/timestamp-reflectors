@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-181.191.228.34,4,347,Ookla Speedtest Server 24182: speed1.globalnetrs.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Sobradinho
+45.7.144.10,4,2,Ookla Speedtest Server 17842: sp1.2btelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Sobradinho
+181.191.228.34,4,-2,Ookla Speedtest Server 24182: speed1.globalnetrs.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Sobradinho
+190.115.96.98,4,-12,Ookla Speedtest Server 49466: ookla.jginfonet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Sobradinho
+190.115.99.250,4,-10,Ookla Speedtest Server 59536: ookla.solucaors.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Sobradinho

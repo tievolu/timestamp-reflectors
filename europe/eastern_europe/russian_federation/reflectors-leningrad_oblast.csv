@@ -1,11 +1,15 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-109.167.133.51,4,1329783,DNS Server: 109-167-133-51.westcall.net,RU,Europe,Eastern Europe,Russian Federation,Leningrad Oblast,,Murino
-109.167.172.91,4,182,DNS Server: 109-167-172-91.westcall.net,RU,Europe,Eastern Europe,Russian Federation,Leningrad Oblast,,Murino
-95.54.40.180,4,4659,DNS Server: 95-54-40-180.dynamic.lenobl.dslavangard.ru,RU,Europe,Eastern Europe,Russian Federation,Leningrad Oblast,,Gatchina
-95.54.46.140,4,-56,DNS Server: 95-54-46-140.dynamic.lenobl.dslavangard.ru,RU,Europe,Eastern Europe,Russian Federation,Leningrad Oblast,,Gatchina
-109.167.129.145,4,12232,DNS Server: ferrum.dyn.westhome.spb.ru,RU,Europe,Eastern Europe,Russian Federation,Leningrad Oblast,,Murino
+109.167.217.206,4,78122494,DNS Server: 109-167-217-206.westcall.net,RU,Europe,Eastern Europe,Russian Federation,Leningrad Oblast,,Garbolovo
+109.167.230.243,4,1704,DNS Server: 109-167-230-243.westcall.net,RU,Europe,Eastern Europe,Russian Federation,Leningrad Oblast,,Garbolovo
+109.167.244.14,4,78413,DNS Server: 109-167-244-14.westcall.net,RU,Europe,Eastern Europe,Russian Federation,Leningrad Oblast,,Garbolovo
+188.187.3.114,4,22959,DNS Server: 188x187x3x114.static-business.spb.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Leningrad Oblast,,Sosnovyy Bor
+95.54.40.180,4,2857,DNS Server: 95-54-40-180.dynamic.lenobl.dslavangard.ru,RU,Europe,Eastern Europe,Russian Federation,Leningrad Oblast,,Gatchina
+95.54.46.140,4,-96,DNS Server: 95-54-46-140.dynamic.lenobl.dslavangard.ru,RU,Europe,Eastern Europe,Russian Federation,Leningrad Oblast,,Gatchina
+188.187.0.206,4,-18,DNS Server: mail2.administrator.net.ru,RU,Europe,Eastern Europe,Russian Federation,Leningrad Oblast,,Sosnovyy Bor
+79.173.80.22,4,-17,gtn.ru,RU,Europe,Eastern Europe,Russian Federation,Leningrad Oblast,,Gatchina
 79.173.126.11,4,433,kiopro.ru,RU,Europe,Eastern Europe,Russian Federation,Leningrad Oblast,,Kirishi
+91.215.202.55,4,-18,loginnet.ru,RU,Europe,Eastern Europe,Russian Federation,Leningrad Oblast,,Lyuban'
 79.173.127.209,4,329,Ookla Speedtest Server 2071: speed.kirishi.ru,RU,Europe,Eastern Europe,Russian Federation,Leningrad Oblast,,Kirishi
 91.211.45.130,4,350,Ookla Speedtest Server 4494: sp1.king-online.ru,RU,Europe,Eastern Europe,Russian Federation,Leningrad Oblast,,Kingisepp
-79.173.82.34,4,291,Ookla Speedtest Server: speedtest.gtn.ru,RU,Europe,Eastern Europe,Russian Federation,Leningrad Oblast,,Gatchina
-94.243.239.253,4,91,Ookla Speedtest Server: speedtest.ruslantk.ru,RU,Europe,Eastern Europe,Russian Federation,Leningrad Oblast,,Kingisepp
+79.173.82.34,4,-4,Ookla Speedtest Server: speedtest.gtn.ru,RU,Europe,Eastern Europe,Russian Federation,Leningrad Oblast,,Gatchina
+94.243.239.253,4,-1,Ookla Speedtest Server: speedtest.ruslantk.ru,RU,Europe,Eastern Europe,Russian Federation,Leningrad Oblast,,Kingisepp

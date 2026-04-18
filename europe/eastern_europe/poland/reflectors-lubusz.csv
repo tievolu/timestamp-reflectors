@@ -1,10 +1,31 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-83.15.45.148,4,104,DNS Server: ehp148.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Zielona Góra
-91.202.230.18,4,12781,DNS Server: host-91-202-230-18.static.oc3.zagan.visnet.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Żagań
-128.127.90.39,4,127735,DNS Server: host-c39.net.gecon.com.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Gorzów Wielkopolski
-92.55.196.29,4,-7093370,DNS Server: NETLINE-NET,PL,Europe,Eastern Europe,Poland,Lubusz,,Kłodawa
-93.175.130.2,4,370,Ookla Speedtest Server 3936: speedtest1.provector.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Niegosław
-62.182.208.18,4,182,Ookla Speedtest Server 16077: speedtest.ostrowski.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Zielona Góra
-185.24.24.29,4,37,Ookla Speedtest Server: speedtest.netdrive.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Zielona Góra
+5.185.227.131,4,21734,DNS Server: 5.185.227.131.ipv4.public.orange.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Zielona Góra
+5.185.231.202,4,0,DNS Server: 5.185.231.202.ipv4.public.orange.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Zielona Góra
+5.185.240.128,4,7352,DNS Server: 5.185.240.128.ipv4.public.orange.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Zielona Góra
+5.185.241.212,4,6821,DNS Server: 5.185.241.212.ipv4.public.orange.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Zielona Góra
+5.185.91.184,4,-2277802152,DNS Server: 5.185.91.184.ipv4.public.orange.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Deszczno
+5.185.94.131,4,8274,DNS Server: 5.185.94.131.ipv4.public.orange.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Deszczno
+91.202.230.18,4,-570,DNS Server: host-91-202-230-18.static.oc3.zagan.visnet.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Żagań
+128.127.90.39,4,99714,DNS Server: host-c39.net.gecon.com.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Gorzów Wielkopolski
+92.55.196.29,4,79541099,DNS Server: NETLINE-NET,PL,Europe,Eastern Europe,Poland,Lubusz,,Gorzów Wielkopolski
+5.185.230.53,4,-6354,DNS Server: public157237.cdma.centertel.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Zielona Góra
+5.185.231.42,4,1476,DNS Server: public157482.cdma.centertel.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Zielona Góra
+5.185.231.86,4,14,DNS Server: public157526.cdma.centertel.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Zielona Góra
+5.185.233.249,4,1340,DNS Server: public158201.cdma.centertel.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Zielona Góra
+5.185.234.151,4,-15,DNS Server: public158359.cdma.centertel.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Zielona Góra
+5.185.245.69,4,120,DNS Server: public161093.cdma.centertel.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Zielona Góra
+5.185.249.104,4,33,DNS Server: public162152.cdma.centertel.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Zielona Góra
+5.185.252.179,4,6266,DNS Server: public162995.cdma.centertel.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Zielona Góra
+5.185.87.174,4,21,DNS Server: public716909.centertel.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Deszczno
+5.185.92.43,4,4,DNS Server: public718058.centertel.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Deszczno
+185.24.24.6,4,-24,Ookla Speedtest Server 13059: speedtest1.netdrive.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Zielona Góra
+62.182.208.18,4,-9,Ookla Speedtest Server 16077: speedtest.ostrowski.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Zielona Góra
+37.131.166.230,4,25,Ookla Speedtest Server 45828: speedtest.lisek.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Skwierzyna
+185.14.148.68,4,-7,Ookla Speedtest Server 62361: speedtest.terratelekom.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Zielona Góra
+185.24.24.29,4,-51,Ookla Speedtest Server: speedtest.netdrive.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Zielona Góra
+78.133.168.145,4,1021,pkp.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Zielona Góra
+188.125.224.93,4,14,roan24.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Gorzów Wielkopolski
+78.133.168.232,4,4,rozklad-pkp.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Zielona Góra
 78.11.16.235,4,2,swi.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Krosno Odrzańskie
-212.244.142.40,4,6,tarnow.net.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Bytom Odrzański
+212.244.142.40,4,-23,tarnow.net.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Sława
+88.156.77.167,4,7,zjk.pl,PL,Europe,Eastern Europe,Poland,Lubusz,,Żary

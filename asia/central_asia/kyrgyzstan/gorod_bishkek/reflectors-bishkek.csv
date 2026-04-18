@@ -1,21 +1,38 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+5.59.233.112,4,8,1c-kato.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
 212.112.120.195,4,281,airport.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
-212.112.96.88,4,6,aknet.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
-212.112.96.87,4,6,aknet.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
-212.112.96.89,4,30,aknet.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
-77.235.18.2,4,239,DNS Server: 77-235-18-2.mega.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
-77.235.18.74,4,18904,DNS Server: 77-235-18-74.mega.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
-77.235.18.98,4,2,DNS Server: 77-235-18-98.mega.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
-77.235.27.18,4,634,DNS Server: 77-235-27-18.mega.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
-77.235.27.235,4,2282,DNS Server: 77-235-27-235.mega.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
-77.235.28.102,4,-3111,DNS Server: 77-235-28-102.mega.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
-92.245.114.129,4,946,DNS Server: 92-245-114-129.mega.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+212.112.96.89,4,36,aknet.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+212.112.96.88,4,-2,aknet.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+212.112.96.87,4,-9,aknet.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+212.112.127.131,4,24,bishkek.gov.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+5.59.233.207,4,-16,credits.com,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+212.42.103.5,4,1374,DNS Server: 212-42-103-5.elcat.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+77.235.18.2,4,51102696,DNS Server: 77-235-18-2.mega.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+77.235.27.18,4,13550,DNS Server: 77-235-27-18.mega.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+77.235.27.233,4,12212,DNS Server: 77-235-27-233.mega.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+77.235.28.102,4,-505,DNS Server: 77-235-28-102.mega.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+77.235.28.229,4,2,DNS Server: 77-235-28-229.mega.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+77.235.29.159,4,-1,DNS Server: 77-235-29-159.mega.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+80.72.178.140,4,-37709,DNS Server: 80-72-178-140.pppoe.ktnet.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+80.72.179.138,4,2063,DNS Server: 80-72-179-138.pppoe.ktnet.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+80.72.179.141,4,-147,DNS Server: 80-72-179-141.pppoe.ktnet.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+80.72.179.30,4,1043,DNS Server: 80-72-179-30.pppoe.ktnet.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+85.113.16.18,4,39656,DNS Server: 85-113-16-18.static.ktnet.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+85.113.22.170,4,3851,DNS Server: 85-113-22-170.static.ktnet.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+85.113.26.54,4,25906,DNS Server: 85-113-26-54.static.ktnet.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+85.113.28.117,4,11140796,DNS Server: 85-113-28-117.static.ktnet.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+85.113.9.73,4,12001,DNS Server: 85-113-9-73.static.ktnet.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+92.245.114.28,4,1,DNS Server: 92-245-114-28.mega.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+77.235.27.1,4,1074,DNS Server: mail.munai.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+85.113.24.52,4,-2,edu.gov.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+85.113.15.230,4,-15897789,edu.gov.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+77.220.204.95,4,2,ekois.net,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
 212.42.102.209,4,62,elcat.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
-212.42.122.145,4,319317,mineconom.gov.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
-212.2.230.79,4,1158,Ookla Speedtest Server 5308: oosrv.myhost.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
-91.192.65.166,4,204,Ookla Speedtest Server 5689: speedtest.beeline.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
-212.112.105.12,4,29,patent.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
-212.42.101.106,4,6,stat.gov.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
-212.42.101.113,4,94,stat.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
-212.2.227.212,4,27,vb.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
-77.220.204.65,4,-4,volunteer.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+212.2.230.79,4,-521580,Ookla Speedtest Server 5308: oosrv.myhost.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+91.192.65.166,4,28,Ookla Speedtest Server 5689: speedtest.beeline.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+146.120.212.15,4,8966,Ookla Speedtest Server 35891: speedtest.neotelecom.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+5.59.233.236,4,16,sport.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+212.42.101.106,4,18,stat.gov.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+212.42.101.113,4,17,stat.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+212.2.227.212,4,5,vb.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+77.220.204.65,4,30,volunteer.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek

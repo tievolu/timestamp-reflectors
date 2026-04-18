@@ -1,4 +1,8 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-119.252.117.162,4,40,comfsm.fm,FM,Oceania,Micronesia,Federated States of Micronesia,Chuuk,,Nema
-202.151.81.209,4,-11585845,DNS Server: 202-151-81-209.biz.static.teleguam.net,GU,Oceania,Micronesia,Guam,,,Guam Government House
-209.164.189.55,4,-35998716,DNS Server: 209-164-189-55.biz.static.teleguam.net,GU,Oceania,Micronesia,Guam,,,Tamuning
+119.252.117.162,4,-4,comfsm.fm,FM,Oceania,Micronesia,Federated States of Micronesia,Pohnpei State,,Kolonia
+202.151.81.209,4,71208740,DNS Server: 202-151-81-209.biz.static.teleguam.net,GU,Oceania,Micronesia,Guam,,,Tamuning
+119.252.112.81,4,2,Ookla Speedtest Server 2288: speedtest.fm,FM,Oceania,Micronesia,Federated States of Micronesia,Pohnpei State,,
+202.151.87.131,4,-4,Ookla Speedtest Server 3803: speedtest1.teleguam.net,GU,Oceania,Micronesia,Guam,,,Tamuning
+119.252.120.47,4,7,Ookla Speedtest Server 17319: yap.speedtest.fm,FM,Oceania,Micronesia,Federated States of Micronesia,Yap State,,
+103.251.133.17,4,2,Ookla Speedtest Server 19143: speedtest.telco.pw,PW,Oceania,Micronesia,Palau,Koror,,Koror
+204.44.191.97,4,44,Ookla Speedtest Server 72957: dpac-la.guam.net,GU,Oceania,Micronesia,Guam,,,Dededo

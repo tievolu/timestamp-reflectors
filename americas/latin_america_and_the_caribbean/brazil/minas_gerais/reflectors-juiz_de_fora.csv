@@ -1,6 +1,8 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-45.172.101.3,4,13800,Ookla Speedtest Server: speedtest.henrisatjf.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Juiz de Fora
-45.7.128.24,4,43,Ookla Speedtest Server: speedtest.novainternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Juiz de Fora
-45.226.239.234,4,212,Ookla Speedtest Server: speedtest.velnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Juiz de Fora
-131.196.132.35,4,0,Ookla Speedtest Server: velocidade.mwamais.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Juiz de Fora
-131.161.249.163,4,8,Ookla Speedtest Server: velocimetro-cbt.lvnetwork.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Juiz de Fora
+45.224.36.2,4,-2,Ookla Speedtest Server 26702: speedtest.tecnoserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Juiz de Fora
+45.7.128.24,4,-10,Ookla Speedtest Server 45975: speedtest.novainternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Juiz de Fora
+168.195.176.94,4,-8,Ookla Speedtest Server 49381: velocimetro.velozes.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Juiz de Fora
+45.226.239.234,4,24,Ookla Speedtest Server 53272: speedtest.velnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Juiz de Fora
+187.109.115.154,4,4464,Ookla Speedtest Server 61540: speedtest-fst.lv.network,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Juiz de Fora
+131.161.249.163,4,6,Ookla Speedtest Server 68086: velocimetro.cbt.lv.network,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Juiz de Fora
+45.224.36.50,4,12,Ookla Speedtest Server 71532: speedtest.redeinternet.com,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Juiz de Fora

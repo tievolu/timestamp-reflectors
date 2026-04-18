@@ -1,4 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-177.229.223.74,4,-99,DNS Server: customer-CJRZ-MCA-223-74.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Ciudad Juárez
-45.174.78.160,4,67540,Ookla Speedtest Server 33286: speedtestjuarez.nidix.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Ciudad Juárez
-187.244.51.2,4,334,Ookla Speedtest Server 58237: speedtest.juarez.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Ciudad Juárez
+177.229.223.74,4,-4758,DNS Server: customer-CJRZ-MCA-223-74.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Ciudad Juárez
+45.174.78.160,4,183488,Ookla Speedtest Server 33286: speedtestjuarez.nidix.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Ciudad Juárez
+187.244.51.2,4,1,Ookla Speedtest Server 58237: speedtest.juarez.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Ciudad Juárez
+38.211.51.4,4,-6,Ookla Speedtest Server 68105: speed.inix360.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Ciudad Juárez
+45.80.83.233,4,-1,Ookla Speedtest Server 72430: speedtest.icentral.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chihuahua,,Ciudad Juárez

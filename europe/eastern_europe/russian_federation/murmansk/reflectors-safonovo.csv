@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+83.171.104.119,4,53300,DNS Server: ppp.83-171-104-119.pppoe.avangarddsl.ru,RU,Europe,Eastern Europe,Russian Federation,Murmansk,,Safonovo
+83.171.104.15,4,1,DNS Server: ppp.83-171-104-15.pppoe.avangarddsl.ru,RU,Europe,Eastern Europe,Russian Federation,Murmansk,,Safonovo
+83.171.107.135,4,-1510143991,DNS Server: ppp.83-171-107-135.pppoe.avangarddsl.ru,RU,Europe,Eastern Europe,Russian Federation,Murmansk,,Safonovo

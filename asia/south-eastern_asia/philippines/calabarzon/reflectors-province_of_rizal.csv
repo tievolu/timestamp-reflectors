@@ -1,5 +1,10 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-122.3.190.173,4,18909,DNS Server: 122.3.190.173.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Rizal,Cainta
-122.52.181.120,4,-3266,DNS Server: 122.52.181.120.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Rizal,City of Muntinlupa
-58.69.29.58,4,-4244394943,DNS Server: 58.69.29.58.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Rizal,City of Muntinlupa
-103.36.19.34,4,138,DNS Server: ns01.planetcabletv.com,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Rizal,City of Muntinlupa
+119.92.65.97,4,19254321,DNS Server: 119.92.65.97.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Rizal,Ugong Norte
+122.52.198.41,4,57600022,DNS Server: 122.52.198.41.pldt.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Rizal,Antipolo City
+116.50.230.138,4,-20,DNS Server: 138.230.50.116.ids.service.static.eastern-tele.com,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Rizal,Antipolo City
+103.186.139.169,4,-33,Ookla Speedtest Server 48920: rodriguez-speedtest.ewstelcoserv.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Rizal,Rodriguez
+103.121.65.19,4,-11,Ookla Speedtest Server 60348: anti-speedtest1.atssfiber.ph,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Rizal,Antipolo City
+157.15.140.131,4,-36,Ookla Speedtest Server 63617: hbt1-speedtest1.hapibytes.com,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Rizal,Taytay
+103.186.139.7,4,-26,Ookla Speedtest Server 67982: speedtest-makati.dsnetworks.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Rizal,Rodriguez
+163.227.244.19,4,-21,Ookla Speedtest Server 71133: simr-speedtest1.rdnaks.ph,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Rizal,Rodriguez
+103.249.203.2,4,11,Ookla Speedtest Server 71824: speedtest.zsgics.net,PH,Asia,South-eastern Asia,Philippines,Calabarzon,Province of Rizal,San Mateo

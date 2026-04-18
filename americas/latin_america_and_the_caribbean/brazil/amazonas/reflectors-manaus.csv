@@ -1,14 +1,40 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-45.164.182.30,4,64,DNS Server: 45.164.182.30.grupojdtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
-200.242.40.134,4,-2,DNS Server: angelim.sinetram.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
-200.149.59.139,4,-4,fiat.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
-200.149.59.145,4,7,fiat.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
-168.0.229.40,4,226,Ookla Speedtest Server 16593: ookla.xponnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
-138.185.152.28,4,222,Ookla Speedtest Server 18929: speedtest.padraosystem.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
-200.215.239.10,4,303,Ookla Speedtest Server 47138: speed.ccspublichost.com,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
-45.236.240.59,4,321,Ookla Speedtest Server 47570: ookla.siditelecom-isp.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
-192.141.222.100,4,-383056,Ookla Speedtest Server 53923: teste.xtremenet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
-200.6.36.2,4,145,Ookla Speedtest Server 54574: speedtest.intlink.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
-187.103.200.226,4,218,Ookla Speedtest Server 55160: teste.jsnet.manaus.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
-24.152.6.11,4,300,Ookla Speedtest Server 59607: speed.newclicktelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
-200.129.163.175,4,3,ufam.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+179.191.232.12,4,11,Ookla Speedtest Server 10934: speedtest1.axes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+45.229.141.10,4,-8,Ookla Speedtest Server 12169: velocidade.phinfortelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+186.231.31.177,4,-3,Ookla Speedtest Server 12562: spetstmns01.timbrasil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+45.189.120.10,4,0,Ookla Speedtest Server 18981: teste.diotelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+170.239.229.8,4,12,Ookla Speedtest Server 24681: speedtest.amnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+138.185.86.224,4,1407291,Ookla Speedtest Server 26522: speed.amazonett.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+189.84.40.46,4,47,Ookla Speedtest Server 28448: velocidade.idnetttelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+45.190.228.136,4,-14,Ookla Speedtest Server 32474: teste.newsolutionnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+45.179.44.45,4,11,Ookla Speedtest Server 32848: speedtest.visiontelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+138.121.28.19,4,6,Ookla Speedtest Server 33584: velocimetro.proveinter.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+177.200.136.3,4,5,Ookla Speedtest Server 35189: speedtest.syscom.manaus.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+45.189.123.14,4,-5,Ookla Speedtest Server 36277: teste.wsfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+131.255.8.227,4,-1,Ookla Speedtest Server 37188: ok.conectmastelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+179.0.92.35,4,1,Ookla Speedtest Server 37986: velocidade.exytelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+131.108.136.34,4,5,Ookla Speedtest Server 43375: velocimetro.speednetworks.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+167.250.200.18,4,-1,Ookla Speedtest Server 43704: speedtest.unitelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+45.188.143.6,4,13475,Ookla Speedtest Server 45199: speedtest.routinger.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+45.236.240.59,4,-7,Ookla Speedtest Server 47570: ookla.siditelecom-isp.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+45.229.143.214,4,8,Ookla Speedtest Server 51463: teste.tstelecomltda.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+131.255.8.152,4,14621879,Ookla Speedtest Server 53474: speedtest.jvswifi.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+192.141.222.100,4,-1,Ookla Speedtest Server 53923: teste.xtremenet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+45.186.224.35,4,11,Ookla Speedtest Server 54574: speedtest.intlink.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+187.103.200.226,4,-30,Ookla Speedtest Server 55160: teste.jsnet.manaus.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+177.200.136.160,4,19,Ookla Speedtest Server 56117: speedtest.albatroznetwork.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+131.255.8.250,4,-6,Ookla Speedtest Server 57219: ookla.araujotelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+131.255.9.53,4,-9,Ookla Speedtest Server 57675: speedtest.linkamos.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+138.99.109.13,4,-1821113,Ookla Speedtest Server 59830: speedam.wsp.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+45.236.8.25,4,-9,Ookla Speedtest Server 62310: ookla.fullisp.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+45.168.37.10,4,-15,Ookla Speedtest Server 62857: speedtest.jetspeed.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+170.150.53.6,4,-9091,Ookla Speedtest Server 63090: teste.linkonfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+170.246.224.250,4,10,Ookla Speedtest Server 63156: ookla.playmaisreverso.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+177.53.236.161,4,27,Ookla Speedtest Server 63417: velocimetro-spt.akto.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+45.188.141.19,4,4030215,Ookla Speedtest Server 64181: teste.routinger.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+187.86.174.251,4,0,Ookla Speedtest Server 64271: ookla.jgainterlinktelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+200.215.239.192,4,-9,Ookla Speedtest Server 64730: speedtest.upwirefibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+45.236.242.66,4,420,Ookla Speedtest Server 67434: lifitelecom.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+179.42.145.80,4,3,Ookla Speedtest Server 70801: fwnetwork.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+45.186.224.34,4,-15,Ookla Speedtest Server 71486: speedtest.wiretelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus
+200.129.163.175,4,14,ufam.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Amazonas,,Manaus

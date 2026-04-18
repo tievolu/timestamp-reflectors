@@ -1,5 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-119.92.117.102,4,-4239341263,DNS Server: 119.92.117.102.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Bicol Region,Province of Camarines Norte,Province of Camarines Norte
-122.2.29.66,4,-28483163,DNS Server: 122.2.29.66.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Bicol Region,Province of Camarines Norte,Paracale
-45.124.59.68,4,121174,Ookla Speedtest Server 19360: speedtest3.dctv.com.ph,PH,Asia,South-eastern Asia,Philippines,Bicol Region,Province of Albay,Daraga
-103.185.219.46,4,282,Ookla Speedtest Server 55746: speed.charles-catv.com,PH,Asia,South-eastern Asia,Philippines,Bicol Region,Province of Masbate,Masbate
+122.2.29.66,4,67228578,DNS Server: 122.2.29.66.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Bicol Region,Province of Camarines Norte,Paracale
+122.2.29.22,4,44775249,DNS Server: host.18.static.lgc.com.ph,PH,Asia,South-eastern Asia,Philippines,Bicol Region,Province of Camarines Norte,Paracale
+103.225.136.187,4,18,Ookla Speedtest Server 4679: speedtest1.dctv.com.ph,PH,Asia,South-eastern Asia,Philippines,Bicol Region,Province of Albay,Camalig
+160.20.127.255,4,35,Ookla Speedtest Server 15587: spt1.halpropconnect.net,PH,Asia,South-eastern Asia,Philippines,Bicol Region,Province of Sorsogon,Gubat
+204.145.2.158,4,-5,Ookla Speedtest Server 38919: ngc-spdtst-srv.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Bicol Region,Province of Sorsogon,Sorsogon

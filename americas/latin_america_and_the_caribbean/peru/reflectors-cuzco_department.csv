@@ -1,4 +1,11 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-190.237.52.149,4,190,Ookla Speedtest Server 15675: ookla-cus01.telefonica.net.pe,PE,Americas,Latin America and the Caribbean,Peru,Cuzco Department,,Cusco
-38.188.100.17,4,-23250,Ookla Speedtest Server 16025: speedtest.ifox.pe,PE,Americas,Latin America and the Caribbean,Peru,Cuzco Department,,Pichari
-154.85.2.18,4,4875,Ookla Speedtest Server 62544: speedtest.inpecable.com,PE,Americas,Latin America and the Caribbean,Peru,Cuzco Department,,Cusco
+190.237.52.149,4,-1,Ookla Speedtest Server 15675: ookla-cus01.movistar.pe,PE,Americas,Latin America and the Caribbean,Peru,Cuzco Department,,Cusco
+38.188.100.17,4,87274,Ookla Speedtest Server 16025: speedtest.ifox.pe,PE,Americas,Latin America and the Caribbean,Peru,Cuzco Department,,Pichari
+38.224.148.4,4,1,Ookla Speedtest Server 58422: speedtest1.fibertim.pe,PE,Americas,Latin America and the Caribbean,Peru,Cuzco Department,,
+154.85.2.18,4,115004,Ookla Speedtest Server 62544: speedtest.inpecable.com,PE,Americas,Latin America and the Caribbean,Peru,Cuzco Department,,Cusco
+190.116.29.54,4,-15,Ookla Speedtest Server 64439: speedtest.ruralnet.pe,PE,Americas,Latin America and the Caribbean,Peru,Cuzco Department,,Yauri
+190.113.223.171,4,1,Ookla Speedtest Server 64584: speedtest44.amx.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Cuzco Department,,Cusco
+179.1.145.77,4,-12448,Ookla Speedtest Server 64931: speedtest.nextfiberperu.com,PE,Americas,Latin America and the Caribbean,Peru,Cuzco Department,,Cusco
+38.252.219.250,4,-2,Ookla Speedtest Server 70630: speedtest2.khuskatic.com,PE,Americas,Latin America and the Caribbean,Peru,Cuzco Department,,Cusco
+38.159.181.254,4,-4,Ookla Speedtest Server 71834: speedtest.noc.pe,PE,Americas,Latin America and the Caribbean,Peru,Cuzco Department,,Anta
+38.159.181.10,4,1,Ookla Speedtest Server 72120: speedtest.noretel.com,PE,Americas,Latin America and the Caribbean,Peru,Cuzco Department,,Cusco

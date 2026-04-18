@@ -1,37 +1,69 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+102.219.189.153,4,0,abilliontestimoniesandmore.org,NG,Africa,Sub-Saharan Africa,Nigeria,,,
+196.220.66.178,4,42,abu.edu.ng,NG,Africa,Sub-Saharan Africa,Nigeria,,,
 196.220.67.227,4,16,abu.edu.ng,NG,Africa,Sub-Saharan Africa,Nigeria,,,
-197.159.69.181,4,789,airforce.mil.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
-102.164.38.81,4,38,anambrastate.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+197.159.69.181,4,-82,airforce.mil.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+154.113.19.6,4,48,betwinner.ng,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+197.159.78.201,4,12,budgetoffice.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+41.184.119.59,4,71,DNS Server: 41-184-119-59.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+41.184.148.152,4,673,DNS Server: 41-184-148-152.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
 41.184.148.252,4,-122,DNS Server: 41-184-148-252.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
-41.184.157.101,4,146,DNS Server: 41-184-157-101.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
-41.184.167.3,4,120,DNS Server: 41-184-167-3.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
-41.184.212.17,4,54,DNS Server: 41-184-212-17.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
-41.184.246.20,4,650,DNS Server: 41-184-246-20.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
-41.184.254.44,4,588,DNS Server: 41-184-254-44.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
-197.159.70.171,4,930,foreignaffairs.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
-197.159.71.120,4,478,frsc.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
-197.159.74.26,4,141718,icpc.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,,,
+41.184.149.1,4,322,DNS Server: 41-184-149-1.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+41.184.153.133,4,275,DNS Server: 41-184-153-133.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+41.184.164.225,4,51,DNS Server: 41-184-164-225.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+41.184.174.151,4,949,DNS Server: 41-184-174-151.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+41.184.212.17,4,286,DNS Server: 41-184-212-17.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+41.184.245.99,4,255,DNS Server: 41-184-245-99.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+169.239.48.11,4,-7,DNS Server: proxy_server.hooptelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,,,
+167.88.51.245,4,-5,DoH server: dnscry.pt-ikeja-ipv4,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+176.97.192.12,4,-1,DoH server: dnscry.pt-lagos-ipv4,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+197.159.70.81,4,-8,education.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+197.159.78.63,4,5,finance.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+197.159.67.13,4,2,fish-p.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+197.159.68.56,4,1767,fmhud.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+197.159.70.171,4,550,foreignaffairs.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+197.159.74.132,4,-17,frsc.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+197.159.71.160,4,-28,health.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+197.159.74.26,4,307867,icpc.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+197.159.69.186,4,-12,interior.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+197.159.74.39,4,235280,maritimeacademy.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
 41.138.161.61,4,5948,nafdac.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,,,
-197.159.78.29,4,5,nationalpopulation.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,,,
-197.159.78.216,4,1459,navy.mil.ng,NG,Africa,Sub-Saharan Africa,Nigeria,,,
+197.159.70.186,4,1812,nahcon.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+197.159.78.29,4,57,nationalpopulation.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+197.159.78.216,4,1797,navy.mil.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
 197.159.68.249,4,-51926,nbc.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
-197.159.67.12,4,4,nema.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
-197.159.74.87,4,5,nerc.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,,,
+197.159.74.33,4,-22,nema.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+197.159.74.87,4,22,nerc.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
 154.113.177.235,4,43,newscentral.africa,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
-197.159.69.92,4,1020,nigerianstat.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
-197.159.70.254,4,1280,nimasa.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
-41.222.79.4,4,8,nira.org.ng,NG,Africa,Sub-Saharan Africa,Nigeria,,,
-197.159.69.112,4,970,npf.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
-197.159.67.40,4,683,nphcda.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
-105.112.48.68,4,351,Ookla Speedtest Server 15278: speedtest2.ng.airtel.com,NG,Africa,Sub-Saharan Africa,Nigeria,,,
-197.159.66.45,4,555965,Ookla Speedtest Server 53092: speedtest.galaxybackbone.com.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
-169.239.188.83,4,155,Ookla Speedtest Server 54795: speedtest.dng.dolphintelecom.net,NG,Africa,Sub-Saharan Africa,Nigeria,,,
-102.223.1.254,4,334,Ookla Speedtest Server 64936: speedtest.wifiber.ng,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
-41.78.83.207,4,1398,osgof.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+197.159.69.92,4,-3,nigerianstat.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+197.159.70.254,4,1239,nimasa.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+80.248.15.228,4,-19657,nimc.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,,,
+41.222.79.4,4,-31,nira.org.ng,NG,Africa,Sub-Saharan Africa,Nigeria,,,
+197.159.67.40,4,1,nphcda.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+196.27.128.12,4,12415,oauife.edu.ng,NG,Africa,Sub-Saharan Africa,Nigeria,,,
+154.113.167.234,4,23,Ookla Speedtest Server 2617: speed.mainonecable.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+41.184.56.234,4,7,Ookla Speedtest Server 6618: speedtest1.ipnxnigeria.net,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+196.207.11.25,4,7,Ookla Speedtest Server 8616: speedtest.netcomafrica.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+197.242.125.245,4,-5,Ookla Speedtest Server 12922: speedtest4.spectranet.com.ng,NG,Africa,Sub-Saharan Africa,Nigeria,,,
+105.112.48.68,4,5,Ookla Speedtest Server 15278: speedtest2.ng.airtel.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+105.112.111.18,4,9,Ookla Speedtest Server 26241: speedtest3.ng.airtel.com,NG,Africa,Sub-Saharan Africa,Nigeria,Enugu State,,Enugu
+197.255.160.236,4,1423,Ookla Speedtest Server 31611: speedtest1.spectranet.com.ng,NG,Africa,Sub-Saharan Africa,Nigeria,,,
+158.255.76.106,4,-3,Ookla Speedtest Server 46960: speedtest-los.melbicom.net,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+197.159.66.45,4,229978,Ookla Speedtest Server 53092: speedtest.galaxybackbone.com.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+169.239.188.83,4,-13,Ookla Speedtest Server 54795: speedtest.dng.dolphintelecom.net,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+102.212.40.10,4,-2,Ookla Speedtest Server 60434: speedtest.connectsurfsmile.com,NG,Africa,Sub-Saharan Africa,Nigeria,Akwa Ibom State,,Uyo
+102.134.21.58,4,-30,Ookla Speedtest Server 63142: speedtest-los.openaccessmetro.net,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Lugbe
+102.212.208.254,4,91547,Ookla Speedtest Server 65051: speedtest.fob.ng,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+167.88.51.14,4,3,Ookla Speedtest Server 67610: ng-speedtest.sitehub.com.ng,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+155.93.83.155,4,-4,Ookla Speedtest Server 69360: ookla.blazzinghost.com,NG,Africa,Sub-Saharan Africa,Nigeria,,,
+41.78.83.207,4,1836,osgof.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
 102.219.189.129,4,31,pastorchrisonline.org,NG,Africa,Sub-Saharan Africa,Nigeria,,,
-41.242.54.153,4,22,policerecruitment.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
-197.159.68.50,4,2052168,population.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
-197.159.67.13,4,11,son.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
-197.255.160.237,4,1072,spectranet.com.ng,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
-197.159.78.84,4,472,tetfund.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,,,
+197.159.74.51,4,14,plateaustate.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+197.159.68.50,4,3012938,population.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+197.159.67.12,4,7,psc.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+197.159.74.71,4,12,son.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+197.159.69.150,4,910,statehouse.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+197.159.78.84,4,1669,tetfund.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+41.78.224.48,4,1253,udusok.edu.ng,NG,Africa,Sub-Saharan Africa,Nigeria,,,
+197.159.74.225,4,7,von.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
 197.159.67.22,4,17,von.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja

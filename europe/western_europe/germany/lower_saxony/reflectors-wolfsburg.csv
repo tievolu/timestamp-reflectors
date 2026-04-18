@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-62.176.236.41,4,7,wolfsburg.de,DE,Europe,Western Europe,Germany,Lower Saxony,,Wolfsburg
+185.225.135.100,4,-25,bdip.de,DE,Europe,Western Europe,Germany,Lower Saxony,,Wolfsburg
+62.176.235.195,4,-2,fusion-festival.de,DE,Europe,Western Europe,Germany,Lower Saxony,,Wolfsburg
+193.135.10.253,4,-3,Ookla Speedtest Server 68854: speedtest.host-unlimited.de,DE,Europe,Western Europe,Germany,Lower Saxony,,Wolfsburg
+62.176.236.41,4,6,wolfsburg.de,DE,Europe,Western Europe,Germany,Lower Saxony,,Wolfsburg

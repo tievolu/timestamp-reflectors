@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-189.198.199.102,4,91,DNS Server: customer-ZAC-MCA-199-102.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Zacatecas,,Zacatecas City
+189.198.199.102,4,13,DNS Server: customer-ZAC-MCA-199-102.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Zacatecas,,Zacatecas City
+190.113.52.3,4,379,Ookla Speedtest Server 47147: speedfrz.conectix.com,MX,Americas,Latin America and the Caribbean,Mexico,Zacatecas,,Fresnillo
+187.244.45.2,4,-23,Ookla Speedtest Server 50507: speedtest.zac.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Zacatecas,,Zacatecas City

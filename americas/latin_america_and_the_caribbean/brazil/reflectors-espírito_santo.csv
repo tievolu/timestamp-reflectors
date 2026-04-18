@@ -1,12 +1,71 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-201.77.8.5,4,66,DNS Server: 5-8-77-201.rgprovider.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Pinheiros
-177.11.122.235,4,-36282230,DNS Server: cliente.177.11.122.235.windx.com.br.122.11.177.in-addr.arpa,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Itapemirim
-177.223.234.119,4,50,DNS Server: dynamic-177-223-234-119.novatecnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Guaçuí
-187.120.36.45,4,983,DNS Server: hosts-187-120-36-45.iz1telecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Piúma
-189.50.2.66,4,5954,Ookla Speedtest Server 15895: teste.ayko.tech,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Vila Velha
-187.73.224.202,4,163,Ookla Speedtest Server 54859: ookla.ivp.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Serra
-177.190.159.6,4,348,Ookla Speedtest Server 56253: speedtest.alkatelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Aracruz
-170.244.215.65,4,264,Ookla Speedtest Server 56718: speedtest.vilanet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Vila Velha
-168.228.20.17,4,292,Ookla Speedtest Server 57097: speedtest.clesat.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Vitória
-179.63.139.6,4,346,Ookla Speedtest Server 60702: teste.ertelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Mucurici
-177.154.164.42,4,1795621,Ookla Speedtest Server 63623: teste.brasilfibraes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Vila Velha
+201.77.8.5,4,3,DNS Server: 5-8-77-201.rgprovider.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Pinheiros
+177.223.234.119,4,-2,DNS Server: dynamic-177-223-234-119.novatecnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Ibatiba
+187.120.36.45,4,654,DNS Server: hosts-187-120-36-45.iz1telecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Piúma
+200.137.87.165,4,-36465,Ookla Speedtest Server 3123: speedtest.pop-es.rnp.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Vitória
+177.222.142.28,4,16,Ookla Speedtest Server 9175: speedtest.sinaistelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Venda Nova do Imigrante
+189.91.144.42,4,-2,Ookla Speedtest Server 9407: test1.supernetes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,São Mateus
+131.255.144.3,4,-1,Ookla Speedtest Server 9417: test4.supernetes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Guarapari
+177.184.215.178,4,-11,Ookla Speedtest Server 10752: ookla.netdrp.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Dores do Rio Preto
+177.184.220.74,4,0,Ookla Speedtest Server 14117: ookla.helpnet-es.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Iúna
+177.184.58.10,4,9,Ookla Speedtest Server 14622: speedtest.bdnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Iconha
+200.110.207.176,4,1094,Ookla Speedtest Server 15303: teste.wdgfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Cariacica
+189.50.2.66,4,-9662,Ookla Speedtest Server 15895: teste.ayko.tech,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Vitória
+45.169.152.20,4,292319,Ookla Speedtest Server 18366: testesnet.snetfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Serra
+45.179.120.21,4,0,Ookla Speedtest Server 22900: velocidade.globaltech.inf.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Mantenópolis
+45.228.8.6,4,-181245,Ookla Speedtest Server 24937: speedtest.w-net.eco.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Serra
+177.101.80.60,4,3,Ookla Speedtest Server 25356: teste.viaon.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Colatina
+177.125.145.58,4,1,Ookla Speedtest Server 26121: sptafc.izi.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Afonso Cláudio
+138.121.116.22,4,-6,Ookla Speedtest Server 26774: spt.unolink.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Baixo Guandu
+131.196.228.41,4,-16,Ookla Speedtest Server 27007: velocimetro.bruptelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Guarapari
+45.177.228.6,4,-4,Ookla Speedtest Server 28240: teste.meganetibl.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Itapemirim
+138.204.224.142,4,-21,Ookla Speedtest Server 29082: speedtest.exo.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Vitória
+168.227.139.26,4,-5,Ookla Speedtest Server 29496: speed.newtecnologia.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Cachoeiro de Itapemirim
+191.242.216.19,4,4,Ookla Speedtest Server 31451: speedtest.megalink.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Sooretama
+190.115.94.252,4,7,Ookla Speedtest Server 33401: speedtest.mvnetbsf.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Barra de São Francisco
+177.11.244.122,4,-6,Ookla Speedtest Server 34584: speedtest.flash.srv.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Cariacica
+45.170.4.22,4,8,Ookla Speedtest Server 34775: speedtest.interplus.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Serra
+201.77.8.12,4,6,Ookla Speedtest Server 35196: speedtest.rgprovider.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Pinheiros
+138.99.246.252,4,-36,Ookla Speedtest Server 35861: speedtest.fazzy.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Cachoeiro de Itapemirim
+177.73.240.198,4,12686,Ookla Speedtest Server 35862: speedtest.viasultelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Itapemirim
+177.91.207.250,4,0,Ookla Speedtest Server 36803: speedtest.elonline.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Domingos Martins
+138.59.180.34,4,-1,Ookla Speedtest Server 36903: teste.zamtech.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Cariacica
+200.110.205.110,4,-8,Ookla Speedtest Server 37408: speedtest.dinamicanettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Cariacica
+170.80.44.19,4,-1,Ookla Speedtest Server 37663: teste.surubiminternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Pancas
+201.140.232.6,4,20,Ookla Speedtest Server 38746: teste.pznet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Jerônimo Monteiro
+131.196.100.38,4,-1,Ookla Speedtest Server 39431: speed.nv7.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Serra
+131.196.216.34,4,11,Ookla Speedtest Server 40130: st.gigainternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Vila Velha
+177.154.20.88,4,-3,Ookla Speedtest Server 40438: speed.connectvilla.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Cariacica
+189.84.47.103,4,7451,Ookla Speedtest Server 42565: speedtest.stationlink.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Vila Valério
+177.154.166.74,4,-3,Ookla Speedtest Server 42865: speedtest.goin.tec.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Vila Velha
+168.197.179.3,4,-13355,Ookla Speedtest Server 43958: speedtest.wwnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Laranja da Terra
+177.223.239.19,4,43798,Ookla Speedtest Server 45913: ookla.caparaoconnect.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Ibatiba
+181.189.124.200,4,9,Ookla Speedtest Server 51732: speed.rpa.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Vila Velha
+201.71.200.18,4,-2508140,Ookla Speedtest Server 52597: teste.cworld.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Serra
+177.36.24.211,4,-7,Ookla Speedtest Server 52752: speedtest.mrmfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Cariacica
+190.115.103.37,4,-1,Ookla Speedtest Server 53506: teste.conexaobrasil.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Vila Velha
+200.110.207.4,4,-4,Ookla Speedtest Server 55663: ookla.vivaneti.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Cariacica
+189.17.100.28,4,-16,Ookla Speedtest Server 56525: spd47.claro.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,São Gabriel da Palha
+170.244.215.65,4,-5,Ookla Speedtest Server 56718: speedtest.vilanet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Domingos Martins
+38.159.179.30,4,2,Ookla Speedtest Server 56831: speedtest.speedtelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Aracruz
+170.78.100.2,4,-11,Ookla Speedtest Server 56859: test.novaredenet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Cariacica
+168.228.20.17,4,8,Ookla Speedtest Server 57097: speedtest.clesat.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Vitória
+170.254.247.251,4,0,Ookla Speedtest Server 58412: speedtest.3xfibra.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Castelo
+168.197.220.50,4,-25,Ookla Speedtest Server 59216: speedtest.conectja.online,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Cariacica
+168.181.126.8,4,2,Ookla Speedtest Server 60257: b.ookla.netplanety.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Serra
+179.63.139.6,4,7,Ookla Speedtest Server 60702: teste.ertelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Mucurici
+177.71.32.126,4,10,Ookla Speedtest Server 61210: speedtestookla.grupolima.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Santa Teresa
+189.201.214.172,4,-19,Ookla Speedtest Server 63436: speedtest.nativustelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Serra
+189.89.20.154,4,373069,Ookla Speedtest Server 64297: micron.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Ibatiba
+154.64.16.23,4,-36073,Ookla Speedtest Server 64654: teste.volplink.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Serra
+177.125.60.11,4,-41190,Ookla Speedtest Server 65288: speed02.nwt.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Cariacica
+177.124.77.152,4,-5470,Ookla Speedtest Server 66922: alfanetmtn.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Mantenópolis
+190.115.100.132,4,174616,Ookla Speedtest Server 67592: speed.gigafibra.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Vila Velha
+181.189.124.248,4,168427,Ookla Speedtest Server 67731: velocidade.diginet-isp.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Vila Velha
+131.161.180.23,4,26,Ookla Speedtest Server 69060: velocimetro.newnettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Vitória
+186.194.4.150,4,-10,Ookla Speedtest Server 69173: teste.gofibratelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Serra
+45.172.112.167,4,87,Ookla Speedtest Server 69291: speedtest.popnettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Serra
+45.190.6.136,4,-8,Ookla Speedtest Server 70060: speed.conexaolinkes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Vila Velha
+170.254.227.136,4,-3,Ookla Speedtest Server 70545: teste.buziosfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Vila Velha
+177.129.100.227,4,8,Ookla Speedtest Server 71949: speedtest.jr.vix.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Cariacica
+186.216.25.10,4,25,Ookla Speedtest Server 74253: teste10ge.litoral.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Espírito Santo,,Vila Velha

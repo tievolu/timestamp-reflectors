@@ -1,3 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-185.152.45.158,4,66,DNS Server: host158-45-152-185.dimensionesrl.eu,IT,Europe,Southern Europe,Italy,Molise,Province of Campobasso,Campobasso
-185.49.249.129,4,-9025250,Ookla Speedtest Server 14671: rm.speedtest.warian.net,IT,Europe,Southern Europe,Italy,Molise,Province of Campobasso,San Massimo
+185.152.45.158,4,14,DNS Server: host158-45-152-185.dimensionesrl.eu,IT,Europe,Southern Europe,Italy,Molise,Province of Campobasso,Campobasso
+195.32.65.234,4,-30,DNS Server: net234-65-32-195.dimensionesrl.eu,IT,Europe,Southern Europe,Italy,Molise,Province of Campobasso,Campobasso
+195.32.69.194,4,-22,Ookla Speedtest Server 3231: borg.micso.it,IT,Europe,Southern Europe,Italy,Molise,Province of Campobasso,Campobasso
+185.49.249.129,4,76312979,Ookla Speedtest Server 14671: rm.speedtest.warian.net,IT,Europe,Southern Europe,Italy,Molise,Province of Campobasso,San Polo Matese
+185.152.44.54,4,-6,Ookla Speedtest Server 51808: speed-cb.dimensione.com,IT,Europe,Southern Europe,Italy,Molise,Province of Campobasso,Campobasso

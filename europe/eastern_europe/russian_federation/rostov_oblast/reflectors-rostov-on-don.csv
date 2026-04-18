@@ -1,20 +1,63 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-80.254.104.103,4,14081,DNS Server: 103.104.254.80.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
-80.254.115.108,4,100,DNS Server: 108.115.254.80.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
-109.195.228.63,4,63,DNS Server: 109x195x228x63.static-business.rostov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
-80.254.116.128,4,178,DNS Server: 128.116.254.80.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
-80.254.125.158,4,169,DNS Server: 158.125.254.80.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
-80.254.99.235,4,10796,DNS Server: 235.99.254.80.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
-80.254.125.26,4,-45610349,DNS Server: 26.125.254.80.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
-46.147.114.206,4,220,DNS Server: 46x147x114x206.static-business.rostov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
-5.139.104.50,4,-835893886,DNS Server: 50.104.139.5.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
-5.165.240.114,4,-1351535649,DNS Server: 5x165x240x114.dynamic.rostov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
-94.180.57.160,4,7881,DNS Server: 94x180x57x160.dynamic.rostov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
-94.180.57.48,4,15393,DNS Server: 94x180x57x48.dynamic.rostov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
-80.254.102.106,4,1218,DNS Server: dm106.dialup.novoch.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
-79.111.156.19,4,25,DNS Server: ip-79-111-156-19.bb.netbynet.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
-94.180.59.128,4,22682,donlib.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
-185.9.187.82,4,-26413,izimil.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
-178.35.251.186,4,275,Ookla Speedtest Server 4276: rostov-na-donu1.speedtest.rt.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
-80.254.101.72,4,36,rsue.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
-185.160.38.69,4,0,vodnik61.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+185.149.120.77,4,1,abok.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+185.149.120.233,4,-13,calculator888.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+185.149.120.83,4,45,delfin-tour.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+109.195.226.136,4,-17,DNS Server: 109x195x226x136.static-business.rostov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+109.195.226.61,4,-4,DNS Server: 109x195x226x61.static-business.rostov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+109.195.228.63,4,3,DNS Server: 109x195x228x63.static-business.rostov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+83.221.207.123,4,-11,DNS Server: 123.207.221.83.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+83.221.215.123,4,-735969932,DNS Server: 123.215.221.83.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+83.221.202.124,4,506,DNS Server: 124.202.221.83.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+83.221.200.149,4,147,DNS Server: 149.200.221.83.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+83.221.200.154,4,-432,DNS Server: 154.200.221.83.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+80.68.5.170,4,-4,DNS Server: 170.5.68.80.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+83.221.219.179,4,22351,DNS Server: 179.219.221.83.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+83.221.207.185,4,-16,DNS Server: 185.207.221.83.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+83.221.223.185,4,6867,DNS Server: 185.223.221.83.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+83.221.210.194,4,-2,DNS Server: 194.210.221.83.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+83.221.194.201,4,6293,DNS Server: 201.194.221.83.hw-rmts.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+5.42.213.50,4,-7,DNS Server: 213.42.5.50.lease.net,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+5.42.213.82,4,13432,DNS Server: 213.42.5.82.lease.net,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+31.23.53.247,4,33,DNS Server: 247.53.23.31.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+83.221.206.30,4,-219,DNS Server: 30.206.221.83.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+109.195.228.40,4,1070,DNS Server: 40x228x195x109.dynamic.rostov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+46.147.113.43,4,1374,DNS Server: 46x147x113x43.static-business.rostov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+46.147.114.206,4,74,DNS Server: 46x147x114x206.static-business.rostov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+83.221.216.51,4,62154352,DNS Server: 51.216.221.83.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+5.167.48.192,4,6,DNS Server: 5x167x48x192.dynamic.rostov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+5.167.50.215,4,14967,DNS Server: 5x167x50x215.dynamic.rostov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+5.167.52.151,4,1,DNS Server: 5x167x52x151.dynamic.rostov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+5.167.52.153,4,1562,DNS Server: 5x167x52x153.dynamic.rostov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+5.167.54.155,4,35589,DNS Server: 5x167x54x155.dynamic.rostov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+83.221.220.65,4,8048,DNS Server: 65.220.221.83.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+83.221.208.66,4,23275924,DNS Server: 66.208.221.83.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+83.221.216.69,4,-9,DNS Server: 69.216.221.83.donpac.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+93.90.84.45,4,-7100,DNS Server: 93-90-84-45.donnetwork.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+80.68.2.125,4,8385,DNS Server: nas1-125.dialup.infotecstt.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+80.68.2.84,4,34601104,DNS Server: nas1-84.dialup.infotecstt.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+80.68.2.249,4,-3600,DNS Server: nas2-249.dialup.infotecstt.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+80.80.108.12,4,31022,DNS Server: p12.mp108.aaanet.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+193.93.121.121,4,-2,donrta.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+185.149.120.167,4,-2,favorit-motors.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+185.149.120.105,4,60,infowatch.com,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+80.80.106.230,4,3,kalitva-land.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+5.167.50.30,4,3476,manyweb.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+5.167.55.81,4,-6,metallkom-don.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+185.9.187.82,4,30475829,odiscus.com,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+109.195.224.230,4,-15,Ookla Speedtest Server 2716: speedtest.rostov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+85.198.120.3,4,-2,Ookla Speedtest Server 12461: speedtesttgn.pg19.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+91.233.42.146,4,1,Ookla Speedtest Server 51895: speedtest.rnd.i-c-n.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+31.133.39.19,4,7,Ookla Speedtest Server 63999: speedtest.host-lan.net,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+212.119.254.187,4,-11,Ookla Speedtest Server 69508: speedtest.rostov.gldn.net,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+91.222.121.34,4,11294,Ookla Speedtest Server 70879: m9.speedtest.timernet.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+185.149.120.117,4,22,prava112.com,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+92.50.249.11,4,-4,rossaprimavera.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+185.149.120.187,4,-4,sloh66.cc,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+80.68.0.250,4,755040,tagancity.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+185.149.120.51,4,55,vodaplus.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+185.149.120.127,4,40,volga34.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+185.149.120.33,4,10,wh-satano.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+185.149.120.241,4,11,xn----8sbalwlcefxak4bw.xn--p1ai,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+185.149.120.149,4,118,xn--e1agfe6atq9c.xn--p1ai,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+185.149.120.23,4,3,yomix.io,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don
+185.149.120.31,4,19,zeo55.ru,RU,Europe,Eastern Europe,Russian Federation,Rostov Oblast,,Rostov-on-Don

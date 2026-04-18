@@ -1,23 +1,56 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-103.20.212.17,4,24,adrpublications.in,IN,Asia,Southern Asia,India,Haryana,,Faridabad
-103.20.212.67,4,5,aliah.ac.in,IN,Asia,Southern Asia,India,Haryana,,Faridabad
-14.139.230.99,4,-531403,bcetgsp.ac.in,IN,Asia,Southern Asia,India,Haryana,,Faridabad
-205.147.110.194,4,16,clickindia.com,IN,Asia,Southern Asia,India,Haryana,,Faridabad
-61.247.224.195,4,-1356627408,DNS Server: abts-north-static-195.224.247.61.airtelbroadband.in,IN,Asia,Southern Asia,India,Haryana,,Gurugram
-122.186.120.249,4,185,DNS Server: nsg-corporate-249.120.186.122.airtel.in,IN,Asia,Southern Asia,India,Haryana,,Faridabad
-103.20.215.24,4,1517,enggpro.com,IN,Asia,Southern Asia,India,Haryana,,Faridabad
-205.147.111.116,4,19,gospeljunction.net,IN,Asia,Southern Asia,India,Haryana,,Faridabad
+14.195.191.219,4,-6,bareactslive.com,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+205.147.110.194,4,5,clickindia.com,IN,Asia,Southern Asia,India,Haryana,,Faridabad
+182.76.239.237,4,-184528949,DNS Server: nsg-static-237.239.76.182-airtel.com,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+205.147.111.116,4,3,ekunjika.com,IN,Asia,Southern Asia,India,Haryana,,Faridabad
+103.20.215.24,4,854,enggpro.com,IN,Asia,Southern Asia,India,Haryana,,Faridabad
 103.20.213.86,4,133648,gyanvihar.org,IN,Asia,Southern Asia,India,Haryana,,Faridabad
-205.147.110.185,4,-6,hellotravel.com,IN,Asia,Southern Asia,India,Haryana,,Faridabad
-14.139.226.51,4,-29,isid.ac.in,IN,Asia,Southern Asia,India,Haryana,,Gurugram
-182.76.57.237,4,-13,lifepositive.com,IN,Asia,Southern Asia,India,Haryana,,Gurugram
-103.20.213.62,4,1,nitsikkim.ac.in,IN,Asia,Southern Asia,India,Haryana,,Faridabad
-103.91.78.243,4,58,Ookla Speedtest Server 16357: speedtest.miplhr.com,IN,Asia,Southern Asia,India,Haryana,,Jīnd
-103.70.164.10,4,169,Ookla Speedtest Server 47827: sp2.unpl.co.in,IN,Asia,Southern Asia,India,Haryana,,Bahadurgarh
-103.101.101.114,4,254,Ookla Speedtest Server 60016: speedtest.utgbroadband.co.in,IN,Asia,Southern Asia,India,Haryana,,Gurugram
-114.69.225.150,4,171,Ookla Speedtest Server 62987: spt1.divycommunication.com,IN,Asia,Southern Asia,India,Haryana,,Mānesar
-103.140.2.162,4,272,Ookla Speedtest Server 63780: speedtestgurugram.angelbroadband.com,IN,Asia,Southern Asia,India,Haryana,,Gurugram
-103.153.227.38,4,-95352,Ookla Speedtest Server: serv13.a2jdata.com,IN,Asia,Southern Asia,India,Haryana,,Ballabgarh
-103.203.224.36,4,14,Ookla Speedtest Server: speedtest.r2net.bhaukaalbaba.com,IN,Asia,Southern Asia,India,Haryana,,Gurugram
-103.170.152.98,4,11,Ookla Speedtest Server: speedtest.wifilogin.in,IN,Asia,Southern Asia,India,Haryana,,Gurugram
-14.139.228.200,4,31,yspuniversity.ac.in,IN,Asia,Southern Asia,India,Haryana,,Faridabad
+205.147.110.185,4,-5,hellotravel.com,IN,Asia,Southern Asia,India,Haryana,,Faridabad
+103.20.212.129,4,-5,jointsolution.in,IN,Asia,Southern Asia,India,Haryana,,Faridabad
+14.195.81.254,4,-13,lincoln.edu.my,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+103.20.213.62,4,-8,nitsikkim.ac.in,IN,Asia,Southern Asia,India,Haryana,,Faridabad
+103.248.85.16,4,-15,Ookla Speedtest Server 4183: speedtestggn.tripleplay.in,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+103.206.160.17,4,-4,Ookla Speedtest Server 8220: speedtest.timbl.co.in,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+103.248.85.14,4,-5,Ookla Speedtest Server 8795: speedtestnoida.tripleplay.in,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+103.248.85.13,4,-38,Ookla Speedtest Server 10444: speedtestdelhi.tripleplay.in,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+103.248.85.12,4,18,Ookla Speedtest Server 10445: speedtestfbd.tripleplay.in,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+103.248.85.15,4,-18,Ookla Speedtest Server 10446: speedtestgzb.tripleplay.in,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+112.196.91.58,4,-2,Ookla Speedtest Server 11803: speedtest.connectzone.in,IN,Asia,Southern Asia,India,Haryana,,Panchkula
+103.91.78.243,4,-19,Ookla Speedtest Server 16357: speedtest.miplhr.com,IN,Asia,Southern Asia,India,Haryana,,Jīnd
+103.248.85.11,4,7,Ookla Speedtest Server 20957: speedtestsirsa.tripleplay.in,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+103.114.246.18,4,-3,Ookla Speedtest Server 22769: speedtest1.micronet.in,IN,Asia,Southern Asia,India,Haryana,,Toshām
+103.152.40.36,4,1455568,Ookla Speedtest Server 23873: speedtest.rpworld.co.in,IN,Asia,Southern Asia,India,Haryana,,Yamuna Nagar
+103.176.232.2,4,9,Ookla Speedtest Server 25515: speedtest.absenterprises.co.in,IN,Asia,Southern Asia,India,Haryana,,Adampur
+103.237.172.74,4,4884599,Ookla Speedtest Server 27727: speedtest.elxireit.in,IN,Asia,Southern Asia,India,Haryana,,Faridabad
+103.46.239.251,4,6605117,Ookla Speedtest Server 27926: speed1.iaxntelecom.com,IN,Asia,Southern Asia,India,Haryana,,Faridabad
+103.195.201.233,4,0,Ookla Speedtest Server 29658: speedtestdel.tataplayfiber.co.in,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+103.203.224.6,4,-8,Ookla Speedtest Server 31099: speedtest.r2net.bhaukaalbaba.com,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+103.153.227.98,4,7,Ookla Speedtest Server 34413: serv.a2jdata.com,IN,Asia,Southern Asia,India,Haryana,,Faridabad
+103.87.27.22,4,-24,Ookla Speedtest Server 36639: speedtest.falconet.in,IN,Asia,Southern Asia,India,Haryana,,Ismāilābād
+203.110.80.54,4,-19,Ookla Speedtest Server 36797: speedtest.deldsl.com,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+103.253.148.11,4,-20,Ookla Speedtest Server 39763: speedtest.jbp.5net.in,IN,Asia,Southern Asia,India,Haryana,,Mandi Dabwāli
+103.55.105.220,4,4,Ookla Speedtest Server 39853: speedtest.sbrtelecom.com,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+163.227.130.74,4,-9,Ookla Speedtest Server 45499: speedtest.krishnait.net,IN,Asia,Southern Asia,India,Haryana,,Rāthīwās
+103.159.44.5,4,7,Ookla Speedtest Server 45501: speedtest.nextgenbroadband.in,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+203.189.255.98,4,-60,Ookla Speedtest Server 47144: speedtest-noida.fusionnet.in,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+103.171.47.2,4,-2,Ookla Speedtest Server 51891: speedtestsonipat.kkdbroadband.co.in,IN,Asia,Southern Asia,India,Haryana,,Sonīpat
+103.66.60.4,4,33,Ookla Speedtest Server 56265: speedtest.nmparibas.com,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+125.20.47.34,4,-2,Ookla Speedtest Server 59675: speedtestchv1.airtel.in,IN,Asia,Southern Asia,India,Haryana,,
+103.153.227.38,4,13921,Ookla Speedtest Server 59745: serv13.a2jdata.com,IN,Asia,Southern Asia,India,Haryana,,Ballabgarh
+163.61.34.34,4,-7,Ookla Speedtest Server 60016: speedtest.utgbroadband.co.in,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+160.187.236.54,4,-13,Ookla Speedtest Server 60101: speedtest.expresswire.net,IN,Asia,Southern Asia,India,Haryana,,Narnaul
+125.22.182.14,4,-33,Ookla Speedtest Server 60185: speedtestrkt1.airtel.in,IN,Asia,Southern Asia,India,Haryana,,
+125.22.183.54,4,-20,Ookla Speedtest Server 60187: speedtestngp1.airtel.in,IN,Asia,Southern Asia,India,Haryana,,
+114.69.225.150,4,11,Ookla Speedtest Server 62987: spt1.divycommunication.com,IN,Asia,Southern Asia,India,Haryana,,Mānesar
+103.140.2.162,4,-14,Ookla Speedtest Server 63780: speedtestgurugram.angelbroadband.com,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+180.200.240.3,4,12,Ookla Speedtest Server 64299: stgng.ttsl.co.in,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+157.20.202.248,4,14,Ookla Speedtest Server 64873: ooklaspeed.statenet.in,IN,Asia,Southern Asia,India,Haryana,,Yamuna Nagar
+103.65.194.254,4,16,Ookla Speedtest Server 65342: speed.nrdata.net,IN,Asia,Southern Asia,India,Haryana,,Faridabad
+160.191.136.6,4,-23,Ookla Speedtest Server 68019: speedtest.toshamisp.com,IN,Asia,Southern Asia,India,Haryana,,Toshām
+112.79.41.6,4,-2,Ookla Speedtest Server 69558: speedtest.del.vodafoneidea.com,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+103.215.107.246,4,38,Ookla Speedtest Server 70003: ookla.infolinkbroadband.com,IN,Asia,Southern Asia,India,Haryana,,Panipat
+14.97.18.42,4,6,prudentcorporate.com,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+150.242.74.139,4,2,sansoftwares.com,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+103.20.215.59,4,18,sevennseas.com,IN,Asia,Southern Asia,India,Haryana,,Faridabad
+122.176.123.95,4,-21,updigitaldiary.in,IN,Asia,Southern Asia,India,Haryana,,Gurugram
+103.20.212.67,4,585,victoriatravels.com,IN,Asia,Southern Asia,India,Haryana,,Faridabad

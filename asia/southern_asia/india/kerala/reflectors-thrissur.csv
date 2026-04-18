@@ -1,4 +1,9 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-117.250.240.131,4,7,iiitkottayam.ac.in,IN,Asia,Southern Asia,India,Kerala,,Thrissur
-103.140.17.243,4,313,Ookla Speedtest Server 34198: speedtest.keralavisionbroadband.com,IN,Asia,Southern Asia,India,Kerala,,Thrissur
-103.179.21.3,4,135,Ookla Speedtest Server: ookla1.hightechbroadband.net,IN,Asia,Southern Asia,India,Kerala,,Thrissur
+202.164.140.203,4,62999323,DNS Server: 203.140.164.202.asianet.co.in,IN,Asia,Southern Asia,India,Kerala,,Thrissur
+202.164.140.23,4,1365,DNS Server: 23.140.164.202.asianet.co.in,IN,Asia,Southern Asia,India,Kerala,,Thrissur
+103.146.174.153,4,16,DNS Server: keralavisionisp-dynamic-153.174.146.103.keralavisionisp.com,IN,Asia,Southern Asia,India,Kerala,,Thrissur
+103.99.206.41,4,-1,Ookla Speedtest Server 17289: speedtest-tsr.keralavisionisp.com,IN,Asia,Southern Asia,India,Kerala,,Thrissur
+103.140.17.243,4,8,Ookla Speedtest Server 34198: speedtest.keralavisionbroadband.com,IN,Asia,Southern Asia,India,Kerala,,Thrissur
+103.179.21.3,4,-29,Ookla Speedtest Server 47616: ookla1.hightechbroadband.net,IN,Asia,Southern Asia,India,Kerala,,Thrissur
+103.160.195.234,4,-65,Ookla Speedtest Server 62235: speedtestekm1.keralavisionisp.com,IN,Asia,Southern Asia,India,Kerala,,Thrissur
+103.153.93.231,4,-14,Ookla Speedtest Server 62260: speedtest-tvm.keralavisionisp.com,IN,Asia,Southern Asia,India,Kerala,,Thrissur

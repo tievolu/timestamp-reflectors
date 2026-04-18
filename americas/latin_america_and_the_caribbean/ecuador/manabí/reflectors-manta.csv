@@ -1,3 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-177.234.229.75,4,-38064,DNS Server: host-177-234-229-75.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Manta
-192.207.244.25,4,10115,uleam.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Manta
+45.70.239.45,4,-9,Ookla Speedtest Server 35636: speedtest.silvegnetfiber.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Manta
+45.190.87.58,4,5,Ookla Speedtest Server 41909: speedtest.mnt.rimtel.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Manta
+177.53.214.42,4,-2,Ookla Speedtest Server 48937: speedmanta.fibramax.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Manta
+201.182.78.249,4,-7,Ookla Speedtest Server 68830: speedtest.fibergo.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Manabí,,Manta

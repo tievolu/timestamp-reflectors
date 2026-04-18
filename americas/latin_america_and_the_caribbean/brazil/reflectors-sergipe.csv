@@ -1,17 +1,76 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-177.47.177.32,4,5,infonet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
-191.52.248.32,4,182,Ookla Speedtest Server 5712: speedtest.marvitel.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
-131.161.131.210,4,356,Ookla Speedtest Server 32668: spd2.itaon.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
-168.227.75.250,4,311,Ookla Speedtest Server 38517: speedtest.nsg.itnettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Nossa Senhora da Glória
-177.70.161.6,4,154,Ookla Speedtest Server 54584: teste3.infotec.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
-186.233.28.22,4,62715,Ookla Speedtest Server 54837: speedtest.megalinkse.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Nossa Senhora de Lourdes
-45.228.236.46,4,327,Ookla Speedtest Server 58794: speedtest02.netuptelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Nossa Senhora do Socorro
-190.89.208.69,4,272,Ookla Speedtest Server 63641: speedtest.apxnetprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
-45.168.3.254,4,111,Ookla Speedtest Server: speed.minasbr.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
-45.183.144.22,4,-76065,Ookla Speedtest Server: speed.provedorturbofibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Nossa Senhora do Socorro
-177.72.177.50,4,292,Ookla Speedtest Server: speed1.celinet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Umbaúba
-45.238.200.80,4,314,Ookla Speedtest Server: speedtest-lagarto.anettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Salgado
-45.225.122.252,4,300,Ookla Speedtest Server: speedtest.centrosulnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Boquim
-45.229.0.218,4,15,Ookla Speedtest Server: speedtest.virtualnetprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
-177.136.185.22,4,-18306,Ookla Speedtest Server: spn1.grvtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Tobias Barreto
-200.17.141.60,4,7,ufs.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
+131.196.47.50,4,5747,DNS Server: 131-196-47-50.voetelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Tobias Barreto
+45.225.123.110,4,15,DNS Server: 45-225-123-110.centrosulnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Boquim
+45.225.123.166,4,9,DNS Server: 45-225-123-166.centrosulnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Boquim
+45.225.123.174,4,25,DNS Server: 45-225-123-174.centrosulnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Boquim
+45.225.123.177,4,47071491,DNS Server: 45-225-123-177.centrosulnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Boquim
+45.225.123.192,4,-1255,DNS Server: 45-225-123-192.centrosulnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Boquim
+45.225.123.199,4,-1424,DNS Server: 45-225-123-199.centrosulnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Boquim
+45.225.123.205,4,-3,DNS Server: 45-225-123-205.centrosulnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Boquim
+45.225.123.234,4,13,DNS Server: 45-225-123-234.centrosulnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Boquim
+45.225.123.235,4,4,DNS Server: 45-225-123-235.centrosulnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Boquim
+45.225.123.236,4,5,DNS Server: 45-225-123-236.centrosulnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Boquim
+45.225.123.238,4,-6,DNS Server: 45-225-123-238.centrosulnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Boquim
+45.225.123.253,4,10,DNS Server: 45-225-123-253.centrosulnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Boquim
+45.225.123.24,4,-616248028,DNS Server: ns-24.centrosulnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Boquim
+177.47.177.32,4,7,infonet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
+191.52.248.32,4,-86142,Ookla Speedtest Server 5712: speedtest.marvitel.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
+191.7.136.16,4,3868898,Ookla Speedtest Server 6651: servidor.ilognet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Itabaiana
+177.20.208.118,4,0,Ookla Speedtest Server 7427: speedtest.itnettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Itabaiana
+131.161.131.214,4,2,Ookla Speedtest Server 7987: spd1.itaon.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Gararu
+45.233.96.22,4,-33411,Ookla Speedtest Server 15467: sp1.spacenetse.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
+191.241.135.126,4,-21,Ookla Speedtest Server 16655: st.conectanettelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Nossa Senhora do Socorro
+177.70.164.2,4,15,Ookla Speedtest Server 17557: st2.infotec.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Itabaianinha
+177.72.177.50,4,-24,Ookla Speedtest Server 18138: speed1.celinet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Itabaianinha
+187.62.64.253,4,-28,Ookla Speedtest Server 19163: speedtest.gntelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
+138.185.8.55,4,-17,Ookla Speedtest Server 21342: speedtest.acessonet.inf.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Malhador
+128.201.212.9,4,1145,Ookla Speedtest Server 21354: speedtest.veloznetaju.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
+177.47.191.204,4,4375327,Ookla Speedtest Server 22087: speedtest.infonet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
+177.11.159.150,4,1,Ookla Speedtest Server 22254: speedtest.maisnet.aju.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Lagarto
+45.160.84.214,4,-33741,Ookla Speedtest Server 23591: spe1.digitalvirtual.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
+177.11.152.102,4,-1,Ookla Speedtest Server 24487: speed.minastelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Lagarto
+45.161.176.18,4,-1,Ookla Speedtest Server 25307: spe1.serginetbandalarga.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
+131.72.68.195,4,2,Ookla Speedtest Server 25493: speedtest.lifetechprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Nossa Senhora do Socorro
+200.9.139.50,4,94,Ookla Speedtest Server 28820: speed1.newspeed.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Canindé de São Francisco
+177.136.185.22,4,-2,Ookla Speedtest Server 28858: spn1.grvtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aquidabã
+191.241.24.58,4,19,Ookla Speedtest Server 28936: velocidade.portalnet.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Poço Verde
+45.168.3.254,4,-1,Ookla Speedtest Server 30661: speed.minasbr.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
+131.161.131.210,4,-3,Ookla Speedtest Server 32668: spd2.itaon.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Gararu
+45.225.122.252,4,-2,Ookla Speedtest Server 32854: speedtest.centrosulnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Boquim
+170.150.179.243,4,19,Ookla Speedtest Server 33167: ookla.acesso.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Estância
+45.185.132.9,4,-6,Ookla Speedtest Server 35002: speedtest.jetfiber.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Estância
+179.109.124.3,4,30,Ookla Speedtest Server 37236: speedtest.interv.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Lagarto
+168.227.75.250,4,-34,Ookla Speedtest Server 38517: speedtest.nsg.itnettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Nossa Senhora da Glória
+45.160.160.91,4,-11,Ookla Speedtest Server 39622: speed.digitalvirtual.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Barra dos Coqueiros
+177.190.242.247,4,-25,Ookla Speedtest Server 40127: teste.conexaozn.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
+45.233.160.18,4,3,Ookla Speedtest Server 42776: speed.provedorgigabyte.net,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Nossa Senhora do Socorro
+131.72.69.156,4,7563,Ookla Speedtest Server 43136: teste.linnceinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Santo Amaro das Brotas
+190.15.122.187,4,28500800,Ookla Speedtest Server 46350: teste.djalmavirtualnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Neópolis
+45.239.172.54,4,-29,Ookla Speedtest Server 46468: teste.ficarnettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Lagarto
+138.122.212.30,4,-14,Ookla Speedtest Server 48122: speedtest.netfolha.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Porto da Folha
+168.181.28.146,4,-3,Ookla Speedtest Server 50977: speedtst.bbnetup.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Itabaiana
+177.70.161.6,4,154,Ookla Speedtest Server 54584: teste3.infotec.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Umbaúba
+186.233.28.22,4,60841,Ookla Speedtest Server 54837: speedtest.megalinkse.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Nossa Senhora de Lourdes
+45.225.120.179,4,11,Ookla Speedtest Server 56112: st-mundonet.owlcore.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
+200.39.48.10,4,18,Ookla Speedtest Server 56717: teste.webnetse.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Propriá
+131.72.68.146,4,7,Ookla Speedtest Server 58171: st-aju.vianet.online,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Nossa Senhora do Socorro
+45.161.157.226,4,-16,Ookla Speedtest Server 59004: speedtest.masternet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
+179.42.84.22,4,-13,Ookla Speedtest Server 59954: medidor.voainternet.com,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
+179.96.186.205,4,9,Ookla Speedtest Server 60460: speedtest.fnovanet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Nossa Senhora da Glória
+186.148.228.22,4,-12,Ookla Speedtest Server 60595: velocidade.cliquedf.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Neópolis
+201.218.179.233,4,0,Ookla Speedtest Server 62595: velocimetro.opix.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
+191.241.184.14,4,-5,Ookla Speedtest Server 62737: st-gl.netgloriainternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Nossa Senhora da Glória
+177.85.134.14,4,0,Ookla Speedtest Server 62869: speedtest.novanetup.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Ribeirópolis
+190.89.208.69,4,-15,Ookla Speedtest Server 63641: speedtest.apxnetprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
+168.90.33.29,4,78718,Ookla Speedtest Server 64102: speedtest2.nordesteinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Siriri
+45.225.122.249,4,-18,Ookla Speedtest Server 67873: teste.anetfibratelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Boquim
+204.157.245.4,4,4,Ookla Speedtest Server 68236: test.provedorupconnecttelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,
+179.97.80.230,4,27,Ookla Speedtest Server 69020: spd.rrconect.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,São Cristóvão
+45.160.208.124,4,628857,Ookla Speedtest Server 69443: speedtest.sdnetprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,São Domingos
+45.178.169.19,4,4,Ookla Speedtest Server 72506: speedtest.cariranet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Carira
+187.87.225.1,4,-22,Ookla Speedtest Server 72516: speedtest.soubaruk.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Laranjeiras
+45.225.120.227,4,2,Ookla Speedtest Server 72540: speed.rapnettelecomunicacoes.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
+187.86.180.201,4,0,Ookla Speedtest Server 73313: speedtest.unoun.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
+45.238.200.80,4,314,Ookla Speedtest Server: speedtest-lagarto.anettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Lagarto
+200.17.141.14,4,10,ufs.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,São Cristóvão
+200.17.141.60,4,7,ufs.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,São Cristóvão

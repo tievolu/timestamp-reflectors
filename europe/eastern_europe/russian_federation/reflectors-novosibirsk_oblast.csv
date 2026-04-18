@@ -1,152 +1,161 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-212.164.140.112,4,1,49gov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.140.102,4,1,49gov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-185.193.90.56,4,15,absoluttrade.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-213.171.15.250,4,8,alexanderbogdanov.com,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.235,4,0,alrosa.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.233,4,1,alrosa.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-213.171.15.208,4,19,altlib.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.129.207.145,4,32,1line.info,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.140.102,4,16,49gov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.140.112,4,8,49gov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.235,4,-1,alrosa.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.233,4,8,alrosa.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+213.171.15.208,4,-6,altlib.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+109.248.250.83,4,-7,ansobor.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
 5.128.29.29,4,43,arenastone.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-90.189.4.233,4,9,artace.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
 79.141.72.92,4,31,atlantsup.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.137.129,4,2,cherkizovo-group.com,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.71.128,4,3,chinavod.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-195.189.238.100,4,-28,cn.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.140.197,4,2,customs.gov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.140.167,4,2,customs.gov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.140.169,4,1,customs.gov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+79.141.65.2,4,9,begemot.ai,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+147.45.161.234,4,0,bratsk.org,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.71.128,4,-6,chinavod.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+195.189.238.100,4,-423,cn.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+109.237.108.123,4,1,cnmt.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+213.171.15.233,4,-10,crisscross.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
 79.141.77.114,4,19,dellsib.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-89.189.180.151,4,7037,DNS Server: 151.180.189.89.sta.211.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-46.28.130.214,4,-23985479,DNS Server: 214.130.28.46.in-addr.arpa.berdsk.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Berdsk
-89.189.186.34,4,11,DNS Server: 89.189.186.34.sta.211.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-90.189.182.21,4,110870,DNS Server: b-internet.90.189.182.21.snt.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-90.189.183.114,4,219011,DNS Server: b-internet.90.189.183.114.snt.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-90.189.218.57,4,81,DNS Server: b-internet.90.189.218.57.snt.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-94.180.107.87,4,128,DNS Server: dynamicip-94-180-107-87.pppoe.nsk.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-109.202.0.39,4,10829,DNS Server: host-109-202-0-39.avantel.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-109.202.11.102,4,30310,DNS Server: host-109-202-11-102.avantel.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-109.202.11.6,4,5,DNS Server: host-109-202-11-6.avantel.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-109.202.20.146,4,5,DNS Server: host-109-202-20-146.avantel.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-109.202.22.209,4,50588,DNS Server: host-109-202-22-209.avantel.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-109.202.23.9,4,152,DNS Server: host-109-202-23-9.avantel.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-109.202.25.144,4,166581,DNS Server: host-109-202-25-144.avantel.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-109.202.8.16,4,29,DNS Server: host-109-202-8-16.avantel.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-90.189.113.130,4,3646,DNS Server: host-113-130.available.khakasnet.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-90.189.117.217,4,14,DNS Server: host-117-217.available.khakasnet.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-90.189.119.192,4,35667,DNS Server: host192-119.static.khakasnet.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-5.59.121.222,4,51,DNS Server: ip-5-59-121-222.mega-com.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-5.59.122.118,4,-29222,DNS Server: ip-5-59-122-118.mega-com.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-5.59.123.57,4,328,DNS Server: ip-5-59-123-57.mega-com.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-5.59.124.238,4,79,DNS Server: ip-5-59-124-238.mega-com.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-37.192.36.13,4,-10799649,DNS Server: l37-192-36-13.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-37.194.238.103,4,206,DNS Server: l37-194-238-103.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-178.49.124.4,4,366,DNS Server: l49-124-4.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-178.49.67.174,4,2552,DNS Server: l49-67-174.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-5.128.11.113,4,-1897244708,DNS Server: l5-128-11-113.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-5.128.122.193,4,157545,DNS Server: l5-128-122-193.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-5.128.129.56,4,-1301609,DNS Server: l5-128-129-56.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-5.128.15.37,4,2875,DNS Server: l5-128-15-37.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-5.128.156.14,4,327,DNS Server: l5-128-156-14.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-5.128.156.6,4,383,DNS Server: l5-128-156-6.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-5.128.172.21,4,3263,DNS Server: l5-128-172-21.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-5.129.117.26,4,115198,DNS Server: l5-129-117-26.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-5.129.51.44,4,1988,DNS Server: l5-129-51-44.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-5.130.148.138,4,-818294966,DNS Server: l5-130-148-138.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-5.130.27.13,4,-10966,DNS Server: l5-130-27-13.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-217.150.58.17,4,-902,DNS Server: LokoTech-gw.transtelecom.net,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-90.189.212.225,4,227,DNS Server: ws.90.189.212.225.nsk.sibirtelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-90.189.217.68,4,251,DNS Server: ws.90.189.217.68.nsk.sibirtelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.140.113,4,1,dvbank.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+109.248.250.203,4,1,diplomys-vsem.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+109.111.190.164,4,9153242,DNS Server: 164.190.111.109.sta.211.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Kolyvan'
+46.28.130.214,4,10435,DNS Server: 214.130.28.46.in-addr.arpa.berdsk.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Berdsk
+80.64.168.33,4,450,DNS Server: 80.64.168.33.sta.211.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Berdsk
+94.180.103.6,4,6287,DNS Server: 94x180x103x6.static-business.nsk.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+94.180.113.61,4,21842,DNS Server: 94x180x113x61.static-business.nsk.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+90.189.183.114,4,300214,DNS Server: b-internet.90.189.183.114.snt.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.59.121.222,4,-3,DNS Server: ip-5-59-121-222.mega-com.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.59.122.118,4,-79509,DNS Server: ip-5-59-122-118.mega-com.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.59.123.57,4,12071,DNS Server: ip-5-59-123-57.mega-com.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+37.192.36.13,4,75600399,DNS Server: l37-192-36-13.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+178.49.184.32,4,22145,DNS Server: l49-184-32.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+178.49.67.174,4,9056,DNS Server: l49-67-174.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.128.107.167,4,-3791409602,DNS Server: l5-128-107-167.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.128.11.113,4,-1110982437,DNS Server: l5-128-11-113.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.128.122.193,4,1052,DNS Server: l5-128-122-193.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.128.15.37,4,49685,DNS Server: l5-128-15-37.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.128.156.14,4,1,DNS Server: l5-128-156-14.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.128.156.6,4,8,DNS Server: l5-128-156-6.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.128.172.21,4,-1815829897,DNS Server: l5-128-172-21.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.128.235.12,4,22,DNS Server: l5-128-235-12.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.128.9.33,4,-3587793,DNS Server: l5-128-9-33.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.129.117.26,4,156696,DNS Server: l5-129-117-26.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.129.134.2,4,22963211,DNS Server: l5-129-134-2.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.129.150.52,4,-6,DNS Server: l5-129-150-52.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.130.148.138,4,-44725490,DNS Server: l5-130-148-138.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.130.61.37,4,0,DNS Server: l5-130-61-37.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.130.74.46,4,1562,DNS Server: l5-130-74-46.novotelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+217.150.58.17,4,-89,DNS Server: LokoTech-gw.transtelecom.net,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+90.189.212.225,4,75600421,DNS Server: ws.90.189.212.225.nsk.sibirtelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Tolmachëvo
+90.189.217.68,4,-1,DNS Server: ws.90.189.217.68.nsk.sibirtelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Tolmachëvo
+212.164.86.4,4,203,drop-let.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
 212.164.140.103,4,1,dvbank.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.140.118,4,1,eao.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.140.113,4,1,dvbank.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.244,4,0,eao.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
 212.164.140.108,4,10,eao.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.139,4,6,egov-buryatia.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.232.233,4,-859,eninhome.com,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.140.42,4,1,erdc.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.140.52,4,2,erdc.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.137.22,4,1,fsrar.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-90.189.192.100,4,16901,gbi-12.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.137.93,4,2,gisee.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.141.61,4,12,glonass-iac.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-5.128.82.36,4,764,gorodok.net,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.140.18,4,0,gov-murman.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.140.118,4,1,eao.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.139,4,17,egov-buryatia.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.232.233,4,-126,eninhome.com,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Iskitim
+212.164.140.42,4,-18,erdc.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.140.52,4,-9,erdc.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.128.70,4,8,fa.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+109.248.250.41,4,32,finevision.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.20,4,-8,fsa.gov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.15,4,25,fsa.gov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.137.22,4,36,fsrar.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+90.189.192.100,4,73600,gbi-12.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.137.93,4,4,gisee.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.141.61,4,-24,glonass-iac.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.128.82.36,4,1551,gorodok.net,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
 212.164.140.28,4,1,gov-murman.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-185.177.219.148,4,-6,habinfo.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.41,4,2,izbirkom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.51,4,1,izbirkom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.45,4,2,izbirkom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.47,4,2,izbirkom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.43,4,5,izbirkom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.49,4,1,izbirkom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.137.112,4,12,kamgov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-185.84.163.148,4,-12,kcdi24.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-81.1.193.1,4,27,kemtipp.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-213.5.54.43,4,5,kkmcom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.140.18,4,0,gov-murman.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.129.248.25,4,-5,guar-nsk.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+185.177.219.148,4,-24,habinfo.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.137.112,4,-2,kamgov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
 178.49.43.91,4,2,kkmcom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.86.4,4,1376,krasfair.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+213.5.54.43,4,5,kkmcom.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+37.194.36.37,4,17079,ksonline.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
 82.147.71.17,4,37,kultlab.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
 185.177.216.235,4,13,larsensport.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-178.49.136.164,4,0,liwest.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.137.139,4,4,minpromtorg.gov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-5.129.54.157,4,35,moreyarovoe.com,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-81.31.247.19,4,-6,moskeram.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-194.35.126.27,4,-9,mpnas.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-109.248.250.189,4,-8,mybirds.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-188.130.153.33,4,7,nodevice.com,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-188.130.153.32,4,5,nodevice.com,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+178.49.136.164,4,-3,liwest.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+45.133.218.135,4,15,may22.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.140.70,4,-4,may9.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.140.60,4,2,may9.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+79.141.77.157,4,1371937,megatyumen.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.11,4,-1,minpromtorg.gov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.13,4,0,minpromtorg.gov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+109.248.250.189,4,-3,mybirds.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.129.192.113,4,6,navigator124.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.20.1.222,4,-2,ngmu.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+188.130.153.33,4,5,nodevice.com,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+188.130.153.32,4,4,nodevice.com,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
 178.49.132.78,4,4,nsau.edu.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.20.0.126,4,-416152,nsk.su,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-95.191.131.120,4,7,nspu.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-109.248.222.212,4,6,oisushi.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.20.0.126,4,-682275,nsk.su,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+95.191.131.120,4,6,nspu.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
 109.248.222.154,4,2,okean.org,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-82.200.84.111,4,18,omskportal.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-82.200.84.32,4,-18163,omskregion.info,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-5.129.188.7,4,332,Ookla Speedtest Server 14402: st.edinos.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.57,4,13,oreluniver.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+82.200.84.111,4,0,omskportal.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+82.200.84.32,4,59861,omskregion.info,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.137.73,4,13,online.edu.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.129.188.7,4,5,Ookla Speedtest Server 14402: st.edinos.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+195.211.204.18,4,34,Ookla Speedtest Server 46231: speedtest.sibsvst.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+194.67.59.45,4,30,Ookla Speedtest Server 69420: speedtest.nsk.gldn.net,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.128.65,4,9,oreluniver.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
 212.164.138.67,4,43,oreluniver.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.57,4,13,oreluniver.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
 217.151.230.252,4,-18,pacifica.kz,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-195.189.238.98,4,-2,peers.tv,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-195.189.239.21,4,29,peers.tv,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-195.189.238.97,4,5,peers.tv,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+195.189.238.97,4,-3,peers.tv,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+195.189.238.98,4,0,peers.tv,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+195.189.239.21,4,8,peers.tv,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.137.129,4,9,petelinka.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.140.153,4,13,pochta.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.140.151,4,5,pochta.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.140.129,4,8,pochta.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
 212.164.86.3,4,28,pribajkal.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.140.110,4,21,primbank.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.128.68,4,5,primbank.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
 212.164.140.100,4,11,primbank.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.140.110,4,21,primbank.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+195.133.194.154,4,4,prochukotku.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+109.248.250.233,4,-2,puisan.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
 212.164.137.119,4,15,regulation.gov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.131,4,-1,rzd.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.126,4,3,rzd.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.123,4,16,rzd.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.127,4,0,rzd.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.130,4,-1,rzd.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.129,4,1,rzd.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.120,4,0,rzd.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.125,4,1,rzd.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.124,4,0,rzd.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.121,4,1,rzd.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.122,4,2,rzd.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.128,4,63,rzd.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-185.134.120.233,4,2,sayanogorsk.info,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-91.197.65.18,4,2880,sbras.info,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.231,4,15,sechenov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.229,4,17,sechenov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-90.189.193.211,4,1,sibnet.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-90.189.193.210,4,6,sibnet.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+109.248.250.43,4,4,rollerclub.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.14,4,8,rst.gov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.19,4,7,rst.gov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.137.249,4,13,rt-solar.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+109.248.222.212,4,1,rybackij-prival.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.125,4,-6,rzdtv.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.129,4,8,rzdtv.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.124,4,8,rzdtv.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.120,4,6,rzdtv.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.131,4,5,rzdtv.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.127,4,10,rzdtv.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.123,4,5,rzdtv.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.122,4,8,rzdtv.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.128,4,22,rzdtv.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.126,4,5,rzdtv.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.121,4,1,rzdtv.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.130,4,-1,rzdtv.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.229,4,-7,sechenov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.231,4,8,sechenov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+185.177.219.171,4,-7,sib-catholic.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+90.189.193.211,4,8,sibnet.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+90.189.193.210,4,12,sibnet.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+80.64.174.152,4,8,sibset.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Berdsk
 212.164.137.47,4,1,soc-club.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-95.191.130.175,4,1575335,sp-journal.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.140.43,4,2,tgc1.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.140.53,4,4,tgc1.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.86.2,4,951,tomsknet.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.137.141,4,31,tourism.gov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.138.253,4,19,transneft.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+147.45.161.213,4,-20,solidbank.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+95.191.130.175,4,3003580,sp-journal.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.140.43,4,15,tgc1.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.140.53,4,-1,tgc1.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+5.129.207.31,4,9,todaykhv.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.86.2,4,940,tomsknet.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.138.253,4,31,transneft.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
 212.164.138.239,4,3,trcont.com,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-92.127.154.60,4,38,triadatv.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.137.115,4,228986,tsutmb.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-109.248.222.6,4,1,tutsyk.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.140.101,4,1,uacrussia.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.140.111,4,21,uacrussia.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-94.180.111.48,4,1,verspk.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-212.164.71.148,4,-17233,vidioptica.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-109.237.110.23,4,0,wincmd.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.137.115,4,11,tsutmb.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+109.248.222.6,4,2,tutsyk.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.137.137,4,19,ved.gov.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+94.180.111.48,4,-2,verspk.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.71.148,4,-174637,vidioptica.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+79.141.65.233,4,25,vpobede.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
 95.191.130.115,4,654024,worldandwe.com,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-109.237.111.103,4,133,xn--80alhdjhdcxhy5hl.xn--p1ai,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.137.250,4,-8,xn--b1aarnoanfq4b3bvw.xn--p1ai,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
 79.141.74.235,4,16,xtrwb.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
-109.237.111.108,4,-1,yagami.me,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+109.237.111.108,4,5,yagami.me,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.140.111,4,6,yakovlev.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk
+212.164.140.101,4,17,yakovlev.ru,RU,Europe,Eastern Europe,Russian Federation,Novosibirsk Oblast,,Novosibirsk

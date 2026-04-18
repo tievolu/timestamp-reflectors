@@ -1,18 +1,83 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-186.215.108.34,4,12796,DNS Server: 186.215.108.34.static.gvt.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
-201.20.104.54,4,19,DNS Server: 201-20-104-54.mobtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
-201.20.111.142,4,31601,DNS Server: 201-20-111-142.mobtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
-45.238.112.61,4,163,DNS Server: 45.238.112.061.linkbaratotelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+138.36.1.131,4,10799921,DNS Server: 138-36-1-131.texnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+170.150.200.121,4,-82,DNS Server: 170-150-200-121.jnetce.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+170.150.201.38,4,-88,DNS Server: 170-150-201-38.jnetce.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+201.20.104.54,4,15,DNS Server: 201-20-104-54.mobtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+201.20.111.142,4,121308,DNS Server: 201-20-111-142.mobtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.238.112.61,4,12,DNS Server: 45.238.112.061.linkbaratotelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+177.19.149.41,4,-3,DNS Server: bomache41.static.host.gvt.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
 200.150.137.161,4,1861,girassol.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+200.129.17.217,4,13,ifce.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
 200.17.33.160,4,0,ifce.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
-200.17.56.16,4,2,ifg.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
-201.139.186.223,4,932,momentoeditorial.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
-192.141.0.12,4,272,Ookla Speedtest Server 24909: speedtest.infocotelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
-190.112.144.2,4,13626,Ookla Speedtest Server 34259: sp1.fibernetespecializados.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+201.139.186.223,4,1581,momentoeditorial.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+187.18.187.32,4,-9,Ookla Speedtest Server 6770: speedtest.multiplaytelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+187.86.200.30,4,-37,Ookla Speedtest Server 7217: navegaooklafortaleza.navegamais.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+168.90.4.231,4,36,Ookla Speedtest Server 11102: speedtest3.connectja.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+168.121.24.25,4,-2,Ookla Speedtest Server 11664: speedtest.acenetbj.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+168.196.104.6,4,-65228,Ookla Speedtest Server 18615: speedeusebio.infolinktelecom.com,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.234.151.248,4,5,Ookla Speedtest Server 18852: velocidade.giga7telecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+138.121.120.13,4,32,Ookla Speedtest Server 23007: sp1.smartinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.176.220.254,4,62445164,Ookla Speedtest Server 24342: speedtest-viveza.alcloud.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+192.141.0.12,4,-1,Ookla Speedtest Server 24909: speedtest.infocotelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.168.42.18,4,11,Ookla Speedtest Server 25010: speedtest.iftecnologia.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+138.36.37.251,4,-31,Ookla Speedtest Server 25045: speedtest.ceanettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.175.59.2,4,9,Ookla Speedtest Server 25779: speedtest.infortec.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.172.160.6,4,5025,Ookla Speedtest Server 25873: sp1.vlink.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.175.128.22,4,-3579757,Ookla Speedtest Server 25874: sp1.suprinet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.165.248.10,4,28336,Ookla Speedtest Server 25994: sp1.superlinkprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+200.125.180.1,4,-11,Ookla Speedtest Server 26160: sp1.vilanetce.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+170.231.59.245,4,-30,Ookla Speedtest Server 27493: velocidade.gcnetprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.182.46.173,4,-39014,Ookla Speedtest Server 28400: sp1.instalecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.166.116.56,4,4844892,Ookla Speedtest Server 28522: speedtest.gruponetfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.184.8.30,4,10,Ookla Speedtest Server 28781: teste.grupolivenet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.162.216.12,4,13,Ookla Speedtest Server 29167: sp1.mr7solution.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+201.48.44.74,4,-4,Ookla Speedtest Server 29662: velocidade-fla.algartelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.186.216.0,4,14469,Ookla Speedtest Server 31192: sp1.fxtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+190.89.8.253,4,60353124,Ookla Speedtest Server 33256: speed.fullnetce.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+190.89.183.228,4,51240747,Ookla Speedtest Server 34082: velocidade.hnaconecta.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+190.112.144.2,4,44288,Ookla Speedtest Server 34259: sp1.fibernetespecializados.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+143.255.182.11,4,-86,Ookla Speedtest Server 34689: speedtest.opennetfortaleza.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+143.255.180.4,4,-3,Ookla Speedtest Server 35418: speedtest.isplinkdigital.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+177.125.96.2,4,874163,Ookla Speedtest Server 35650: sp1.fibramaisce.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.190.24.230,4,17,Ookla Speedtest Server 36235: speedtest.linkuniao.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.182.144.83,4,-6,Ookla Speedtest Server 36694: speedtest.linkselect.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.166.68.252,4,-13,Ookla Speedtest Server 36912: teste.bnetisp.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+168.181.200.35,4,-24,Ookla Speedtest Server 37181: test.curionet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.225.48.40,4,3,Ookla Speedtest Server 37182: velocidade.megawavetelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+179.109.115.102,4,4,Ookla Speedtest Server 37207: speedtest1.nossanetfortaleza.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.175.130.4,4,-4373426,Ookla Speedtest Server 38288: speed.edynet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.164.154.114,4,-27,Ookla Speedtest Server 38715: speed.connextelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.166.36.1,4,9662,Ookla Speedtest Server 39394: sp1.boomerangtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.230.139.215,4,-7,Ookla Speedtest Server 39511: velocidade.oxetelecomce.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.239.236.28,4,-11,Ookla Speedtest Server 39819: speedtest.netlinkce.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.181.162.4,4,9,Ookla Speedtest Server 42399: velocidade.rdctelecomce.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.165.248.65,4,4265,Ookla Speedtest Server 43720: sp1.hightectelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+181.191.73.1,4,13866399,Ookla Speedtest Server 43793: speedtest.meganetce.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+190.106.88.196,4,-22,Ookla Speedtest Server 44470: velocidade.tntelecomfortaleza.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.182.145.224,4,9,Ookla Speedtest Server 44589: velocidade.ndtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
 138.36.0.70,4,329,Ookla Speedtest Server 45473: teste.texnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
-164.163.84.22,4,244,Ookla Speedtest Server 45611: sp1.ficatelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
-50.7.3.4,4,295,Ookla Speedtest Server 46677: lg-fort.fdcservers.net,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
-201.20.105.238,4,171382,Ookla Speedtest Server 60217: velocidade.onecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
-45.166.116.56,4,2758300,Ookla Speedtest Server: speedtest.gruponetfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
-201.49.40.252,4,-24,secrel.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
-201.49.59.60,4,-3,sfiec.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+200.25.36.39,4,1,Ookla Speedtest Server 46129: spt-for1.edgeuno.com,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.176.6.208,4,4,Ookla Speedtest Server 49118: speed.lnettelecomunicacoes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.175.58.128,4,19,Ookla Speedtest Server 49954: speedtest-oros.alcloud.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.165.251.1,4,-137256,Ookla Speedtest Server 50492: sp1.raplink.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.182.146.226,4,-105,Ookla Speedtest Server 50673: velocidade.sejalivretelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.181.82.20,4,12,Ookla Speedtest Server 50734: speedtest.einet.etc.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.238.112.184,4,21,Ookla Speedtest Server 51037: spx.linkbaratotelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+168.196.104.131,4,-2,Ookla Speedtest Server 52055: speedfor.infolinktelecom.com,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+191.7.48.17,4,8,Ookla Speedtest Server 53364: speedtest.grupoip2.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+189.36.200.194,4,18,Ookla Speedtest Server 54131: ookla.oriontelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.6.216.232,4,-4,Ookla Speedtest Server 54326: sp1.g2rnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+186.225.51.116,4,-174486,Ookla Speedtest Server 56030: sp1.zthtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+177.184.138.60,4,-82,Ookla Speedtest Server 57884: teste.glnetfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+170.150.203.214,4,14959,Ookla Speedtest Server 58264: speed.telfo.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+131.161.224.230,4,-8413,Ookla Speedtest Server 58469: spx.neonetce.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.175.56.243,4,-23,Ookla Speedtest Server 59027: speedtest.knettelecomce.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+170.150.201.56,4,-88,Ookla Speedtest Server 61378: sp.barreiranet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.175.131.2,4,2877,Ookla Speedtest Server 61534: sp1.connecttelecom.seg.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.235.124.246,4,-4,Ookla Speedtest Server 62508: speedtest.linknetsolucoes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+177.91.44.9,4,-27,Ookla Speedtest Server 64023: speed.bitnettecnologia.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.164.155.1,4,1325,Ookla Speedtest Server 64461: sp1.redenettelecom-ce.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+160.20.162.34,4,-384675,Ookla Speedtest Server 67507: speed.popnetubajara.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+45.190.40.230,4,32,Ookla Speedtest Server 67617: qxdspeed.linkceara.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+138.36.3.139,4,4,Ookla Speedtest Server 69195: testeconexao.texnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+201.139.184.46,4,-15113,portalin.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza

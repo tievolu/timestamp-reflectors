@@ -1,2 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-191.102.216.105,4,31975,Ookla Speedtest Server 47928: speedtestatl.directv.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Atlántico,,Barranquilla
+190.248.57.62,4,3,barranquilla.gov.co,CO,Americas,Latin America and the Caribbean,Colombia,Atlántico,,Barranquilla
+191.102.216.105,4,-4,Ookla Speedtest Server 47928: speedtestatl.directv.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Atlántico,,Barranquilla
+191.102.216.147,4,-5,Ookla Speedtest Server 64530: speedtestatl2.directv.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Atlántico,,Barranquilla
+170.239.207.110,4,6281,Ookla Speedtest Server 72789: speedtest.totalconexioncol.co,CO,Americas,Latin America and the Caribbean,Colombia,Atlántico,,Barranquilla
+200.91.233.66,4,8,unicolmayor.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,Atlántico,,Barranquilla

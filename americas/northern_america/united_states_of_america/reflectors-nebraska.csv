@@ -1,18 +1,29 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-71.8.205.227,4,20,DNS Server: 071-008-205-227.biz.spectrum.com,US,Americas,Northern America,United States of America,Nebraska,,Springfield
-204.26.86.33,4,4,DNS Server: 204-26-86-33.dia.static.iowasavingsbank.com,US,Americas,Northern America,United States of America,Nebraska,,Omaha
-72.46.56.78,4,-72,DNS Server: 72-46-56-78.lnk.ne.static.allophone.net,US,Americas,Northern America,United States of America,Nebraska,,Lincoln
-76.85.152.17,4,-1090674,DNS Server: cpe-76-85-152-17.neb.res.rr.com,US,Americas,Northern America,United States of America,Nebraska,,Lincoln
-66.196.48.72,4,8,hamilton.net,US,Americas,Northern America,United States of America,Nebraska,,Aurora
-66.196.48.70,4,4,hamiltonrelay.com,US,Americas,Northern America,United States of America,Nebraska,,Aurora
-129.93.250.71,4,21,nebraskastudies.org,US,Americas,Northern America,United States of America,Nebraska,,Lincoln
-72.15.163.228,4,326,Ookla Speedtest Server 24009: lnk-speedtest.networknebraska.net,US,Americas,Northern America,United States of America,Nebraska,,Macy
-67.130.117.202,4,235,Ookla Speedtest Server 55644: speedtest.skywaveconnect.com,US,Americas,Northern America,United States of America,Nebraska,,West Point
-38.22.215.18,4,73,Ookla Speedtest Server 56189: blar.speedtest.fastwyre.com,US,Americas,Northern America,United States of America,Nebraska,,Bellevue
-132.147.132.28,4,336,Ookla Speedtest Server 64155: speedtest1.oma.nxlink.com,US,Americas,Northern America,United States of America,Nebraska,,Hickman
-69.2.10.158,4,5874,Ookla Speedtest Server: speedtest.pnpt.com,US,Americas,Northern America,United States of America,Nebraska,,Gothenburg
-162.253.238.2,4,27,Ookla Speedtest Server: speedtest.spiral-communications.com,US,Americas,Northern America,United States of America,Nebraska,,Plattsmouth
-71.8.194.165,4,38,rfg3.us,US,Americas,Northern America,United States of America,Nebraska,,Grand Island
-209.74.233.213,4,-44851281,surplussales.com,US,Americas,Northern America,United States of America,Nebraska,,Omaha
+216.229.12.121,4,-4,binary.net,US,Americas,Northern America,United States of America,Nebraska,,Lincoln
+71.8.205.227,4,-11,DNS Server: 071-008-205-227.biz.spectrum.com,US,Americas,Northern America,United States of America,Nebraska,,Springfield
+173.224.16.44,4,3,DNS Server: 173-224-16-44.ptcnet.net,US,Americas,Northern America,United States of America,Nebraska,,Norfolk
+72.46.56.78,4,-7,DNS Server: 72-46-56-78.lnk.ne.static.allophone.net,US,Americas,Northern America,United States of America,Nebraska,,Lincoln
+69.76.224.188,4,18000132,DNS Server: cpe-69-76-224-188.kc.res.rr.com,US,Americas,Northern America,United States of America,Nebraska,,Grand Island
+76.85.152.17,4,2765,DNS Server: cpe-76-85-152-17.neb.res.rr.com,US,Americas,Northern America,United States of America,Nebraska,,Lincoln
+209.222.180.26,4,53,DNS Server: rkaerialsllc.com,US,Americas,Northern America,United States of America,Nebraska,,Fremont
+66.196.48.72,4,-10,hamilton.net,US,Americas,Northern America,United States of America,Nebraska,,Marquette
+66.196.48.70,4,4,hamiltonrelay.com,US,Americas,Northern America,United States of America,Nebraska,,Marquette
+129.93.250.71,4,8,nebraskastudies.org,US,Americas,Northern America,United States of America,Nebraska,,Lincoln
+71.8.255.6,4,-1,Ookla Speedtest Server 2411: krnyne-speedtest-ookla-01.st.charter.com,US,Americas,Northern America,United States of America,Nebraska,,Kearney
+162.127.23.177,4,26,Ookla Speedtest Server 11436: speedtest.esu5.org,US,Americas,Northern America,United States of America,Nebraska,,Beatrice
+209.54.16.135,4,-26,Ookla Speedtest Server 14974: speedtest.threeriver.net,US,Americas,Northern America,United States of America,Nebraska,,Springview
+72.15.163.228,4,1,Ookla Speedtest Server 24009: lnk-speedtest.networknebraska.net,US,Americas,Northern America,United States of America,Nebraska,,Crete
+209.50.15.91,4,-3,Ookla Speedtest Server 24518: lnk11-speedtest01.as15108.com,US,Americas,Northern America,United States of America,Nebraska,,Lincoln
+136.0.237.243,4,13,Ookla Speedtest Server 26990: ookla.bigredne.com,US,Americas,Northern America,United States of America,Nebraska,,York
+74.120.56.3,4,-2058,Ookla Speedtest Server 27270: speedtest.bwtelcom.net,US,Americas,Northern America,United States of America,Nebraska,,Benkelman
+69.2.10.158,4,-1,Ookla Speedtest Server 31017: speedtest.pnpt.com,US,Americas,Northern America,United States of America,Nebraska,,Gothenburg
+67.130.117.202,4,-2,Ookla Speedtest Server 55644: speedtest.skywaveconnect.com,US,Americas,Northern America,United States of America,Nebraska,,Fremont
+38.22.215.18,4,-1,Ookla Speedtest Server 56189: blar.speedtest.fastwyre.com,US,Americas,Northern America,United States of America,Nebraska,,Omaha
+132.147.132.28,4,8,Ookla Speedtest Server 64155: speedtest1.oma.nxlink.com,US,Americas,Northern America,United States of America,Nebraska,,Lincoln
+216.75.115.26,4,-1,Ookla Speedtest Server 72426: chy11-speedtest01.as15108.com,US,Americas,Northern America,United States of America,Nebraska,,Scottsbluff
+149.120.64.65,4,2,Ookla Speedtest Server 72802: omaha.speedtest.fiberfirst.com,US,Americas,Northern America,United States of America,Nebraska,,Omaha
+72.46.60.42,4,11,Ookla Speedtest Server 72816: ksc11-speedtest01.as15108.com,US,Americas,Northern America,United States of America,Nebraska,,Scottsbluff
+162.253.238.2,4,-22,Ookla Speedtest Server: speedtest.spiral-communications.com,US,Americas,Northern America,United States of America,Nebraska,,Plattsmouth
+209.74.233.213,4,-44851281,surplussales.com,US,Americas,Northern America,United States of America,Nebraska,,Blair
 216.229.2.198,4,5070,tabs3.com,US,Americas,Northern America,United States of America,Nebraska,,Lincoln
-173.244.141.75,4,3,york.edu,US,Americas,Northern America,United States of America,Nebraska,,York
+173.244.141.75,4,2,york.edu,US,Americas,Northern America,United States of America,Nebraska,,Lincoln

@@ -1,2 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-176.98.80.97,4,-7531,DNS Server: umanupszn.gov.ua,UA,Europe,Eastern Europe,Ukraine,Cherkasy Oblast,,Uman
+176.67.0.187,4,-2,DNS Server: 176-67-0-187.static-pool.smela.mclaut.net,UA,Europe,Eastern Europe,Ukraine,Cherkasy Oblast,,Cherkasy
+91.244.33.229,4,63657303,DNS Server: 91-244-33-229.dynamic-pool.mclaut.net,UA,Europe,Eastern Europe,Ukraine,Cherkasy Oblast,,Cherkasy
+176.98.80.97,4,85,DNS Server: umanupszn.gov.ua,UA,Europe,Eastern Europe,Ukraine,Cherkasy Oblast,,Uman
+78.137.5.91,4,5396,ed-sp.net,UA,Europe,Eastern Europe,Ukraine,Cherkasy Oblast,,Cherkasy
+78.137.1.35,4,4,Ookla Speedtest Server 8633: speedtest.mclaut.com,UA,Europe,Eastern Europe,Ukraine,Cherkasy Oblast,,Cherkasy

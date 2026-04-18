@@ -1,4 +1,12 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-168.227.96.185,4,8041,DNS Server: 168-227-96-185.ptr.westnet.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Mendoza,,Mendoza
-38.51.29.242,4,224,Ookla Speedtest Server 60319: speedtest.westnet.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Mendoza,,Mendoza
-179.0.132.58,4,16,unidiversidad.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Mendoza,,Mendoza
+168.227.96.185,4,5886,DNS Server: 168-227-96-185.ptr.westnet.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Mendoza,,Mendoza
+168.227.99.188,4,-29,DNS Server: 168-227-99-188.ptr.westnet.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Mendoza,,Mendoza
+181.118.92.14,4,100739,DNS Server: 181.118.92-14.supercanal.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Mendoza,,Mendoza
+190.113.152.203,4,56353790,DNS Server: 190-113-152-203.supercanal.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Mendoza,,Mendoza
+190.15.193.168,4,38,DNS Server: static.193.168.itcsa.net,AR,Americas,Latin America and the Caribbean,Argentina,Mendoza,,Mendoza
+190.15.205.212,4,7866,DNS Server: static.205.212.itcsa.net,AR,Americas,Latin America and the Caribbean,Argentina,Mendoza,,Mendoza
+168.194.207.18,4,5,irrigacion.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Mendoza,,Mendoza
+190.15.222.18,4,3,Ookla Speedtest Server 53520: speedtest.itcsa.net,AR,Americas,Latin America and the Caribbean,Argentina,Mendoza,,Mendoza
+38.51.29.242,4,-5,Ookla Speedtest Server 60319: speedtest.westnet.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Mendoza,,Mendoza
+200.51.41.139,4,17,um.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Mendoza,,Mendoza
+179.0.132.58,4,1844,unidiversidad.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Mendoza,,Mendoza

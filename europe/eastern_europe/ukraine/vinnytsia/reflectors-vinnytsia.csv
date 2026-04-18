@@ -1,7 +1,11 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-31.128.78.134,4,118,assistant.ua,UA,Europe,Eastern Europe,Ukraine,Vinnytsia,,Vinnytsia
-31.128.75.116,4,6,DNS Server: 116.31-pool.datagroup.com.ua,UA,Europe,Eastern Europe,Ukraine,Vinnytsia,,Vinnytsia
-79.143.35.82,4,24,DNS Server: 79.143.35.82.vntp.net,UA,Europe,Eastern Europe,Ukraine,Vinnytsia,,Vinnytsia
-91.236.251.13,4,340,Ookla Speedtest Server 3211: sp1.speedtest.vn.ua,UA,Europe,Eastern Europe,Ukraine,Vinnytsia,,Vinnytsia
-78.154.179.103,4,296,Ookla Speedtest Server 60366: testoptifiber.net,UA,Europe,Eastern Europe,Ukraine,Vinnytsia,,Vinnytsia
-81.30.160.44,4,3,vinnitsa.com,UA,Europe,Eastern Europe,Ukraine,Vinnytsia,,Vinnytsia
+193.243.159.4,4,11,bus.com.ua,UA,Europe,Eastern Europe,Ukraine,Vinnytsia,,Vinnytsia
+79.143.35.82,4,10,DNS Server: 79.143.35.82.vntp.net,UA,Europe,Eastern Europe,Ukraine,Vinnytsia,,Vinnytsia
+195.177.236.66,4,-1,DNS Server: fantom.vsmu.vinnica.ua,UA,Europe,Eastern Europe,Ukraine,Vinnytsia,,Vinnytsia
+82.207.52.214,4,7,ombudsman.gov.ua,UA,Europe,Eastern Europe,Ukraine,Vinnytsia,,Vinnytsia
+91.236.251.13,4,13,Ookla Speedtest Server 3211: sp1.speedtest.vn.ua,UA,Europe,Eastern Europe,Ukraine,Vinnytsia,,Vinnytsia
+217.30.200.194,4,4,Ookla Speedtest Server 62215: tiger.enet.vn.ua,UA,Europe,Eastern Europe,Ukraine,Vinnytsia,,Vinnytsia
+193.107.107.102,4,-1111664,Ookla Speedtest Server 71701: isp-fayno.vn.ua,UA,Europe,Eastern Europe,Ukraine,Vinnytsia,,Vinnytsia
+81.30.160.44,4,13,vinnitsa.com,UA,Europe,Eastern Europe,Ukraine,Vinnytsia,,Vinnytsia
+193.243.158.11,4,12,vn.ua,UA,Europe,Eastern Europe,Ukraine,Vinnytsia,,Vinnytsia
+195.177.236.76,4,-16319,vnmu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Vinnytsia,,Vinnytsia

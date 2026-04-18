@@ -1,9 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-185.72.4.112,4,139,DNS Server: 185-72-4-112.as200906.mct.eu,FR,Europe,Western Europe,France,Brittany,Morbihan,La Trinité-sur-Mer
-185.72.4.119,4,157,DNS Server: 185-72-4-119.as200906.mct.eu,FR,Europe,Western Europe,France,Brittany,Morbihan,La Trinité-sur-Mer
-185.72.4.140,4,257,DNS Server: smtp.laval-technopole.fr,FR,Europe,Western Europe,France,Brittany,Morbihan,La Trinité-sur-Mer
-185.72.5.73,4,3,gys.fr,FR,Europe,Western Europe,France,Brittany,Morbihan,La Trinité-sur-Mer
-95.128.150.70,4,-12,mariage.fr,FR,Europe,Western Europe,France,Brittany,Ille-et-Vilaine,Rennes
-185.72.5.161,4,33,stade-lavallois.com,FR,Europe,Western Europe,France,Brittany,Morbihan,La Trinité-sur-Mer
-129.20.126.129,4,38,univ-rennes1.fr,FR,Europe,Western Europe,France,Brittany,Ille-et-Vilaine,Rennes
-185.245.249.202,4,57,wiki-brest.net,FR,Europe,Western Europe,France,Brittany,Finistère,Brest
+194.250.200.81,4,-1,mgen.fr,FR,Europe,Western Europe,France,Brittany,Ille-et-Vilaine,St-Malo
+185.204.199.148,4,-42,Ookla Speedtest Server 70650: speedtest.as211733.fr,FR,Europe,Western Europe,France,Brittany,Ille-et-Vilaine,Rennes
+45.88.180.116,4,-87,Ookla Speedtest Server 72625: speedtest.vyme.fr,FR,Europe,Western Europe,France,Brittany,Ille-et-Vilaine,Rennes
+129.20.126.129,4,11,univ-rennes1.fr,FR,Europe,Western Europe,France,Brittany,Ille-et-Vilaine,Rennes
+185.245.249.202,4,7,wiki-brest.net,FR,Europe,Western Europe,France,Brittany,Finistère,Châteauneuf-du-Faou

@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-217.112.96.250,4,-4222589,Ookla Speedtest Server: speedtest.ivoweb.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Siena,Siena
+217.112.96.250,4,5917,Ookla Speedtest Server 2467: speedtest.ivoweb.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Siena,Siena
+185.87.241.7,4,-10,Ookla Speedtest Server 2710: speedtestfirenze.ivoweb.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Siena,Siena
+217.112.96.249,4,5556,Ookla Speedtest Server 2711: speedtestgrosseto.ivoweb.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Siena,Siena
+185.87.241.9,4,-6,Ookla Speedtest Server 2864: speedtestmassa.ivoweb.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Siena,Siena

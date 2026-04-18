@@ -1,8 +1,13 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-196.43.196.25,4,19,gi-kace.gov.gh,GH,Africa,Sub-Saharan Africa,Ghana,,,
-129.122.16.228,4,29928,knust.edu.gh,GH,Africa,Sub-Saharan Africa,Ghana,Ashanti Region,,Kotei
-41.242.112.177,4,-3609,Ookla Speedtest Server 17654: speedtest.dolphintelecom.net,GH,Africa,Sub-Saharan Africa,Ghana,Greater Accra Region,,Accra
-197.253.67.103,4,1086,police.gov.gh,GH,Africa,Sub-Saharan Africa,Ghana,Greater Accra Region,,Dansoman
-156.38.97.11,4,8,ucc.edu.gh,GH,Africa,Sub-Saharan Africa,Ghana,,,
-41.74.91.153,4,3,uew.edu.gh,GH,Africa,Sub-Saharan Africa,Ghana,,,
-196.216.189.203,4,165512,wacren.net,GH,Africa,Sub-Saharan Africa,Ghana,,,
+196.43.196.25,4,-16,gi-kace.gov.gh,GH,Africa,Sub-Saharan Africa,Ghana,,,
+129.122.16.228,4,930,knust.edu.gh,GH,Africa,Sub-Saharan Africa,Ghana,Ashanti Region,,Kumasi
+196.201.61.131,4,-390605,Ookla Speedtest Server 3900: speedtest1.mtn.com.gh,GH,Africa,Sub-Saharan Africa,Ghana,,,
+41.215.166.250,4,-18,Ookla Speedtest Server 11055: speedtest.airteltigo.com.gh,GH,Africa,Sub-Saharan Africa,Ghana,,,
+41.242.112.177,4,27,Ookla Speedtest Server 17654: speedtest.dolphintelecom.net,GH,Africa,Sub-Saharan Africa,Ghana,Greater Accra Region,,Accra
+197.159.139.177,4,1964981,Ookla Speedtest Server 17770: sp1.comsysghana.net,GH,Africa,Sub-Saharan Africa,Ghana,Greater Accra Region,,Accra
+102.223.20.142,4,4,Ookla Speedtest Server 35819: speedtest.vobiss.net,GH,Africa,Sub-Saharan Africa,Ghana,,,
+154.65.18.132,4,-6,Ookla Speedtest Server 36965: bwtacc01.inet.com.gh,GH,Africa,Sub-Saharan Africa,Ghana,Greater Accra Region,,Accra
+197.253.67.125,4,316,Ookla Speedtest Server 46919: speedtest.nita.gov.gh,GH,Africa,Sub-Saharan Africa,Ghana,,,
+197.221.89.34,4,-1,Ookla Speedtest Server 52390: speedtest.chillzone.xyz,GH,Africa,Sub-Saharan Africa,Ghana,,,
+197.253.67.103,4,6847,police.gov.gh,GH,Africa,Sub-Saharan Africa,Ghana,,,
+41.74.91.153,4,-8,uew.edu.gh,GH,Africa,Sub-Saharan Africa,Ghana,,,

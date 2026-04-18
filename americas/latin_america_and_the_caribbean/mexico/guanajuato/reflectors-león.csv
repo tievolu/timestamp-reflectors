@@ -1,4 +1,8 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-201.117.254.241,4,-1239990666,DNS Server: customer-201-117-254-241.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
-201.134.76.213,4,7,solmar.com,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
-201.134.115.36,4,27910882,Uninet S.A. de C.V.,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
+189.194.86.5,4,-3,DNS Server: customer-XAL-86-5.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
+187.188.150.41,4,126314,DNS Server: sana.dicoba.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
+201.144.48.73,4,7,DNS Server: static.customer-201-144-48-73.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
+189.194.232.210,4,-36,Ookla Speedtest Server 3568: speedtest.leon.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
+189.203.166.146,4,14,Ookla Speedtest Server 37266: leon.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
+201.134.76.213,4,-4,solmar.com,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
+201.134.115.36,4,66604033,Uninet S.A. de C.V.,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León

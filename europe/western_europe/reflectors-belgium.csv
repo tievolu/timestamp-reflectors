@@ -1,1084 +1,534 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-83.217.71.124,4,7,100pmagazine.nl,BE,Europe,Western Europe,Belgium,,,
-185.162.31.132,4,8,30cc.be,BE,Europe,Western Europe,Belgium,,,
-185.58.97.76,4,8,aal-europe.eu,BE,Europe,Western Europe,Belgium,,,
+185.58.97.76,4,-8,aal-europe.eu,BE,Europe,Western Europe,Belgium,,,
 185.58.97.84,4,6,aalforum.eu,BE,Europe,Western Europe,Belgium,,,
-35.187.38.63,4,5,abandonedamerica.us,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-194.32.153.11,4,64,abconcerts.be,BE,Europe,Western Europe,Belgium,,,
-193.105.133.207,4,23,abvv.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-195.244.164.246,4,25,actiris.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-195.244.164.244,4,51,actiris.brussels,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-176.62.168.78,4,-26,addemar.com,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-83.217.81.199,4,7,adodenhaag.nl,BE,Europe,Western Europe,Belgium,,,
+35.187.38.63,4,0,abandonedamerica.us,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+194.32.153.11,4,7,abconcerts.be,BE,Europe,Western Europe,Belgium,,,
+193.105.133.207,4,-5,abvv.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+195.244.164.246,4,-9,actiris.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+195.244.164.244,4,0,actiris.brussels,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 62.213.218.79,4,7,adopteereendier.be,BE,Europe,Western Europe,Belgium,,,
-35.233.1.67,4,27,adsmurai.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-188.65.220.59,4,38,adventure-valley.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Theux
-185.86.18.110,4,-1,aertssen.be,BE,Europe,Western Europe,Belgium,,,
+35.233.1.67,4,6,adsmurai.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+188.65.220.59,4,4,adventure-valley.be,BE,Europe,Western Europe,Belgium,,,
 93.94.104.22,4,147,agenceurope.eu,BE,Europe,Western Europe,Belgium,,,
-5.134.4.176,4,132,alfen.com,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-35.190.192.213,4,46,alilaguna.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-34.140.206.68,4,94,alinea.fr,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-79.99.200.4,4,37,all2all.org,BE,Europe,Western Europe,Belgium,,,
-188.208.36.15,4,5,alterwood.nl,BE,Europe,Western Europe,Belgium,,,
-94.139.39.10,4,15,amazone.be,BE,Europe,Western Europe,Belgium,Wallonia,Namur Province,Gembloux
-77.241.81.188,4,23,ambachtenmuseum.nl,BE,Europe,Western Europe,Belgium,,,
-188.208.36.164,4,17,aml-cfwb.be,BE,Europe,Western Europe,Belgium,,,
-5.134.6.43,4,-3,amsterdamse-school.nl,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-193.105.73.28,4,50,andenne.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
+62.193.192.38,4,51,algarve-portal.com,BE,Europe,Western Europe,Belgium,,,
+34.140.206.68,4,8,alinea.fr,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+79.99.201.140,4,29,alterpresse.org,BE,Europe,Western Europe,Belgium,,,
+94.139.39.10,4,35,amazone.be,BE,Europe,Western Europe,Belgium,Wallonia,Namur Province,Gembloux
+109.69.218.150,4,0,andenne.be,BE,Europe,Western Europe,Belgium,,,
+193.105.73.28,4,50,andenne.be,BE,Europe,Western Europe,Belgium,,,
 130.211.93.122,4,3,aninas-recipes.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.70.52,4,17,anticancerfund.org,BE,Europe,Western Europe,Belgium,,,
-83.217.85.173,4,17,anwbgolf.nl,BE,Europe,Western Europe,Belgium,,,
-34.34.171.229,4,4,anyti.me,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.71.73,4,10,ao-metalektro.nl,BE,Europe,Western Europe,Belgium,,,
-91.208.211.20,4,39,apache.be,BE,Europe,Western Europe,Belgium,,,
-185.35.173.78,4,6,apaqw.be,BE,Europe,Western Europe,Belgium,,,
-194.50.177.59,4,-8187,apollohotelsresorts.com,BE,Europe,Western Europe,Belgium,,,
-35.210.227.33,4,13,aprh.pt,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.70.12,4,10,archiefweb.eu,BE,Europe,Western Europe,Belgium,,,
-185.3.217.206,4,45,ardo.com,BE,Europe,Western Europe,Belgium,,,
-194.32.153.87,4,13,arenberg.be,BE,Europe,Western Europe,Belgium,,,
-109.68.162.51,4,11,argosarts.org,BE,Europe,Western Europe,Belgium,,,
-185.35.173.113,4,5,argsb.be,BE,Europe,Western Europe,Belgium,,,
-35.195.44.168,4,4,arikair.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-212.3.255.174,4,78,arllfb.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.162.31.140,4,82,arnhem-direct.nl,BE,Europe,Western Europe,Belgium,,,
-34.79.192.94,4,15,arpaindustriale.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+91.208.211.20,4,0,apache.be,BE,Europe,Western Europe,Belgium,,,
+185.35.173.78,4,-32,apaqw.be,BE,Europe,Western Europe,Belgium,,,
+194.50.177.59,4,16,apollohotels.nl,BE,Europe,Western Europe,Belgium,,,
+185.3.217.206,4,10,ardo.com,BE,Europe,Western Europe,Belgium,,,
+194.32.153.87,4,15,arenberg.be,BE,Europe,Western Europe,Belgium,,,
+109.68.162.51,4,0,argosarts.org,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+185.35.173.113,4,-3,argsb.be,BE,Europe,Western Europe,Belgium,,,
+35.195.44.168,4,-34,arikair.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 35.187.69.194,4,5,arredaremoderno.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-46.19.2.9,4,11,artandpopularculture.com,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Letterhoutem
-83.217.85.209,4,5,ascender.nl,BE,Europe,Western Europe,Belgium,,,
-185.162.30.177,4,39,assurancesbrotcorne.be,BE,Europe,Western Europe,Belgium,,,
-34.79.2.235,4,40,atlanticoline.pt,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+46.19.2.9,4,10,artandpopularculture.com,BE,Europe,Western Europe,Belgium,,,
 34.76.167.12,4,51,atlasgeneticsoncology.org,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.81.83,4,43,attractiongym.nl,BE,Europe,Western Europe,Belgium,,,
-146.148.13.131,4,15,auca.kg,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.71.38,4,7,auschwitz.nl,BE,Europe,Western Europe,Belgium,,,
+104.155.14.22,4,29,audiencetalking.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 185.3.217.64,4,44,autismevlaanderen.be,BE,Europe,Western Europe,Belgium,,,
-188.208.36.126,4,15,autofans.be,BE,Europe,Western Europe,Belgium,,,
-185.162.30.209,4,72,autosport.be,BE,Europe,Western Europe,Belgium,,,
-176.62.168.218,4,-16,autoveiligheid.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-185.162.31.207,4,60,autoverzekering-berekenen.be,BE,Europe,Western Europe,Belgium,,,
-93.94.104.91,4,72,autowereld.be,BE,Europe,Western Europe,Belgium,,,
-5.134.7.232,4,71,autoworld.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-91.183.195.100,4,4,awex-export.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-34.76.142.176,4,8,awmagazin.de,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-193.191.132.22,4,22,awt.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Oosterzele
+93.94.104.91,4,14,autowereld.be,BE,Europe,Western Europe,Belgium,,,
+35.241.159.76,4,-16,awmagazin.de,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+193.191.132.22,4,17,awt.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Schaarbeek
 91.208.211.61,4,5,azgroeninge.be,BE,Europe,Western Europe,Belgium,,,
-185.3.216.209,4,16,azsintjan.be,BE,Europe,Western Europe,Belgium,,,
-188.208.36.1,4,82,azstlucas.be,BE,Europe,Western Europe,Belgium,,,
-185.86.18.198,4,6,babassu.nl,BE,Europe,Western Europe,Belgium,,,
-83.217.71.174,4,80,balknet.nl,BE,Europe,Western Europe,Belgium,,,
-62.213.218.78,4,14,baltagroup.com,BE,Europe,Western Europe,Belgium,,,
-5.134.5.24,4,23,bbeu.org,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+185.3.216.209,4,10,azsintjan.be,BE,Europe,Western Europe,Belgium,,,
+194.32.155.45,4,21,b2ai.com,BE,Europe,Western Europe,Belgium,,,
+34.77.13.208,4,15,bahamasair.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+62.213.218.78,4,-4,baltagroup.com,BE,Europe,Western Europe,Belgium,,,
+38.244.130.121,4,35,baronbob.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 185.70.73.243,4,5,bbforum.be,BE,Europe,Western Europe,Belgium,,,
-35.195.219.170,4,34,beamian.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.86.18.31,4,1,bedden.nl,BE,Europe,Western Europe,Belgium,,,
-185.86.18.16,4,-4,beerschot.be,BE,Europe,Western Europe,Belgium,,,
-5.134.4.22,4,10,belchicken.com,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-188.65.217.241,4,33,belgianshop.com,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Theux
-77.241.85.54,4,22,belisol.nl,BE,Europe,Western Europe,Belgium,,,
-83.217.74.217,4,11,berghorst.nl,BE,Europe,Western Europe,Belgium,,,
-104.199.51.61,4,94,bestadvisers.co.uk,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.75.44,4,33,bevegan.be,BE,Europe,Western Europe,Belgium,,,
+104.199.51.61,4,0,bestadvisers.co.uk,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+104.155.100.205,4,3,bialkatatrzanska.pl,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 185.3.216.173,4,6,bibliotheek.be,BE,Europe,Western Europe,Belgium,,,
-130.211.100.39,4,68,bigresource.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.71.129,4,112,binnenstadarnhem.nl,BE,Europe,Western Europe,Belgium,,,
-83.217.82.81,4,57,biobasedpress.eu,BE,Europe,Western Europe,Belgium,,,
-5.134.6.110,4,37,biodermal.nl,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-188.208.36.198,4,25,bioenergyeurope.org,BE,Europe,Western Europe,Belgium,,,
-185.86.18.17,4,16,biomijnnatuur.be,BE,Europe,Western Europe,Belgium,,,
-83.217.85.238,4,12,birdview.nl,BE,Europe,Western Europe,Belgium,,,
-195.160.166.174,4,81,bitlbee.org,BE,Europe,Western Europe,Belgium,,,
-5.134.5.48,4,8,bivolino.com,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+195.160.166.174,4,81,bitlbee.org,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Zaventem
+185.3.217.22,4,9,blabloom.com,BE,Europe,Western Europe,Belgium,,,
 185.3.217.23,4,6,blabloom.com,BE,Europe,Western Europe,Belgium,,,
-77.241.81.17,4,33,blauwestad.nl,BE,Europe,Western Europe,Belgium,,,
-185.59.17.78,4,46,blogspace.be,BE,Europe,Western Europe,Belgium,,,
+185.59.17.78,4,13,blogspace.be,BE,Europe,Western Europe,Belgium,,,
 85.158.106.20,4,5,blschoonheidssalon.be,BE,Europe,Western Europe,Belgium,,,
-185.86.18.199,4,6,bluecrux.com,BE,Europe,Western Europe,Belgium,,,
-217.19.225.165,4,73,bobex.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-77.241.81.34,4,10,boccard.nl,BE,Europe,Western Europe,Belgium,,,
-35.195.128.142,4,23,bookme.pk,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-91.223.195.17,4,7,borgerhoff-lamberigts.be,BE,Europe,Western Europe,Belgium,,,
-83.217.83.140,4,16,borneboeit.nl,BE,Europe,Western Europe,Belgium,,,
-5.134.7.184,4,6,bosplus.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-83.217.80.120,4,6,botanischetuinen.nl,BE,Europe,Western Europe,Belgium,,,
-193.105.133.212,4,-220040,botrange.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-104.117.77.32,4,5,bouygues.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-104.117.77.72,4,19,bouygues.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-176.62.167.56,4,43,bram.us,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-85.119.186.128,4,-30,brandwonden.be,BE,Europe,Western Europe,Belgium,,,
-185.162.30.74,4,11,bridgesrestaurant.nl,BE,Europe,Western Europe,Belgium,,,
-83.217.80.184,4,7,brotherlouis.nl,BE,Europe,Western Europe,Belgium,,,
+217.19.225.165,4,-21,bobex.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+91.223.195.17,4,-3,borgerhoff-lamberigts.be,BE,Europe,Western Europe,Belgium,,,
+193.105.133.212,4,-377850,botrange.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+213.177.64.28,4,-15,brocanteterre.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Flémalle
 194.32.154.58,4,23,brussels-school.be,BE,Europe,Western Europe,Belgium,,,
-35.189.247.58,4,11,bticino.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-188.208.36.0,4,35,bultman.nl,BE,Europe,Western Europe,Belgium,,,
-5.134.7.107,4,25,bunnybunch.nl,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+195.244.180.66,4,21,bruxellesformation.brussels,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+35.189.247.58,4,-10,bticino.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 35.241.185.249,4,35,burgo.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-5.134.7.157,4,5,bycs.org,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-194.32.155.8,4,6,c-mine.be,BE,Europe,Western Europe,Belgium,,,
-185.175.196.2,4,4,c3.co,BE,Europe,Western Europe,Belgium,,,
 35.205.42.152,4,5,c3po.link,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-104.155.52.66,4,4,cable.co.uk,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+104.155.52.66,4,25,cable.co.uk,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+34.79.69.20,4,11,caboverdeairlines.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 194.32.154.63,4,19,cactusmusic.be,BE,Europe,Western Europe,Belgium,,,
-176.62.173.155,4,12,cajou.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-83.217.74.123,4,24,callassoftware.com,BE,Europe,Western Europe,Belgium,,,
-23.219.227.114,4,22,cardif.fr,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-34.38.10.15,4,59,caristaapp.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-176.62.170.21,4,-30,caritasinternational.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-79.174.129.100,4,7,cartamundi.com,BE,Europe,Western Europe,Belgium,,,
-83.217.70.117,4,4,cbcommerce.eu,BE,Europe,Western Europe,Belgium,,,
-188.208.37.13,4,10,cbkrotterdam.nl,BE,Europe,Western Europe,Belgium,,,
+193.105.133.247,4,18,captaincooksociety.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+79.174.129.100,4,35,cartamundi.com,BE,Europe,Western Europe,Belgium,,,
+35.189.208.109,4,-3,casilli.fr,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+194.1.205.111,4,-5,casinodavos.ch,BE,Europe,Western Europe,Belgium,,,
 194.32.153.73,4,5,ccdewerf.be,BE,Europe,Western Europe,Belgium,,,
-23.219.236.137,4,1,ccm.net,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.70.251,4,30,cema-agri.org,BE,Europe,Western Europe,Belgium,,,
-77.241.85.229,4,24,centexbel.be,BE,Europe,Western Europe,Belgium,,,
-178.208.52.35,4,7,centr.org,BE,Europe,Western Europe,Belgium,,,
-176.62.170.182,4,-35,centrale.brussels,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-35.195.172.159,4,12,centraltest.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.70.242,4,15,cepa-europe.org,BE,Europe,Western Europe,Belgium,,,
-185.86.18.21,4,-3,cepi.org,BE,Europe,Western Europe,Belgium,,,
-35.187.187.184,4,4,cgpe.es,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+62.193.192.13,4,-6,cemp.pt,BE,Europe,Western Europe,Belgium,,,
+178.208.52.35,4,14,centr.org,BE,Europe,Western Europe,Belgium,,,
+35.195.172.159,4,10,centraltest.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+185.59.17.118,4,72,certibit.be,BE,Europe,Western Europe,Belgium,,,
+35.187.187.184,4,17,cgpe.es,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 35.206.179.76,4,3,chalair.fr,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-77.241.81.201,4,38,charliemag.be,BE,Europe,Western Europe,Belgium,,,
-217.19.224.147,4,9,chartmill.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-146.148.11.16,4,45,chaserhq.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+217.19.234.75,4,-35,charleroi-airport.com,BE,Europe,Western Europe,Belgium,,,
+193.104.37.46,4,10,charleroi.be,BE,Europe,Western Europe,Belgium,,,
+217.19.224.147,4,-5,chartmill.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 34.78.203.236,4,4,chd-expert.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.162.30.201,4,13,cheqroom.com,BE,Europe,Western Europe,Belgium,,,
-5.134.6.41,4,2,choco-story-brugge.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-77.241.85.230,4,9,chocolatenation.be,BE,Europe,Western Europe,Belgium,,,
-139.165.51.100,4,4,chuliege.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
-193.70.70.147,4,5,cid-grand-hornu.be,BE,Europe,Western Europe,Belgium,,,
-83.217.71.222,4,6,cineart.nl,BE,Europe,Western Europe,Belgium,,,
-5.134.7.226,4,32,cinematek.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-176.62.168.137,4,-30,cinemazed.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
+139.165.51.100,4,-2,chuliege.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
+193.70.70.147,4,15,cid-grand-hornu.be,BE,Europe,Western Europe,Belgium,,,
+194.32.153.47,4,-16,circuit-zolder.be,BE,Europe,Western Europe,Belgium,,,
 185.3.217.9,4,10,circuit-zolder.be,BE,Europe,Western Europe,Belgium,,,
-83.217.70.35,4,15,citysafari.nl,BE,Europe,Western Europe,Belgium,,,
+34.140.171.79,4,-6,claritergroup.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 34.79.138.115,4,5,cleor.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.71.48,4,7,clubvanrelaxtemoeders.nl,BE,Europe,Western Europe,Belgium,,,
-23.41.25.107,4,0,cms.gov,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-176.62.173.247,4,8,coalitionfortheicc.org,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-185.175.196.112,4,15,coboc.biz,BE,Europe,Western Europe,Belgium,,,
-77.241.81.35,4,28,coco-systems.nl,BE,Europe,Western Europe,Belgium,,,
-188.208.36.200,4,19,coffeefresh.nl,BE,Europe,Western Europe,Belgium,,,
+213.181.53.90,4,-2,cofidis.hu,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 35.195.242.231,4,3,colanguage.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-217.21.190.142,4,5,combell.com,BE,Europe,Western Europe,Belgium,,,
-83.217.71.154,4,10,comichouse.nl,BE,Europe,Western Europe,Belgium,,,
-83.217.70.67,4,115,comitemaritime.org,BE,Europe,Western Europe,Belgium,,,
-176.62.173.249,4,11,connectedautomateddriving.eu,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-5.134.7.227,4,7,conservatoriummaastricht.nl,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-79.99.201.131,4,23,constantvzw.org,BE,Europe,Western Europe,Belgium,,,
-83.217.71.205,4,72,containernederland.nl,BE,Europe,Western Europe,Belgium,,,
-185.162.30.115,4,10,convento.be,BE,Europe,Western Europe,Belgium,,,
-194.32.153.101,4,4,coolgift.com,BE,Europe,Western Europe,Belgium,,,
-217.19.239.146,4,46,corelan.be,BE,Europe,Western Europe,Belgium,,,
-91.223.195.45,4,40,couleurcafe.be,BE,Europe,Western Europe,Belgium,,,
-104.155.31.42,4,36,covadenxoroi.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-5.134.6.213,4,101,crisp.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-23.41.178.25,4,5,csirt.gov.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-23.41.178.106,4,5,csirt.gov.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-23.55.97.238,4,6,cvs.com,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Diegem
-193.105.133.164,4,6,cwape.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-213.177.64.28,4,15,cybernet.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Angleur
-35.195.153.76,4,20,d6.co.za,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-34.77.76.180,4,13,dailybest.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-5.134.4.38,4,26,dailybits.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-176.62.173.237,4,8,dansendeberen.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-83.217.75.236,4,6,datagraver.com,BE,Europe,Western Europe,Belgium,,,
-5.134.6.55,4,26,davitamon.nl,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-83.217.70.243,4,4,ddock.com,BE,Europe,Western Europe,Belgium,,,
-176.62.168.176,4,-16,debameubelen.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-83.217.71.201,4,7,debontewever.nl,BE,Europe,Western Europe,Belgium,,,
-217.21.184.230,4,147,decentrale.be,BE,Europe,Western Europe,Belgium,,,
-83.217.75.208,4,4,deceuvel.nl,BE,Europe,Western Europe,Belgium,,,
-34.76.240.212,4,173,dedalus.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-193.110.254.16,4,8,deepthought.be,BE,Europe,Western Europe,Belgium,,,
-83.217.86.140,4,63,degraafschap.nl,BE,Europe,Western Europe,Belgium,,,
-176.62.173.27,4,60,dekringwinkel.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-86.39.72.72,4,5,delcampe.net,BE,Europe,Western Europe,Belgium,,,
-86.39.72.71,4,4,delcampe.net,BE,Europe,Western Europe,Belgium,,,
-77.241.81.13,4,7,deluisterlijn.nl,BE,Europe,Western Europe,Belgium,,,
-83.217.74.225,4,6,demens.nu,BE,Europe,Western Europe,Belgium,,,
-83.217.71.93,4,4,demeubeltaxi.nl,BE,Europe,Western Europe,Belgium,,,
-83.217.86.189,4,7,dentalclinics.nl,BE,Europe,Western Europe,Belgium,,,
-77.241.85.123,4,9,deonlinedrogist.nl,BE,Europe,Western Europe,Belgium,,,
-194.32.153.24,4,147,departementwvg.be,BE,Europe,Western Europe,Belgium,,,
-83.217.82.149,4,102,depont.nl,BE,Europe,Western Europe,Belgium,,,
-83.217.74.218,4,6,depoort.com,BE,Europe,Western Europe,Belgium,,,
-176.62.168.29,4,-29,depressie.nl,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-185.86.18.60,4,-2,deranke.be,BE,Europe,Western Europe,Belgium,,,
-83.217.73.86,4,11,designaddict.com,BE,Europe,Western Europe,Belgium,,,
-83.217.71.158,4,10,devakman.info,BE,Europe,Western Europe,Belgium,,,
-185.162.31.116,4,13,dewitteraaf.be,BE,Europe,Western Europe,Belgium,,,
-23.219.225.135,4,63,dickieslife.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.83.131,4,5,dierenwinkelxl.nl,BE,Europe,Western Europe,Belgium,,,
-35.195.203.124,4,37,diggitmagazine.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.162.30.57,4,23,digilife.be,BE,Europe,Western Europe,Belgium,,,
+185.3.217.24,4,7,comfortenergy.be,BE,Europe,Western Europe,Belgium,,,
+79.99.201.131,4,17,constantvzw.org,BE,Europe,Western Europe,Belgium,,,
+34.14.25.197,4,-14,contourairlines.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+35.189.203.243,4,-4,coopbankoromia.com.et,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+217.19.239.146,4,31,corelan.be,BE,Europe,Western Europe,Belgium,,,
+91.223.195.45,4,-1,couleurcafe.be,BE,Europe,Western Europe,Belgium,,,
+193.105.133.164,4,3,cwape.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+104.155.94.197,4,2,dagensmedicin.dk,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+149.33.25.43,4,20,dailyblam.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+35.233.79.206,4,-5,dawaai.pk,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+178.208.52.45,4,2,debatingeurope.eu,BE,Europe,Western Europe,Belgium,,,
+34.76.240.212,4,-8,dedalus.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+193.110.254.16,4,8,deepthought.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Nieuwkerken-Waas
+86.39.72.72,4,-14,delcampe-static.net,BE,Europe,Western Europe,Belgium,Flanders,Limburg Province,Hasselt
+86.39.72.71,4,-4,delcampe-static.net,BE,Europe,Western Europe,Belgium,Flanders,Limburg Province,Hasselt
+146.148.23.160,4,-6,delconca.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+194.32.153.24,4,-4,departementwvg.be,BE,Europe,Western Europe,Belgium,,,
+83.217.73.86,4,29,designaddict.com,BE,Europe,Western Europe,Belgium,,,
+185.3.216.182,4,-17,diest.be,BE,Europe,Western Europe,Belgium,,,
+5.134.0.234,4,-95,dimitrivegasandlikemike.com,BE,Europe,Western Europe,Belgium,,,
 185.70.72.104,4,78,divinityoriginalsin.com,BE,Europe,Western Europe,Belgium,,,
-185.3.217.198,4,30,dncm.be,BE,Europe,Western Europe,Belgium,,,
-81.245.191.125,4,433,DNS Server: 125.191-245-81.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-81.247.107.128,4,33,DNS Server: 128.107-247-81.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-87.66.186.140,4,20,DNS Server: 140.186-66-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,West Flanders Province,Tielt
-82.146.125.170,4,58,DNS Server: 170.125.146.82.ipv4.evonet.be,BE,Europe,Western Europe,Belgium,Wallonia,Walloon Brabant Province,Waterloo
-91.177.143.183,4,89,DNS Server: 183.143-177-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Wallonia,Hainaut Province,Chapelle-lez-Herlaimont
-81.242.198.184,4,65,DNS Server: 184.198-242-81.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,West Flanders Province,Kuurne
+185.3.217.198,4,5,dncm.be,BE,Europe,Western Europe,Belgium,,,
+81.245.191.125,4,4,DNS Server: 125.191-245-81.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+81.247.107.128,4,17,DNS Server: 128.107-247-81.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+87.66.186.140,4,20,DNS Server: 140.186-66-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
+81.244.16.162,4,84,DNS Server: 162.16-244-81.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
+82.146.125.170,4,-1,DNS Server: 170.125.146.82.ipv4.evonet.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+91.177.143.183,4,89,DNS Server: 183.143-177-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Wallonia,Walloon Brabant Province,Nivelles
+81.242.198.184,4,70,DNS Server: 184.198-242-81.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
+91.178.175.185,4,47,DNS Server: 185.175-178-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+87.67.235.189,4,2,DNS Server: 189.235-67-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+91.178.57.193,4,18,DNS Server: 193.57-178-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
+91.180.232.201,4,122,DNS Server: 201.232-180-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
 91.178.101.213,4,-40,DNS Server: 213.101-178-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-91.180.235.224,4,239780,DNS Server: 224.235-180-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-91.178.74.23,4,52,DNS Server: 23.74-178-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-109.135.19.254,4,17,DNS Server: 254.19-135-109.adsl-fix.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Uccle
-87.64.16.29,4,75,DNS Server: 29.16-64-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Edegem
-87.66.50.41,4,11,DNS Server: 41.50-66-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Wallonia,Hainaut Province,Carnières
-91.182.59.41,4,50,DNS Server: 41.59-182-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
-91.183.236.59,4,52,DNS Server: 59.236-183-91.adsl-static.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-91.179.91.60,4,53,DNS Server: 60.91-179-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Oordegem
-87.65.238.61,4,31,DNS Server: 61.238-65-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-62.213.218.22,4,5,DNS Server: 62.213.218.22.one.cloudstar.be,BE,Europe,Western Europe,Belgium,,,
-109.132.6.65,4,40,DNS Server: 65.6-132-109.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-81.246.95.66,4,249,DNS Server: 66.95-246-81.adsl-static.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-81.241.230.74,4,-27736,DNS Server: 74.230-241-81.adsl-static.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Omal
-79.132.242.65,4,132,DNS Server: 79.132.242.65.fix.adsl.edpnet.net,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-79.132.246.82,4,102,DNS Server: 79.132.246.82.static.edpnet.net,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-87.65.15.90,4,37,DNS Server: 90.15-65-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Aalst
-91.180.232.95,4,136,DNS Server: 95.232-180-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-80.169.82.30,4,-8833256,DNS Server: cpebe_bru002753.ia.colt.net,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.134.123.101,4,108,DNS Server: ip-83-134-123-101.dsl.scarlet.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Mechelen
-5.134.5.121,4,30,docs4opendebate.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-77.241.85.226,4,40,docville.be,BE,Europe,Western Europe,Belgium,,,
+91.180.235.224,4,587,DNS Server: 224.235-180-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
+91.178.74.23,4,-21423,DNS Server: 23.74-178-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+81.246.67.233,4,-4,DNS Server: 233.67-246-81.adsl-static.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Ixelles-Elsene
+87.66.185.249,4,11,DNS Server: 249.185-66-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
+109.135.19.254,4,22,DNS Server: 254.19-135-109.adsl-fix.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Anderlecht
+87.64.16.29,4,-4,DNS Server: 29.16-64-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+87.66.178.34,4,83,DNS Server: 34.178-66-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
+87.66.50.41,4,11,DNS Server: 41.50-66-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Wallonia,Hainaut Province,Charleroi
+91.182.59.41,4,-1,DNS Server: 41.59-182-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
+87.65.249.45,4,936,DNS Server: 45.249-65-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
+91.179.91.60,4,24,DNS Server: 60.91-179-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
+87.65.238.61,4,36,DNS Server: 61.238-65-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
+109.135.37.61,4,-7,DNS Server: 61.37-135-109.adsl-fix.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+109.132.6.65,4,392,DNS Server: 65.6-132-109.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+81.246.95.66,4,16074,DNS Server: 66.95-246-81.adsl-static.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+91.176.8.68,4,46,DNS Server: 68.8-176-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
+81.241.230.74,4,-12968,DNS Server: 74.230-241-81.adsl-static.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Vilvoorde
+79.132.242.65,4,-66,DNS Server: 79.132.242.65.fix.adsl.edpnet.net,BE,Europe,Western Europe,Belgium,Wallonia,Hainaut Province,Morlanwelz-Mariemont
+87.65.84.87,4,46,DNS Server: 87.84-65-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
+87.65.15.90,4,29,DNS Server: 90.15-65-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
+91.180.232.95,4,136,DNS Server: 95.232-180-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
+188.118.32.12,4,-3438472047,DNS Server: ip-188-118-32-12.reverse.destiny.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+83.134.123.101,4,65,DNS Server: ip-83-134-123-101.dsl.scarlet.be,BE,Europe,Western Europe,Belgium,Wallonia,Hainaut Province,La Louvière
+91.183.70.251,4,-4,DNS Server: mail.atrio.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+91.183.109.45,4,4566,DNS Server: mail.reneclaeys.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
+192.121.170.151,4,-3,DoH server: bru01.dnscry.pt,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+37.120.236.11,4,-3,DoH server: cs-belgium,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+193.190.182.53,4,-4,DoH server: dns.belnet.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
 35.187.61.140,4,41,dols.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-86.39.2.178,4,27,dommel.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-185.35.173.91,4,6,donneurdesang.be,BE,Europe,Western Europe,Belgium,,,
-217.19.228.85,4,64,dorsoo.be,BE,Europe,Western Europe,Belgium,,,
-217.19.239.157,4,6,dr-lex.be,BE,Europe,Western Europe,Belgium,,,
-77.241.81.180,4,36,drankenhandelhoefnagels.be,BE,Europe,Western Europe,Belgium,,,
-176.62.167.15,4,16,droitsquotidiens.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-188.208.36.108,4,32,druglijn.be,BE,Europe,Western Europe,Belgium,,,
+185.35.173.91,4,-3,donneurdesang.be,BE,Europe,Western Europe,Belgium,,,
+217.19.228.85,4,-6,dorsoo.be,BE,Europe,Western Europe,Belgium,,,
+217.19.239.157,4,-7,dr-lex.be,BE,Europe,Western Europe,Belgium,,,
 85.158.210.82,4,9,dstny.be,BE,Europe,Western Europe,Belgium,,,
-83.217.82.60,4,21,dupho.nl,BE,Europe,Western Europe,Belgium,,,
 130.211.50.27,4,10,duport.co.uk,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-77.241.81.37,4,6,duurzamedinsdag.nl,BE,Europe,Western Europe,Belgium,,,
-83.217.75.99,4,3,duvelmoortgat.be,BE,Europe,Western Europe,Belgium,,,
-176.62.169.242,4,-33,dvhardware.net,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-35.205.239.128,4,5,e-vai.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-5.134.7.5,4,-2,eaae.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-35.189.205.192,4,3,eaglepictures.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.86.18.197,4,13,earli.org,BE,Europe,Western Europe,Belgium,,,
+178.208.42.38,4,35,dynapac.com,BE,Europe,Western Europe,Belgium,,,
+35.205.239.128,4,-11,e-vai.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 34.34.151.7,4,61,easygym.co.uk,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.87.0,4,8,eazzypark.nl,BE,Europe,Western Europe,Belgium,,,
+217.21.190.149,4,-3,easyhost.be,BE,Europe,Western Europe,Belgium,,,
 193.104.37.77,4,-476,ebaa.org,BE,Europe,Western Europe,Belgium,,,
-5.134.6.160,4,2,ebf.eu,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-83.217.80.250,4,39,echteinstallateur.nl,BE,Europe,Western Europe,Belgium,,,
-185.35.173.140,4,65,ecolo.be,BE,Europe,Western Europe,Belgium,,,
-212.71.0.128,4,10,edpnet.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-212.71.8.128,4,11,edpnet.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-212.71.0.129,4,9,edpnet.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-212.71.8.129,4,6,edpnet.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-109.68.161.56,4,6,effectsdatabase.com,BE,Europe,Western Europe,Belgium,,,
-188.208.36.138,4,8,efrag.org,BE,Europe,Western Europe,Belgium,,,
-185.35.173.76,4,98,eggo.be,BE,Europe,Western Europe,Belgium,,,
-5.134.5.17,4,65,eias.org,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-185.86.18.20,4,47,eitfood.eu,BE,Europe,Western Europe,Belgium,,,
-185.162.30.98,4,28,elmon.nl,BE,Europe,Western Europe,Belgium,,,
-185.162.30.169,4,27,emailcenter.eu,BE,Europe,Western Europe,Belgium,,,
-194.32.153.86,4,6,emnbelgium.be,BE,Europe,Western Europe,Belgium,,,
-185.18.9.62,4,33,energuide.be,BE,Europe,Western Europe,Belgium,,,
-188.208.36.87,4,6,energyville.be,BE,Europe,Western Europe,Belgium,,,
-185.162.30.208,4,34,enhesa.com,BE,Europe,Western Europe,Belgium,,,
-83.217.74.250,4,19,enola.be,BE,Europe,Western Europe,Belgium,,,
-35.210.24.39,4,2,enotecaemiliaromagna.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-77.241.81.230,4,7,envoker.com,BE,Europe,Western Europe,Belgium,,,
-176.62.169.193,4,-10,eortc.org,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-83.217.75.117,4,37,equibel.be,BE,Europe,Western Europe,Belgium,,,
-83.217.83.241,4,4,erasmusprijs.org,BE,Europe,Western Europe,Belgium,,,
-79.99.200.80,4,-31,erg.be,BE,Europe,Western Europe,Belgium,,,
-5.134.7.19,4,-2,escovloeren.nl,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-79.99.200.90,4,-32,esperanto.be,BE,Europe,Western Europe,Belgium,,,
-176.62.173.83,4,10,essenscia.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-188.208.36.136,4,29,etcetera-records.com,BE,Europe,Western Europe,Belgium,,,
-5.134.6.182,4,25,etno.eu,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-185.35.173.139,4,80,etopia.be,BE,Europe,Western Europe,Belgium,,,
-83.217.75.78,4,16,etrma.org,BE,Europe,Western Europe,Belgium,,,
-188.208.36.243,4,15,eua.eu,BE,Europe,Western Europe,Belgium,,,
-193.104.37.135,4,167,eubusinessinjapan.eu,BE,Europe,Western Europe,Belgium,,,
-83.217.70.165,4,3,eufactcheck.eu,BE,Europe,Western Europe,Belgium,,,
-185.175.196.64,4,19,eufh.de,BE,Europe,Western Europe,Belgium,,,
-185.162.31.188,4,11,eura-relocation.com,BE,Europe,Western Europe,Belgium,,,
-193.104.37.123,4,7,eureau.org,BE,Europe,Western Europe,Belgium,,,
-193.105.73.17,4,8,eurima.org,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-176.62.173.210,4,7,eurocarers.org,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-83.217.78.146,4,3,eurodressage.com,BE,Europe,Western Europe,Belgium,,,
-83.217.71.105,4,5,euromex.com,BE,Europe,Western Europe,Belgium,,,
-185.175.196.49,4,5,europace.de,BE,Europe,Western Europe,Belgium,,,
-176.62.169.209,4,-22,europanostra.org,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-83.217.75.77,4,26,europur.org,BE,Europe,Western Europe,Belgium,,,
-5.134.5.28,4,28,eurosif.org,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-77.241.85.37,4,18,evensfoundation.be,BE,Europe,Western Europe,Belgium,,,
-185.86.18.109,4,9,excent.eu,BE,Europe,Western Europe,Belgium,,,
-185.18.9.220,4,7,exo-terra.com,BE,Europe,Western Europe,Belgium,,,
-104.155.79.4,4,4,experimenta.es,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-77.241.81.105,4,10,fabiusopleidingen.nl,BE,Europe,Western Europe,Belgium,,,
-5.134.7.106,4,9,familienaam.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-83.217.71.202,4,7,fantasticman.com,BE,Europe,Western Europe,Belgium,,,
-130.211.108.23,4,42,farmindustria.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-23.41.178.24,4,15,fatturapa.gov.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.86.18.196,4,29,feani.org,BE,Europe,Western Europe,Belgium,,,
-188.65.218.47,4,47,feantsa.org,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Theux
-176.62.170.39,4,18,fecava.org,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-193.105.133.231,4,43,fedasil.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.3.217.140,4,49,federaalombudsman.be,BE,Europe,Western Europe,Belgium,,,
-185.162.30.82,4,11,fedustria.be,BE,Europe,Western Europe,Belgium,,,
-35.241.232.240,4,28,feinschmecker.de,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-35.233.102.1,4,12,felixbruns.de,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-77.241.81.223,4,9,fem-eur.com,BE,Europe,Western Europe,Belgium,,,
-34.79.186.25,4,15,fenixforinteriors.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+185.35.173.140,4,11,ecolo.be,BE,Europe,Western Europe,Belgium,,,
+212.71.8.129,4,-8,edpnet.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+212.71.0.128,4,1,edpnet.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+212.71.8.128,4,-68,edpnet.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+212.71.0.129,4,-65,edpnet.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+185.4.132.128,4,13,efepae.gr,BE,Europe,Western Europe,Belgium,,,
+109.68.161.56,4,-34,effectsdatabase.com,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+194.32.153.86,4,11,emnbelgium.be,BE,Europe,Western Europe,Belgium,,,
+34.78.142.248,4,-11,enaco.fr,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+79.99.200.80,4,-51,erg.be,BE,Europe,Western Europe,Belgium,,,
+79.99.200.90,4,-66,esperanto.be,BE,Europe,Western Europe,Belgium,,,
+194.32.154.42,4,0,essen.be,BE,Europe,Western Europe,Belgium,,,
+185.35.173.139,4,-46,etopia.be,BE,Europe,Western Europe,Belgium,,,
+193.190.199.75,4,32,etudierenhainaut.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+193.104.37.135,4,0,eu-japan.eu,BE,Europe,Western Europe,Belgium,,,
+193.104.37.123,4,-35,eureau.org,BE,Europe,Western Europe,Belgium,,,
+193.105.73.17,4,8,eurima.org,BE,Europe,Western Europe,Belgium,,,
+83.217.78.146,4,-1,eurodressage.com,BE,Europe,Western Europe,Belgium,,,
+79.99.201.139,4,9,eurovia.org,BE,Europe,Western Europe,Belgium,,,
+87.238.167.119,4,-2,evavzw.be,BE,Europe,Western Europe,Belgium,,,
+194.32.155.83,4,-20,ewi-vlaanderen.be,BE,Europe,Western Europe,Belgium,,,
+185.99.48.223,4,-1061776,exalto.be,BE,Europe,Western Europe,Belgium,Wallonia,Hainaut Province,Montigny-le-Tilleul
+104.155.79.4,4,-40,experimenta.es,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+130.211.108.23,4,-8,farmindustria.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+185.3.217.43,4,-9,fdfa.be,BE,Europe,Western Europe,Belgium,,,
+193.105.133.231,4,0,fedasil.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+34.76.148.16,4,-7,feinschmecker.de,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+35.233.102.1,4,-6,felixbruns.de,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+34.79.186.25,4,-10,fenixforinteriors.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 130.211.108.121,4,7,ferrarelle.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 91.223.195.107,4,5,fevia.be,BE,Europe,Western Europe,Belgium,,,
-193.105.133.244,4,13,fgtb.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-79.99.201.139,4,-22,fian.be,BE,Europe,Western Europe,Belgium,,,
-176.62.173.218,4,37,fiatcoupeclub.org,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-176.62.173.219,4,46,fibreguard.com,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-194.32.153.63,4,12,fibremood.com,BE,Europe,Western Europe,Belgium,,,
-176.62.167.116,4,51,filipdujardin.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-176.62.173.114,4,56,filmmusiccritics.org,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-188.93.85.83,4,15699,financite.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Anderlecht
-23.41.178.88,4,4,finanze.gov.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-23.41.178.83,4,29,finanze.gov.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-2.17.107.129,4,13,flanders.be,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Diegem
-88.221.83.194,4,4,flanders.be,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Diegem
-37.148.180.124,4,4,flexmail.eu,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Wortel
-5.134.7.0,4,-2,florealgroup.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-176.62.168.227,4,-31,fluorocarbons.org,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-83.217.70.110,4,4,foiredelibramont.com,BE,Europe,Western Europe,Belgium,,,
-83.217.83.141,4,6,fokuswonen.nl,BE,Europe,Western Europe,Belgium,,,
-77.241.81.50,4,8,folia.nl,BE,Europe,Western Europe,Belgium,,,
-35.205.210.93,4,43,fondationberger.ch,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-188.65.220.25,4,2809922,foo.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Theux
-77.241.81.135,4,20,fort-eben-emael.be,BE,Europe,Western Europe,Belgium,,,
-31.22.22.140,4,3,fosdem.org,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Zaventem
-176.62.173.211,4,7,fotostulens.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-35.195.138.199,4,19,fracarro.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.82.227,4,6,fransbauer.nl,BE,Europe,Western Europe,Belgium,,,
-5.134.4.193,4,-2,fransmasereelcentrum.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+193.105.133.244,4,-4,fgtb.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+93.94.105.124,4,-7,flandersimage.com,BE,Europe,Western Europe,Belgium,,,
+37.148.180.124,4,-9,flexmail.be,BE,Europe,Western Europe,Belgium,,,
+34.38.83.193,4,3,flyslm.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+35.205.210.93,4,0,fondationberger.ch,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+188.65.220.25,4,590773,foo.be,BE,Europe,Western Europe,Belgium,,,
+31.22.22.140,4,-2,fosdem.org,BE,Europe,Western Europe,Belgium,,,
+35.195.138.199,4,2,fracarro.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 35.187.121.218,4,50,freelove.hu,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-188.208.36.104,4,37,frieslandlease.nl,BE,Europe,Western Europe,Belgium,,,
-5.134.5.200,4,16,frietmuseum.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
 139.165.57.26,4,3,fsagx.ac.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
-34.78.242.167,4,4,fuam.es,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-109.69.218.88,4,5,fuelseurope.eu,BE,Europe,Western Europe,Belgium,,,
-23.41.178.121,4,68,funzionepubblica.gov.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-23.41.178.58,4,77,funzionepubblica.gov.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-23.41.178.35,4,48,funzionepubblica.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.162.30.232,4,20,fuse.be,BE,Europe,Western Europe,Belgium,,,
-185.162.31.9,4,8,futurelab.net,BE,Europe,Western Europe,Belgium,,,
-23.41.178.114,4,11,g7italy.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-193.58.112.106,4,32,gabi-journal.net,BE,Europe,Western Europe,Belgium,Flanders,Limburg Province,Hasselt
-5.134.4.194,4,10,gaia.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-194.32.154.6,4,6,galloromeinsmuseum.be,BE,Europe,Western Europe,Belgium,,,
+34.78.242.167,4,-2,fuam.es,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+109.69.218.88,4,70,fuelseurope.eu,BE,Europe,Western Europe,Belgium,,,
+194.32.155.211,4,-1,fun.be,BE,Europe,Western Europe,Belgium,,,
+193.58.112.106,4,32,gabi-journal.net,BE,Europe,Western Europe,Belgium,,,
+193.58.112.152,4,-10,gabionline.net,BE,Europe,Western Europe,Belgium,,,
+194.32.154.6,4,13,galloromeinsmuseum.be,BE,Europe,Western Europe,Belgium,,,
 35.195.243.76,4,6,ganaenergia.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-88.221.83.251,4,6,gap.co.uk,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Diegem
-2.17.107.112,4,17,gap.co.uk,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Diegem
-185.175.196.32,4,113,gesellschaft-kultur-geschichte.de,BE,Europe,Western Europe,Belgium,,,
-5.134.4.199,4,64,gesi.org,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-188.208.36.192,4,24,gezond.be,BE,Europe,Western Europe,Belgium,,,
-185.162.30.139,4,17,gezondleven.be,BE,Europe,Western Europe,Belgium,,,
-83.217.71.10,4,6,ggdzw.nl,BE,Europe,Western Europe,Belgium,,,
-5.134.6.219,4,4,gie.eu,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-193.70.70.60,4,51,gigago.nl,BE,Europe,Western Europe,Belgium,,,
-5.134.7.119,4,33,giignl.org,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-77.241.85.174,4,15,glamourista.nl,BE,Europe,Western Europe,Belgium,,,
-34.76.139.90,4,25,glistatigenerali.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-188.208.36.166,4,19,globalfashionagenda.com,BE,Europe,Western Europe,Belgium,,,
-139.165.160.20,4,4,gmsh.info,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
-5.134.4.124,4,3,goedgezind.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-35.205.218.250,4,28,gonvarri.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.70.72.105,4,4,goodplanet.be,BE,Europe,Western Europe,Belgium,,,
-83.217.71.109,4,12,gorcumsmuseum.nl,BE,Europe,Western Europe,Belgium,,,
-5.134.7.124,4,19,gottmer.nl,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-23.41.178.67,4,3,governo.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-23.41.178.41,4,3,governo.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-2.17.196.112,4,38,grandvision.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-2.17.196.59,4,-5,grandvision.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-194.32.153.4,4,23,graspop.be,BE,Europe,Western Europe,Belgium,,,
-83.217.81.68,4,9,gratis.nl,BE,Europe,Western Europe,Belgium,,,
-5.134.5.198,4,9,gratiscursus.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-79.174.131.185,4,28,gratisrijbewijsonline.be,BE,Europe,Western Europe,Belgium,,,
-83.217.80.31,4,40,gratissoftware.nu,BE,Europe,Western Europe,Belgium,,,
+193.110.252.79,4,17,geraardsbergen.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Nieuwkerken-Waas
+193.70.70.60,4,1,gigago.nl,BE,Europe,Western Europe,Belgium,,,
+139.165.160.20,4,-15,gmsh.info,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Awans
+185.138.41.101,4,-29,gnest.org,BE,Europe,Western Europe,Belgium,,,
+80.67.181.142,4,11,gnuragist.es,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+185.70.72.105,4,-3,goodplanet.be,BE,Europe,Western Europe,Belgium,,,
+194.32.153.4,4,-6,graspop.be,BE,Europe,Western Europe,Belgium,,,
 35.187.110.250,4,10,greatercambridge.org.uk,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-77.241.81.43,4,7,greencreatives.nl,BE,Europe,Western Europe,Belgium,,,
-35.210.174.134,4,-1,greenfield.xyz,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.162.31.155,4,19,greenncap.com,BE,Europe,Western Europe,Belgium,,,
-185.175.196.51,4,50,grillkameraden.de,BE,Europe,Western Europe,Belgium,,,
+35.210.174.134,4,178,greenfieldcapital.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 185.3.217.179,4,13,groenvanbijons.be,BE,Europe,Western Europe,Belgium,,,
-83.217.83.196,4,10,grootsgedrukt.nl,BE,Europe,Western Europe,Belgium,,,
-79.174.131.154,4,12,growfunding.be,BE,Europe,Western Europe,Belgium,,,
-104.155.78.92,4,10,guide-electricite-verte.fr,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-109.68.160.157,4,2,gwg.org,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Zaventem
+104.155.78.92,4,7,guide-electricite-verte.fr,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+109.68.160.157,4,15,gwg.org,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Zaventem
 178.208.36.107,4,4,gymfed.be,BE,Europe,Western Europe,Belgium,,,
-176.62.172.141,4,11,hallerbos.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-185.86.18.121,4,3,handelsbeurs.be,BE,Europe,Western Europe,Belgium,,,
-5.134.6.157,4,2,hangar.flights,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
 35.233.86.64,4,2,hansa.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+146.148.17.143,4,-27,haritamap.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 34.78.36.242,4,22,harmoniemusik.net,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.175.196.67,4,6,hartz4widerspruch.de,BE,Europe,Western Europe,Belgium,,,
-146.148.8.60,4,3,hazteoir.org,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+146.148.8.60,4,1,hazteoir.org,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 81.95.125.201,4,8,hdl-concept.be,BE,Europe,Western Europe,Belgium,Flanders,West Flanders Province,Bruges
-23.60.220.121,4,23,healthcare.gov,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.86.18.195,4,9,heartbeats.dk,BE,Europe,Western Europe,Belgium,,,
-83.217.82.112,4,6,heartmathbenelux.com,BE,Europe,Western Europe,Belgium,,,
 104.155.16.211,4,26,heideroosjes.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-217.21.184.251,4,4,helixconcept.com,BE,Europe,Western Europe,Belgium,,,
-5.134.7.117,4,19,helmutlotti.com,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-5.134.4.79,4,9,hertog-jan.com,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-176.62.173.143,4,7,hetanker.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-83.217.71.118,4,5,hetbruidsmeisje.nl,BE,Europe,Western Europe,Belgium,,,
-185.162.30.123,4,9,hetnieuweteamwerken.be,BE,Europe,Western Europe,Belgium,,,
-83.217.85.255,4,9,hetschip.nl,BE,Europe,Western Europe,Belgium,,,
-83.217.85.184,4,6,hivvereniging.nl,BE,Europe,Western Europe,Belgium,,,
-185.162.30.224,4,28,hobbyschuurtje-webwinkel.be,BE,Europe,Western Europe,Belgium,,,
-193.138.101.24,4,10,hockey.be,BE,Europe,Western Europe,Belgium,,,
-5.134.7.120,4,73,hofmandujardin.nl,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-176.62.172.29,4,6,hofvancleve.com,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-185.86.19.66,4,3,hogwarts.be,BE,Europe,Western Europe,Belgium,,,
-5.134.6.45,4,3,honda-engines-eu.com,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-217.21.184.250,4,7,hookedonwalls.com,BE,Europe,Western Europe,Belgium,,,
-185.86.18.191,4,17,hooverphonic.com,BE,Europe,Western Europe,Belgium,,,
-185.86.18.127,4,2,hotelarena.nl,BE,Europe,Western Europe,Belgium,,,
+185.35.173.46,4,-65,helora.be,BE,Europe,Western Europe,Belgium,,,
+34.77.148.105,4,-5,hescheck.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+194.32.155.113,4,15,hetpaleis.be,BE,Europe,Western Europe,Belgium,,,
+193.138.101.24,4,-24,hockey.be,BE,Europe,Western Europe,Belgium,,,
+194.28.98.217,4,-4,hofstede.it,BE,Europe,Western Europe,Belgium,,,
 193.30.110.124,4,17,hotelverlooy.be,BE,Europe,Western Europe,Belgium,,,
-185.175.196.56,4,9,hotorcool.org,BE,Europe,Western Europe,Belgium,,,
-188.65.217.218,4,12,houtopia.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Theux
-5.134.4.97,4,0,howest.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-83.217.85.194,4,20,hs-events.nl,BE,Europe,Western Europe,Belgium,,,
-188.208.36.224,4,12,huisarts.be,BE,Europe,Western Europe,Belgium,,,
-185.18.9.31,4,8,huisinabox.be,BE,Europe,Western Europe,Belgium,,,
-185.162.31.227,4,7,huismarseille.nl,BE,Europe,Western Europe,Belgium,,,
-83.217.71.68,4,4,humanistischecanon.nl,BE,Europe,Western Europe,Belgium,,,
-83.217.70.150,4,3,hutaccountants.nl,BE,Europe,Western Europe,Belgium,,,
-23.219.224.23,4,2,hvb.de,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-5.134.5.147,4,8,hzs.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-193.190.199.0,4,3,iad-arts.be,BE,Europe,Western Europe,Belgium,Wallonia,Hainaut Province,Mons
-176.62.165.131,4,14,iadllaw.org,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
+185.3.217.140,4,47,huldenberg.be,BE,Europe,Western Europe,Belgium,,,
+194.78.71.1,4,13,huy.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Schaarbeek
+193.190.199.0,4,3,iad-arts.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 185.2.55.150,4,13,ice.be,BE,Europe,Western Europe,Belgium,,,
-79.174.131.240,4,16,iddcconsortium.net,BE,Europe,Western Europe,Belgium,,,
-35.189.208.106,4,4,ideal4finance.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-34.76.3.31,4,31,idealshape.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-146.148.26.97,4,26,iebschool.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+35.189.208.106,4,-1,ideal4finance.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+34.76.3.31,4,-23,idealfit.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+146.148.26.97,4,-12,iebschool.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 79.99.201.113,4,-29,iew.be,BE,Europe,Western Europe,Belgium,,,
-193.105.133.152,4,-390642,ihecs.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-34.76.113.167,4,64,ikinoa.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.71.164,4,19,ilovehealth.nl,BE,Europe,Western Europe,Belgium,,,
-176.62.169.31,4,-9,ilovetechno.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-77.241.81.208,4,7,imk.nl,BE,Europe,Western Europe,Belgium,,,
+193.105.133.152,4,17,ihecs.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+193.58.172.150,4,10,iihe.ac.be,BE,Europe,Western Europe,Belgium,,,
+130.211.103.245,4,7,ilsaggiatore.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 185.3.216.185,4,9,immaterieelerfgoed.be,BE,Europe,Western Europe,Belgium,,,
+194.32.153.93,4,13,impermo.be,BE,Europe,Western Europe,Belgium,,,
+194.32.153.94,4,-3,impermo.be,BE,Europe,Western Europe,Belgium,,,
 35.187.61.35,4,13,incf.org,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.3.217.97,4,4,industriemuseum.be,BE,Europe,Western Europe,Belgium,,,
-37.72.162.40,4,407,indymedia.be,BE,Europe,Western Europe,Belgium,Flanders,West Flanders Province,Mesen
-34.78.25.61,4,35,inemotion.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-176.62.169.147,4,-6,inforegio.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-5.134.4.113,4,35,innotec.pro,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-83.217.86.222,4,89,integron.nl,BE,Europe,Western Europe,Belgium,,,
+185.3.217.11,4,-6,industriemuseum.be,BE,Europe,Western Europe,Belgium,,,
+34.78.25.61,4,43,inemotion.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+194.32.155.22,4,1,info-coronavirus.be,BE,Europe,Western Europe,Belgium,,,
+109.69.217.105,4,17,informaticien.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+185.3.217.205,4,-4,informazout.be,BE,Europe,Western Europe,Belgium,,,
 185.59.17.10,4,6,intellihome.be,BE,Europe,Western Europe,Belgium,,,
-35.210.84.103,4,68,interatletika.com.ua,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.162.31.95,4,41,interieurdesigner.be,BE,Europe,Western Europe,Belgium,,,
-46.16.240.100,4,3,intermarche.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
+46.16.240.100,4,4,intermarche.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
 195.244.175.26,4,35,international.brussels,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.67.74,4,16,internationalhealthpolicies.org,BE,Europe,Western Europe,Belgium,,,
 193.104.37.201,4,3,interpartners.info,BE,Europe,Western Europe,Belgium,,,
-185.40.71.26,4,3,interreg-fwvl.eu,BE,Europe,Western Europe,Belgium,,,
+185.40.71.26,4,37,interreg-fwvl.eu,BE,Europe,Western Europe,Belgium,,,
 185.3.217.176,4,9,introlution.be,BE,Europe,Western Europe,Belgium,,,
-185.162.30.114,4,39,iom-nederland.nl,BE,Europe,Western Europe,Belgium,,,
-77.241.81.88,4,48,ipcgroen.nl,BE,Europe,Western Europe,Belgium,,,
-176.62.173.9,4,10,ipisresearch.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-83.217.82.48,4,35,iq-leads.nl,BE,Europe,Western Europe,Belgium,,,
-193.190.137.158,4,76189,irceline.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Edegem
-79.174.131.210,4,17,isolatie-info.nl,BE,Europe,Western Europe,Belgium,,,
-23.41.178.129,4,2,istruzione.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-23.41.178.65,4,6,istruzione.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.70.27,4,5,itaa.be,BE,Europe,Western Europe,Belgium,,,
-23.41.178.42,4,6,italiadomani.gov.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-23.41.178.33,4,31,italiadomani.gov.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-5.134.5.184,4,21,itdaily.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-185.3.217.205,4,21,itg.be,BE,Europe,Western Europe,Belgium,,,
-193.105.133.60,4,5,itqi.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.175.196.10,4,3,jeversches-wochenblatt.de,BE,Europe,Western Europe,Belgium,,,
-2.17.107.130,4,5,jll.de,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Diegem
-104.155.6.62,4,-57,joaoapps.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+35.195.56.28,4,16,ipaas.io,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+62.193.192.12,4,3,iseclisboa.pt,BE,Europe,Western Europe,Belgium,,,
+193.105.133.60,4,-5,itqi.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+62.213.218.56,4,12,jep.be,BE,Europe,Western Europe,Belgium,,,
+193.105.73.103,4,7,jeu-argent.be,BE,Europe,Western Europe,Belgium,,,
+104.155.6.62,4,12,joaoapps.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 185.115.218.219,4,7,jobopromotions.nl,BE,Europe,Western Europe,Belgium,,,
-176.62.173.91,4,1,julieslifestyle.com,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-193.70.70.162,4,95,kaaitheater.be,BE,Europe,Western Europe,Belgium,,,
-5.134.7.35,4,0,kaap.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-77.241.81.93,4,5,karstententen.nl,BE,Europe,Western Europe,Belgium,,,
-185.86.19.163,4,22,kasteelduivenvoorde.nl,BE,Europe,Western Europe,Belgium,,,
-185.162.30.93,4,12,katoennatie.com,BE,Europe,Western Europe,Belgium,,,
-185.86.18.53,4,0,kazernedossin.eu,BE,Europe,Western Europe,Belgium,,,
-176.62.169.194,4,-31,kbdb.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-77.241.81.85,4,15,kellycaresse.nl,BE,Europe,Western Europe,Belgium,,,
-35.190.208.151,4,90,kenwoodworld.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-77.73.103.120,4,57,keylength.com,BE,Europe,Western Europe,Belgium,,,
-5.134.7.118,4,31,kikirpa.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+46.21.230.5,4,-27,jogoresponsavel.pt,BE,Europe,Western Europe,Belgium,,,
+194.32.155.74,4,1,jowireizen.be,BE,Europe,Western Europe,Belgium,,,
+193.70.70.162,4,-10,kaaitheater.be,BE,Europe,Western Europe,Belgium,,,
+193.105.133.125,4,6,kbr.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+35.190.208.151,4,-4,kenwoodworld.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+77.73.103.108,4,-1,keylength.com,BE,Europe,Western Europe,Belgium,,,
 91.206.251.5,4,-2,kimbols.be,BE,Europe,Western Europe,Belgium,,,
-104.155.34.176,4,14,kindlink.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-217.19.231.100,4,-17,klascement.net,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-5.134.4.119,4,8,klimaat.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-5.134.4.222,4,8,km.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-193.190.183.132,4,-39,kmska.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
-31.193.176.77,4,1072,knx-fr.com,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Herzele
-86.39.68.130,4,15,knx.org,BE,Europe,Western Europe,Belgium,,,
+104.155.34.176,4,0,kindlink.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+217.19.231.100,4,-11,klascement.net,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
+194.32.155.19,4,3,km.be,BE,Europe,Western Europe,Belgium,,,
+193.190.183.132,4,-30,kmska.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
+86.39.68.130,4,7,knx.org,BE,Europe,Western Europe,Belgium,Flanders,Limburg Province,Hasselt
 91.208.211.45,4,4,kobe.eu,BE,Europe,Western Europe,Belgium,,,
-185.3.216.200,4,96,komoptegenkanker.be,BE,Europe,Western Europe,Belgium,,,
-77.241.80.250,4,5,kookpunt.nl,BE,Europe,Western Europe,Belgium,,,
-83.217.75.244,4,23,koophuis.nl,BE,Europe,Western Europe,Belgium,,,
-83.217.71.36,4,34,koproductie.be,BE,Europe,Western Europe,Belgium,,,
-185.3.217.73,4,87,krcgenk.be,BE,Europe,Western Europe,Belgium,,,
-23.219.229.210,4,34,krisshop.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.86.60,4,47,krnwtr.nl,BE,Europe,Western Europe,Belgium,,,
+185.3.216.81,4,-1,komoptegenkanker.be,BE,Europe,Western Europe,Belgium,,,
+185.3.217.73,4,-41,krcgenk.be,BE,Europe,Western Europe,Belgium,,,
 130.211.65.204,4,13,kronoshop.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-176.62.173.1,4,15,kunstenfestivalwatou.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-176.62.170.227,4,-31,kvab.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-5.134.5.77,4,26,kvk.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-185.162.30.91,4,8,la-parisienne.net,BE,Europe,Western Europe,Belgium,,,
+34.78.98.246,4,-2,kutambua.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 35.241.161.107,4,3,langstetafel.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-23.41.178.75,4,-2,lcwaikiki.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-23.41.178.96,4,4,lcwaikiki.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-34.76.157.25,4,101,ledilettante.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.3.217.201,4,28,leefmilieu.brussels,BE,Europe,Western Europe,Belgium,,,
-83.217.80.46,4,20,legalitprofessionals.com,BE,Europe,Western Europe,Belgium,,,
-188.208.36.67,4,68,leglobal.law,BE,Europe,Western Europe,Belgium,,,
-85.119.185.211,4,629,leif.be,BE,Europe,Western Europe,Belgium,,,
-35.206.160.242,4,43,lemans-series.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-80.67.181.194,4,8,lemmy.cat,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.3.217.195,4,5,lensonline.be,BE,Europe,Western Europe,Belgium,,,
+34.76.123.174,4,-4,lanpobo.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+34.76.157.25,4,-14,ledilettante.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+185.3.217.201,4,36,leefmilieu.brussels,BE,Europe,Western Europe,Belgium,,,
+85.119.185.220,4,-2,leif.be,BE,Europe,Western Europe,Belgium,,,
+185.3.217.195,4,0,lensonline.be,BE,Europe,Western Europe,Belgium,,,
 104.155.29.71,4,67,leomessi.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-176.62.173.43,4,5,lesballetscdela.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-35.241.190.97,4,46,lesilespaulricard.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 35.195.111.32,4,3,lgr.co.uk,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.74.234,4,5,libenar.it,BE,Europe,Western Europe,Belgium,,,
-176.62.170.40,4,-30,liberiapastandpresent.org,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-185.86.18.129,4,10,liemerskunstwerk.nl,BE,Europe,Western Europe,Belgium,,,
-194.32.153.149,4,19,lier.be,BE,Europe,Western Europe,Belgium,,,
-83.217.70.126,4,9,lierse.com,BE,Europe,Western Europe,Belgium,,,
 35.210.254.78,4,3,life5.es,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.3.216.142,4,20,liftoff-game.com,BE,Europe,Western Europe,Belgium,,,
-185.162.30.185,4,11,lightingeurope.org,BE,Europe,Western Europe,Belgium,,,
-35.205.85.77,4,2,lilyofthevalley.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.115.217.240,4,45,lindemans.be,BE,Europe,Western Europe,Belgium,,,
-104.155.102.126,4,3,linkpizza.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+185.3.216.142,4,5,liftoff-game.com,BE,Europe,Western Europe,Belgium,,,
+35.205.85.77,4,-2,lilyofthevalley.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+34.78.150.230,4,26,linkpizza.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 185.19.180.43,4,-12,linux.be,BE,Europe,Western Europe,Belgium,,,
 35.233.77.222,4,65,liquidmaps.org,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.74.144,4,15,littlerestaurant.com,BE,Europe,Western Europe,Belgium,,,
-188.208.36.26,4,11,loc.nl,BE,Europe,Western Europe,Belgium,,,
-185.18.9.91,4,62,logres.nl,BE,Europe,Western Europe,Belgium,,,
-185.3.217.169,4,38,lokersefeesten.be,BE,Europe,Western Europe,Belgium,,,
-5.134.0.234,4,127,lostfrequencies.com,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-217.21.184.220,4,3,louisdepoortere.be,BE,Europe,Western Europe,Belgium,,,
-130.211.109.123,4,3,lovereading.co.uk,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-130.211.95.4,4,59,lovereading4kids.co.uk,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-193.104.37.35,4,5,lucnix.be,BE,Europe,Western Europe,Belgium,,,
-83.217.70.226,4,34,luieraanbiedingen.net,BE,Europe,Western Europe,Belgium,,,
+185.3.217.169,4,11,lokersefeesten.be,BE,Europe,Western Europe,Belgium,,,
+34.78.240.252,4,0,looki.de,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+193.104.37.35,4,4,lucnix.be,BE,Europe,Western Europe,Belgium,,,
 185.3.217.200,4,5,lvdgroup.com,BE,Europe,Western Europe,Belgium,,,
-176.62.168.54,4,-23,m2c2.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-5.134.6.177,4,11,mach4metal.com,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
 185.35.173.9,4,49,mactacgraphics.eu,BE,Europe,Western Europe,Belgium,,,
-176.62.169.46,4,-17,madshrimps.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-188.208.36.128,4,20,magister.nl,BE,Europe,Western Europe,Belgium,,,
-94.176.98.74,4,2,mailingplatform.be,BE,Europe,Western Europe,Belgium,,,
-5.134.6.59,4,2,mainsquarefestival.fr,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-77.241.81.28,4,62,maisondelabonnevie.nl,BE,Europe,Western Europe,Belgium,,,
-212.3.255.15,4,6,malrauxchambery.fr,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-79.174.131.26,4,16,maniera.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-23.55.96.226,4,48,manoramamax.com,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Diegem
-176.62.169.126,4,-34,manutti.com,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-83.217.82.190,4,53,mars-one.com,BE,Europe,Western Europe,Belgium,,,
-185.162.31.91,4,38,matexpo.com,BE,Europe,Western Europe,Belgium,,,
-34.140.164.15,4,29,mediately.co,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-91.223.195.168,4,2,mediclaim.be,BE,Europe,Western Europe,Belgium,,,
+94.176.98.74,4,-2,mailingplatform.be,BE,Europe,Western Europe,Belgium,,,
+35.187.105.52,4,-2,mariagefreres.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+188.65.218.103,4,-9,matele.be,BE,Europe,Western Europe,Belgium,,,
+62.193.192.49,4,-1,mediabyter.com,BE,Europe,Western Europe,Belgium,,,
 193.105.133.90,4,-304107,mediplanet.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.81.75,4,2,meerdangewenst.nl,BE,Europe,Western Europe,Belgium,,,
-185.3.217.43,4,8,merelbeke.be,BE,Europe,Western Europe,Belgium,,,
-104.199.17.15,4,34,merian.de,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-176.62.173.243,4,11,mettersinforma.it,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-87.238.167.13,4,3,mibuso.com,BE,Europe,Western Europe,Belgium,,,
-185.175.196.17,4,14,midrange.de,BE,Europe,Western Europe,Belgium,,,
-62.182.58.34,4,3,milow.com,BE,Europe,Western Europe,Belgium,Flanders,West Flanders Province,Koksijde
-185.175.196.19,4,7,mimi.io,BE,Europe,Western Europe,Belgium,,,
-23.41.178.112,4,3,mite.gov.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-23.41.178.120,4,3,mite.gov.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.3.216.160,4,8,mleuven.be,BE,Europe,Western Europe,Belgium,,,
-188.65.218.63,4,-13,mm.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Theux
-83.217.75.91,4,3,mobielvlaanderen.be,BE,Europe,Western Europe,Belgium,,,
-104.199.11.123,4,32,models1.co.uk,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-35.189.198.49,4,2,modelwerk.de,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+185.3.217.130,4,9,meemoo.be,BE,Europe,Western Europe,Belgium,,,
+212.166.22.82,4,0,mega.be,BE,Europe,Western Europe,Belgium,Wallonia,Namur Province,Floreffe
+35.233.48.196,4,-3,merian.de,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+35.195.0.65,4,-12,messagewhiz.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+104.199.11.123,4,20,metromodels.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+87.238.167.13,4,-1,mibuso.com,BE,Europe,Western Europe,Belgium,,,
+185.3.216.160,4,9,mleuven.be,BE,Europe,Western Europe,Belgium,,,
+35.189.198.49,4,0,modelwerk.de,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 185.3.217.3,4,32,modulyss.com,BE,Europe,Western Europe,Belgium,,,
+194.32.155.65,4,-1,molenheide.be,BE,Europe,Western Europe,Belgium,,,
 91.223.195.96,4,45,molenheide.be,BE,Europe,Western Europe,Belgium,,,
+193.104.37.171,4,-75,moliere.com,BE,Europe,Western Europe,Belgium,,,
 35.233.94.203,4,54,moncalorifugeagegratuit.fr,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+62.193.192.55,4,15,monstrafestival.com,BE,Europe,Western Europe,Belgium,,,
 35.195.25.97,4,5,morellato.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-77.241.90.193,4,58,mountainbike.be,BE,Europe,Western Europe,Belgium,,,
 5.253.205.142,4,5,mozipnine.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.35.173.123,4,5,mr-bricolage.be,BE,Europe,Western Europe,Belgium,,,
-5.134.4.101,4,4,mrdh.nl,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-77.241.81.151,4,32,msf-azg.be,BE,Europe,Western Europe,Belgium,,,
-185.175.196.104,4,93,mueckenatlas.com,BE,Europe,Western Europe,Belgium,,,
-5.134.7.158,4,29,muiderslot.nl,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-193.105.133.66,4,332,mundaneum.org,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+185.35.173.123,4,1,mr-bricolage.be,BE,Europe,Western Europe,Belgium,,,
+185.3.217.124,4,18,muntpunt.be,BE,Europe,Western Europe,Belgium,,,
 185.3.217.61,4,67,muntpunt.be,BE,Europe,Western Europe,Belgium,,,
-188.208.36.64,4,76,musica.be,BE,Europe,Western Europe,Belgium,,,
-79.99.200.54,4,-25,muziekpublique.be,BE,Europe,Western Europe,Belgium,,,
-83.217.70.157,4,34,myria.be,BE,Europe,Western Europe,Belgium,,,
-23.219.245.70,4,1,napapijri.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.3.216.182,4,4,naricvlaanderen.be,BE,Europe,Western Europe,Belgium,,,
+79.99.200.54,4,-35,muziekpublique.be,BE,Europe,Western Europe,Belgium,,,
 35.187.25.81,4,21,nashtackle.co.uk,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-5.134.5.23,4,85,natan.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-91.223.195.203,4,16,nationaalparkhogekempen.be,BE,Europe,Western Europe,Belgium,,,
-79.174.131.131,4,27,natotigers.org,BE,Europe,Western Europe,Belgium,,,
+91.223.195.203,4,3,nationaalparkhogekempen.be,BE,Europe,Western Europe,Belgium,,,
 35.205.115.169,4,8,navigine.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-77.241.81.82,4,19,nedap-healthcare.com,BE,Europe,Western Europe,Belgium,,,
-83.217.71.59,4,27,nedapidentification.com,BE,Europe,Western Europe,Belgium,,,
-83.217.74.129,4,43,neeflouis.nl,BE,Europe,Western Europe,Belgium,,,
-34.22.156.254,4,23,nepjol.info,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-34.79.76.195,4,4,netfonds.de,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.86.19.55,4,2,netonline.be,BE,Europe,Western Europe,Belgium,,,
-185.175.196.65,4,18,netzpalaver.de,BE,Europe,Western Europe,Belgium,,,
-35.205.253.151,4,3,newbusinessmedia.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+34.22.156.254,4,53,nepjol.info,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+34.79.76.195,4,6,netfonds.de,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+80.67.181.20,4,4,neutrinet.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 23.251.139.229,4,2,newfacebeauty.pl,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-5.134.4.201,4,0,ngi.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-5.134.7.8,4,15,nima.nl,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-194.32.153.99,4,3,nipro-group.com,BE,Europe,Western Europe,Belgium,,,
-5.134.4.156,4,8,nnieuws.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-130.211.103.245,4,42,nohup.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-5.134.6.40,4,13,noprofitonpandemic.eu,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-83.217.70.109,4,14,notp.com,BE,Europe,Western Europe,Belgium,,,
-83.217.71.214,4,5,np-zuidkennemerland.nl,BE,Europe,Western Europe,Belgium,,,
-83.217.71.69,4,11,npduinenvantexel.nl,BE,Europe,Western Europe,Belgium,,,
-185.3.217.21,4,21,nvao.net,BE,Europe,Western Europe,Belgium,,,
-77.241.81.194,4,6,nvva.nl,BE,Europe,Western Europe,Belgium,,,
-188.208.37.40,4,4,nysingh.nl,BE,Europe,Western Europe,Belgium,,,
-176.62.168.127,4,27,oascities.org,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-176.62.173.41,4,17,oceanclub.es,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-176.62.167.104,4,10,ocmw-info-cpas.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-104.155.4.137,4,13,odibets.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-192.158.28.131,4,20,odoo.sh,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-188.208.36.203,4,30,oerol.nl,BE,Europe,Western Europe,Belgium,,,
-5.134.5.10,4,6,ofrudgieri.com,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-185.175.196.41,4,5,ogulo.com,BE,Europe,Western Europe,Belgium,,,
-185.86.18.126,4,48,okra.be,BE,Europe,Western Europe,Belgium,,,
+217.21.190.142,4,38,nucleus.be,BE,Europe,Western Europe,Belgium,,,
+35.195.201.166,4,1,nufusu.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+185.3.217.21,4,32,nvao.net,BE,Europe,Western Europe,Belgium,,,
+192.158.28.131,4,-1,odoo.sh,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 87.238.165.150,4,42,oldtimerfarm.be,BE,Europe,Western Europe,Belgium,,,
-5.134.6.175,4,20,olmenhorst.nl,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-188.208.36.106,4,27,ombudsfin.be,BE,Europe,Western Europe,Belgium,,,
-35.210.64.187,4,4,omnis.net,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-77.241.85.78,4,30,onbeperktinbeweging.nl,BE,Europe,Western Europe,Belgium,,,
-35.233.1.77,4,69,onirix.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-194.32.155.18,4,55,ontwerpbureaudries.be,BE,Europe,Western Europe,Belgium,,,
-83.217.70.158,4,23,onzenatuur.be,BE,Europe,Western Europe,Belgium,,,
-217.21.190.116,4,289,Ookla Speedtest Server 5151: speedtest.combell.com,BE,Europe,Western Europe,Belgium,,,
-212.68.211.198,4,338,Ookla Speedtest Server 23320: speedtestnetgauge.voo.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-212.224.131.126,4,320,Ookla Speedtest Server 37840: speedtest02.orange.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-212.71.0.110,4,452,Ookla Speedtest Server 40400: speedtest.edpnet.net,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-212.68.211.203,4,235,Ookla Speedtest Server 45280: speedtestnetgauge2.voo.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-193.105.133.116,4,248,Ookla Speedtest Server 54889: speedtest.behostings.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-86.105.207.147,4,234,Ookla Speedtest Server 55097: speedtest.digi-belgium.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-91.223.195.25,4,358,Ookla Speedtest Server 56691: speedtest.level27.eu,BE,Europe,Western Europe,Belgium,,,
-185.135.191.0,4,319,Ookla Speedtest Server 61293: speedtest.smarteye.eu,BE,Europe,Western Europe,Belgium,,,
-188.66.8.10,4,34,Ookla Speedtest Server: speedtest.sewan.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Eynatten
-83.217.74.172,4,12,openchurches.eu,BE,Europe,Western Europe,Belgium,,,
+35.210.64.187,4,8,omnis.net,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+35.233.1.77,4,-16,onirix.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+185.3.217.2,4,-4,onlinefact.be,BE,Europe,Western Europe,Belgium,,,
+194.32.155.18,4,8,ontwerpbureaudries.be,BE,Europe,Western Europe,Belgium,,,
+217.21.190.116,4,-3,Ookla Speedtest Server 5151: speedtest.combell.com,BE,Europe,Western Europe,Belgium,,,
+185.4.132.50,4,78692,Ookla Speedtest Server 21326: speedtest.top.host,BE,Europe,Western Europe,Belgium,,,
+212.68.211.198,4,22,Ookla Speedtest Server 23320: speedtestnetgauge.voo.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Ixelles-Elsene
+212.224.131.122,4,219215,Ookla Speedtest Server 30594: speedtest01.orange.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+212.224.131.126,4,7,Ookla Speedtest Server 37840: speedtest02.orange.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+212.71.0.110,4,-67,Ookla Speedtest Server 40400: speedtest.edpnet.net,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+212.68.211.203,4,-66,Ookla Speedtest Server 45280: speedtestnetgauge2.voo.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Ixelles-Elsene
+185.21.134.1,4,-3,Ookla Speedtest Server 45320: speedtest.1ago.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Dendermonde
+193.105.133.116,4,-13,Ookla Speedtest Server 54889: speedtest.behostings.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+91.223.195.25,4,0,Ookla Speedtest Server 56691: speedtest.level27.eu,BE,Europe,Western Europe,Belgium,,,
+212.71.8.110,4,2,Ookla Speedtest Server 59333: speedtest2.edpnet.net,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+188.66.8.10,4,1,Ookla Speedtest Server 61249: speedtest.sewan.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Raeren
+185.135.191.211,4,-2,Ookla Speedtest Server 61293: speedtest.smarteye.eu,BE,Europe,Western Europe,Belgium,,,
+139.165.57.92,4,0,openjustice.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
 188.118.22.249,4,30,openpowerfoundation.org,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-176.62.165.57,4,2,oplossing.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-185.175.196.96,4,77,optimerch.de,BE,Europe,Western Europe,Belgium,,,
-176.62.165.102,4,41,optometrie.nl,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-83.217.84.221,4,5,opzij.nl,BE,Europe,Western Europe,Belgium,,,
-23.251.140.7,4,11,oras.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-35.195.208.232,4,4,orchestredeparis.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.162.31.218,4,60,orgalim.eu,BE,Europe,Western Europe,Belgium,,,
-176.62.173.241,4,24,orocos.org,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-188.208.36.246,4,15,orpheusinstituut.be,BE,Europe,Western Europe,Belgium,,,
-188.208.36.65,4,4,osteopathie.eu,BE,Europe,Western Europe,Belgium,,,
-91.183.89.111,4,27,overbyte.be,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Aarschot
-185.86.19.47,4,56,paleissoestdijk.nl,BE,Europe,Western Europe,Belgium,,,
-5.134.6.150,4,7,palmsens.com,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-77.241.85.181,4,38,paranix.eu,BE,Europe,Western Europe,Belgium,,,
-185.162.31.228,4,31,parkingcentrumoosterdok.nl,BE,Europe,Western Europe,Belgium,,,
-193.105.133.50,4,339,pass.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.70.133,4,27,passaporta.be,BE,Europe,Western Europe,Belgium,,,
-83.217.82.254,4,5,patientenfederatie.nl,BE,Europe,Western Europe,Belgium,,,
-23.14.90.73,4,47,peacocktv.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-23.14.90.89,4,22,peacocktv.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.71.159,4,31,perdu.nl,BE,Europe,Western Europe,Belgium,,,
-194.32.154.40,4,39,persinfo.org,BE,Europe,Western Europe,Belgium,,,
-23.60.222.235,4,21,personal-finance.bnpparibas,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-176.62.165.178,4,7,petitsriens.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-5.134.7.203,4,11,pharma.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-176.62.172.252,4,58,pianc.org,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-2.17.197.129,4,8,pingodoce.pt,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-2.17.197.74,4,17,pingodoce.pt,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+23.251.140.7,4,-12,oras.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+194.32.155.114,4,7,orbix.be,BE,Europe,Western Europe,Belgium,,,
+194.32.153.106,4,8,osteopathie.be,BE,Europe,Western Europe,Belgium,,,
+91.183.89.111,4,33,overbyte.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+193.105.133.50,4,40810,pass.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+194.32.154.40,4,16,persinfo.org,BE,Europe,Western Europe,Belgium,,,
 185.35.172.242,4,44,pipsa.be,BE,Europe,Western Europe,Belgium,,,
-83.217.71.223,4,39,plaatsengids.nl,BE,Europe,Western Europe,Belgium,,,
-31.22.22.8,4,22,playable.nl,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Zaventem
+31.22.22.8,4,22,playable.nl,BE,Europe,Western Europe,Belgium,,,
+176.62.171.220,4,17,plopsaindoorcoevorden.nl,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
 185.70.72.101,4,5,plutonicdesire.net,BE,Europe,Western Europe,Belgium,,,
-77.241.85.22,4,4,pmeb.eu,BE,Europe,Western Europe,Belgium,,,
-185.86.18.122,4,10,pmv.eu,BE,Europe,Western Europe,Belgium,,,
-185.3.217.88,4,21,poetsbureau.be,BE,Europe,Western Europe,Belgium,,,
-5.134.4.24,4,13,poeziecentrum.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-5.134.4.100,4,29,pointerpro.com,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-79.174.131.39,4,47,poisoncentre.be,BE,Europe,Western Europe,Belgium,,,
-5.134.6.52,4,36,polisnetwork.eu,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-185.21.134.2,4,26,politeia.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Dendermonde
-185.3.217.80,4,11,pomwvl.be,BE,Europe,Western Europe,Belgium,,,
-194.14.255.80,4,6,portugalworldcupjersey.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.71.64,4,3,pouwvervoer.nl,BE,Europe,Western Europe,Belgium,,,
-185.175.196.24,4,22,predigtstuhlbahn.de,BE,Europe,Western Europe,Belgium,,,
-104.155.42.107,4,55,premiermodelmanagement.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-34.140.167.18,4,52,prestiaecomande.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-109.68.161.190,4,66,prevent.be,BE,Europe,Western Europe,Belgium,,,
-212.3.255.46,4,65,pride.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+185.3.217.80,4,17,pomwvl.be,BE,Europe,Western Europe,Belgium,,,
+194.14.255.80,4,4,portugalworldcupjersey.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+104.155.42.107,4,4,premiermodelmanagement.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+109.68.161.190,4,1,prevent.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
 35.233.50.242,4,35,primolevi.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-188.208.36.245,4,74,princeclausfund.org,BE,Europe,Western Europe,Belgium,,,
-62.182.60.78,4,81,priorweb.be,BE,Europe,Western Europe,Belgium,Flanders,West Flanders Province,Koksijde
-185.175.196.26,4,45,pro-fsj.de,BE,Europe,Western Europe,Belgium,,,
-34.78.240.252,4,11,prosiebengames.de,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-188.65.219.43,4,17,psychologies.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Theux
-5.134.4.28,4,47,publiq.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-185.3.216.93,4,21,pukkelpop.be,BE,Europe,Western Europe,Belgium,,,
-5.134.7.185,4,15,pure-original.com,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-83.217.83.198,4,8,putoline.com,BE,Europe,Western Europe,Belgium,,,
-79.174.131.11,4,21,puurconfituur.be,BE,Europe,Western Europe,Belgium,,,
+194.32.155.115,4,3,princeclausfund.org,BE,Europe,Western Europe,Belgium,,,
+62.182.60.78,4,9,priorweb.be,BE,Europe,Western Europe,Belgium,,,
+185.35.173.8,4,36,publier-un-livre.com,BE,Europe,Western Europe,Belgium,,,
+185.3.216.97,4,6,pukkelpop.be,BE,Europe,Western Europe,Belgium,,,
+185.3.216.104,4,8,pukkelpop.be,BE,Europe,Western Europe,Belgium,,,
+35.205.165.4,4,7,pxasc.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 151.101.9.55,4,5,qliro.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 185.192.44.31,4,5,qntsport.com,BE,Europe,Western Europe,Belgium,,,
-83.217.82.103,4,47,raamoprusland.nl,BE,Europe,Western Europe,Belgium,,,
+35.233.76.36,4,4,quanzhidaojia.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 80.67.181.235,4,68,radiocampus.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-176.62.169.238,4,97,radiocentraal.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-95.182.221.226,4,118,radios-collector.com,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Verviers
-151.101.10.133,4,5,raiders.com.au,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-79.99.200.3,4,-21,rainbowhouse.be,BE,Europe,Western Europe,Belgium,,,
-176.62.170.73,4,2,ravago.com,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-79.99.200.71,4,-27,rbdh-bbrow.be,BE,Europe,Western Europe,Belgium,,,
+151.101.10.133,4,10,raiders.com.au,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+79.99.200.3,4,-34,rainbowhouse.be,BE,Europe,Western Europe,Belgium,,,
+79.99.200.71,4,19,rbdh-bbrow.be,BE,Europe,Western Europe,Belgium,,,
 193.41.233.36,4,37,realdolmen.com,BE,Europe,Western Europe,Belgium,,,
-83.217.70.36,4,13,rechtnet.nl,BE,Europe,Western Europe,Belgium,,,
-83.217.73.21,4,48,recticel.com,BE,Europe,Western Europe,Belgium,,,
-5.134.5.47,4,47,redactie24.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-35.195.9.20,4,18,redtiger.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-34.77.111.84,4,54,regional.de,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-207.211.214.145,4,16,rei.network,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+83.217.73.21,4,41,recticel.com,BE,Europe,Western Europe,Belgium,,,
+188.93.158.50,4,-5,reddice.be,BE,Europe,Western Europe,Belgium,,,
+34.77.111.84,4,8,regional.de,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 51.255.19.221,4,24,reiskiezer.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.175.196.3,4,9,renosan-sanierung.de,BE,Europe,Western Europe,Belgium,,,
-176.62.168.141,4,-22,renovate-europe.eu,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-77.241.81.202,4,17,rescoop.eu,BE,Europe,Western Europe,Belgium,,,
-109.69.218.102,4,52,responsibledrinking.eu,BE,Europe,Western Europe,Belgium,,,
+109.69.218.102,4,3,responsibledrinking.eu,BE,Europe,Western Europe,Belgium,,,
 104.199.75.112,4,3,restaurantvermeer.nl,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-212.3.255.54,4,522,resto.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 35.205.181.182,4,15,reteclima.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-79.99.203.53,4,-10,revuenouvelle.be,BE,Europe,Western Europe,Belgium,,,
-184.24.101.252,4,12,rh.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.3.217.145,4,16,riho.com,BE,Europe,Western Europe,Belgium,,,
-5.134.7.229,4,9,river-cleanup.org,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-185.86.19.59,4,5,rnews.be,BE,Europe,Western Europe,Belgium,,,
-194.32.153.67,4,46,robinson.be,BE,Europe,Western Europe,Belgium,,,
-35.241.251.223,4,45,rockit.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-194.32.153.14,4,30,ronse.be,BE,Europe,Western Europe,Belgium,,,
+79.99.203.53,4,-24,revuenouvelle.be,BE,Europe,Western Europe,Belgium,,,
+185.3.217.145,4,6,riho.com,BE,Europe,Western Europe,Belgium,,,
+194.32.153.67,4,14,robinson.be,BE,Europe,Western Europe,Belgium,,,
+35.241.251.223,4,2,rockit.it,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+194.32.154.29,4,29,rockwerchter.be,BE,Europe,Western Europe,Belgium,,,
+194.32.154.34,4,6,rockwerchter.be,BE,Europe,Western Europe,Belgium,,,
+194.32.153.14,4,0,ronse.be,BE,Europe,Western Europe,Belgium,,,
 35.240.6.86,4,49,roomcloud.net,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.70.234,4,13,roompotbusiness.nl,BE,Europe,Western Europe,Belgium,,,
-185.86.19.44,4,15,roompotrealestate.nl,BE,Europe,Western Europe,Belgium,,,
-83.217.84.247,4,61,roomservice.nl,BE,Europe,Western Europe,Belgium,,,
-5.134.4.133,4,34,ropsten.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-194.32.153.52,4,46,routen.be,BE,Europe,Western Europe,Belgium,,,
-184.24.102.199,4,42,royalfloraholland.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.40.71.17,4,47,rtc.be,BE,Europe,Western Europe,Belgium,,,
-5.134.5.43,4,37,rubiomonocoat.com,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-79.99.203.51,4,-31,russelltribunalonpalestine.com,BE,Europe,Western Europe,Belgium,,,
-185.175.196.43,4,25,sacavoyage.fr,BE,Europe,Western Europe,Belgium,,,
-35.240.64.62,4,19,sala-apolo.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-188.208.37.15,4,26,samenhuizen.be,BE,Europe,Western Europe,Belgium,,,
-77.73.99.73,4,13,sampol.be,BE,Europe,Western Europe,Belgium,,,
-77.241.81.121,4,11,sanderusmaps.com,BE,Europe,Western Europe,Belgium,,,
-176.62.173.90,4,6,sanicole.com,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-185.86.18.70,4,5,sanisale.com,BE,Europe,Western Europe,Belgium,,,
-83.217.85.32,4,33,saunavanegmond.nl,BE,Europe,Western Europe,Belgium,,,
-194.32.153.18,4,6,sbb.be,BE,Europe,Western Europe,Belgium,,,
+185.40.71.17,4,13,rtc.be,BE,Europe,Western Europe,Belgium,,,
+79.99.203.51,4,-25,russelltribunalonpalestine.com,BE,Europe,Western Europe,Belgium,,,
+35.240.64.62,4,4,sala-apolo.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+193.190.253.124,4,62,satbeams.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Laken
 35.195.147.199,4,3,sbsmobile.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-5.134.7.30,4,6,sccm.nl,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-217.21.184.210,4,3,scheerzone.nl,BE,Europe,Western Europe,Belgium,,,
-83.217.71.184,4,101,schipperkozijnen.nl,BE,Europe,Western Europe,Belgium,,,
-185.86.18.116,4,24,scientificadvice.eu,BE,Europe,Western Europe,Belgium,,,
-194.32.155.21,4,2,sckcen.be,BE,Europe,Western Europe,Belgium,,,
-77.241.81.187,4,5,sclera.be,BE,Europe,Western Europe,Belgium,,,
-176.62.169.48,4,-32,scriptiebank.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-176.62.170.5,4,-33,sdds.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
+194.32.155.21,4,14,sckcen.be,BE,Europe,Western Europe,Belgium,,,
 35.205.16.227,4,11,sectornolimits.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-34.140.37.23,4,5,seedtag.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.35.173.173,4,5,semaille.com,BE,Europe,Western Europe,Belgium,,,
-83.217.83.93,4,18,sensoor.nl,BE,Europe,Western Europe,Belgium,,,
-176.62.167.214,4,47,sensualbusiness.com,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-5.134.4.211,4,26,sentiance.com,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-185.18.9.155,4,22,seobureau.be,BE,Europe,Western Europe,Belgium,,,
-185.175.196.18,4,11,seokratie.de,BE,Europe,Western Europe,Belgium,,,
-185.162.31.131,4,35,serv.be,BE,Europe,Western Europe,Belgium,,,
-34.140.120.104,4,3,seza.ne,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.82.141,4,26,sieboldhuis.org,BE,Europe,Western Europe,Belgium,,,
-23.219.226.174,4,53,silverscript.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-5.134.4.191,4,10,sintbaafskathedraal.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-188.208.36.229,4,32,sioen.com,BE,Europe,Western Europe,Belgium,,,
-185.86.18.162,4,6,sitedish.nl,BE,Europe,Western Europe,Belgium,,,
-5.134.6.53,4,18,skal.nl,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-194.32.154.3,4,39,skepp.be,BE,Europe,Western Europe,Belgium,,,
-188.208.36.111,4,19,slotenmaken.be,BE,Europe,Western Europe,Belgium,,,
-5.134.4.205,4,11,smappee.com,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-188.208.36.165,4,29,smarteye.se,BE,Europe,Western Europe,Belgium,,,
-188.208.36.20,4,6,smeunited.eu,BE,Europe,Western Europe,Belgium,,,
+185.35.173.173,4,-44,semaille.com,BE,Europe,Western Europe,Belgium,,,
+34.140.120.104,4,8,seza.ne,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+194.32.154.3,4,6,skepp.be,BE,Europe,Western Europe,Belgium,,,
+34.14.53.191,4,-25,skyalps.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+185.35.173.114,4,-33,smurf.com,BE,Europe,Western Europe,Belgium,,,
 193.104.37.61,4,39,smurf.com,BE,Europe,Western Europe,Belgium,,,
-83.217.70.227,4,2,sneakerbaron.nl,BE,Europe,Western Europe,Belgium,,,
-79.99.203.25,4,15,socialistsanddemocrats.eu,BE,Europe,Western Europe,Belgium,,,
-5.134.4.77,4,44,soloya.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-83.217.82.77,4,98,spant.org,BE,Europe,Western Europe,Belgium,,,
-83.217.82.80,4,20,spantcongrescentrum.nl,BE,Europe,Western Europe,Belgium,,,
-34.76.150.33,4,97,sparc-robotics-portal.eu,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-5.134.7.18,4,83,speelgoedmuseum.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-109.69.218.59,4,5,spirits.eu,BE,Europe,Western Europe,Belgium,,,
-83.217.70.11,4,3,splendoramsterdam.com,BE,Europe,Western Europe,Belgium,,,
-77.241.85.250,4,5,sportoase.be,BE,Europe,Western Europe,Belgium,,,
-185.175.196.34,4,51,sprachheld.de,BE,Europe,Western Europe,Belgium,,,
-185.175.196.72,4,51,sprengnetter.de,BE,Europe,Western Europe,Belgium,,,
-185.162.30.51,4,11,spyshopbreda.nl,BE,Europe,Western Europe,Belgium,,,
+79.99.203.25,4,-31,socialistsanddemocrats.eu,BE,Europe,Western Europe,Belgium,,,
+38.180.87.227,4,19,sovereignty.net,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+34.76.150.33,4,7,sparc-robotics-portal.eu,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+87.238.165.158,4,-12,spelensite.be,BE,Europe,Western Europe,Belgium,,,
+109.69.218.59,4,-2,spirits.eu,BE,Europe,Western Europe,Belgium,,,
 79.99.200.79,4,-25,srfood.org,BE,Europe,Western Europe,Belgium,,,
-5.134.7.121,4,27,staantribune.nl,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-83.217.86.213,4,51,stadennatuur.nl,BE,Europe,Western Europe,Belgium,,,
 188.93.84.89,4,49,stalvanheiste.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Anderlecht
-188.208.36.239,4,4,stamgent.be,BE,Europe,Western Europe,Belgium,,,
-176.62.170.38,4,32,standaarduitgeverij.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-83.217.67.96,4,34,startpagina.be,BE,Europe,Western Europe,Belgium,,,
-185.162.30.138,4,22,statik.be,BE,Europe,Western Europe,Belgium,,,
-104.155.87.170,4,2,statistics.gov.scot,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-104.199.95.133,4,5,statoperator.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+83.217.67.96,4,4,startpagina.be,BE,Europe,Western Europe,Belgium,,,
+217.21.190.139,4,-5,static-rmg.be,BE,Europe,Western Europe,Belgium,,,
+104.155.87.170,4,-24,statistics.gov.scot,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 185.3.217.209,4,65,stedelijkonderwijs.be,BE,Europe,Western Europe,Belgium,,,
-83.217.82.138,4,12,steungroep.nl,BE,Europe,Western Europe,Belgium,,,
-185.175.196.25,4,43,stevanpaul.de,BE,Europe,Western Europe,Belgium,,,
-185.162.30.39,4,9,stevenvanbelleghem.com,BE,Europe,Western Europe,Belgium,,,
-35.205.160.141,4,7,stjohnscocathedral.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-188.208.36.207,4,153,stow-group.com,BE,Europe,Western Europe,Belgium,,,
-77.241.81.174,4,43,strasbourgobservers.com,BE,Europe,Western Europe,Belgium,,,
-83.217.70.84,4,4,streamovations.be,BE,Europe,Western Europe,Belgium,,,
-185.162.31.33,4,30,streekproduct.be,BE,Europe,Western Europe,Belgium,,,
-185.162.31.17,4,53,streetvanners.be,BE,Europe,Western Europe,Belgium,,,
-83.217.75.108,4,5,stripspeciaalzaak.be,BE,Europe,Western Europe,Belgium,,,
+35.205.160.141,4,17,stjohnscocathedral.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+185.59.17.113,4,43,stripinfo.be,BE,Europe,Western Europe,Belgium,,,
 34.34.171.37,4,16,stroyzone.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.3.217.155,4,8,studio100.com,BE,Europe,Western Europe,Belgium,,,
-185.3.217.156,4,70,studio100.com,BE,Europe,Western Europe,Belgium,,,
-83.217.71.2,4,12,studioalphen.nl,BE,Europe,Western Europe,Belgium,,,
-77.241.81.222,4,37,studiokaagenbraassem.nl,BE,Europe,Western Europe,Belgium,,,
-185.175.196.8,4,8,studium-ratgeber.de,BE,Europe,Western Europe,Belgium,,,
-83.217.74.137,4,61,studyinbelgium.be,BE,Europe,Western Europe,Belgium,,,
-185.162.30.122,4,7,studyinflanders.be,BE,Europe,Western Europe,Belgium,,,
-185.162.31.10,4,40,stuk.be,BE,Europe,Western Europe,Belgium,,,
-176.62.173.25,4,19,suitupnow.nl,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-185.175.196.27,4,49,supermarktblog.com,BE,Europe,Western Europe,Belgium,,,
-79.174.131.56,4,13,surfplaza.be,BE,Europe,Western Europe,Belgium,,,
-83.217.75.76,4,26,sustainableworldports.org,BE,Europe,Western Europe,Belgium,,,
-185.179.91.65,4,26550,sweetslyrics.com,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-79.174.131.118,4,4,swing.be,BE,Europe,Western Europe,Belgium,,,
+185.3.217.155,4,16,studio100.com,BE,Europe,Western Europe,Belgium,,,
+185.3.217.156,4,-9,studio100.com,BE,Europe,Western Europe,Belgium,,,
+141.138.64.26,4,13,supergame.be,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Tielt-Winge
+185.179.91.65,4,26550,sweetslyrics.com,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
 83.217.73.22,4,9,swissflex.com,BE,Europe,Western Europe,Belgium,,,
-34.76.180.229,4,4,swiy.io,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-5.134.4.220,4,3,syntra-mvl.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-185.58.96.99,4,1811,syntra.be,BE,Europe,Western Europe,Belgium,,,
+34.76.180.229,4,10,swiy.co,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+185.58.96.99,4,2847,syntra.be,BE,Europe,Western Europe,Belgium,,,
 34.77.209.26,4,3,tabakalera.eus,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.71.53,4,11,tahwa.nl,BE,Europe,Western Europe,Belgium,,,
-193.105.133.124,4,2,taste-institute.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.86.18.24,4,7,taxinaarzaventem.be,BE,Europe,Western Europe,Belgium,,,
+193.105.133.66,4,40787,takaneo.lu,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+193.105.133.124,4,19,taste-institute.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 35.187.115.88,4,9,teachertrainingvideos.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 185.3.217.37,4,86,technoclassica.de,BE,Europe,Western Europe,Belgium,,,
-185.162.31.49,4,58,technopolis.be,BE,Europe,Western Europe,Belgium,,,
-77.241.81.10,4,29,tegenkanker.nl,BE,Europe,Western Europe,Belgium,,,
-185.3.217.128,4,45,tegova.org,BE,Europe,Western Europe,Belgium,,,
-188.208.36.237,4,22,teknasaddlery.com,BE,Europe,Western Europe,Belgium,,,
-5.134.7.9,4,9,tele-onthaal.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-188.208.37.32,4,104,tentrotterdam.nl,BE,Europe,Western Europe,Belgium,,,
-2.18.50.207,4,29,tesla.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-213.246.236.82,4,7,test-aankoop.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-35.241.187.126,4,2,theatrealaferme.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-5.134.4.157,4,4,thebulletin.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-83.217.74.122,4,66,thechocolateline.be,BE,Europe,Western Europe,Belgium,,,
+62.193.192.23,4,17,tecsport.pt,BE,Europe,Western Europe,Belgium,,,
+185.3.217.128,4,16,tegova.org,BE,Europe,Western Europe,Belgium,,,
+213.246.236.82,4,25,test-achats.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+35.205.121.126,4,13,thavornbeachvillage.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 35.241.175.120,4,1736706,thefix.media,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-77.241.85.95,4,75,thehaguesecuritydelta.com,BE,Europe,Western Europe,Belgium,,,
-176.62.169.208,4,13,theinternetofthings.eu,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-185.162.31.41,4,75,themediabay.be,BE,Europe,Western Europe,Belgium,,,
-185.175.196.35,4,1,theoutdoor.show,BE,Europe,Western Europe,Belgium,,,
-5.134.7.228,4,111,thepack.news,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-176.62.170.9,4,-30,thermesdespa.com,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-185.175.196.48,4,6,thesmarthomejourney.com,BE,Europe,Western Europe,Belgium,,,
-83.217.71.168,4,8,thevillagecoffee.nl,BE,Europe,Western Europe,Belgium,,,
+185.210.217.38,4,13,thelordzgamesstudio.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 35.233.21.204,4,17,theyachtweek.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-130.211.105.223,4,36,thisistap.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+35.187.170.180,4,-9,thunderkick.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 34.79.210.240,4,60,thunderkick.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-130.211.105.193,4,32,tiekinetix.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.74.241,4,11,tiensesuikerraffinaderij.com,BE,Europe,Western Europe,Belgium,,,
-185.175.196.42,4,9,tiere-online.de,BE,Europe,Western Europe,Belgium,,,
-23.219.231.102,4,39,timberland.co.uk,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.83.8,4,4,timension.nl,BE,Europe,Western Europe,Belgium,,,
-188.208.36.96,4,2,tjekdet.dk,BE,Europe,Western Europe,Belgium,,,
-83.217.75.242,4,4,tjep.com,BE,Europe,Western Europe,Belgium,,,
-83.217.71.103,4,7,tlcbv.nl,BE,Europe,Western Europe,Belgium,,,
-176.62.167.68,4,6,togethermag.eu,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-77.241.81.108,4,10,tolkienlibrary.com,BE,Europe,Western Europe,Belgium,,,
-176.62.173.194,4,7,toneelhuis.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-83.217.83.25,4,4,tongtongfair.nl,BE,Europe,Western Europe,Belgium,,,
-77.241.81.99,4,19,topinterieur.be,BE,Europe,Western Europe,Belgium,,,
-83.217.82.235,4,26,toportho.nl,BE,Europe,Western Europe,Belgium,,,
-83.217.71.183,4,13,totalcareparking.com,BE,Europe,Western Europe,Belgium,,,
-83.217.74.115,4,16,totalezorgwinkel.nl,BE,Europe,Western Europe,Belgium,,,
-188.208.36.82,4,44,tour-taxis.com,BE,Europe,Western Europe,Belgium,,,
-185.86.19.56,4,37,tovz.be,BE,Europe,Western Europe,Belgium,,,
-91.223.195.40,4,5,toychamp.nl,BE,Europe,Western Europe,Belgium,,,
+130.211.105.193,4,12,tiekinetix.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+46.21.230.4,4,10,tnsj.pt,BE,Europe,Western Europe,Belgium,,,
+109.69.217.210,4,11,toone.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+193.110.252.84,4,39,torhout.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Nieuwkerken-Waas
+185.192.44.52,4,13,totemus.com,BE,Europe,Western Europe,Belgium,,,
+194.32.155.210,4,19,toychamp.nl,BE,Europe,Western Europe,Belgium,,,
 185.3.217.101,4,25,tractebel-engie.com,BE,Europe,Western Europe,Belgium,,,
-5.134.5.5,4,15,tragewegen.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-104.155.32.197,4,30,transformify.org,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-5.134.4.110,4,16,transgenderinfo.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-5.134.6.153,4,14,trappistwestmalle.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-83.217.77.105,4,13,trappistwestvleteren.be,BE,Europe,Western Europe,Belgium,,,
-176.62.173.45,4,44,travelingintuscany.com,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-185.3.216.14,4,13,traxio.be,BE,Europe,Western Europe,Belgium,,,
-185.175.196.89,4,22,tri-mag.de,BE,Europe,Western Europe,Belgium,,,
-79.99.200.30,4,-8,tricoterie.be,BE,Europe,Western Europe,Belgium,,,
-185.86.18.194,4,14,triennalebrugge.be,BE,Europe,Western Europe,Belgium,,,
-62.3.50.67,4,0,trifinite.org,BE,Europe,Western Europe,Belgium,,,
-5.134.7.198,4,13,trip.nl,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+104.155.32.197,4,4,transformify.org,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+83.217.77.105,4,-7,trappistwestvleteren.be,BE,Europe,Western Europe,Belgium,,,
+79.99.200.30,4,58,tricoterie.be,BE,Europe,Western Europe,Belgium,,,
+91.223.195.42,4,11,trixonline.be,BE,Europe,Western Europe,Belgium,,,
 91.223.195.47,4,38,trixonline.be,BE,Europe,Western Europe,Belgium,,,
+213.155.143.212,4,-19,turbosms.ua,BE,Europe,Western Europe,Belgium,,,
+194.32.155.140,4,14,turnhout.be,BE,Europe,Western Europe,Belgium,,,
 34.77.9.106,4,2,tv7.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.40.71.18,4,13,tvlux.be,BE,Europe,Western Europe,Belgium,,,
-185.18.148.23,4,5,tvvisie.be,BE,Europe,Western Europe,Belgium,Flanders,West Flanders Province,Oostkamp
-194.32.154.34,4,11,twclassic.be,BE,Europe,Western Europe,Belgium,,,
-194.32.154.29,4,12,twclassic.be,BE,Europe,Western Europe,Belgium,,,
-217.21.190.146,4,11,twipecloud.net,BE,Europe,Western Europe,Belgium,,,
-176.62.168.150,4,-31,ucamco.com,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-188.208.36.103,4,5,ucsyd.dk,BE,Europe,Western Europe,Belgium,,,
-83.217.71.210,4,16,ugenda.nl,BE,Europe,Western Europe,Belgium,,,
-188.208.37.18,4,5,uitgeverijvrijdag.be,BE,Europe,Western Europe,Belgium,,,
-83.217.70.19,4,6,uitinapeldoorn.nl,BE,Europe,Western Europe,Belgium,,,
-139.165.51.107,4,2,uliege.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
-83.217.70.28,4,18,unia.be,BE,Europe,Western Europe,Belgium,,,
-188.208.36.160,4,11,unifly.aero,BE,Europe,Western Europe,Belgium,,,
-88.221.83.192,4,10,unigro.be,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Diegem
-2.17.107.122,4,3,unigro.be,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Diegem
-185.162.31.83,4,17,united-mutations.com,BE,Europe,Western Europe,Belgium,,,
-77.241.81.26,4,34,universitairemasters.nl,BE,Europe,Western Europe,Belgium,,,
-185.175.196.74,4,8,universum-bremen.de,BE,Europe,Western Europe,Belgium,,,
-83.217.86.58,4,31,upstream.nl,BE,Europe,Western Europe,Belgium,,,
-83.217.75.3,4,6,urgent.fm,BE,Europe,Western Europe,Belgium,,,
-5.134.4.197,4,5,ursi.org,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-185.18.9.13,4,5,used-digital-printers.com,BE,Europe,Western Europe,Belgium,,,
-193.105.133.20,4,4,utick.net,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-188.208.36.5,4,4,utiq.com,BE,Europe,Western Europe,Belgium,,,
-5.134.7.37,4,7,uusikielemme.fi,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-194.32.154.51,4,18,uzgent.be,BE,Europe,Western Europe,Belgium,,,
-188.208.37.0,4,9,vad.be,BE,Europe,Western Europe,Belgium,,,
-188.208.36.4,4,17,vai.be,BE,Europe,Western Europe,Belgium,,,
-188.208.36.240,4,6,vanassche-fire.be,BE,Europe,Western Europe,Belgium,,,
-83.217.71.178,4,3,vancromvoirt.nl,BE,Europe,Western Europe,Belgium,,,
-185.3.217.90,4,2,vandersanden.com,BE,Europe,Western Europe,Belgium,,,
-77.241.85.234,4,19,vanhonsebrouck.be,BE,Europe,Western Europe,Belgium,,,
-23.219.224.146,4,3,vans.ca,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-77.241.81.25,4,10,vanvlietauto.nl,BE,Europe,Western Europe,Belgium,,,
-83.217.78.190,4,11,vasco.eu,BE,Europe,Western Europe,Belgium,,,
-62.213.219.53,4,8,vbo-feb.be,BE,Europe,Western Europe,Belgium,,,
-188.65.218.77,4,11,vedia.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Theux
-77.241.81.229,4,9,vega-life.nl,BE,Europe,Western Europe,Belgium,,,
-87.238.167.119,4,38,vegetarisme.be,BE,Europe,Western Europe,Belgium,,,
-176.62.165.58,4,14,veggiedeli.nl,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-188.208.37.1,4,10,veluwe.nl,BE,Europe,Western Europe,Belgium,,,
-176.62.169.33,4,-29,vennbahn.eu,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-77.241.85.85,4,12,verbekefoundation.com,BE,Europe,Western Europe,Belgium,,,
+185.40.71.18,4,30,tvlux.be,BE,Europe,Western Europe,Belgium,,,
+185.18.148.23,4,-10,tvvisie.be,BE,Europe,Western Europe,Belgium,Flanders,West Flanders Province,Oostkamp
+217.21.190.146,4,18,twipecloud.net,BE,Europe,Western Europe,Belgium,,,
+139.165.51.107,4,24,ulg.ac.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
+34.77.181.145,4,9,uneheurepoursoi.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+109.68.160.247,4,10,unix-solutions.be,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Zaventem
+193.105.133.20,4,21,utick.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+83.217.76.86,4,9,uu.nl,BE,Europe,Western Europe,Belgium,,,
+194.32.154.51,4,23,uzgent.be,BE,Europe,Western Europe,Belgium,,,
+185.83.228.45,4,15,valktraiteurliege.be,BE,Europe,Western Europe,Belgium,,,
+185.3.217.90,4,14,vandersanden.com,BE,Europe,Western Europe,Belgium,,,
+83.217.78.190,4,12,vasco.eu,BE,Europe,Western Europe,Belgium,,,
+194.32.155.176,4,10,vbo-feb.be,BE,Europe,Western Europe,Belgium,,,
+188.65.218.77,4,30,vedia.be,BE,Europe,Western Europe,Belgium,,,
 77.73.101.252,4,25,verbiest.info,BE,Europe,Western Europe,Belgium,,,
 34.34.179.12,4,18,verificat.cat,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-77.241.81.96,4,20,verpakkingshop.nl,BE,Europe,Western Europe,Belgium,,,
-35.205.71.81,4,8,versum.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.86.18.57,4,15,versuz.be,BE,Europe,Western Europe,Belgium,,,
-185.162.30.99,4,18,verwarminginfo.nl,BE,Europe,Western Europe,Belgium,,,
-188.208.37.33,4,17,verwijsgidskanker.nl,BE,Europe,Western Europe,Belgium,,,
-185.3.217.177,4,11,veurne.be,BE,Europe,Western Europe,Belgium,,,
-5.134.6.114,4,16,viapass.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-194.32.153.22,4,7,viata.nl,BE,Europe,Western Europe,Belgium,,,
-194.32.153.158,4,14,vib.be,BE,Europe,Western Europe,Belgium,,,
+185.3.217.177,4,15,veurne.be,BE,Europe,Western Europe,Belgium,,,
+194.32.153.59,4,9,vgd.eu,BE,Europe,Western Europe,Belgium,,,
+79.99.201.169,4,-28,viacampesina.org,BE,Europe,Western Europe,Belgium,,,
+193.105.133.179,4,9,viapass.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+194.32.153.22,4,11,viata.be,BE,Europe,Western Europe,Belgium,,,
+194.32.153.12,4,14,vib.be,BE,Europe,Western Europe,Belgium,,,
+185.3.216.63,4,4,vibconferences.be,BE,Europe,Western Europe,Belgium,,,
 185.3.216.4,4,4,vibconferences.be,BE,Europe,Western Europe,Belgium,,,
-185.175.196.0,4,46,video.taxi,BE,Europe,Western Europe,Belgium,,,
-83.217.71.11,4,8,villamondriaan.nl,BE,Europe,Western Europe,Belgium,,,
-194.32.153.106,4,30,vilt.be,BE,Europe,Western Europe,Belgium,,,
-185.162.31.124,4,11,vincentvanduysen.com,BE,Europe,Western Europe,Belgium,,,
-83.217.71.119,4,88,visbureau.nl,BE,Europe,Western Europe,Belgium,,,
+104.199.41.243,4,13,videocontent.es,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+194.32.155.3,4,9,vilt.be,BE,Europe,Western Europe,Belgium,,,
+193.110.252.82,4,37,vilvoorde.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Nieuwkerken-Waas
+34.52.160.75,4,20,visionect.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 104.155.0.249,4,3,visionect.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 194.32.154.7,4,5,visitbruges.be,BE,Europe,Western Europe,Belgium,,,
-194.32.153.51,4,10,visithasselt.be,BE,Europe,Western Europe,Belgium,,,
-77.241.85.46,4,50,visitheerde.com,BE,Europe,Western Europe,Belgium,,,
-178.208.52.47,4,1,visitleuven.be,BE,Europe,Western Europe,Belgium,,,
-104.155.63.28,4,8,visitturku.fi,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.71.204,4,3,visrecepten.nl,BE,Europe,Western Europe,Belgium,,,
-188.208.36.225,4,3,vitamine-info.nl,BE,Europe,Western Europe,Belgium,,,
-185.18.9.56,4,16,vivakoffie.nl,BE,Europe,Western Europe,Belgium,,,
-185.35.173.39,4,48,vivaweek.com,BE,Europe,Western Europe,Belgium,,,
-217.19.224.29,4,53,vlaamsbelang.org,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-5.134.4.40,4,53,vlaamsbouwmeester.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-5.134.7.202,4,51,vlaamsekunstcollectie.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+194.32.153.51,4,7,visithasselt.be,BE,Europe,Western Europe,Belgium,,,
+178.208.52.47,4,4,visitleuven.be,BE,Europe,Western Europe,Belgium,,,
+194.32.153.149,4,29,visitlier.be,BE,Europe,Western Europe,Belgium,,,
+185.4.134.37,4,8,visitmeteora.travel,BE,Europe,Western Europe,Belgium,,,
+104.155.63.28,4,18,visitturku.fi,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+194.32.153.52,4,17,visitvlaamseardennen.be,BE,Europe,Western Europe,Belgium,,,
+185.35.173.39,4,-15,vivaweek.com,BE,Europe,Western Europe,Belgium,,,
+217.19.224.29,4,25,vlaamsbelang.org,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+194.32.155.79,4,26,vlaamsewaterweg.be,BE,Europe,Western Europe,Belgium,,,
 185.3.217.48,4,23,vlaamsewaterweg.be,BE,Europe,Western Europe,Belgium,,,
-5.134.7.196,4,94,vlaanderen-circulair.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
+91.208.211.50,4,18,vlaamspatientenplatform.be,BE,Europe,Western Europe,Belgium,,,
 194.32.154.36,4,16,vlaco.be,BE,Europe,Western Europe,Belgium,,,
-83.217.74.150,4,3,vliruos.be,BE,Europe,Western Europe,Belgium,,,
-104.199.41.243,4,27,vmsabogados.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-176.62.173.88,4,82,vnz.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-5.134.4.42,4,109,voetbal24.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-91.208.211.50,4,4,voicesofculture.eu,BE,Europe,Western Europe,Belgium,,,
-83.217.81.58,4,7,voltachem.com,BE,Europe,Western Europe,Belgium,,,
-176.62.170.91,4,19,vosesoftware.com,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-188.208.36.204,4,15,voys.nl,BE,Europe,Western Europe,Belgium,,,
-188.208.36.98,4,16,vpt.dk,BE,Europe,Western Europe,Belgium,,,
-176.62.170.152,4,19,vrede.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-77.241.85.69,4,10,vrijclb.be,BE,Europe,Western Europe,Belgium,,,
-217.21.190.139,4,3,vt4.be,BE,Europe,Western Europe,Belgium,,,
-23.216.248.199,4,1,vueling.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.3.216.106,4,10,vvbad.be,BE,Europe,Western Europe,Belgium,,,
+194.32.155.8,4,7,vliruos.be,BE,Europe,Western Europe,Belgium,,,
+194.165.51.27,4,10,vnz.be,BE,Europe,Western Europe,Belgium,,,
+185.3.217.189,4,26,vvkp.be,BE,Europe,Western Europe,Belgium,,,
 194.32.153.33,4,5,vvkp.be,BE,Europe,Western Europe,Belgium,,,
+194.32.155.227,4,6,vvob.org,BE,Europe,Western Europe,Belgium,,,
 185.3.216.78,4,36,vvob.org,BE,Europe,Western Europe,Belgium,,,
-77.241.81.215,4,22,vvs.be,BE,Europe,Western Europe,Belgium,,,
 185.18.148.240,4,3,waasland-beveren.be,BE,Europe,Western Europe,Belgium,Flanders,West Flanders Province,Oostkamp
-188.65.218.25,4,11,wallonia.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Theux
-5.134.7.159,4,5,wanadoo.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-104.155.80.220,4,5,wantedinrome.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-86.39.64.73,4,5,waste-of.space,BE,Europe,Western Europe,Belgium,,,
-185.175.196.88,4,11,wave-network.org,BE,Europe,Western Europe,Belgium,,,
-217.21.190.241,4,4,weba.be,BE,Europe,Western Europe,Belgium,,,
-176.62.165.33,4,15,weblounge.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-185.3.216.236,4,4,wegcode.be,BE,Europe,Western Europe,Belgium,,,
+104.155.80.220,4,6,wantedinmilan.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+86.39.64.73,4,5,waste-of.space,BE,Europe,Western Europe,Belgium,Flanders,Limburg Province,Hasselt
+217.19.228.12,4,8,weba.be,BE,Europe,Western Europe,Belgium,,,
+185.3.216.236,4,5,wegcode.be,BE,Europe,Western Europe,Belgium,,,
 87.238.165.96,4,2,wegwijzer.be,BE,Europe,Western Europe,Belgium,,,
-188.208.36.21,4,3,werkenbijaccres.nl,BE,Europe,Western Europe,Belgium,,,
-77.241.81.47,4,8,westerkerk.nl,BE,Europe,Western Europe,Belgium,,,
-185.3.216.70,4,4,westerlo.be,BE,Europe,Western Europe,Belgium,,,
-185.3.217.115,4,5,westtoer.be,BE,Europe,Western Europe,Belgium,,,
-185.18.9.109,4,9,weu.int,BE,Europe,Western Europe,Belgium,,,
+185.3.216.70,4,8,westerlo.be,BE,Europe,Western Europe,Belgium,,,
+185.3.217.115,4,14,westtoer.be,BE,Europe,Western Europe,Belgium,,,
+193.110.252.76,4,31,wetteren.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Nieuwkerken-Waas
 185.3.217.57,4,3,whatscooking.group,BE,Europe,Western Europe,Belgium,,,
-77.241.81.14,4,5,whatsonweibo.com,BE,Europe,Western Europe,Belgium,,,
-185.175.196.1,4,4,wintergarten-berlin.de,BE,Europe,Western Europe,Belgium,,,
-5.134.4.103,4,8,wonenbijseptember.nl,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-77.241.81.40,4,4,woonmallalexandrium.nl,BE,Europe,Western Europe,Belgium,,,
-5.134.7.230,4,13,worlddayofremembrance.org,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-185.175.196.16,4,2,wp-ninjas.de,BE,Europe,Western Europe,Belgium,,,
-185.86.18.128,4,4,wrij.nl,BE,Europe,Western Europe,Belgium,,,
-5.134.5.26,4,8,xeikon.com,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-176.62.170.226,4,-33,xior.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-38.180.18.203,4,115,xn--d1algbhbbogc9m.xn--p1ai,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-217.19.237.54,4,281,xpats.com,BE,Europe,Western Europe,Belgium,,,
-188.208.36.70,4,5,xr4all.eu,BE,Europe,Western Europe,Belgium,,,
-104.155.31.75,4,2,yalehome.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-83.217.82.187,4,3,yellowbrick.nl,BE,Europe,Western Europe,Belgium,,,
-83.217.75.231,4,22,youngworks.nl,BE,Europe,Western Europe,Belgium,,,
-35.195.219.245,4,12,yourgolftravel.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+185.3.216.14,4,10,wifi4eu.eu,BE,Europe,Western Europe,Belgium,,,
+34.140.210.56,4,3,yorkpass.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+35.195.254.234,4,2,youdge.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+35.195.219.245,4,18,yourgolftravel.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
 35.189.244.232,4,3,yourgolftravel.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-5.134.5.3,4,4,youthforum.org,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-77.241.85.244,4,11,yulius.nl,BE,Europe,Western Europe,Belgium,,,
-176.62.173.13,4,11,z33.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-35.187.68.255,4,32,zakonodaja.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
-185.3.217.35,4,4,zas.be,BE,Europe,Western Europe,Belgium,,,
-83.217.70.68,4,3,zeilen.nl,BE,Europe,Western Europe,Belgium,,,
-5.134.7.115,4,6,zelfmoord1813.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-5.134.5.13,4,10,zenrealestates.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-83.217.74.242,4,3,zhagastandard.org,BE,Europe,Western Europe,Belgium,,,
-176.62.167.177,4,2,zitacomics.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
-83.217.74.209,4,3,zitstil.be,BE,Europe,Western Europe,Belgium,,,
-91.223.195.2,4,10,zol.be,BE,Europe,Western Europe,Belgium,,,
-178.208.51.10,4,26,zonnepaneelprijzen.nl,BE,Europe,Western Europe,Belgium,,,
-185.86.18.59,4,24,zonnepanelen.net,BE,Europe,Western Europe,Belgium,,,
+35.187.68.255,4,7,zakonodaja.com,BE,Europe,Western Europe,Belgium,Brussels Capital,,Brussels
+185.3.216.106,4,4,zanzu.be,BE,Europe,Western Europe,Belgium,,,
+217.19.237.54,4,648,zas.be,BE,Europe,Western Europe,Belgium,,,
+91.223.195.2,4,-1,zol.be,BE,Europe,Western Europe,Belgium,,,
+193.110.252.85,4,31,zonhoven.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Nieuwkerken-Waas
+178.208.51.10,4,128,zonnepaneelprijzen.nl,BE,Europe,Western Europe,Belgium,,,
 185.3.217.207,4,7,zorg-en-gezondheid.be,BE,Europe,Western Europe,Belgium,,,
-185.86.18.125,4,13,zorginnovatie.nl,BE,Europe,Western Europe,Belgium,,,
-77.241.85.180,4,2,zorgprestatiemodel.nl,BE,Europe,Western Europe,Belgium,,,
-185.86.18.192,4,4,zuiderhuis.be,BE,Europe,Western Europe,Belgium,,,
-185.3.217.123,4,4,zwaneberg.be,BE,Europe,Western Europe,Belgium,,,
-83.217.75.230,4,6,zwartekat.nl,BE,Europe,Western Europe,Belgium,,,
-176.62.173.233,4,5,zythos.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders Province,Ghent
+185.3.217.123,4,-1,zwaneberg.be,BE,Europe,Western Europe,Belgium,,,

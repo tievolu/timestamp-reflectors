@@ -1,12 +1,38 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-1.0.135.153,4,-739653,DNS Server: node-1i1.pool-1-0.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
-1.0.136.199,4,-50954415,DNS Server: node-1qf.pool-1-0.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
-1.0.136.223,4,22476211,DNS Server: node-1r3.pool-1-0.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
-1.0.138.14,4,-25199571,DNS Server: node-1zi.pool-1-0.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
-1.0.138.73,4,125,DNS Server: node-215.pool-1-0.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
-1.0.138.130,4,64,DNS Server: node-22q.pool-1-0.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
-1.0.138.197,4,118,DNS Server: node-24l.pool-1-0.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
-1.0.141.173,4,46,DNS Server: node-2p9.pool-1-0.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
-159.192.100.166,4,-9,mv.ac.th,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Ko Chan
-58.82.167.9,4,13,ple.co.th,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Ban Talat Bueng
-159.138.228.219,4,22,samatcha.org,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Chon Buri
+203.150.37.10,4,2538,DNS Server: 203-150-37-10.inter.net.th,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+203.150.37.11,4,9303,DNS Server: 203-150-37-11.inter.net.th,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+113.53.53.106,4,48,DNS Server: node-aju.pool-113-53.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.194.52,4,120,DNS Server: node-d2s.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.194.133,4,-507,DNS Server: node-d51.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.194.135,4,320,DNS Server: node-d53.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.194.136,4,42,DNS Server: node-d54.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.194.141,4,61201699,DNS Server: node-d59.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.194.161,4,2774,DNS Server: node-d5t.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.195.10,4,147,DNS Server: node-d8q.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.195.40,4,228,DNS Server: node-d9k.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.195.110,4,49910,DNS Server: node-dbi.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.195.114,4,52087,DNS Server: node-dbm.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.195.131,4,6584,DNS Server: node-dc3.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.195.196,4,78,DNS Server: node-ddw.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.195.227,4,-14216,DNS Server: node-der.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.198.121,4,1079,DNS Server: node-dx5.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.198.128,4,13660,DNS Server: node-dxc.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.198.162,4,4,DNS Server: node-dya.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.198.210,4,16855897,DNS Server: node-dzm.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.198.218,4,24,DNS Server: node-dzu.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.198.223,4,3019,DNS Server: node-dzz.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.198.229,4,80221,DNS Server: node-e05.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.198.239,4,9,DNS Server: node-e0f.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.198.246,4,79252,DNS Server: node-e0m.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.198.253,4,5,DNS Server: node-e0t.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.201.11,4,639,DNS Server: node-eff.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.203.251,4,-1786106994,DNS Server: node-f0b.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.205.232,4,84754,DNS Server: node-fe0.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+1.4.207.249,4,17053,DNS Server: node-fsp.pool-1-4.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+182.52.98.137,4,68352,DNS Server: node-jgp.pool-182-52.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+182.52.104.2,4,18,DNS Server: node-kjm.pool-182-52.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+182.52.104.55,4,7787,DNS Server: node-kl3.pool-182-52.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+203.150.88.9,4,-12,forbesthailand.com,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+203.150.29.208,4,468,js100.com,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Pattaya
+27.55.63.202,4,3,Ookla Speedtest Server 16517: truemoveookla-cbr.trueinternet.co.th,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Chon Buri
+203.144.190.237,4,29,Ookla Speedtest Server 37242: spd-cbr.scms-tech.co.th,TH,Asia,South-eastern Asia,Thailand,Chon Buri,,Chon Buri

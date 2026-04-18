@@ -1,3 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-78.157.255.2,4,36,iks.ru,RU,Europe,Eastern Europe,Russian Federation,Kamchatka,,Petropavlovsk-Kamchatsky
-78.157.252.10,4,62,Ookla Speedtest Server 17526: speed.kamtv.ru,RU,Europe,Eastern Europe,Russian Federation,Kamchatka,,Petropavlovsk-Kamchatsky
+77.82.220.82,4,464,DNS Server: pppoe77-82-220-82.kamchatka.ru,RU,Europe,Eastern Europe,Russian Federation,Kamchatka,,Petropavlovsk-Kamchatsky
+77.82.227.32,4,692,DNS Server: pppoe77-82-227-32.kamchatka.ru,RU,Europe,Eastern Europe,Russian Federation,Kamchatka,,Petropavlovsk-Kamchatsky
+78.157.226.213,4,28,DNS Server: sktv-78.157.226.213.kamtv.ru,RU,Europe,Eastern Europe,Russian Federation,Kamchatka,,Petropavlovsk-Kamchatsky

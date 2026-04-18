@@ -1,9 +1,13 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-92.101.120.14,4,4477,DNS Server: ip-014-120-101-92.pools.atnet.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
-92.101.121.44,4,1126,DNS Server: ip-044-121-101-92.pools.atnet.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
-92.101.121.75,4,3909,DNS Server: ip-075-121-101-92.pools.atnet.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
-92.101.95.217,4,9559,DNS Server: ip-217-095-101-092.static.atnet.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
-92.101.120.233,4,95,DNS Server: ip-233-120-101-92.pools.atnet.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
-95.54.197.73,4,358894,DNS Server: ip.95-54-197-73.dslavangard.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
-95.54.194.2,4,91,masu.edu.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
-92.101.72.41,4,-652,wdfiles.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
+91.122.210.7,4,48602073,DNS Server: ip-007-210-122-091.static.atnet.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
+92.101.120.14,4,72572,DNS Server: ip-014-120-101-92.pools.atnet.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
+91.122.213.47,4,2330,DNS Server: ip-047-213-122-091.static.atnet.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
+91.122.208.52,4,-20024,DNS Server: ip-052-208-122-091.static.atnet.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
+91.122.213.95,4,4,DNS Server: ip-095-213-122-091.static.atnet.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
+91.122.212.158,4,47504100,DNS Server: ip-158-212-122-091.static.atnet.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
+91.122.216.160,4,-2,DNS Server: ip-160-216-122-091.static.atnet.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
+92.101.95.217,4,13170,DNS Server: ip-217-095-101-092.static.atnet.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
+92.101.120.233,4,44267470,DNS Server: ip-233-120-101-92.pools.atnet.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
+62.192.235.251,4,1,nsmu.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
+45.132.50.29,4,5,pirogovclinic.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
+45.132.50.121,4,-14,shopkarat.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk

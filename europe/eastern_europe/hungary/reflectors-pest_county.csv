@@ -1,19 +1,32 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-82.141.138.41,4,6154,abplusz.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Fót
-80.249.169.78,4,6,balassiintezet.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Pilisborosjenő
-78.131.12.126,4,-94763,DNS Server: 78-131-12-126.static.digikabel.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Sződliget
-78.131.12.155,4,47898,DNS Server: 78-131-12-155.static.digikabel.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Sződliget
-134.255.116.18,4,164,DNS Server: 86FF7412.dsl.pool.telekom.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Cegléd
-94.21.243.229,4,2119,DNS Server: 94-21-243-229.static.digikabel.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Vecsés
-94.21.243.35,4,53957,DNS Server: 94-21-243-35.static.digikabel.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Vecsés
-84.2.58.4,4,83586,DNS Server: dsl54023A04.fixip.t-online.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Vác
-82.141.128.226,4,259,DNS Server: mail1.mono-group.com,HU,Europe,Eastern Europe,Hungary,Pest County,,Fót
-185.25.106.25,4,6,egrivar.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Tápióság
-80.249.174.70,4,62,etterem.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Pilisborosjenő
-80.249.168.94,4,77,euvonal.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Pilisborosjenő
-80.249.169.83,4,0,jobbadni.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Pilisborosjenő
-82.141.138.58,4,16,kulter.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Fót
-80.249.171.120,4,0,nmi.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Pilisborosjenő
-82.141.159.206,4,7244,szimpla.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Budaörs
-80.249.164.144,4,-1163656,vigszinhaz.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Pilisborosjenő
-80.249.174.3,4,30,virasana.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Pilisborosjenő
+152.66.121.21,4,-5,bme.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Gomba
+195.228.254.206,4,8,chillispot.org,HU,Europe,Eastern Europe,Hungary,Pest County,,Telki
+84.1.57.236,4,460,DNS Server: 540139EC.dsl.pool.telekom.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Szentendre
+84.2.151.74,4,89,DNS Server: 5402974A.dsl.pool.telekom.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Szigetszentmiklós
+134.255.116.18,4,55,DNS Server: 86FF7412.dsl.pool.telekom.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Cegléd
+84.2.38.69,4,79200561,DNS Server: autoresponder.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Dunaharaszti
+188.6.199.166,4,10321,DNS Server: BC06C7A6.catv.pool.telekom.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Nagykovácsi
+188.36.0.10,4,117355,DNS Server: BC24000A.catv.pool.telekom.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Gyál
+91.82.48.2,4,-53372,DNS Server: bea.kevenet.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Bugyi
+89.135.247.130,4,0,DNS Server: business-89-135-247-130.business.broadband.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Törökbálint
+89.135.52.10,4,-31948,DNS Server: business-89-135-52-10.business.broadband.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Pusztavacs
+89.135.52.16,4,6923,DNS Server: business-89-135-52-16.business.broadband.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Pusztavacs
+89.135.52.29,4,-1,DNS Server: business-89-135-52-29.business.broadband.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Pusztavacs
+91.82.76.70,4,1,DNS Server: mail.kortekft.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Dunaharaszti
+185.25.106.19,4,873,eger.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Göd
+185.25.106.25,4,-27,egrivar.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Göd
+84.2.35.59,4,3,futanet.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Dunaharaszti
+195.228.254.149,4,6,hotspotsystem.com,HU,Europe,Eastern Europe,Hungary,Pest County,,Telki
+212.24.168.226,4,1,keletdent.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Erdőkertes
+193.224.191.136,4,0,kre.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Üröm
+193.224.177.188,4,554,krtk.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Üröm
+193.224.218.24,4,-5,kultura.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Nagykovácsi
+84.2.38.66,4,-6,magyarfutball.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Dunaharaszti
+84.2.35.185,4,1002,presstone.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Dunaharaszti
+91.82.85.21,4,103,radio88.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Dunakeszi
+193.224.79.14,4,9,renyi.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Érd
+195.199.158.67,4,9,szily.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Pusztavacs
+82.141.159.206,4,6739,szimpla.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Budaörs
+84.2.38.70,4,-2,tamker.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Dunaharaszti
+84.2.35.103,4,12,velo.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Dunaharaszti
+194.143.245.39,4,6,welovebalaton.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Gyál

@@ -1,5 +1,17 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-131.196.14.211,4,9,DNS Server: host-131-196-14-211.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Quevedo
-177.234.245.244,4,120,DNS Server: host-177-234-245-244.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Babahoyo
-200.24.146.10,4,30750441,DNS Server: host-200-24-146-10.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Ventanas
-45.71.186.42,4,113,DNS Server: host-45-71-186-42.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Quevedo
+131.196.14.211,4,-2,DNS Server: host-131-196-14-211.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Quevedo
+177.234.245.105,4,5434,DNS Server: host-177-234-245-105.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Babahoyo
+177.234.245.244,4,81,DNS Server: host-177-234-245-244.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Babahoyo
+45.70.196.11,4,155,DNS Server: host-45-70-196-11.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Buena Fe
+45.70.196.236,4,-12,DNS Server: host-45-70-196-236.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Buena Fe
+45.71.37.98,4,-447,DNS Server: host-45-71-37-98.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Quevedo
+181.78.192.253,4,6,Ookla Speedtest Server 2441: speedtest.hsyns.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Babahoyo
+177.234.245.251,4,-16,Ookla Speedtest Server 36964: speedtest.chmx.rimtel.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Babahoyo
+131.196.14.34,4,-5,Ookla Speedtest Server 43772: speedtest.gobravcorp.com,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Quevedo
+45.190.87.59,4,-9,Ookla Speedtest Server 49422: speedtest.maxitel.hsyns.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Vinces
+157.100.52.147,4,-8,Ookla Speedtest Server 64635: speedtest.uio2.rimtel.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Baba
+45.71.38.10,4,-4,Ookla Speedtest Server 70091: alfayomega.alfayomega.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Quevedo
+181.78.198.233,4,-5,Ookla Speedtest Server 71320: speedtest.mtv.rimtel.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Montalvo
+185.181.35.99,4,-17,Ookla Speedtest Server 71732: speedfast.urdatel.com,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,
+181.188.203.26,4,15,Ookla Speedtest Server 72561: speedtest.isanett.net,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,Montalvo
+59.153.47.206,4,-114,Ookla Speedtest Server 72648: speedtestpv.hazanet.com,EC,Americas,Latin America and the Caribbean,Ecuador,Los Ríos,,San Juan

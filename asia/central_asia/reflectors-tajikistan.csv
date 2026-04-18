@@ -1,15 +1,23 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-45.94.219.117,4,12,barqitojik.tj,TJ,Asia,Central Asia,Tajikistan,,,
-85.9.133.77,4,11,DNS Server: 85-9-133-77.tacom.tj,TJ,Asia,Central Asia,Tajikistan,Dushanbe,,Dushanbe
-91.218.169.86,4,2381,DNS Server: 91.218.169.86.pppoe.sa-net.tj,TJ,Asia,Central Asia,Tajikistan,,,
-193.111.11.11,4,1969,dushanbe.tj,TJ,Asia,Central Asia,Tajikistan,,,
-217.11.176.155,4,-3333235,eshop.tj,TJ,Asia,Central Asia,Tajikistan,Dushanbe,,Dushanbe
-79.170.188.73,4,-17,fft.tj,TJ,Asia,Central Asia,Tajikistan,,,
+45.94.219.117,4,3,barqitojik.tj,TJ,Asia,Central Asia,Tajikistan,Viloyati Sughd,,Khujand
+62.122.139.6,4,12,DNS Server: 62.122.139.6.eastera.tj,TJ,Asia,Central Asia,Tajikistan,,,
+85.9.133.77,4,67255190,DNS Server: 85-9-133-77.tacom.tj,TJ,Asia,Central Asia,Tajikistan,Dushanbe,,Dushanbe
+91.218.169.86,4,27,DNS Server: 91.218.169.86.pppoe.sa-net.tj,TJ,Asia,Central Asia,Tajikistan,Dushanbe,,Dushanbe
+193.111.11.11,4,729,dushanbe.tj,TJ,Asia,Central Asia,Tajikistan,,,
+217.11.176.155,4,-2386853,eshop.tj,TJ,Asia,Central Asia,Tajikistan,Dushanbe,,Dushanbe
 77.95.1.66,4,-61,kgu.tj,TJ,Asia,Central Asia,Tajikistan,,,
-193.111.11.3,4,3156,migration.tj,TJ,Asia,Central Asia,Tajikistan,,,
-185.42.97.8,4,139,Ookla Speedtest Server 15941: speedtest.tcell.tj,TJ,Asia,Central Asia,Tajikistan,,,
-46.20.203.250,4,-1089,Ookla Speedtest Server 47558: speedtest.babilon-m.com,TJ,Asia,Central Asia,Tajikistan,Dushanbe,,Dushanbe
-91.218.162.70,4,-6,prezident.tj,TJ,Asia,Central Asia,Tajikistan,Gorno-Badakhshan,,Khorugh
-77.95.1.73,4,-64,rtsu.tj,TJ,Asia,Central Asia,Tajikistan,,,
-77.95.1.68,4,-68,tnu.tj,TJ,Asia,Central Asia,Tajikistan,,,
+77.95.0.41,4,-42,medcollkulob.tj,TJ,Asia,Central Asia,Tajikistan,,,
+91.218.160.26,4,10,mmk.tj,TJ,Asia,Central Asia,Tajikistan,Dushanbe,,Dushanbe
+193.111.11.3,4,555,nasl.tj,TJ,Asia,Central Asia,Tajikistan,,,
+46.20.203.251,4,33,Ookla Speedtest Server 3212: speedtest-khorog.babilon-m.tj,TJ,Asia,Central Asia,Tajikistan,Gorno-Badakhshan,,Khorugh
+109.68.237.166,4,66410957,Ookla Speedtest Server 5243: speedtest.megafon.tj,TJ,Asia,Central Asia,Tajikistan,,,
+62.122.137.68,4,15,Ookla Speedtest Server 7575: speedtest.eastera.tj,TJ,Asia,Central Asia,Tajikistan,,,
+195.246.103.230,4,-1,Ookla Speedtest Server 15941: speedtest.tcell.tj,TJ,Asia,Central Asia,Tajikistan,Dushanbe,,Dushanbe
+85.9.128.86,4,-533930,Ookla Speedtest Server 35367: speedtest1.zet-mobile.com,TJ,Asia,Central Asia,Tajikistan,Dushanbe,,Dushanbe
+46.20.203.250,4,5,Ookla Speedtest Server 47558: speedtest.babilon-m.com,TJ,Asia,Central Asia,Tajikistan,Dushanbe,,Dushanbe
+193.111.11.5,4,-1,Ookla Speedtest Server 61050: speedtest.babilon-t.com,TJ,Asia,Central Asia,Tajikistan,,,
+217.8.39.43,4,18,Ookla Speedtest Server 74450: speedtest-khj.tcell.tj,TJ,Asia,Central Asia,Tajikistan,Viloyati Sughd,,Khujand
+91.218.162.70,4,29,prezident.tj,TJ,Asia,Central Asia,Tajikistan,Dushanbe,,Dushanbe
+77.95.1.73,4,-24,rtsu.tj,TJ,Asia,Central Asia,Tajikistan,,,
+77.95.1.68,4,9,tnu.tj,TJ,Asia,Central Asia,Tajikistan,,,
 62.122.141.201,4,-20,zeppelin.tj,TJ,Asia,Central Asia,Tajikistan,,,

@@ -1,3 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 213.34.63.24,4,56,beeldhouwwinkel.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Tilburg
-84.104.88.125,4,194640,DNS Server: 84-104-88-125.cable.dynamic.v4.ziggo.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Tilburg
+185.3.105.24,4,-6,ecicultuurfabriek.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Tilburg
+185.3.105.29,4,19,slaapkamerconcurrent.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Tilburg
+185.3.105.13,4,3,vnrt.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Tilburg

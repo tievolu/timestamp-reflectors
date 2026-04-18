@@ -1,20 +1,32 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-84.54.49.51,4,2,24gr.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-84.54.49.201,4,31,diatrofi.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-83.235.105.234,4,158,DNS Server: 234.105.235.83.static.otenet.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Pella,Giannitsá
-46.12.62.169,4,-181867,DNS Server: 46.12.62.169.dsl.dyn.forthnet.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-87.202.171.109,4,426,DNS Server: athedsl-369528.home.otenet.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-188.117.197.78,4,-11524370,DNS Server: dhcp-188-117-197-78.cm.hcn.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-94.66.237.222,4,187,DNS Server: owgzel.static.otenet.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-94.68.89.84,4,1252,DNS Server: ppp-94-68-89-84.home.otenet.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Sérres,Serres
-84.54.49.43,4,16,escortsingreece.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-78.108.40.230,4,8,i2dealer.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-84.54.49.200,4,10,modoffice.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-84.54.49.203,4,41,paramarketing.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-5.172.194.135,4,6,pomida.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-178.21.171.195,4,2,rthess.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-87.203.233.9,4,3700808,santorini.com,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-84.54.49.41,4,22,sexyaggelies.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-195.251.124.93,4,10,teilar.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-5.172.196.245,4,1806,thessalonikifair.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-178.21.171.218,4,8,thessnews.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
+84.54.49.51,4,2,24gr.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+84.54.49.200,4,-16,bet-prognostika.com,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+194.177.211.216,4,11,debian.com,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+84.54.49.201,4,31,diatrofi.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+2.85.181.242,4,-45519,DNS Server: 242.181.85.2.static.otenet.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Serres
+94.68.84.250,4,39189,DNS Server: 250.84.68.94.static.otenet.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Serres
+2.85.180.50,4,42847,DNS Server: 50.180.85.2.static.otenet.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Serres
+78.108.47.140,4,77033526,DNS Server: cs-side-itnetworks-ath.synapsecom.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+77.69.37.70,4,56804258,DNS Server: static077069037070.dsl.hol.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+85.90.197.7,4,6,DoH server: dnscry.pt-thessaloniki-ipv4,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+62.1.45.202,4,58426,esake.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+84.54.49.43,4,16,escortsingreece.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+194.177.218.66,4,-1,espiv.net,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+77.69.36.221,4,1510,forecastweather.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+78.108.40.230,4,8,i2dealer.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+194.177.217.209,4,3452,ilsp.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+37.98.199.70,4,37,komvos.edu.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+188.164.200.40,4,81857,ktelattikis.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Giannitsá
+194.177.210.210,4,-2,National Infrastructures for Research and Technology S.A.,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+188.164.200.35,4,5338,oasth.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Giannitsá
+185.180.36.180,4,-36,Ookla Speedtest Server 10957: speedtest.greekstream.net,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+185.180.36.10,4,6,Ookla Speedtest Server 10980: speedtest-skg.greekstream.net,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+185.32.228.4,4,-4,Ookla Speedtest Server 37580: optiland-speedtest.sadmin.eu,GR,Europe,Southern Europe,Greece,Central Macedonia,,Serres
+84.54.49.203,4,27,paramarketing.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+5.172.194.135,4,-3,pomida.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+84.54.49.41,4,22,sexyaggelies.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+155.207.18.107,4,9,squat.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+84.54.49.202,4,9,tantoscar.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+194.177.210.107,4,-28817,teiion.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+5.172.196.245,4,4799,thessalonikifair.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+77.69.37.68,4,56804263,Vodafone-Panafon Hellenic Telecommunications Company SA Thessaloniki,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki

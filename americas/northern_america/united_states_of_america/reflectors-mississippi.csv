@@ -1,4 +1,13 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-72.24.0.18,4,65,DNS Server: 72-24-0-18.cpe.sparklight.net,US,Americas,Northern America,United States of America,Mississippi,,Biloxi
-206.41.228.15,4,35,netdoor.com,US,Americas,Northern America,United States of America,Mississippi,,Brookhaven
-130.18.0.31,4,289,Ookla Speedtest Server 4471: speedtest01.its.msstate.edu,US,Americas,Northern America,United States of America,Mississippi,,Starkville
+72.24.0.18,4,13,DNS Server: 72-24-0-18.cpe.sparklight.net,US,Americas,Northern America,United States of America,Mississippi,,Biloxi
+50.86.78.84,4,39162,DNS Server: static-50-86-78-84.cspire.com,US,Americas,Northern America,United States of America,Mississippi,,Indianola
+206.41.228.15,4,15,netdoor.com,US,Americas,Northern America,United States of America,Mississippi,,Vicksburg
+130.18.0.31,4,-17,Ookla Speedtest Server 4471: speedtest01.its.msstate.edu,US,Americas,Northern America,United States of America,Mississippi,,Starkville
+173.241.64.227,4,-5,Ookla Speedtest Server 10959: sp1.fultontelephone.net,US,Americas,Northern America,United States of America,Mississippi,,Bruce
+216.220.135.62,4,-2,Ookla Speedtest Server 14818: speedtest.tecinfo.net,US,Americas,Northern America,United States of America,Mississippi,,Greenville
+38.104.250.46,4,-1,Ookla Speedtest Server 29474: speedtest.netlinkvoice.com,US,Americas,Northern America,United States of America,Mississippi,,Jackson
+152.86.15.251,4,-5,Ookla Speedtest Server 33080: speedtest.prentissconnect.com,US,Americas,Northern America,United States of America,Mississippi,,Booneville
+216.246.223.251,4,-8,Ookla Speedtest Server 38520: speedtest.tishomingoconnect.com,US,Americas,Northern America,United States of America,Mississippi,,Iuka
+65.49.176.5,4,-9,Ookla Speedtest Server 40387: speedtest2.eastmsconnect.com,US,Americas,Northern America,United States of America,Mississippi,,De Kalb
+216.247.244.18,4,14,Ookla Speedtest Server 47917: speedtest.singingriverconnect.com,US,Americas,Northern America,United States of America,Mississippi,,Vancleave
+207.203.96.11,4,-31,Ookla Speedtest Server 69257: speed.decaturtel.net,US,Americas,Northern America,United States of America,Mississippi,,Decatur

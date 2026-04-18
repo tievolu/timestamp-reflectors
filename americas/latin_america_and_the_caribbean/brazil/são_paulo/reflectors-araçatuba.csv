@@ -1,2 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-187.121.156.166,4,2,DNS Server: 187.121.156.166.insidetelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Araçatuba
+187.121.156.166,4,-15,DNS Server: 187.121.156.166.insidetelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Araçatuba
+177.72.8.8,4,-16,Ookla Speedtest Server 13067: speedtest.netplay.net.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Araçatuba
+45.70.84.15,4,-8,Ookla Speedtest Server 14969: teste.tellius.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Araçatuba
+179.0.76.166,4,-3,Ookla Speedtest Server 68743: velocidade.ijsatinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Araçatuba
+200.152.88.151,4,158666,Ookla Speedtest Server 68889: speedtest.sentinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Araçatuba

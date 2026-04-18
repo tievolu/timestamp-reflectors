@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+91.249.242.34,4,9,DNS Server: leasedline-static-091-249-242-034.ewe-ip-backbone.de,DE,Europe,Western Europe,Germany,Lower Saxony,,Leer
+212.185.200.25,4,-4,DoH server: dns1.conne.net,DE,Europe,Western Europe,Germany,Lower Saxony,,Leer
+185.170.113.86,4,-3,Ookla Speedtest Server 60421: speedtest.leer.jonasdevries.de,DE,Europe,Western Europe,Germany,Lower Saxony,,Leer

@@ -1,41 +1,77 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 195.15.240.34,4,4,321cbd.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-5.1.100.166,4,82,aligro.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-193.134.183.207,4,10,bge-geneve.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.239.74,4,20,a3p.org,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.231.213,4,-20,alcooliques-anonymes.fr,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.239.84,4,-2,article27.be,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.227.226,4,11,bc-collection.eu,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.225.55,4,-30,beauxartsnantes.fr,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+193.134.183.207,4,21,bge-geneve.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+128.65.193.68,4,-1,billaudot.com,CH,Europe,Western Europe,Switzerland,Geneva,,Vernier
+195.15.239.58,4,3,bloomrefill.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.230.76,4,-4,bras.fr,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
 195.15.254.137,4,31,brasseriebfm.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-185.172.103.5,4,4,canalalpha.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-193.134.183.223,4,34,cjbg.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-89.32.250.173,4,-4833,damapouya.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-194.38.168.210,4,1,darksite.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-195.15.236.73,4,4,designseptember.be,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-213.200.233.89,4,8,DNS Server: 89.233.200.213.static.wline.lns.sme.cust.swisscom.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-85.195.210.243,4,134752,DNS Server: intranet.posttenebraslab.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Meyrin
-79.141.83.250,4,598,DNS Server: ns3.ntd.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-195.15.237.113,4,3,earthobservations.org,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-195.15.235.23,4,4,energy.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-195.15.238.224,4,4,fh-hwz.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.230.108,4,47,brewersofeurope.org,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.225.156,4,-15,cfmradio.fr,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.227.11,4,7,cinemas-du-grutli.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.227.223,4,0,creeruncv.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+128.65.193.161,4,-6,danslesalgorithmes.net,CH,Europe,Western Europe,Switzerland,Geneva,,Vernier
+195.15.239.25,4,-8,diocese49.org,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.231.161,4,-6,djeco.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+83.173.203.174,4,13,DNS Server: 174.203.173.83.static.wline.lns.sme.cust.swisscom.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+83.173.202.64,4,-1,DNS Server: 64.202.173.83.static.wline.lns.sme.cust.swisscom.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+85.195.210.243,4,6502,DNS Server: intranet.posttenebraslab.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Carouge
+79.141.83.250,4,-1,DNS Server: ns3.ntd.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+45.90.59.193,4,-4,DoH server: dnscry.pt-geneva-ipv4,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.230.44,4,-7,europeantheatre.eu,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.229.15,4,28,extinctionrebellion.uk,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.225.184,4,-12,fediaf.org,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
 193.134.183.131,4,50,geneva.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-193.134.183.201,4,9,geneve.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-195.15.237.228,4,37,gphg.org,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-195.15.226.30,4,43,infoflora.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-185.134.197.103,4,81,johncooperclarke.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-195.15.235.174,4,3,laventure-association.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-195.15.245.142,4,49,libssh.org,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-141.101.62.199,4,130,luff.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-89.32.250.170,4,6,mabarenoor.ir,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-193.134.183.205,4,8,mahmah.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-193.134.183.221,4,9,meg.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-193.134.183.219,4,10,musee-ariana.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-46.253.177.30,4,119,Ookla Speedtest Server 15728: speedtest.monzoon.net,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-195.15.236.153,4,30,openagenda.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-185.134.197.72,4,10,opiniojuris.org,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-89.32.250.167,4,-5715,resalat-news.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-195.15.235.39,4,3,silversquare.eu,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-46.127.137.226,4,-6944,titaniumtrack.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+193.134.183.201,4,-4,geneve.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.227.86,4,-27,globalcitieshub.org,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.230.55,4,1,globaljet.aero,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.227.80,4,2,grand-pavois.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.224.139,4,-10,grande-saline.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.230.146,4,-8,gret.org,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+128.65.193.102,4,45,groupe-mercure.fr,CH,Europe,Western Europe,Switzerland,Geneva,,Vernier
+195.15.230.157,4,45,guide-reunion.fr,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.225.113,4,-2,hardforce.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+83.173.195.132,4,43824151,icdo.org,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.225.157,4,9,ikepod.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.239.73,4,-1,ilgiardinodeitarocchi.it,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.231.63,4,6,imi-hydronic.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.226.30,4,8,infoflora.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+193.134.183.223,4,0,jardinbotaniquegeneve.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+185.134.197.103,4,12,johncooperclarke.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.224.51,4,-10,lefrancaisdesaffaires.fr,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.245.142,4,-2,libssh.org,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.239.51,4,-9,lire-et-ecrire.be,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+193.134.183.205,4,-16,mahmah.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+128.65.193.6,4,-9,martinique.org,CH,Europe,Western Europe,Switzerland,Geneva,,Vernier
+193.134.183.221,4,6,meg.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.239.143,4,2,montetamaro.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+193.134.183.219,4,28,musee-ariana.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.176.247.63,4,76,museum-gestaltung.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+79.141.82.250,4,-3,NTD SA,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.236.153,4,14,openagenda.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+185.134.197.72,4,-20298,opiniojuris.org,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.239.89,4,2,osullivans-pubs.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.176.247.61,4,8,pavillon-le-corbusier.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.230.97,4,4,progiciels-actemium-lehavre.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.176.255.138,4,1,quad9.net,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+128.65.193.10,4,6,recoveo.com,CH,Europe,Western Europe,Switzerland,Geneva,,Vernier
+195.15.230.64,4,9,restaurantcrissier.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.230.247,4,8,saint-cricq.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.239.201,4,22,simsim-reisen.de,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.232.204,4,9,swisswine.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
 185.134.197.69,4,6,togethertrust.org.uk,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-195.15.255.252,4,11,ubuntu-it.org,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-195.15.237.41,4,14,usgang.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.255.252,4,18,ubuntu-it.org,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.176.247.48,4,10,ubuweb.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
 193.134.183.113,4,8,ville-ge.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-193.134.183.161,4,9,ville-geneve.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-185.134.197.195,4,18,waddensea-worldheritage.org,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-79.141.82.20,4,4056,wargame.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+193.134.183.161,4,23,ville-geneve.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.227.83,4,13,voyages-mugler.com,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.239.16,4,12,vttour.fr,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+185.134.197.195,4,16,waddensea-worldheritage.org,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+79.141.82.20,4,10,wargame.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.230.191,4,4,workmaster.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.15.225.24,4,-10,zerocarbon.email,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
+195.176.247.145,4,3,zhdk.ch,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva

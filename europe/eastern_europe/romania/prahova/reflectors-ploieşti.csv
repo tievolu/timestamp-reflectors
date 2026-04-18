@@ -1,3 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-95.77.34.198,4,303,Ookla Speedtest Server 14767: stnetcj.fixed-nw.vodafone.ro,RO,Europe,Eastern Europe,Romania,Prahova,,Ploieşti
-95.77.35.14,4,274,Ookla Speedtest Server 15004: stnetb.fixed-nw.vodafone.ro,RO,Europe,Eastern Europe,Romania,Prahova,,Ploieşti
+5.2.180.46,4,-8719,DNS Server: static-5-2-180-46.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Prahova,,Ploieşti
+86.122.185.167,4,-1,DNS Server: static-86-122-185-167.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Prahova,,Ploieşti
+213.157.176.194,4,15,Ookla Speedtest Server 11502: speedtest-is.rcs-rds.ro,RO,Europe,Eastern Europe,Romania,Prahova,,Ploieşti

@@ -1,22 +1,43 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-203.128.7.14,4,-54,brain.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
-103.217.177.7,4,-234,dhakarachi.org,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
-202.166.161.107,4,-36555946,DNS Server: 202-166-161-107.connectel.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
-58.27.230.162,4,20,DNS Server: 58-27-230-162.wateen.net,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
-58.27.249.124,4,221,DNS Server: 58-27-249-124.wateen.net,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
-111.68.97.147,4,78810,ist.edu.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
-103.4.94.171,4,-26,kemu.edu.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
-111.68.103.174,4,-37,lums.edu.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
-111.68.97.117,4,-42,numl.edu.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
-202.163.127.10,4,93,Ookla Speedtest Server 16080: lahorespeedtest.cyber.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
-103.151.43.206,4,287,Ookla Speedtest Server 47649: speed1.msnetworks.net,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
-39.62.25.225,4,258,Ookla Speedtest Server 52872: ahsan5.transdigital.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
-157.10.226.252,4,234,Ookla Speedtest Server 55355: stestlhr.kas.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
-103.83.23.54,4,-42152597,Ookla Speedtest Server 56524: speedtest2.ebonenet.com,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
-103.141.5.21,4,315,Ookla Speedtest Server 56716: speedtest.acnbroadband.net,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
-103.147.42.147,4,199,Ookla Speedtest Server 56993: speed.sharknets.net,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
-103.156.152.125,4,317,Ookla Speedtest Server 61869: speedtest.dotcombroadband.net,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
-157.20.147.240,4,333,Ookla Speedtest Server 63448: ookla.zcomnetworks.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
-210.56.20.168,4,-36,pap.gov.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
-116.58.56.30,4,-535,pesrp.edu.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
-111.68.103.36,4,15,vu.edu.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+202.142.172.154,4,26904,amis.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+103.217.177.7,4,52322,dhakarachi.org,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+202.166.161.107,4,29119173,DNS Server: 202-166-161-107.connectel.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+58.27.249.124,4,25405090,DNS Server: 58-27-249-124.wateen.net,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+45.249.8.179,4,119619,DNS Server: host-249-8-179.tes.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+111.68.103.174,4,26,lums.edu.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+203.135.17.2,4,-4,Ookla Speedtest Server 2252: speedtest2.ptcl.net,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+202.163.127.10,4,4,Ookla Speedtest Server 16080: lahorespeedtest.cyber.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+58.27.213.57,4,-65,Ookla Speedtest Server 21137: speedtest.kbl.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+103.83.89.32,4,11,Ookla Speedtest Server 23421: speedtest.ylinx.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+202.163.75.218,4,-2,Ookla Speedtest Server 24690: gujranwala-speedtest.cyber.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+103.73.102.242,4,1,Ookla Speedtest Server 28411: speedtest.kknetworks.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+202.166.166.90,4,-33,Ookla Speedtest Server 29890: speedtest.connectel.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+43.251.255.253,4,20,Ookla Speedtest Server 30431: speedtest.optix.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+119.160.92.110,4,-1,Ookla Speedtest Server 32312: speedtest-lhr1.jazz.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+103.177.240.200,4,-80,Ookla Speedtest Server 37228: speedtest.signin.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+202.59.15.249,4,43,Ookla Speedtest Server 38431: speedtest.fiberish.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+103.159.78.69,4,14,Ookla Speedtest Server 38611: speedtest.call2phone.com,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+118.103.225.30,4,-97,Ookla Speedtest Server 39625: speedtest.lhr.connect.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+113.192.47.243,4,38,Ookla Speedtest Server 42465: speedtest.samzbroadband.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+110.39.164.37,4,2,Ookla Speedtest Server 42611: speed.duoslinks.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+154.208.48.187,4,68966406,Ookla Speedtest Server 45314: speedtest.naeemit.com,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+103.151.43.206,4,-7,Ookla Speedtest Server 47649: speed1.msnetworks.net,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+110.39.173.194,4,5,Ookla Speedtest Server 48141: speedtest.instabroadband.net,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+103.138.223.42,4,-103,Ookla Speedtest Server 50532: speedtest.wellnetworks.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+157.10.226.252,4,-78,Ookla Speedtest Server 55355: stestlhr.kas.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+103.141.5.21,4,5,Ookla Speedtest Server 56716: speedtest.acnbroadband.net,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+103.84.56.228,4,-75,Ookla Speedtest Server 56930: speedtest.muxbroadband.com,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+103.147.42.147,4,0,Ookla Speedtest Server 56993: speed.sharknets.net,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+157.20.147.238,4,-7,Ookla Speedtest Server 60566: ookla.elb.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+157.20.147.240,4,21,Ookla Speedtest Server 63448: ookla.zcomnetworks.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+103.168.40.6,4,11908,Ookla Speedtest Server 64021: speedlhr.skifgroup.com,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+103.198.154.253,4,-68,Ookla Speedtest Server 67910: speedtest.pbb.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+116.90.120.150,4,13,Ookla Speedtest Server 67924: speedtest.ldnpk.com,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+103.152.116.10,4,-4,Ookla Speedtest Server 68472: speedtest.speedxdigital.com,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+110.39.14.61,4,12,Ookla Speedtest Server 69357: speedtest.nanoisp.net,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+110.39.168.101,4,0,Ookla Speedtest Server 69930: st.stripe-consult.com,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+163.61.136.254,4,-24,Ookla Speedtest Server 70409: speedtest.wavecomm.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+110.39.169.44,4,3,Ookla Speedtest Server 71205: xtream.ghinternet.com,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+110.38.68.38,4,-10,Ookla Speedtest Server 71560: speedtest.zahamit.com,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+154.208.44.202,4,-58,Ookla Speedtest Server 71703: speedtest.tech3speed.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
+111.68.103.36,4,-4,vu.edu.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore

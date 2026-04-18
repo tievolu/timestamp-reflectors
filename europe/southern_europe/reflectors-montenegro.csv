@@ -1,6 +1,10 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-77.91.126.48,4,28,autolebanon.ru,ME,Europe,Southern Europe,Montenegro,,,
-77.91.126.199,4,13,code-industry.net,ME,Europe,Southern Europe,Montenegro,,,
-94.102.233.24,4,1180,igraonica.me,ME,Europe,Southern Europe,Montenegro,Podgorica,,Podgorica
-94.102.233.29,4,1001,monstat.org,ME,Europe,Southern Europe,Montenegro,Podgorica,,Podgorica
-77.222.22.82,4,238091,Ookla Speedtest Server: speedtest.t-com.me,ME,Europe,Southern Europe,Montenegro,Podgorica,,Podgorica
+109.228.105.170,4,892,DNS Server: adsl-109-228-l10666.crnagora.net,ME,Europe,Southern Europe,Montenegro,Podgorica,,Podgorica
+213.149.113.211,4,39374929,DNS Server: jumediamont-dan.211.crnagora.net,ME,Europe,Southern Europe,Montenegro,,,
+94.102.233.24,4,1180,igraonica.me,ME,Europe,Southern Europe,Montenegro,Kotor,,Kotor
+94.102.233.28,4,1690,monstat.org,ME,Europe,Southern Europe,Montenegro,Kotor,,Kotor
+77.222.22.82,4,803154,Ookla Speedtest Server 5373: speedtest.t-com.me,ME,Europe,Southern Europe,Montenegro,Podgorica,,Podgorica
+185.80.99.30,4,-7,Ookla Speedtest Server 24464: speedtest.telemach.me,ME,Europe,Southern Europe,Montenegro,,,
+79.143.96.130,4,-3,Ookla Speedtest Server 50445: ookla.1.me,ME,Europe,Southern Europe,Montenegro,Podgorica,,Podgorica
+195.66.185.46,4,0,podgorica.me,ME,Europe,Southern Europe,Montenegro,Budva,,Budva
+94.102.226.130,4,31,sluzbenilist.me,ME,Europe,Southern Europe,Montenegro,Kotor,,Kotor

@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+86.35.6.74,4,3356,DNS Server: mail.ramo.ro,RO,Europe,Eastern Europe,Romania,Neamț County,,Piatra Neamţ
+5.2.219.31,4,-2,DNS Server: static-5-2-219-31.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Neamț County,,Piatra Neamţ
+81.196.122.82,4,-13,Ookla Speedtest Server 11500: speedtest-tm.rcs-rds.ro,RO,Europe,Eastern Europe,Romania,Neamț County,,Târgu Neamţ

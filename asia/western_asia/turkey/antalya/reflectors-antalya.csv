@@ -1,4 +1,10 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-31.7.35.72,4,12,antalyaff.com,TR,Asia,Western Asia,Turkey,Antalya,,Antalya
-31.223.124.2,4,290,Ookla Speedtest Server 42947: speedtest07.turk.net,TR,Asia,Western Asia,Turkey,Antalya,,Antalya
+31.7.35.218,4,22,antalyaburada.com,TR,Asia,Western Asia,Turkey,Antalya,,Antalya
+31.7.35.72,4,-12,antalyaff.com,TR,Asia,Western Asia,Turkey,Antalya,,Antalya
+31.7.35.66,4,8,bidusunsenbulursun.com,TR,Asia,Western Asia,Turkey,Antalya,,Antalya
+88.247.20.13,4,16677,DNS Server: 88.247.20.13.static.ttnet.com.tr,TR,Asia,Western Asia,Turkey,Antalya,,Antalya
+31.7.37.37,4,7,DNS Server: resolve02.tek.net.tr,TR,Asia,Western Asia,Turkey,Antalya,,Antalya
+31.7.36.215,4,-9,Ookla Speedtest Server 6802: speedtest01.tek.net.tr,TR,Asia,Western Asia,Turkey,Antalya,,Antalya
+31.223.124.2,4,2,Ookla Speedtest Server 42947: speedtest07.turk.net,TR,Asia,Western Asia,Turkey,Antalya,,Antalya
+176.240.65.22,4,1,Ookla Speedtest Server 70577: st-antalya-1.turksatkablo.com.tr,TR,Asia,Western Asia,Turkey,Antalya,,Antalya
 31.7.35.106,4,17,ore-met.com,TR,Asia,Western Asia,Turkey,Antalya,,Antalya

@@ -1,6 +1,10 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-217.196.209.15,4,26,airport-ostrava.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Nový Jičín District,Štramberk
-109.224.98.25,4,45,DNS Server: 25-98-224-109.m-zone.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Nový Jičín District,Studénka
-77.48.176.3,4,21,DNS Server: 3.morkov.eu,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Nový Jičín District,Mořkov
-85.207.54.4,4,461,Ookla Speedtest Server 35903: cet4.wifcom.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Nový Jičín District,Frenštát pod Radhoštěm
-217.196.209.29,4,14,uax.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Nový Jičín District,Štramberk
+217.196.209.15,4,19,airport-ostrava.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Nový Jičín District,
+62.209.236.61,4,5,betor.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Nový Jičín District,Nový Jičín
+77.48.177.13,4,-1944,DNS Server: 13.zivoticeunj.net,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Nový Jičín District,Mořkov
+77.48.176.3,4,-3,DNS Server: 3.morkov.eu,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Nový Jičín District,Mořkov
+85.207.54.4,4,5,Ookla Speedtest Server 35903: cet4.wifcom.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Nový Jičín District,Nový Jičín
+185.163.40.55,4,5,Ookla Speedtest Server 40516: speedtest.ktk.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Nový Jičín District,Kopřivnice
+217.197.37.210,4,22,project-aliante.org,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Nový Jičín District,Studénka
+217.196.209.29,4,14,uax.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Nový Jičín District,
+85.207.54.136,4,10,wifiprofi.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Nový Jičín District,Nový Jičín

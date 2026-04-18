@@ -1,243 +1,346 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-84.54.49.51,4,2,24gr.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-185.138.42.162,4,29,acci.gr,GR,Europe,Southern Europe,Greece,,,
-62.38.6.105,4,3,acscourier.net,GR,Europe,Southern Europe,Greece,Crete,Chania,Chania
-212.251.12.177,4,2,acscourier.net,GR,Europe,Southern Europe,Greece,Attica,,Athens
-62.103.124.49,4,8,adman.gr,GR,Europe,Southern Europe,Greece,Attica,,Acharnes
-195.251.134.153,4,-10619,aegean.gr,GR,Europe,Southern Europe,Greece,,,
-185.138.42.36,4,5,aegeussociety.org,GR,Europe,Southern Europe,Greece,,,
+84.54.49.51,4,2,24gr.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+213.158.90.187,4,-5,acci.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+178.253.39.159,4,4,activestudy.info,GR,Europe,Southern Europe,Greece,,,
+62.103.124.49,4,4,adman.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+195.251.134.135,4,3,aegean.gr,GR,Europe,Southern Europe,Greece,North Aegean,,Mytilene
+213.158.90.205,4,-4,aegeussociety.org,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 93.174.127.41,4,574200,afs.edu.gr,GR,Europe,Southern Europe,Greece,,,
+83.212.248.236,4,-3,agathe.gr,GR,Europe,Southern Europe,Greece,,,
 93.174.125.21,4,195,agora-antikes.gr,GR,Europe,Southern Europe,Greece,,,
+178.253.40.172,4,-9,alienbike.ru,GR,Europe,Southern Europe,Greece,,,
 93.174.125.44,4,82927,all4yachting.com,GR,Europe,Southern Europe,Greece,,,
 185.25.22.126,4,87,allaboutpellet.com,GR,Europe,Southern Europe,Greece,,,
-31.22.113.44,4,19,anaptixiaki.gr,GR,Europe,Southern Europe,Greece,,,
-62.217.73.154,4,19,asfa.gr,GR,Europe,Southern Europe,Greece,,,
-2.21.69.136,4,-29,atcom.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-2.19.51.54,4,-30,atcom.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-77.69.35.118,4,43,athenianbrewery.gr,GR,Europe,Southern Europe,Greece,Thessaly,Nomós Larísis,Larissa
+185.157.208.38,4,-1,almazois.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+213.158.90.103,4,18,alzheimer-europe.org,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+31.22.113.44,4,4,anaptixiaki.gr,GR,Europe,Southern Europe,Greece,,,
+213.158.90.212,4,1,arsis.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+62.217.73.154,4,4,asfa.gr,GR,Europe,Southern Europe,Greece,Attica,,Piraeus
+77.69.35.118,4,43,athenianbrewery.gr,GR,Europe,Southern Europe,Greece,Attica,,Moschato
+93.174.125.94,4,-1,athensattica.com,GR,Europe,Southern Europe,Greece,,,
+213.158.90.198,4,2,athensconservatoire.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.82,4,-10,athensjournals.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 185.29.27.2,4,41,athensplants.gr,GR,Europe,Southern Europe,Greece,,,
-212.251.12.163,4,0,athensvoice.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-62.38.6.106,4,2,athensvoice.gr,GR,Europe,Southern Europe,Greece,Crete,Chania,Chania
-143.233.187.150,4,37,aua.gr,GR,Europe,Southern Europe,Greece,Attica,,Korydallos
-195.251.255.156,4,18,aueb.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-62.103.124.4,4,13,bestprice.gr,GR,Europe,Southern Europe,Greece,Attica,,Acharnes
-185.4.133.15,4,54,bill-coo-hotel.com,GR,Europe,Southern Europe,Greece,,,
+143.233.187.150,4,5,aua.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+195.251.255.156,4,38,aueb.gr,GR,Europe,Southern Europe,Greece,,,
+213.158.90.21,4,-29,austriacard.com,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+83.147.246.91,4,1,autopapyrus.ru,GR,Europe,Southern Europe,Greece,,,
+213.158.90.145,4,66,backtowork.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.173,4,-4,baildsa.com,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.65,4,10,basket.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+62.103.124.4,4,0,bestprice.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+84.54.49.200,4,-16,bet-prognostika.com,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+94.241.142.226,4,-15,blackoakcy.com,GR,Europe,Southern Europe,Greece,,,
+213.158.90.28,4,4,bluepalace.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.195,4,-14,booksjournal.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.54,4,-5,brace2dev.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 31.22.112.110,4,-1,bsbfashion.com,GR,Europe,Southern Europe,Greece,,,
-193.186.200.59,4,21,cityofathens.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-62.38.6.75,4,35,civilprotection.gr,GR,Europe,Southern Europe,Greece,Crete,Chania,Chania
-62.38.6.40,4,5,civilprotection.gr,GR,Europe,Southern Europe,Greece,Crete,Chania,Chania
+91.186.199.74,4,-17,bum74.ru,GR,Europe,Southern Europe,Greece,,,
+213.158.90.141,4,-14,casadeltoro.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+193.186.200.59,4,19,cityofathens.gr,GR,Europe,Southern Europe,Greece,Attica,,Neo Psychiko
+213.158.90.241,4,-10,corallia.org,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 62.217.125.138,4,14,corallia.org,GR,Europe,Southern Europe,Greece,,,
-192.135.166.110,4,27,cretaquarium.gr,GR,Europe,Southern Europe,Greece,,,
-212.205.77.145,4,46,culture.gov.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-185.138.42.78,4,4,d-waste.com,GR,Europe,Southern Europe,Greece,,,
-185.4.132.85,4,237,dah-journal.com,GR,Europe,Southern Europe,Greece,,,
-194.177.211.216,4,8,debian.com,GR,Europe,Southern Europe,Greece,,,
-84.54.49.201,4,31,diatrofi.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-185.138.42.24,4,30,digi4equality.eu,GR,Europe,Southern Europe,Greece,,,
-185.29.24.6,4,1642,digicirc.eu,GR,Europe,Southern Europe,Greece,,,
-83.235.44.103,4,-2146228101,DNS Server: 103.44.235.83.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Kypseli
-149.210.64.96,4,388,DNS Server: 149-210-64-96.mobile.ren.cosmote.net,GR,Europe,Southern Europe,Greece,,,
-149.210.88.227,4,-672,DNS Server: 149-210-88-227.mobile.ren.cosmote.net,GR,Europe,Southern Europe,Greece,,,
-85.74.242.182,4,77270,DNS Server: 182.242.74.85.static.otenet.gr,GR,Europe,Southern Europe,Greece,South Aegean,Nomós Kykládon,Paros
-194.177.200.245,4,5,DNS Server: 194-177-200-245.uth.gr,GR,Europe,Southern Europe,Greece,,,
-79.131.108.227,4,48631,DNS Server: 227.108.131.79.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-83.235.105.234,4,158,DNS Server: 234.105.235.83.static.otenet.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Pella,Giannitsá
-85.73.73.246,4,17,DNS Server: 246.73.73.85.static.otenet.gr,GR,Europe,Southern Europe,Greece,South Aegean,Nomós Kykládon,Fira
-94.68.84.250,4,2801,DNS Server: 250.84.68.94.static.otenet.gr,GR,Europe,Southern Europe,Greece,West Macedonia,Kozani,Ptolemaida
-212.205.159.4,4,12023,DNS Server: 4.159.205.212.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-85.74.255.42,4,263,DNS Server: 42.255.74.85.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-46.12.62.169,4,-181867,DNS Server: 46.12.62.169.dsl.dyn.forthnet.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-2.85.180.50,4,42847,DNS Server: 50.180.85.2.static.otenet.gr,GR,Europe,Southern Europe,Greece,North Aegean,Lesbos,Mytilene
-94.64.161.6,4,5,DNS Server: 6.161.64.94.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-62.103.109.97,4,6,DNS Server: 97.109.103.62.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Acharnes
-84.254.51.145,4,59893,DNS Server: adsl-145.84.254.51.tellas.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+91.186.196.215,4,13,cosmoscow.com,GR,Europe,Southern Europe,Greece,,,
+213.158.90.169,4,-10,cres.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+192.135.166.167,4,-41,cretaquarium.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+192.135.166.110,4,27,cretaquarium.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.58,4,2,critical-stages.org,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+185.29.24.3,4,257,cryptobase.gr,GR,Europe,Southern Europe,Greece,,,
+213.158.90.204,4,8,d-waste.com,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.120,4,2,daidalos-service.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+194.177.211.216,4,11,debian.com,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+84.54.49.201,4,31,diatrofi.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+185.29.24.6,4,3309,digicirc.eu,GR,Europe,Southern Europe,Greece,,,
+185.29.24.12,4,208,divashoes.gr,GR,Europe,Southern Europe,Greece,,,
+83.235.44.103,4,-2144853369,DNS Server: 103.44.235.83.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+94.71.224.154,4,-29180,DNS Server: 154.224.71.94.static.otenet.gr,GR,Europe,Southern Europe,Greece,,,
+85.74.242.182,4,104398,DNS Server: 182.242.74.85.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+194.177.200.245,4,-3,DNS Server: 194-177-200-245.uth.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+195.251.19.1,4,-17532,DNS Server: 195-251-19-1.uth.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+79.131.108.227,4,26827,DNS Server: 227.108.131.79.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+94.70.86.230,4,16968,DNS Server: 230.86.70.94.static.otenet.gr,GR,Europe,Southern Europe,Greece,North Aegean,,Mytilene
+83.235.105.234,4,-8,DNS Server: 234.105.235.83.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+2.85.181.242,4,-45519,DNS Server: 242.181.85.2.static.otenet.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Serres
+94.65.20.242,4,-6,DNS Server: 242.20.65.94.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+85.73.73.246,4,-10,DNS Server: 246.73.73.85.static.otenet.gr,GR,Europe,Southern Europe,Greece,Thessaly,,Larissa
+94.68.84.250,4,39189,DNS Server: 250.84.68.94.static.otenet.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Serres
+212.205.159.4,4,41283,DNS Server: 4.159.205.212.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+85.74.255.42,4,1340,DNS Server: 42.255.74.85.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+2.85.180.50,4,42847,DNS Server: 50.180.85.2.static.otenet.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Serres
+94.64.161.6,4,-1,DNS Server: 6.161.64.94.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+77.49.160.241,4,51077523,DNS Server: 77.49.160.241.dsl.dyn.forthnet.gr,GR,Europe,Southern Europe,Greece,Thessaly,,Volos
+84.254.51.145,4,4519,DNS Server: adsl-145.84.254.51.tellas.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 84.254.63.214,4,215960,DNS Server: adsl-214.84.254.63.tellas.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-79.129.2.87,4,89,DNS Server: apsi501.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-79.129.2.75,4,61,DNS Server: apsi530.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-79.129.2.77,4,5,DNS Server: apsi590.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-80.107.225.59,4,112,DNS Server: athe10ks-l100.otenet.net,GR,Europe,Southern Europe,Greece,Attica,,Athens
-87.202.171.109,4,426,DNS Server: athedsl-369528.home.otenet.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-94.70.67.175,4,548,DNS Server: athedsl-4552615.home.otenet.gr,GR,Europe,Southern Europe,Greece,South Aegean,Nomós Kykládon,Naxos
-94.70.104.58,4,360,DNS Server: athedsl-4561970.home.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Nikaia
-212.251.68.204,4,-18823086,DNS Server: campingkaymakis.ath.forthnet.gr,GR,Europe,Southern Europe,Greece,Attica,Attica,Piraeus
-188.117.197.78,4,-11524370,DNS Server: dhcp-188-117-197-78.cm.hcn.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-85.72.32.180,4,545,DNS Server: dimark.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-62.74.159.221,4,14895,DNS Server: dumy221.panafonet.gr,GR,Europe,Southern Europe,Greece,,,
-85.72.141.81,4,-659,DNS Server: gate.dltsyrou.gr,GR,Europe,Southern Europe,Greece,Peloponnese,Argolida,Argos
-79.129.102.118,4,45,DNS Server: hell18.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-85.72.141.131,4,925,DNS Server: host3.ikaria.ondsl.gr,GR,Europe,Southern Europe,Greece,Peloponnese,Argolida,Argos
-84.254.29.161,4,468,DNS Server: ipa161.29.tellas.gr,GR,Europe,Southern Europe,Greece,Attica,,Marousi
-94.71.88.32,4,8251,DNS Server: lime75.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Chaïdári
-80.106.194.173,4,60809,DNS Server: net269.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-185.243.214.17,4,68,DNS Server: no-reverse-yet.local,GR,Europe,Southern Europe,Greece,Attica,,Athens
-79.129.10.169,4,68430,DNS Server: o0k6im.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+79.129.2.87,4,-2,DNS Server: apsi501.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+79.129.2.75,4,-2,DNS Server: apsi530.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+79.129.2.77,4,-1,DNS Server: apsi590.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+79.129.2.79,4,-4,DNS Server: apsi650.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+80.107.225.59,4,-2,DNS Server: athe10ks-l100.otenet.net,GR,Europe,Southern Europe,Greece,Attica,,Athens
+85.75.216.110,4,343,DNS Server: athedsl-172240.home.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Kifissia
+85.74.139.43,4,-3,DNS Server: athedsl-209805.home.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+79.131.77.117,4,41,DNS Server: athedsl-390519.home.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+78.108.47.140,4,77033526,DNS Server: cs-side-itnetworks-ath.synapsecom.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+85.72.32.180,4,31223,DNS Server: dimark.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+62.74.227.153,4,-3763882356,DNS Server: dumy153.panafonet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+62.74.159.221,4,68993,DNS Server: dumy221.panafonet.gr,GR,Europe,Southern Europe,Greece,Attica,,
+62.74.157.85,4,1,DNS Server: dyn85.xan1.nas.panafonet.gr,GR,Europe,Southern Europe,Greece,Attica,,
+85.72.141.81,4,-659,DNS Server: gate.dltsyrou.gr,GR,Europe,Southern Europe,Greece,Peloponnese,,Argos
+94.67.127.87,4,23,DNS Server: host7.eunice.ondsl.gr,GR,Europe,Southern Europe,Greece,East Macedonia and Thrace,,Xánthi
+94.67.127.88,4,22,DNS Server: host8.eunice.ondsl.gr,GR,Europe,Southern Europe,Greece,East Macedonia and Thrace,,Xánthi
+94.70.160.74,4,-3,DNS Server: karp85.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+94.71.88.32,4,27164,DNS Server: lime75.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+91.138.229.7,4,7,DNS Server: mail2.bellemeat.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+79.131.102.237,4,-685,DNS Server: merr80.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+79.129.52.33,4,10612,DNS Server: mkm329.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 79.129.58.166,4,-2146957046,DNS Server: o17rvr.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-85.72.149.158,4,184,DNS Server: o2m4nv.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-79.129.55.28,4,138,DNS Server: o3g6pt.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-79.129.29.39,4,-8745,DNS Server: obveav.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-94.71.0.225,4,208,DNS Server: ocrtzw.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-85.72.57.79,4,-2137840364,DNS Server: ofe5ja.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-79.131.182.173,4,164,DNS Server: oj36bi.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-80.106.85.168,4,-2117743618,DNS Server: olltbt.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-94.70.166.191,4,171,DNS Server: ory2ve.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-195.167.123.245,4,29310,DNS Server: otgicj.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-2.84.38.146,4,-143545,DNS Server: ov0pvx.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,Attica,Piraeus
-94.66.237.222,4,187,DNS Server: owgzel.static.otenet.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-2.84.158.131,4,969,DNS Server: ppp-2-84-158-131.home.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-2.85.93.224,4,1375,DNS Server: ppp-2-85-93-224.home.otenet.gr,GR,Europe,Southern Europe,Greece,Ionian Islands,Nomós Kerkýras,Corfu
-2.86.250.64,4,-150,DNS Server: ppp-2-86-250-64.home.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-2.86.33.153,4,634,DNS Server: ppp-2-86-33-153.home.otenet.gr,GR,Europe,Southern Europe,Greece,Thessaly,Nomós Kardhítsas,Agios Nikolaos
-2.87.132.158,4,643,DNS Server: ppp-2-87-132-158.home.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-94.65.50.72,4,653,DNS Server: ppp-94-65-50-72.home.otenet.gr,GR,Europe,Southern Europe,Greece,Central Greece,Nomós Voiotías,Livadeia
-94.66.212.148,4,1314,DNS Server: ppp-94-66-212-148.home.otenet.gr,GR,Europe,Southern Europe,Greece,Peloponnese,Laconia,Sparti
-94.68.89.84,4,1252,DNS Server: ppp-94-68-89-84.home.otenet.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Sérres,Serres
-194.30.254.138,4,1122,DNS Server: ppp194030254138.access.hol.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-79.129.62.230,4,97553,DNS Server: serial.aigialeia.gov.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-85.73.92.103,4,347,DNS Server: sm247.static.otenet.gr,GR,Europe,Southern Europe,Greece,West Greece,Aitoloakarnania,Messolonghi
-83.212.108.245,4,194,DNS Server: snf-882282.vm.okeanos.grnet.gr,GR,Europe,Southern Europe,Greece,,,
-91.138.229.242,4,279,DNS Server: static091138229242.access.hol.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-195.47.208.42,4,-3,drive.gr,GR,Europe,Southern Europe,Greece,,,
-185.25.23.155,4,6,e-kafstires.gr,GR,Europe,Southern Europe,Greece,,,
-213.16.175.115,4,4,e-kyklades.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+85.72.149.158,4,41,DNS Server: o2m4nv.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+79.129.55.28,4,74,DNS Server: o3g6pt.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+80.107.51.149,4,80,DNS Server: o8fbm6.static.otenet.gr,GR,Europe,Southern Europe,Greece,South Aegean,,Kos
+79.129.29.39,4,-553,DNS Server: obveav.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+85.72.57.79,4,-2136781174,DNS Server: ofe5ja.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+79.131.182.173,4,-2,DNS Server: oj36bi.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+83.235.176.53,4,-53242,DNS Server: omjlz1.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+94.70.250.186,4,4759,DNS Server: orbi18.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+94.70.166.191,4,-7,DNS Server: ory2ve.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+195.167.123.245,4,12932,DNS Server: otgicj.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+79.129.56.119,4,-1,DNS Server: oy1vgt.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+2.85.190.113,4,547,DNS Server: ppp-2-85-190-113.home.otenet.gr,GR,Europe,Southern Europe,Greece,Thessaly,,Zagora-Mouresi
+2.85.93.224,4,790,DNS Server: ppp-2-85-93-224.home.otenet.gr,GR,Europe,Southern Europe,Greece,Ionian Islands,,Corfu
+94.65.50.72,4,-1211,DNS Server: ppp-94-65-50-72.home.otenet.gr,GR,Europe,Southern Europe,Greece,Central Greece,,Livadeia
+94.66.212.148,4,227,DNS Server: ppp-94-66-212-148.home.otenet.gr,GR,Europe,Southern Europe,Greece,Peloponnese,,Sparti
+94.67.232.215,4,716,DNS Server: ppp-94-67-232-215.home.otenet.gr,GR,Europe,Southern Europe,Greece,Thessaly,,Larissa
+194.30.254.138,4,64933,DNS Server: ppp194030254138.access.hol.gr,GR,Europe,Southern Europe,Greece,Attica,,Marousi
+79.129.62.230,4,3016,DNS Server: serial.aigialeia.gov.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+94.71.6.8,4,261,DNS Server: serial.hbb999.ondsl.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+77.69.37.70,4,56804258,DNS Server: static077069037070.dsl.hol.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+91.138.189.141,4,232,DNS Server: static091138189141.access.hol.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+91.138.201.248,4,148,DNS Server: static091138201248.access.hol.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+91.138.229.242,4,6,DNS Server: static091138229242.access.hol.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+91.138.235.204,4,455,DNS Server: static091138235204.access.hol.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+213.158.90.190,4,1,doggotothemoon.io,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+185.234.52.87,4,967048,DoH server: ath01.dnscry.pt,GR,Europe,Southern Europe,Greece,Attica,,Athens
+85.90.197.7,4,6,DoH server: dnscry.pt-thessaloniki-ipv4,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+185.25.23.155,4,-3,e-kafstires.gr,GR,Europe,Southern Europe,Greece,,,
+213.16.175.115,4,2,e-kyklades.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 95.129.46.107,4,1725,ecigarette-research.com,GR,Europe,Southern Europe,Greece,,,
-62.1.105.166,4,5,efa.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-185.78.220.30,4,3,efthimioumed.gr,GR,Europe,Southern Europe,Greece,,,
-185.138.42.184,4,17,egejsko-makedonskosonceradio.com,GR,Europe,Southern Europe,Greece,,,
-62.217.127.93,4,24,elevategreece.gov.gr,GR,Europe,Southern Europe,Greece,,,
-83.212.171.7,4,29,ellak.gr,GR,Europe,Southern Europe,Greece,,,
-185.158.223.9,4,5,elpedison.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-185.158.223.48,4,7,elta.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-185.78.220.126,4,31,emathisi.gr,GR,Europe,Southern Europe,Greece,,,
-185.4.132.167,4,476,eom.gr,GR,Europe,Southern Europe,Greece,,,
-62.1.45.202,4,8590,esake.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-84.54.49.43,4,16,escortsingreece.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-83.212.4.116,4,50,eudoxus.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+213.158.90.229,4,-6,eeeth.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+62.1.105.166,4,-13,efa.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+213.158.90.111,4,15,efomp.org,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.78,4,-7,egnatia.eu,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+31.22.118.57,4,-12,electrahotels.gr,GR,Europe,Southern Europe,Greece,,,
+83.212.171.7,4,-31,ellak.gr,GR,Europe,Southern Europe,Greece,,,
+213.158.90.7,4,6,elrig.org,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.96,4,-5,envolveglobal.org,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+185.78.220.102,4,1,enwsi.gr,GR,Europe,Southern Europe,Greece,,,
+77.69.35.119,4,-14,erotokritos-santorini.gr,GR,Europe,Southern Europe,Greece,Attica,,Moschato
+62.1.45.202,4,58426,esake.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+84.54.49.43,4,16,escortsingreece.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+194.177.218.66,4,-1,espiv.net,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+83.212.4.116,4,50,eudoxus.gr,GR,Europe,Southern Europe,Greece,West Macedonia,,Ptolemaida
+213.158.90.95,4,-20,euraxess.org,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.106,4,5,europeangeoparks.org,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+185.78.220.126,4,4,eurotraining.gr,GR,Europe,Southern Europe,Greece,,,
+91.186.196.19,4,3,expocrimea.com,GR,Europe,Southern Europe,Greece,,,
+185.25.21.103,4,-31,feministresearch.org,GR,Europe,Southern Europe,Greece,,,
 185.25.23.154,4,4,fleming.gr,GR,Europe,Southern Europe,Greece,,,
-185.25.23.165,4,7,flogarecords.com,GR,Europe,Southern Europe,Greece,,,
-185.78.221.201,4,1,foodexpo.gr,GR,Europe,Southern Europe,Greece,,,
-83.212.170.182,4,24,gak.gr,GR,Europe,Southern Europe,Greece,,,
-185.29.25.27,4,5,gamos-guide.gr,GR,Europe,Southern Europe,Greece,,,
-83.212.115.131,4,18446,geodata.gov.gr,GR,Europe,Southern Europe,Greece,,,
-185.138.41.101,4,3,gnest.org,GR,Europe,Southern Europe,Greece,,,
-185.138.42.121,4,8,gnhm.gr,GR,Europe,Southern Europe,Greece,,,
+185.78.221.201,4,-22,foodexpo.gr,GR,Europe,Southern Europe,Greece,,,
+77.69.36.221,4,1510,forecastweather.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+78.108.35.228,4,-12,freshhotel.gr,GR,Europe,Southern Europe,Greece,Attica,,Megara
+83.212.170.182,4,-7,gak.gr,GR,Europe,Southern Europe,Greece,,,
+91.186.196.46,4,-4,game-ost.com,GR,Europe,Southern Europe,Greece,,,
+213.158.90.44,4,1,gamingcommission.gov.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+185.78.221.24,4,-1621,gargalianoionline.gr,GR,Europe,Southern Europe,Greece,,,
+213.158.90.68,4,14,gcr.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.47,4,-7,gkirinis.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+31.22.114.68,4,10,globostar.gr,GR,Europe,Southern Europe,Greece,,,
+178.253.43.3,4,-12,golnk.ru,GR,Europe,Southern Europe,Greece,,,
 31.22.115.180,4,1133,goulandris.gr,GR,Europe,Southern Europe,Greece,,,
-185.78.220.246,4,-4,greeking.me,GR,Europe,Southern Europe,Greece,,,
-185.138.42.100,4,6,greeklanguage.gr,GR,Europe,Southern Europe,Greece,,,
-62.217.85.159,4,60,grnet.gr,GR,Europe,Southern Europe,Greece,,,
-88.197.28.202,4,18,gunet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-93.174.125.124,4,1,gvcworld.eu,GR,Europe,Southern Europe,Greece,,,
-185.134.113.167,4,-1,hamogelo.gr,GR,Europe,Southern Europe,Greece,,,
-176.119.210.191,4,4,haniotika-nea.gr,GR,Europe,Southern Europe,Greece,,,
-185.138.42.148,4,4,hcaa-eleng.gr,GR,Europe,Southern Europe,Greece,,,
-185.78.220.203,4,1150,helapco.gr,GR,Europe,Southern Europe,Greece,,,
+31.22.113.45,4,-1,grandebretagne.gr,GR,Europe,Southern Europe,Greece,,,
+185.78.220.246,4,9,greekmythologytours.com,GR,Europe,Southern Europe,Greece,,,
+62.217.85.159,4,-5,grnet.gr,GR,Europe,Southern Europe,Greece,,,
+143.233.226.80,4,-5,gsri.gov.gr,GR,Europe,Southern Europe,Greece,Attica,,Kallithea
+88.197.28.202,4,6,gunet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+93.174.125.124,4,-3,gvcworld.eu,GR,Europe,Southern Europe,Greece,,,
+185.134.113.167,4,-10,hamogelo.gr,GR,Europe,Southern Europe,Greece,,,
+176.119.210.191,4,0,haniotika-nea.gr,GR,Europe,Southern Europe,Greece,Attica,,
+178.253.40.243,4,-10,hantify.ru,GR,Europe,Southern Europe,Greece,,,
+213.158.90.182,4,-6,hcaa-eleng.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+185.25.23.44,4,3,healthpharma.gr,GR,Europe,Southern Europe,Greece,,,
+185.78.220.203,4,828,helapco.gr,GR,Europe,Southern Europe,Greece,,,
 185.78.221.75,4,14,horecaexpo.gr,GR,Europe,Southern Europe,Greece,,,
-78.108.40.230,4,8,i2dealer.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-83.212.10.167,4,29,ihu.edu.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-83.212.10.166,4,4,ihu.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-62.217.72.62,4,28,iky.gr,GR,Europe,Southern Europe,Greece,,,
-194.177.217.209,4,-3558097,ilsp.gr,GR,Europe,Southern Europe,Greece,,,
-185.157.208.38,4,-5,imegsevee.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-185.78.221.199,4,30,isathens.gr,GR,Europe,Southern Europe,Greece,,,
+213.158.90.20,4,13,i-m-patron.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.33,4,24,i-smartcloud.com,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+78.108.40.230,4,8,i2dealer.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+213.158.90.13,4,0,iaath.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.14,4,13,iatriko.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+83.212.10.167,4,15,ihu.gr,GR,Europe,Southern Europe,Greece,West Macedonia,,Ptolemaida
+83.212.10.166,4,4,ihu.gr,GR,Europe,Southern Europe,Greece,West Macedonia,,Ptolemaida
+93.174.123.164,4,0,ikogkalidis-consulting.com,GR,Europe,Southern Europe,Greece,,,
+62.217.72.62,4,28,iky.gr,GR,Europe,Southern Europe,Greece,Attica,,Piraeus
+194.177.217.209,4,3452,ilsp.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+185.78.220.248,4,-5,insete.gr,GR,Europe,Southern Europe,Greece,,,
+185.25.23.160,4,-7,iobe.gr,GR,Europe,Southern Europe,Greece,,,
+185.78.221.199,4,-3,isathens.gr,GR,Europe,Southern Europe,Greece,,,
 93.174.125.80,4,368,isomat.gr,GR,Europe,Southern Europe,Greece,,,
+94.241.142.184,4,5,iznanka.news,GR,Europe,Southern Europe,Greece,,,
+213.158.90.244,4,27,jasarqueologia.es,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 83.212.168.227,4,6,jceps.com,GR,Europe,Southern Europe,Greece,,,
-185.138.42.141,4,29,kalamatadancefestival.gr,GR,Europe,Southern Europe,Greece,,,
-185.138.42.30,4,4,kemea.gr,GR,Europe,Southern Europe,Greece,,,
-93.174.121.31,4,-2062494,kourdistoportocali.com,GR,Europe,Southern Europe,Greece,Attica,,Agía Varvára
-188.164.200.40,4,-20360,ktelattikis.gr,GR,Europe,Southern Europe,Greece,,,
-185.138.42.137,4,24,lastdaydeaf.com,GR,Europe,Southern Europe,Greece,,,
-93.174.121.80,4,3653,lesvossolidarity.org,GR,Europe,Southern Europe,Greece,Attica,,Agía Varvára
+185.25.23.200,4,22,kalieleon.gr,GR,Europe,Southern Europe,Greece,,,
+93.174.125.102,4,-4,kifissia.gr,GR,Europe,Southern Europe,Greece,,,
+185.157.208.181,4,-9,knossos-palace.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+83.147.246.201,4,-9,kolomna-spravka.ru,GR,Europe,Southern Europe,Greece,,,
+37.98.199.70,4,37,komvos.edu.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+93.174.121.31,4,-3218539,kourdistoportocali.com,GR,Europe,Southern Europe,Greece,Attica,,Agía Varvára
+94.241.141.21,4,-15,kristyhome.ru,GR,Europe,Southern Europe,Greece,,,
+188.164.200.40,4,81857,ktelattikis.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Giannitsá
+213.158.90.192,4,5,kyisis.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.87,4,49,lefkimmiferries.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 79.129.83.76,4,2,line.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-185.162.236.195,4,12,livanis.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+185.162.236.195,4,12,livanis.gr,GR,Europe,Southern Europe,Greece,,,
+154.57.18.238,4,-13,live24.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 193.162.7.179,4,-32,live24.gr,GR,Europe,Southern Europe,Greece,,,
-185.201.254.86,4,29,logodiatrofis.gr,GR,Europe,Southern Europe,Greece,,,
-185.25.23.58,4,136,macedonian-heritage.gr,GR,Europe,Southern Europe,Greece,,,
-193.218.36.5,4,8,maich.gr,GR,Europe,Southern Europe,Greece,,,
-62.38.6.97,4,69,makeleio.gr,GR,Europe,Southern Europe,Greece,Crete,Chania,Chania
+178.253.43.178,4,-8,lockmart.ru,GR,Europe,Southern Europe,Greece,,,
+185.201.254.86,4,29,logodiatrofis.gr,GR,Europe,Southern Europe,Greece,Attica,,
+94.241.143.205,4,-2,lyssymussu.ru,GR,Europe,Southern Europe,Greece,,,
+185.25.23.58,4,-13,macedonian-heritage.gr,GR,Europe,Southern Europe,Greece,,,
+193.218.36.5,4,6,maich.gr,GR,Europe,Southern Europe,Greece,,,
+93.174.127.96,4,-14,makeawish.gr,GR,Europe,Southern Europe,Greece,,,
+83.212.76.191,4,12,makerscommons.eu,GR,Europe,Southern Europe,Greece,,,
+213.158.90.73,4,10,manolischristodoulakis.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.163,4,-15,maraka.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 185.25.23.99,4,3,maritimecyprus.com,GR,Europe,Southern Europe,Greece,,,
-185.36.235.26,4,7,mednutrition.gr,GR,Europe,Southern Europe,Greece,,,
-185.78.221.41,4,-430907,messinialive.gr,GR,Europe,Southern Europe,Greece,,,
-185.138.42.60,4,39,metadrasi.org,GR,Europe,Southern Europe,Greece,,,
-185.78.221.73,4,14,mic.gr,GR,Europe,Southern Europe,Greece,,,
-84.54.49.200,4,10,modoffice.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
+213.158.90.55,4,4,matsomenosgatos.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.51,4,0,mcf.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+94.241.140.88,4,-8,mchsnik.ru,GR,Europe,Southern Europe,Greece,,,
+185.36.235.26,4,-1,mednutrition.gr,GR,Europe,Southern Europe,Greece,,,
+193.162.7.199,4,4,menshouse.gr,GR,Europe,Southern Europe,Greece,,,
+185.25.23.68,4,-8,mermaid-mykonos.com,GR,Europe,Southern Europe,Greece,,,
+185.78.221.41,4,-46769,messinialive.gr,GR,Europe,Southern Europe,Greece,,,
+94.241.142.159,4,29,metall78.ru,GR,Europe,Southern Europe,Greece,,,
+185.78.221.73,4,0,mic.gr,GR,Europe,Southern Europe,Greece,,,
+94.241.170.108,4,18,misslo.com,GR,Europe,Southern Europe,Greece,,,
+31.22.115.203,4,1033,mitropolitiko.edu.gr,GR,Europe,Southern Europe,Greece,,,
+213.158.90.143,4,3,moderndiplomacy.eu,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 185.70.76.198,4,859,musicheaven.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 185.25.20.72,4,93,musiclexis.com,GR,Europe,Southern Europe,Greece,,,
+94.241.142.103,4,2,mxat.ru,GR,Europe,Southern Europe,Greece,,,
 185.25.23.66,4,13,mygem.gr,GR,Europe,Southern Europe,Greece,,,
 185.134.112.158,4,36,mykonos.gr,GR,Europe,Southern Europe,Greece,,,
-31.22.115.162,4,4,myphone.gr,GR,Europe,Southern Europe,Greece,,,
-185.109.19.166,4,8,myriobiblos.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-2.19.51.137,4,-31,nbg.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-2.19.51.162,4,-32,nbg.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-185.138.42.82,4,4,neaodos.gr,GR,Europe,Southern Europe,Greece,,,
-185.138.42.154,4,52,nicholasrossis.me,GR,Europe,Southern Europe,Greece,,,
-147.102.224.101,4,56,ntua.gr,GR,Europe,Southern Europe,Greece,Attica,,Keratea
-185.138.42.76,4,-2,oanagnostis.gr,GR,Europe,Southern Europe,Greece,,,
-31.22.113.54,4,1112,oasa.gr,GR,Europe,Southern Europe,Greece,,,
-188.164.200.35,4,-20378,oasth.gr,GR,Europe,Southern Europe,Greece,,,
-185.138.42.54,4,3,omhksea.org,GR,Europe,Southern Europe,Greece,,,
-62.217.126.171,4,138,Ookla Speedtest Server 1727: speedtest.gr-ix.gr,GR,Europe,Southern Europe,Greece,,,
-31.22.112.100,4,815707,Ookla Speedtest Server 5377: speedtest.hyperhosting.gr,GR,Europe,Southern Europe,Greece,,,
-31.177.57.52,4,-28448,Ookla Speedtest Server 15251: ookla.iphost.net,GR,Europe,Southern Europe,Greece,Attica,,Athens
-185.4.132.50,4,78692,Ookla Speedtest Server 21326: speedtest.top.host,GR,Europe,Southern Europe,Greece,,,
-185.4.132.122,4,343,Ookla Speedtest Server 25306: skoultsos.eu,GR,Europe,Southern Europe,Greece,Thessaly,Magnesia,Argalastí
-91.218.22.237,4,188,Ookla Speedtest Server 54045: ookla1.fast.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-185.106.37.16,4,355,Ookla Speedtest Server 60798: speedtest.patrasbroadband.gr,GR,Europe,Southern Europe,Greece,,,
-154.57.15.243,4,23638,Ookla Speedtest Server 61909: speedtest.novelcomm.gr,GR,Europe,Southern Europe,Greece,Crete,Heraklion Regional Unit,Metamórfosi
-193.186.200.12,4,329,Ookla Speedtest Server 63761: speedtest.cityofathens.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-185.138.42.92,4,3,opi.gr,GR,Europe,Southern Europe,Greece,,,
-93.174.121.149,4,7167,ortodossia.it,GR,Europe,Southern Europe,Greece,Attica,,Agía Varvára
-185.138.42.188,4,27,osarena.net,GR,Europe,Southern Europe,Greece,,,
-194.177.218.20,4,6,panteion.gr,GR,Europe,Southern Europe,Greece,,,
-84.54.49.203,4,41,paramarketing.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-91.220.131.240,4,20,paros.gr,GR,Europe,Southern Europe,Greece,,,
-185.138.42.170,4,9,parthenonfrieze.gr,GR,Europe,Southern Europe,Greece,,,
+185.134.113.137,4,0,myphone.gr,GR,Europe,Southern Europe,Greece,,,
+185.109.19.166,4,4,myriobiblos.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+194.177.210.210,4,-2,National Infrastructures for Research and Technology S.A.,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+213.158.90.228,4,-11,neaodos.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+147.102.224.101,4,14,ntua.gr,GR,Europe,Southern Europe,Greece,Attica,,Alimos
+93.174.123.218,4,-1,oaka.com.gr,GR,Europe,Southern Europe,Greece,,,
+213.158.90.4,4,19,oanagnostis.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+31.22.113.54,4,1351,oasa.gr,GR,Europe,Southern Europe,Greece,,,
+188.164.200.35,4,5338,oasth.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Giannitsá
+185.78.221.222,4,-30,oenet.gr,GR,Europe,Southern Europe,Greece,,,
+213.158.90.112,4,-2,olivalavish.com,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+31.22.113.63,4,5,olomeleia.gr,GR,Europe,Southern Europe,Greece,,,
+213.158.90.150,4,-13,olympiafestival.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+62.217.126.171,4,4,Ookla Speedtest Server 1727: speedtest.gr-ix.gr,GR,Europe,Southern Europe,Greece,,,
+31.22.112.100,4,1482885,Ookla Speedtest Server 5377: speedtest.hyperhosting.gr,GR,Europe,Southern Europe,Greece,,,
+185.180.36.180,4,-36,Ookla Speedtest Server 10957: speedtest.greekstream.net,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+185.180.36.10,4,6,Ookla Speedtest Server 10980: speedtest-skg.greekstream.net,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+185.216.139.15,4,5,Ookla Speedtest Server 11797: ookla-met.c2.gr,GR,Europe,Southern Europe,Greece,Attica,,Metamorfosi
+31.177.57.52,4,-501933,Ookla Speedtest Server 15251: ookla.iphost.net,GR,Europe,Southern Europe,Greece,Attica,,Athens
+139.91.191.120,4,-4,Ookla Speedtest Server 18564: speedtest.ics.forth.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+185.4.132.122,4,15,Ookla Speedtest Server 25306: skoultsos.eu,GR,Europe,Southern Europe,Greece,Thessaly,,Argalastí
+46.227.62.3,4,-3,Ookla Speedtest Server 28125: ultrafast.gr,GR,Europe,Southern Europe,Greece,Central Greece,,
+185.32.228.4,4,-4,Ookla Speedtest Server 37580: optiland-speedtest.sadmin.eu,GR,Europe,Southern Europe,Greece,Central Macedonia,,Serres
+91.218.22.237,4,-3,Ookla Speedtest Server 54045: ookla1.fast.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+185.201.254.21,4,-11,Ookla Speedtest Server 54377: spdf.fastpath.gr,GR,Europe,Southern Europe,Greece,Attica,,
+192.109.220.7,4,-9,Ookla Speedtest Server 54992: speedtest.newave.al,GR,Europe,Southern Europe,Greece,,,
+91.218.22.234,4,1,Ookla Speedtest Server 55335: ookla2.fast.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+185.106.37.16,4,2,Ookla Speedtest Server 60798: speedtest.patrasbroadband.gr,GR,Europe,Southern Europe,Greece,,,
+141.11.189.242,4,1431,Ookla Speedtest Server 61909: speedtest.novelcomm.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+193.186.200.12,4,7,Ookla Speedtest Server 63761: speedtest.cityofathens.gr,GR,Europe,Southern Europe,Greece,Attica,,Neo Psychiko
+194.179.140.47,4,7,Ookla Speedtest Server 69165: speedtest.fibergrid.gr,GR,Europe,Southern Europe,Greece,,,
+154.57.19.11,4,7,Ookla Speedtest Server 71342: ath-speedtest.isp.htb.systems,GR,Europe,Southern Europe,Greece,Attica,,Athens
+31.22.118.12,4,4,Ookla Speedtest Server 73965: speedtest.datahost.gr,GR,Europe,Southern Europe,Greece,,,
+83.212.72.112,4,-4,openlab-ste.gr,GR,Europe,Southern Europe,Greece,,,
+213.158.90.235,4,3,opi.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+195.167.86.34,4,5,OTEnet S.A. Marousi,GR,Europe,Southern Europe,Greece,Attica,,Keratsini
+185.25.23.101,4,1,paidikakaterina.gr,GR,Europe,Southern Europe,Greece,,,
+185.25.23.26,4,3,paidis.com,GR,Europe,Southern Europe,Greece,,,
+213.158.90.89,4,20,pallacandles.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+185.25.23.140,4,7,panagiotidisrealestate.gr,GR,Europe,Southern Europe,Greece,,,
+213.158.90.39,4,14,papasotiriou.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+84.54.49.203,4,27,paramarketing.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+93.174.123.72,4,1265,parnassos-ski.gr,GR,Europe,Southern Europe,Greece,,,
 83.212.173.236,4,43,pasteur.gr,GR,Europe,Southern Europe,Greece,,,
-62.103.124.7,4,13,pathfinder.gr,GR,Europe,Southern Europe,Greece,Attica,,Acharnes
+62.103.124.7,4,-6,pathfinder.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+213.158.90.56,4,19,peliti.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+195.47.208.42,4,3,peoplegroup.gr,GR,Europe,Southern Europe,Greece,,,
+185.25.20.240,4,9,perama.gr,GR,Europe,Southern Europe,Greece,,,
+91.186.199.174,4,-11,photar.ru,GR,Europe,Southern Europe,Greece,,,
 185.25.23.55,4,4,physics4u.gr,GR,Europe,Southern Europe,Greece,,,
-185.25.23.68,4,4,polimatidisbros.gr,GR,Europe,Southern Europe,Greece,,,
-5.172.194.135,4,6,pomida.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
+213.158.90.232,4,4,platon.edu.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+5.172.194.135,4,-3,pomida.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
 185.25.23.230,4,72,progressus.gr,GR,Europe,Southern Europe,Greece,,,
 185.78.220.136,4,196453,protoporia.gr,GR,Europe,Southern Europe,Greece,,,
-185.138.42.135,4,91,radio1.gr,GR,Europe,Southern Europe,Greece,,,
-178.21.171.195,4,2,rthess.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-87.203.233.9,4,3700808,santorini.com,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
+93.174.123.227,4,10,pvaigaiou.gov.gr,GR,Europe,Southern Europe,Greece,,,
+213.158.90.213,4,12,radio1.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+185.29.25.208,4,13,redcross.gr,GR,Europe,Southern Europe,Greece,,,
+94.241.172.84,4,8,russianescortclub.com,GR,Europe,Southern Europe,Greece,,,
+95.129.46.104,4,9,sada.gr,GR,Europe,Southern Europe,Greece,,,
+87.203.233.10,4,23,santorini.com,GR,Europe,Southern Europe,Greece,Attica,,Athens
+87.203.233.9,4,3700808,santorini.com,GR,Europe,Southern Europe,Greece,Attica,,Athens
 83.212.169.122,4,28,satnogs.org,GR,Europe,Southern Europe,Greece,,,
-185.138.42.90,4,38,sete.gr,GR,Europe,Southern Europe,Greece,,,
-93.174.127.20,4,2191,seve.gr,GR,Europe,Southern Europe,Greece,,,
-84.54.49.41,4,22,sexyaggelies.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-185.138.42.175,4,5,shiatsugr.gr,GR,Europe,Southern Europe,Greece,,,
-185.157.208.41,4,0,sinidisi.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-83.212.173.158,4,12,spinellis.gr,GR,Europe,Southern Europe,Greece,,,
-194.177.218.66,4,12,squat.gr,GR,Europe,Southern Europe,Greece,,,
-185.138.43.36,4,37,star.gr,GR,Europe,Southern Europe,Greece,,,
-185.134.113.163,4,35,starbulk.com,GR,Europe,Southern Europe,Greece,,,
-185.138.42.143,4,35,studyingreece.edu.gr,GR,Europe,Southern Europe,Greece,,,
-195.130.72.1,4,2,teiep.gr,GR,Europe,Southern Europe,Greece,,,
-194.177.210.107,4,-28817,teiion.gr,GR,Europe,Southern Europe,Greece,,,
-195.251.124.93,4,10,teilar.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-150.140.209.3,4,61,teimes.gr,GR,Europe,Southern Europe,Greece,West Greece,Achaea,Pátrai
-185.4.133.228,4,-7,theclumsies.gr,GR,Europe,Southern Europe,Greece,,,
-185.138.42.44,4,2,themargi.gr,GR,Europe,Southern Europe,Greece,,,
-5.172.196.245,4,1806,thessalonikifair.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-178.21.171.218,4,8,thessnews.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,Thessaloniki,Thessaloniki
-185.138.42.22,4,10,theuncomfortable.com,GR,Europe,Southern Europe,Greece,,,
-185.25.23.240,4,4,thmphoto.gr,GR,Europe,Southern Europe,Greece,,,
+213.158.90.171,4,28,sete.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.18,4,8,sev.org.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+84.54.49.41,4,22,sexyaggelies.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+213.158.90.240,4,6,sinwebradio.com,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+83.147.247.92,4,5,skipper-spb.ru,GR,Europe,Southern Europe,Greece,,,
+93.174.123.74,4,950,solidaritynow.org,GR,Europe,Southern Europe,Greece,,,
+83.212.173.158,4,31,spinellis.gr,GR,Europe,Southern Europe,Greece,,,
+213.158.90.74,4,20,sportjobs.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+93.174.127.38,4,16,sportstonoto.gr,GR,Europe,Southern Europe,Greece,,,
+155.207.18.107,4,9,squat.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+213.158.90.122,4,34,star.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+185.134.113.163,4,9,starbulk.com,GR,Europe,Southern Europe,Greece,,,
+213.158.90.185,4,21,strata-shop.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.37,4,9,systemica.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+84.54.49.202,4,9,tantoscar.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+185.25.23.165,4,11,teez.gr,GR,Europe,Southern Europe,Greece,,,
+194.177.210.107,4,-28817,teiion.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+195.251.124.93,4,35,teilar.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+150.140.209.3,4,-6,teimes.gr,GR,Europe,Southern Europe,Greece,West Greece,,Pátrai
+185.25.23.132,4,17,tentes-aggelis.gr,GR,Europe,Southern Europe,Greece,,,
+93.174.121.195,4,1296,thea-residences.gr,GR,Europe,Southern Europe,Greece,Attica,,Agía Varvára
+213.158.90.160,4,11,theclumsies.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+185.78.220.147,4,16,thelab.gr,GR,Europe,Southern Europe,Greece,,,
+93.174.121.59,4,17,themallathens.gr,GR,Europe,Southern Europe,Greece,Attica,,Agía Varvára
+213.158.90.199,4,19,themargi.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+185.109.19.149,4,1,themistokleous.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+213.158.90.101,4,27,thesauricaviar.com,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+5.172.196.245,4,4799,thessalonikifair.gr,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+185.25.23.240,4,15,thessbike.gr,GR,Europe,Southern Europe,Greece,,,
+213.158.90.176,4,-5,theuncomfortable.com,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.22,4,35,thf.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+31.22.115.90,4,1117,tostoixima.gr,GR,Europe,Southern Europe,Greece,,,
+185.157.208.66,4,25,tourismtoday.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+213.158.90.40,4,-1,traceyoureco.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+185.25.23.54,4,-1819,tradifresh.com.gr,GR,Europe,Southern Europe,Greece,,,
 185.78.220.222,4,4,travelcenter.gr,GR,Europe,Southern Europe,Greece,,,
-147.52.80.1,4,5,uoc.gr,GR,Europe,Southern Europe,Greece,Crete,Heraklion Regional Unit,Heraklion
+213.158.90.226,4,19,tuttojeans.com,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.17,4,16,tvf.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+93.174.123.254,4,11,txneasmirni.gr,GR,Europe,Southern Europe,Greece,,,
+147.52.80.1,4,5,uoc.gr,GR,Europe,Southern Europe,Greece,Crete,,
 83.212.171.14,4,12,uowm.gr,GR,Europe,Southern Europe,Greece,,,
-194.177.200.132,4,13,uth.gr,GR,Europe,Southern Europe,Greece,,,
-195.230.102.99,4,27,velti.com,GR,Europe,Southern Europe,Greece,,,
-185.138.42.86,4,7,venetsanoswinery.com,GR,Europe,Southern Europe,Greece,,,
+194.177.200.132,4,11,uth.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+83.147.246.216,4,21,vegapro.ru,GR,Europe,Southern Europe,Greece,,,
+195.230.102.99,4,40,velti.com,GR,Europe,Southern Europe,Greece,,,
 185.25.23.56,4,8,venizelos-foundation.gr,GR,Europe,Southern Europe,Greece,,,
+213.158.90.91,4,-2,vermantia.com,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 31.22.115.178,4,826,vikoswater.gr,GR,Europe,Southern Europe,Greece,,,
-185.4.134.37,4,21,visitmeteora.travel,GR,Europe,Southern Europe,Greece,,,
-77.69.37.68,4,43,Vodafone-Panafon Hellenic Telecommunications Company SA Thessaloniki,GR,Europe,Southern Europe,Greece,Thessaly,Nomós Larísis,Larissa
-83.212.168.30,4,49,void.gr,GR,Europe,Southern Europe,Greece,,,
-185.25.23.138,4,49,volospress.gr,GR,Europe,Southern Europe,Greece,,,
-185.4.134.125,4,403212,vstar.gr,GR,Europe,Southern Europe,Greece,,,
-62.217.85.154,4,8,wallet.gov.gr,GR,Europe,Southern Europe,Greece,,,
-185.138.42.48,4,5,yeshotels.gr,GR,Europe,Southern Europe,Greece,,,
-212.205.77.225,4,0,ypes.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-212.205.77.210,4,3,ypes.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-62.38.6.112,4,1,ypes.gr,GR,Europe,Southern Europe,Greece,Crete,Chania,Chania
-62.38.6.90,4,1,ypes.gr,GR,Europe,Southern Europe,Greece,Crete,Chania,Chania
-62.38.6.99,4,6,ypes.gr,GR,Europe,Southern Europe,Greece,Crete,Chania,Chania
+213.158.90.10,4,2,vimachem.com,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+77.69.37.68,4,56804263,Vodafone-Panafon Hellenic Telecommunications Company SA Thessaloniki,GR,Europe,Southern Europe,Greece,Central Macedonia,,Thessaloniki
+83.212.168.30,4,17,void.gr,GR,Europe,Southern Europe,Greece,,,
+185.25.23.138,4,12,volospress.gr,GR,Europe,Southern Europe,Greece,,,
+62.217.85.154,4,13,wallet.gov.gr,GR,Europe,Southern Europe,Greece,,,
+213.158.90.26,4,-30,web-greece.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+185.157.208.39,4,-17,when.org.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+94.241.141.85,4,31,xn--80abmllkhdzpl2hf.xn--p1ai,GR,Europe,Southern Europe,Greece,,,
+213.158.90.197,4,-2,yeshotels.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion

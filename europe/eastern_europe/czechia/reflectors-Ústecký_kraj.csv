@@ -1,28 +1,42 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-217.75.213.196,4,38,chomutov.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Chomutov District,Chomutov
-77.48.28.234,4,10,DNS Server: 6pkn.takealookhere.org.uk,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Litoměřice District,Třebenice
-89.24.21.237,4,17,DNS Server: 89-24-21-237.customers.tmcz.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Okres Ústí nad Labem,Ústí nad Labem
-89.24.22.199,4,24,DNS Server: 89-24-22-199.customers.tmcz.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Okres Ústí nad Labem,Ústí nad Labem
-89.24.22.219,4,163,DNS Server: 89-24-22-219.customers.tmcz.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Okres Ústí nad Labem,Ústí nad Labem
-89.24.22.225,4,160,DNS Server: 89-24-22-225.customers.tmcz.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Okres Ústí nad Labem,Ústí nad Labem
-77.48.159.46,4,96930,DNS Server: ip-77-48-159-46.net.vodafone.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Chomutov District,Chomutov
-77.48.24.158,4,56195,DNS Server: ip-77-48-24-158.net.vodafone.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Teplice District,Teplice
-78.111.112.78,4,407,DNS Server: u112-78.static.grape.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Žatec
-78.111.113.174,4,277,DNS Server: u113-174.static.grape.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Žatec
-78.111.114.13,4,369,DNS Server: u114-13.static.grape.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Žatec
-78.111.115.210,4,11737,DNS Server: u115-210.static.grape.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Žatec
-93.91.145.6,4,268,DNS Server: u145-6.static.grape.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
-93.91.152.174,4,377,DNS Server: u152-174.static.grape.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
-93.91.153.178,4,354,DNS Server: u153-178.static.grape.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
-93.91.153.66,4,281,DNS Server: u153-66.static.grape.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
-93.91.158.214,4,18203,DNS Server: u158-214.static.kabel1.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
-147.161.26.42,4,38,ipmedia.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Chomutov District,Chomutov
-193.34.236.43,4,5,luzicke-hory.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Děčín District,Varnsdorf
-91.229.255.2,4,842774,nitexprofi.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Most District,Litvínov
-93.91.154.12,4,7,ohremedia.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+77.237.128.138,4,-21,aires.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Most District,Most
+82.208.9.179,4,-5,alexandria.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+82.208.6.26,4,-15,charita.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+217.75.213.196,4,-18,chomutov.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Chomutov District,Chomutov
+77.48.28.234,4,-2,DNS Server: 6pkn.takealookhere.org.uk,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Litoměřice District,Třebenice
+91.229.255.10,4,-5,DNS Server: admin.nitex.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Teplice District,Osek
+77.48.159.46,4,170568,DNS Server: ip-77-48-159-46.net.vodafone.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Chomutov District,Jirkov
+77.48.24.158,4,110562,DNS Server: ip-77-48-24-158.net.vodafone.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Teplice District,Teplice
+78.111.121.102,4,-26563,DNS Server: mail.technoline.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Chomutov District,Chomutov
+78.111.113.174,4,-49,DNS Server: u113-174.static.grape.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Kryry
+78.111.114.13,4,-4,DNS Server: u114-13.static.grape.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Kryry
+78.111.115.210,4,46082,DNS Server: u115-210.static.grape.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Kryry
+93.91.145.6,4,-68,DNS Server: u145-6.static.grape.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+93.91.152.174,4,-61,DNS Server: u152-174.static.grape.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+93.91.153.178,4,-15,DNS Server: u153-178.static.grape.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+93.91.153.66,4,25,DNS Server: u153-66.static.grape.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+93.91.158.214,4,67305,DNS Server: u158-214.static.kabel1.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+185.94.6.26,4,-43,DNS Server: user185-94-6-26.luminet.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+91.192.32.80,4,15840,DNS Server: user91-192-32-80.grape.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Chomutov District,Chomutov
+82.208.14.42,4,340651,DNS Server: win3.simplenet.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+82.208.9.148,4,7,floowie.com,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+82.208.14.88,4,-18,grolsch.com,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+82.208.6.9,4,76,horosvaz.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+147.161.26.42,4,-70,ipmedia.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Chomutov District,Chomutov
+82.208.6.4,4,2,kralovstvi-zeleznic.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+193.34.236.43,4,-3,luzicke-hory.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Děčín District,Varnsdorf
+91.229.255.2,4,2944092,nitexprofi.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Teplice District,Osek
+93.91.154.12,4,5,ohremedia.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+217.75.208.140,4,9003345,Ookla Speedtest Server 4162: speedtest1.ispalliance.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Chomutov District,Chomutov
+77.95.46.31,4,-69,Ookla Speedtest Server 11187: speedtest.jaw.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Děčín District,Děčín
 77.48.29.193,4,6,over.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Litoměřice District,Třebenice
-195.113.197.169,4,52,portabo.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Okres Ústí nad Labem,Ústí nad Labem
-195.113.139.75,4,3,ujep.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Okres Ústí nad Labem,Ústí nad Labem
-77.95.40.36,4,23,wmhelp.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Děčín District,Děčín
-77.95.46.10,4,9,zamekdecin.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Děčín District,Děčín
+82.208.6.28,4,9,pokerzive.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+82.208.9.180,4,14,santorini.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+82.208.6.10,4,11,trikralovasbirka.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+77.237.134.68,4,13,vos-sosmost.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Most District,Most
+82.208.6.24,4,-3,wmce.de,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+77.95.40.36,4,-11,wmhelp.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Děčín District,Děčín
+82.208.6.131,4,-8059,worldonline.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+82.208.6.138,4,-4056,worldonline.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+77.95.46.10,4,4,zamekdecin.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Děčín District,Děčín
 93.91.148.122,4,6,zkovysokapec.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny

@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-24.52.24.20,4,5,Ookla Speedtest Server: st-mot.midco.net,US,Americas,Northern America,United States of America,North Dakota,,Minot
+74.207.144.224,4,4063,DNS Server: 224.144.207.74.srtnet.com,US,Americas,Northern America,United States of America,North Dakota,,Minot
+96.3.112.108,4,43,ninebelow.com,US,Americas,Northern America,United States of America,North Dakota,,Minot
+24.52.24.20,4,4260,Ookla Speedtest Server 7019: st-mot.midco.net,US,Americas,Northern America,United States of America,North Dakota,,Minot

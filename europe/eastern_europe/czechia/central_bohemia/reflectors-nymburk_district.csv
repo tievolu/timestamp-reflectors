@@ -1,6 +1,7 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-90.183.101.70,4,11,chmu.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Nymburk
-188.75.186.152,4,29566,DNS Server: 152-186-75-188-static.katroservis.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Poděbrady
-89.190.33.39,4,1109,DNS Server: ip-89-190-33-39.licanet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Nymburk
-89.190.36.18,4,-39761765,DNS Server: zdobinska--01.licanet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Nymburk
-46.167.209.30,4,6,havelpartners.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Kostomlaty nad Labem
+188.75.186.152,4,6926,DNS Server: 152-186-75-188-static.katroservis.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Poděbrady
+188.75.177.162,4,-71049,DNS Server: 162.177.75.188.static.dobruska.net,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Poděbrady
+89.190.33.39,4,31492,DNS Server: ip-89-190-33-39.licanet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Nymburk
+89.190.36.18,4,22217540,DNS Server: zdobinska--01.licanet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Nymburk
+46.167.209.30,4,25,havelpartners.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Kostomlaty nad Labem
+194.93.14.42,4,-68,infas.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Poděbrady

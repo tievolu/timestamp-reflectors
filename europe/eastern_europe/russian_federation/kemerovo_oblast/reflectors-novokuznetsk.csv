@@ -1,7 +1,31 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-95.181.55.74,4,-8,cimus.biz,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
-77.235.201.250,4,3,DNS Server: 250.201.Novokuznetsk.ptl.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
-46.181.60.86,4,17797,DNS Server: 46-181-60-86.goodline.info,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
-95.181.37.82,4,3,kuz-edu.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
-94.247.111.40,4,8,truenetwork.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
-95.181.50.62,4,71,xn--j1aai7d.xn--p1ai,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.174.78,4,11,10-irk.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.202.252,4,-3,banktestov.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+77.235.201.250,4,-6,DNS Server: 250.201.Novokuznetsk.ptl.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.133.139,4,1591,DNS Server: 87-103-133-139.pppoe.irtel.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.133.252,4,-139833,DNS Server: 87-103-133-252.pppoe.irtel.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.133.95,4,49512466,DNS Server: 87-103-133-95.pppoe.irtel.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.172.10,4,4068,DNS Server: 87-103-172-10.pppoe.irtel.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.172.246,4,8605,DNS Server: 87-103-172-246.pppoe.irtel.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.175.193,4,1467,DNS Server: 87-103-175-193.pppoe.irtel.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.192.76,4,-1233,DNS Server: 87-103-192-76-bbc-static.kuzbass.net,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.193.10,4,-424,DNS Server: 87-103-193-10-bbc-static.kuzbass.net,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.200.118,4,7,DNS Server: 87-103-200-118-bbc-static.kuzbass.net,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.200.198,4,-19,DNS Server: 87-103-200-198-bbc-static.kuzbass.net,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.201.179,4,-2,DNS Server: 87-103-201-179-bbc-static.kuzbass.net,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.203.88,4,4883,DNS Server: 87-103-203-88-bbc-static.kuzbass.net,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.204.60,4,204,DNS Server: 87-103-204-60-bbc-static.kuzbass.net,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.206.93,4,538,DNS Server: 87-103-206-93-bbc-static.kuzbass.net,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.210.160,4,-3,DNS Server: 87-103-210-160-bbc-static.kuzbass.net,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.212.48,4,-45,DNS Server: 87-103-212-48-bbc-static.kuzbass.net,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.214.123,4,73831766,DNS Server: 87-103-214-123-bbc-static.kuzbass.net,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.214.37,4,0,DNS Server: 87-103-214-37-bbc-static.kuzbass.net,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.240.61,4,35082123,DNS Server: b-internet.87.103.240.61.snt.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.245.246,4,803152,DNS Server: b-internet.87.103.245.246.snt.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.253.2,4,20549,DNS Server: b-internet.87.103.253.2.snt.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.255.62,4,-9,DNS Server: b-internet.87.103.255.62.snt.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.211.157,4,-5,DNS Server: bmail.beltrans.stroyservis.com,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.210.109,4,4,DNS Server: mail.navitrade.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.171.16,4,-2467028833,tfomsra.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+94.247.111.40,4,19,truenetwork.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.245.112,4,18,universal-optica.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk

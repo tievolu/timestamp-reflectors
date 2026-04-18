@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-195.187.144.250,4,15,instytutpileckiego.pl,PL,Europe,Eastern Europe,Poland,Mazovia,,Błonie
+83.243.33.204,4,-2924448,DNS Server: xt21cc.stansat.pl,PL,Europe,Eastern Europe,Poland,Mazovia,,Błonie
+83.243.37.53,4,-2937390,DNS Server: xt2535.stansat.pl,PL,Europe,Eastern Europe,Poland,Mazovia,,Błonie
+195.187.144.250,4,12,instytutpileckiego.pl,PL,Europe,Eastern Europe,Poland,Mazovia,,Błonie

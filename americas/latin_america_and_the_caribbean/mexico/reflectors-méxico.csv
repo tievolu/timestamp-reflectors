@@ -1,13 +1,27 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-200.188.57.17,4,-543365372,DNS Server: 200-188-57-17.static.axtel.net,MX,Americas,Latin America and the Caribbean,Mexico,México,,Ciudad Nezahualcoyotl
-187.174.213.18,4,-97,DNS Server: customer-187-174-213-18.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Metepec
-189.196.21.23,4,-978,DNS Server: customer-AGPR-21-23.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Ixtlahuaca de Rayón
-177.240.18.182,4,5507,DNS Server: customer-TLN-18-182.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Ecatepec
-186.96.53.86,4,52,DNS Server: fixed-186-96-53-86.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,México,,Huehuetoca
-189.203.141.69,4,1186,DNS Server: fixed-189-203-141-69.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,México,,Toluca
-189.203.198.185,4,71,DNS Server: nocintt2.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Tultepec
-201.163.56.94,4,371,Ookla Speedtest Server 32121: mivelocidadmex.alestra.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Tlalnepantla
-45.189.236.98,4,265,Ookla Speedtest Server 56656: speedtest2.compu-semmm.com,MX,Americas,Latin America and the Caribbean,Mexico,México,,Atlacomulco de Fabela
-189.201.131.205,4,-13418,Ookla Speedtest Server 60752: speedtest.grupo-etics.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Chiautla
-187.244.37.29,4,18895,Ookla Speedtest Server 61375: speedtest.zpngo.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Zumpango
-189.195.64.13,4,11670,Ookla Speedtest Server 61394: speedtest.zinact.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Zinacantepec
+201.132.119.58,4,-12,cmq.edu.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Toluca
+138.94.140.182,4,302962,DNS Server: 182-140-94-138.jobnetworks.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Teotihuacán
+187.174.213.18,4,-1254,DNS Server: customer-187-174-213-18.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Metepec
+187.174.97.82,4,62,DNS Server: customer-187-174-97-82.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Ciudad López Mateos
+177.229.219.30,4,32,DNS Server: customer-MOR-219-30.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Jilotepec de Molina Enríquez
+177.240.18.182,4,64930417,DNS Server: customer-TLN-18-182.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Ecatepec
+187.208.175.157,4,168,DNS Server: dsl-187-208-175-157-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Cuautitlán Izcalli
+187.188.57.147,4,849,DNS Server: fixed-187-188-57-147.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,México,,Tlalnepantla
+189.254.40.179,4,134839,DNS Server: mail.fletesmex.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Ecatepec
+189.203.155.90,4,-6,Ookla Speedtest Server 3955: tijuana.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Ecatepec
+187.190.32.238,4,-18,Ookla Speedtest Server 17178: ecatepec.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Ecatepec
+189.195.64.10,4,0,Ookla Speedtest Server 36262: speedtest.tolu.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Toluca
+187.244.37.26,4,-12,Ookla Speedtest Server 48522: speedtest.vjo.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Tlalnepantla
+187.244.39.2,4,4,Ookla Speedtest Server 51497: speedtest.vbo.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Valle de Bravo
+45.189.236.98,4,8,Ookla Speedtest Server 56656: speedtest2.compu-semmm.com,MX,Americas,Latin America and the Caribbean,Mexico,México,,Atlacomulco de Fabela
+189.201.131.205,4,-13418,Ookla Speedtest Server 60752: speedtest.grupo-etics.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Teotihuacán
+187.244.37.27,4,10,Ookla Speedtest Server 61286: speedtest.huetoca.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Huehuetoca
+187.244.37.28,4,6,Ookla Speedtest Server 61292: speedtest.tlnt.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Tlalnepantla
+187.244.37.29,4,2,Ookla Speedtest Server 61375: speedtest.zpngo.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Zumpango
+189.195.64.11,4,2,Ookla Speedtest Server 61383: speedtest.mtpc.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Metepec
+189.195.64.12,4,-4,Ookla Speedtest Server 61388: speedtest.snmto.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,San Mateo Atenco
+189.195.64.13,4,-15,Ookla Speedtest Server 61394: speedtest.zinact.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Zinacantepec
+38.123.192.197,4,-28,Ookla Speedtest Server 61488: nextlalpan.meganett.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Santa Ana Nextlalpan
+38.3.221.134,4,-1,Ookla Speedtest Server 68991: sp1.siglo.com,MX,Americas,Latin America and the Caribbean,Mexico,México,,Santa María Chimalhuacán
+170.78.210.118,4,24160,Ookla Speedtest Server 71437: speedtest.sistemasinteligentes.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Aculco de Espinoza
+69.171.213.1,4,3,Ookla Speedtest Server 72691: speedtest.compunetmx.com,MX,Americas,Latin America and the Caribbean,Mexico,México,,Polotitlán de la Ilustración

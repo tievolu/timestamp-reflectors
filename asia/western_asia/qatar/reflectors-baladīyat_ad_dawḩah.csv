@@ -1,4 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-34.18.81.201,4,3,insightss.co,QA,Asia,Western Asia,Qatar,Baladīyat ad Dawḩah,,Doha
-82.148.98.214,4,288,Ookla Speedtest Server 6193: speedtest2a.ooredoo.qa,QA,Asia,Western Asia,Qatar,Baladīyat ad Dawḩah,,Doha
-103.199.91.234,4,-60998,Ookla Speedtest Server 51669: speedtest03.vodafone.com.qa,QA,Asia,Western Asia,Qatar,Baladīyat ad Dawḩah,,Doha
+34.18.81.201,4,-49,insightss.co,QA,Asia,Western Asia,Qatar,Baladīyat ad Dawḩah,,Doha
+80.76.171.230,4,6,Ookla Speedtest Server 51657: speedtest02.vodafone.com.qa,QA,Asia,Western Asia,Qatar,Baladīyat ad Dawḩah,,Doha
+103.199.91.234,4,76279,Ookla Speedtest Server 51669: speedtest03.vodafone.com.qa,QA,Asia,Western Asia,Qatar,Baladīyat ad Dawḩah,,Doha
+34.18.119.165,4,7,saakin.qa,QA,Asia,Western Asia,Qatar,Baladīyat ad Dawḩah,,Doha

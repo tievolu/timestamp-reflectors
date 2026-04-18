@@ -1,3 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 81.88.163.11,4,4,iiga.org,IM,Europe,Northern Europe,Isle of Man,,,Douglas
-109.70.44.242,4,33,iomguide.com,IM,Europe,Northern Europe,Isle of Man,,,Douglas
+109.70.44.242,4,-6,iomguide.com,IM,Europe,Northern Europe,Isle of Man,,,Douglas
+195.10.111.6,4,19996,Ookla Speedtest Server 3778: speedtest.manx.net,IM,Europe,Northern Europe,Isle of Man,,,Douglas

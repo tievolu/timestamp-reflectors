@@ -1,5 +1,8 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-216.250.8.80,4,72,business.com.tm,TM,Asia,Central Asia,Turkmenistan,,,
-95.85.127.192,4,17,orient.tm,TM,Asia,Central Asia,Turkmenistan,Ashgabat,,Ashgabat
-217.174.226.78,4,145546,State Company of Electro Communications Turkmentelecom,TM,Asia,Central Asia,Turkmenistan,,,
+216.250.8.80,4,3,business.com.tm,TM,Asia,Central Asia,Turkmenistan,,,
+95.85.127.192,4,6,orient.tm,TM,Asia,Central Asia,Turkmenistan,,,
+216.250.10.19,4,12,post.tm,TM,Asia,Central Asia,Turkmenistan,,,
+91.202.233.53,4,14,truepharm.org,TM,Asia,Central Asia,Turkmenistan,Ashgabat,,Ashgabat
+217.174.238.29,4,-397856,turkmenistan.gov.tm,TM,Asia,Central Asia,Turkmenistan,,,
 217.174.238.28,4,-131509,turkmenistan.gov.tm,TM,Asia,Central Asia,Turkmenistan,,,
+95.85.126.182,4,40,turkmenportal.com,TM,Asia,Central Asia,Turkmenistan,,,

@@ -1,8 +1,9 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+85.233.121.46,4,20,agru.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
+83.164.133.11,4,21,artweger.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
 140.78.118.194,4,5,icchp.org,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
-140.78.3.160,4,2,jku.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
-212.33.55.8,4,5,liwest.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
-83.164.168.67,4,22,moviemento.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
-212.33.36.188,4,347,Ookla Speedtest Server 818: speedcheck.liwest.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
-83.164.148.131,4,4,runtastic.com,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
-83.164.133.11,4,3,sanitaer-heinze.com,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
+140.78.3.160,4,-9,jku.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
+212.33.55.8,4,-5,liwest.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
+83.164.168.67,4,-2,moviemento.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
+212.33.36.188,4,-4,Ookla Speedtest Server 818: speedcheck.liwest.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
+31.193.166.254,4,-4,Ookla Speedtest Server 73500: speedtest2.power-speed.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz

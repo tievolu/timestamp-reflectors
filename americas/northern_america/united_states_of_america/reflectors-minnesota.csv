@@ -1,44 +1,62 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-140.88.101.248,4,27,bethel.edu,US,Americas,Northern America,United States of America,Minnesota,,Saint Paul
+50.150.217.72,4,-31,bethel.edu,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
 137.22.94.116,4,4,carleton.edu,US,Americas,Northern America,United States of America,Minnesota,,Northfield
-66.188.162.107,4,38145,DNS Server: 066-188-162-107.res.spectrum.com,US,Americas,Northern America,United States of America,Minnesota,,Willmar
-68.114.234.193,4,-9650,DNS Server: 068-114-234-193.res.spectrum.com,US,Americas,Northern America,United States of America,Minnesota,,Apple Valley
-64.90.83.57,4,688,DNS Server: 64-90-83-57.brainerd.net,US,Americas,Northern America,United States of America,Minnesota,,Brainerd
-75.149.157.130,4,3,DNS Server: 75-149-157-130-Minnesota.hfc.comcastbusiness.net,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
-75.168.121.162,4,12,DNS Server: 75-168-121-162.mpls.qwest.net,US,Americas,Northern America,United States of America,Minnesota,,Saint Paul
-97.116.41.175,4,5,DNS Server: 97-116-41-175.mpls.qwest.net,US,Americas,Northern America,United States of America,Minnesota,,Saint Paul
-192.198.0.2,4,4,DNS Server: datacenterrouter1.radiolinkinternet.com,US,Americas,Northern America,United States of America,Minnesota,,Blooming Prairie
-209.177.158.12,4,4,dr-bob.org,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
+64.62.159.21,4,31,cinequest.org,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
+4.4.81.123,4,7,codeweavers.com,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
+66.188.162.107,4,35974,DNS Server: 066-188-162-107.res.spectrum.com,US,Americas,Northern America,United States of America,Minnesota,,Duluth
+68.114.234.193,4,-9650,DNS Server: 068-114-234-193.res.spectrum.com,US,Americas,Northern America,United States of America,Minnesota,,Rosemount
+216.188.199.1,4,-2,DNS Server: 3comrh1.jagcom.net,US,Americas,Northern America,United States of America,Minnesota,,Howard Lake
+64.90.83.57,4,1051,DNS Server: 64-90-83-57.brainerd.net,US,Americas,Northern America,United States of America,Minnesota,,Brainerd
+75.168.121.162,4,-4,DNS Server: 75-168-121-162.mpls.qwest.net,US,Americas,Northern America,United States of America,Minnesota,,Saint Paul
+75.73.241.32,4,-2,DNS Server: c-75-73-241-32.hsd1.mn.comcast.net,US,Americas,Northern America,United States of America,Minnesota,,Minnetonka
+192.198.0.2,4,-2,DNS Server: datacenterrouter1.radiolinkinternet.com,US,Americas,Northern America,United States of America,Minnesota,,Owatonna
 91.149.227.100,4,-9,elamigos.site,US,Americas,Northern America,United States of America,Minnesota,,
-209.240.69.17,4,83,ernser.com,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
-71.39.101.39,4,35,esotericarchives.com,US,Americas,Northern America,United States of America,Minnesota,,Saint Paul
-216.243.184.75,4,11,foretees.com,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
-172.110.195.161,4,5448,goaccess.io,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
-138.236.1.12,4,8,gustavus.edu,US,Americas,Northern America,United States of America,Minnesota,,Saint Peter
-96.87.153.67,4,5,i2symbol.com,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
+71.39.101.39,4,23,esotericarchives.com,US,Americas,Northern America,United States of America,Minnesota,,Afton
+206.51.198.5,4,77,flexmls.com,US,Americas,Northern America,United States of America,Minnesota,,Pelican Rapids
+64.62.151.130,4,-436,fusioncash.net,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
+64.62.159.82,4,26,gearsoftware.com,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
+38.209.88.229,4,96806,goaccess.io,US,Americas,Northern America,United States of America,Minnesota,,Spring Park
+208.107.81.127,4,-2,grottomc.com,US,Americas,Northern America,United States of America,Minnesota,,Moorhead
+216.58.165.6,4,-5,helenaagri.com,US,Americas,Northern America,United States of America,Minnesota,,
+96.87.153.67,4,-35,i2ocr.com,US,Americas,Northern America,United States of America,Minnesota,,Saint Paul
+216.58.165.5,4,2778,iowaabi.org,US,Americas,Northern America,United States of America,Minnesota,,
 209.191.198.242,4,2,judygarlandmuseum.com,US,Americas,Northern America,United States of America,Minnesota,,Bemidji
-63.137.115.39,4,59108,lawyersusaonline.com,US,Americas,Northern America,United States of America,Minnesota,,Plymouth
-206.230.105.4,4,2,luminet.net,US,Americas,Northern America,United States of America,Minnesota,,Red Wing
-66.60.220.11,4,5,mennolink.org,US,Americas,Northern America,United States of America,Minnesota,,New Ulm
+206.230.105.4,4,10,luminet.net,US,Americas,Northern America,United States of America,Minnesota,,Red Wing
+216.58.165.19,4,6,mcaofiowa.org,US,Americas,Northern America,United States of America,Minnesota,,
+216.58.165.13,4,-24,mcwane.com,US,Americas,Northern America,United States of America,Minnesota,,
 209.191.200.106,4,2,mnchippewatribe.org,US,Americas,Northern America,United States of America,Minnesota,,Bemidji
-156.98.35.180,4,217,mndnr.gov,US,Americas,Northern America,United States of America,Minnesota,,Saint Paul
-23.193.200.79,4,9,mnhousing.gov,US,Americas,Northern America,United States of America,Minnesota,,Eden Prairie
-23.193.200.100,4,4,mnhousing.gov,US,Americas,Northern America,United States of America,Minnesota,,Eden Prairie
+160.94.21.6,4,22,mndigital.org,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
+156.98.35.180,4,839,mndnr.gov,US,Americas,Northern America,United States of America,Minnesota,,Saint Paul
 209.191.201.66,4,25,moondancejam.com,US,Americas,Northern America,United States of America,Minnesota,,Bemidji
-64.90.64.132,4,324,Ookla Speedtest Server 5852: speed1.brainerd.net,US,Americas,Northern America,United States of America,Minnesota,,Nisswa
-74.32.190.33,4,258,Ookla Speedtest Server 14229: ashburn.va.speedtest.frontier.com,US,Americas,Northern America,United States of America,Minnesota,,Lakeville
-24.52.24.4,4,314,Ookla Speedtest Server 21790: st-stj.midco.net,US,Americas,Northern America,United States of America,Minnesota,,Saint Joseph
-192.198.0.27,4,76079,Ookla Speedtest Server 31549: speedtest.rlimn.com,US,Americas,Northern America,United States of America,Minnesota,,Blooming Prairie
-173.225.32.66,4,199273,Ookla Speedtest Server 48669: speedtest.mysmbs.com,US,Americas,Northern America,United States of America,Minnesota,,Jackson
-66.228.225.23,4,138,Ookla Speedtest Server: ook702.prtel.net,US,Americas,Northern America,United States of America,Minnesota,,Fergus Falls
-24.52.14.100,4,3,Ookla Speedtest Server: st-fmt.midco.net,US,Americas,Northern America,United States of America,Minnesota,,Fairmont
-216.189.129.3,4,4,Ookla Speedtest Server: st1.wcta.net,US,Americas,Northern America,United States of America,Minnesota,,Menahga
-209.191.199.89,4,6,paulbunyan.net,US,Americas,Northern America,United States of America,Minnesota,,Bemidji
-63.137.115.28,4,-1141775,politicsinminnesota.com,US,Americas,Northern America,United States of America,Minnesota,,Plymouth
-209.23.153.212,4,46,robertbly.com,US,Americas,Northern America,United States of America,Minnesota,,Saint Paul
-74.93.27.181,4,-6,rpgobjects.com,US,Americas,Northern America,United States of America,Minnesota,,Minnetonka
-209.240.65.170,4,2,simplegoodandtasty.com,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
-75.146.151.146,4,9,stonearch.net,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
-128.101.65.171,4,5,umbrasearch.org,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
-64.131.31.90,4,8,usfamily.net,US,Americas,Northern America,United States of America,Minnesota,,Eagan
-75.73.227.49,4,28,yexus.org,US,Americas,Northern America,United States of America,Minnesota,,Woodbury
+64.62.148.59,4,26,muscogeenation.com,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
+24.52.14.84,4,5129,Ookla Speedtest Server 4326: st-cam.midco.net,US,Americas,Northern America,United States of America,Minnesota,,Cambridge
+24.52.14.68,4,-2,Ookla Speedtest Server 7014: st-bmj.midco.net,US,Americas,Northern America,United States of America,Minnesota,,Bemidji
+24.52.14.100,4,-14,Ookla Speedtest Server 7034: st-fmt.midco.net,US,Americas,Northern America,United States of America,Minnesota,,Fairmont
+24.52.14.164,4,-5,Ookla Speedtest Server 7035: st-inf.midco.net,US,Americas,Northern America,United States of America,Minnesota,,International Falls
+104.218.221.102,4,-4,Ookla Speedtest Server 11714: speedtest.hbci.com,US,Americas,Northern America,United States of America,Minnesota,,Winona
+64.235.80.54,4,-5,Ookla Speedtest Server 13390: speedtest.gvtel.com,US,Americas,Northern America,United States of America,Minnesota,,Thief River Falls
+74.32.190.35,4,10,Ookla Speedtest Server 14229: ashburn.va.speedtest.frontier.com,US,Americas,Northern America,United States of America,Minnesota,,Apple Valley
+74.32.190.33,4,258,Ookla Speedtest Server 14229: ashburn.va.speedtest.frontier.com,US,Americas,Northern America,United States of America,Minnesota,,Apple Valley
+198.144.12.252,4,16,Ookla Speedtest Server 17524: fargo.ookla.enventis.net,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
+24.52.24.4,4,2678,Ookla Speedtest Server 21790: st-stj.midco.net,US,Americas,Northern America,United States of America,Minnesota,,Saint Cloud
+208.110.239.237,4,-2,Ookla Speedtest Server 30492: speedtest.gigabitmn.com,US,Americas,Northern America,United States of America,Minnesota,,Rosemount
+192.198.0.27,4,7119,Ookla Speedtest Server 31549: speedtest.rlimn.com,US,Americas,Northern America,United States of America,Minnesota,,Owatonna
+205.149.159.114,4,14,Ookla Speedtest Server 38722: speedtest2.paulbunyan.net,US,Americas,Northern America,United States of America,Minnesota,,Grand Rapids
+209.191.215.233,4,-1,Ookla Speedtest Server 38745: st3.paulbunyan.net,US,Americas,Northern America,United States of America,Minnesota,,Bemidji
+205.149.155.93,4,4,Ookla Speedtest Server 38862: st.paulbunyan.net,US,Americas,Northern America,United States of America,Minnesota,,Grand Rapids
+66.228.225.21,4,4,Ookla Speedtest Server 40738: ook511.prtel.net,US,Americas,Northern America,United States of America,Minnesota,,Rothsay
+66.228.225.23,4,-2,Ookla Speedtest Server 40747: ook702.prtel.net,US,Americas,Northern America,United States of America,Minnesota,,Rothsay
+69.54.32.20,4,-2,Ookla Speedtest Server 41398: speedtest.implex.net,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
+216.189.129.3,4,-3,Ookla Speedtest Server 41994: st1.wcta.net,US,Americas,Northern America,United States of America,Minnesota,,Wadena
+173.225.32.66,4,-4,Ookla Speedtest Server 48669: speedtest.mysmbs.com,US,Americas,Northern America,United States of America,Minnesota,,Jackson
+184.105.55.242,4,-4,Ookla Speedtest Server 50589: speedtest-fcc.sdncommunications.com,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
+208.185.254.220,4,-5,Ookla Speedtest Server 65445: ookla.martekcomm.com,US,Americas,Northern America,United States of America,Minnesota,,Isanti
+209.191.199.89,4,2,paulbunyan.net,US,Americas,Northern America,United States of America,Minnesota,,Bemidji
+209.23.153.212,4,46,robertbly.com,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
+64.62.148.37,4,10,samicone.com,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
+64.62.148.54,4,14,schugwinery.com,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
+216.58.165.34,4,15,stineseed.com,US,Americas,Northern America,United States of America,Minnesota,,
+64.62.159.4,4,-4,the-light.com,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
+64.131.31.90,4,10,usfamily.net,US,Americas,Northern America,United States of America,Minnesota,,Eagan
+4.4.81.124,4,8,winehq.com,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis
+76.17.136.215,4,12,xfs.org,US,Americas,Northern America,United States of America,Minnesota,,Minneapolis

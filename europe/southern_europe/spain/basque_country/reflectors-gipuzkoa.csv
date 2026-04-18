@@ -1,8 +1,11 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-194.30.25.10,4,89,ararteko.eus,ES,Europe,Southern Europe,Spain,Basque Country,Gipuzkoa,Eibar
-213.0.77.134,4,29,bmwmotos.com,ES,Europe,Southern Europe,Spain,Basque Country,Gipuzkoa,Donostia / San Sebastian
-212.81.213.147,4,3,copmadrid.org,ES,Europe,Southern Europe,Spain,Basque Country,Gipuzkoa,Eibar
-193.162.14.166,4,32,lemmy.eus,ES,Europe,Southern Europe,Spain,Basque Country,Gipuzkoa,Zumaia
-212.142.224.19,4,11,lurraldebus.eus,ES,Europe,Southern Europe,Spain,Basque Country,Gipuzkoa,Pasai San Pedro
-213.0.77.132,4,79,majorcabritish.com,ES,Europe,Southern Europe,Spain,Basque Country,Gipuzkoa,Donostia / San Sebastian
-91.200.116.48,4,23,pesa.net,ES,Europe,Southern Europe,Spain,Basque Country,Gipuzkoa,Donostia / San Sebastian
+45.13.209.112,4,-1,DNS Server: 112.red-45.13.209.ip-estatica.aureamotriz.net,ES,Europe,Southern Europe,Spain,Basque Country,Gipuzkoa,Donostia / San Sebastian
+150.241.42.76,4,-31,kutxafundazioa.eus,ES,Europe,Southern Europe,Spain,Basque Country,Gipuzkoa,Oñati
+188.212.36.137,4,9,lemmy.eus,ES,Europe,Southern Europe,Spain,Basque Country,Gipuzkoa,Zumaia
+212.142.224.19,4,92,lurraldebus.eus,ES,Europe,Southern Europe,Spain,Basque Country,Gipuzkoa,Donostia / San Sebastian
+212.230.175.205,4,-2,Ookla Speedtest Server 6583: speedtest-val.masmovil.com,ES,Europe,Southern Europe,Spain,Basque Country,Gipuzkoa,Aizarnazabal
+212.230.175.202,4,-7,Ookla Speedtest Server 21378: speedtest-mad.masmovil.com,ES,Europe,Southern Europe,Spain,Basque Country,Gipuzkoa,Aizarnazabal
+212.230.175.203,4,-6,Ookla Speedtest Server 21516: speedtest-bcn.masmovil.com,ES,Europe,Southern Europe,Spain,Basque Country,Gipuzkoa,Aizarnazabal
+212.230.175.207,4,10,Ookla Speedtest Server 30350: speedtest-ib.masmovil.com,ES,Europe,Southern Europe,Spain,Basque Country,Gipuzkoa,Aizarnazabal
+212.230.175.206,4,1,Ookla Speedtest Server 35720: speedtest-tf.masmovil.com,ES,Europe,Southern Europe,Spain,Basque Country,Gipuzkoa,Aizarnazabal
+188.212.36.138,4,32,paperjale.eus,ES,Europe,Southern Europe,Spain,Basque Country,Gipuzkoa,Zumaia

@@ -1,5 +1,9 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-138.255.103.162,4,-28212,DNS Server: host-162-103-255-138.static.zglobalhost.com,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,La Florida
-138.255.101.194,4,21,fastcheck.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,La Florida
-138.255.103.130,4,678,kompu.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,La Florida
-138.255.101.220,4,6,trendtic.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,La Florida
+138.255.103.162,4,8719,DNS Server: host-162-103-255-138.static.zglobalhost.com,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,La Florida
+138.255.100.162,4,-11457,hipodromo.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,La Florida
+138.255.103.130,4,2391,kompu.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,La Florida
+138.255.101.194,4,-3,laretro.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,La Florida
+200.27.128.213,4,13,Ookla Speedtest Server 43418: lfl.speedtest.telmexchile.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,La Florida
+138.255.101.196,4,6,saludaysen.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,La Florida
+138.255.101.224,4,14,tlink.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,La Florida
+138.255.101.220,4,5,wilcom.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,La Florida

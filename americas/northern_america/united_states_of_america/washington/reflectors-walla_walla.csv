@@ -1,3 +1,8 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-72.10.3.46,4,108,DNS Server: pin-072-010-003-046.static.pocketinet.com,US,Americas,Northern America,United States of America,Washington,,Walla Walla
-72.10.25.106,4,313,Ookla Speedtest Server 39915: speedtest.pocketinet.com,US,Americas,Northern America,United States of America,Washington,,Walla Walla
+72.10.3.46,4,-975,DNS Server: pin-072-010-003-046.static.pocketinet.com,US,Americas,Northern America,United States of America,Washington,,Walla Walla
+208.77.210.9,4,25,netcetra.com,US,Americas,Northern America,United States of America,Washington,,Walla Walla
+208.77.210.16,4,31,netcetra.com,US,Americas,Northern America,United States of America,Washington,,Walla Walla
+64.146.170.163,4,-1,Ookla Speedtest Server 17701: speedtest.columbiainet.com,US,Americas,Northern America,United States of America,Washington,,Walla Walla
+74.85.65.2,4,9,Ookla Speedtest Server 18532: speedtest-pohe.wavebroadband.com,US,Americas,Northern America,United States of America,Washington,,Walla Walla
+72.10.25.106,4,-5,Ookla Speedtest Server 39915: speedtest.pocketinet.com,US,Americas,Northern America,United States of America,Washington,,Walla Walla
+208.77.210.8,4,9,sheldonbrown.com,US,Americas,Northern America,United States of America,Washington,,Walla Walla

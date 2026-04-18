@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-176.118.130.139,4,11225,DNS Server: 139.pppoe-130.ip4.mkpnet.ru,RU,Europe,Eastern Europe,Russian Federation,Adygeya Republic,,Maykop
+176.118.130.139,4,24110,DNS Server: 139.pppoe-130.ip4.mkpnet.ru,RU,Europe,Eastern Europe,Russian Federation,Adygeya Republic,,Maykop
+151.252.108.218,4,5888,DNS Server: pppoe-151-252-108-218.clients.kubtel.ru,RU,Europe,Eastern Europe,Russian Federation,Adygeya Republic,,Tlyustenkhabl'
+151.252.110.126,4,22,Ookla Speedtest Server 56776: speedtest.kubtel.ru,RU,Europe,Eastern Europe,Russian Federation,Adygeya Republic,,Tlyustenkhabl'

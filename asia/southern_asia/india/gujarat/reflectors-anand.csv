@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-103.139.117.18,4,-17,Ookla Speedtest Server: speedtest.segva.charotarbroadband.in,IN,Asia,Southern Asia,India,Gujarat,,Anand
+103.26.51.14,4,6,Ookla Speedtest Server 11896: speedtest.anand.charotarbroadband.in,IN,Asia,Southern Asia,India,Gujarat,,Anand
+103.250.159.122,4,-2,Ookla Speedtest Server 39282: speedtest-hll01.gtpl.net,IN,Asia,Southern Asia,India,Gujarat,,Anand
+103.139.117.18,4,-42,Ookla Speedtest Server 64970: speedtest.segva.charotarbroadband.in,IN,Asia,Southern Asia,India,Gujarat,,Anand

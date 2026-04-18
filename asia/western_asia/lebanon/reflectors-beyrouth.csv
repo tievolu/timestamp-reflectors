@@ -1,8 +1,23 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-85.112.66.89,4,-2492516220,DNS Server: broad-85-112-66-89.terra.net.lb,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
-85.112.69.11,4,9558,DNS Server: broad-85-112-69-11.terra.net.lb,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
-85.112.69.15,4,80204,DNS Server: broad-85-112-69-15.terra.net.lb,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
-85.112.69.150,4,402,DNS Server: mail0.baroudilegal.com,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
-77.235.145.178,4,351,DNS Server: ptr.145-178.mobi.net.lb,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
-77.235.145.30,4,17204,DNS Server: ptr.145-30.mobi.net.lb,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
-85.112.70.118,4,137176,DNS Server: rev-85-112-70-118.terra.net.lb,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
+85.112.69.15,4,1607,DNS Server: broad-85-112-69-15.terra.net.lb,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
+85.112.69.251,4,0,DNS Server: broad-85-112-69-251.terra.net.lb,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
+85.112.69.61,4,1116,DNS Server: broad-85-112-69-61.terra.net.lb,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
+212.98.146.97,4,-2287531682,DNS Server: corp-212-98-146-97.terra.net.lb,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
+212.98.156.53,4,-1,DNS Server: corp-212-98-156-53.terra.net.lb,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
+212.98.156.60,4,-1,DNS Server: corp-212-98-156-60.terra.net.lb,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
+78.108.164.125,4,-2073488227,DNS Server: dsl-78-108-164-125.terra.net.lb,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
+85.112.69.150,4,1,DNS Server: mail0.baroudilegal.com,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
+80.81.147.82,4,4929,DNS Server: ppp-03-82.cyberia.net.lb,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
+85.112.70.114,4,0,DNS Server: rev-85-112-70-114.terra.net.lb,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
+85.112.70.118,4,225858,DNS Server: rev-85-112-70-118.terra.net.lb,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
+85.112.70.8,4,-101946,DNS Server: rev-85-112-70-8.terra.net.lb,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
+85.112.71.6,4,263932,DNS Server: soho-85-112-71-6.terra.net.lb,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
+93.126.223.3,4,12,Ookla Speedtest Server 6289: speedtest.sodetel.net.lb,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
+212.98.150.242,4,1986,Ookla Speedtest Server 8408: sp1.terra.net.lb,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
+91.232.101.180,4,1,Ookla Speedtest Server 10412: supermoon.alfa.com.lb,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
+185.76.177.25,4,45420846,Ookla Speedtest Server 53238: speedtest.touch.com.lb,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
+185.187.92.7,4,62705,Ookla Speedtest Server 54660: speedtest.cbeyond.online,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
+185.99.33.254,4,3,Ookla Speedtest Server 60240: speedtest.dataprolinks.net,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
+91.92.115.62,4,8,Ookla Speedtest Server 61541: speedtest.accesslebanon.net,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
+38.146.216.145,4,5,Ookla Speedtest Server 73894: net-ookla-bei.p.foundation,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut
+185.104.71.237,4,-8,sadalarz.com,LB,Asia,Western Asia,Lebanon,Beyrouth,,Beirut

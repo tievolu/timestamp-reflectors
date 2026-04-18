@@ -1,31 +1,79 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-115.240.14.242,4,127967,DNS Server: 115.240.14.242.static.jio.com,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
-136.232.79.162,4,260479,jaduniv.edu.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
-111.93.163.108,4,2,lincoln.edu.my,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
-14.139.221.27,4,194776,nitdgp.ac.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
-157.10.92.9,4,-58890,Ookla Speedtest Server 13575: speedtest.speedhex.co.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
-45.248.57.122,4,553,Ookla Speedtest Server 16531: speedtest.zenithbroadband.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
-103.107.254.254,4,183,Ookla Speedtest Server 17816: sp1.hustel.net,IN,Asia,Southern Asia,India,West Bengal,,Haldia
-103.121.116.10,4,87,Ookla Speedtest Server 18635: speedtest.oxynet.co.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
-103.75.163.12,4,192,Ookla Speedtest Server 23462: speedtest.speednetkolkata.com,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
-103.154.234.234,4,328,Ookla Speedtest Server 38622: speedtest.bst.fabnet.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
-103.148.183.202,4,348,Ookla Speedtest Server 42547: speedtest.flixnetworks.com,IN,Asia,Southern Asia,India,West Bengal,,Durgapur
-103.189.102.3,4,331,Ookla Speedtest Server 46192: node1.sndcbroadband.com,IN,Asia,Southern Asia,India,West Bengal,,Contai
-103.171.124.251,4,273,Ookla Speedtest Server 46824: speedtest.akdnet.net,IN,Asia,Southern Asia,India,West Bengal,,Belgharia
-103.82.159.245,4,95,Ookla Speedtest Server 47879: speedtest-birpara.galaxynet.in,IN,Asia,Southern Asia,India,West Bengal,,Siliguri
-103.102.123.245,4,1312605,Ookla Speedtest Server 50416: speedtest.sanhatibroadband.com,IN,Asia,Southern Asia,India,West Bengal,,Durgapur
-103.68.126.202,4,98284,Ookla Speedtest Server 53716: speedtest.globnet.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
-103.195.72.42,4,134,Ookla Speedtest Server 55054: speedtestbhp.cloudskybroadband.in,IN,Asia,Southern Asia,India,West Bengal,,Nabadwip
-103.172.153.5,4,205,Ookla Speedtest Server 55301: speed.binodan.net,IN,Asia,Southern Asia,India,West Bengal,,Ghātāl
-45.123.15.6,4,-23910,Ookla Speedtest Server 55370: speedtestversatile.meghbelabroadband.in,IN,Asia,Southern Asia,India,West Bengal,,Darjeeling
-103.139.200.6,4,48,Ookla Speedtest Server 56050: speedtest.winnet.in,IN,Asia,Southern Asia,India,West Bengal,,Galsi
-103.163.202.8,4,39276,Ookla Speedtest Server 57521: speed2.quickvision.in,IN,Asia,Southern Asia,India,West Bengal,,Bardhaman
-223.29.197.147,4,309759,Ookla Speedtest Server 60080: speedtestbwn.meghbelabroadband.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
-103.170.176.8,4,219,Ookla Speedtest Server 63134: speedtest.sundarambroadband.in,IN,Asia,Southern Asia,India,West Bengal,,Memāri
-103.75.163.3,4,246,Ookla Speedtest Server 64211: basirhat-speedtest.speednetkolkata.com,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
-103.75.163.4,4,359,Ookla Speedtest Server 64214: habra-speedtest.speednetkolkata.com,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
-152.52.190.90,4,-28635774,Ookla Speedtest Server 64428: speedtestinf.airtel.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
-103.182.107.40,4,355,Ookla Speedtest Server 64617: barasat.zitatel.com,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
-103.144.172.22,4,-19785647,Ookla Speedtest Server: speedtest.stromnet.co.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
-103.245.20.36,4,1088972,Ookla Speedtest Server: speedtesthaldia.meghbelabroadband.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
-103.245.2.19,4,-1169718,Ookla Speedtest Server: speedtestmalda.meghbelabroadband.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+122.176.27.58,4,-46,bestbhadrak.org,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+115.240.14.242,4,156759,DNS Server: 115.240.14.242.static.jio.com,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+115.240.24.40,4,-1,lincoln.edu.my,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+14.139.221.27,4,-1058658,nitdgp.ac.in,IN,Asia,Southern Asia,India,West Bengal,,Howrah
+14.139.208.87,4,-19,nitrkl.ac.in,IN,Asia,Southern Asia,India,West Bengal,,Howrah
+160.187.68.123,4,-34,occultpedia.com,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+112.133.231.18,4,12,Ookla Speedtest Server 15697: kol.speedtest.railtel.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+103.107.254.254,4,-45,Ookla Speedtest Server 17816: sp1.hustel.net,IN,Asia,Southern Asia,India,West Bengal,,Haldia
+103.220.89.34,4,4,Ookla Speedtest Server 23859: ns1.mftrdns.com,IN,Asia,Southern Asia,India,West Bengal,,
+103.193.88.10,4,10,Ookla Speedtest Server 30573: speedtestslg.meghbelabroadband.in,IN,Asia,Southern Asia,India,West Bengal,,Rishra
+103.141.92.54,4,-30,Ookla Speedtest Server 30961: speedtest.sswl.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+103.211.23.158,4,16,Ookla Speedtest Server 31048: sp2.gtplkcbpl.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+103.154.234.235,4,-4,Ookla Speedtest Server 34718: speedtest.kol.fabnet.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+103.52.0.249,4,4,Ookla Speedtest Server 35901: speedtest-jgn.galaxynet.in,IN,Asia,Southern Asia,India,West Bengal,,Alīpur Duār
+103.154.234.234,4,-22,Ookla Speedtest Server 38622: speedtest.bst.fabnet.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+103.155.54.250,4,7,Ookla Speedtest Server 38840: pgs-hld-spd-250.pegasuswave.in,IN,Asia,Southern Asia,India,West Bengal,,Haldia
+103.217.242.78,4,28,Ookla Speedtest Server 40255: speedtestdgr.alliancebroadband.in,IN,Asia,Southern Asia,India,West Bengal,,Durgapur
+103.59.72.233,4,-13,Ookla Speedtest Server 40733: speedtestkolkata.tataplayfiber.co.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+160.30.119.62,4,-17,Ookla Speedtest Server 41122: speedtest.stromnetbroadband.com,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+103.130.110.19,4,2536709,Ookla Speedtest Server 41760: speedtest.skyberbroadband.co.in,IN,Asia,Southern Asia,India,West Bengal,,
+103.209.16.12,4,-51,Ookla Speedtest Server 41911: speedtest-hwh.sharktel.co,IN,Asia,Southern Asia,India,West Bengal,,Howrah
+103.75.160.214,4,3109,Ookla Speedtest Server 43760: speedtest.cyberbroadband.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+103.245.2.19,4,-1644940,Ookla Speedtest Server 44664: speedtestmalda.meghbelabroadband.in,IN,Asia,Southern Asia,India,West Bengal,,Shyamnagar
+103.243.228.28,4,-7,Ookla Speedtest Server 45214: speedtest.meghlink.com,IN,Asia,Southern Asia,India,West Bengal,,Siliguri
+103.189.102.3,4,-8,Ookla Speedtest Server 46192: node1.sndcbroadband.com,IN,Asia,Southern Asia,India,West Bengal,,Contai
+103.2.133.30,4,-19,Ookla Speedtest Server 49089: speedtestslg.alliancebroadband.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+103.121.116.52,4,-12,Ookla Speedtest Server 50043: speedtest2.oxynet.co.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+103.181.3.18,4,-5,Ookla Speedtest Server 50380: sptmhp.roarnet.in,IN,Asia,Southern Asia,India,West Bengal,,Kharagpur
+103.102.123.245,4,-4,Ookla Speedtest Server 50416: speedtest.sanhatibroadband.com,IN,Asia,Southern Asia,India,West Bengal,,Durgapur
+103.157.69.54,4,37,Ookla Speedtest Server 52563: speedtest.xpressfiber.com,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+103.155.54.230,4,-16,Ookla Speedtest Server 53122: pgs-hur-spd-230.pegasuswave.in,IN,Asia,Southern Asia,India,West Bengal,,Koch Bihār
+103.157.69.14,4,2,Ookla Speedtest Server 53419: speedtestkol.xpressfiber.com,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+103.68.126.202,4,-33,Ookla Speedtest Server 53716: speedtest.globnet.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+160.20.6.6,4,-41,Ookla Speedtest Server 54523: sp1.windwire.net,IN,Asia,Southern Asia,India,West Bengal,,Haldia
+103.195.75.54,4,-21,Ookla Speedtest Server 55054: speedtestbhp.cloudskybroadband.in,IN,Asia,Southern Asia,India,West Bengal,,Baharampur
+103.195.72.22,4,-31,Ookla Speedtest Server 55062: kandi.cloudskybroadband.in,IN,Asia,Southern Asia,India,West Bengal,,Palāshi
+103.195.75.30,4,33,Ookla Speedtest Server 55063: speedtestberhampore.cloudskybroadband.in,IN,Asia,Southern Asia,India,West Bengal,,Baharampur
+45.123.15.6,4,-205265,Ookla Speedtest Server 55370: speedtestversatile.meghbelabroadband.in,IN,Asia,Southern Asia,India,West Bengal,,Darjeeling
+43.251.179.2,4,12,Ookla Speedtest Server 55534: speedtestkol.meghbelabroadband.in,IN,Asia,Southern Asia,India,West Bengal,,Pandua
+103.98.3.5,4,-8,Ookla Speedtest Server 57590: speedtest.aymaninternet.in,IN,Asia,Southern Asia,India,West Bengal,,Bolpur
+103.181.3.132,4,-5,Ookla Speedtest Server 59193: sptcon.roarnet.in,IN,Asia,Southern Asia,India,West Bengal,,Contai
+103.155.195.3,4,323000,Ookla Speedtest Server 59519: speedtest-bpc.speednetkolkata.com,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+103.176.117.17,4,-9,Ookla Speedtest Server 59521: speedtest.gbplbroadband.com,IN,Asia,Southern Asia,India,West Bengal,,Baharampur
+43.248.58.12,4,10,Ookla Speedtest Server 61130: mrbspl1.multireachbroadband.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+103.155.54.226,4,7,Ookla Speedtest Server 61337: pgs-kxi-spd-226.pegasuswave.in,IN,Asia,Southern Asia,India,West Bengal,,Keshiary
+116.199.204.253,4,-31,Ookla Speedtest Server 61601: ooklatehatta.annexfiber.net,IN,Asia,Southern Asia,India,West Bengal,,Krishnanagar
+117.203.164.241,4,-37,Ookla Speedtest Server 61706: bsnlooklakol.mywire.org,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+103.98.3.246,4,-22,Ookla Speedtest Server 62046: speed1.aymaninternet.in,IN,Asia,Southern Asia,India,West Bengal,,Bolpur
+103.170.176.8,4,-18,Ookla Speedtest Server 63134: speedtest.sundarambroadband.in,IN,Asia,Southern Asia,India,West Bengal,,Memāri
+103.189.102.5,4,1,Ookla Speedtest Server 63262: node2.sndcbroadband.com,IN,Asia,Southern Asia,India,West Bengal,,Digha
+103.75.163.2,4,-42,Ookla Speedtest Server 64210: speedtest-maslandapur.speednetkolkata.com,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+152.52.190.90,4,-5,Ookla Speedtest Server 64428: speedtestinf.airtel.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+103.195.72.10,4,-30,Ookla Speedtest Server 64965: speedtestp.cloudskybroadband.in,IN,Asia,Southern Asia,India,West Bengal,,Palāshi
+103.75.163.14,4,-23,Ookla Speedtest Server 65025: ubsplspeedtestkalyani.speednetkolkata.com,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+103.239.13.202,4,10,Ookla Speedtest Server 65710: ns10.fab5network.com,IN,Asia,Southern Asia,India,West Bengal,,Koch Bihār
+103.195.72.46,4,8,Ookla Speedtest Server 67594: rng.cloudskybroadband.in,IN,Asia,Southern Asia,India,West Bengal,,Palāshi
+103.176.116.13,4,3,Ookla Speedtest Server 67878: speedtest2.gbplbroadband.com,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+161.248.124.254,4,5,Ookla Speedtest Server 68612: nxtbt-1-sym-vkp.nbcpl.co.in,IN,Asia,Southern Asia,India,West Bengal,,Howrah
+103.75.163.12,4,-15,Ookla Speedtest Server 68761: speedtest-kol.speednetkolkata.com,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+163.223.0.254,4,26,Ookla Speedtest Server 69623: speedtest-kol.rapidnet.co.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+157.66.109.4,4,-3,Ookla Speedtest Server 69722: speedtest.c-con.uniquebroadband.in,IN,Asia,Southern Asia,India,West Bengal,,Koch Bihār
+103.121.116.53,4,-26,Ookla Speedtest Server 70127: speedtest-ccu.oxynetindia.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+160.250.38.130,4,313,Ookla Speedtest Server 70344: speedtest.grandnet.in,IN,Asia,Southern Asia,India,West Bengal,,Hugli
+103.182.107.39,4,-50,Ookla Speedtest Server 70521: siliguri.zitatel.com,IN,Asia,Southern Asia,India,West Bengal,,Siliguri
+103.182.107.40,4,-27,Ookla Speedtest Server 70523: malda.zitatel.com,IN,Asia,Southern Asia,India,West Bengal,,Malda
+103.182.107.44,4,-65,Ookla Speedtest Server 70597: kandi.zitatel.com,IN,Asia,Southern Asia,India,West Bengal,,Palāshi
+103.182.107.43,4,-54,Ookla Speedtest Server 70598: jangipur.zitatel.com,IN,Asia,Southern Asia,India,West Bengal,,Jangipur
+103.182.107.47,4,-62,Ookla Speedtest Server 70621: bhagwangola.zitatel.com,IN,Asia,Southern Asia,India,West Bengal,,Bhagwāngola
+103.182.107.42,4,-56,Ookla Speedtest Server 70641: coochbihar.zitatel.com,IN,Asia,Southern Asia,India,West Bengal,,Koch Bihār
+103.182.107.45,4,-14,Ookla Speedtest Server 70643: krishnanagar.zitatel.com,IN,Asia,Southern Asia,India,West Bengal,,Krishnanagar
+210.79.134.3,4,5,Ookla Speedtest Server 70942: mspeedtest.skynet.in.net,IN,Asia,Southern Asia,India,West Bengal,,Chittaranjan
+112.79.41.14,4,-1,Ookla Speedtest Server 71697: speedtest.rob.vodafoneidea.com,IN,Asia,Southern Asia,India,West Bengal,,Cossimbāzār
+163.223.0.51,4,-749,Ookla Speedtest Server 72028: speedtest-din.rapidnet.co.in,IN,Asia,Southern Asia,India,West Bengal,,Dīnhāta
+45.123.160.232,4,72,Ookla Speedtest Server 72696: speed.btel.co.in,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+115.110.80.220,4,9,Ookla Speedtest Server 73042: ookla.kk.as6453.net,IN,Asia,Southern Asia,India,West Bengal,,Kolkata
+103.67.97.109,4,30861,Ookla Speedtest Server 73238: speedtest.speednet.blog,IN,Asia,Southern Asia,India,West Bengal,,Howrah
+116.199.204.254,4,-33,Ookla Speedtest Server 73926: ooklabetai.annexfiber.net,IN,Asia,Southern Asia,India,West Bengal,,Krishnanagar
+14.139.215.82,4,1,rkmvu.ac.in,IN,Asia,Southern Asia,India,West Bengal,,Howrah

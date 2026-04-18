@@ -1,5 +1,16 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-176.120.26.109,4,9,ctv7.ru,RU,Europe,Eastern Europe,Russian Federation,Tomsk Oblast,,Tomsk
-188.234.166.22,4,69268,DNS Server: 188x234x166x22.static-business.tomsk.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Tomsk Oblast,,Tomsk
+176.120.26.109,4,-2,ctv7.ru,RU,Europe,Eastern Europe,Russian Federation,Tomsk Oblast,,Tomsk
+78.140.56.107,4,-3150297,DNS Server: msch2.sibtom.ru,RU,Europe,Eastern Europe,Russian Federation,Tomsk Oblast,,Tomsk
+78.140.10.3,4,-22,DNS Server: n10-c3.client.tomica.ru,RU,Europe,Eastern Europe,Russian Federation,Tomsk Oblast,,Tomsk
+78.140.12.50,4,5153,DNS Server: n12-c50.client.tomica.ru,RU,Europe,Eastern Europe,Russian Federation,Tomsk Oblast,,Tomsk
+78.140.12.87,4,31680,DNS Server: n12-c87.client.tomica.ru,RU,Europe,Eastern Europe,Russian Federation,Tomsk Oblast,,Tomsk
+78.140.24.168,4,15755,DNS Server: n24-c168.client.tomica.ru,RU,Europe,Eastern Europe,Russian Federation,Tomsk Oblast,,Tomsk
+78.140.4.85,4,5854,DNS Server: n4-c85.client.tomica.ru,RU,Europe,Eastern Europe,Russian Federation,Tomsk Oblast,,Tomsk
+78.140.59.25,4,5701,DNS Server: n59-c25.client.tomica.ru,RU,Europe,Eastern Europe,Russian Federation,Tomsk Oblast,,Tomsk
+78.140.60.16,4,11037,DNS Server: n60-c16.client.tomica.ru,RU,Europe,Eastern Europe,Russian Federation,Tomsk Oblast,,Tomsk
 46.166.196.80,4,-14,eurekatomsk.ru,RU,Europe,Eastern Europe,Russian Federation,Tomsk Oblast,,Tomsk
+78.140.15.80,4,47,polden.info,RU,Europe,Eastern Europe,Russian Federation,Tomsk Oblast,,Tomsk
+176.120.29.26,4,248418,tomskmuseum.ru,RU,Europe,Eastern Europe,Russian Federation,Tomsk Oblast,,Tomsk
+83.172.1.215,4,9,tsc.ru,RU,Europe,Eastern Europe,Russian Federation,Tomsk Oblast,,Tomsk
 176.120.28.168,4,23,vodakl.ru,RU,Europe,Eastern Europe,Russian Federation,Tomsk Oblast,,Tomsk
+176.120.28.243,4,14,westsib.ru,RU,Europe,Eastern Europe,Russian Federation,Tomsk Oblast,,Tomsk

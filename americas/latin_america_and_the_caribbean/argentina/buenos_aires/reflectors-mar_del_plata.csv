@@ -1,3 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-190.9.0.144,4,-1,DNS Server: host-190.9.0.144.copetel.net.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Mar del Plata
+190.9.0.144,4,-4,DNS Server: host-190.9.0.144.copetel.net.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Mar del Plata
 200.51.96.75,4,3,inidep.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Mar del Plata
+170.80.24.6,4,-3,mdp.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Mar del Plata
+45.229.31.230,4,-3,Ookla Speedtest Server 1472: speedtest.sectornet.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Mar del Plata

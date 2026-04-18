@@ -1,17 +1,86 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-177.12.220.21,4,139,DNS Server: 177-12-220-21.r2telecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
-45.181.24.117,4,1536,DNS Server: 45-181-24-117.viwtelecom-isp.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Arapiraca
-45.186.99.45,4,-1824,DNS Server: 45-186-99-45.virtualinknet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,União dos Palmares
-179.127.77.234,4,325,Ookla Speedtest Server 18207: maceio.speedtest.jgnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
-45.178.200.18,4,38125,Ookla Speedtest Server 30172: teste.altelecommcz.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
-177.38.199.94,4,133630,Ookla Speedtest Server 41098: velocidade.click82.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
-189.127.187.250,4,10769994,Ookla Speedtest Server 53379: speedtest.parceirosdanet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
-177.87.104.10,4,88,Ookla Speedtest Server 55036: speedtest-olf.provedorsuperconnect.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Santana do Ipanema
-45.164.53.131,4,233,Ookla Speedtest Server 55040: speedtest-al-penedo.provedorsuperconnect.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Traipu
-45.188.112.22,4,200,Ookla Speedtest Server 57155: spd.fullnettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Chã Preta
-45.185.36.26,4,529875,Ookla Speedtest Server 63640: test.mundofibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
-138.97.195.243,4,297,Ookla Speedtest Server: speedtest.conextelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Taquarana
-192.141.192.62,4,141,Ookla Speedtest Server: spt.ligfibra.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Teotônio Vilela
-177.37.44.22,4,84,Ookla Speedtest Server: teste.ancoratelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Marechal Deodoro
-131.161.24.202,4,147,Ookla Speedtest Server: teste.rupitelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
-179.49.136.199,4,19180,Ookla Speedtest Server: teste.streamnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+170.247.198.22,4,15,DNS Server: 170-247-198-22.narayana.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Girau do Ponciano
+168.227.102.42,4,55328,DNS Server: 42-102-227-168.supplynet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Igaci
+45.181.24.117,4,1109,DNS Server: 45-181-24-117.viwtelecom-isp.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Arapiraca
+138.0.196.51,4,9922,DNS Server: ip-138.0.196.51.dtel.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+45.179.108.226,4,55117,Ookla Speedtest Server 6797: bocadamata.speedtest.jgnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+179.127.77.251,4,-12,Ookla Speedtest Server 6799: luziapolis.speedtest.jgnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Craíbas
+179.97.43.78,4,-1,Ookla Speedtest Server 7535: speedtest.veloo.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+201.182.184.10,4,-2,Ookla Speedtest Server 12859: teste.imagemnettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+45.234.44.10,4,-11,Ookla Speedtest Server 14301: annet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Campo Alegre
+143.255.20.218,4,-5,Ookla Speedtest Server 15192: sp1.provedortcnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Ouro Branco
+131.255.148.27,4,-22,Ookla Speedtest Server 16194: speedtest.connectalagoas.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Junqueiro
+189.89.61.210,4,-8,Ookla Speedtest Server 17954: spd.teonet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+179.127.77.234,4,325,Ookla Speedtest Server 18207: maceio.speedtest.jgnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Craíbas
+45.227.45.174,4,-17,Ookla Speedtest Server 18243: speedtest.mundoonline.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+45.7.111.249,4,-14,Ookla Speedtest Server 18689: speedtest.profiber.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Palmeira dos Índios
+45.174.0.78,4,-5,Ookla Speedtest Server 24319: speedtest.infinitynt.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+45.177.232.218,4,-4,Ookla Speedtest Server 25787: speedtest.atmtelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+170.244.172.140,4,3,Ookla Speedtest Server 28821: speed1.timernet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Delmiro Gouveia
+45.7.192.196,4,-10,Ookla Speedtest Server 29232: speedtest.reelunet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Limoeiro de Anadia
+45.178.200.18,4,-16511,Ookla Speedtest Server 30172: teste.altelecommcz.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+192.140.112.38,4,-40,Ookla Speedtest Server 31229: speedtest.dfltelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,União dos Palmares
+200.110.203.139,4,-5,Ookla Speedtest Server 32366: speedtest.speednettlcom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+45.179.108.34,4,-4,Ookla Speedtest Server 32828: speedtest.gonetfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+138.59.191.225,4,-24,Ookla Speedtest Server 33269: teste.pinheironet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Pilar
+45.225.252.251,4,-3,Ookla Speedtest Server 33289: speedtest.acessofibra.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+190.89.96.18,4,-30,Ookla Speedtest Server 34631: speedtest.conectemarechal.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Marechal Deodoro
+170.84.156.7,4,-35,Ookla Speedtest Server 35602: velocidade.squidtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+45.237.95.222,4,18,Ookla Speedtest Server 36098: teste.infonetdns.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Arapiraca
+45.181.64.42,4,5,Ookla Speedtest Server 36239: speedtest.portalnetprovedor.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Arapiraca
+45.175.228.38,4,16,Ookla Speedtest Server 38132: ookla.aratelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Arapiraca
+177.38.199.94,4,1306316,Ookla Speedtest Server 41098: velocidade.click82.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,São Miguel dos Campos
+189.14.124.42,4,-18,Ookla Speedtest Server 41488: velocidade.murici.net,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Murici
+186.235.128.214,4,0,Ookla Speedtest Server 43671: speedtest.air.acesso10.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Arapiraca
+201.149.116.218,4,21,Ookla Speedtest Server 45717: speedtest.luup.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Taquarana
+45.71.135.230,4,-23000,Ookla Speedtest Server 47358: testeconecta.provedorconecta.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Delmiro Gouveia
+170.247.199.231,4,8,Ookla Speedtest Server 47368: girau.narayana.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Girau do Ponciano
+45.185.164.25,4,-16,Ookla Speedtest Server 47470: speedtest.redetopnew.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Delmiro Gouveia
+179.107.64.22,4,4,Ookla Speedtest Server 49162: speedtest.microsattelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Boca da Mata
+72.44.24.26,4,11,Ookla Speedtest Server 50852: speedtest.lik.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Coruripe
+192.141.192.62,4,-8,Ookla Speedtest Server 51280: spt.ligfibra.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Teotônio Vilela
+143.255.22.176,4,-7,Ookla Speedtest Server 51430: teste.provedorenet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Ouro Branco
+45.190.133.138,4,-9,Ookla Speedtest Server 53031: spd.speedytelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+177.37.44.22,4,8,Ookla Speedtest Server 54319: teste.ancoratelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Marechal Deodoro
+45.190.253.162,4,69241,Ookla Speedtest Server 54897: speedtest.perffecttelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+177.87.104.10,4,-10,Ookla Speedtest Server 55036: speedtest-olf.provedorsuperconnect.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Santana do Ipanema
+45.164.53.132,4,-6,Ookla Speedtest Server 55037: speedtest-al-palmeiradosindios.provedorsuperconnect.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Arapiraca
+45.164.53.131,4,-13,Ookla Speedtest Server 55040: speedtest-al-penedo.provedorsuperconnect.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Arapiraca
+45.238.92.34,4,-15,Ookla Speedtest Server 56638: speedtest.jntelecomltda.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,União dos Palmares
+45.188.112.22,4,13,Ookla Speedtest Server 57155: spd.fullnettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Chã Preta
+45.7.176.54,4,-7,Ookla Speedtest Server 57357: spd.litoraltelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,São Miguel dos Milagres
+45.234.246.250,4,89034,Ookla Speedtest Server 58929: speedtest.dgnetprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Água Branca
+45.164.53.130,4,11,Ookla Speedtest Server 59407: speedtest-al-arapiraca.provedorsuperconnect.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Arapiraca
+177.87.104.118,4,23,Ookla Speedtest Server 59966: speedtest-al-santanadoipanema.provedorsuperconnect.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Santana do Ipanema
+201.49.255.248,4,6,Ookla Speedtest Server 60040: ookla.locanet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Arapiraca
+200.115.64.122,4,17,Ookla Speedtest Server 60258: speedtest.mgnetmaceio.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+201.182.75.138,4,-21,Ookla Speedtest Server 60640: speedtest.fhnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Água Branca
+201.149.104.79,4,29998,Ookla Speedtest Server 60870: velocimetro.dgtelecomunicacoes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+131.161.24.202,4,-16,Ookla Speedtest Server 61086: teste.rupitelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+187.95.216.248,4,-2,Ookla Speedtest Server 61156: speedtest.navegfibra.com,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+38.191.83.4,4,3,Ookla Speedtest Server 61229: velocidade.laikostelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maragogi
+168.0.8.19,4,-11,Ookla Speedtest Server 61252: speed.tcweb.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Jequiá da Praia
+179.0.44.12,4,6,Ookla Speedtest Server 61820: speedteste.floppynet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Rio Largo
+45.70.48.51,4,-1412515,Ookla Speedtest Server 61906: speedtest.datacomtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+179.49.136.199,4,13326,Ookla Speedtest Server 63430: teste.streamnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+192.140.117.7,4,-8,Ookla Speedtest Server 63992: teste.mhtelecomfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+45.164.202.19,4,74197,Ookla Speedtest Server 64158: jm-speed.jmtelecom-al.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Novo Lino
+45.237.94.212,4,0,Ookla Speedtest Server 64367: speedtest.provedorsupersonic.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Arapiraca
+45.237.95.212,4,-10,Ookla Speedtest Server 64870: ookla.turbonet.srv.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Arapiraca
+138.97.196.18,4,-4,Ookla Speedtest Server 64876: spdteste.vamo.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,São José da Laje
+192.140.116.146,4,-3,Ookla Speedtest Server 67635: spd.a2telecomfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+45.177.133.3,4,71069,Ookla Speedtest Server 67838: speed01.wenettecnologia.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+177.11.74.122,4,5,Ookla Speedtest Server 68548: spd.rnetfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+45.71.188.53,4,-5,Ookla Speedtest Server 68738: ookla.naveguenet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Arapiraca
+45.178.202.35,4,-4,Ookla Speedtest Server 69688: speedtest.vigortelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+45.181.26.17,4,-4,Ookla Speedtest Server 70329: propria.infonetdns.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,São Sebastião
+201.149.104.35,4,-25,Ookla Speedtest Server 70591: velocimetro2.villagenett.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+45.178.136.114,4,6,Ookla Speedtest Server 71224: ookla.ibanet-telecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Ibateguara
+190.89.161.2,4,-29,Ookla Speedtest Server 71415: teste2.rvtelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,São Luís do Quitunde
+189.127.187.242,4,61,Ookla Speedtest Server 71546: velocimetro2.parceirosdanet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+179.63.56.6,4,-12,Ookla Speedtest Server 71646: speed.dnetcapela.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Capela
+191.242.222.30,4,159015,Ookla Speedtest Server 72674: speed.alivenet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+177.22.194.14,4,-20,Ookla Speedtest Server 72790: speedtest.vcnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+177.12.220.137,4,46448,Ookla Speedtest Server 73998: speedtest01.wnetonline.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Maceió
+138.219.200.38,4,6,Ookla Speedtest Server 74070: speedtest.internettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Santana do Ipanema
+179.127.79.250,4,-26,Ookla Speedtest Server: www.jgnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Campo Alegre

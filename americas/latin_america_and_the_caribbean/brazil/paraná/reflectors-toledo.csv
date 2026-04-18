@@ -1,3 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-177.66.108.22,4,204,Ookla Speedtest Server 16304: slave.fusaonet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Toledo
-177.66.108.23,4,212,Ookla Speedtest Server 17974: tupassi.fusaonet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Toledo
+187.86.63.246,4,-5,Ookla Speedtest Server 9178: speedtest02.opcaotelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Toledo
+177.66.108.21,4,0,Ookla Speedtest Server 11097: speedtest.fusaonet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Toledo
+177.66.108.22,4,-5,Ookla Speedtest Server 16304: slave.fusaonet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Toledo
+177.66.108.23,4,-9,Ookla Speedtest Server 17974: tupassi.fusaonet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Toledo
+187.86.63.243,4,2,Ookla Speedtest Server 58653: speedtest01.opcaotelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Toledo

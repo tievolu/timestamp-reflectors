@@ -1,16 +1,37 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 46.229.67.177,4,-18,adk22.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
-194.150.136.68,4,6,biysk.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
-109.195.36.198,4,1526,DNS Server: 109x195x36x198.static-business.barnaul.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
-109.195.36.77,4,85,DNS Server: 109x195x36x77.static-business.barnaul.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
-128.0.24.249,4,57,DNS Server: 249.24.0.128.sta.211.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Biysk
-5.166.98.87,4,749,DNS Server: 5x166x98x87.static-business.barnaul.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
-83.246.234.6,4,10,DNS Server: dynamic-ip-83-246-234-6.fttx.retail.intelbi.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
-83.246.239.97,4,11630,DNS Server: dynamic-ip-83-246-239-97.fttx.retail.intelbi.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
-46.229.66.4,4,1689,DNS Server: host-46-229-66-4.avantel.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
-46.229.67.198,4,778,DNS Server: host-46-229-67-198.avantel.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
-46.229.67.34,4,2,DNS Server: host-46-229-67-34.avantel.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
-83.246.141.45,4,-151583,DNS Server: ip-83-246-141-45.intelbi.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
-2.60.247.74,4,363,Ookla Speedtest Server 3552: barnaul.speedtest.rt.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
+109.195.36.198,4,4960,DNS Server: 109x195x36x198.static-business.barnaul.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
+109.195.36.77,4,-8,DNS Server: 109x195x36x77.static-business.barnaul.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
+176.212.120.1,4,-4360901,DNS Server: 176x212x120x1.static-business.barnaul.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
+128.0.24.249,4,-5442885,DNS Server: 249.24.0.128.sta.211.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Biysk
+5.166.110.252,4,407,DNS Server: 5x166x110x252.dynamic.barnaul.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
+5.166.98.87,4,2975,DNS Server: 5x166x98x87.static-business.barnaul.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
+90.188.13.187,4,1,DNS Server: 90.188.13-187.xdsl.ab.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
+90.188.14.235,4,-10448,DNS Server: 90.188.14-235.xdsl.ab.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
+90.188.15.249,4,-18,DNS Server: 90.188.15-249.xdsl.ab.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
+90.188.5.60,4,-4,DNS Server: 90.188.5-60.xdsl.ab.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
+91.244.112.122,4,19004,DNS Server: 91.244.112.122.wirenet.tv,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Biysk
+91.244.112.128,4,2140,DNS Server: 91.244.112.128.wirenet.tv,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Biysk
+91.244.112.154,4,479,DNS Server: 91.244.112.154.wirenet.tv,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Biysk
+91.244.112.217,4,1602,DNS Server: 91.244.112.217.wirenet.tv,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Biysk
+91.244.112.244,4,4632,DNS Server: 91.244.112.244.wirenet.tv,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Biysk
+91.244.112.248,4,4633,DNS Server: 91.244.112.248.wirenet.tv,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Biysk
+91.244.112.253,4,-14804,DNS Server: 91.244.112.253.wirenet.tv,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Biysk
+91.244.113.134,4,3281,DNS Server: 91.244.113.134.wirenet.tv,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Biysk
+91.244.113.20,4,1891,DNS Server: 91.244.113.20.wirenet.tv,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Biysk
+91.244.113.218,4,866,DNS Server: 91.244.113.218.wirenet.tv,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Biysk
+91.244.113.72,4,3182,DNS Server: 91.244.113.72.wirenet.tv,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Biysk
+91.244.114.67,4,1135,DNS Server: 91.244.114.67.wirenet.tv,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Biysk
+91.244.115.141,4,1705449,DNS Server: 91.244.115.141.wirenet.tv,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Biysk
+91.244.115.234,4,11940,DNS Server: 91.244.115.234.wirenet.tv,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Biysk
+91.244.115.66,4,95127,DNS Server: 91.244.115.66.wirenet.tv,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Biysk
+176.212.114.111,4,-5,DNS Server: dynamicip-176-212-114-111.pppoe.barnaul.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
+176.212.124.15,4,1,DNS Server: dynamicip-176-212-124-15.pppoe.barnaul.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
+176.212.127.57,4,4429,DNS Server: dynamicip-176-212-127-57.pppoe.barnaul.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
+46.229.66.4,4,31447,DNS Server: host-46-229-66-4.avantel.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
+46.229.67.34,4,-5,DNS Server: host-46-229-67-34.avantel.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
+83.246.140.11,4,157309,DNS Server: ip-83-246-140-11.intelbi.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
+83.246.141.45,4,-838917,DNS Server: ip-83-246-141-45.intelbi.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
+90.188.14.127,4,-1,DNS Server: toprayon.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
+109.195.32.230,4,-2,Ookla Speedtest Server 2730: speedtest.barnaul.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
 83.246.237.229,4,36,price-altai.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul
-31.186.136.9,4,-1,price-altai.ru,RU,Europe,Eastern Europe,Russian Federation,Altai Krai,,Barnaul

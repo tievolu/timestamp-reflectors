@@ -1,380 +1,554 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-130.185.87.209,4,8,3ces.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+130.185.87.209,4,-4,3ces.pt,PT,Europe,Southern Europe,Portugal,,,
 109.71.43.210,4,8,4800bps.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-213.58.130.233,4,1042,4cmedica.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-185.31.158.101,4,3,abeltronica.com,PT,Europe,Southern Europe,Portugal,,,
-94.46.161.200,4,85,abreu.pt,PT,Europe,Southern Europe,Portugal,,,
-185.15.20.191,4,68,abreu.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.126.169.176,4,17,acad-ciencias.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-213.146.202.161,4,32,adecco.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+213.58.130.233,4,147,4cmedica.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+193.136.6.31,4,-4,a3es.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+185.31.158.101,4,-3,abeltronica.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.161.200,4,7,abreu.pt,PT,Europe,Southern Europe,Portugal,,,
+185.15.20.191,4,15,abreu.pt,PT,Europe,Southern Europe,Portugal,,,
+94.126.169.176,4,14,acad-ciencias.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.168.100,4,28,acconstrucoes.pt,PT,Europe,Southern Europe,Portugal,,,
+213.146.202.161,4,32,adecco.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Carnaxide
+130.185.84.79,4,3,aeffl.pt,PT,Europe,Southern Europe,Portugal,,,
 195.170.168.61,4,24,aeiou.pt,PT,Europe,Southern Europe,Portugal,,,
 185.12.116.220,4,866,aen2elvas.com,PT,Europe,Southern Europe,Portugal,,,
-83.240.239.145,4,13,aima.gov.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Prior Velho
+185.12.116.92,4,737,afocelca.com,PT,Europe,Southern Europe,Portugal,,,
+5.253.129.101,4,37,agendaculturalporto.org,PT,Europe,Southern Europe,Portugal,,,
+185.32.190.69,4,7,agendalx.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.175.161,4,105,agrosevilla.com,PT,Europe,Southern Europe,Portugal,,,
+185.32.188.19,4,8,aidep.org,PT,Europe,Southern Europe,Portugal,,,
+83.240.239.145,4,1,aima.gov.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+194.38.157.142,4,0,aiod.eu,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 94.46.169.95,4,38,airfree.com,PT,Europe,Southern Europe,Portugal,,,
 5.154.174.233,4,70,akmediahosting.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+94.46.23.192,4,53,algaevertical.com,PT,Europe,Southern Europe,Portugal,,,
 94.46.180.78,4,8,algarve-portal.com,PT,Europe,Southern Europe,Portugal,,,
-185.90.59.212,4,3,almalisboa.pt,PT,Europe,Southern Europe,Portugal,,,
-194.65.138.21,4,12,alticelabs.com,PT,Europe,Southern Europe,Portugal,Porto,,Porto
 62.233.41.47,4,455,alvamater.com,PT,Europe,Southern Europe,Portugal,,,
-94.46.170.232,4,7,ambitur.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.170.232,4,20,ambientemagazine.com,PT,Europe,Southern Europe,Portugal,,,
 109.71.43.203,4,10,amd-export.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+94.46.15.155,4,35,amorinsesilva.pt,PT,Europe,Southern Europe,Portugal,,,
 94.46.160.66,4,9,anacom-consumidor.pt,PT,Europe,Southern Europe,Portugal,,,
-185.32.190.7,4,-542,anam.pt,PT,Europe,Southern Europe,Portugal,,,
-109.71.40.14,4,30,anesaportugal.org,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-62.28.14.57,4,9,anmp.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-185.99.234.75,4,8,antartica.com.pt,PT,Europe,Southern Europe,Portugal,,,
-94.46.173.48,4,30,apcergroup.com,PT,Europe,Southern Europe,Portugal,,,
-185.90.57.136,4,1087,apda.pt,PT,Europe,Southern Europe,Portugal,,,
+109.71.40.14,4,6,anesaportugal.org,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+185.32.188.33,4,-37,animagest.com.pt,PT,Europe,Southern Europe,Portugal,,,
+62.28.14.57,4,7,anmp.pt,PT,Europe,Southern Europe,Portugal,,,
+130.185.83.99,4,3123,anonimais.org,PT,Europe,Southern Europe,Portugal,,,
+185.99.234.75,4,15,antartica.com.pt,PT,Europe,Southern Europe,Portugal,,,
+94.126.169.147,4,0,anticor.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.183.60,4,6069,antipragas.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.25.55,4,2,ap-hotelsresorts.com,PT,Europe,Southern Europe,Portugal,,,
+109.71.44.100,4,1,apadariaportuguesa.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+94.46.173.48,4,-14,apcergroup.com,PT,Europe,Southern Europe,Portugal,,,
+185.90.57.136,4,360,apda.pt,PT,Europe,Southern Europe,Portugal,,,
 185.118.114.199,4,157,apdp.pt,PT,Europe,Southern Europe,Portugal,,,
+185.90.57.197,4,2755,apostaonline.pt,PT,Europe,Southern Europe,Portugal,,,
+94.126.169.171,4,39,appa-mtc.org,PT,Europe,Southern Europe,Portugal,,,
+94.46.181.223,4,-708,appi.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.22.142,4,27,appletonmedicalcare.pt,PT,Europe,Southern Europe,Portugal,,,
+185.32.188.5,4,1749,aprenderapoupar.com,PT,Europe,Southern Europe,Portugal,,,
+94.126.169.196,4,25,aps.pt,PT,Europe,Southern Europe,Portugal,,,
+185.11.166.28,4,-5,aroucageopark.pt,PT,Europe,Southern Europe,Portugal,,,
 195.200.252.208,4,36014,aroucageopark.pt,PT,Europe,Southern Europe,Portugal,,,
-91.209.16.215,4,18,arquivopessoa.net,PT,Europe,Southern Europe,Portugal,,,
-130.185.83.99,4,1876,artecapital.net,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-130.185.87.66,4,13,arteriae.net,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-176.61.150.121,4,133,asbeiras.pt,PT,Europe,Southern Europe,Portugal,,,
+91.209.16.215,4,9,arquivopessoa.net,PT,Europe,Southern Europe,Portugal,,,
+130.185.87.66,4,13,arteriae.net,PT,Europe,Southern Europe,Portugal,,,
+176.61.149.48,4,114,asbeiras.pt,PT,Europe,Southern Europe,Portugal,,,
 185.32.189.192,4,436,assisdrive.pt,PT,Europe,Southern Europe,Portugal,,,
-185.12.116.102,4,832,aterratreme.pt,PT,Europe,Southern Europe,Portugal,,,
-94.46.22.142,4,335,atlantic-cargo.pt,PT,Europe,Southern Europe,Portugal,Viseu,,Palma
-130.185.83.150,4,905,aulp.org,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-185.32.190.127,4,45,autonoma.pt,PT,Europe,Southern Europe,Portugal,,,
+185.32.189.208,4,-1,atelevisao.com,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.102,4,1012,aterratreme.pt,PT,Europe,Southern Europe,Portugal,,,
+130.185.83.150,4,905,aulp.org,PT,Europe,Southern Europe,Portugal,,,
+5.253.128.113,4,2,aurpicm.pt,PT,Europe,Southern Europe,Portugal,,,
+109.71.43.216,4,26,autocarisma.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+185.32.190.127,4,-9,autonoma.pt,PT,Europe,Southern Europe,Portugal,,,
 94.46.135.179,4,381,autoreno.pt,PT,Europe,Southern Europe,Portugal,,,
-94.46.176.92,4,88,avidaportuguesa.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.176.92,4,1,avidaportuguesa.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.14.1,4,-954506,avozdoalgarve.pt,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.63,4,-139,azoreantours.com,PT,Europe,Southern Europe,Portugal,,,
 94.46.181.1,4,-560,balflex.com,PT,Europe,Southern Europe,Portugal,,,
 5.253.182.100,4,55,balflex.de,PT,Europe,Southern Europe,Portugal,,,
-109.71.40.220,4,-331,barrocal.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.46.181.59,4,4,bengoji.pt,PT,Europe,Southern Europe,Portugal,,,
-94.126.169.152,4,17,bikeinterra.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+109.71.40.220,4,829,barrocal.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+94.126.169.239,4,23,better-place.pt,PT,Europe,Southern Europe,Portugal,,,
+194.39.124.63,4,-8,blandyswinelodge.com,PT,Europe,Southern Europe,Portugal,,,
+194.39.126.94,4,16,bloco.org,PT,Europe,Southern Europe,Portugal,,,
 185.31.158.118,4,870,bloco.org,PT,Europe,Southern Europe,Portugal,,,
-94.126.169.162,4,4,bluelabeltransfers.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+94.126.169.162,4,4,bluelabeltransfers.com,PT,Europe,Southern Europe,Portugal,,,
 193.137.201.84,4,3,boaventuradesousasantos.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Coimbra
-185.99.235.6,4,59,bocadolobo.com,PT,Europe,Southern Europe,Portugal,,,
-185.99.235.116,4,18,brabbu.com,PT,Europe,Southern Europe,Portugal,,,
-185.31.158.102,4,5,briefing.pt,PT,Europe,Southern Europe,Portugal,,,
-94.126.169.245,4,3,campeaoprovincias.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.46.22.40,4,4,campopequeno.com,PT,Europe,Southern Europe,Portugal,Viseu,,Palma
-185.90.58.143,4,96,carpilux.com,PT,Europe,Southern Europe,Portugal,,,
-94.46.22.222,4,257,casadechadaboanova.pt,PT,Europe,Southern Europe,Portugal,Viseu,,Palma
-185.12.116.233,4,713,casino-lisboa.pt,PT,Europe,Southern Europe,Portugal,,,
-185.118.115.209,4,1155,ccip.pt,PT,Europe,Southern Europe,Portugal,,,
-185.90.56.56,4,991,chapito.org,PT,Europe,Southern Europe,Portugal,,,
+185.99.235.6,4,-3,bocadolobo.com,PT,Europe,Southern Europe,Portugal,,,
+185.32.190.7,4,-1354,boutiquedacarne1.pt,PT,Europe,Southern Europe,Portugal,,,
+185.99.235.116,4,-3,brabbu.com,PT,Europe,Southern Europe,Portugal,,,
+185.31.158.102,4,-2,briefing.pt,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.197,4,1121,bruval.pt,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.208,4,2967,campeaoprovincias.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.22.40,4,4,campopequeno.com,PT,Europe,Southern Europe,Portugal,,,
+185.90.58.143,4,-15,carpilux.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.22.222,4,257,casadechadaboanova.pt,PT,Europe,Southern Europe,Portugal,,,
+94.126.169.245,4,8,casaduartelagos.com,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.233,4,665,casino-lisboa.pt,PT,Europe,Southern Europe,Portugal,,,
+62.28.26.232,4,5,casinoportugal.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+185.12.116.154,4,2881,casjd.pt,PT,Europe,Southern Europe,Portugal,,,
+188.81.14.47,4,590,cavaleiro-lda.com,PT,Europe,Southern Europe,Portugal,Castelo Branco,,Covilha
+185.118.115.209,4,1899,ccip.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.168.170,4,-7,ccvalg.pt,PT,Europe,Southern Europe,Portugal,,,
+213.205.79.38,4,3210,cdnacional.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+185.12.116.215,4,790,centrosocialdelecadobalio.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.135.23,4,-5,cercifel.org.pt,PT,Europe,Southern Europe,Portugal,,,
+185.32.188.7,4,-3,cfa23.pt,PT,Europe,Southern Europe,Portugal,,,
 185.240.248.101,4,627,ciab.pt,PT,Europe,Southern Europe,Portugal,,,
-185.240.248.155,4,1855,ciaiq.org,PT,Europe,Southern Europe,Portugal,,,
-94.46.183.134,4,2474,cicap.pt,PT,Europe,Southern Europe,Portugal,,,
-94.46.15.240,4,7,cidaliaferreira.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Algés
-94.46.135.94,4,-6,cimpas.pt,PT,Europe,Southern Europe,Portugal,,,
-130.185.81.216,4,5,cin.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-185.99.235.118,4,14,circu.net,PT,Europe,Southern Europe,Portugal,,,
+185.240.248.155,4,-219,ciaiq.org,PT,Europe,Southern Europe,Portugal,,,
+94.46.183.134,4,5919,cicap.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.15.240,4,7,cidaliaferreira.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.135.94,4,-917,cimpas.pt,PT,Europe,Southern Europe,Portugal,,,
+185.99.235.118,4,5,circu.net,PT,Europe,Southern Europe,Portugal,,,
 94.46.168.109,4,6,citi.pt,PT,Europe,Southern Europe,Portugal,,,
-195.22.25.130,4,5,Claranet Limited,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.46.23.114,4,42,clonlara.org,PT,Europe,Southern Europe,Portugal,Viseu,,Palma
-130.185.84.237,4,29,clubeslotcartrofa.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-194.65.92.189,4,29,cm-aveiro.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-5.253.181.199,4,9,cm-gondomar.pt,PT,Europe,Southern Europe,Portugal,,,
-213.228.152.94,4,-13414490,cm-grandola.pt,PT,Europe,Southern Europe,Portugal,,,
-62.48.167.85,4,172,cm-ilhavo.pt,PT,Europe,Southern Europe,Portugal,Aveiro,,Aveiro
-89.26.253.27,4,5,cm-lagoa.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-148.69.221.178,4,4,cm-nazare.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-62.28.196.253,4,8,cm-sintra.pt,PT,Europe,Southern Europe,Portugal,Porto,,Canelas
-94.46.165.141,4,22,cm-tvedras.pt,PT,Europe,Southern Europe,Portugal,,,
-195.23.69.164,4,3,cne.pt,PT,Europe,Southern Europe,Portugal,Aveiro,,Avanca
-185.31.158.211,4,4,cniacc.pt,PT,Europe,Southern Europe,Portugal,,,
+195.22.25.130,4,-1,Claranet Limited,PT,Europe,Southern Europe,Portugal,Lisbon,,Estoril
+213.205.79.73,4,34,clix.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+94.46.23.114,4,-12,clonlara.org,PT,Europe,Southern Europe,Portugal,,,
+194.65.92.189,4,18,cm-aveiro.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+89.114.200.81,4,-2,cm-feira.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+194.65.141.201,4,-6,cm-fundao.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+5.253.181.199,4,-3,cm-gondomar.pt,PT,Europe,Southern Europe,Portugal,,,
+213.228.152.94,4,28003120,cm-grandola.pt,PT,Europe,Southern Europe,Portugal,Porto,,Maia
+62.48.167.85,4,172,cm-ilhavo.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,
+89.26.253.27,4,5,cm-lagoa.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.169.85,4,13,cm-seia.pt,PT,Europe,Southern Europe,Portugal,,,
+62.28.196.253,4,45,cm-sintra.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.165.141,4,437,cm-tvedras.pt,PT,Europe,Southern Europe,Portugal,,,
+195.23.69.164,4,-6,cne.pt,PT,Europe,Southern Europe,Portugal,,,
+185.31.158.211,4,-6,cniacc.pt,PT,Europe,Southern Europe,Portugal,,,
 94.46.180.200,4,1395,cnm.com.pt,PT,Europe,Southern Europe,Portugal,,,
-185.32.189.167,4,18,comunidadeculturaearte.com,PT,Europe,Southern Europe,Portugal,,,
-94.46.180.217,4,1737,confeitarianacional.com,PT,Europe,Southern Europe,Portugal,,,
-130.185.83.18,4,878,consumoalgarve.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+185.32.189.167,4,-8,comunidadeculturaearte.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.180.217,4,5586,confeitarianacional.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.14.91,4,-31,consultactiva.com,PT,Europe,Southern Europe,Portugal,,,
+130.185.83.18,4,1228,consumoalgarve.pt,PT,Europe,Southern Europe,Portugal,,,
+94.126.169.135,4,13,cordel.pt,PT,Europe,Southern Europe,Portugal,,,
 94.46.135.14,4,18,correiodominho.pt,PT,Europe,Southern Europe,Portugal,,,
+185.90.59.114,4,1,cotefis.com,PT,Europe,Southern Europe,Portugal,,,
 94.46.169.41,4,50,countrybrandingwiki.org,PT,Europe,Southern Europe,Portugal,,,
 185.99.235.120,4,31,covetedition.com,PT,Europe,Southern Europe,Portugal,,,
-185.99.235.112,4,2,covethouse.eu,PT,Europe,Southern Europe,Portugal,,,
+185.99.235.112,4,-17,covethouse.eu,PT,Europe,Southern Europe,Portugal,,,
 213.58.130.231,4,678,cpidt.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+185.12.116.198,4,624,criapbusiness.com,PT,Europe,Southern Europe,Portugal,,,
 94.46.135.81,4,4,criticalmanufacturing.com,PT,Europe,Southern Europe,Portugal,,,
-185.90.57.129,4,12,cruzvermelha.pt,PT,Europe,Southern Europe,Portugal,,,
-185.169.99.111,4,48,cufa.org.br,PT,Europe,Southern Europe,Portugal,,,
-94.46.26.155,4,19,culturanorte.gov.pt,PT,Europe,Southern Europe,Portugal,Viseu,,Palma
+94.126.169.152,4,8,crucreativehub.com,PT,Europe,Southern Europe,Portugal,,,
+185.90.57.129,4,93,cruzvermelha.pt,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.100,4,960,csdornelas.pt,PT,Europe,Southern Europe,Portugal,,,
+185.169.99.111,4,-4,cufa.org.br,PT,Europe,Southern Europe,Portugal,,,
+94.46.26.155,4,19,culturanorte.gov.pt,PT,Europe,Southern Europe,Portugal,,,
+176.221.38.145,4,-34,curtas.pt,PT,Europe,Southern Europe,Portugal,,,
 176.221.32.30,4,60,curtas.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.26.237,4,-3,cyr.pt,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.167,4,724,darkskyalqueva.com,PT,Europe,Southern Europe,Portugal,,,
 185.12.116.64,4,141,darkskyalqueva.com,PT,Europe,Southern Europe,Portugal,,,
-185.99.235.108,4,9,delightfull.eu,PT,Europe,Southern Europe,Portugal,,,
-94.23.74.209,4,1034,directlenderloans.org,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-5.249.101.107,4,97,DNS Server: 107.101.249.5.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-5.249.100.12,4,69,DNS Server: 12.100.249.5.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-89.114.155.129,4,165,DNS Server: 129.155.114.89.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-5.249.96.140,4,4,DNS Server: 140.96.249.5.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.61.250.150,4,3095,DNS Server: 150.250.61.94.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Braga,,Vila Nova de Famalicão
-5.249.101.181,4,84,DNS Server: 181.101.249.5.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-5.249.101.184,4,10,DNS Server: 184.101.249.5.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-89.115.242.195,4,181,DNS Server: 195.242.115.89.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-5.249.101.208,4,26,DNS Server: 208.101.249.5.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-5.249.101.210,4,4,DNS Server: 210.101.249.5.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-213.205.80.82,4,2775314,DNS Server: 213-205-80-82.net.novis.pt,PT,Europe,Southern Europe,Portugal,Braga,,Prazins
-5.249.101.217,4,36,DNS Server: 217.101.249.5.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.60.88.252,4,202,DNS Server: 252.88.60.94.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
-5.249.100.3,4,-29,DNS Server: 3.100.249.5.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-78.130.64.95,4,-24,DNS Server: 78-130-64-95.static.net.novis.pt,PT,Europe,Southern Europe,Portugal,,,
-78.130.51.53,4,-3890729199,DNS Server: 78.130.51.53.rev.optimus.pt,PT,Europe,Southern Europe,Portugal,,,
-88.210.101.130,4,84,DNS Server: 88.210.101.130.rev.optimus.pt,PT,Europe,Southern Europe,Portugal,Porto,,Sobrosa
-88.157.113.175,4,-40181,DNS Server: a88-157-113-175.static.cpe.netcabo.pt,PT,Europe,Southern Europe,Portugal,Braga,,Vila Nova de Famalicão
-88.157.145.54,4,50,DNS Server: a88-157-145-54.static.cpe.netcabo.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
-88.157.154.134,4,-125118413,DNS Server: a88-157-154-134.static.cpe.netcabo.pt,PT,Europe,Southern Europe,Portugal,Braga,,Caldelas
-88.157.98.214,4,7732,DNS Server: a88-157-98-214.static.cpe.netcabo.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-89.154.1.233,4,22316861,DNS Server: a89-154-1-233.static.cpe.netcabo.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Oeiras
-85.243.48.77,4,545,DNS Server: bl10-48-77.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Faro,,Albufeira
-85.244.80.220,4,151,DNS Server: bl11-80-220.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Setúbal,,Pinhal Novo
-85.245.51.190,4,390,DNS Server: bl12-51-190.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Azores,,Angra do Heroísmo
-85.247.21.35,4,666,DNS Server: bl14-21-35.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Faro,,Tavira
-188.80.70.237,4,633,DNS Server: bl15-70-237.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Braga,,Vieira do Minho
-188.81.200.105,4,449,DNS Server: bl16-200-105.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Viseu,,Viseu
-2.80.4.81,4,259,DNS Server: bl19-4-81.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Viana do Castelo,,Viana do Castelo
-2.81.59.121,4,-228,DNS Server: bl20-59-121.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Porto,,Penafiel
-2.81.63.254,4,183,DNS Server: bl20-63-254.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Porto,,Penafiel
-2.83.244.68,4,223,DNS Server: bl22-244-68.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Braga,,Braga
-2.83.250.179,4,-223,DNS Server: bl22-250-179.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Leiria,,Marinha Grande
-82.155.125.231,4,644,DNS Server: bl6-125-231.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Leiria,,Atouguia da Baleia
-82.155.91.243,4,18,DNS Server: bl6-91-243.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Porto,,Amarante
-85.241.19.107,4,391,DNS Server: bl8-19-107.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-85.242.208.15,4,399,DNS Server: bl9-208-15.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Faro,,Parchal
-85.242.56.159,4,424,DNS Server: bl9-56-159.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Amadora
-81.84.246.187,4,292,DNS Server: mail.alfa-beta.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-5.206.228.37,4,268,DNS Server: mgarces2.evolute.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-62.28.65.186,4,-2136545554,DNS Server: static-wan-bl3-65-186.rev.webside.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Pontinha
-94.126.169.3,4,19,dominios.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-62.28.195.86,4,-234971,douroacima.pt,PT,Europe,Southern Europe,Portugal,Porto,,Canelas
-185.15.23.121,4,5,doutorfinancas.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-185.11.166.85,4,13,dstar-portugal.pt,PT,Europe,Southern Europe,Portugal,,,
-176.61.150.11,4,3,e-cultura.pt,PT,Europe,Southern Europe,Portugal,,,
+85.241.29.217,4,-5,dataroad.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Amadora
+94.46.181.151,4,-12,deco.pt,PT,Europe,Southern Europe,Portugal,,,
+185.99.235.108,4,14,delightfull.eu,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.85,4,191,democraciadobemcomum.pt,PT,Europe,Southern Europe,Portugal,,,
+80.172.227.64,4,-1,designglow.com,PT,Europe,Southern Europe,Portugal,Porto,,Matosinhos Municipality
+5.249.101.107,4,-6,DNS Server: 107.101.249.5.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+5.249.100.12,4,-2,DNS Server: 12.100.249.5.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+5.249.96.140,4,-5,DNS Server: 140.96.249.5.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+94.61.250.150,4,64814,DNS Server: 150.250.61.94.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Braga,,Braga
+5.249.101.181,4,1,DNS Server: 181.101.249.5.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+5.249.101.184,4,-6,DNS Server: 184.101.249.5.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+89.115.242.195,4,21,DNS Server: 195.242.115.89.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+5.249.101.208,4,-6,DNS Server: 208.101.249.5.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+5.249.101.210,4,-5,DNS Server: 210.101.249.5.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+213.205.80.82,4,29232485,DNS Server: 213-205-80-82.net.novis.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+5.249.101.217,4,-3,DNS Server: 217.101.249.5.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+94.60.88.252,4,108,DNS Server: 252.88.60.94.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+5.249.100.42,4,-6,DNS Server: 42.100.249.5.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+78.130.64.95,4,-613,DNS Server: 78-130-64-95.static.net.novis.pt,PT,Europe,Southern Europe,Portugal,Setúbal,,Montijo
+88.210.125.204,4,38348580,DNS Server: 88-210-125-204.net.static.novis.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+89.181.32.114,4,-2277801637,DNS Server: 89-181-32-114.net.novis.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+93.102.206.180,4,-2277802866,DNS Server: 93.102.206.180.rev.optimus.pt,PT,Europe,Southern Europe,Portugal,,,
+93.102.80.20,4,-2277802404,DNS Server: 93.102.80.20.rev.optimus.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+109.50.236.207,4,91,DNS Server: a109-50-236-207.cpe.netcabo.pt,PT,Europe,Southern Europe,Portugal,Porto,,Vila Nova de Gaia
+83.144.165.56,4,282,DNS Server: a83-144-165-56.cpe.netcabo.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+85.139.20.122,4,48,DNS Server: a85-139-20-122.cpe.netcabo.pt,PT,Europe,Southern Europe,Portugal,Évora,,Evora
+88.157.11.91,4,360,DNS Server: a88-157-11-91.static.cpe.netcabo.pt,PT,Europe,Southern Europe,Portugal,,,
+88.157.113.131,4,-2146438197,DNS Server: a88-157-113-131.static.cpe.netcabo.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+88.157.145.54,4,-4,DNS Server: a88-157-145-54.static.cpe.netcabo.pt,PT,Europe,Southern Europe,Portugal,,,
+88.157.154.134,4,-3597865573,DNS Server: a88-157-154-134.static.cpe.netcabo.pt,PT,Europe,Southern Europe,Portugal,,,
+88.157.98.214,4,20703,DNS Server: a88-157-98-214.static.cpe.netcabo.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+89.154.1.233,4,49734437,DNS Server: a89-154-1-233.static.cpe.netcabo.pt,PT,Europe,Southern Europe,Portugal,Vila Real,,Vila Real
+95.95.136.109,4,161,DNS Server: a95-95-136-109.cpe.netcabo.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+95.95.60.205,4,-3,DNS Server: a95-95-60-205.cpe.netcabo.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+85.243.48.77,4,97,DNS Server: bl10-48-77.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Faro,,Albufeira
+85.244.80.220,4,20,DNS Server: bl11-80-220.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Setúbal,,Montijo
+85.245.51.190,4,546,DNS Server: bl12-51-190.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Azores,,Angra do Heroísmo
+85.247.146.25,4,686,DNS Server: bl14-146-25.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Madeira,,Funchal
+85.247.21.35,4,699,DNS Server: bl14-21-35.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Faro,,Portimão
+85.247.83.209,4,739,DNS Server: bl14-83-209.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Faro,,Quarteira
+188.80.70.237,4,5,DNS Server: bl15-70-237.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Braga,,Vieira do Minho
+188.81.200.105,4,21,DNS Server: bl16-200-105.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Viseu,,Viseu
+2.80.4.81,4,0,DNS Server: bl19-4-81.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Aveiro,,Esmoriz
+2.81.156.119,4,150,DNS Server: bl20-156-119.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Castelo Branco,,Castelo Branco
+2.81.59.121,4,0,DNS Server: bl20-59-121.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Porto,,Penafiel
+2.81.63.254,4,179,DNS Server: bl20-63-254.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Porto,,Penafiel
+2.82.180.219,4,143,DNS Server: bl21-180-219.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Ericeira
+2.83.229.10,4,83,DNS Server: bl22-229-10.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Porto,,Ermesinde
+2.83.244.68,4,223,DNS Server: bl22-244-68.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Figueira da Foz Municipality
+188.250.112.188,4,364,DNS Server: bl24-112-188.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Aveiro,,Estarreja
+82.155.125.231,4,176,DNS Server: bl6-125-231.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Figueira da Foz Municipality
+82.155.91.243,4,61,DNS Server: bl6-91-243.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Porto,,Maia
+85.241.19.107,4,741,DNS Server: bl8-19-107.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Setúbal,,Cotovia
+85.242.208.15,4,15,DNS Server: bl9-208-15.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Faro,,Portimão
+85.242.56.159,4,8,DNS Server: bl9-56-159.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Amadora
+5.206.228.37,4,-41,DNS Server: mgarces2.evolute.pt,PT,Europe,Southern Europe,Portugal,,,
+62.28.161.134,4,15,DNS Server: static-wan-bl3-161-134.rev.webside.pt,PT,Europe,Southern Europe,Portugal,,,
+62.28.161.218,4,61,DNS Server: static-wan-bl3-161-218.rev.webside.pt,PT,Europe,Southern Europe,Portugal,,,
+62.28.172.106,4,-3,DNS Server: static-wan-bl3-172-106.rev.webside.pt,PT,Europe,Southern Europe,Portugal,,,
+62.28.181.242,4,83,DNS Server: static-wan-bl3-181-242.rev.webside.pt,PT,Europe,Southern Europe,Portugal,Aveiro,,Aveiro
+62.28.190.146,4,56,DNS Server: static-wan-bl3-190-146.rev.webside.pt,PT,Europe,Southern Europe,Portugal,Aveiro,,Aveiro
+62.28.65.186,4,-2135225238,DNS Server: static-wan-bl3-65-186.rev.webside.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+94.46.22.122,4,5,doclisboa.org,PT,Europe,Southern Europe,Portugal,,,
+91.205.230.224,4,-3,DoH server: cs-pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+143.20.12.32,4,-2,DoH server: dnscry.pt-lisbon-ipv4,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+91.209.16.98,4,-3,DoH server: dnscry.pt-lisbon02-ipv4,PT,Europe,Southern Europe,Portugal,,,
+94.126.169.3,4,-1,dominios.pt,PT,Europe,Southern Europe,Portugal,,,
+62.28.195.86,4,-234971,douroacima.pt,PT,Europe,Southern Europe,Portugal,,,
+185.15.23.121,4,5,doutorfinancas.pt,PT,Europe,Southern Europe,Portugal,,,
+185.11.166.85,4,11,dstar-portugal.pt,PT,Europe,Southern Europe,Portugal,,,
+176.61.150.11,4,-6,e-cultura.pt,PT,Europe,Southern Europe,Portugal,,,
 94.46.251.77,4,7,e-goi.com,PT,Europe,Southern Europe,Portugal,Porto,,Matosinhos Municipality
-213.58.230.133,4,600,eapn.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.46.13.70,4,43,ecclesia.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Algés
-94.23.74.221,4,1028,edinburghshogmanay.org,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+213.58.230.133,4,29,eapn.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+185.12.116.161,4,1364,ebankit.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.13.70,4,43,ecclesia.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.173.34,4,65,eciia.eu,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.165,4,1327,econews.pt,PT,Europe,Southern Europe,Portugal,,,
 185.79.226.156,4,7,egoi.page,PT,Europe,Southern Europe,Portugal,Porto,,Matosinhos Municipality
+185.12.116.114,4,1235,eixonortesul.pt,PT,Europe,Southern Europe,Portugal,,,
 185.240.248.69,4,656,electrika-shop-portugal.com,PT,Europe,Southern Europe,Portugal,,,
-94.46.180.50,4,43,epws.org,PT,Europe,Southern Europe,Portugal,,,
-185.12.116.231,4,3037,erasmusmais.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.183.179,4,5973,emilianos.eu,PT,Europe,Southern Europe,Portugal,,,
+94.46.180.50,4,-2,epws.org,PT,Europe,Southern Europe,Portugal,,,
+185.32.189.158,4,-1,escapeshoes.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.171.125,4,-8,esepf.pt,PT,Europe,Southern Europe,Portugal,,,
 185.12.116.117,4,727,esoterica.pt,PT,Europe,Southern Europe,Portugal,,,
-185.41.117.229,4,23,espad.org,PT,Europe,Southern Europe,Portugal,,,
-185.99.235.107,4,29,essentialhome.eu,PT,Europe,Southern Europe,Portugal,,,
-94.126.169.125,4,21,estorilpraia.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+185.99.235.107,4,-5,essentialhome.eu,PT,Europe,Southern Europe,Portugal,,,
+62.233.41.70,4,-193,estorilsoldigital.com,PT,Europe,Southern Europe,Portugal,,,
 94.46.169.84,4,6,eucnc.eu,PT,Europe,Southern Europe,Portugal,,,
-130.185.87.163,4,245,eugosto.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-185.32.189.108,4,2,euroatlantic.pt,PT,Europe,Southern Europe,Portugal,,,
-185.15.20.167,4,6,europacolon.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+130.185.87.163,4,245,eugosto.pt,PT,Europe,Southern Europe,Portugal,,,
+62.233.41.13,4,-15,eurasc.eu,PT,Europe,Southern Europe,Portugal,,,
+185.32.189.108,4,-3,euroatlantic.pt,PT,Europe,Southern Europe,Portugal,,,
+185.15.20.167,4,6,europacolon.pt,PT,Europe,Southern Europe,Portugal,,,
+185.32.188.36,4,16,eusei.com,PT,Europe,Southern Europe,Portugal,,,
 185.32.190.128,4,1,eusou.pt,PT,Europe,Southern Europe,Portugal,,,
-185.12.116.55,4,33,eva-bus.com,PT,Europe,Southern Europe,Portugal,,,
-130.185.84.151,4,9,fabiopedro.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+185.12.116.55,4,122,eva-bus.com,PT,Europe,Southern Europe,Portugal,,,
+194.38.157.192,4,-2,eventkey.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+130.185.84.151,4,9,fabiopedro.pt,PT,Europe,Southern Europe,Portugal,,,
 185.32.190.4,4,-12,faialdigital.com,PT,Europe,Southern Europe,Portugal,,,
-195.22.14.187,4,4,farmaciasdeservico.net,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+94.126.169.210,4,3,farmaciasaude.pt,PT,Europe,Southern Europe,Portugal,,,
+195.22.14.187,4,-4,farmaciasdeservico.net,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 109.71.43.207,4,7,farol.com.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.46.23.119,4,625,fjuventude.pt,PT,Europe,Southern Europe,Portugal,Viseu,,Palma
-185.11.166.138,4,14024,flora-on.pt,PT,Europe,Southern Europe,Portugal,,,
-94.46.168.230,4,44,foradhoras.com.pt,PT,Europe,Southern Europe,Portugal,,,
-185.15.20.151,4,6,forum.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-5.206.228.11,4,6,fpa.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+5.253.128.35,4,1098,fernandoleite.eu,PT,Europe,Southern Europe,Portugal,,,
+94.46.13.2,4,722,fest.pt,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.231,4,6778,festadocinemaitaliano.com,PT,Europe,Southern Europe,Portugal,,,
+185.240.248.89,4,2515,fetishcoolkitchen.pt,PT,Europe,Southern Europe,Portugal,,,
+94.126.169.80,4,245,financefootball.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.23.119,4,21,fjuventude.pt,PT,Europe,Southern Europe,Portugal,,,
+185.90.56.166,4,5,flip.pt,PT,Europe,Southern Europe,Portugal,,,
+185.11.166.138,4,54077,flora-on.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.168.230,4,-5,foradhoras.com.pt,PT,Europe,Southern Europe,Portugal,,,
+185.15.20.151,4,-4,forum.pt,PT,Europe,Southern Europe,Portugal,,,
+109.71.45.67,4,-1,forwork.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+5.206.228.11,4,-66,fpa.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.135.96,4,-16,fpg.pt,PT,Europe,Southern Europe,Portugal,,,
 94.46.135.82,4,31,fpg.pt,PT,Europe,Southern Europe,Portugal,,,
-130.185.84.7,4,983,fpo.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-82.154.19.76,4,843,freegamedev.net,PT,Europe,Southern Europe,Portugal,Azores,,Ponta Delgada
-94.46.25.128,4,2,frutafeia.pt,PT,Europe,Southern Europe,Portugal,Viseu,,Palma
-185.32.37.76,4,17,fundoambiental.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.126.169.159,4,6,gaiacablecar.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.46.15.39,4,4,garagesale.es,PT,Europe,Southern Europe,Portugal,Lisbon,,Algés
-94.46.13.82,4,8,garrafeiranacional.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Algés
+130.185.84.7,4,983,fpo.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.135.86,4,4,fpp.pt,PT,Europe,Southern Europe,Portugal,,,
+94.126.169.249,4,7,fpvoleibol.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.171.99,4,1,fraudes.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.25.128,4,2,frutafeia.pt,PT,Europe,Southern Europe,Portugal,,,
+185.90.58.169,4,-24,futurismo.pt,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.21,4,256,gaiacablecar.com,PT,Europe,Southern Europe,Portugal,,,
+94.126.169.159,4,6,gaiacablecar.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.15.39,4,4,garagesale.es,PT,Europe,Southern Europe,Portugal,,,
+94.46.13.82,4,13,garrafeiranacional.com,PT,Europe,Southern Europe,Portugal,,,
+130.185.87.3,4,53,gatportugal.org,PT,Europe,Southern Europe,Portugal,,,
 185.12.116.62,4,-43,gaudela.net,PT,Europe,Southern Europe,Portugal,,,
 94.46.182.83,4,3,geira.pt,PT,Europe,Southern Europe,Portugal,,,
-185.32.190.163,4,5,gerador.eu,PT,Europe,Southern Europe,Portugal,,,
-194.65.141.201,4,53,gesadco.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
-94.46.172.37,4,15,goparity.com,PT,Europe,Southern Europe,Portugal,,,
-185.32.188.24,4,1148,gorreana.pt,PT,Europe,Southern Europe,Portugal,,,
-2.16.65.43,4,-29,grandvision.it,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-2.16.65.82,4,-24,grandvision.it,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-144.64.138.244,4,33,grisenergia.pt,PT,Europe,Southern Europe,Portugal,Setúbal,,Corroios
+185.32.190.163,4,-39,gerador.eu,PT,Europe,Southern Europe,Portugal,,,
+148.69.168.35,4,45,globalnoticias.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+94.46.161.193,4,-7,goldenergy.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.172.37,4,3,goparity.com,PT,Europe,Southern Europe,Portugal,,,
+185.32.188.37,4,-21,grandeconsumo.com,PT,Europe,Southern Europe,Portugal,,,
+144.64.138.244,4,33,grisenergia.pt,PT,Europe,Southern Europe,Portugal,Setúbal,,Almada
 176.61.148.153,4,36556,groupsdr.com,PT,Europe,Southern Europe,Portugal,,,
 188.208.143.125,4,10,growlforwindows.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.46.26.156,4,15,grupoift.pt,PT,Europe,Southern Europe,Portugal,Viseu,,Palma
+94.46.135.162,4,2,grupoift.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.26.156,4,15,grupoift.pt,PT,Europe,Southern Europe,Portugal,,,
+185.90.57.94,4,-5,grupometal.com,PT,Europe,Southern Europe,Portugal,,,
 94.46.181.206,4,13,guiadacidade.pt,PT,Europe,Southern Europe,Portugal,,,
 185.240.248.77,4,723,heartofavagabond.com,PT,Europe,Southern Europe,Portugal,,,
-193.136.192.231,4,0,iave.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Coimbra
-185.32.189.33,4,704,ibizaclubpt.com,PT,Europe,Southern Europe,Portugal,,,
-94.126.169.196,4,9,icsg.org,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-194.180.32.210,4,6,imageporter.com,PT,Europe,Southern Europe,Portugal,,,
-94.126.169.148,4,32,inaltor.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.46.22.171,4,92,incat.pt,PT,Europe,Southern Europe,Portugal,Viseu,,Palma
-130.185.84.171,4,19,inebur.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-146.193.32.4,4,46,inesc-id.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.46.14.145,4,106,inesc.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Algés
-194.117.27.125,4,2,inescporto.pt,PT,Europe,Southern Europe,Portugal,,,
-195.23.41.129,4,70,infarmed.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-185.240.248.57,4,1684,inova.business,PT,Europe,Southern Europe,Portugal,,,
-185.32.189.182,4,-7413,ipiaget.org,PT,Europe,Southern Europe,Portugal,,,
-192.104.48.74,4,27,ipl.pt,PT,Europe,Southern Europe,Portugal,,,
-93.108.226.5,4,31,ipn.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.46.25.14,4,2,ipopi.org,PT,Europe,Southern Europe,Portugal,Viseu,,Palma
-193.136.58.74,4,36,ipp.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
-193.137.229.205,4,30,ipportalegre.pt,PT,Europe,Southern Europe,Portugal,Guarda,,Guarda
-193.136.189.102,4,13,iscte.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-185.240.248.27,4,1196,iseki-food.net,PT,Europe,Southern Europe,Portugal,,,
+94.46.15.50,4,16,heritagecounseling.pt,PT,Europe,Southern Europe,Portugal,,,
+185.90.57.83,4,-3,hospitaldebraga.pt,PT,Europe,Southern Europe,Portugal,,,
+193.136.192.231,4,-7,iave.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Pereira
+94.46.135.52,4,-1,ibet.pt,PT,Europe,Southern Europe,Portugal,,,
+185.32.189.33,4,1096,ibizaclubpt.com,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.209,4,2229,icsg.org,PT,Europe,Southern Europe,Portugal,,,
+91.209.16.67,4,14,iddigital.pt,PT,Europe,Southern Europe,Portugal,,,
+94.126.169.128,4,24,ignitebusiness.pt,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.210,4,975,ilzsg.org,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.144,4,1008,inaltor.com,PT,Europe,Southern Europe,Portugal,,,
+94.126.169.148,4,32,inaltor.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.22.171,4,92,incat.pt,PT,Europe,Southern Europe,Portugal,,,
+130.185.84.171,4,1,inebur.com,PT,Europe,Southern Europe,Portugal,,,
+62.28.84.173,4,10,inem.pt,PT,Europe,Southern Europe,Portugal,,,
+146.193.32.4,4,1,inesc-id.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+195.23.41.129,4,-6,infarmed.pt,PT,Europe,Southern Europe,Portugal,Porto,,
+94.46.166.92,4,874,infmaster.com.br,PT,Europe,Southern Europe,Portugal,,,
+185.240.248.36,4,58,infocul.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.135.151,4,751,invoicexpress.com,PT,Europe,Southern Europe,Portugal,,,
+62.48.188.75,4,-26,ipiaget.org,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+192.104.48.74,4,-6,ipl.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.25.14,4,2,ipopi.org,PT,Europe,Southern Europe,Portugal,,,
+193.136.58.74,4,-6,ipp.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+193.137.229.205,4,-12,ipportalegre.pt,PT,Europe,Southern Europe,Portugal,Portalegre,,Portalegre
+193.136.59.15,4,15490,iscap.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+193.136.59.7,4,-424164,iscap.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+193.136.189.26,4,887,iscte-iul.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+193.136.189.102,4,-2,iscte.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+185.240.248.27,4,2955,iseki-food.net,PT,Europe,Southern Europe,Portugal,,,
+176.61.149.205,4,-5,isg.pt,PT,Europe,Southern Europe,Portugal,,,
 94.46.180.72,4,14,ivotavares.net,PT,Europe,Southern Europe,Portugal,,,
 185.12.116.98,4,1249,jf-orvalho.pt,PT,Europe,Southern Europe,Portugal,,,
-94.46.181.160,4,30,jogoresponsavel.pt,PT,Europe,Southern Europe,Portugal,,,
-195.170.168.54,4,6,jornaldeleiria.pt,PT,Europe,Southern Europe,Portugal,,,
-185.32.188.146,4,485,jornaleconomico.pt,PT,Europe,Southern Europe,Portugal,,,
-130.185.81.108,4,342,ketafoods.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+185.32.189.203,4,1995,jmf.pt,PT,Europe,Southern Europe,Portugal,,,
+195.170.168.54,4,9,jornaldeleiria.pt,PT,Europe,Southern Europe,Portugal,,,
+185.118.115.120,4,2738,keepcorporate.com,PT,Europe,Southern Europe,Portugal,,,
+130.185.81.108,4,342,ketafoods.com,PT,Europe,Southern Europe,Portugal,,,
+185.32.188.97,4,1840,kisa.ca,PT,Europe,Southern Europe,Portugal,,,
 176.61.146.198,4,13,kit-alojamento-local.pt,PT,Europe,Southern Europe,Portugal,,,
-94.23.75.76,4,3,ku4amala.ru,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-185.15.23.215,4,18,leffest.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.46.167.95,4,56,leiriprensa.pt,PT,Europe,Southern Europe,Portugal,,,
-213.63.186.11,4,6,leme.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-199.16.243.10,4,71240,lemmy.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-195.246.238.106,4,8,leya.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.22.206,4,-30,klclima.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.135.175,4,-9,lapunta.fun,PT,Europe,Southern Europe,Portugal,,,
+185.15.23.215,4,2,leffest.com,PT,Europe,Southern Europe,Portugal,,,
+213.63.186.11,4,20,leme.pt,PT,Europe,Southern Europe,Portugal,Santarém,,Entroncamento
+143.20.12.10,4,8,lemmy.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+195.246.238.106,4,-12,leya.com,PT,Europe,Southern Europe,Portugal,,,
 195.246.238.181,4,5,leyaonline.com,PT,Europe,Southern Europe,Portugal,,,
-94.23.76.235,4,8,librarianinblack.net,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.126.174.10,4,-817,lifecooler.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+94.126.174.10,4,-1648,lifecooler.com,PT,Europe,Southern Europe,Portugal,,,
 176.61.149.153,4,448,liftech.pt,PT,Europe,Southern Europe,Portugal,,,
-94.46.170.191,4,2,ligacontracancro.pt,PT,Europe,Southern Europe,Portugal,,,
-80.172.227.16,4,591,lighthouse3d.com,PT,Europe,Southern Europe,Portugal,Porto,,Porto
-185.12.116.235,4,1198,linktoleaders.com,PT,Europe,Southern Europe,Portugal,,,
-185.15.20.223,4,6,lisboa.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.46.22.122,4,34,loopdesignawards.com,PT,Europe,Southern Europe,Portugal,Viseu,,Palma
+94.46.170.191,4,-4,ligacontracancro.pt,PT,Europe,Southern Europe,Portugal,,,
+80.172.227.9,4,4,lighthouse3d.com,PT,Europe,Southern Europe,Portugal,Porto,,Matosinhos Municipality
+80.172.227.16,4,591,lighthouse3d.com,PT,Europe,Southern Europe,Portugal,Porto,,Matosinhos Municipality
+185.12.116.235,4,2241,linktoleaders.com,PT,Europe,Southern Europe,Portugal,,,
+62.233.41.67,4,296,liquidzome.com,PT,Europe,Southern Europe,Portugal,,,
+185.11.166.170,4,-3,lisboa2023.org,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.237,4,1170,lisbonpubliclaw.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.167.162,4,961,liturgia.pt,PT,Europe,Southern Europe,Portugal,,,
+185.32.188.144,4,-10,livrarialello.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.183.37,4,5084,lojagps.com,PT,Europe,Southern Europe,Portugal,,,
+130.185.80.73,4,747,loneus.biz,PT,Europe,Southern Europe,Portugal,,,
+94.46.22.65,4,-6,lostlisbon.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.183.193,4,5169,lovehappensmag.com,PT,Europe,Southern Europe,Portugal,,,
 185.12.116.146,4,707,lovehappensmag.com,PT,Europe,Southern Europe,Portugal,,,
 62.233.41.51,4,5,lovetiles.com,PT,Europe,Southern Europe,Portugal,,,
-195.170.168.32,4,9,lpfp.pt,PT,Europe,Southern Europe,Portugal,,,
-109.71.43.190,4,24,ltek.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.46.12.196,4,7,luban.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Algés
-94.46.15.205,4,3,lxfactory.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Algés
-109.71.40.88,4,447,madeiraallyear.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+195.170.168.32,4,3155,lpfp.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.12.196,4,7,luban.pt,PT,Europe,Southern Europe,Portugal,,,
+109.71.42.175,4,-478142,lusosico.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+94.46.15.205,4,-12,lxfactory.com,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.93,4,674,machaves.pt,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.59,4,259,macoco-resort.com,PT,Europe,Southern Europe,Portugal,,,
+109.71.40.88,4,-149,madeiraallyear.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 185.32.188.54,4,5,maistrafego.pt,PT,Europe,Southern Europe,Portugal,,,
-94.23.73.76,4,50,marcar.it,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-195.200.252.144,4,323,margemfrio.pt,PT,Europe,Southern Europe,Portugal,,,
-194.39.124.53,4,41,marketeer.pt,PT,Europe,Southern Europe,Portugal,Setúbal,,Montijo
+185.12.116.191,4,1145,mardukebd.pt,PT,Europe,Southern Europe,Portugal,,,
+194.39.124.53,4,41,marketeer.pt,PT,Europe,Southern Europe,Portugal,,,
 194.39.84.143,4,9,mattel.de,PT,Europe,Southern Europe,Portugal,,,
-94.46.183.10,4,2332,medinamica.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.171.98,4,-1,melhorescasinosonline.com,PT,Europe,Southern Europe,Portugal,,,
 185.12.116.108,4,314,miguelclaro.com,PT,Europe,Southern Europe,Portugal,,,
-185.32.191.188,4,12,mintysquare.com,PT,Europe,Southern Europe,Portugal,,,
-62.28.83.111,4,17,modalisboa.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-130.185.87.195,4,211,monstrafestival.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-185.15.20.143,4,9,motelx.org,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-195.22.25.138,4,74,motorguia.net,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.46.183.37,4,2266,moveis-casa-jardim.com,PT,Europe,Southern Europe,Portugal,,,
-94.126.169.145,4,25,museuarqueologicodocarmo.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-109.71.44.169,4,4,museuberardo.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-89.26.243.107,4,2,museudodouro.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.46.26.17,4,3,musicboxlisboa.com,PT,Europe,Southern Europe,Portugal,Viseu,,Palma
-94.126.171.155,4,934,mygutfeeling.eu,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-193.136.192.180,4,35,nau.edu.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Coimbra
-185.90.57.128,4,5,newsmuseum.pt,PT,Europe,Southern Europe,Portugal,,,
+185.32.191.188,4,-3,mintysquare.com,PT,Europe,Southern Europe,Portugal,,,
+62.28.83.111,4,-2,modalisboa.pt,PT,Europe,Southern Europe,Portugal,,,
+130.185.87.195,4,211,monstrafestival.com,PT,Europe,Southern Europe,Portugal,,,
+185.90.59.180,4,0,montebluna.com,PT,Europe,Southern Europe,Portugal,,,
+185.15.20.143,4,38,motelx.org,PT,Europe,Southern Europe,Portugal,,,
+217.28.140.20,4,11,moto.pt,PT,Europe,Southern Europe,Portugal,Castelo Branco,,Covilha
+148.69.168.36,4,11,motor24.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+195.22.25.138,4,5,motorguia.net,PT,Europe,Southern Europe,Portugal,Lisbon,,Estoril
+94.126.169.145,4,5,museuarqueologicodocarmo.pt,PT,Europe,Southern Europe,Portugal,,,
+109.71.44.169,4,-13,museuberardo.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+130.185.82.117,4,6,museunacionaldoazulejo.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.26.17,4,3,musicboxlisboa.com,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.77,4,-83,mustdecor.pt,PT,Europe,Southern Europe,Portugal,,,
+188.93.230.81,4,9955,nation2.com,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+185.31.158.47,4,7,naturtejo.com,PT,Europe,Southern Europe,Portugal,,,
+193.136.192.180,4,1,nau.edu.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Pereira
+193.136.192.183,4,10,nau.edu.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Pereira
+185.12.116.145,4,878,networkencyclopedia.com,PT,Europe,Southern Europe,Portugal,,,
+185.90.57.128,4,-3,newsmuseum.pt,PT,Europe,Southern Europe,Portugal,,,
 94.46.176.14,4,-83662,nexx-helmets.com,PT,Europe,Southern Europe,Portugal,,,
-94.46.135.219,4,7,nit.pt,PT,Europe,Southern Europe,Portugal,,,
-130.185.83.104,4,185,nit.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-130.185.81.219,4,356,nit.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-130.185.82.219,4,7,nit.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-109.71.41.51,4,869,nunonunes-ferreira.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.46.183.147,4,2368,nutrimento.pt,PT,Europe,Southern Europe,Portugal,,,
+130.185.81.219,4,977,nit.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.135.219,4,-1,nit.pt,PT,Europe,Southern Europe,Portugal,,,
+130.185.83.104,4,682,nit.pt,PT,Europe,Southern Europe,Portugal,,,
+130.185.82.219,4,12,nit.pt,PT,Europe,Southern Europe,Portugal,,,
+185.118.115.44,4,5,nobrand.pt,PT,Europe,Southern Europe,Portugal,,,
+185.90.59.221,4,5,norlogic.pt,PT,Europe,Southern Europe,Portugal,,,
+109.71.41.51,4,18,nunonunes-ferreira.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+94.46.183.135,4,523,obercom.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.183.147,4,2618,obidos.pt,PT,Europe,Southern Europe,Portugal,,,
 94.46.168.60,4,-129,obidos.pt,PT,Europe,Southern Europe,Portugal,,,
-94.23.75.211,4,4,observatorioinmobiliario.es,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.46.14.48,4,-688,odisseia-gps.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Algés
+185.32.188.12,4,130,ocentrodigital.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.14.48,4,-1693,odisseia-gps.com,PT,Europe,Southern Europe,Portugal,,,
 94.46.183.20,4,1226,oikos.pt,PT,Europe,Southern Europe,Portugal,,,
+91.209.16.150,4,16,oitaven.pt,PT,Europe,Southern Europe,Portugal,,,
 91.209.16.147,4,3,oitaven.pt,PT,Europe,Southern Europe,Portugal,,,
-185.83.248.141,4,829314,online.pt,PT,Europe,Southern Europe,Portugal,,,
-213.190.194.242,4,432,Ookla Speedtest Server 5874: speedtest.nosmadeira.com,PT,Europe,Southern Europe,Portugal,Madeira,,Funchal
-89.31.231.4,4,205,Ookla Speedtest Server 19253: speed.lazertelecom.com,PT,Europe,Southern Europe,Portugal,Faro,,Almancil
-185.113.142.188,4,205899,Ookla Speedtest Server 44427: speedtest.innov4web.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-185.31.158.52,4,240,Ookla Speedtest Server 54525: speedtest.webhs.pt,PT,Europe,Southern Europe,Portugal,,,
-176.221.37.115,4,336,ordemdosmedicos.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.25.118,4,11,omcentro.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.180.215,4,3,onfm.pt,PT,Europe,Southern Europe,Portugal,,,
+185.83.248.141,4,88168,online.pt,PT,Europe,Southern Europe,Portugal,,,
+213.190.194.242,4,14,Ookla Speedtest Server 5874: speedtest.nosmadeira.com,PT,Europe,Southern Europe,Portugal,Madeira,,Funchal
+89.31.231.4,4,-4,Ookla Speedtest Server 19253: speed.lazertelecom.com,PT,Europe,Southern Europe,Portugal,Faro,,Almancil
+185.162.183.85,4,-4,Ookla Speedtest Server 29467: speedtest.lis1.edgoo.net,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+194.65.162.126,4,4,Ookla Speedtest Server 30843: speedtest-lab.meo.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+212.55.137.229,4,14,Ookla Speedtest Server 30945: speedtest-ga1.meo.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Coimbra
+212.55.137.225,4,-4,Ookla Speedtest Server 31309: speedtest-pcs1.meo.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Coimbra
+212.55.137.237,4,-3,Ookla Speedtest Server 31551: speedtest-fx1.meo.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Coimbra
+185.32.190.252,4,-148534,Ookla Speedtest Server 32773: speedtest.ptservidor.pt,PT,Europe,Southern Europe,Portugal,,,
+45.135.175.239,4,10,Ookla Speedtest Server 34065: speed.net.cloudtelecom.pt,PT,Europe,Southern Europe,Portugal,,,
+185.113.142.188,4,4452,Ookla Speedtest Server 44427: speedtest.innov4web.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+213.58.158.2,4,5,Ookla Speedtest Server 48096: speedtest.oni.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+213.58.201.46,4,-3,Ookla Speedtest Server 48857: speedmadeira.oni.pt,PT,Europe,Southern Europe,Portugal,Porto,,Sandim
+185.228.160.138,4,20,Ookla Speedtest Server 54476: speedtest-ls1.ligat.cloud,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+185.31.158.52,4,-16,Ookla Speedtest Server 54525: speedtest.webhs.pt,PT,Europe,Southern Europe,Portugal,,,
+176.223.1.33,4,-2,Ookla Speedtest Server 60452: speedtest.digi.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+185.148.112.139,4,59,Ookla Speedtest Server 61319: lisboa01.speedtest.angolacables.co.ao,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+213.228.191.169,4,-397387,Ookla Speedtest Server 62812: ookla01.nowo.pt,PT,Europe,Southern Europe,Portugal,Guarda,,Gonçalo
+193.109.186.250,4,-4,Ookla Speedtest Server 63824: speedtest.rav1.edgoo.net,PT,Europe,Southern Europe,Portugal,Braga,,Riba de Ave
+194.65.162.122,4,-52539,Ookla Speedtest Server 69521: speedtest3-lab.meo.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+213.13.128.153,4,8,Ookla Speedtest Server 73843: speedtest-coi1.meo.pt,PT,Europe,Southern Europe,Portugal,Santarém,,Vila Nova da Barquinha
+213.13.128.157,4,-18,Ookla Speedtest Server 73995: speedtest-ptm1.meo.pt,PT,Europe,Southern Europe,Portugal,Santarém,,Vila Nova da Barquinha
+213.30.114.148,4,2,Ookla Speedtest Server: speedtest-po.vodafone.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+94.46.173.89,4,18,ordemdosmedicos.pt,PT,Europe,Southern Europe,Portugal,,,
 176.61.151.107,4,2,ordemdospsicologos.pt,PT,Europe,Southern Europe,Portugal,,,
+62.233.41.222,4,3,osbelenenses.com,PT,Europe,Southern Europe,Portugal,,,
 94.46.180.220,4,8,osbelenenses.com,PT,Europe,Southern Europe,Portugal,,,
 94.46.177.23,4,9,padraoepadrao.com,PT,Europe,Southern Europe,Portugal,,,
-94.46.135.161,4,22,palaciodabolsa.com,PT,Europe,Southern Europe,Portugal,,,
-94.46.175.12,4,89,passadicosdopaiva.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+94.46.135.161,4,1,palaciodabolsa.com,PT,Europe,Southern Europe,Portugal,,,
+5.253.183.11,4,2424,paquito.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.175.12,4,3058,passadicosdopaiva.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 185.12.116.107,4,1236,paulogomeslda.com,PT,Europe,Southern Europe,Portugal,,,
-94.46.173.40,4,24,pestanagolf.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.177.28,4,2360,pentaline.pt,PT,Europe,Southern Europe,Portugal,,,
+91.209.16.96,4,18,perdigueiroportugues.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.173.40,4,2,pestanagolf.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.15.223,4,9,pisabell.pt,PT,Europe,Southern Europe,Portugal,,,
 94.46.168.148,4,9,pizzeriacasavostra.com,PT,Europe,Southern Europe,Portugal,,,
-185.32.188.4,4,208,portal-energia.com,PT,Europe,Southern Europe,Portugal,,,
-185.90.56.209,4,4,portaldasnacoes.pt,PT,Europe,Southern Europe,Portugal,,,
-94.46.13.75,4,1210,portimonense.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Algés
+85.240.241.16,4,-4,playocean.net,PT,Europe,Southern Europe,Portugal,Setúbal,,Charneca de Caparica
+185.32.188.51,4,-86,portal-energia.com,PT,Europe,Southern Europe,Portugal,,,
 185.101.179.130,4,-4,portodigital.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
-130.185.84.99,4,15,portugalfilm.org,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.23.78.94,4,24,portugalio.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-176.61.151.92,4,33,portugalventures.pt,PT,Europe,Southern Europe,Portugal,,,
-185.90.59.130,4,84,ppbi.pt,PT,Europe,Southern Europe,Portugal,,,
+130.185.84.99,4,15,portugalfilm.org,PT,Europe,Southern Europe,Portugal,,,
+176.61.151.92,4,14,portugalventures.pt,PT,Europe,Southern Europe,Portugal,,,
 185.12.116.232,4,3461,presstur.com,PT,Europe,Southern Europe,Portugal,,,
-194.39.124.145,4,36,priberam.com,PT,Europe,Southern Europe,Portugal,Setúbal,,Montijo
+194.39.124.145,4,-21,priberam.com,PT,Europe,Southern Europe,Portugal,,,
+109.71.43.142,4,23,proacustica.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 94.46.180.29,4,72,produtoresflorestais.pt,PT,Europe,Southern Europe,Portugal,,,
-94.46.30.95,4,28,provedor-jus.pt,PT,Europe,Southern Europe,Portugal,Viseu,,Palma
+94.46.183.10,4,5178,progest.co.ao,PT,Europe,Southern Europe,Portugal,,,
+94.46.30.95,4,-10,provedor-jus.pt,PT,Europe,Southern Europe,Portugal,,,
 176.61.149.217,4,27,psicologia.pt,PT,Europe,Southern Europe,Portugal,,,
-185.15.20.127,4,42,ptisp.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-185.15.23.234,4,16,ptisp.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-185.15.23.200,4,17,ptisp.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-185.15.23.235,4,10,ptisp.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-193.136.192.211,4,13,ptspace.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Coimbra
-94.23.74.13,4,10,pulsepeak.top,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-188.93.227.81,4,9,quercus.pt,PT,Europe,Southern Europe,Portugal,,,
-194.39.126.76,4,1,quintadaslagrimas.pt,PT,Europe,Southern Europe,Portugal,Setúbal,,Montijo
+185.15.23.200,4,4,ptisp.pt,PT,Europe,Southern Europe,Portugal,,,
+185.15.23.234,4,6,ptisp.pt,PT,Europe,Southern Europe,Portugal,,,
+185.15.20.127,4,7,ptisp.pt,PT,Europe,Southern Europe,Portugal,,,
+185.15.23.235,4,5,ptisp.pt,PT,Europe,Southern Europe,Portugal,,,
+193.136.192.211,4,19,ptspace.pt,PT,Europe,Southern Europe,Portugal,Coimbra,,Pereira
+94.46.173.80,4,1,quidgest.com,PT,Europe,Southern Europe,Portugal,,,
 185.90.56.148,4,7,quintadoportal.com,PT,Europe,Southern Europe,Portugal,,,
-185.90.57.238,4,3,quintadovallado.com,PT,Europe,Southern Europe,Portugal,,,
-83.240.239.180,4,116,radiopopular.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Prior Velho
-176.61.151.13,4,17,rainbow-europe.org,PT,Europe,Southern Europe,Portugal,,,
-185.32.188.58,4,25,razaoautomovel.com,PT,Europe,Southern Europe,Portugal,,,
-89.26.249.46,4,26,rededoempresario.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-185.12.116.124,4,167,redemunicipiossaudaveis.com,PT,Europe,Southern Europe,Portugal,,,
-194.39.124.134,4,18,reefforum.net,PT,Europe,Southern Europe,Portugal,Setúbal,,Montijo
-213.63.186.146,4,23,reorganiza.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-185.12.116.247,4,1119,resistir.info,PT,Europe,Southern Europe,Portugal,,,
-130.185.83.78,4,1164042,rioavefc.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-185.90.59.22,4,13,riolisboa.com,PT,Europe,Southern Europe,Portugal,,,
-130.185.87.191,4,28,rippa.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.46.177.62,4,8,rna.ao,PT,Europe,Southern Europe,Portugal,,,
+94.46.176.80,4,-11,quintadosilval.pt,PT,Europe,Southern Europe,Portugal,,,
+185.90.57.238,4,9,quintadovallado.com,PT,Europe,Southern Europe,Portugal,,,
+94.126.169.150,4,7,quintapinhaldosfrades.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.183.42,4,5418,racksforall.eu,PT,Europe,Southern Europe,Portugal,,,
+83.240.239.180,4,102,radiopopular.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+176.61.151.13,4,8,rainbow-europe.org,PT,Europe,Southern Europe,Portugal,,,
+185.32.188.58,4,11,razaoautomovel.com,PT,Europe,Southern Europe,Portugal,,,
+89.26.249.46,4,26,rededoempresario.pt,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.124,4,799,redemunicipiossaudaveis.com,PT,Europe,Southern Europe,Portugal,,,
+213.63.186.146,4,23,reorganiza.pt,PT,Europe,Southern Europe,Portugal,Santarém,,Entroncamento
+185.12.116.247,4,1277,resistir.info,PT,Europe,Southern Europe,Portugal,,,
+185.240.248.57,4,2843,restaurantedomjoaquim.pt,PT,Europe,Southern Europe,Portugal,,,
+130.185.83.78,4,2505048,rioavefc.pt,PT,Europe,Southern Europe,Portugal,,,
+130.185.87.191,4,30,rippa.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.177.62,4,9,rna.ao,PT,Europe,Southern Europe,Portugal,,,
 185.240.248.55,4,1053,rodotour.com,PT,Europe,Southern Europe,Portugal,,,
-62.28.183.22,4,61,rotadoromanico.com,PT,Europe,Southern Europe,Portugal,Porto,,Paços de Ferreira
-94.46.175.222,4,511,rpn.pt,PT,Europe,Southern Europe,Portugal,,,
 185.99.235.115,4,11,rugsociety.eu,PT,Europe,Southern Europe,Portugal,,,
-94.46.168.7,4,9,sam.pt,PT,Europe,Southern Europe,Portugal,,,
-213.63.232.221,4,12960,sanahotels.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+185.12.116.194,4,1280,rv66hockey.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.26.232,4,-14,salesianos.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.168.7,4,11,sam.pt,PT,Europe,Southern Europe,Portugal,,,
+213.63.232.221,4,-38937,sanahotels.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Queijas
+185.90.57.23,4,14,santuario-fatima.pt,PT,Europe,Southern Europe,Portugal,,,
 185.31.158.117,4,3,santuario-fatima.pt,PT,Europe,Southern Europe,Portugal,,,
+185.113.142.224,4,-1,science-track.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+94.46.26.219,4,7,scoring.pt,PT,Europe,Southern Europe,Portugal,,,
 185.90.59.68,4,37,seepmode.es,PT,Europe,Southern Europe,Portugal,,,
 176.221.32.160,4,29,sequenciais.pt,PT,Europe,Southern Europe,Portugal,,,
-185.31.158.72,4,2,shifter.pt,PT,Europe,Southern Europe,Portugal,,,
-176.61.151.12,4,2858,slidesplash.com,PT,Europe,Southern Europe,Portugal,,,
-62.28.233.153,4,-1465646310,smtuc.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Barcarena
-94.46.183.98,4,653,snpcultura.org,PT,Europe,Southern Europe,Portugal,,,
-94.46.135.54,4,35,sograpevinhos.com,PT,Europe,Southern Europe,Portugal,,,
-213.58.130.252,4,3,spea.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.46.170.245,4,2,spi.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.180.94,4,1630,sermotive.pt,PT,Europe,Southern Europe,Portugal,,,
+185.32.188.146,4,1004,setair.pt,PT,Europe,Southern Europe,Portugal,,,
+62.233.41.64,4,4,shifter.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.181.154,4,7,simbiotic.pt,PT,Europe,Southern Europe,Portugal,,,
+176.61.151.12,4,5188,slidesplash.com,PT,Europe,Southern Europe,Portugal,,,
+185.240.248.34,4,2877,smartsightseeing.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.183.98,4,2769,snpcultura.org,PT,Europe,Southern Europe,Portugal,,,
+94.46.135.54,4,9,sograpevinhos.com,PT,Europe,Southern Europe,Portugal,,,
+213.205.79.2,4,2703,sooma.com,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+94.46.175.78,4,9,soplast.com,PT,Europe,Southern Europe,Portugal,,,
+213.205.79.25,4,2696,spautores.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+213.58.130.252,4,14,spea.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+109.71.43.31,4,8,sper.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+94.46.170.245,4,11,spi.pt,PT,Europe,Southern Europe,Portugal,,,
+185.11.166.236,4,15,spm.pt,PT,Europe,Southern Europe,Portugal,,,
 185.11.166.94,4,513,spm.pt,PT,Europe,Southern Europe,Portugal,,,
-94.23.75.84,4,2,spq.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+185.90.56.184,4,9,spot-car.com,PT,Europe,Southern Europe,Portugal,,,
 185.90.57.190,4,42345,starsinsider.com,PT,Europe,Southern Europe,Portugal,,,
+130.185.87.233,4,863,startupmadeira.eu,PT,Europe,Southern Europe,Portugal,,,
 109.71.43.54,4,7,startupmadeira.eu,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+94.46.173.129,4,22,startupsworld.net,PT,Europe,Southern Europe,Portugal,,,
+185.32.190.100,4,-57,studentsmagestil.pt,PT,Europe,Southern Europe,Portugal,,,
+188.93.232.64,4,-38,subscriptionboxramblings.com,PT,Europe,Southern Europe,Portugal,,,
 62.28.133.32,4,1295,supertrade.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
-130.185.82.106,4,18,surftotal.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.23.73.16,4,37,tacchini.it,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.46.30.99,4,22,taylor.pt,PT,Europe,Southern Europe,Portugal,Viseu,,Palma
-185.12.116.91,4,-171,teatromunicipaldoporto.pt,PT,Europe,Southern Europe,Portugal,,,
-176.61.151.122,4,1366,teatrosaoluiz.pt,PT,Europe,Southern Europe,Portugal,,,
-213.63.189.60,4,2128,tecnicadovolante.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.46.26.55,4,4,terracell.pt,PT,Europe,Southern Europe,Portugal,Viseu,,Palma
+130.185.82.106,4,10,surftotal.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.176.213,4,26,tabua-rasa.com,PT,Europe,Southern Europe,Portugal,,,
+185.15.23.210,4,14,tacademy.pt,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.91,4,264,teatromunicipaldoporto.pt,PT,Europe,Southern Europe,Portugal,,,
+176.61.151.122,4,429,teatrosaoluiz.pt,PT,Europe,Southern Europe,Portugal,,,
+213.63.189.60,4,2128,tecnicadovolante.com,PT,Europe,Southern Europe,Portugal,Santarém,,Entroncamento
+130.185.81.139,4,494,teixeirataxis-limotransfer.com,PT,Europe,Southern Europe,Portugal,,,
+130.185.84.237,4,24,templifisio.pt,PT,Europe,Southern Europe,Portugal,,,
+185.32.188.24,4,2710,termobox.pt,PT,Europe,Southern Europe,Portugal,,,
+185.90.57.217,4,16,terracell.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.26.55,4,4,terracell.pt,PT,Europe,Southern Europe,Portugal,,,
 213.205.79.58,4,5,terranova.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
-94.23.78.122,4,3,thankyoustephencolbert.org,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+185.90.59.208,4,10,tfugit.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.26.59,4,-15,theatrocirco.com,PT,Europe,Southern Europe,Portugal,,,
+130.185.80.95,4,8,thegoldengate.pt,PT,Europe,Southern Europe,Portugal,,,
+62.233.41.48,4,176,thelawyersglobal.org,PT,Europe,Southern Europe,Portugal,,,
 94.46.175.134,4,22,theportuguesewine.com,PT,Europe,Southern Europe,Portugal,,,
-94.126.169.90,4,1158,tnsc.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.126.169.132,4,9,torredosclerigos.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.126.171.1,4,49,touristicroutes.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.126.171.2,4,3,touristicroutes.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-185.99.235.40,4,38,trendesignbook.com,PT,Europe,Southern Europe,Portugal,,,
-185.240.248.137,4,925,trienaldelisboa.com,PT,Europe,Southern Europe,Portugal,,,
-185.12.116.202,4,490,turim-hotels.com,PT,Europe,Southern Europe,Portugal,,,
+94.126.169.90,4,1158,tnsc.pt,PT,Europe,Southern Europe,Portugal,,,
+94.126.169.132,4,9,torredosclerigos.pt,PT,Europe,Southern Europe,Portugal,,,
+94.126.171.2,4,3,touristicroutes.com,PT,Europe,Southern Europe,Portugal,,,
+94.126.171.1,4,49,touristicroutes.com,PT,Europe,Southern Europe,Portugal,,,
+185.99.235.40,4,4,trendesignbook.com,PT,Europe,Southern Europe,Portugal,,,
+185.240.248.137,4,29,trienaldelisboa.com,PT,Europe,Southern Europe,Portugal,,,
+194.39.126.76,4,9,troiadesignhotel.com,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.202,4,1688,turim-hotels.com,PT,Europe,Southern Europe,Portugal,,,
+185.32.188.8,4,-274,turismodocentro.pt,PT,Europe,Southern Europe,Portugal,,,
 94.46.183.45,4,2764,turismodocentro.pt,PT,Europe,Southern Europe,Portugal,,,
-213.63.232.43,4,57440,uab.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-193.136.224.33,4,13,ualg.pt,PT,Europe,Southern Europe,Portugal,Azores,,Ponta Delgada
-94.46.167.115,4,880,ubiwhere.com,PT,Europe,Southern Europe,Portugal,,,
+62.233.41.52,4,9,tvportugal.tv,PT,Europe,Southern Europe,Portugal,,,
+193.136.173.58,4,6,ua.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+94.46.167.115,4,17,ubiwhere.com,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.158,4,1845,ufci.pt,PT,Europe,Southern Europe,Portugal,,,
 185.12.116.101,4,650,universalmotors.pt,PT,Europe,Southern Europe,Portugal,,,
+185.12.116.147,4,925,valuingtools.com,PT,Europe,Southern Europe,Portugal,,,
+185.90.59.243,4,10,vantastic.pt,PT,Europe,Southern Europe,Portugal,,,
+185.90.57.219,4,0,vda.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.135.155,4,-637,vfc.pt,PT,Europe,Southern Europe,Portugal,,,
 185.32.188.252,4,48,vfc.pt,PT,Europe,Southern Europe,Portugal,,,
-94.46.173.30,4,20,vidagopalace.com,PT,Europe,Southern Europe,Portugal,,,
-94.23.75.243,4,16,vidaimobiliaria.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-185.15.20.121,4,6,vilagale.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-185.90.59.180,4,4,vinhosdoalentejo.pt,PT,Europe,Southern Europe,Portugal,,,
-185.17.230.19,4,9,visitazores.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Funchal
-185.98.250.164,4,6,visitportoandnorth.travel,PT,Europe,Southern Europe,Portugal,,,
-185.118.114.242,4,6,vitoriasc.pt,PT,Europe,Southern Europe,Portugal,,,
-94.46.176.11,4,37,viveirosrego.com,PT,Europe,Southern Europe,Portugal,,,
-94.46.15.224,4,65,vozdaplanicie.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Algés
-94.23.74.31,4,22,vxm.pl,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-94.46.175.70,4,9,wicanders.com,PT,Europe,Southern Europe,Portugal,,,
-94.46.183.40,4,2566,zedosbois.org,PT,Europe,Southern Europe,Portugal,,,
-213.58.163.246,4,5,zero.ong,PT,Europe,Southern Europe,Portugal,Madeira,,Funchal
-185.90.58.192,4,13,zoo.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.173.30,4,32,vidagopalace.com,PT,Europe,Southern Europe,Portugal,,,
+185.15.20.182,4,22,vilagale.pt,PT,Europe,Southern Europe,Portugal,,,
+185.15.20.121,4,6,vilagale.pt,PT,Europe,Southern Europe,Portugal,,,
+185.90.56.127,4,6,vinhosdoalentejo.pt,PT,Europe,Southern Europe,Portugal,,,
+185.17.230.19,4,40,visitazores.com,PT,Europe,Southern Europe,Portugal,Coimbra,,Coimbra
+185.98.250.164,4,7,visitportoandnorth.travel,PT,Europe,Southern Europe,Portugal,,,
+185.118.114.242,4,9,vitoriasc.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.176.11,4,15,viveirosrego.com,PT,Europe,Southern Europe,Portugal,,,
+94.126.169.125,4,5,vjn-texteis.com,PT,Europe,Southern Europe,Portugal,,,
+94.46.15.224,4,65,vozdaplanicie.pt,PT,Europe,Southern Europe,Portugal,,,
+130.185.83.236,4,1447,vozdapovoa.com,PT,Europe,Southern Europe,Portugal,,,
+194.39.126.104,4,5,worldchefs.org,PT,Europe,Southern Europe,Portugal,,,
+185.11.167.18,4,4,wsei.org,PT,Europe,Southern Europe,Portugal,,,
+130.185.84.140,4,4,youtools.pt,PT,Europe,Southern Europe,Portugal,,,
+94.46.183.40,4,4008,zedosbois.org,PT,Europe,Southern Europe,Portugal,,,
+213.58.163.246,4,4,zero.ong,PT,Europe,Southern Europe,Portugal,Braga,,Vermoim
+185.90.58.192,4,2,zoo.pt,PT,Europe,Southern Europe,Portugal,,,
 94.46.180.124,4,284,zoomarine.pt,PT,Europe,Southern Europe,Portugal,,,

@@ -1,0 +1,5 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+81.201.60.199,4,-3,DNS Server: dhcp.pilsfree.net,CZ,Europe,Eastern Europe,Czechia,Plzeň Region,Okres Plzeň-sever,Třemošná
+81.201.60.130,4,1,DNS Server: router-kralovicka.pilsfree.net,CZ,Europe,Eastern Europe,Czechia,Plzeň Region,Okres Plzeň-sever,Třemošná
+81.201.60.186,4,-1,Ookla Speedtest Server 10708: ookla1.pilsfree.net,CZ,Europe,Eastern Europe,Czechia,Plzeň Region,Okres Plzeň-sever,Třemošná
+81.201.60.138,4,17,pilsfree.net,CZ,Europe,Eastern Europe,Czechia,Plzeň Region,Okres Plzeň-sever,Třemošná

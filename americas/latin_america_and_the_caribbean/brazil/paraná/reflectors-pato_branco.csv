@@ -1,3 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-186.250.37.216,4,91,DNS Server: 216.37.250.186.in-addr.arpa.verointernet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Pato Branco
-187.109.104.56,4,3895,DNS Server: 56.104.109.187.dynamic.ampernet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Pato Branco
+187.109.104.56,4,39202,DNS Server: 56.104.109.187.dynamic.ampernet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Pato Branco
+187.109.109.173,4,-8,Ookla Speedtest Server 28111: speedtestpb.ampernet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Pato Branco
+191.37.135.130,4,-9,Ookla Speedtest Server 28748: speedtest.cybertechnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Pato Branco

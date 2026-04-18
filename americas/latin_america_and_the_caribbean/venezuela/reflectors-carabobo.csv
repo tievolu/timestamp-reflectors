@@ -1,6 +1,12 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-190.120.250.221,4,62,DNS Server: 190-120-250-221.tvcablelitoral.com,VE,Americas,Latin America and the Caribbean,Venezuela,Carabobo,,Valencia
-45.7.141.220,4,291,Ookla Speedtest Server 57441: speedtest.vidanet.com.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Carabobo,,Guacara
-38.10.80.127,4,416,Ookla Speedtest Server 58446: speedtest.servidatatelecom.com,VE,Americas,Latin America and the Caribbean,Venezuela,Carabobo,,Valencia
-138.59.10.238,4,384,Ookla Speedtest Server 58916: speedtest4.fonet.com.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Carabobo,,Valencia
-190.103.31.10,4,327,Ookla Speedtest Server 63967: speedtest-valencia.fibextelecom.net,VE,Americas,Latin America and the Caribbean,Venezuela,Carabobo,,Valencia
+190.120.250.221,4,-5,DNS Server: 190-120-250-221.tvcablelitoral.com,VE,Americas,Latin America and the Caribbean,Venezuela,Carabobo,,Valencia
+185.240.164.5,4,5,Ookla Speedtest Server 18294: speedtest.dat-com.com.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Carabobo,,Valencia
+45.7.141.220,4,10,Ookla Speedtest Server 57441: speedtest.vidanet.com.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Carabobo,,Guacara
+45.184.103.255,4,-3,Ookla Speedtest Server 57836: speed.pnsinternet.com,VE,Americas,Latin America and the Caribbean,Venezuela,Carabobo,,Valencia
+38.183.112.182,4,-4,Ookla Speedtest Server 65409: ookla.netcomplusve.com,VE,Americas,Latin America and the Caribbean,Venezuela,Carabobo,,Valencia
+38.224.153.254,4,-11,Ookla Speedtest Server 67918: speedtest.abdo77.com,VE,Americas,Latin America and the Caribbean,Venezuela,Carabobo,,Valencia
+38.64.172.255,4,-6,Ookla Speedtest Server 69631: speed01.eduarnet.com,VE,Americas,Latin America and the Caribbean,Venezuela,Carabobo,,Valencia
+38.41.48.254,4,-2,Ookla Speedtest Server 70324: speed01.supernet-telecom.co.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Carabobo,,Valencia
+38.66.206.250,4,2,Ookla Speedtest Server 71617: speedtest.wifiprado.com.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Carabobo,,Valencia
+181.191.227.6,4,-9,Ookla Speedtest Server 71963: ooklapc.mangonet.com.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Carabobo,,Puerto Cabello
+45.181.224.126,4,-20,Ookla Speedtest Server 72439: speednag2.chircalnetwifi.com.ve,VE,Americas,Latin America and the Caribbean,Venezuela,Carabobo,,Naguanagua

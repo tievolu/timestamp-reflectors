@@ -1,3 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-102.176.160.107,4,449,DNS Server: mtn.com.gn,GN,Africa,Sub-Saharan Africa,Guinea,,,
-41.77.184.163,4,276,Ookla Speedtest Server 30753: speedbandtest.vdctelecom.com,GN,Africa,Sub-Saharan Africa,Guinea,Conakry Region,,Conakry
+102.218.138.107,4,-13,Ookla Speedtest Server 54075: fast.kagnytechnology.com,GN,Africa,Sub-Saharan Africa,Guinea,Conakry Region,,Conakry
+41.223.48.189,4,0,Ookla Speedtest Server 54085: speedtest.mounagroup.com,GN,Africa,Sub-Saharan Africa,Guinea,Conakry Region,,Conakry
+160.119.135.74,4,-2,Ookla Speedtest Server 73708: speedtest.skyconnect-sa.com,GN,Africa,Sub-Saharan Africa,Guinea,,,

@@ -1,4 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-187.188.57.147,4,1050,DNS Server: fixed-187-188-57-147.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Álvaro Obregón
-132.247.85.69,4,6,edusol.info,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Álvaro Obregón
-201.168.131.83,4,369,Ookla Speedtest Server 21782: ooklamx.marcatel.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Álvaro Obregón
+187.188.112.16,4,-6,DNS Server: fixed-187-188-112-16.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Álvaro Obregón
+187.188.125.185,4,0,DNS Server: fixed-187-188-125-185.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Álvaro Obregón
+200.56.252.75,4,-46881,DNS Server: host112075.metrored.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Álvaro Obregón
+168.197.123.3,4,-7,Ookla Speedtest Server 17657: speedtest.santafe.bestel.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Álvaro Obregón
+201.174.189.226,4,-6,Ookla Speedtest Server 69351: speedtest-cdmx100g.transtelco.net,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Álvaro Obregón

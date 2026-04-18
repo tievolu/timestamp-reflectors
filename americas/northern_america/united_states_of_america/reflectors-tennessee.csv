@@ -1,33 +1,61 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-173.166.240.211,4,3,cafes.net,US,Americas,Northern America,United States of America,Tennessee,,Chattanooga
-104.255.147.171,4,93,clarksvilleonline.com,US,Americas,Northern America,United States of America,Tennessee,,Clarksville
-35.130.126.50,4,23,DNS Server: 035-130-126-050.biz.spectrum.com,US,Americas,Northern America,United States of America,Tennessee,,Seymour
-35.132.216.127,4,13093,DNS Server: 035-132-216-127.inf.spectrum.com,US,Americas,Northern America,United States of America,Tennessee,,Cleveland
-75.131.52.162,4,47,DNS Server: 075-131-052-162.biz.spectrum.com,US,Americas,Northern America,United States of America,Tennessee,,Knoxville
-64.22.3.105,4,350,DNS Server: 64-22-3-105.bus.aeneas.net,US,Americas,Northern America,United States of America,Tennessee,,Brownsville
-75.145.104.114,4,11,DNS Server: 75-145-104-114-Memphis.hfc.comcastbusiness.net,US,Americas,Northern America,United States of America,Tennessee,,Memphis
-75.145.55.101,4,2,DNS Server: 75-145-55-101-Nashville.hfc.comcastbusiness.net,US,Americas,Northern America,United States of America,Tennessee,,Nashville
-75.151.206.50,4,-14847995,DNS Server: 75-151-206-50-Memphis.hfc.comcastbusiness.net,US,Americas,Northern America,United States of America,Tennessee,,Collierville
-76.217.222.177,4,-1281402,DNS Server: 76-217-222-177.lightspeed.wlfrct.sbcglobal.net,US,Americas,Northern America,United States of America,Tennessee,,Memphis
-69.245.38.152,4,42,DNS Server: c-69-245-38-152.hsd1.tn.comcast.net,US,Americas,Northern America,United States of America,Tennessee,,Nashville
-73.113.61.59,4,-7454659,DNS Server: c-73-113-61-59.hsd1.tn.comcast.net,US,Americas,Northern America,United States of America,Tennessee,,Crossville
-73.88.180.90,4,-14349575,DNS Server: c-73-88-180-90.hsd1.tn.comcast.net,US,Americas,Northern America,United States of America,Tennessee,,Nashville
-75.64.132.194,4,7,DNS Server: c-75-64-132-194.hsd1.tn.comcast.net,US,Americas,Northern America,United States of America,Tennessee,,Arlington
-76.22.230.106,4,4,DNS Server: c-76-22-230-106.hsd1.tn.comcast.net,US,Americas,Northern America,United States of America,Tennessee,,Brentwood
-76.10.62.20,4,515,DNS Server: host-62-20.tnknuhe.knoxville.tn.us.clients.pavlovmedia.net,US,Americas,Northern America,United States of America,Tennessee,,Knoxville
-66.128.251.37,4,17110794,DNS Server: host-66-128-251-37.united.net,US,Americas,Northern America,United States of America,Tennessee,,Thompson's Station
-104.36.203.120,4,1138,DNS Server: mfhfho.cdelightband.net,US,Americas,Northern America,United States of America,Tennessee,,Clarksville
-204.238.168.42,4,181,exmormon.org,US,Americas,Northern America,United States of America,Tennessee,,Cleveland
-128.136.4.189,4,-5,gelest.com,US,Americas,Northern America,United States of America,Tennessee,,
-72.32.73.43,4,11,ieeeghn.org,US,Americas,Northern America,United States of America,Tennessee,,Germantown
-160.36.130.30,4,17,nimbios.org,US,Americas,Northern America,United States of America,Tennessee,,Knoxville
-162.81.6.10,4,313,Ookla Speedtest Server 53116: speedtest.kub.org,US,Americas,Northern America,United States of America,Tennessee,,Knoxville
-204.10.169.18,4,210,Ookla Speedtest Server 62335: ookla.lexnet1.com,US,Americas,Northern America,United States of America,Tennessee,,Lexington
-38.146.71.248,4,307,Ookla Speedtest Server 62480: speed.theclear.net,US,Americas,Northern America,United States of America,Tennessee,,Trenton
-167.160.80.12,4,294,Ookla Speedtest Server 64568: speedtest.lcub.com,US,Americas,Northern America,United States of America,Tennessee,,Lenoir City
-69.8.160.142,4,325,Ookla Speedtest Server: speedcheck.blomand.net,US,Americas,Northern America,United States of America,Tennessee,,Crossville
-12.9.40.17,4,4,Ookla Speedtest Server: speedtest.telepage.net,US,Americas,Northern America,United States of America,Tennessee,,Oneida
-96.4.199.3,4,6,sullivank12.net,US,Americas,Northern America,United States of America,Tennessee,,Bluff City
-199.30.112.210,4,7,susans.org,US,Americas,Northern America,United States of America,Tennessee,,Clarksville
-204.87.213.86,4,20,tennesseetrustee.org,US,Americas,Northern America,United States of America,Tennessee,,Piney Flats
-165.6.71.0,4,-966,utmck.edu,US,Americas,Northern America,United States of America,Tennessee,,Knoxville
+66.226.77.251,4,-6,anoox.com,US,Americas,Northern America,United States of America,Tennessee,,Ardmore
+173.166.240.211,4,3,cafes.net,US,Americas,Northern America,United States of America,Tennessee,,Nashville
+68.71.108.122,4,75217,cardfoundry.com,US,Americas,Northern America,United States of America,Tennessee,,College Grove
+104.255.147.171,4,2,clarksvilleonline.com,US,Americas,Northern America,United States of America,Tennessee,,Clarksville
+207.114.32.23,4,2,comicshoplocator.com,US,Americas,Northern America,United States of America,Tennessee,,Cordova
+4.31.158.132,4,-6,comsol.com,US,Americas,Northern America,United States of America,Tennessee,,Franklin
+66.226.75.95,4,-6,cse.com.bd,US,Americas,Northern America,United States of America,Tennessee,,Ardmore
+207.114.32.16,4,-47,diamondcomics.com,US,Americas,Northern America,United States of America,Tennessee,,Cordova
+24.158.91.17,4,-5,DNS Server: 024-158-091-017.res.spectrum.com,US,Americas,Northern America,United States of America,Tennessee,,Dayton
+35.130.126.50,4,5876,DNS Server: 035-130-126-050.biz.spectrum.com,US,Americas,Northern America,United States of America,Tennessee,,Sevierville
+47.226.105.68,4,19610,DNS Server: 047-226-105-068.res.spectrum.com,US,Americas,Northern America,United States of America,Tennessee,,Tullahoma
+75.131.52.162,4,1,DNS Server: 075-131-052-162.biz.spectrum.com,US,Americas,Northern America,United States of America,Tennessee,,Kingston
+96.33.54.108,4,3487,DNS Server: 096-033-054-108.res.spectrum.com,US,Americas,Northern America,United States of America,Tennessee,,Columbia
+97.95.135.249,4,54610,DNS Server: 097-095-135-249.res.spectrum.com,US,Americas,Northern America,United States of America,Tennessee,,Sevierville
+149.20.174.29,4,-8,DNS Server: 149.20.174.29.svecfiber.com,US,Americas,Northern America,United States of America,Tennessee,,South Pittsburg
+75.145.55.101,4,-4,DNS Server: 75-145-55-101-Nashville.hfc.comcastbusiness.net,US,Americas,Northern America,United States of America,Tennessee,,Franklin
+68.47.229.174,4,-5,DNS Server: c-68-47-229-174.hsd1.tn.comcast.net,US,Americas,Northern America,United States of America,Tennessee,,Springfield
+76.22.230.106,4,-6,DNS Server: c-76-22-230-106.hsd1.tn.comcast.net,US,Americas,Northern America,United States of America,Tennessee,,Brentwood
+96.4.63.29,4,12,ena.com,US,Americas,Northern America,United States of America,Tennessee,,Cookeville
+204.238.168.42,4,27,exmormon.org,US,Americas,Northern America,United States of America,Tennessee,,Cleveland
+66.226.77.74,4,126,fordforums.com.au,US,Americas,Northern America,United States of America,Tennessee,,Ardmore
+207.114.32.27,4,15,freecomicbookday.com,US,Americas,Northern America,United States of America,Tennessee,,Cordova
+66.226.77.78,4,768,gnm.org,US,Americas,Northern America,United States of America,Tennessee,,Ardmore
+207.114.32.28,4,5,hakes.com,US,Americas,Northern America,United States of America,Tennessee,,Cordova
+207.114.32.14,4,45,halloweencomicfest.com,US,Americas,Northern America,United States of America,Tennessee,,Cordova
+66.226.74.96,4,680,khmerforums.com,US,Americas,Northern America,United States of America,Tennessee,,Ardmore
+66.226.72.32,4,-19,latalkradio.com,US,Americas,Northern America,United States of America,Tennessee,,Ardmore
+160.36.130.30,4,-8,nimbios.org,US,Americas,Northern America,United States of America,Tennessee,,Knoxville
+23.31.166.9,4,12,nosharpdistinction.com,US,Americas,Northern America,United States of America,Tennessee,,Knoxville
+173.240.143.217,4,-2126896,Ookla Speedtest Server 4895: speed.nctc.com,US,Americas,Northern America,United States of America,Tennessee,,Lafayette
+204.116.107.40,4,4,Ookla Speedtest Server 11204: speedtest.highlandtelephone.net,US,Americas,Northern America,United States of America,Tennessee,,Oliver Springs
+69.8.160.142,4,-13,Ookla Speedtest Server 11404: speedcheck.blomand.net,US,Americas,Northern America,United States of America,Tennessee,,Crossville
+64.65.48.11,4,3,Ookla Speedtest Server 16725: speedtest.clevelandutilities.com,US,Americas,Northern America,United States of America,Tennessee,,Cleveland
+74.51.15.142,4,-5,Ookla Speedtest Server 17094: speedtest.united.net,US,Americas,Northern America,United States of America,Tennessee,,Brentwood
+69.167.216.226,4,-9,Ookla Speedtest Server 21796: speedtest.eplus.net,US,Americas,Northern America,United States of America,Tennessee,,Jackson
+152.42.51.242,4,0,Ookla Speedtest Server 23114: ookla.mlconnect.com,US,Americas,Northern America,United States of America,Tennessee,,Tennessee Ridge
+152.86.65.20,4,12,Ookla Speedtest Server 24126: speedtest.mybrightridge.com,US,Americas,Northern America,United States of America,Tennessee,,Johnson City
+209.235.166.123,4,-2,Ookla Speedtest Server 26423: speedtest.peacecom.net,US,Americas,Northern America,United States of America,Tennessee,,Nashville
+23.180.0.244,4,-4,Ookla Speedtest Server 32686: speedtest.mw-com.com,US,Americas,Northern America,United States of America,Tennessee,,Lewisburg
+12.9.40.17,4,-7,Ookla Speedtest Server 38054: speedtest.telepage.net,US,Americas,Northern America,United States of America,Tennessee,,Oneida
+74.115.244.68,4,-4,Ookla Speedtest Server 48718: speedtest.pesenergize.com,US,Americas,Northern America,United States of America,Tennessee,,Pulaski
+162.81.6.10,4,10,Ookla Speedtest Server 53116: speedtest.kub.org,US,Americas,Northern America,United States of America,Tennessee,,Knoxville
+204.10.169.18,4,-8,Ookla Speedtest Server 62335: ookla.lexnet1.com,US,Americas,Northern America,United States of America,Tennessee,,Lexington
+38.146.71.248,4,-2,Ookla Speedtest Server 62480: speed.theclear.net,US,Americas,Northern America,United States of America,Tennessee,,Stanton
+167.160.80.12,4,-3,Ookla Speedtest Server 64568: speedtest.lcub.com,US,Americas,Northern America,United States of America,Tennessee,,Lenoir City
+146.12.160.36,4,6,Ookla Speedtest Server 64954: ookla.tvecconnect.com,US,Americas,Northern America,United States of America,Tennessee,,Waynesboro
+152.42.51.246,4,-15,Ookla Speedtest Server 67547: ookla2.mlconnect.com,US,Americas,Northern America,United States of America,Tennessee,,Tennessee Ridge
+38.254.60.99,4,-21,Ookla Speedtest Server 70138: speedtest.ignitebroadband.com,US,Americas,Northern America,United States of America,Tennessee,,Dickson
+216.163.5.9,4,-5,Ookla Speedtest Server 70539: speedtest02.ritterisp.com,US,Americas,Northern America,United States of America,Tennessee,,Millington
+152.86.66.8,4,9,Ookla Speedtest Server 71069: speedtest2.mybrightridge.com,US,Americas,Northern America,United States of America,Tennessee,,Johnson City
+74.51.15.146,4,8,Ookla Speedtest Server 73013: speed.united.net,US,Americas,Northern America,United States of America,Tennessee,,Brentwood
+66.199.239.238,4,-5,Ookla Speedtest Server 73242: speedtest.milink1.com,US,Americas,Northern America,United States of America,Tennessee,,Milan
+50.227.194.164,4,8,opendental.com,US,Americas,Northern America,United States of America,Tennessee,,Knoxville
+50.227.194.166,4,-3,patientviewer.com,US,Americas,Northern America,United States of America,Tennessee,,Knoxville
+66.226.77.248,4,7,pizzaclassicany.com,US,Americas,Northern America,United States of America,Tennessee,,Ardmore
+207.114.32.30,4,6,previewsworld.com,US,Americas,Northern America,United States of America,Tennessee,,Cordova
+172.223.182.221,4,29,sudovanilla.org,US,Americas,Northern America,United States of America,Tennessee,,Maryville
+199.30.112.210,4,-7,susans.org,US,Americas,Northern America,United States of America,Tennessee,,Clarksville
+204.87.213.86,4,20,tennesseetrustee.org,US,Americas,Northern America,United States of America,Tennessee,,Watauga
+66.226.77.49,4,6,visitsolomons.com.sb,US,Americas,Northern America,United States of America,Tennessee,,Ardmore

@@ -1,3 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-86.122.55.7,4,3105,DNS Server: 86-122-55-7.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Constanța County,,Constanța
-193.231.242.78,4,401,Ookla Speedtest Server 45427: speedtest.gmbcomputers.ro,RO,Europe,Eastern Europe,Romania,Constanța County,,Constanța
+82.137.27.130,4,10043,DNS Server: 82-137-27-130.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Constanța County,,Constanța
+86.122.55.7,4,32763361,DNS Server: 86-122-55-7.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Constanța County,,Constanța
+5.2.231.131,4,-24,DNS Server: mail.abadl-rowater.ro,RO,Europe,Eastern Europe,Romania,Constanța County,,Constanța
+193.231.242.78,4,-9,Ookla Speedtest Server 45427: speedtest.gmbcomputers.ro,RO,Europe,Eastern Europe,Romania,Constanța County,,Constanța

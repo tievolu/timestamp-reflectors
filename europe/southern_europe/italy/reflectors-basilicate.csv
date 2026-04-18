@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-185.77.49.39,4,212,Ookla Speedtest Server 48938: st1.globalcombasilicata.it,IT,Europe,Southern Europe,Italy,Basilicate,Province of Potenza,Lauria
+93.64.222.78,4,-16,DNS Server: net-93-64-222-78.cust.vodafonedsl.it,IT,Europe,Southern Europe,Italy,Basilicate,Province of Matera,Matera
+46.231.32.23,4,-36,DNS Server: sole1-023.alida.it,IT,Europe,Southern Europe,Italy,Basilicate,Province of Potenza,Potenza
+185.77.49.39,4,1,Ookla Speedtest Server 48938: st1.globalcombasilicata.it,IT,Europe,Southern Europe,Italy,Basilicate,Province of Potenza,Lauria

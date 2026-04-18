@@ -1,12 +1,15 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-129.215.11.67,4,6,archer.ac.uk,GB,Europe,Northern Europe,United Kingdom,Scotland,Edinburgh,Edinburgh
-185.122.65.34,4,41,citizenticket.co.uk,GB,Europe,Northern Europe,United Kingdom,Scotland,Glasgow City,Glasgow
-129.215.10.218,4,3,dcc.ac.uk,GB,Europe,Northern Europe,United Kingdom,Scotland,Edinburgh,Edinburgh
-86.111.160.94,4,-519,DNS Server: ptr94.highnet.com,GB,Europe,Northern Europe,United Kingdom,Scotland,Edinburgh,Edinburgh
-129.215.255.34,4,19,icms.org.uk,GB,Europe,Northern Europe,United Kingdom,Scotland,Edinburgh,Edinburgh
-129.215.10.128,4,3,politicalsettlements.org,GB,Europe,Northern Europe,United Kingdom,Scotland,Edinburgh,Edinburgh
-195.206.196.115,4,90,rampantscotland.com,GB,Europe,Northern Europe,United Kingdom,Scotland,Glasgow City,Glasgow
-185.122.65.93,4,37,rias.org.uk,GB,Europe,Northern Europe,United Kingdom,Scotland,Glasgow City,Glasgow
-212.84.183.55,4,55,socialsecurity.gov.scot,GB,Europe,Northern Europe,United Kingdom,Scotland,Glasgow City,Glasgow
-129.215.10.97,4,13,thedatalab.com,GB,Europe,Northern Europe,United Kingdom,Scotland,Edinburgh,Edinburgh
-212.84.174.72,4,21,weaponslaw.org,GB,Europe,Northern Europe,United Kingdom,Scotland,South Ayrshire,Troon
+129.215.11.67,4,12,archer.ac.uk,GB,Europe,Northern Europe,United Kingdom,Scotland,Edinburgh,Edinburgh
+185.122.65.34,4,-4,citizenticket.com,GB,Europe,Northern Europe,United Kingdom,Scotland,Dundee City,Dundee
+193.36.128.2,4,-3,DNS Server: 193-36-128-2.cfwn.uk,GB,Europe,Northern Europe,United Kingdom,Scotland,Highland,Dingwall
+86.111.160.94,4,-258,DNS Server: ptr94.highnet.com,GB,Europe,Northern Europe,United Kingdom,Scotland,Glasgow City,Glasgow
+217.30.114.229,4,14,hijobs.net,GB,Europe,Northern Europe,United Kingdom,Scotland,Edinburgh,Edinburgh
+129.215.10.218,4,5,icms.ac.uk,GB,Europe,Northern Europe,United Kingdom,Scotland,Edinburgh,Edinburgh
+185.120.1.229,4,-5,Ookla Speedtest Server 43780: ookla-1.edi.as58246.net,GB,Europe,Northern Europe,United Kingdom,Scotland,East Lothian,Haddington
+89.104.250.222,4,-3,Ookla Speedtest Server 69984: speedtest2.converged.co.uk,GB,Europe,Northern Europe,United Kingdom,Scotland,Aberdeen City,Aberdeen
+82.2.236.221,4,-8217,osztromok.com,GB,Europe,Northern Europe,United Kingdom,Scotland,Edinburgh,Edinburgh
+129.215.10.128,4,-3,politicalsettlements.org,GB,Europe,Northern Europe,United Kingdom,Scotland,Edinburgh,Edinburgh
+185.122.65.93,4,10,rias.org.uk,GB,Europe,Northern Europe,United Kingdom,Scotland,Dundee City,Dundee
+129.215.10.97,4,-2,thedatalab.com,GB,Europe,Northern Europe,United Kingdom,Scotland,Edinburgh,Edinburgh
+157.96.64.72,4,19,truffleshuffle.co.uk,GB,Europe,Northern Europe,United Kingdom,Scotland,Stirling,Stirling
+188.240.58.49,4,12,ukcia.org,GB,Europe,Northern Europe,United Kingdom,Scotland,Glasgow City,Glasgow

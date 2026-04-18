@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-93.171.103.246,4,198,Ookla Speedtest Server 16065: speedtest.rta-net.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Angarsk
+5.167.14.31,4,896,DNS Server: 5x167x14x31.dynamic.irkutsk.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Angarsk
+5.167.18.100,4,1007,DNS Server: 5x167x18x100.dynamic.irkutsk.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Angarsk
+93.171.103.246,4,2,Ookla Speedtest Server 16065: speedtest.rta-net.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Angarsk

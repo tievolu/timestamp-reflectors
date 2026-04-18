@@ -1,22 +1,36 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-45.167.112.2,4,3584576,DNS Server: 2.45-167-112.cosmored.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Puerto Vallarta
-204.199.204.130,4,-23574,DNS Server: 204-199-204-130.dia.static.centurylink.com.cl,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Zapotlanejo
-204.199.204.154,4,7216,DNS Server: 204-199-204-154.dia.static.centurylink.com.cl,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Zapotlanejo
-45.190.197.235,4,4059,DNS Server: 235-197-190-45.tecnianet.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,El Salto
-45.167.113.4,4,3598146,DNS Server: 4.45-167-113.cosmored.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Puerto Vallarta
-187.217.225.181,4,-32077180,DNS Server: customer-187-217-225-181.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Puerto Vallarta
-187.198.178.187,4,7509,DNS Server: dsl-187-198-178-187-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Zapotlán el Grande
-187.204.74.158,4,231,DNS Server: dsl-187-204-74-158-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Autlán de Navarro
-187.205.184.78,4,276,DNS Server: dsl-187-205-184-78-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,San Miguel el Alto
-187.205.193.45,4,156,DNS Server: dsl-187-205-193-45-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,La Barca
-187.251.128.207,4,38,DNS Server: fixed-187-251-128-207.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Zapopan
-143.255.58.138,4,310,eyboletin.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
-181.191.247.50,4,33,iepcjalisco.org.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
-189.199.79.56,4,369,Ookla Speedtest Server 14349: speedtest.zap.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Zapopan
-187.190.126.34,4,180365,Ookla Speedtest Server 15959: chih.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Puerto Vallarta
-187.190.126.30,4,413,Ookla Speedtest Server 42924: gomez.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Puerto Vallarta
-148.246.54.239,4,112,Ookla Speedtest Server 56551: speedtest.pachuca.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,La Barca
-201.131.7.47,4,257,Ookla Speedtest Server 60579: speedtest.jalisco.gob.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
-200.52.196.82,4,350,Ookla Speedtest Server 61155: speedtest.tala.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Tala
-204.199.204.206,4,279,Ookla Speedtest Server 63294: speedtestnxn.ddns.net,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Zapotlanejo
-204.199.202.2,4,63189,Ookla Speedtest Server 63891: speedtest.weii.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,El Salto
+143.255.58.42,4,16,autoelectricahernandez.com,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
+200.57.12.122,4,1584,DNS Server: 122.200-57-12.bestelclientes.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,
+45.167.112.2,4,-8613,DNS Server: 2.45-167-112.cosmored.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Zapopan
+45.190.197.235,4,1310,DNS Server: 235-197-190-45.tecnianet.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,El Salto
+45.167.113.4,4,3603290,DNS Server: 4.45-167-113.cosmored.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Zapopan
+187.217.225.181,4,-44093,DNS Server: customer-187-217-225-181.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
+187.205.184.78,4,155,DNS Server: dsl-187-205-184-78-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Ocotlán
+187.205.193.45,4,221,DNS Server: dsl-187-205-193-45-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,La Barca
+187.188.199.139,4,0,DNS Server: fixed-187-188-199-139.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
+189.203.141.69,4,118808,DNS Server: fixed-189-203-141-69.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
+143.255.58.138,4,676,eyboletin.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
+181.191.255.10,4,2,Ookla Speedtest Server 10322: spt01gdl.coeficiente.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
+200.77.39.34,4,-6,Ookla Speedtest Server 11857: speedtest.megacable.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
+200.56.202.245,4,3,Ookla Speedtest Server 12760: speedtest.zapopan.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Puerto Vallarta
+189.199.79.56,4,-5,Ookla Speedtest Server 14349: speedtest.zap.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Zapopan
+187.190.126.34,4,-6,Ookla Speedtest Server 15959: chih.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Puerto Vallarta
+200.25.15.28,4,2,Ookla Speedtest Server 25602: spt-gdl1.edgeuno.com,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
+45.190.196.103,4,-1,Ookla Speedtest Server 30551: tecnianet.ecatel.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,El Salto
+201.148.37.24,4,-15,Ookla Speedtest Server 32320: intelinet.ecatel.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,San Juan de los Lagos
+45.238.191.202,4,-24,Ookla Speedtest Server 33698: speed.tvctepa.com,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Tepatitlán de Morelos
+187.191.12.42,4,3,Ookla Speedtest Server 36942: hostdime.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara
+186.26.75.133,4,560,Ookla Speedtest Server 41719: sp1.interanet.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,El Salto
+187.190.126.30,4,-9,Ookla Speedtest Server 42924: gomez.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Puerto Vallarta
+187.188.69.170,4,7,Ookla Speedtest Server 44243: ptovallarta.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Puerto Vallarta
+189.198.130.4,4,8,Ookla Speedtest Server 52539: speedtest.tlqp.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Tlaquepaque
+216.83.51.238,4,5,Ookla Speedtest Server 55386: speed.2msoluciones.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Degollado
+148.246.54.239,4,-10,Ookla Speedtest Server 56551: speedtest.pachuca.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,La Barca
+201.131.7.47,4,-1,Ookla Speedtest Server 60579: speedtest.jalisco.gob.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Zapopan
+200.52.196.90,4,8,Ookla Speedtest Server 61107: speedtest.tona.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Tonalá
+200.52.196.82,4,9,Ookla Speedtest Server 61155: speedtest.tala.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Tala
+200.52.196.87,4,18,Ookla Speedtest Server 61593: speedtest.tlajo.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Tlajomulco de Zúñiga
+187.244.18.97,4,-8,Ookla Speedtest Server 64711: speedtest.tnila.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Tonila
+38.211.148.200,4,-20433,Ookla Speedtest Server 72398: sp1.isymail.mx,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,San Juan de los Lagos
+8.243.210.201,4,-9004,Ookla Speedtest Server 73233: speedtest.globonetinternet.com,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Tenamaxtlán
+203.88.96.14,4,1,Ookla Speedtest Server 74410: speednxn.ddns.net,MX,Americas,Latin America and the Caribbean,Mexico,Jalisco,,Guadalajara

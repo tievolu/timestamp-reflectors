@@ -1,4 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-78.136.73.164,4,12,campoborja.net,ES,Europe,Southern Europe,Spain,Extremadura,Badajoz,Usagre
-78.136.73.37,4,15,cibervoluntarios.org,ES,Europe,Southern Europe,Spain,Extremadura,Badajoz,Usagre
-176.10.65.6,4,175,Ookla Speedtest Server 54549: h2speedtest.cablexnet.net,ES,Europe,Southern Europe,Spain,Extremadura,Badajoz,Badajoz
+84.79.235.2,4,78666375,DNS Server: 2.pool84-79-235.dynamic.orange.es,ES,Europe,Southern Europe,Spain,Extremadura,Badajoz,Mérida
+85.50.113.98,4,16221,DNS Server: 98.pool85-50-113.static.orange.es,ES,Europe,Southern Europe,Spain,Extremadura,Caceres,Cáceres
+185.130.28.2,4,30592443,Ookla Speedtest Server 8149: speedtest.antisatelecom.es,ES,Europe,Southern Europe,Spain,Extremadura,Badajoz,Alange
+176.10.65.6,4,-2,Ookla Speedtest Server 68594: h1-speedtest-ba.htelecom.es,ES,Europe,Southern Europe,Spain,Extremadura,Badajoz,Badajoz

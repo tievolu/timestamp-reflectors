@@ -1,3 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-93.171.182.7,4,5,glazovlife.ru,RU,Europe,Eastern Europe,Russian Federation,Udmurtiya Republic,,Glazov
-93.171.182.10,4,334,Ookla Speedtest Server: speed.garant.tv,RU,Europe,Eastern Europe,Russian Federation,Udmurtiya Republic,,Glazov
+93.171.182.249,4,-1,DNS Server: c249n182.glazov.online,RU,Europe,Eastern Europe,Russian Federation,Udmurtiya Republic,,Glazov
+95.215.210.97,4,1808,DNS Server: stat-210-97.kch-lan.ru,RU,Europe,Eastern Europe,Russian Federation,Udmurtiya Republic,,Glazov
+93.171.182.7,4,-67,glazovlife.ru,RU,Europe,Eastern Europe,Russian Federation,Udmurtiya Republic,,Glazov
+93.171.182.10,4,-4,Ookla Speedtest Server 5225: speed.garant.tv,RU,Europe,Eastern Europe,Russian Federation,Udmurtiya Republic,,Glazov
+95.215.208.41,4,-10,svjazss.ru,RU,Europe,Eastern Europe,Russian Federation,Udmurtiya Republic,,Glazov

@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+77.83.219.111,4,-1248734623,DNS Server: static-net-111-219-83-77.hosts.televar.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Padua,Limena
+77.83.218.13,4,691,DNS Server: static-net-13-218-83-77.hosts.televar.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Padua,Limena
+185.190.162.9,4,-1,Ookla Speedtest Server 25258: speedtest.hiveway.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Padua,Limena

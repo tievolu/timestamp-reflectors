@@ -1,9 +1,17 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-91.224.179.242,4,50604,DNS Server: 91-224-179-242.pool.tv9.net.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Berehove
-91.224.178.3,4,205,Ookla Speedtest Server 5501: speedserver.tv9.net.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Berehove
-91.247.39.232,4,275,Ookla Speedtest Server 53218: speedtest.performance.uz.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Uzhhorod
-194.39.225.3,4,209,Ookla Speedtest Server 56058: speedtest.nashnet.in.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Uzhhorod
-91.224.171.16,4,300,Ookla Speedtest Server 56250: speedtest.expres.cc,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Vynohradiv
-194.60.77.19,4,348,Ookla Speedtest Server 56488: speedtestnet.eurocomputer.com.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Irshava
-185.179.215.7,4,231,Ookla Speedtest Server 62237: bras2.startele.com.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Mukachevo
-95.46.73.220,4,4,rada-uzhgorod.gov.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Uzhhorod
+91.224.179.242,4,15815,DNS Server: 91-224-179-242.pool.tv9.net.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Berehove
+193.34.173.206,4,225,New Information Systems PP,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Uzhhorod
+194.42.194.106,4,-2,Ookla Speedtest Server 3022: speedtest.tcom.uz.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Uzhhorod
+91.224.178.3,4,0,Ookla Speedtest Server 5501: speedserver.tv9.net.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Berehove
+195.225.228.28,4,-10,Ookla Speedtest Server 9648: st01.kram.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Uzhhorod
+31.41.94.20,4,24,Ookla Speedtest Server 21515: speedtest.bushtyno.net,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Bushtyno
+194.39.225.135,4,-11,Ookla Speedtest Server 27765: speedtest.infobyte.net.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Tyachiv
+194.213.105.2,4,-2,Ookla Speedtest Server 37837: speedtest.mirtv.uz.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Uzhhorod
+195.66.156.13,4,-14,Ookla Speedtest Server 47074: speedtest.tyachiv.info,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Tyachiv
+46.231.229.7,4,-5,Ookla Speedtest Server 48811: speedtest.yarcom.com.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Uzhhorod
+91.247.39.232,4,12,Ookla Speedtest Server 53218: speedtest.performance.uz.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Uzhhorod
+95.46.73.249,4,-5,Ookla Speedtest Server 54260: speed.flipnet.com.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Uzhhorod
+91.224.171.16,4,2,Ookla Speedtest Server 56250: speedtest.expres.cc,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Vynohradiv
+195.43.71.11,4,9,Ookla Speedtest Server 71585: speedtest.camelot.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Mukachevo
+95.46.73.220,4,-22,rada-uzhgorod.gov.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Uzhhorod
+212.1.100.6,4,7,zakarpat-rada.gov.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Uzhhorod

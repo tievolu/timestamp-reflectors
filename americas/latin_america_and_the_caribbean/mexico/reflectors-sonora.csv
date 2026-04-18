@@ -1,5 +1,13 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-177.247.0.122,4,16,DNS Server: customer-HMO-MCA-0-122.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Hermosillo
-177.241.245.70,4,2266,DNS Server: customer-MCA-STAA-245-70.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Santa Ana Viejo
-45.174.70.10,4,327930,DNS Server: nav.index.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Ciudad Obregón
-187.244.10.3,4,349,Ookla Speedtest Server 61169: speedtest.slrc.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,San Luis Río Colorado
+177.241.245.222,4,32,DNS Server: customer-MCA-STAA-245-222.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Magdalena de Kino
+177.241.245.70,4,79439,DNS Server: customer-MCA-STAA-245-70.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Magdalena de Kino
+45.174.70.10,4,19588,DNS Server: nav.index.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Ciudad Obregón
+201.165.4.10,4,-20,Ookla Speedtest Server 3499: speedtest.hmo.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Hermosillo
+187.190.72.2,4,1,Ookla Speedtest Server 9176: merida.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Hermosillo
+187.190.72.46,4,-2,Ookla Speedtest Server 41969: tapachula.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Hermosillo
+189.203.222.6,4,-2,Ookla Speedtest Server 42797: morelia.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Hermosillo
+187.251.126.14,4,0,Ookla Speedtest Server 43759: hermosillo.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Hermosillo
+189.203.222.38,4,-12,Ookla Speedtest Server 50727: sanjuandelrio.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Hermosillo
+187.244.6.2,4,10,Ookla Speedtest Server 59187: speedtest.nav.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Navojoa
+187.244.10.3,4,-13,Ookla Speedtest Server 61169: speedtest.slrc.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,San Luis Río Colorado
+160.202.135.10,4,6,Ookla Speedtest Server 72051: speedtest.lixer.mx,MX,Americas,Latin America and the Caribbean,Mexico,Sonora,,Hermosillo

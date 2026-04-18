@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-31.210.55.214,4,1046,haber1.com,TR,Asia,Western Asia,Turkey,Adana,,Adana
+85.98.40.40,4,222069,DNS Server: 85.98.40.40.static.ttnet.com.tr,TR,Asia,Western Asia,Turkey,Adana,,Adana
+88.249.58.86,4,-9248,DNS Server: 88.249.58.86.static.ttnet.com.tr,TR,Asia,Western Asia,Turkey,Adana,,Adana
+212.154.89.50,4,423,Ookla Speedtest Server 42546: speedtest01.turk.net,TR,Asia,Western Asia,Turkey,Adana,,Adana
+31.206.223.91,4,-14,Ookla Speedtest Server 61097: hizadana.durunet.com.tr,TR,Asia,Western Asia,Turkey,Adana,,Adana

@@ -1,57 +1,71 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 91.90.173.186,4,46,bazakolejowa.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-87.98.237.16,4,3,biomedical.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-145.239.88.180,4,9,camaddalena.com,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-145.239.82.247,4,14,community-democracies.org,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-93.105.246.19,4,15022,DNS Server: 093105246019.suwalki.vectranet.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-95.160.16.250,4,68,DNS Server: 095160016250.p2p.business.static.vectranet.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-95.160.19.158,4,303525,DNS Server: 095160019158.p2p.business.static.vectranet.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-213.241.67.226,4,139181,DNS Server: 213-241-67-226.static.ip.netia.com.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-77.65.176.110,4,162,DNS Server: 77-65-176-110.internetia.net.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-77.65.176.166,4,89,DNS Server: 77-65-176-166.internetia.net.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-83.142.137.105,4,3448,DNS Server: 83.142.137.105.static.telsat.wroc.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-83.18.232.26,4,49,DNS Server: bwy26.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-79.110.204.133,4,9016,DNS Server: cathrine.static.korbank.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-79.110.198.178,4,27,DNS Server: chandra.static.korbank.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-80.52.181.134,4,83268,DNS Server: gwb134.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-188.122.24.142,4,-45704582,DNS Server: host-188-122-24-142.finemedia.com.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-80.68.235.226,4,259,DNS Server: ipv4-80-68-235-226.net.internetunion.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-95.48.26.226,4,302,DNS Server: iva226.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-145.239.85.43,4,281,DNS Server: vps-15e05552.vps.ovh.net,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-87.98.233.198,4,1054,footballbettingtips.info,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-87.98.234.35,4,11,granice.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+87.98.237.16,4,40,biomedical.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+145.239.82.247,4,23,community-democracies.org,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+85.31.248.1,4,-1,DNS Server: 2.248.31.85.in-addr.arpa,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+77.65.176.110,4,1494,DNS Server: 77-65-176-110.internetia.net.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+77.65.176.166,4,-4,DNS Server: 77-65-176-166.internetia.net.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+83.142.137.105,4,7915,DNS Server: 83.142.137.105.static.telsat.wroc.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+87.105.251.234,4,3686,DNS Server: 87-105-251-234.static.ip.netia.com.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+145.239.87.92,4,-1,DNS Server: 92.ip-145-239-87.eu,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+213.109.47.229,4,-7,DNS Server: chabrowe.korbank.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+79.110.198.178,4,-910,DNS Server: chandra.static.korbank.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+156.17.4.1,4,10,DNS Server: hermes.ii.uni.wroc.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+188.122.24.142,4,76973830,DNS Server: host-188-122-24-142.finemedia.com.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+79.190.100.154,4,8925,DNS Server: inx154.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+80.68.238.114,4,22501878,DNS Server: ipv4-80-68-238-114.net.internetunion.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+93.158.235.219,4,44570823,DNS Server: ipv4-93-158-235-219.net.internetunion.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+95.48.26.226,4,-5732,DNS Server: iva226.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+79.110.203.165,4,1762,DNS Server: redmine.clearcode.cc,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+79.110.204.58,4,7,DNS Server: terminal.lambda.com.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+145.239.85.43,4,-5,DNS Server: vps-15e05552.vps.ovh.net,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+212.127.93.2,4,-3,drukjedwabiu.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+156.17.202.196,4,17,duw.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+87.98.234.35,4,12,granice.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+185.221.108.40,4,794,hermetyzm.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
 87.98.237.191,4,-244051,hlds.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
 145.239.80.11,4,53,hostinghouse.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+87.98.235.107,4,-7,huckmagazine.com,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
 147.135.211.158,4,25,idahoindex.com,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
 145.239.82.66,4,16,ipnet.ua,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-185.221.108.82,4,1124,kolejedolnoslaskie.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-87.98.236.253,4,9,langease.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-145.239.84.232,4,20,miastokobiet.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+185.49.31.25,4,-4,k.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+185.221.108.82,4,323,kolejedolnoslaskie.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+185.5.217.66,4,-4,krainaksiazek.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+176.223.128.186,4,15,kurstoti.lt,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+145.239.82.132,4,9,l2tower.eu,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+145.239.84.232,4,-2,miastokobiet.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
 87.98.234.164,4,-3393,milosctopasja.com,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-87.98.236.120,4,59,moscheekoeln.de,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-87.98.233.115,4,-26,mototube.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-78.8.151.68,4,21,muzyczny.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-78.8.151.67,4,1,muzyczny.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-145.239.84.18,4,35,nord.no,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+87.98.239.48,4,9,ms-mot.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+87.98.239.24,4,-4,newslubuski.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
 87.98.232.18,4,21,odc-opticiens.com,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-188.121.31.130,4,204,Ookla Speedtest Server 5326: speedtest1.internetunion.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-195.140.236.249,4,383,Ookla Speedtest Server 58542: speedtest.tvk.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-87.98.235.184,4,87,otb.vc,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+87.98.239.4,4,11,olimpbase.org,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+188.121.31.130,4,2,Ookla Speedtest Server 5326: speedtest1.internetunion.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+79.110.205.97,4,-16,Ookla Speedtest Server 5679: speedtest.k.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+213.5.40.39,4,7,Ookla Speedtest Server 10530: ookla1.bestgo.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+188.122.20.8,4,11,Ookla Speedtest Server 25875: speedtest.finemedia.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+213.5.47.155,4,0,Ookla Speedtest Server 70261: ookla2.bestgo.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
 87.98.234.77,4,1,othersidetease.com,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
 87.98.236.190,4,8,populationof.net,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-145.239.80.21,4,-781,qtcentre.org,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-156.17.54.5,4,39,radiorodzina.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-147.135.211.223,4,14,radomsko.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+87.98.239.16,4,3,ptir.org,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+145.239.80.21,4,295181,qtcentre.org,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+156.17.54.5,4,28,radiorodzina.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+147.135.211.223,4,37,radomsko.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
 87.98.233.62,4,3,razgovor.org,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+193.239.58.145,4,7,reklamy-faster.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
 87.98.232.10,4,4,seventhrecords.com,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-176.223.135.95,4,26,sos03.lt,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+87.98.239.3,4,12,skup-tkanin.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+87.98.236.173,4,43,slottavern.com,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+87.98.239.17,4,-2,solidarni2010.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+156.17.4.90,4,11,solve.edu.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+176.223.135.95,4,17,sos03.lt,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
 145.239.91.161,4,3,suntrack.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
 185.75.0.115,4,79,technologpark.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-87.98.235.223,4,56,terazmuzyka.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+87.98.235.223,4,16,terazmuzyka.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
 87.98.234.155,4,6,tja.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-156.17.100.4,4,7,umw.edu.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-145.239.82.123,4,5,uodo.gov.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+87.98.239.87,4,-17,tomeko.net,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+87.98.235.62,4,1036,topbetvn.org,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+145.239.82.123,4,14,uodo.gov.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
 145.239.91.219,4,3,wartobycdobrym.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-176.223.128.247,4,13,webibazaar.com,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-176.223.130.7,4,9,webnexs.com,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
-195.182.9.115,4,29,zajezdnia.org,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+176.223.130.7,4,12,webnexs.com,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+87.98.236.253,4,19,woodvibes.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw
+87.98.235.184,4,4,wspomozycielka-lodz.pl,PL,Europe,Eastern Europe,Poland,Lower Silesia,,Wroclaw

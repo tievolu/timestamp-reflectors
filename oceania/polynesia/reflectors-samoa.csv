@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-202.4.60.52,4,6,sbs.gov.ws,WS,Oceania,Polynesia,Samoa,,,
+202.4.32.1,4,615,Ookla Speedtest Server 34645: speedtest.vodafone.com.ws,WS,Oceania,Polynesia,Samoa,Tuamasaga,,Apia
+202.87.208.178,4,367,Ookla Speedtest Server 55870: speedtest.digicelsamoa.ws,WS,Oceania,Polynesia,Samoa,,,
+202.4.60.52,4,3,sbs.gov.ws,WS,Oceania,Polynesia,Samoa,Tuamasaga,,Apia
+123.176.73.3,4,-1283287,sungo.ws,WS,Oceania,Polynesia,Samoa,Tuamasaga,,Apia

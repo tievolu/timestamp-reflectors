@@ -1,4 +1,7 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-221.120.217.90,4,-25,apksoftinc.com,PK,Asia,Southern Asia,Pakistan,Punjab,,Gujranwala
-103.103.42.130,4,314,Ookla Speedtest Server 62153: speedtestp.telcomaster.com,PK,Asia,Southern Asia,Pakistan,Punjab,,Gujranwala
-103.174.207.165,4,206,Ookla Speedtest Server 62814: speed.ztn.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Gujranwala
+103.127.38.254,4,0,Ookla Speedtest Server 28494: speedtest.rds.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Gujranwala
+203.135.17.218,4,-15,Ookla Speedtest Server 38978: gjwspeedtest.ptcl.net,PK,Asia,Southern Asia,Pakistan,Punjab,,Gujranwala
+103.127.36.230,4,2,Ookla Speedtest Server 48801: speedtest2.rds.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Gujranwala
+180.149.220.250,4,5,Ookla Speedtest Server 54317: speedtest5.rds.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Gujranwala
+103.103.42.130,4,-75,Ookla Speedtest Server 62153: speedtestp.telcomaster.com,PK,Asia,Southern Asia,Pakistan,Punjab,,Gujranwala
+161.248.202.38,4,-58,Ookla Speedtest Server 74272: speedtest.galaxyvision.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Gujranwala

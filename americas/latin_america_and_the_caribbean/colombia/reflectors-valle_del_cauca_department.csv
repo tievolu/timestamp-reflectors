@@ -1,23 +1,27 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-190.14.224.45,4,6953,DNS Server: 1901422445.ip1.static.mediacommerce.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-204.199.116.45,4,10,DNS Server: 204-199-116-45.dia.static.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-204.199.81.94,4,19163,DNS Server: 205-199-81-94.dia.static.centurylink.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-181.78.17.68,4,1340,DNS Server: 68.17.78.181.ufinet.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-190.6.179.182,4,-19943976,DNS Server: adsl-bug-182-179.ert.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-200.29.101.62,4,2690,DNS Server: dsl-emcali-200.29.101.62.emcali.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-200.29.108.132,4,2458,DNS Server: dsl-emcali-200.29.108.132.emcali.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-200.29.108.64,4,-468182877,DNS Server: dsl-emcali-200.29.108.64.emcali.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-200.29.120.233,4,33193,DNS Server: dsl-emcali-200.29.120.233.emcali.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-186.145.238.50,4,4246,DNS Server: dynamic-ip-18614523850.cable.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-190.108.77.195,4,4,DNS Server: gpon-190.108.77.195-celsiainternet.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Palmira
-200.6.181.139,4,-458,DNS Server: residencial-200.6.181.139.costanet.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-181.204.185.18,4,3907,DNS Server: Static-BA-181-204-185-18.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-38.191.219.241,4,-77033,Ookla Speedtest Server 13541: speedtest.conectate.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-190.6.160.74,4,154456,Ookla Speedtest Server 44398: medicion.ert.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-38.224.41.2,4,231,Ookla Speedtest Server 53426: toro.fibranetplus.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Toro
-38.224.40.2,4,267,Ookla Speedtest Server 53427: speedtestlv.fibranetplus.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,La Victoria
-38.224.42.2,4,390,Ookla Speedtest Server 61142: blg.fibranetplus.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Bugalagrande
-181.204.172.67,4,-9147,Ookla Speedtest Server 61264: speed.ultranetconexionesinalambricas.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-38.224.43.2,4,297,Ookla Speedtest Server 62674: launion.fibranetplus.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,La Unión
-45.5.184.24,4,-86167,promusa.org,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
-45.5.186.24,4,-86129,tropicalforages.info,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Santiago de Cali
+190.107.19.170,4,2,DNS Server: 19010719170.ip60.static.mediacommerce.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Candelaria
+190.107.20.164,4,-6,DNS Server: 19010720164.ip61.static.mediacommerce.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Candelaria
+181.129.223.226,4,-3,DNS Server: adsl-181-129-223-226.une.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cartago
+190.71.65.122,4,27,DNS Server: adsl190-71-65-122.epm.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Palmira
+200.29.108.64,4,-543941327,DNS Server: dsl-emcali-200.29.108.64.emcali.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cali
+200.29.120.233,4,1618,DNS Server: dsl-emcali-200.29.120.233.emcali.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cali
+181.204.183.74,4,64524,DNS Server: Static-BA-181-204-183-74.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cali
+181.204.185.18,4,2159,DNS Server: Static-BA-181-204-185-18.tigoune.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cali
+190.156.238.29,4,1780,DNS Server: static-ip-cr19015623829.cable.net.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cali
+38.191.219.245,4,36,Ookla Speedtest Server 13541: speedtest.conectate.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Yumbo
+190.6.160.74,4,154456,Ookla Speedtest Server 44398: medicion.ert.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cali
+38.224.41.2,4,1,Ookla Speedtest Server 53426: toro.fibranetplus.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Toro
+38.224.40.2,4,-9,Ookla Speedtest Server 53427: speedtestlv.fibranetplus.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,La Victoria
+209.61.59.3,4,7,Ookla Speedtest Server 59451: speedinter.intermaxcomunicaciones.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cali
+45.172.184.237,4,-18,Ookla Speedtest Server 59738: st.betelsas.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Dagua
+38.224.43.2,4,1,Ookla Speedtest Server 62674: launion.fibranetplus.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,La Unión
+38.199.28.2,4,3,Ookla Speedtest Server 63182: speedtest.spectratelecomunicaciones.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cali
+170.254.3.34,4,24,Ookla Speedtest Server 63511: speedtest.kgbtelecomunicaciones.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Ginebra
+138.117.168.10,4,-16,Ookla Speedtest Server 67819: speedtest.interredes.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Restrepo
+190.60.55.204,4,-15,Ookla Speedtest Server 70593: speedtest.red-planet.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cali
+31.56.215.2,4,14,Ookla Speedtest Server 71242: yumbo.fibranetplus.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Yumbo
+181.79.92.130,4,-76024,Ookla Speedtest Server 72822: speedtest.interfibrasdelvalle.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Bolívar
+186.121.142.164,4,-14,Ookla Speedtest Server 74458: speedfibranet.yapagos.com,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Yumbo
+38.191.219.39,4,1,Ookla Speedtest Server 74499: speedtest-yumbo01.tvymas.co,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Yumbo
+45.5.184.24,4,-12,promusa.org,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cali
+45.5.186.24,4,-4,tropicalforages.info,CO,Americas,Latin America and the Caribbean,Colombia,Valle del Cauca Department,,Cali

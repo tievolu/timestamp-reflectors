@@ -1,18 +1,37 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+27.54.133.88,4,2,bodyimagemovement.com,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
 221.121.156.107,4,-23,countryrecipebook.com,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
-103.94.51.100,4,-2133705373,DNS Server: 103-94-51-100.675e33.per.nbn.aussiebb.net,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,
 110.175.240.93,4,-9621,DNS Server: 110-175-240-93.tpgi.com.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
-116.240.114.185,4,630,DNS Server: 116-240-114-185.sta.dodo.net.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
-180.150.92.196,4,423,DNS Server: 180-150-92-196.b4965c.per.static.aussiebb.net,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,
-202.7.185.124,4,595,DNS Server: 202-7-185-124.tpgi.com.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
-203.217.74.212,4,701,DNS Server: 203-217-74-212.tpgi.com.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
-139.130.2.22,4,1035851,DNS Server: cen3563285.lnk.telstra.net,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
-1.159.239.33,4,154,DNS Server: cpe-1-159-239-33.wb05.wa.asp.telstra.net,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
-103.9.161.219,4,-1211,ineedhits.com,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
-175.45.183.86,4,-32,isbweb.org,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
-103.13.84.205,4,-32,lei.org.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+116.240.114.185,4,618,DNS Server: 116-240-114-185.sta.dodo.net.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+122.199.54.40,4,294,DNS Server: 122-199-54-40.ip4.superloop.com,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+139.218.120.167,4,820,DNS Server: 167.120.218.139.sta.wbroadband.net.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+139.218.121.24,4,-33,DNS Server: 24.121.218.139.sta.wbroadband.net.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+1.159.223.140,4,-94,DNS Server: cpe-1-159-223-140.wb05.wa.asp.telstra.net,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+203.29.240.52,4,-30,DoH server: dns.slinkyman.net,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+203.29.240.249,4,-32,DoH server: dnscry.pt-perth-ipv4,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+203.29.241.184,4,-23,headwear.com.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+43.245.177.67,4,694,illoura.edu.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+103.9.161.219,4,103045,ineedhits.com,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+175.45.183.86,4,-47,isbweb.org,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+103.13.84.205,4,4,lei.org.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
 27.54.133.165,4,3,littlegreenpharma.com,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
-27.54.133.45,4,6,matsos.com.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
-27.54.133.141,4,15,smperth.com,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
-43.245.177.145,4,-31,susanjoyfultable.com,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
-167.30.222.142,4,5,westernaustralia.com,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+27.54.130.87,4,229071,motherpedia.com.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+203.43.60.161,4,-24,Ookla Speedtest Server 12494: per1.speedtest.telstra.net,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+121.200.47.109,4,3885,Ookla Speedtest Server 17109: speedtest.pentanet.com.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+211.26.25.5,4,-37,Ookla Speedtest Server 18249: speedtest-pth.vocus.net,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+203.12.15.247,4,-3,Ookla Speedtest Server 39122: speedtest-perth.launtel.net.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+103.210.154.147,4,-36,Ookla Speedtest Server 45707: speedtest-p1.interphone.com.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+103.157.17.146,4,10,Ookla Speedtest Server 48114: knx.speedtest.optitel.com.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Kununurra
+103.107.196.3,4,-6,Ookla Speedtest Server 50848: pe2.speedtest.gslnetworks.com,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+203.55.91.12,4,-26,Ookla Speedtest Server 60953: speedtest.p1.mhn.cloud,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+150.101.172.82,4,-1,Ookla Speedtest Server: speedtest-per.cdn.on.net,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+202.7.171.113,4,-14,Ookla Speedtest Server: speedtest-syd.cdn.on.net,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+119.252.86.3,4,-7,rtrfm.com.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,
+27.54.133.235,4,21,screenwest.com.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+27.54.133.141,4,19,smperth.com,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+27.54.133.177,4,13,stanleycollege.edu.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+45.252.189.21,4,24,tvcentral.com.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+110.173.224.245,4,-23,wamug.org.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+167.30.222.142,4,-20,westernaustralia.com,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+103.13.84.210,4,3,westscan.com.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+27.54.133.107,4,22,wfac.org.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth

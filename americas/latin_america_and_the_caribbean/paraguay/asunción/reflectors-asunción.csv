@@ -1,18 +1,36 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-201.217.49.202,4,35,conacyt.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
-200.108.134.242,4,18,conacyt.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
-143.202.210.232,4,12338730,DNS Server: 143-202-210-232.neo.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
-190.104.180.216,4,27,DNS Server: 190.104.130.216.host.personal.net.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
-181.78.94.222,4,-3890,DNS Server: 222.94.78.181.ufinet.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
-45.184.111.70,4,-3024,DNS Server: 45-184-111-70.wind.net.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
-190.104.148.12,4,-69097,DNS Server: host-12.personal.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
-201.217.49.194,4,3,DNS Server: host-194.49.217.201.copaco.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
-190.52.129.39,4,45958,DNS Server: host-39.129.52.190.copaco.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+201.217.49.202,4,28,conacyt.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+190.104.180.216,4,-1,DNS Server: 190.104.130.216.host.personal.net.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+45.184.111.70,4,-3400,DNS Server: 45-184-111-70.wind.net.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+190.104.148.12,4,28913,DNS Server: host-12.personal.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+190.52.135.140,4,239,DNS Server: host-140.135.52.190.copaco.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+190.104.173.150,4,65382,DNS Server: host-150.personal.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+190.104.168.155,4,3246,DNS Server: host-155.personal.net.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+201.217.49.194,4,56,DNS Server: host-194.49.217.201.copaco.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+190.52.129.39,4,38,DNS Server: host-39.129.52.190.copaco.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+170.83.240.248,4,2022,DNS Server: host248.ufinet.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+190.128.224.236,4,-3564311,DNS Server: mail.glt-csc.com,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+186.16.211.250,4,-8,DNS Server: mail.iris.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+190.128.233.106,4,-761,DNS Server: mail.netbox.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+190.128.214.90,4,211,DNS Server: pool-90-214-128-190.telecel.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+181.40.122.102,4,9255,DNS Server: static-102-122-40-181.telecel.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+181.40.92.86,4,351710,DNS Server: static-86-92-40-181.telecel.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
 190.128.235.6,4,-5680968,fundacionparaguaya.org.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
 201.217.49.102,4,56,meteorologia.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
-201.217.49.2,4,-2142242586,mopc.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
-181.78.27.165,4,6842,Ookla Speedtest Server 64058: speedtestvcc.amacom.com.ar,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
-181.78.94.150,4,55,Ookla Speedtest Server: speedtest.wizzi.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+186.16.60.250,4,12,mic.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+201.217.40.244,4,21,ministeriopublico.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+201.217.49.2,4,-2141529113,mopc.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+190.104.167.2,4,827,Ookla Speedtest Server 2830: speedtest1.personal.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+45.184.108.27,4,-31,Ookla Speedtest Server 27923: speedtest.wind.net.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+190.104.147.244,4,516,Ookla Speedtest Server 39156: speedtest3.personal.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+190.104.138.220,4,-8,Ookla Speedtest Server 43075: speedtest4.personal.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+181.78.94.150,4,-12,Ookla Speedtest Server 43935: speedtest.wizzi.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+181.78.27.165,4,140732,Ookla Speedtest Server 64058: speedtestvcc.amacom.com.ar,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+190.104.158.198,4,15,roshka.com,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
 201.222.53.89,4,529291,salesianito.edu.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
-201.222.48.206,4,11,TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A) 1,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
-201.222.50.30,4,50,TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A) 2,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+190.128.233.101,4,29,sigob.org,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+201.222.48.206,4,-5,TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A) 1,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+201.222.50.30,4,15,TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A) 2,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+201.222.55.246,4,-7,TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A) 3,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+186.16.56.146,4,32,uni.edu.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+190.104.179.250,4,7,upacifico.edu.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción

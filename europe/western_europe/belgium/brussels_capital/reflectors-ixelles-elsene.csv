@@ -1,0 +1,4 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+81.246.67.233,4,-4,DNS Server: 233.67-246-81.adsl-static.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Ixelles-Elsene
+212.68.211.198,4,22,Ookla Speedtest Server 23320: speedtestnetgauge.voo.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Ixelles-Elsene
+212.68.211.203,4,-66,Ookla Speedtest Server 45280: speedtestnetgauge2.voo.be,BE,Europe,Western Europe,Belgium,Brussels Capital,,Ixelles-Elsene

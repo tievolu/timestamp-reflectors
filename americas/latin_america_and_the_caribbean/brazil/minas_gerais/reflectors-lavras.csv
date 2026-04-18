@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-177.130.128.1,4,13,Ookla Speedtest Server: velocimetro-poc.mastercabo.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Lavras
+187.60.128.28,4,-13,Ookla Speedtest Server 11930: speedtest.navinet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Lavras
+189.89.217.67,4,7,Ookla Speedtest Server 16000: speedtest.stratus.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Lavras
+160.238.180.82,4,282760,Ookla Speedtest Server 73914: speedtest.lavrasnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Lavras
+177.130.128.1,4,50248,Ookla Speedtest Server: velocimetro-poc.mastercabo.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Lavras

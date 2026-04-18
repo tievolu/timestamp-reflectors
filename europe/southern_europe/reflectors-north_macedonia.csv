@@ -1,26 +1,36 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-89.205.127.218,4,4,24.mk,MK,Europe,Southern Europe,North Macedonia,,,Skopje
-82.214.118.146,4,94,alkaloid.com.mk,MK,Europe,Southern Europe,North Macedonia,,,Skopje
-88.85.99.6,4,16,avmu.mk,MK,Europe,Southern Europe,North Macedonia,Prilep,,Prilep
-88.85.97.122,4,7,DNS Server: 88.85.97.122.neotel.mk,MK,Europe,Southern Europe,North Macedonia,Prilep,,Prilep
-89.205.4.85,4,7,DNS Server: 89.205.4.85.robi.com.mk,MK,Europe,Southern Europe,North Macedonia,Kavadarci,,Kavadarci
-89.205.95.33,4,3,DNS Server: 89.205.95.33.robi.com.mk,MK,Europe,Southern Europe,North Macedonia,,,Skopje
-82.214.84.133,4,2422,DNS Server: c82-214-84-133.loc.akton.net,MK,Europe,Southern Europe,North Macedonia,,,Skopje
-81.17.232.194,4,10809721,DNS Server: n232-h194.loc-d.akton.net,MK,Europe,Southern Europe,North Macedonia,,,Skopje
-212.13.82.30,4,-33104,fashionel.mk,MK,Europe,Southern Europe,North Macedonia,,,
+89.205.123.155,4,13,24.mk,MK,Europe,Southern Europe,North Macedonia,,,Skopje
+82.214.118.146,4,-4,alkaloid.com.mk,MK,Europe,Southern Europe,North Macedonia,,,Skopje
+88.85.99.6,4,3,avmu.mk,MK,Europe,Southern Europe,North Macedonia,,,Skopje
+82.214.114.2,4,-6,azlp.mk,MK,Europe,Southern Europe,North Macedonia,,,Skopje
+195.189.206.239,4,0,clearcode.cc,MK,Europe,Southern Europe,North Macedonia,,,
+89.205.95.33,4,-2,DNS Server: 89.205.95.33.robi.com.mk,MK,Europe,Southern Europe,North Macedonia,Sveti Nikole,,Sveti Nikole
+82.214.84.133,4,169564,DNS Server: c82-214-84-133.loc.akton.net,MK,Europe,Southern Europe,North Macedonia,,,Skopje
+81.17.232.194,4,182787,DNS Server: n232-h194.loc-d.akton.net,MK,Europe,Southern Europe,North Macedonia,,,Skopje
+81.17.232.196,4,182788,DNS Server: n232-h196.loc-d.akton.net,MK,Europe,Southern Europe,North Macedonia,,,Skopje
+194.149.146.10,4,-31,DNS Server: www.pmf.ukim.edu.mk,MK,Europe,Southern Europe,North Macedonia,,,
+212.13.82.32,4,-23677,ekonomijaibiznis.mk,MK,Europe,Southern Europe,North Macedonia,,,
+212.13.82.30,4,-44066,fashionel.mk,MK,Europe,Southern Europe,North Macedonia,,,
+89.185.82.122,4,0,gancio.org,MK,Europe,Southern Europe,North Macedonia,Arachinovo,,
 195.26.153.167,4,77,idividi.com.mk,MK,Europe,Southern Europe,North Macedonia,,,
-185.226.0.12,4,57,manu.edu.mk,MK,Europe,Southern Europe,North Macedonia,,,
-95.128.184.22,4,331,Ookla Speedtest Server 7283: speedtest.telesmart.mk,MK,Europe,Southern Europe,North Macedonia,,,Skopje
-185.54.130.15,4,134,Ookla Speedtest Server 15590: speedtest.softnet.mk,MK,Europe,Southern Europe,North Macedonia,,,Skopje
-89.205.127.215,4,122,Ookla Speedtest Server 18616: speedtest.telekabel.com.mk,MK,Europe,Southern Europe,North Macedonia,,,Skopje
-31.3.91.229,4,237,Ookla Speedtest Server 24197: speedtest.ultranet.mk,MK,Europe,Southern Europe,North Macedonia,,,
-185.83.255.194,4,369,Ookla Speedtest Server 33633: test-speedtestnet-1.interspace.com,MK,Europe,Southern Europe,North Macedonia,,,Skopje
-146.255.89.2,4,327,Ookla Speedtest Server 38088: speedtest.gonet.mk,MK,Europe,Southern Europe,North Macedonia,,,
-78.157.17.138,4,224,Ookla Speedtest Server 46000: speedtest2.a1.mk,MK,Europe,Southern Europe,North Macedonia,,,
-80.77.144.78,4,239,Ookla Speedtest Server 52768: ookla.neotel.mk,MK,Europe,Southern Europe,North Macedonia,Gostivar,,Gostivar
-92.55.64.106,4,47,roads.org.mk,MK,Europe,Southern Europe,North Macedonia,Makedonska Kamenica,,Makedonska Kamenica
-195.26.131.231,4,19,stat.gov.mk,MK,Europe,Southern Europe,North Macedonia,,,
-195.26.149.198,4,-52047,telekom.mk,MK,Europe,Southern Europe,North Macedonia,,,
-92.55.94.131,4,5,tocka.com.mk,MK,Europe,Southern Europe,North Macedonia,,,
-194.149.131.34,4,15,ukim.edu.mk,MK,Europe,Southern Europe,North Macedonia,,,
+185.226.0.12,4,-5,manu.edu.mk,MK,Europe,Southern Europe,North Macedonia,,,
+151.236.254.135,4,-50,Ookla Speedtest Server 3493: srv1.5.net.mk,MK,Europe,Southern Europe,North Macedonia,Gevgelija,,Gevgelija
+95.128.184.22,4,16,Ookla Speedtest Server 7283: speedtest.telesmart.mk,MK,Europe,Southern Europe,North Macedonia,,,Skopje
+78.157.17.74,4,-16,Ookla Speedtest Server 11171: speedtest2.vip.mk,MK,Europe,Southern Europe,North Macedonia,Gostivar,,Gostivar
+89.185.223.120,4,-6,Ookla Speedtest Server 11802: speedtest.netkabel.com.mk,MK,Europe,Southern Europe,North Macedonia,Strumica,,Strumica
+195.26.156.102,4,53,Ookla Speedtest Server 13972: speedtestmkt.t.mk,MK,Europe,Southern Europe,North Macedonia,,,
+62.162.210.54,4,-21,Ookla Speedtest Server 14092: speedtestmktsr.t.mk,MK,Europe,Southern Europe,North Macedonia,Bitola,,Bitola
+185.54.130.15,4,-19,Ookla Speedtest Server 15590: speedtest.softnet.mk,MK,Europe,Southern Europe,North Macedonia,,,Skopje
+31.3.91.229,4,17,Ookla Speedtest Server 24197: speedtest.ultranet.mk,MK,Europe,Southern Europe,North Macedonia,,,
+185.83.255.194,4,-19,Ookla Speedtest Server 33633: test-speedtestnet-1.interspace.com,MK,Europe,Southern Europe,North Macedonia,,,Skopje
+37.26.102.243,4,-3,Ookla Speedtest Server 38088: speedtest.gonet.mk,MK,Europe,Southern Europe,North Macedonia,,,Skopje
+78.157.17.138,4,-2,Ookla Speedtest Server 46000: speedtest2.a1.mk,MK,Europe,Southern Europe,North Macedonia,Gostivar,,Gostivar
+80.77.144.78,4,51,Ookla Speedtest Server 52768: ookla.neotel.mk,MK,Europe,Southern Europe,North Macedonia,Makedonski Brod,,Makedonski Brod
+95.156.54.47,4,148174,Ookla Speedtest Server 72191: st.diginet.mk,MK,Europe,Southern Europe,North Macedonia,Strumica,,Strumica
+198.133.206.11,4,-254415,press24.mk,MK,Europe,Southern Europe,North Macedonia,,,Skopje
+92.55.64.106,4,5,roads.org.mk,MK,Europe,Southern Europe,North Macedonia,Kumanovo,,Kumanovo
+82.214.118.27,4,0,synergyfitness.com.mk,MK,Europe,Southern Europe,North Macedonia,,,Skopje
+195.26.149.209,4,3,telekom.mk,MK,Europe,Southern Europe,North Macedonia,,,
+92.55.94.131,4,8,tocka.com.mk,MK,Europe,Southern Europe,North Macedonia,,,
+194.149.131.34,4,11,ukim.mk,MK,Europe,Southern Europe,North Macedonia,,,
 194.149.131.36,4,1046145,ukim.mk,MK,Europe,Southern Europe,North Macedonia,,,

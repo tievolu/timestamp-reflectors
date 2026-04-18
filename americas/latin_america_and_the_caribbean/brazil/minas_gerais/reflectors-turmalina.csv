@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-143.137.67.30,4,303,Ookla Speedtest Server: speedtest.msolinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Turmalina
+177.85.104.157,4,2,Ookla Speedtest Server 5253: sp1.mcinfor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Turmalina
+143.137.67.30,4,1,Ookla Speedtest Server 15643: speedtest.msolinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Turmalina
+177.85.104.136,4,40,Ookla Speedtest Server 21060: sp1.netinfortelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Turmalina
+177.85.104.143,4,-3,Ookla Speedtest Server 31658: sp3.netinfortelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Turmalina

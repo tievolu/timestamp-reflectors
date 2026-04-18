@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-93.186.120.166,4,17,ertatekstil.com.tr,TR,Asia,Western Asia,Turkey,Kocaeli,,Gebze
+93.186.120.166,4,-5,ertatekstil.com.tr,TR,Asia,Western Asia,Turkey,Kocaeli,,Gebze
+93.186.117.36,4,3,medyax.com,TR,Asia,Western Asia,Turkey,Kocaeli,,Gebze
+188.124.1.40,4,356,Ookla Speedtest Server 15326: speedtest.airfiber.com.tr,TR,Asia,Western Asia,Turkey,Kocaeli,,Gebze

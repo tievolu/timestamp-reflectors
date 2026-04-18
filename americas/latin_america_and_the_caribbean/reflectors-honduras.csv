@@ -1,18 +1,39 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-190.6.201.202,4,19,DNS Server: 190-6-201-202.reverse.cablecolor.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
-190.92.38.210,4,2045,DNS Server: 190-92-38-210.reverse.cablecolor.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
-190.5.96.134,4,-3742,DNS Server: 190.5.96.134.multidatahn.net,HN,Americas,Latin America and the Caribbean,Honduras,Francisco Morazán Department,,Tegucigalpa
-201.220.142.54,4,27106302,DNS Server: 201-220-142-54.reverse.cablecolor.hn,HN,Americas,Latin America and the Caribbean,Honduras,Francisco Morazán Department,,Florencia
-179.49.112.116,4,429,DNS Server: block1-112-static-116.asinetwork.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
-131.108.233.13,4,4352,DNS Server: block108-233-static-13.asinetwork.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
-190.124.166.45,4,-7414,DNS Server: block166-static45.reytelhn.net,HN,Americas,Latin America and the Caribbean,Honduras,Francisco Morazán Department,,Florencia
-170.247.84.11,4,-70400,Ookla Speedtest Server 19018: speedtest.metronethn.com,HN,Americas,Latin America and the Caribbean,Honduras,Yoro Department,,El Progreso
-45.182.21.146,4,338,Ookla Speedtest Server 42790: speedtest.powernet.hn,HN,Americas,Latin America and the Caribbean,Honduras,Santa Bárbara Department,,Azacualpa
-181.199.177.238,4,13119,Ookla Speedtest Server 45703: sp2.pronto.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
-170.247.84.18,4,212,Ookla Speedtest Server 55567: speedtest2.metronethn.com,HN,Americas,Latin America and the Caribbean,Honduras,Yoro Department,,El Progreso
+190.6.200.161,4,-7,DNS Server: 190-6-200-161.reverse.cablecolor.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+190.5.81.230,4,39237537,DNS Server: 190.5.81.230.multidatahn.net,HN,Americas,Latin America and the Caribbean,Honduras,Francisco Morazán Department,,Tegucigalpa
+179.49.112.116,4,517166,DNS Server: block1-112-static-116.asinetwork.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+190.124.166.45,4,-26280,DNS Server: block166-static45.reytelhn.net,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+200.52.149.220,4,46,DNS Server: mail.industriassula.com,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+190.11.224.132,4,-4,Ookla Speedtest Server 4074: speedtest.tevisat.net,HN,Americas,Latin America and the Caribbean,Honduras,Atlántida Department,,La Ceiba
+45.7.237.106,4,4132594,Ookla Speedtest Server 10037: speedtest.maxcom.hn,HN,Americas,Latin America and the Caribbean,Honduras,Bay Islands,,Roatán
+45.7.237.108,4,294126,Ookla Speedtest Server 10037: speedtest.maxcom.hn,HN,Americas,Latin America and the Caribbean,Honduras,Bay Islands,,Roatán
+45.181.87.102,4,1,Ookla Speedtest Server 12256: speedtest.cablenethn.com,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+190.61.116.46,4,-57552,Ookla Speedtest Server 12992: speedtest.mountainnetworkshn.com,HN,Americas,Latin America and the Caribbean,Honduras,Olancho Department,,Catacamas
+80.80.91.30,4,-17,Ookla Speedtest Server 13586: speedtest.unionisphn.com,HN,Americas,Latin America and the Caribbean,Honduras,Francisco Morazán Department,,Tegucigalpa
+200.115.188.12,4,3,Ookla Speedtest Server 14666: block188-12.gnethn.com,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+181.115.0.194,4,-2,Ookla Speedtest Server 30833: speedtest.claro.com.hn,HN,Americas,Latin America and the Caribbean,Honduras,Francisco Morazán Department,,Tegucigalpa
+168.197.172.5,4,9,Ookla Speedtest Server 35562: speedtest.gozfly.net,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+45.4.85.82,4,-17027,Ookla Speedtest Server 39659: speedtest.xnethn.com,HN,Americas,Latin America and the Caribbean,Honduras,Santa Bárbara Department,,Quimistán
+168.228.192.18,4,-29,Ookla Speedtest Server 39958: speedtest.multicable.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+177.10.187.250,4,-5,Ookla Speedtest Server 40024: speedtest.newtek-hn.com,HN,Americas,Latin America and the Caribbean,Honduras,,,
+45.190.13.26,4,2,Ookla Speedtest Server 41216: speedtestairnetworkhn.com,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,Puerto Cortés
+45.182.21.146,4,-5,Ookla Speedtest Server 42790: speedtest.powernet.hn,HN,Americas,Latin America and the Caribbean,Honduras,Santa Bárbara Department,,Azacualpa
+170.83.119.242,4,-3,Ookla Speedtest Server 43072: speedtest.cablesatelite.com,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+45.170.34.137,4,-7,Ookla Speedtest Server 43768: speedtest.onnethn.com,HN,Americas,Latin America and the Caribbean,Honduras,El Paraíso Department,,Danlí
+181.199.177.238,4,1125,Ookla Speedtest Server 45703: sp2.pronto.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+192.141.5.146,4,-5,Ookla Speedtest Server 52228: speedtest.netsys.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+170.247.84.18,4,24,Ookla Speedtest Server 55567: speedtest2.metronethn.com,HN,Americas,Latin America and the Caribbean,Honduras,Yoro Department,,El Progreso
 190.5.94.74,4,4630,Ookla Speedtest Server 57241: speedtest.cableceiba.net,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
-131.161.80.185,4,334,Ookla Speedtest Server 58133: speedtest.mayavision.hn,HN,Americas,Latin America and the Caribbean,Honduras,Francisco Morazán Department,,Tegucigalpa
-190.61.116.50,4,9178,Ookla Speedtest Server 58705: test.bdnethn.com,HN,Americas,Latin America and the Caribbean,Honduras,Francisco Morazán Department,,Tegucigalpa
-179.49.112.27,4,241,Ookla Speedtest Server 59767: speedtest02.asinetwork.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
-190.61.116.155,4,-23417,Ookla Speedtest Server 64447: multicolor.bdnethn.com,HN,Americas,Latin America and the Caribbean,Honduras,Francisco Morazán Department,,Tegucigalpa
-190.124.166.8,4,2547,Redes y Telecomunicaciones,HN,Americas,Latin America and the Caribbean,Honduras,Francisco Morazán Department,,Florencia
+45.68.35.211,4,0,Ookla Speedtest Server 58861: speedtest1.pithonduras.hn,HN,Americas,Latin America and the Caribbean,Honduras,,,
+179.49.112.27,4,-14,Ookla Speedtest Server 59767: speedtest02.asinetwork.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+190.92.50.10,4,7,Ookla Speedtest Server 65213: speedtestsps.cablecolor.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+190.61.116.108,4,-20,Ookla Speedtest Server 68444: speedtest2.meganethn.com,HN,Americas,Latin America and the Caribbean,Honduras,Francisco Morazán Department,,Tegucigalpa
+177.10.184.134,4,-3,Ookla Speedtest Server 68673: speedtest.catelsa.hn,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+186.96.255.146,4,-4,Ookla Speedtest Server 69976: speedtest.datoshn.net,HN,Americas,Latin America and the Caribbean,Honduras,Yoro Department,,El Progreso
+187.49.188.3,4,-2,Ookla Speedtest Server 70192: speedtest.olanchonet.com,HN,Americas,Latin America and the Caribbean,Honduras,Olancho Department,,Juticalpa
+192.141.167.44,4,-9,Ookla Speedtest Server 70592: rtlo-ookla-speed-int.redtelo.net,HN,Americas,Latin America and the Caribbean,Honduras,Intibucá Department,,La Esperanza
+192.141.166.2,4,-9,Ookla Speedtest Server 70720: rtlo-ookla-speed-eza.redtelo.net,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula
+80.80.90.5,4,4750,Ookla Speedtest Server 71109: speedtest.hyve-networks.com,HN,Americas,Latin America and the Caribbean,Honduras,Francisco Morazán Department,,Tegucigalpa
+141.136.61.3,4,-11,Ookla Speedtest Server 72499: speedtest.cavisarhn.com,HN,Americas,Latin America and the Caribbean,Honduras,Comayagua Department,,Siguatepeque
+38.188.186.166,4,-8,Ookla Speedtest Server 74292: speedtest.solimhn.com,HN,Americas,Latin America and the Caribbean,Honduras,Comayagua Department,,Comayagua
+190.124.166.8,4,15872,Redes y Telecomunicaciones,HN,Americas,Latin America and the Caribbean,Honduras,Cortés Department,,San Pedro Sula

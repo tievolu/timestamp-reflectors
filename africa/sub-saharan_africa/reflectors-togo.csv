@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-80.248.72.1,4,-24,CAFE Informatique et telecommunications,TG,Africa,Sub-Saharan Africa,Togo,Plateaux,,Badou
+80.248.72.1,4,-540,CAFE Informatique et telecommunications,TG,Africa,Sub-Saharan Africa,Togo,,,
+154.70.82.246,4,-6,cameg-togo.tg,TG,Africa,Sub-Saharan Africa,Togo,Maritime,,Lomé
+80.248.64.36,4,4794757,Ookla Speedtest Server 28221: speedtest.cafe.tg,TG,Africa,Sub-Saharan Africa,Togo,,,
+196.168.27.3,4,88,Ookla Speedtest Server 38042: togocom5G.togocom.tg,TG,Africa,Sub-Saharan Africa,Togo,Maritime,,Lomé

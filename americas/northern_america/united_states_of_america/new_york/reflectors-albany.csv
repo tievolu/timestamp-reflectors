@@ -1,3 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-64.80.255.240,4,4,DNS Server: dns2-roc.paetec.net,US,Americas,Northern America,United States of America,New York,,Albany
-162.0.180.27,4,356,Ookla Speedtest Server 62491: speedtest-albany.greenlightnetworks.com,US,Americas,Northern America,United States of America,New York,,Albany
+64.22.37.19,4,1,cios.org,US,Americas,Northern America,United States of America,New York,,Albany
+64.22.37.21,4,-27,na-motorsports.com,US,Americas,Northern America,United States of America,New York,,Albany
+64.246.132.200,4,-22,Ookla Speedtest Server 11526: speedtest.inoc.net,US,Americas,Northern America,United States of America,New York,,Albany

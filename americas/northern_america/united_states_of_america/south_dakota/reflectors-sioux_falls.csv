@@ -1,3 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-184.83.102.247,4,307,DNS Server: 184-83-102-247-static.midco.net,US,Americas,Northern America,United States of America,South Dakota,,Sioux Falls
-184.105.38.250,4,318,Ookla Speedtest Server: speedtest-fcc.sdncommunications.com,US,Americas,Northern America,United States of America,South Dakota,,Sioux Falls
+24.220.72.190,4,6,DNS Server: 24-220-72-190-static.midco.net,US,Americas,Northern America,United States of America,South Dakota,,Sioux Falls
+24.220.1.6,4,-6,Ookla Speedtest Server 4324: st-sf.midco.net,US,Americas,Northern America,United States of America,South Dakota,,Sioux Falls
+103.229.153.234,4,1,Ookla Speedtest Server 70996: speedtest.gozunga.com,US,Americas,Northern America,United States of America,South Dakota,,Sioux Falls

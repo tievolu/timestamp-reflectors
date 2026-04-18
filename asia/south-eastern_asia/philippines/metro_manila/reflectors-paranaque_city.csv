@@ -1,2 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-58.69.193.62,4,-4219823669,DNS Server: 58.69.193.62.pldt.net,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Paranaque City
+119.92.163.10,4,70392716,DNS Server: 119.92.163.10.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Paranaque City
+122.3.123.68,4,1628295,DNS Server: 122.3.123.68.pldt.net,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Paranaque City
+122.53.213.74,4,46596299,DNS Server: 122.53.213.74.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Paranaque City
+122.53.214.65,4,5438142,DNS Server: 122.53.214.65.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Paranaque City
+202.57.32.1,4,15458,DNS Server: dns1.philcom.com.ph,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Paranaque City

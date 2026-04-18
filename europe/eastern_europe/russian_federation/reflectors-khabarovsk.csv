@@ -1,22 +1,32 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-80.83.239.194,4,8,DNS Server: 80.83.239.194.gprs.mrdv.mts.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
-212.19.10.47,4,30,DNS Server: host.10.47.broadband.redcom.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
-212.19.13.247,4,732,DNS Server: host.212-19-13-247.broadband.redcom.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
-212.19.23.112,4,7154,DNS Server: host.212-19-23-112.broadband.redcom.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
-212.19.6.143,4,6372,DNS Server: host.212-19-6-143.broadband.redcom.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
-212.19.27.186,4,7,DNS Server: host186.net27.clients.redcom.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
-178.218.110.36,4,195,DNS Server: mx3.aptrade.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Komsomolsk-on-Amur
-87.225.108.208,4,282,DNS Server: wc.4214952069.clnt.kht.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
-87.225.108.228,4,318,DNS Server: wc.4214954888.clnt.kht.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
-87.225.91.60,4,1057,DNS Server: ws.42138000129.clnt.kht.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
-87.225.91.71,4,322,DNS Server: ws.42666001866.clnt.kht.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
-87.225.77.230,4,3031,DNS Server: ws.87.225.77.230.pppoe.kht.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
-178.218.107.2,4,85,dvgups.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Komsomolsk-on-Amur
-212.19.17.230,4,358019,ipksz.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
-212.19.31.66,4,147,ippk.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
-212.19.5.247,4,8,khab-vesti.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
-212.19.15.65,4,12,khabarovskadm.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
-87.225.76.21,4,36,lunsvet.com,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
-212.19.3.135,4,6,redcom.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
-212.19.20.25,4,29,zavodss.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+212.19.10.226,4,159,DNS Server: host.10.226.broadband.redcom.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+212.19.13.153,4,21687763,DNS Server: host.212-19-13-153.broadband.redcom.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+212.19.13.168,4,-630,DNS Server: host.212-19-13-168.broadband.redcom.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+212.19.13.247,4,10258,DNS Server: host.212-19-13-247.broadband.redcom.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+212.19.22.178,4,-62,DNS Server: host.212-19-22-178.broadband.redcom.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+212.19.23.112,4,8975,DNS Server: host.212-19-23-112.broadband.redcom.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+212.19.6.143,4,2661,DNS Server: host.212-19-6-143.broadband.redcom.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+212.19.6.3,4,-54,DNS Server: host.212-19-6-3.broadband.redcom.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+46.183.132.179,4,44672,DNS Server: host.46-183-132-179.broadband.redcom.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+94.125.53.177,4,-52,DNS Server: host.94-125-53-177.broadband.redcom.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+212.19.20.112,4,-6109305,DNS Server: mail.itc-ptm.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+178.218.110.36,4,-60,DNS Server: mx3.aptrade.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Komsomolsk-on-Amur
+212.19.3.195,4,110871,DNS Server: okk-wifi.redcom.net,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+91.235.144.183,4,1488,DNS Server: static-client-pool1.sat-dv.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Amursk
+87.225.108.208,4,27,DNS Server: wc.4214952069.clnt.kht.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+87.225.106.25,4,955,DNS Server: ws.4215346338.clnt.kht.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+87.225.91.71,4,13844,DNS Server: ws.42666001866.clnt.kht.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+87.225.77.230,4,4177,DNS Server: ws.87.225.77.230.pppoe.kht.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,
+178.218.107.2,4,7,dvgups.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Komsomolsk-on-Amur
+85.15.73.8,4,8,dvgups.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+213.221.45.163,4,36,interrao.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+212.19.31.66,4,-93,ippk.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+212.19.15.65,4,-60,khabarovskadm.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+85.15.65.130,4,34,khfoms.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+87.225.76.21,4,34,lunsvet.com,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,
+213.221.3.154,4,-29,Ookla Speedtest Server 69515: speedtest.yaroslavl.gldn.net,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+213.221.45.166,4,39,peretok.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+212.19.3.135,4,-53,redcom.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
+213.221.59.161,4,10700275,scanstroy.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk
 178.218.109.149,4,21,zavodss.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Komsomolsk-on-Amur
+212.19.20.25,4,29,zavodss.ru,RU,Europe,Eastern Europe,Russian Federation,Khabarovsk,,Khabarovsk

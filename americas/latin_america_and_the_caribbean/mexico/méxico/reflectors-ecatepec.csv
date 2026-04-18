@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-177.240.18.182,4,5507,DNS Server: customer-TLN-18-182.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Ecatepec
+177.240.18.182,4,64930417,DNS Server: customer-TLN-18-182.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Ecatepec
+189.254.40.179,4,134839,DNS Server: mail.fletesmex.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Ecatepec
+189.203.155.90,4,-6,Ookla Speedtest Server 3955: tijuana.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Ecatepec
+187.190.32.238,4,-18,Ookla Speedtest Server 17178: ecatepec.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,México,,Ecatepec

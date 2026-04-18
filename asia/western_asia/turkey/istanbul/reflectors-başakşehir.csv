@@ -1,3 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-78.188.215.107,4,-18625907,DNS Server: 78.188.215.107.static.ttnet.com.tr,TR,Asia,Western Asia,Turkey,Istanbul,,Başakşehir
-93.113.57.6,4,354,Ookla Speedtest Server 64104: spdtes.phoenix.net.tr,TR,Asia,Western Asia,Turkey,Istanbul,,Başakşehir
+212.87.198.21,4,1,Ookla Speedtest Server 53337: speedtest.berksmbl.com,TR,Asia,Western Asia,Turkey,Istanbul,,Başakşehir
+212.87.198.15,4,-6,Ookla Speedtest Server 74016: speedtest.netlen.com.tr,TR,Asia,Western Asia,Turkey,Istanbul,,Başakşehir
+89.35.73.82,4,17,Ookla Speedtest Server 74451: speedtest.technobulut.com,TR,Asia,Western Asia,Turkey,Istanbul,,Başakşehir

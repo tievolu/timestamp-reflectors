@@ -1,3 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+88.103.205.136,4,24,airport-brno.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Blansko District,Blansko
 46.149.113.152,4,4,blansko.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Blansko District,Blansko
-78.102.11.1,4,106,DNS Server: ip-78-102-11-1.net.vodafone.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Blansko District,Rájec-Jestřebí
+78.102.11.1,4,-4,DNS Server: ip-78-102-11-1.net.vodafone.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Blansko District,Blansko
+147.229.13.62,4,-69,DNS Server: pcredhat02.fit.vutbr.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Blansko District,Černá Hora
+147.229.3.61,4,-40,Ookla Speedtest Server 64446: speedtest.net.vutbr.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Blansko District,Černá Hora

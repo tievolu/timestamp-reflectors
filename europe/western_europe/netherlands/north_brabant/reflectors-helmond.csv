@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-83.137.196.53,4,4,wemos.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Helmond
+77.249.161.4,4,79200789,DNS Server: dhcp-077-249-161-004.chello.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Helmond
+83.137.196.66,4,1,miranda.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Helmond
+83.137.196.53,4,10,wemos.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Helmond

@@ -1,7 +1,20 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-168.232.38.37,4,0,condortk.com,SV,Americas,Latin America and the Caribbean,El Salvador,Santa Ana Department,,Santa Elena
-190.5.153.2,4,10,DNS Server: ip190-5-153-2.intercom.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador
-190.57.65.2,4,360,Ookla Speedtest Server 4181: speed.telefonica.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador
-200.89.87.70,4,263,Ookla Speedtest Server 9373: esdigiookla.digicel.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador
-168.243.225.114,4,172,Ookla Speedtest Server 47425: speedtest.ibw.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,Santa Ana Department,,Santa Elena
-204.157.224.51,4,266,Ookla Speedtest Server 63357: speedtest.coatl.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador
+168.232.38.37,4,0,condortk.com,SV,Americas,Latin America and the Caribbean,El Salvador,La Libertad Department,,Antiguo Cuscatlán
+181.78.98.98,4,2510,DNS Server: 98.98.78.181.ufinet.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador
+190.5.153.2,4,-27,DNS Server: ip190-5-153-2.intercom.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador
+200.89.87.70,4,11,Ookla Speedtest Server 9373: esdigiookla.digicel.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador
+168.227.22.19,4,-5,Ookla Speedtest Server 16090: speedtest.flynetwifi.com,SV,Americas,Latin America and the Caribbean,El Salvador,San Miguel Department,,San Miguel
+190.57.65.2,4,3,Ookla Speedtest Server 26426: speed.movistar-sv.net,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador
+190.57.65.3,4,-5,Ookla Speedtest Server 26426: speed-oriente.telefonica.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador
+190.57.65.5,4,-2,Ookla Speedtest Server 26775: speed-ocidente.telefonica.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,Santa Ana Department,,Santa Ana
+201.247.96.243,4,-381574,Ookla Speedtest Server 29100: speedtest3.claro.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador
+200.31.176.250,4,-3,Ookla Speedtest Server 36711: salnet9.net,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador
+190.122.177.98,4,-9,Ookla Speedtest Server 39688: speedtest.ego.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador
+138.97.141.5,4,-1,Ookla Speedtest Server 42476: speedtest.cablecolor.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador
+45.167.2.254,4,-32994,Ookla Speedtest Server 57536: speedtest.telemas.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador
+132.255.209.152,4,-4999,Ookla Speedtest Server 58558: speedtest.capa8sv.com,SV,Americas,Latin America and the Caribbean,El Salvador,San Miguel Department,,San Miguel
+204.157.224.51,4,-7,Ookla Speedtest Server 63357: speedtest.coatl.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador
+138.97.141.181,4,114907,Ookla Speedtest Server 68653: speedtest.mundocable.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador
+181.78.98.206,4,-1167,Ookla Speedtest Server 69364: speed.mundocable.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador
+181.78.98.201,4,-1155,Ookla Speedtest Server 70215: speedtest.tvvisa.com.sv,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador
+200.31.176.238,4,9,Ookla Speedtest Server 73954: spt3.salnet.net,SV,Americas,Latin America and the Caribbean,El Salvador,San Salvador Department,,San Salvador

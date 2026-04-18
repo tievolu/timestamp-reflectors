@@ -1,26 +1,60 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+94.20.88.237,4,0,azcarpetmuseum.az,AZ,Asia,Western Asia,Azerbaijan,,,
+85.132.18.230,4,-1,aznews.az,AZ,Asia,Western Asia,Azerbaijan,Sumqayit City,,Sumqayit
 85.132.122.26,4,31,azstat.org,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
 85.132.44.43,4,897,big.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
-94.20.47.170,4,3,camera.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
-149.255.154.122,4,367565,DNS Server: host-149.255.154.122.katv1.net,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
-94.20.20.20,4,13,DNS Server: ns1.az-ix.net,AZ,Asia,Western Asia,Azerbaijan,,,
-94.20.21.214,4,2,ibar.az,AZ,Asia,Western Asia,Azerbaijan,,,
-94.20.59.201,4,64,lent.az,AZ,Asia,Western Asia,Azerbaijan,,,
-94.20.142.173,4,3,newstube.az,AZ,Asia,Western Asia,Azerbaijan,,,
-176.28.83.17,4,280,Ookla Speedtest Server 2221: speedtest.bakcell.com,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
-94.20.71.210,4,14396619,Ookla Speedtest Server 9320: speedtest.datacenter.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
-149.255.155.210,4,299,Ookla Speedtest Server 13292: sp1.katv1.net,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
-185.40.32.226,4,264,Ookla Speedtest Server 15402: speedtest.bossnet.az,AZ,Asia,Western Asia,Azerbaijan,,,
-185.40.32.227,4,262,Ookla Speedtest Server 15542: speedtest.gotelecom.az,AZ,Asia,Western Asia,Azerbaijan,,,
-185.40.32.228,4,359,Ookla Speedtest Server 15559: speedtest.duu.az,AZ,Asia,Western Asia,Azerbaijan,,,
-185.32.44.70,4,137700,Ookla Speedtest Server 17428: speedtest.izone.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
-95.86.132.54,4,289,Ookla Speedtest Server 22827: speedtest.smart.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
-213.172.73.149,4,401,Ookla Speedtest Server 26286: speedtest.aet.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
-91.201.200.18,4,420,Ookla Speedtest Server 41093: speedtest.azincom.az,AZ,Asia,Western Asia,Azerbaijan,,,
-45.15.43.7,4,320,Ookla Speedtest Server 43401: speedtest.beeonline.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
-85.132.110.11,4,330,Ookla Speedtest Server 43502: speedtest.selnet.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
-37.32.78.100,4,257,Ookla Speedtest Server 49035: speedtest.artkom.az,AZ,Asia,Western Asia,Azerbaijan,,,
-217.64.16.222,4,353,Ookla Speedtest Server 58140: speedtest.baktelecom.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
-193.8.72.10,4,425,Ookla Speedtest Server 64252: speedtest.voltnet.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
-94.20.71.19,4,337,Ookla Speedtest Server: az-ix.net,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
-94.20.88.111,4,6,qarabagh.com,AZ,Asia,Western Asia,Azerbaijan,,,
+31.171.1.183,4,883,camera.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+185.81.216.60,4,3206,dizel.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+149.255.154.122,4,155447,DNS Server: host-149.255.154.122.katv1.net,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+95.86.154.201,4,43396302,DNS Server: host-95-86-154-201.smart.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+180.149.44.22,4,-4,DoH server: dnscry.pt-baku-ipv4,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+94.20.21.214,4,-8,ibar.az,AZ,Asia,Western Asia,Azerbaijan,,,
+94.20.62.50,4,466,irs-az.com,AZ,Asia,Western Asia,Azerbaijan,,,
+94.20.142.173,4,-4,newstube.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+176.28.83.17,4,-2,Ookla Speedtest Server 2221: speedtest.bakcell.com,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+217.25.25.5,4,3,Ookla Speedtest Server 2268: speedtest.azerfon.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+91.135.244.87,4,-18,Ookla Speedtest Server 3923: speedtest5.aztelekom.az,AZ,Asia,Western Asia,Azerbaijan,Shirvan,,
+185.118.49.10,4,76365,Ookla Speedtest Server 10897: speedtestbaku1.azfiber.net,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+80.69.48.3,4,-6,Ookla Speedtest Server 12248: speedtest8.aztelekom.az,AZ,Asia,Western Asia,Azerbaijan,Xankandi Sahari,,Khankendi
+109.205.166.132,4,10,Ookla Speedtest Server 12417: speedtest.teleport.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+149.255.155.210,4,-2,Ookla Speedtest Server 13292: sp1.katv1.net,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+91.135.244.86,4,4,Ookla Speedtest Server 15343: speedtest4.aztelekom.az,AZ,Asia,Western Asia,Azerbaijan,Quba Rayon,,
+185.40.32.226,4,-11,Ookla Speedtest Server 15402: speedtest.bossnet.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+193.8.73.2,4,9,Ookla Speedtest Server 15459: speedtest.azeuronet.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+185.40.32.227,4,-10,Ookla Speedtest Server 15542: speedtest.gotelecom.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+185.40.32.228,4,35,Ookla Speedtest Server 15559: speedtest.duu.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+37.32.77.250,4,21,Ookla Speedtest Server 15687: speedtest.shakh.tv,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+185.43.190.47,4,1,Ookla Speedtest Server 17413: speedtest.aile.tv,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+185.32.44.70,4,649166,Ookla Speedtest Server 17428: speedtest.izone.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+95.86.132.54,4,6,Ookla Speedtest Server 22827: speedtest.smart.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+80.69.48.5,4,-8,Ookla Speedtest Server 25576: speedtest10.aztelekom.az,AZ,Asia,Western Asia,Azerbaijan,Ganja City,,Ganja
+213.172.73.149,4,-9,Ookla Speedtest Server 26286: speedtest.aet.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+217.25.25.3,4,11,Ookla Speedtest Server 26391: speedtest.uninet.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+185.12.16.221,4,96429,Ookla Speedtest Server 26918: speedtest.connect.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+91.234.235.4,4,-3,Ookla Speedtest Server 41519: speedtest.fiber.net.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+45.15.43.7,4,-4,Ookla Speedtest Server 43401: speedtest.beeonline.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+85.132.110.11,4,14,Ookla Speedtest Server 43502: speedtest.selnet.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+217.25.25.2,4,4,Ookla Speedtest Server 43969: speedtest.ultel.net,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+91.135.244.67,4,6,Ookla Speedtest Server 45546: speedtest.aztelekom.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+91.218.56.130,4,1,Ookla Speedtest Server 47848: speedtest.diginet.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+37.32.78.100,4,-9,Ookla Speedtest Server 49035: speedtest.artkom.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+185.40.32.229,4,34,Ookla Speedtest Server 49490: speedtest.azturk.net,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+46.32.174.38,4,5,Ookla Speedtest Server 50470: speedtest.flexnet.az,AZ,Asia,Western Asia,Azerbaijan,,,
+185.77.248.13,4,2,Ookla Speedtest Server 56585: speedtest.araz-net.az,AZ,Asia,Western Asia,Azerbaijan,Nakhchivan Autonomous Republic,Babek Rayon,Nakhchivan
+193.8.72.10,4,2,Ookla Speedtest Server 64252: speedtest.voltnet.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+89.147.255.10,4,-7,Ookla Speedtest Server 65372: speedtest.metronet.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+185.40.32.116,4,-5,Ookla Speedtest Server 67825: speedtest.ailemnet.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+94.20.177.2,4,-2,Ookla Speedtest Server 68762: spd.datacenter.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+185.233.181.2,4,5572819,Ookla Speedtest Server 69127: speedtest.goodnet.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+185.26.187.106,4,-10,Ookla Speedtest Server 70745: speedtest.gsp.az,AZ,Asia,Western Asia,Azerbaijan,,,
+94.20.177.6,4,0,Ookla Speedtest Server 70929: spd2.datacenter.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+185.118.48.10,4,0,Ookla Speedtest Server 70970: speedtest.maxinet.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+91.234.235.201,4,-1,Ookla Speedtest Server 71529: speedtest55.fiber.net.az,AZ,Asia,Western Asia,Azerbaijan,Shaki,,
+185.220.181.10,4,0,Ookla Speedtest Server 71725: speedtest.netpoint.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+80.69.48.2,4,2,Ookla Speedtest Server 71807: speedtest2.aztelekom.az,AZ,Asia,Western Asia,Azerbaijan,Yevlax City,,Yevlakh
+185.129.92.202,4,1,Ookla Speedtest Server 71862: speedtest2.cloud.az,AZ,Asia,Western Asia,Azerbaijan,,,
+38.27.37.133,4,27,Ookla Speedtest Server 72947: speedtest.buludtelecom.com,AZ,Asia,Western Asia,Azerbaijan,,,
+193.8.73.131,4,21,Ookla Speedtest Server 73921: speedtest.euronet-telecom.az,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+94.20.71.19,4,3,Ookla Speedtest Server: az-ix.net,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
+94.20.88.111,4,2,qarabagh.com,AZ,Asia,Western Asia,Azerbaijan,,,
+94.20.62.62,4,1066,yeniazerbaycan.com,AZ,Asia,Western Asia,Azerbaijan,,,

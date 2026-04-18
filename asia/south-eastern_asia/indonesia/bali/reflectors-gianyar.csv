@@ -1,3 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-103.156.75.132,4,64,DNS Server: 132.75-156-103.trikamedia.net.id,ID,Asia,South-eastern Asia,Indonesia,Bali,,Gianyar
-103.156.75.20,4,333,Ookla Speedtest Server 59418: speedtest22.trikamedia.com,ID,Asia,South-eastern Asia,Indonesia,Bali,,Gianyar
+103.156.75.132,4,10,DNS Server: 132.75-156-103.trikamedia.net.id,ID,Asia,South-eastern Asia,Indonesia,Bali,,Gianyar
+103.122.65.70,4,4,Ookla Speedtest Server 22426: dps.speedtest.jinom.net,ID,Asia,South-eastern Asia,Indonesia,Bali,,Gianyar
+163.227.52.54,4,19,Ookla Speedtest Server 73149: speedtest.jagoandata.com,ID,Asia,South-eastern Asia,Indonesia,Bali,,Gianyar

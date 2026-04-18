@@ -1,19 +1,25 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-122.53.148.193,4,-32045130,DNS Server: 122.53.148.193.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Bulacan,Bolacan
-122.53.156.212,4,-1094,DNS Server: 122.53.156.212.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Bulacan,Bolacan
-122.53.156.220,4,-1109,DNS Server: 122.53.156.220.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Bulacan,Bolacan
-122.53.25.186,4,-19088950,DNS Server: 122.53.25.186.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Bulacan,Bolacan
-122.54.233.253,4,-28788479,DNS Server: 122.54.233.253.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Angeles City
-122.55.216.174,4,-28696839,DNS Server: 122.55.216.174.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Bulacan,Marilao
-122.55.34.214,4,-4231579153,DNS Server: 122.55.34.214.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Mabalacat
-161.49.220.153,4,51,DNS Server: 161.49.220.153.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Clark
-161.49.222.98,4,6028,DNS Server: 161.49.222.98.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,San Fernando City
-161.49.226.52,4,3740,DNS Server: 161.49.226.52.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Nueva Ecija,Lupao
-161.49.215.57,4,53,DNS Server: 57.215.49.161-rev.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Clark
-180.232.81.98,4,101765,DNS Server: 98.81.232.180.dsl.static.inet.as18190,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Bulacan,Baliuag
-122.53.148.137,4,-52110802,DNS Server: corporatehost.2.static.istasolutions.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Bulacan,Bolacan
-103.170.126.10,4,333,Ookla Speedtest Server 14475: speedtest.racitelcom.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Bulacan,Marilao
-223.25.2.67,4,245,Ookla Speedtest Server 21921: speedtst-tim.asianvision.com.ph,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Zambales,Santa Cruz
-103.39.146.180,4,276,Ookla Speedtest Server 61996: queb-speedtest.adscabletv.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Nueva Ecija,Muñoz
-131.226.94.161,4,371,Ookla Speedtest Server 64912: speedtestco51s2.dito.ph,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Angeles City
-122.55.48.155,4,9,sti.edu,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Mabalacat
+119.92.50.161,4,57600388,DNS Server: 119.92.50.161.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Zambales,Olongapo City
+122.3.163.112,4,62459478,DNS Server: 122.3.163.112.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Tarlac,Tarlac City
+122.3.190.173,4,226,DNS Server: 122.3.190.173.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Porac
+122.52.221.250,4,24598744,DNS Server: 122.52.221.250.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Nueva Ecija,Cabanatuan City
+161.49.220.153,4,-6,DNS Server: 161.49.220.153.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Clark
+161.49.226.194,4,-4,DNS Server: 161.49.226.194.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Tarlac,Capas
+161.49.226.52,4,12317,DNS Server: 161.49.226.52.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Tarlac,Capas
+58.69.78.37,4,691,DNS Server: 58.69.78.37.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Angeles City
+223.25.32.12,4,43,Ookla Speedtest Server 7149: speedtst-zmb.asianvision.com.ph,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Zambales,Subic
+202.69.188.50,4,2788,Ookla Speedtest Server 11577: clk-srv04.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Clark
+138.84.65.245,4,12705,Ookla Speedtest Server 13771: sane-jaen.sharknet.ph,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Nueva Ecija,San Antonio
+103.149.100.12,4,12,Ookla Speedtest Server 35396: speedtest.cmdcable.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Cauayan
+202.69.188.82,4,-5,Ookla Speedtest Server 35473: clk-spdtst-srv.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Clark
+202.69.188.86,4,9,Ookla Speedtest Server 35820: ucp-spdtst-srv.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Clark
+103.155.88.35,4,2,Ookla Speedtest Server 37912: speedtest.speedtest-bataanspacecable.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Bataan,Balanga
+103.39.146.180,4,-17,Ookla Speedtest Server 61996: queb-speedtest.adscabletv.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Nueva Ecija,Science City of Muñoz
+157.10.33.50,4,-30,Ookla Speedtest Server 64301: speedtest.planetnds.net,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Bulacan,Hagonoy
+131.226.94.161,4,17,Ookla Speedtest Server 64912: speedtestco51s2.dito.ph,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Angeles City
+180.191.22.183,4,-40006,Ookla Speedtest Server 65215: f0270e5d9408.sn.mynetname.net,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Nueva Ecija,Cabanatuan City
+138.252.69.254,4,26,Ookla Speedtest Server 67579: speedtest.cabstechnetwork.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Guagua
+163.227.118.58,4,-143707,Ookla Speedtest Server 68242: orion-speedtest.ewstelcoserv.net,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Bataan,Orion
+138.84.65.187,4,57531693,Ookla Speedtest Server 69246: dracaryscorp.site,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Bulacan,Marilao
+180.191.20.34,4,25,Ookla Speedtest Server 71385: keyconnect.fun,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Bulacan,Meycauayan
+138.252.226.10,4,-11,Ookla Speedtest Server 74488: speedtest.robcomph.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,San Fernando City

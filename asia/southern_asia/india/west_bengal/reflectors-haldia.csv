@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-103.107.254.254,4,183,Ookla Speedtest Server 17816: sp1.hustel.net,IN,Asia,Southern Asia,India,West Bengal,,Haldia
+103.107.254.254,4,-45,Ookla Speedtest Server 17816: sp1.hustel.net,IN,Asia,Southern Asia,India,West Bengal,,Haldia
+103.155.54.250,4,7,Ookla Speedtest Server 38840: pgs-hld-spd-250.pegasuswave.in,IN,Asia,Southern Asia,India,West Bengal,,Haldia
+160.20.6.6,4,-41,Ookla Speedtest Server 54523: sp1.windwire.net,IN,Asia,Southern Asia,India,West Bengal,,Haldia

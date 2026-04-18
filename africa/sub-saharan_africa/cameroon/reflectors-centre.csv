@@ -1,5 +1,8 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-195.24.207.184,4,84,camair-co.cm,CM,Africa,Sub-Saharan Africa,Cameroon,Centre,,Yaoundé
-195.24.207.145,4,-26,minsante.cm,CM,Africa,Sub-Saharan Africa,Cameroon,Centre,,Yaoundé
-102.67.96.98,4,376,Ookla Speedtest Server 52535: speedtest-ash.vts.bf,BF,Africa,Sub-Saharan Africa,Burkina Faso,Centre,Kadiogo Province,Ouagadougou
-102.67.99.94,4,281,Ookla Speedtest Server 60733: speedtest-100g-ouaga.vts.bf,BF,Africa,Sub-Saharan Africa,Burkina Faso,Centre,Kadiogo Province,Ouagadougou
+195.24.207.184,4,87,camair-co.cm,CM,Africa,Sub-Saharan Africa,Cameroon,Centre,,Yaoundé
+165.210.33.192,4,72,cradat.cm,CM,Africa,Sub-Saharan Africa,Cameroon,Centre,,Yaoundé
+165.210.33.18,4,8,impots.cm,CM,Africa,Sub-Saharan Africa,Cameroon,Centre,,Yaoundé
+165.210.32.24,4,8,ins-cameroun.cm,CM,Africa,Sub-Saharan Africa,Cameroon,Centre,,Yaoundé
+165.210.33.68,4,80,minepia.cm,CM,Africa,Sub-Saharan Africa,Cameroon,Centre,,Yaoundé
+195.24.207.145,4,102,minsante.cm,CM,Africa,Sub-Saharan Africa,Cameroon,Centre,,Yaoundé
+154.66.164.2,4,3,Ookla Speedtest Server 64668: speedtest2.fasonet.bf,BF,Africa,Sub-Saharan Africa,Burkina Faso,Centre,Kadiogo Province,Ouagadougou

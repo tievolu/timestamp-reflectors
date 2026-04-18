@@ -1,6 +1,13 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-200.46.99.178,4,376,DNS Server: 178-99-46-200-ip.alianzaviva.net,PA,Americas,Latin America and the Caribbean,Panama,Provincia de Panamá,,Panama City
-190.14.203.242,4,-281,DNS Server: 242.203.14.190.clarocom.com,PA,Americas,Latin America and the Caribbean,Panama,Provincia de Panamá,,Panama City
-201.218.125.251,4,24,DNS Server: cm-201-218-125-251.cpe-statics.cableonda.net,PA,Americas,Latin America and the Caribbean,Panama,Provincia de Panamá,,Panama City
-64.210.64.138,4,8,DNS Server: host-64-210-64-138.metrompls.com,PA,Americas,Latin America and the Caribbean,Panama,Provincia de Panamá,,Panama City
-200.46.135.89,4,800,hidromet.com.pa,PA,Americas,Latin America and the Caribbean,Panama,Provincia de Panamá,,Panama City
+200.46.99.178,4,5465,DNS Server: 178-99-46-200-ip.alianzaviva.net,PA,Americas,Latin America and the Caribbean,Panama,Provincia de Panamá,,Panama City
+190.14.203.242,4,-12,DNS Server: 242.203.14.190.clarocom.com,PA,Americas,Latin America and the Caribbean,Panama,Provincia de Panamá,,Panama City
+201.218.125.251,4,-6,DNS Server: cm-201-218-125-251.cpe-statics.cableonda.net,PA,Americas,Latin America and the Caribbean,Panama,Provincia de Panamá,,Panama City
+190.219.111.214,4,1,DNS Server: cpe-0019b93f7ad2.cpe.cableonda.net,PA,Americas,Latin America and the Caribbean,Panama,Provincia de Panamá,,Panama City
+64.210.64.138,4,-3,DNS Server: host-64-210-64-138.metrompls.com,PA,Americas,Latin America and the Caribbean,Panama,Provincia de Panamá,,Panama City
+45.181.68.65,4,-9,DNS Server: ns2.fusilsystem.com,PA,Americas,Latin America and the Caribbean,Panama,Provincia de Panamá,,Panama City
+200.124.21.230,4,2,Ookla Speedtest Server 3416: velocidad.tigo.com.pa,PA,Americas,Latin America and the Caribbean,Panama,Provincia de Panamá,,Panama City
+201.221.228.215,4,1,Ookla Speedtest Server 11924: speedserver.wipet.com,PA,Americas,Latin America and the Caribbean,Panama,Provincia de Panamá,,Panama City
+186.148.105.30,4,-10,Ookla Speedtest Server 31830: speedtest.ufinet.com.pa,PA,Americas,Latin America and the Caribbean,Panama,Provincia de Panamá,,Panama City
+186.148.96.18,4,26,Ookla Speedtest Server 35867: speedtest.ufinetlatam.net,PA,Americas,Latin America and the Caribbean,Panama,Provincia de Panamá,,Panama City
+190.122.188.122,4,-11,Ookla Speedtest Server 35937: speedtest.celero.network,PA,Americas,Latin America and the Caribbean,Panama,Provincia de Panamá,,Panama City
+45.188.251.6,4,5,Ookla Speedtest Server 37761: speedtest.metrocom.com.pa,PA,Americas,Latin America and the Caribbean,Panama,Provincia de Panamá,,Panama City

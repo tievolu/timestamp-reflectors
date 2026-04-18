@@ -1,5 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-85.243.48.77,4,545,DNS Server: bl10-48-77.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Faro,,Albufeira
-85.247.21.35,4,666,DNS Server: bl14-21-35.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Faro,,Tavira
-85.242.208.15,4,399,DNS Server: bl9-208-15.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Faro,,Parchal
-89.31.231.4,4,205,Ookla Speedtest Server 19253: speed.lazertelecom.com,PT,Europe,Southern Europe,Portugal,Faro,,Almancil
+85.243.48.77,4,97,DNS Server: bl10-48-77.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Faro,,Albufeira
+85.247.21.35,4,699,DNS Server: bl14-21-35.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Faro,,Portimão
+85.247.83.209,4,739,DNS Server: bl14-83-209.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Faro,,Quarteira
+85.242.208.15,4,15,DNS Server: bl9-208-15.dsl.telepac.pt,PT,Europe,Southern Europe,Portugal,Faro,,Portimão
+89.31.231.4,4,-4,Ookla Speedtest Server 19253: speed.lazertelecom.com,PT,Europe,Southern Europe,Portugal,Faro,,Almancil

@@ -1,5 +1,7 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-187.19.101.33,4,13,DNS Server: 187-19-101-33.users.certto.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Cascavel
-187.115.10.50,4,98,DNS Server: bhealth.static.gvt.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Cascavel
-187.19.96.145,4,320,Ookla Speedtest Server: home.certto.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Cascavel
-131.255.84.123,4,4,unioeste.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Cascavel
+187.19.101.33,4,-7,DNS Server: 187-19-101-33.users.certto.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Cascavel
+187.49.80.197,4,-1,Ookla Speedtest Server 23047: speednet.dipelnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Cascavel
+45.5.199.136,4,-13,Ookla Speedtest Server 28170: ookla.rpnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Cascavel
+24.152.100.22,4,-8,Ookla Speedtest Server 52982: teste.millennium.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Cascavel
+186.232.176.13,4,-2,Ookla Speedtest Server 69049: speed.gtvfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Cascavel
+187.19.96.145,4,15,Ookla Speedtest Server: home.certto.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Cascavel

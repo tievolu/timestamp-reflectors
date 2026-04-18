@@ -1,31 +1,45 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-185.199.9.14,4,23562,DNS Server: clients9-krd-14.freedom1.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
-158.58.133.38,4,12354,DNS Server: host-158-58-133-38.bisv.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
-91.210.25.81,4,-25417,DNS Server: ip-025-081.users.dagotel.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
-91.210.26.66,4,1,DNS Server: ip-026-066.users.dagotel.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
-91.210.26.145,4,29500,DNS Server: ip-026-145.users.dagotel.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
-185.15.63.136,4,2975,DNS Server: ip-063-136.users.dagotel.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
-45.157.214.92,4,-24847,DNS Server: ip-092-214-157-045.avanta-telecom.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
-46.29.12.142,4,85296,DNS Server: kubancentr.com,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
-151.252.108.218,4,6701,DNS Server: pppoe-151-252-108-218.clients.kubtel.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
+85.172.12.33,4,6494,consmed.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,
+83.239.14.34,4,-2071629022,DNS Server: choicegroup.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
+185.199.9.94,4,-3116094915,DNS Server: clients9-krd-94.freedom1.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
+158.58.131.67,4,-153,DNS Server: host-158-58-131-67.bisv.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
+158.58.133.38,4,59822,DNS Server: host-158-58-133-38.bisv.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
+158.58.134.90,4,113840,DNS Server: host-158-58-134-90.bisv.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
+91.210.25.81,4,-30447,DNS Server: ip-025-081.users.dagotel.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
+91.210.26.66,4,9476,DNS Server: ip-026-066.users.dagotel.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
+91.210.26.145,4,14951,DNS Server: ip-026-145.users.dagotel.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
+185.15.63.136,4,3718,DNS Server: ip-063-136.users.dagotel.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
+45.157.214.92,4,-5055,DNS Server: ip-092-214-157-045.avanta-telecom.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
+185.134.122.28,4,32790147,DNS Server: ip28.122.city-telekom.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Armavir
+46.29.12.142,4,694231,DNS Server: kubancentr.com,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
+46.29.12.108,4,-2,DNS Server: mail.kgkr.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
+85.172.38.1,4,-6,DNS Server: mail.sunmarinn.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,
+85.175.216.174,4,52037495,DNS Server: mail.yugkabel.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
+31.130.138.21,4,8,expomodel.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
 193.33.132.212,4,22,gadgetstyle.com.ua,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
-151.252.107.131,4,18,kubzsk.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
-178.178.127.49,4,-2,kvsspb.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
-46.29.15.134,4,3893,moibiz93.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
-91.215.91.250,4,283,Ookla Speedtest Server 2904: speedtest.dtel.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
-176.32.128.14,4,68066,Ookla Speedtest Server 19533: speedtest.city-telekom.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Armavir
-193.34.234.4,4,201,Ookla Speedtest Server 21493: stkes1.slavisp.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,
-91.235.220.30,4,217,Ookla Speedtest Server 22151: speedtest.natanet.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Novorossiysk
-185.175.116.12,4,341,Ookla Speedtest Server 23635: speedtest.beltele.com,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Belorechensk
-176.110.130.242,4,357,Ookla Speedtest Server 32976: bill.tele-c.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Slavyansk-na-Kubani
-109.248.134.212,4,232,Ookla Speedtest Server 46342: speedtest.optele.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
-46.29.11.150,4,312,Ookla Speedtest Server 52800: speedtest.hitel.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
-151.252.110.126,4,192,Ookla Speedtest Server 56776: speedtest.kubtel.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
-185.205.239.19,4,281,Ookla Speedtest Server 60227: test.yugit.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
-158.58.130.38,4,4,Ookla Speedtest Server: www.bisv.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
-85.175.172.229,4,19448798,pskgu.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Temryuk
+46.173.190.10,4,-537701,itech.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Armavir
+193.33.132.213,4,-2320,ividabar.com,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
+91.210.27.68,4,9155,mkss-gk.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
+77.233.0.76,4,2,nakubani.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
+91.215.91.250,4,-18,Ookla Speedtest Server 2904: speedtest.dtel.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
+185.228.134.98,4,-5,Ookla Speedtest Server 11112: speedtest1.cyxym.net,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
+109.235.186.251,4,5,Ookla Speedtest Server 12213: speed.bisv.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
+91.226.137.136,4,341,Ookla Speedtest Server 15450: speedtest.gdnet.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
+77.233.4.2,4,-7,Ookla Speedtest Server 16636: speedtest.yug-link.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
+193.34.234.4,4,12,Ookla Speedtest Server 21493: stkes1.slavisp.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,
+91.235.220.30,4,63,Ookla Speedtest Server 22151: speedtest.natanet.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Novorossiysk
+185.175.116.12,4,7,Ookla Speedtest Server 23635: speedtest.beltele.com,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Belorechensk
+185.230.243.6,4,-1,Ookla Speedtest Server 26676: pvl-speedtest.gdnet.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
+176.110.130.242,4,-4,Ookla Speedtest Server 32976: bill.tele-c.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Slavyansk-na-Kubani
+109.248.134.212,4,14,Ookla Speedtest Server 46342: speedtest.optele.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
+185.205.239.19,4,-10,Ookla Speedtest Server 60227: test.yugit.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
+46.29.11.50,4,3,Ookla Speedtest Server 67894: speedtest.dm3.hitel.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
+185.137.179.253,4,-5,Ookla Speedtest Server 68598: speedtest.giglan.pro,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
+158.58.130.38,4,9,Ookla Speedtest Server: www.bisv.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
+146.158.116.242,4,279,paravia.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
+88.151.114.34,4,72519,petrovka-38.com,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Yeysk
 91.230.54.34,4,17,readyscript.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
-93.190.17.57,4,71,sochi.camera,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
-185.15.61.4,4,63,sochi.com,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
-158.58.129.92,4,4089049,sochi.edu.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
-91.230.54.66,4,28,topfoto.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
+91.230.54.66,4,1,ross-art.su,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
+91.230.54.6,4,0,rufox.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Krasnodar
+158.58.129.92,4,12,sochi-schools.ru,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi
+93.190.17.57,4,-4,sochi.camera,RU,Europe,Eastern Europe,Russian Federation,Krasnodar Krai,,Sochi

@@ -1,4 +1,11 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-177.126.86.33,4,-24448,DNS Server: 177.126.86.33.novatelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Tocantins,,Palmas
-191.31.165.154,4,375423,DNS Server: 191.31.165.154.static.gvt.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Tocantins,,Palmas
-200.129.176.201,4,22,ifto.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Tocantins,,Palmas
+177.126.86.33,4,37911582,DNS Server: 177.126.86.33.novatelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Tocantins,,Palmas
+177.126.95.225,4,4871161,DNS Server: 177.126.95.225.novatelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Tocantins,,Palmas
+191.31.165.154,4,-3,DNS Server: 191.31.165.154.static.gvt.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Tocantins,,Palmas
+200.129.176.201,4,16,ifto.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Tocantins,,Palmas
+177.126.90.218,4,-5,Ookla Speedtest Server 12730: speedpmw.belezanetwork.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Tocantins,,Palmas
+191.247.240.60,4,-3,Ookla Speedtest Server 21738: spd19.claro.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Tocantins,,Palmas
+170.239.224.27,4,-15,Ookla Speedtest Server 28335: speedtest.prontofibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Tocantins,,Palmas
+179.43.32.15,4,46,Ookla Speedtest Server 57029: teste.meganet.tec.br,BR,Americas,Latin America and the Caribbean,Brazil,Tocantins,,Palmas
+200.26.247.181,4,59797,Ookla Speedtest Server 68575: teste.grupotelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Tocantins,,Palmas
+45.71.244.26,4,-1452902,Ookla Speedtest Server 70460: speedtest.opennetpalmas.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Tocantins,,Palmas

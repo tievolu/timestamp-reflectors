@@ -1,4 +1,2 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-109.195.23.128,4,1794,DNS Server: 109x195x23x128.static-business.saratov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Engel's
-109.195.22.133,4,-53751565,DNS Server: net22.195.109-133.saratov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Engel's
-109.195.18.49,4,8,soiro.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Engel's
+5.3.255.227,4,602,DNS Server: 5x3x255x227.dynamic.saratov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Engel's

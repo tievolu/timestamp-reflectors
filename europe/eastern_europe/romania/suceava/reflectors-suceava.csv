@@ -1,0 +1,5 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+86.125.216.169,4,638,DNS Server: 86.125.216.169.bb.fo.static.rdsar.ro,RO,Europe,Eastern Europe,Romania,Suceava,,Suceava
+5.2.249.4,4,119892,DNS Server: static-5-2-249-4.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Suceava,,Suceava
+5.2.251.21,4,-170,DNS Server: static-5-2-251-21.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Suceava,,Suceava
+81.196.55.4,4,16967,viata-libera.ro,RO,Europe,Eastern Europe,Romania,Suceava,,Suceava

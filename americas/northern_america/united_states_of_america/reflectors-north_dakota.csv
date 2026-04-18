@@ -1,7 +1,15 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-140.186.0.21,4,19,DNS Server: 140-186-0-21-static.midco.net,US,Americas,Northern America,United States of America,North Dakota,,Bismarck
-173.241.180.4,4,27,DNS Server: 173_241_180_4-static.ctcinet.com,US,Americas,Northern America,United States of America,North Dakota,,Dickinson
-24.111.23.211,4,16,jailpayments.com,US,Americas,Northern America,United States of America,North Dakota,,Grand Forks
-66.163.159.110,4,-7625791,Ookla Speedtest Server: speedtest.daktel.com,US,Americas,Northern America,United States of America,North Dakota,,Carrington
-24.52.14.196,4,5,Ookla Speedtest Server: st-gfk.midco.net,US,Americas,Northern America,United States of America,North Dakota,,Grand Forks
-24.52.24.20,4,5,Ookla Speedtest Server: st-mot.midco.net,US,Americas,Northern America,United States of America,North Dakota,,Minot
+74.207.144.224,4,4063,DNS Server: 224.144.207.74.srtnet.com,US,Americas,Northern America,United States of America,North Dakota,,Minot
+96.3.112.108,4,43,ninebelow.com,US,Americas,Northern America,United States of America,North Dakota,,Minot
+24.220.13.40,4,9646,Ookla Speedtest Server 4325: st-far.midco.net,US,Americas,Northern America,United States of America,North Dakota,,Fargo
+24.52.14.20,4,-19432,Ookla Speedtest Server 6515: st-bis.midco.net,US,Americas,Northern America,United States of America,North Dakota,,Bismarck
+24.52.14.196,4,-16,Ookla Speedtest Server 7016: st-gfk.midco.net,US,Americas,Northern America,United States of America,North Dakota,,Grand Forks
+24.52.24.20,4,4260,Ookla Speedtest Server 7019: st-mot.midco.net,US,Americas,Northern America,United States of America,North Dakota,,Minot
+64.31.240.209,4,1,Ookla Speedtest Server 11392: speedtest.bektel.com,US,Americas,Northern America,United States of America,North Dakota,,Steele
+76.10.79.106,4,5,Ookla Speedtest Server 11893: speedtest.gondtc.com,US,Americas,Northern America,United States of America,North Dakota,,Devils Lake
+104.152.77.2,4,14,Ookla Speedtest Server 15246: nmpts-val.bektel.com,US,Americas,Northern America,United States of America,North Dakota,,Valley City
+64.202.47.141,4,5,Ookla Speedtest Server 17165: nmpts-mox.bektel.com,US,Americas,Northern America,United States of America,North Dakota,,Mandan
+66.231.96.133,4,-6,Ookla Speedtest Server 17802: speedtest.polarcomm.com,US,Americas,Northern America,United States of America,North Dakota,,Park River
+24.52.24.36,4,-1,Ookla Speedtest Server 19131: st-wil.midco.net,US,Americas,Northern America,United States of America,North Dakota,,Williston
+104.128.0.37,4,-6,Ookla Speedtest Server 30799: ookla.mlgc.com,US,Americas,Northern America,United States of America,North Dakota,,Enderlin
+69.84.71.27,4,10,Ookla Speedtest Server 50473: prodqos-bis.bektel.com,US,Americas,Northern America,United States of America,North Dakota,,Bismarck

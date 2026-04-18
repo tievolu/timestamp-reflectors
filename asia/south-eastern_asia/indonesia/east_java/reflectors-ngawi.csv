@@ -1,4 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-103.169.9.8,4,209,Ookla Speedtest Server 15800: speedtest.jansae.net,ID,Asia,South-eastern Asia,Indonesia,East Java,,Ngawi
-103.19.56.6,4,281,Ookla Speedtest Server 21296: speedtest.bitsnet.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Ngawi
-103.169.9.52,4,341,Ookla Speedtest Server 58785: speedtest.takalink.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Ngawi
+160.25.245.2,4,21,Ookla Speedtest Server 58207: speed.jaringankita.my.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Ngawi
+103.177.106.76,4,-9,Ookla Speedtest Server 58419: spd1.dataartasedaya.net.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Ngawi
+103.171.245.6,4,0,Ookla Speedtest Server 59720: spd11.amandanetworks.com,ID,Asia,South-eastern Asia,Indonesia,East Java,,Ngawi
+157.15.0.176,4,14,Ookla Speedtest Server 65256: speedtest-dmnet.ngw.my.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Ngawi
+160.25.245.3,4,-13,Ookla Speedtest Server 70108: speed.majumapan.info,ID,Asia,South-eastern Asia,Indonesia,East Java,,Ngawi

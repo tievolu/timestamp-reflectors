@@ -1,7 +1,16 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-191.100.22.36,4,34,DNS Server: 36.191-100-22.etapanet.net,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
-191.100.20.40,4,51,DNS Server: 40.191-100-20.etapanet.net,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
-200.24.159.207,4,11,DNS Server: host-200-24-159-207.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
-190.95.206.99,4,26,olade.org,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+191.100.20.116,4,5524,DNS Server: 116.191-100-20.etapanet.net,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+191.100.22.36,4,-22,DNS Server: 36.191-100-22.etapanet.net,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+191.100.20.40,4,-599,DNS Server: 40.191-100-20.etapanet.net,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+200.24.159.207,4,2,DNS Server: host-200-24-159-207.nedetel.net,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+190.15.131.16,4,-5,iaen.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+143.255.248.157,4,-3,Ookla Speedtest Server 8442: speedtest.cedia.org.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+190.94.134.250,4,11,Ookla Speedtest Server 41908: speedtest.etapa.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+181.224.89.129,4,-5,Ookla Speedtest Server 57159: speedtest1.sitertl.com,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+181.78.201.13,4,2,Ookla Speedtest Server 57679: speedtest.skylife.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+181.224.88.193,4,-12,Ookla Speedtest Server 60007: speedtest2.sitertl.com,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+45.233.102.35,4,-3,Ookla Speedtest Server 63032: speedmw.internetdecalidad.com,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
 45.233.101.59,4,173,Ookla Speedtest Server 63032: speedmw.internetdecalidad.com,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
-201.159.222.210,4,7,uti.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+45.188.229.245,4,152588,Ookla Speedtest Server 74141: speedtest.astronetv.net,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+190.15.141.153,4,200788,sangregorio.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+201.159.222.210,4,4,uti.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca

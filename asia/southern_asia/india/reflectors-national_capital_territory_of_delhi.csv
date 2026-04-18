@@ -1,41 +1,70 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-103.63.31.132,4,4,97win.fyi,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-217.21.83.139,4,-18,appdividend.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-109.73.164.82,4,-6,bombaysamachar.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-217.21.80.250,4,-18,cbd-news.org,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-217.21.83.207,4,-4,damangames.app,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-125.21.186.102,4,831,dhbvn.org.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-182.75.185.225,4,231,DNS Server: nsg-static-225.185.75.182-airtel.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-182.75.224.239,4,-1017651642,DNS Server: nsg-static-239.224.75.182-airtel.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-182.75.172.255,4,-2494991167,DNS Server: nsg-static-255.172.75.182-airtel.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-217.21.81.148,4,-22,hotbookmarking.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-120.59.19.118,4,-829,hudco.org,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-109.73.164.242,4,-174,iimtrichy.ac.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-103.27.9.24,4,-28,iitd.ac.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-103.13.242.121,4,912,lifecarehll.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-217.21.81.147,4,-11,maxicert.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-217.21.81.131,4,-16,measuringmart.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-217.21.80.126,4,-18,mrignayanikolkata.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-217.21.82.108,4,-23,nbhcindia.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-217.21.80.238,4,-3,newsncr.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-43.231.56.6,4,366,Ookla Speedtest Server 15328: speedtest-del01.gtpl.net,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-103.145.168.38,4,343,Ookla Speedtest Server 33379: speedtest.nikhilnetworksolution.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
-203.189.255.98,4,279,Ookla Speedtest Server 47144: speedtest-noida.fusionnet.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-103.126.169.98,4,7723,Ookla Speedtest Server 51375: speedtest.prefixinfotech.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
-103.176.64.6,4,320,Ookla Speedtest Server 51746: sp1.worldfibernet.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-103.161.57.245,4,300,Ookla Speedtest Server 52512: speedtest.vijw.excitel.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
-103.134.132.5,4,250,Ookla Speedtest Server 56744: nms.skyrocketnet.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-103.233.119.78,4,25212059,Ookla Speedtest Server 57231: speedtestkasganj.zeonet.co.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-182.78.249.222,4,98380,Ookla Speedtest Server 57312: speedtestkhd1.airtel.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-103.81.26.3,4,278,Ookla Speedtest Server 58083: speedtest01.qualitynet.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
-103.182.132.6,4,327,Ookla Speedtest Server 60360: ns1.fybrg.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
-157.10.248.13,4,274,Ookla Speedtest Server 63153: speedtest.swiftify.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-103.157.53.50,4,142525,Ookla Speedtest Server 63235: speedtestgenx.zeonet.co.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-34.131.228.21,4,35,paruluniversity.ac.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-14.139.56.210,4,-18,pgimer.edu.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-217.21.81.134,4,-20,r3itsolutions.com.au,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-103.63.31.142,4,40,rasbhari.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-118.185.236.108,4,93,sebi.gov.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
-217.21.82.58,4,-13,uaehelper.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-122.176.123.95,4,-21,updigitaldiary.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
-34.131.232.146,4,20,yarimcakoyu.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+27.124.21.159,4,11,25684.top,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+34.131.240.198,4,0,aimbeatsoftech.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+34.131.232.142,4,-2,aixiangsui520.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+109.73.161.210,4,-182,bamu.ac.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+14.139.230.99,4,-531403,bcetgsp.ac.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+109.73.164.26,4,2,bombaysamachar.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+109.73.161.139,4,-85,brtc.org.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+34.131.202.49,4,-22,dbuniversity.ac.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+122.160.192.79,4,24745,DNS Server: abts-north-static-079.192.160.122.airtelbroadband.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
+122.176.18.199,4,6,DNS Server: abts-north-static-199.18.176.122.airtelbroadband.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+61.246.33.46,4,-8,DNS Server: mai.interactiveshades.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+122.186.120.249,4,595467,DNS Server: nsg-corporate-249.120.186.122.airtel.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
+182.71.61.207,4,-839923579,DNS Server: nsg-static-207.61.71.182.airtel.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+165.231.253.163,4,-4,DoH server: cs-india,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+34.131.105.23,4,-5,ezyschooling.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+34.131.47.97,4,-16,godavarilodge.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+34.131.200.225,4,-7834,goodspace.ai,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+34.131.138.121,4,-4,hack2skill.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+109.73.164.242,4,-220,iimtrichy.ac.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+109.73.166.107,4,-40,indiaforensic.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+14.139.226.51,4,22,isid.ac.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+34.131.82.50,4,-45,justwravel.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+103.13.242.121,4,143,lifecarehll.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+27.124.21.243,4,1,mdty72.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+27.124.21.233,4,1,mdty72.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+122.176.150.189,4,-25,mlmtrees.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+34.131.28.173,4,-22,noupidi.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+49.207.47.14,4,-2,Ookla Speedtest Server 9214: speedtestdelhi.actcorp.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
+103.59.204.21,4,24,Ookla Speedtest Server 11876: delhispeedtest.onebroadband.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
+43.231.56.6,4,-7,Ookla Speedtest Server 15328: speedtest-del01.gtpl.net,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+139.5.241.22,4,-1,Ookla Speedtest Server 20485: speedtest.del.excitel.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
+103.133.57.254,4,6631357,Ookla Speedtest Server 26059: speedtest1.nexabroadband.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
+103.97.46.220,4,-12,Ookla Speedtest Server 26411: stdel.estointernet.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+103.70.152.4,4,-3,Ookla Speedtest Server 27039: speedtest.gayatricable.co.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+202.129.211.252,4,-32,Ookla Speedtest Server 28420: noida-sptest.ishancloud.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+103.145.168.38,4,14,Ookla Speedtest Server 33379: speedtest.nikhilnetworksolution.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
+103.66.224.20,4,567304,Ookla Speedtest Server 33718: speedtest.dakshbroadband.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
+122.252.232.218,4,-1,Ookla Speedtest Server 34104: delhi.speedtest.railtel.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+103.186.48.122,4,5,Ookla Speedtest Server 35875: speedtest.ekowebtech.net,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+103.57.86.37,4,-14,Ookla Speedtest Server 36627: speedtest.blr.excitel.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Pālam
+103.112.19.226,4,-5,Ookla Speedtest Server 38315: sp1.omnetbroadband.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Sagarpur
+45.120.126.66,4,-11,Ookla Speedtest Server 38375: ooklaserver1-del1.skymaxbroadband.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+103.248.35.6,4,7,Ookla Speedtest Server 45763: sp2.realtel.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
+202.142.117.66,4,-24,Ookla Speedtest Server 48561: gorakhpur.sitibroadband.co.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
+139.5.252.245,4,12,Ookla Speedtest Server 49231: speedtest.pat.excitel.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+110.172.153.50,4,-4,Ookla Speedtest Server 51120: speedtest.worldphone.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+103.168.210.222,4,-17,Ookla Speedtest Server 51333: sp.atcinfocom.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
+103.176.64.6,4,26,Ookla Speedtest Server 51746: sp1.worldfibernet.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+103.221.79.244,4,-5,Ookla Speedtest Server 51805: speedtestdelhi.digiwaynet.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
+14.194.64.150,4,30,Ookla Speedtest Server 56195: stdel.tatatelebusiness.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+103.81.26.3,4,278,Ookla Speedtest Server 58083: speedtest01.qualitynet.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Gokalpur
+103.158.104.21,4,-9,Ookla Speedtest Server 58707: sp.yakshtel.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
+103.21.70.194,4,243785,Ookla Speedtest Server 58887: spd.spiretel.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+103.61.253.35,4,-33,Ookla Speedtest Server 59046: skynet.level3.support,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+27.109.2.28,4,26,Ookla Speedtest Server 59727: stdel.blazencr.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
+103.18.72.194,4,6,Ookla Speedtest Server 60272: cspeedtest.candorsolution.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+103.182.132.6,4,-4,Ookla Speedtest Server 60360: ns1.fybrg.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
+157.10.248.13,4,-1,Ookla Speedtest Server 63153: speedtest.swiftify.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+103.182.134.250,4,-4,Ookla Speedtest Server 69744: speedtest.maxnetdigital.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+103.158.137.70,4,64,Ookla Speedtest Server 70820: speedtest.octelinfonet.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+103.147.151.246,4,-3,Ookla Speedtest Server 71469: speedtest.fiber91.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+202.6.196.2,4,5,Ookla Speedtest Server 72842: speedtest.royalinternet.net,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
+115.114.73.212,4,32,Ookla Speedtest Server 73044: ookla.dl.as4755.net,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,Delhi
+14.139.56.210,4,276,pgimer.edu.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+27.124.18.216,4,7,ssc.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+34.131.138.251,4,10,taohelv.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+14.139.237.190,4,-53805628,uprtou.ac.in,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+34.131.214.67,4,61,vhjdz.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi
+34.131.131.181,4,-202,zeertai.com,IN,Asia,Southern Asia,India,National Capital Territory of Delhi,,New Delhi

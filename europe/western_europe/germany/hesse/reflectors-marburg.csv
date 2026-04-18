@@ -1,3 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-137.248.16.6,4,4,mediarep.org,DE,Europe,Western Europe,Germany,Hesse,,Marburg
-137.248.1.74,4,13,uni-marburg.de,DE,Europe,Western Europe,Germany,Hesse,,Marburg
+137.248.186.141,4,19,handschriftencensus.de,DE,Europe,Western Europe,Germany,Hesse,,Marburg
+137.248.186.162,4,7,lagis-hessen.de,DE,Europe,Western Europe,Germany,Hesse,,Marburg
+137.248.16.6,4,-41,mediarep.org,DE,Europe,Western Europe,Germany,Hesse,,Marburg
+137.248.1.74,4,10,uni-marburg.de,DE,Europe,Western Europe,Germany,Hesse,,Marburg
+137.248.186.19,4,11,unwortdesjahres.net,DE,Europe,Western Europe,Germany,Hesse,,Marburg

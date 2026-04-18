@@ -1,3 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-177.85.16.19,4,74,DNS Server: 19-16-85-177.netvale.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Coronel Fabriciano
-177.85.16.23,4,308,Ookla Speedtest Server 15660: speedtest.netvale.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Coronel Fabriciano
+177.85.16.19,4,-5,DNS Server: 19-16-85-177.netvale.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Coronel Fabriciano
+177.85.16.23,4,8,Ookla Speedtest Server 15660: speedtest.netvale.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Coronel Fabriciano
+38.252.80.10,4,-4,Ookla Speedtest Server 52744: speedtest.realnetbandalarga.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Coronel Fabriciano
+170.245.127.3,4,2,Ookla Speedtest Server 58362: speed.infornetmg.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Coronel Fabriciano

@@ -1,3 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-103.165.184.48,4,304,Ookla Speedtest Server 13917: speedn.infonetc.com.np,NP,Asia,Southern Asia,Nepal,Lumbini Province,,Narapani
-103.134.216.184,4,309,Ookla Speedtest Server 14297: btlspeedtest.sajilonet.com.np,NP,Asia,Southern Asia,Nepal,Lumbini Province,,Butwāl
+103.165.184.48,4,-78,Ookla Speedtest Server 13917: speedn.infonetc.com.np,NP,Asia,Southern Asia,Nepal,Lumbini Province,,Narapani
+103.134.216.184,4,-2,Ookla Speedtest Server 14297: btlspeedtest.sajilonet.com.np,NP,Asia,Southern Asia,Nepal,Lumbini Province,,Butwāl
+103.232.229.110,4,-3,Ookla Speedtest Server 40708: speedtest-bhw.broadlink.com.np,NP,Asia,Southern Asia,Nepal,Lumbini Province,,
+103.152.144.237,4,12,Ookla Speedtest Server 45141: speedtest.broadbandnepal.com.np,NP,Asia,Southern Asia,Nepal,Lumbini Province,,Taulihawā

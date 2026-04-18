@@ -1,4 +1,8 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-189.148.34.113,4,130,DNS Server: dsl-189-148-34-113-dyn.prod-infinitum.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chiapas,,Tapachula
-187.188.27.205,4,14,DNS Server: fixed-187-188-27-205.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Chiapas,,Tuxtla Gutiérrez
-187.189.119.11,4,46,DNS Server: fixed-187-189-119-11.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Chiapas,,Tapachula
+201.148.17.110,4,2927,DNS Server: 110.201-148-17.bestelclientes.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chiapas,,Mapastepec
+201.148.17.116,4,27571,DNS Server: 116.201-148-17.bestelclientes.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chiapas,,Mapastepec
+189.204.252.157,4,23063,DNS Server: 157.189-204-252.bestelclientes.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chiapas,,Villaflores
+187.189.119.11,4,-498,DNS Server: fixed-187-189-119-11.totalplay.net,MX,Americas,Latin America and the Caribbean,Mexico,Chiapas,,Tapachula
+187.244.50.162,4,-6,Ookla Speedtest Server 38258: speedtest.tgz.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chiapas,,Tuxtla Gutiérrez
+187.190.72.122,4,-13,Ookla Speedtest Server 50634: tuxtla.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Chiapas,,Tuxtla Gutiérrez
+201.148.20.194,4,-6,Ookla Speedtest Server 74054: speed.nexacarrier.com,MX,Americas,Latin America and the Caribbean,Mexico,Chiapas,,Chiapa de Corzo

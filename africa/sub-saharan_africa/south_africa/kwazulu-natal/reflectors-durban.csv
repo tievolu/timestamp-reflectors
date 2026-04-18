@@ -1,14 +1,24 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 196.250.194.226,4,2,cablemap.info,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
-156.155.252.72,4,1,cheetah.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
-156.155.252.79,4,1,classifiedfly.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
-156.155.194.164,4,9147,DNS Server: 156-155-194-164.ip.internet.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
-156.155.241.214,4,23240,DNS Server: 156-155-241-214.ip.internet.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
-197.245.22.186,4,3,DNS Server: dsl-197-245-22-186.voxdsl.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
-165.73.84.117,4,29,inforegulator.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
-156.155.252.83,4,1,mixinpeople.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
-165.73.83.60,4,648,nfvf.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
-192.145.128.53,4,339,Ookla Speedtest Server 16565: speedtest-ct1.mindthespeed.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
-41.78.244.222,4,215,Ookla Speedtest Server 48683: ookla.tech5.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
-102.176.238.82,4,266,Ookla Speedtest Server 54233: speed.edgeconnect.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
+156.155.241.214,4,586,DNS Server: 156-155-241-214.ip.internet.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
+81.26.73.164,4,-4,DNS Server: 164.73.26.81.firstnet.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
+41.162.49.122,4,12804,DNS Server: mail.spilltech.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
+41.23.113.130,4,24777167,DNS Server: vc-41-23-113-130.umts.vodacom.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
+41.23.113.210,4,72626847,DNS Server: vc-41-23-113-210.umts.vodacom.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
+41.23.114.29,4,35926495,DNS Server: vc-41-23-114-29.umts.vodacom.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
+41.23.114.42,4,27446547,DNS Server: vc-41-23-114-42.umts.vodacom.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
+41.23.114.62,4,70985619,DNS Server: vc-41-23-114-62.umts.vodacom.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
+41.23.115.51,4,43812854,DNS Server: vc-41-23-115-51.umts.vodacom.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
+105.243.201.46,4,1244,DNS Server: vc-gp-n-105-243-201-46.umts.vodacom.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
+105.243.206.41,4,593,DNS Server: vc-gp-n-105-243-206-41.umts.vodacom.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
+41.48.22.52,4,-4,Ookla Speedtest Server 6155: speedtest-dbn.cellc.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
+102.210.8.22,4,-1,Ookla Speedtest Server 16364: speedtest.cosmiqbroadband.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
+154.119.184.98,4,14,Ookla Speedtest Server 18420: speedtest-dbn-01.ecn.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
+41.78.244.222,4,6,Ookla Speedtest Server 48683: ookla.tech5.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
+102.176.238.82,4,10,Ookla Speedtest Server 54233: speed.edgeconnect.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
+196.250.193.242,4,-13,Ookla Speedtest Server 57315: ooklacpt.tech5.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
+102.210.53.10,4,8,Ookla Speedtest Server 62477: speedtest.neurotel.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
+102.220.179.1,4,6,Ookla Speedtest Server 63228: speedtest1.nl.vuma.net.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
+102.33.143.58,4,-61,Ookla Speedtest Server 71423: kzn-speedtest.metrofibre.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
+160.119.193.138,4,333,wessa.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban
 160.119.193.127,4,153,wessa.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,KwaZulu-Natal,,Durban

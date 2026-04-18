@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-188.214.241.247,4,383,Ookla Speedtest Server 21394: st1alguazas.borecom.com,ES,Europe,Southern Europe,Spain,Murcia,Murcia,Ceuti
+188.214.241.247,4,-4,Ookla Speedtest Server 21394: st1alguazas.borecom.com,ES,Europe,Southern Europe,Spain,Murcia,Murcia,Ceuti
+188.214.241.246,4,-17,Ookla Speedtest Server 23187: stceuti1.borecom.com,ES,Europe,Southern Europe,Spain,Murcia,Murcia,Ceuti
+185.36.208.6,4,-21,Ookla Speedtest Server 72228: st-ookla.virtualiza.me,ES,Europe,Southern Europe,Spain,Murcia,Murcia,Ceuti

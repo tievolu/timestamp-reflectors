@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-45.168.32.28,4,-3,Ookla Speedtest Server: speedtest.speedynet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Nova Friburgo
+177.131.186.154,4,2,DNS Server: 177-131-186-154.static.sumicity.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Nova Friburgo
+191.240.254.238,4,12,DNS Server: ip-191.240.254-238-cable.frionline.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Nova Friburgo
+189.1.48.29,4,1,Ookla Speedtest Server 2064: sp1.gigalink.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Nova Friburgo
+177.54.112.87,4,-2,Ookla Speedtest Server 26836: speedtest.frionline.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Nova Friburgo

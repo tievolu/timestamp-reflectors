@@ -1,2 +1,9 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-72.44.21.239,4,28,DNS Server: globalnet.srv.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Suzano
+72.44.21.239,4,-3,DNS Server: globalnet.srv.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Suzano
+72.44.22.79,4,-3265,DNS Server: user-fixed.global-fibra.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Suzano
+186.232.104.20,4,14,Ookla Speedtest Server 32578: teste.dominiofibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Suzano
+45.234.195.253,4,29,Ookla Speedtest Server 37233: speedtest.cwmc.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Suzano
+179.125.19.18,4,2,Ookla Speedtest Server 39743: speedsuzano.wowfiber.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Suzano
+45.182.96.247,4,-4,Ookla Speedtest Server 40480: sp1.cwtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Suzano
+170.239.60.50,4,-27,Ookla Speedtest Server 47367: speed.amorimtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Suzano
+143.255.229.194,4,1,Ookla Speedtest Server 57449: speedtest.teknetsp.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Suzano

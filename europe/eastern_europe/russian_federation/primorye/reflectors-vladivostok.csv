@@ -1,10 +1,18 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-109.126.10.126,4,50,adm-ussuriisk.ru,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
-5.100.121.139,4,114,DNS Server: 5-100-121-139.ipoe.vladlink.net,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
-5.143.70.1,4,-10799700,DNS Server: 5-143-70-1.dynamic.primorye.net.ru,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
-82.162.58.35,4,40,DNS Server: 58-035.xdsl.primorye.ru,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
-82.162.60.241,4,42,DNS Server: 60-241.xdsl.primorye.ru,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
-82.162.60.247,4,54,DNS Server: 60-247.xdsl.primorye.ru,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
-82.162.63.73,4,94,DNS Server: 63-073.xdsl.primorye.ru,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
-193.143.92.109,4,-165,primorsky.ru,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
+77.34.10.51,4,44034,a-s-p.org,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
+5.100.121.139,4,-3,DNS Server: 5-100-121-139.ipoe.vladlink.net,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
+5.143.34.195,4,-159811424,DNS Server: 5-143-34-195.dynamic.primorye.net.ru,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
+5.143.45.58,4,23,DNS Server: 5-143-45-58.dynamic.primorye.net.ru,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
+5.143.47.126,4,46799879,DNS Server: 5-143-47-126.dynamic.primorye.net.ru,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
+5.143.47.50,4,-831549456,DNS Server: 5-143-47-50.dynamic.primorye.net.ru,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
+5.143.70.1,4,-739687375,DNS Server: 5-143-70-1.dynamic.primorye.net.ru,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
+82.162.57.239,4,10,DNS Server: 57-239.xdsl.primorye.ru,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
+82.162.58.35,4,25,DNS Server: 58-035.xdsl.primorye.ru,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
+82.162.60.241,4,27,DNS Server: 60-241.xdsl.primorye.ru,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
+82.162.60.247,4,30,DNS Server: 60-247.xdsl.primorye.ru,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
+82.162.63.73,4,46,DNS Server: 63-073.xdsl.primorye.ru,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
+95.154.106.156,4,41491,DNS Server: mail.horecaprof.ru,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
+109.126.15.86,4,-19,DNS Server: mail2.48chasov.com,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
+194.67.48.41,4,-14,Ookla Speedtest Server 5948: speedtest.vladivostok.gldn.net,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
+193.143.92.109,4,10,primorsky.ru,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok
 45.92.175.253,4,-11,tokyo-bar.ru,RU,Europe,Eastern Europe,Russian Federation,Primorye,,Vladivostok

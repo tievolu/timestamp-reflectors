@@ -1,7 +1,14 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-95.52.152.59,4,943,DNS Server: 95-52-152-59.dynamic.komi.dslavangard.ru,RU,Europe,Eastern Europe,Russian Federation,Komi,,Ukhta
-95.52.240.151,4,464,DNS Server: pppoe.95-52-240-151.dynamic.komi.dslavangard.ru,RU,Europe,Eastern Europe,Russian Federation,Komi,,Syktyvkar
-95.52.240.203,4,27940,DNS Server: pppoe.95-52-240-203.dynamic.komi.dslavangard.ru,RU,Europe,Eastern Europe,Russian Federation,Komi,,Syktyvkar
-95.52.244.132,4,33709,DNS Server: pppoe.95-52-244-132.dynamic.komi.dslavangard.ru,RU,Europe,Eastern Europe,Russian Federation,Komi,,Syktyvkar
-95.52.244.204,4,1929,DNS Server: pppoe.95-52-244-204.dynamic.komi.dslavangard.ru,RU,Europe,Eastern Europe,Russian Federation,Komi,,Syktyvkar
-95.52.245.254,4,27718,DNS Server: pppoe.95-52-245-254.dynamic.komi.dslavangard.ru,RU,Europe,Eastern Europe,Russian Federation,Komi,,Syktyvkar
+89.110.33.114,4,17,DNS Server: 89-110-33-114.static.avangarddsl.ru,RU,Europe,Eastern Europe,Russian Federation,Komi,,Syktyvkar
+89.110.34.69,4,-29,DNS Server: 89-110-34-69.static.avangarddsl.ru,RU,Europe,Eastern Europe,Russian Federation,Komi,,Syktyvkar
+89.110.36.254,4,-16,DNS Server: 89-110-36-254.static.avangarddsl.ru,RU,Europe,Eastern Europe,Russian Federation,Komi,,Syktyvkar
+89.110.38.41,4,-21,DNS Server: 89-110-38-41.static.avangarddsl.ru,RU,Europe,Eastern Europe,Russian Federation,Komi,,Syktyvkar
+89.110.41.242,4,903078,DNS Server: 89-110-41-242.static.avangarddsl.ru,RU,Europe,Eastern Europe,Russian Federation,Komi,,Syktyvkar
+89.110.42.173,4,-31,DNS Server: 89-110-42-173.static.avangarddsl.ru,RU,Europe,Eastern Europe,Russian Federation,Komi,,Syktyvkar
+89.110.45.13,4,-16,DNS Server: ppp89-110-45-13.pppoe.avangarddsl.ru,RU,Europe,Eastern Europe,Russian Federation,Komi,,Syktyvkar
+89.110.46.6,4,316154,DNS Server: ppp89-110-46-6.pppoe.avangarddsl.ru,RU,Europe,Eastern Europe,Russian Federation,Komi,,Syktyvkar
+89.110.49.17,4,-15,DNS Server: ppp89-110-49-17.pppoe.avangarddsl.ru,RU,Europe,Eastern Europe,Russian Federation,Komi,,Syktyvkar
+89.110.54.68,4,-16,DNS Server: ppp89-110-54-68.pppoe.avangarddsl.ru,RU,Europe,Eastern Europe,Russian Federation,Komi,,Syktyvkar
+89.110.55.29,4,-11,DNS Server: ppp89-110-55-29.pppoe.avangarddsl.ru,RU,Europe,Eastern Europe,Russian Federation,Komi,,Syktyvkar
+89.110.60.6,4,-22,DNS Server: ppp89-110-60-6.pppoe.avangarddsl.ru,RU,Europe,Eastern Europe,Russian Federation,Komi,,Syktyvkar
+89.110.61.112,4,13635,DNS Server: ppp89-110-61-112.pppoe.avangarddsl.ru,RU,Europe,Eastern Europe,Russian Federation,Komi,,Syktyvkar

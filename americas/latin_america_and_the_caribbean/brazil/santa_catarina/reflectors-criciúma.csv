@@ -1,3 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-191.240.172.91,4,161,DNS Server: 191-240-172-91.clonix.srv.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Criciúma
-179.127.80.235,4,1162,unibave.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Criciúma
+191.240.172.91,4,2003,DNS Server: 191-240-172-91.clonix.srv.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Criciúma
+131.0.32.71,4,14,Ookla Speedtest Server 20795: speedtest.qnetfacil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Criciúma
+189.28.176.130,4,-9,Ookla Speedtest Server 30009: speedtest.engeplus.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Criciúma
+177.66.128.42,4,0,Ookla Speedtest Server 49677: teste.clonix.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Criciúma
+179.127.80.235,4,618,unibave.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Criciúma

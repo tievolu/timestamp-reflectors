@@ -1,8 +1,11 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-122.54.233.253,4,-28788479,DNS Server: 122.54.233.253.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Angeles City
-122.55.34.214,4,-4231579153,DNS Server: 122.55.34.214.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Mabalacat
-161.49.220.153,4,51,DNS Server: 161.49.220.153.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Clark
-161.49.222.98,4,6028,DNS Server: 161.49.222.98.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,San Fernando City
-161.49.215.57,4,53,DNS Server: 57.215.49.161-rev.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Clark
-131.226.94.161,4,371,Ookla Speedtest Server 64912: speedtestco51s2.dito.ph,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Angeles City
-122.55.48.155,4,9,sti.edu,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Mabalacat
+122.3.190.173,4,226,DNS Server: 122.3.190.173.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Porac
+161.49.220.153,4,-6,DNS Server: 161.49.220.153.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Clark
+58.69.78.37,4,691,DNS Server: 58.69.78.37.pldt.net,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Angeles City
+202.69.188.50,4,2788,Ookla Speedtest Server 11577: clk-srv04.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Clark
+103.149.100.12,4,12,Ookla Speedtest Server 35396: speedtest.cmdcable.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Cauayan
+202.69.188.82,4,-5,Ookla Speedtest Server 35473: clk-spdtst-srv.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Clark
+202.69.188.86,4,9,Ookla Speedtest Server 35820: ucp-spdtst-srv.convergeict.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Clark
+131.226.94.161,4,17,Ookla Speedtest Server 64912: speedtestco51s2.dito.ph,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Angeles City
+138.252.69.254,4,26,Ookla Speedtest Server 67579: speedtest.cabstechnetwork.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,Guagua
+138.252.226.10,4,-11,Ookla Speedtest Server 74488: speedtest.robcomph.com,PH,Asia,South-eastern Asia,Philippines,Central Luzon,Province of Pampanga,San Fernando City

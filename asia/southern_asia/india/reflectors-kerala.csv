@@ -1,26 +1,34 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-117.239.163.130,4,-22,aiimsjodhpur.edu.in,IN,Asia,Southern Asia,India,Kerala,,Kochi
-116.68.126.100,4,-4,DNS Server: 100.126.68.116.asianet.co.in,IN,Asia,Southern Asia,India,Kerala,,Kochi
-202.164.153.108,4,1105,DNS Server: 108.153.164.202.asianet.co.in,IN,Asia,Southern Asia,India,Kerala,,Kochi
-111.92.85.233,4,1270,DNS Server: 233.85.92.111.asianet.co.in,IN,Asia,Southern Asia,India,Kerala,,Kochi
-202.164.140.31,4,-23395625,DNS Server: 31.140.164.202.asianet.co.in,IN,Asia,Southern Asia,India,Kerala,,Kochi
-111.92.105.39,4,562,DNS Server: 39.105.92.111.asianet.co.in,IN,Asia,Southern Asia,India,Kerala,,Kochi
-111.92.96.51,4,-43828600,DNS Server: 51.96.92.111.asianet.co.in,IN,Asia,Southern Asia,India,Kerala,,Kochi
-111.92.100.55,4,-23404074,DNS Server: 55.100.92.111.asianet.co.in,IN,Asia,Southern Asia,India,Kerala,,Kochi
-111.92.96.66,4,-1987,DNS Server: 66.96.92.111.asianet.co.in,IN,Asia,Southern Asia,India,Kerala,,Kochi
-111.92.63.75,4,1140,DNS Server: 75.63.92.111.asianet.co.in,IN,Asia,Southern Asia,India,Kerala,,Thiruvananthapuram
-202.164.153.87,4,760,DNS Server: 87.153.164.202.asianet.co.in,IN,Asia,Southern Asia,India,Kerala,,Kochi
-138.128.180.58,4,-3476,eastern.in,IN,Asia,Southern Asia,India,Kerala,,Thiruvananthapuram
-117.250.240.131,4,7,iiitkottayam.ac.in,IN,Asia,Southern Asia,India,Kerala,,Thrissur
-14.139.174.52,4,-39,iitpkd.ac.in,IN,Asia,Southern Asia,India,Kerala,,Palakkad
-117.239.177.100,4,-48,nihfw.ac.in,IN,Asia,Southern Asia,India,Kerala,,Kochi
-103.140.17.243,4,313,Ookla Speedtest Server 34198: speedtest.keralavisionbroadband.com,IN,Asia,Southern Asia,India,Kerala,,Thrissur
-103.134.134.21,4,313,Ookla Speedtest Server 45923: speedtest1.shinebroadband.com,IN,Asia,Southern Asia,India,Kerala,,Thiruvananthapuram
-103.175.2.231,4,204,Ookla Speedtest Server 54647: speedtestknr.keralavisionisp.com,IN,Asia,Southern Asia,India,Kerala,,Kannur
-113.192.4.10,4,306,Ookla Speedtest Server 62010: speedtest.weonebroadband.com,IN,Asia,Southern Asia,India,Kerala,,Kochi
-117.250.238.209,4,297,Ookla Speedtest Server: bsnlooklaekm.mywire.org,IN,Asia,Southern Asia,India,Kerala,,Kochi
-103.179.21.3,4,135,Ookla Speedtest Server: ookla1.hightechbroadband.net,IN,Asia,Southern Asia,India,Kerala,,Thrissur
-103.177.182.18,4,67,Ookla Speedtest Server: speedtest.rigindiaconnect.com,IN,Asia,Southern Asia,India,Kerala,,Kozhikode
-103.94.136.38,4,260,Ookla Speedtest Server: speedtestcokkl.alliancebroadband.in,IN,Asia,Southern Asia,India,Kerala,,Malappuram
-103.157.167.3,4,-3,Ookla Speedtest Server: st-ekm.extranet.co.in,IN,Asia,Southern Asia,India,Kerala,,Kollam
-138.128.180.234,4,-150,ycmou.ac.in,IN,Asia,Southern Asia,India,Kerala,,Thiruvananthapuram
+117.239.163.130,4,3,aiimsjodhpur.edu.in,IN,Asia,Southern Asia,India,Kerala,,Kochi
+116.68.126.100,4,745,DNS Server: 100.126.68.116.asianet.co.in,IN,Asia,Southern Asia,India,Kerala,,Kozhikode
+202.164.153.108,4,580,DNS Server: 108.153.164.202.asianet.co.in,IN,Asia,Southern Asia,India,Kerala,,Athani
+111.92.106.148,4,1479,DNS Server: 148.106.92.111.asianet.co.in,IN,Asia,Southern Asia,India,Kerala,,Kochi
+202.164.140.203,4,62999323,DNS Server: 203.140.164.202.asianet.co.in,IN,Asia,Southern Asia,India,Kerala,,Thrissur
+202.164.140.23,4,1365,DNS Server: 23.140.164.202.asianet.co.in,IN,Asia,Southern Asia,India,Kerala,,Thrissur
+111.92.85.233,4,1000,DNS Server: 233.85.92.111.asianet.co.in,IN,Asia,Southern Asia,India,Kerala,,Kochi
+111.92.96.51,4,475,DNS Server: 51.96.92.111.asianet.co.in,IN,Asia,Southern Asia,India,Kerala,,Kochi
+111.92.100.55,4,693,DNS Server: 55.100.92.111.asianet.co.in,IN,Asia,Southern Asia,India,Kerala,,Kochi
+111.92.63.57,4,1242,DNS Server: 57.63.92.111.asianet.co.in,IN,Asia,Southern Asia,India,Kerala,,Thiruvananthapuram
+202.164.153.87,4,760,DNS Server: 87.153.164.202.asianet.co.in,IN,Asia,Southern Asia,India,Kerala,,Athani
+103.146.174.153,4,16,DNS Server: keralavisionisp-dynamic-153.174.146.103.keralavisionisp.com,IN,Asia,Southern Asia,India,Kerala,,Thrissur
+117.239.39.50,4,-50,mphc.gov.in,IN,Asia,Southern Asia,India,Kerala,,
+117.239.23.234,4,-17,nmlindia.org,IN,Asia,Southern Asia,India,Kerala,,
+202.88.232.222,4,300436,Ookla Speedtest Server 4352: speedtest.asianetbroadband.in,IN,Asia,Southern Asia,India,Kerala,,Puthenthope
+103.72.176.6,4,-22,Ookla Speedtest Server 9022: speedtest.kingsbroadband.net,IN,Asia,Southern Asia,India,Kerala,,Pallipuram
+103.78.221.10,4,-66,Ookla Speedtest Server 11053: speedtest1.fiberzone.in,IN,Asia,Southern Asia,India,Kerala,,Kozhikode
+103.94.136.50,4,-13,Ookla Speedtest Server 14922: speedtestcokkl.alliancebroadband.in,IN,Asia,Southern Asia,India,Kerala,,Kochi
+103.99.206.41,4,-1,Ookla Speedtest Server 17289: speedtest-tsr.keralavisionisp.com,IN,Asia,Southern Asia,India,Kerala,,Thrissur
+112.79.47.25,4,40,Ookla Speedtest Server 24682: ooklatestcochin.live.vodafone.in,IN,Asia,Southern Asia,India,Kerala,,Kochi
+103.140.17.243,4,8,Ookla Speedtest Server 34198: speedtest.keralavisionbroadband.com,IN,Asia,Southern Asia,India,Kerala,,Thrissur
+103.179.21.3,4,-29,Ookla Speedtest Server 47616: ookla1.hightechbroadband.net,IN,Asia,Southern Asia,India,Kerala,,Thrissur
+103.175.2.231,4,-53,Ookla Speedtest Server 54647: speedtestknr.keralavisionisp.com,IN,Asia,Southern Asia,India,Kerala,,Kannur
+117.250.238.209,4,26,Ookla Speedtest Server 61707: bsnlooklaekm.mywire.org,IN,Asia,Southern Asia,India,Kerala,,Kochi
+113.192.4.10,4,9,Ookla Speedtest Server 62010: speedtest.weonebroadband.com,IN,Asia,Southern Asia,India,Kerala,,Kochi
+103.160.195.234,4,-65,Ookla Speedtest Server 62235: speedtestekm1.keralavisionisp.com,IN,Asia,Southern Asia,India,Kerala,,Thrissur
+103.153.93.231,4,-14,Ookla Speedtest Server 62260: speedtest-tvm.keralavisionisp.com,IN,Asia,Southern Asia,India,Kerala,,Thrissur
+103.176.129.6,4,25,Ookla Speedtest Server 63523: st-tvm.extranet.co.in,IN,Asia,Southern Asia,India,Kerala,,Kochi
+49.45.64.246,4,409081,Ookla Speedtest Server 71049: tvdmooklaspeed1.jioconnect.com,IN,Asia,Southern Asia,India,Kerala,,Thiruvananthapuram
+103.214.235.242,4,-29,Ookla Speedtest Server 71524: speedtest1.peakair.in,IN,Asia,Southern Asia,India,Kerala,,Kochi
+14.142.20.36,4,30,Ookla Speedtest Server 73040: ookla.ek.as6453.net,IN,Asia,Southern Asia,India,Kerala,,Kochi
+117.239.182.80,4,-223807,ptu.ac.in,IN,Asia,Southern Asia,India,Kerala,,Kochi
+138.128.180.202,4,-14,ycmou.ac.in,IN,Asia,Southern Asia,India,Kerala,,Thiruvananthapuram

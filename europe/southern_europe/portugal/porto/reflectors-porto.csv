@@ -1,10 +1,25 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-194.65.138.21,4,12,alticelabs.com,PT,Europe,Southern Europe,Portugal,Porto,,Porto
-94.60.88.252,4,202,DNS Server: 252.88.60.94.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
-88.157.145.54,4,50,DNS Server: a88-157-145-54.static.cpe.netcabo.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
-194.65.141.201,4,53,gesadco.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
-193.136.58.74,4,36,ipp.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
-80.172.227.16,4,591,lighthouse3d.com,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+193.136.6.31,4,-4,a3es.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+83.240.239.145,4,1,aima.gov.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+213.205.79.38,4,3210,cdnacional.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+213.205.79.73,4,34,clix.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+213.205.80.82,4,29232485,DNS Server: 213-205-80-82.net.novis.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+94.60.88.252,4,108,DNS Server: 252.88.60.94.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+88.210.125.204,4,38348580,DNS Server: 88-210-125-204.net.static.novis.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+89.181.32.114,4,-2277801637,DNS Server: 89-181-32-114.net.novis.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+83.144.165.56,4,282,DNS Server: a83-144-165-56.cpe.netcabo.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+88.157.98.214,4,20703,DNS Server: a88-157-98-214.static.cpe.netcabo.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+95.95.60.205,4,-3,DNS Server: a95-95-60-205.cpe.netcabo.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+62.28.65.186,4,-2135225238,DNS Server: static-wan-bl3-65-186.rev.webside.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+193.136.58.74,4,-6,ipp.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+193.136.59.15,4,15490,iscap.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+193.136.59.7,4,-424164,iscap.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+188.93.230.81,4,9955,nation2.com,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+213.58.158.2,4,5,Ookla Speedtest Server 48096: speedtest.oni.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+213.30.114.148,4,2,Ookla Speedtest Server: speedtest-po.vodafone.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
 185.101.179.130,4,-4,portodigital.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+83.240.239.180,4,102,radiopopular.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+213.205.79.2,4,2703,sooma.com,PT,Europe,Southern Europe,Portugal,Porto,,Porto
+213.205.79.25,4,2696,spautores.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
 62.28.133.32,4,1295,supertrade.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto
 213.205.79.58,4,5,terranova.pt,PT,Europe,Southern Europe,Portugal,Porto,,Porto

@@ -1,5 +1,8 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-46.140.74.229,4,246,DNS Server: 46-140-74-229.static.cablecom.ch,CH,Europe,Western Europe,Switzerland,Aargau,,Aarau
-146.4.122.54,4,15,DNS Server: 54.122.4.146.static.wline.lns.sme.cust.swisscom.ch,CH,Europe,Western Europe,Switzerland,Aargau,,Turgi
-91.138.19.80,4,4067,DNS Server: 80-19-138-91.dyn.cable.fcom.ch,CH,Europe,Western Europe,Switzerland,Aargau,,Erlinsbach AG
-151.248.133.37,4,32642,DNS Server: pub151248133037.dh-hfc.datazug.ch,CH,Europe,Western Europe,Switzerland,Aargau,,Reitnau
+213.200.211.110,4,11,DNS Server: 110.211.200.213.static.wline.lns.sme.cust.swisscom.ch,CH,Europe,Western Europe,Switzerland,Aargau,,Neuenhof
+81.63.169.142,4,-318,DNS Server: 142.169.63.81.static.wline.lns.sme.cust.swisscom.ch,CH,Europe,Western Europe,Switzerland,Aargau,,Spreitenbach
+213.180.182.246,4,-3836336635,DNS Server: 246.182.180.213.static.wline.lns.sme.cust.swisscom.ch,CH,Europe,Western Europe,Switzerland,Aargau,,Menziken
+81.62.142.41,4,-3,DNS Server: 41.142.62.81.static.wline.lns.sme.cust.swisscom.ch,CH,Europe,Western Europe,Switzerland,Aargau,,Reinach
+213.200.218.61,4,-29,DNS Server: 61.218.200.213.static.wline.lns.sme.cust.swisscom.ch,CH,Europe,Western Europe,Switzerland,Aargau,,Neuenhof
+151.248.133.37,4,187429,DNS Server: pub151248133037.dh-hfc.datazug.ch,CH,Europe,Western Europe,Switzerland,Aargau,,Schöftland
+129.132.74.24,4,12,symlink.ch,CH,Europe,Western Europe,Switzerland,Aargau,,Waltenschwil

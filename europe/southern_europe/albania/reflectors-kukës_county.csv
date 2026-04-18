@@ -1,2 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-193.38.33.11,4,220,Ookla Speedtest Server 52832: speedtest.speedline.al,AL,Europe,Southern Europe,Albania,Kukës County,,Kukës
+185.196.181.5,4,-2,Ookla Speedtest Server 38677: speedtest.shqiponjaisp.al,AL,Europe,Southern Europe,Albania,Kukës County,,Krumë
+185.23.110.29,4,-4,Ookla Speedtest Server 41171: speed.ih-net.al,AL,Europe,Southern Europe,Albania,Kukës County,,Bajram Curri
+193.38.33.11,4,-11,Ookla Speedtest Server 52832: speedtest.speedline.al,AL,Europe,Southern Europe,Albania,Kukës County,,Kukës
+185.196.181.6,4,0,Ookla Speedtest Server 68369: speedtestkukes.shqiponjaisp.al,AL,Europe,Southern Europe,Albania,Kukës County,,Krumë

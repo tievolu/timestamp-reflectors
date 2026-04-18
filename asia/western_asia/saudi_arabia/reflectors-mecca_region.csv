@@ -1,7 +1,13 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-87.109.44.122,4,198250,Ookla Speedtest Server 16051: dam-speedtest.saudi.net.sa,SA,Asia,Western Asia,Saudi Arabia,Mecca Region,,Ta'if
-87.109.45.14,4,-112289,Ookla Speedtest Server 24115: kharj-speedtest.saudi.net.sa,SA,Asia,Western Asia,Saudi Arabia,Mecca Region,,Ta'if
-86.51.29.190,4,421,Ookla Speedtest Server 26515: msr.myspeed.net.sa,SA,Asia,Western Asia,Saudi Arabia,Mecca Region,,Makkah
-87.109.44.102,4,231320,Ookla Speedtest Server 43126: addiriyah-speedtest.saudi.net.sa,SA,Asia,Western Asia,Saudi Arabia,Mecca Region,,Ta'if
-87.109.44.110,4,120655,Ookla Speedtest Server 43127: tuwaiq-speedtest.saudi.net.sa,SA,Asia,Western Asia,Saudi Arabia,Mecca Region,,Ta'if
-193.19.247.10,4,36231,Ookla Speedtest Server 56246: shaqra-speedtest.saudi.net.sa,SA,Asia,Western Asia,Saudi Arabia,Mecca Region,,Makkah
+86.51.80.252,4,-2,Ookla Speedtest Server 1733: jed.myspeed.net.sa,SA,Asia,Western Asia,Saudi Arabia,Mecca Region,,Jeddah
+94.77.249.26,4,28,Ookla Speedtest Server 17391: hispeedtest.go.com.sa,SA,Asia,Western Asia,Saudi Arabia,Mecca Region,,Jeddah
+193.19.247.2,4,5,Ookla Speedtest Server 24104: qassim-speedtest.saudi.net.sa,SA,Asia,Western Asia,Saudi Arabia,Mecca Region,,Makkah
+86.51.28.188,4,1,Ookla Speedtest Server 26100: taf.myspeed.net.sa,SA,Asia,Western Asia,Saudi Arabia,Mecca Region,,Ta'if
+86.51.29.188,4,-9,Ookla Speedtest Server 26107: mkh.myspeed.net.sa,SA,Asia,Western Asia,Saudi Arabia,Mecca Region,,Makkah
+86.51.29.190,4,-2,Ookla Speedtest Server 26515: msr.myspeed.net.sa,SA,Asia,Western Asia,Saudi Arabia,Mecca Region,,Makkah
+86.51.29.117,4,-25,Ookla Speedtest Server 30628: bhr.myspeed.net.sa,SA,Asia,Western Asia,Saudi Arabia,Mecca Region,,Baḩrah
+193.19.246.2,4,5,Ookla Speedtest Server 55209: obhur-speedtest.saudi.net.sa,SA,Asia,Western Asia,Saudi Arabia,Mecca Region,,Makkah
+193.19.246.6,4,11,Ookla Speedtest Server 55210: alhamraa-speedtest.saudi.net.sa,SA,Asia,Western Asia,Saudi Arabia,Mecca Region,,Makkah
+193.19.247.6,4,9,Ookla Speedtest Server 55212: an-nasim-speedtest.saudi.net.sa,SA,Asia,Western Asia,Saudi Arabia,Mecca Region,,Makkah
+193.19.246.10,4,9,Ookla Speedtest Server 56222: baqaa-speedtest.saudi.net.sa,SA,Asia,Western Asia,Saudi Arabia,Mecca Region,,Makkah
+193.19.247.10,4,21,Ookla Speedtest Server 56246: shaqra-speedtest.saudi.net.sa,SA,Asia,Western Asia,Saudi Arabia,Mecca Region,,Makkah

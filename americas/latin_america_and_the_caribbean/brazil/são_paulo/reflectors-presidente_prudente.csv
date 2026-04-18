@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-45.190.112.10,4,351,Ookla Speedtest Server 33816: ns1.ruralnetbrasil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Presidente Prudente
+143.208.125.20,4,5,Ookla Speedtest Server 15225: speedtest.fleetnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Presidente Prudente
+45.190.112.10,4,-10,Ookla Speedtest Server 33816: ns1.ruralnetbrasil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Presidente Prudente
+181.189.72.73,4,5460866,Ookla Speedtest Server 52555: teste.oestenet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Presidente Prudente

@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-190.110.100.248,4,-5,utalca.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Talca
+200.23.140.3,4,-31,Ookla Speedtest Server 43879: speedtest.intercomchile.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Talca
+200.23.140.2,4,-1,Ookla Speedtest Server 43933: speedtest.cotimax.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Talca
+190.102.227.23,4,-5,Ookla Speedtest Server 71022: speedtest-sctl.mundopacifico.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Talca

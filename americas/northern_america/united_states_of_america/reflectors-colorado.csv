@@ -1,71 +1,109 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-70.39.96.180,4,5,3dmodelfree.com,US,Americas,Northern America,United States of America,Colorado,,Broomfield
-216.189.0.6,4,20,barrowdowns.com,US,Americas,Northern America,United States of America,Colorado,,Delta
-72.18.132.28,4,19,blue-anvil.com,US,Americas,Northern America,United States of America,Colorado,,Denver
-216.24.136.77,4,6,borderlinepersonalitydisorder.com,US,Americas,Northern America,United States of America,Colorado,,Aurora
-94.26.84.85,4,4,bpi.org,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
-72.18.132.130,4,34,buddhanet.info,US,Americas,Northern America,United States of America,Colorado,,Denver
+216.120.200.253,4,6,adti.net,US,Americas,Northern America,United States of America,Colorado,,Denver
+209.51.180.245,4,8741,aktivix.org,US,Americas,Northern America,United States of America,Colorado,,Denver
+206.82.203.46,4,24,balboa-island.com,US,Americas,Northern America,United States of America,Colorado,,Thornton
+216.189.0.6,4,1,barrowdowns.com,US,Americas,Northern America,United States of America,Colorado,,Delta
+72.18.130.250,4,260,bf1.my,US,Americas,Northern America,United States of America,Colorado,,Denver
+72.18.132.28,4,2,blue-anvil.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+94.26.84.85,4,-2,bpi.org,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
+72.18.132.130,4,7,buddhanet.info,US,Americas,Northern America,United States of America,Colorado,,Denver
 72.18.132.129,4,35,buddhanet.net,US,Americas,Northern America,United States of America,Colorado,,Denver
-72.18.132.172,4,336,businessbazaar.biz,US,Americas,Northern America,United States of America,Colorado,,Denver
-164.47.20.207,4,6,ccconline.org,US,Americas,Northern America,United States of America,Colorado,,Denver
-192.30.132.105,4,6,cdaonline.org,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
-72.18.142.84,4,631,cip.gov.ag,US,Americas,Northern America,United States of America,Colorado,,Denver
+72.18.132.172,4,159,businessbazaar.biz,US,Americas,Northern America,United States of America,Colorado,,Denver
+192.30.132.105,4,-2,cdaonline.org,US,Americas,Northern America,United States of America,Colorado,,Aurora
 198.255.104.126,4,6,classiccardb.com,US,Americas,Northern America,United States of America,Colorado,,Denver
-75.148.123.25,4,4536,critters.org,US,Americas,Northern America,United States of America,Colorado,,Denver
-209.236.86.147,4,23,delorted.com,US,Americas,Northern America,United States of America,Colorado,,Grand Junction
-65.141.85.101,4,66,diocs.org,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
-74.81.169.142,4,22,DNS Server: 142.169.81.74.static.maverixbroadband.com,US,Americas,Northern America,United States of America,Colorado,,Parker
-75.166.60.175,4,11,DNS Server: 75-166-60-175.hlrn.qwest.net,US,Americas,Northern America,United States of America,Colorado,,Denver
-96.69.146.137,4,3961,DNS Server: 96-69-146-137-static.hfc.comcastbusiness.net,US,Americas,Northern America,United States of America,Colorado,,Aspen
-97.118.241.59,4,8,DNS Server: 97-118-241-59.hlrn.qwest.net,US,Americas,Northern America,United States of America,Colorado,,Denver
-24.128.89.179,4,6,DNS Server: c-24-128-89-179.hsd1.co.comcast.net,US,Americas,Northern America,United States of America,Colorado,,Fort Collins
-24.9.28.236,4,5,DNS Server: c-24-9-28-236.hsd1.co.comcast.net,US,Americas,Northern America,United States of America,Colorado,,Aurora
-71.229.135.48,4,53305,DNS Server: c-71-229-135-48.hsd1.co.comcast.net,US,Americas,Northern America,United States of America,Colorado,,Littleton
-73.95.25.237,4,8,DNS Server: c-73-95-25-237.hsd1.co.comcast.net,US,Americas,Northern America,United States of America,Colorado,,Greeley
-76.25.20.76,4,5,DNS Server: c-76-25-20-76.hsd1.co.comcast.net,US,Americas,Northern America,United States of America,Colorado,,Louisville
-64.111.16.3,4,180,DNS Server: neith.data102.com,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
+75.148.123.25,4,43,critters.org,US,Americas,Northern America,United States of America,Colorado,,Denver
+192.30.131.114,4,-9,cspm.org,US,Americas,Northern America,United States of America,Colorado,,Aurora
+72.174.172.61,4,3186,DNS Server: 072-174-172-061.res.spectrum.com,US,Americas,Northern America,United States of America,Colorado,,Cañon City
+74.81.169.142,4,-4431,DNS Server: 142.169.81.74.static.maverixbroadband.com,US,Americas,Northern America,United States of America,Colorado,,Parker
+162.142.63.110,4,264321,DNS Server: 162-142-63-110.lovelandpulse.com,US,Americas,Northern America,United States of America,Colorado,,Loveland
+184.167.230.111,4,27,DNS Server: 184-167-230-111.res.spectrum.com,US,Americas,Northern America,United States of America,Colorado,,Grand Junction
+50.225.201.65,4,5184494,DNS Server: 50-225-201-65-static.hfc.comcastbusiness.net,US,Americas,Northern America,United States of America,Colorado,,Littleton
+63.151.67.7,4,-4,DNS Server: 63-151-67-7.zirkelwireless.com,US,Americas,Northern America,United States of America,Colorado,,Steamboat Springs
+71.211.227.165,4,-2,DNS Server: 71-211-227-165.hlrn.qwest.net,US,Americas,Northern America,United States of America,Colorado,,Denver
+74.95.115.82,4,-19,DNS Server: 74-95-115-82-Colorado.hfc.comcastbusiness.net,US,Americas,Northern America,United States of America,Colorado,,Denver
+75.166.60.175,4,-3,DNS Server: 75-166-60-175.hlrn.qwest.net,US,Americas,Northern America,United States of America,Colorado,,Denver
+96.69.146.137,4,11711,DNS Server: 96-69-146-137-static.hfc.comcastbusiness.net,US,Americas,Northern America,United States of America,Colorado,,Denver
+97.118.184.69,4,-3,DNS Server: 97-118-184-69.hlrn.qwest.net,US,Americas,Northern America,United States of America,Colorado,,Denver
+97.118.241.59,4,-3,DNS Server: 97-118-241-59.hlrn.qwest.net,US,Americas,Northern America,United States of America,Colorado,,Denver
+97.122.249.58,4,-3,DNS Server: 97-122-249-58.hlrn.qwest.net,US,Americas,Northern America,United States of America,Colorado,,Thornton
+73.14.100.92,4,25242625,DNS Server: c-73-14-100-92.hsd1.co.comcast.net,US,Americas,Northern America,United States of America,Colorado,,Arvada
+76.25.20.76,4,-2,DNS Server: c-76-25-20-76.hsd1.co.comcast.net,US,Americas,Northern America,United States of America,Colorado,,Louisville
+64.111.16.3,4,-1,DNS Server: neith.data102.com,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
+216.229.32.165,4,0,DNS Server: rns2.pcisys.net,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
+4.34.37.186,4,-4,DNS Server: TELLERWIFI.ear1.Denver1.Level3.net,US,Americas,Northern America,United States of America,Colorado,,Denver
+66.198.193.78,4,3681668,DNS Server: vail-66-198-193-78.colorado.net,US,Americas,Northern America,United States of America,Colorado,,Kremmling
+216.120.201.105,4,-6,DoH server: den01.dnscry.pt,US,Americas,Northern America,United States of America,Colorado,,Denver
 174.128.235.250,4,6,eq2wire.com,US,Americas,Northern America,United States of America,Colorado,,Denver
-70.39.96.179,4,2,fordesigner.com,US,Americas,Northern America,United States of America,Colorado,,Broomfield
-97.122.169.52,4,6,futureboy.us,US,Americas,Northern America,United States of America,Colorado,,Littleton
-64.78.148.242,4,12,gordonlightfoot.com,US,Americas,Northern America,United States of America,Colorado,,Littleton
-63.236.4.75,4,70,gotprint.com,US,Americas,Northern America,United States of America,Colorado,,
-94.26.84.166,4,3,graphics-muse.org,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
-192.30.132.98,4,5,h3paint.com,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
-192.30.135.98,4,653,hydrateivbar.com,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
+198.59.47.203,4,1149,fcgov.com,US,Americas,Northern America,United States of America,Colorado,,Fort Collins
+70.57.43.188,4,14,futureboy.us,US,Americas,Northern America,United States of America,Colorado,,Aurora
+192.30.132.98,4,18,goodwillcolorado.org,US,Americas,Northern America,United States of America,Colorado,,Aurora
+64.78.148.242,4,-4,gordonlightfoot.com,US,Americas,Northern America,United States of America,Colorado,,Castle Rock
+94.26.84.166,4,-2,graphics-muse.org,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
+206.82.203.43,4,-5,gufpinc.com,US,Americas,Northern America,United States of America,Colorado,,Thornton
+192.30.135.98,4,342,hamtv.tv,US,Americas,Northern America,United States of America,Colorado,,Aurora
+216.120.200.102,4,-1,havells-sylvania.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+204.144.181.195,4,-3,hyperhistory.com,US,Americas,Northern America,United States of America,Colorado,,Sedalia
 206.124.19.137,4,3,hypermall.com,US,Americas,Northern America,United States of America,Colorado,,Leadville
-72.18.158.242,4,670,inplainsite.org,US,Americas,Northern America,United States of America,Colorado,,Denver
+72.18.158.242,4,732,inplainsite.org,US,Americas,Northern America,United States of America,Colorado,,Denver
 72.18.132.151,4,4,iwraw-ap.org,US,Americas,Northern America,United States of America,Colorado,,Denver
-192.199.243.34,4,17,karachishipyard.com.pk,US,Americas,Northern America,United States of America,Colorado,,Westminster
-50.214.28.50,4,-42681273,kitsunet.net,US,Americas,Northern America,United States of America,Colorado,,Denver
-66.162.107.170,4,78,krcc.org,US,Americas,Northern America,United States of America,Colorado,,Centennial
-173.164.49.81,4,3,mchome.net,US,Americas,Northern America,United States of America,Colorado,,Denver
-139.64.165.210,4,10,melaninbook.com,US,Americas,Northern America,United States of America,Colorado,,Denver
-50.194.155.74,4,2,mhsoftware.com,US,Americas,Northern America,United States of America,Colorado,,Aurora
-216.24.136.61,4,0,michaelericdyson.com,US,Americas,Northern America,United States of America,Colorado,,Aurora
+50.214.28.50,4,55,kitsunet.net,US,Americas,Northern America,United States of America,Colorado,,Denver
+66.162.107.170,4,-16,krcc.org,US,Americas,Northern America,United States of America,Colorado,,Denver
+192.30.129.194,4,454,learningrx.com,US,Americas,Northern America,United States of America,Colorado,,Aurora
+72.18.130.165,4,1527,mekodenim.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+50.194.155.74,4,0,mhsoftware.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+209.51.180.229,4,6028,milharal.org,US,Americas,Northern America,United States of America,Colorado,,Denver
 216.120.200.151,4,4,mirusbio.com,US,Americas,Northern America,United States of America,Colorado,,Denver
-207.106.22.3,4,7,neosofttech.com,US,Americas,Northern America,United States of America,Colorado,,Boulder
-192.30.129.131,4,347,Ookla Speedtest Server 4457: speedtest.springshosting.net,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
-199.192.70.94,4,1458,Ookla Speedtest Server 6202: speedtest.cct-llc.net,US,Americas,Northern America,United States of America,Colorado,,Merino
-198.255.8.4,4,323,Ookla Speedtest Server 9912: lg-dene.fdcservers.net,US,Americas,Northern America,United States of America,Colorado,,Denver
-216.75.117.10,4,219,Ookla Speedtest Server 24079: den11-speedtest01.as15108.com,US,Americas,Northern America,United States of America,Colorado,,Denver
-23.142.240.50,4,278,Ookla Speedtest Server 52125: speedtest.lovelandpulse.com,US,Americas,Northern America,United States of America,Colorado,,Ault
-69.160.176.255,4,-15010,Ookla Speedtest Server 55925: denver-speedtest.commnetbroadband.com,US,Americas,Northern America,United States of America,Colorado,,Denver
-69.28.109.20,4,312,Ookla Speedtest Server 63940: den-speedtest.net.sangoma.net,US,Americas,Northern America,United States of America,Colorado,,Denver
-67.207.125.211,4,300,Ookla Speedtest Server 64798: dende0004speedtestserver01.wiline.com,US,Americas,Northern America,United States of America,Colorado,,Denver
-72.13.200.15,4,7,pcisys.net,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
-192.30.135.117,4,651,ppihc.org,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
+206.82.203.51,4,-12,newportbeachindy.com,US,Americas,Northern America,United States of America,Colorado,,Thornton
+23.237.207.34,4,-19,olevod.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+23.237.207.58,4,3,olevod.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+23.237.207.66,4,8,olevod.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+23.237.207.50,4,20,olevod.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+23.237.207.42,4,5,olevod.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+23.237.207.74,4,28,olevod.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+135.129.101.5,4,-1,Ookla Speedtest Server 3675: speedtest.fasttrackcomm.net,US,Americas,Northern America,United States of America,Colorado,,Durango
+192.30.129.131,4,-1,Ookla Speedtest Server 4457: speedtest.springshosting.net,US,Americas,Northern America,United States of America,Colorado,,Aurora
+199.192.70.94,4,0,Ookla Speedtest Server 6202: speedtest.cct-llc.net,US,Americas,Northern America,United States of America,Colorado,,Merino
+172.103.36.41,4,1,Ookla Speedtest Server 7178: speedtest1.clearnetworx.net,US,Americas,Northern America,United States of America,Colorado,,Delta
+209.206.64.178,4,-2,Ookla Speedtest Server 11393: speedtest1.elevatefiber.com,US,Americas,Northern America,United States of America,Colorado,,Montrose
+216.82.14.255,4,5,Ookla Speedtest Server 12394: speedtest.clspcoaa.metronetinc.com,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
+64.57.48.14,4,-4,Ookla Speedtest Server 14669: speedtest.gojade.org,US,Americas,Northern America,United States of America,Colorado,,Alamosa
+204.57.17.33,4,-2,Ookla Speedtest Server 15597: speedtest-co.bambroadband.com,US,Americas,Northern America,United States of America,Colorado,,Parker
+170.10.64.98,4,3,Ookla Speedtest Server 18369: speedtest2.elevatefiber.com,US,Americas,Northern America,United States of America,Colorado,,Delta
+216.229.32.117,4,-7,Ookla Speedtest Server 19608: speedtest.pcisys.net,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
+162.246.44.227,4,-1,Ookla Speedtest Server 20818: speedtest.versonetworks.net,US,Americas,Northern America,United States of America,Colorado,,Denver
+66.113.3.190,4,3,Ookla Speedtest Server 21108: speedtest.stratusiq.com,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
+137.83.94.30,4,18,Ookla Speedtest Server 23628: speedtest.dnvr.co.wtsky.net,US,Americas,Northern America,United States of America,Colorado,,Denver
+154.27.124.130,4,-7,Ookla Speedtest Server 23971: speedtest-server-den.starry.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+216.75.117.10,4,-3,Ookla Speedtest Server 24079: den11-speedtest01.as15108.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+161.199.88.103,4,-2,Ookla Speedtest Server 28600: speedtest.trailblazerbroadband.com,US,Americas,Northern America,United States of America,Colorado,,Estes Park
+172.103.36.119,4,-5,Ookla Speedtest Server 28970: speedtest2.clearnetworx.net,US,Americas,Northern America,United States of America,Colorado,,Delta
+199.188.116.11,4,-17,Ookla Speedtest Server 42403: speedtest.forcebb.net,US,Americas,Northern America,United States of America,Colorado,,Monument
+209.236.88.230,4,0,Ookla Speedtest Server 51010: stden.highlinefast.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+23.142.240.50,4,0,Ookla Speedtest Server 52125: speedtest.lovelandpulse.com,US,Americas,Northern America,United States of America,Colorado,,Dacono
+139.60.175.241,4,-2,Ookla Speedtest Server 53357: xb-speedtest.xbar7.com,US,Americas,Northern America,United States of America,Colorado,,Lyons
+69.160.176.255,4,53963,Ookla Speedtest Server 55925: denver-speedtest.commnetbroadband.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+69.28.109.20,4,2,Ookla Speedtest Server 63940: den-speedtest.net.sangoma.net,US,Americas,Northern America,United States of America,Colorado,,Denver
+67.207.125.211,4,2,Ookla Speedtest Server 64798: dende0004speedtestserver01.wiline.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+67.43.208.74,4,14,Ookla Speedtest Server 69787: speedtest.vistabeam.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+23.138.24.36,4,-5,Ookla Speedtest Server 70528: speedtest.backcountrybroadband.com,US,Americas,Northern America,United States of America,Colorado,,Golden
+46.110.192.253,4,14,Ookla Speedtest Server 72804: speedtest.dnvrco26.metronetinc.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+23.163.32.68,4,2,Ookla Speedtest Server 73328: speedtest-ookla.fcconnexion.com,US,Americas,Northern America,United States of America,Colorado,,Fort Collins
+4.18.219.3,4,-4,Ookla Speedtest Server 73983: speed-bmsa.unwiredaccess.com,US,Americas,Northern America,United States of America,Colorado,,Divide
+4.32.115.97,4,-2,Ookla Speedtest Server 74476: speed-bkkr.unwiredaccess.com,US,Americas,Northern America,United States of America,Colorado,,Woodland Park
+72.18.132.34,4,-6,opsonin-pharma.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+192.30.135.117,4,651,ppihc.org,US,Americas,Northern America,United States of America,Colorado,,Aurora
+192.30.135.66,4,14,preferredgaragedoorsdenver.com,US,Americas,Northern America,United States of America,Colorado,,Aurora
 72.18.132.134,4,375,productivedreams.com,US,Americas,Northern America,United States of America,Colorado,,Denver
-192.30.128.25,4,18,rescuemission.org,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
+192.30.128.27,4,3,rescuemission.org,US,Americas,Northern America,United States of America,Colorado,,Aurora
+206.82.203.44,4,0,scienceforconservation.org,US,Americas,Northern America,United States of America,Colorado,,Thornton
 97.122.75.214,4,50,scottlabs.io,US,Americas,Northern America,United States of America,Colorado,,Denver
-23.45.123.80,4,2,siliconexpert.com,US,Americas,Northern America,United States of America,Colorado,,Englewood
-23.45.123.77,4,6,siliconexpert.com,US,Americas,Northern America,United States of America,Colorado,,Englewood
-64.111.25.186,4,5,slitherine.com,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
-192.30.134.175,4,13,socialseo.com,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
-206.223.25.73,4,20,sunrisemedical.com,US,Americas,Northern America,United States of America,Colorado,,Longmont
+64.111.25.186,4,-20,slitherine.com,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
+192.30.135.71,4,-3,socialseo.com,US,Americas,Northern America,United States of America,Colorado,,Aurora
+206.82.203.59,4,12,soliddocuments.com,US,Americas,Northern America,United States of America,Colorado,,Thornton
+204.144.181.151,4,15,starfall.com,US,Americas,Northern America,United States of America,Colorado,,Sedalia
 173.248.157.214,4,9,sv-anuncios.com,US,Americas,Northern America,United States of America,Colorado,,Denver
-192.30.129.194,4,401,twistbartendingservice.com,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
-128.117.225.32,4,4,ucar.edu,US,Americas,Northern America,United States of America,Colorado,,Boulder
-192.199.240.235,4,0,victorianlondon.org,US,Americas,Northern America,United States of America,Colorado,,Westminster
-192.30.135.66,4,79,visitcripplecreek.com,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
-216.160.182.223,4,6,welcomehome.org,US,Americas,Northern America,United States of America,Colorado,,Denver
-173.248.157.219,4,3,wpwebhost.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+206.82.203.47,4,14,taylorlaw.com,US,Americas,Northern America,United States of America,Colorado,,Thornton
+128.117.225.32,4,15,ucar.edu,US,Americas,Northern America,United States of America,Colorado,,Boulder
+216.160.182.223,4,252,welcomehome.org,US,Americas,Northern America,United States of America,Colorado,,Parker
+173.248.157.219,4,52,wpwebhost.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+206.82.203.50,4,7,wylr.net,US,Americas,Northern America,United States of America,Colorado,,Thornton

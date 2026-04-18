@@ -1,2 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-200.2.162.34,4,256,Ookla Speedtest Server: parbo.speedtest.sr,SR,Americas,Latin America and the Caribbean,Suriname,Paramaribo District,,Paramaribo
+200.1.212.10,4,-12,Ookla Speedtest Server 70519: speedtest.parbo.net,SR,Americas,Latin America and the Caribbean,Suriname,Paramaribo District,,Paramaribo
+200.2.162.34,4,1,Ookla Speedtest Server: parbo.speedtest.sr,SR,Americas,Latin America and the Caribbean,Suriname,Paramaribo District,,Paramaribo
+190.98.105.122,4,34,surinametourism.sr,SR,Americas,Latin America and the Caribbean,Suriname,Paramaribo District,,Paramaribo

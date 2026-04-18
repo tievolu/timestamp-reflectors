@@ -1,0 +1,6 @@
+reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+160.119.233.245,4,63881,DoH server: dnscry.pt-capetown02-ipv4,ZA,Africa,Sub-Saharan Africa,South Africa,North West,,Koster
+160.119.234.156,4,3,DoH server: dnscry.pt-johannesburg02-ipv4,ZA,Africa,Sub-Saharan Africa,South Africa,North West,,Koster
+102.69.208.42,4,228,Ookla Speedtest Server 56654: speedtest.iwireless.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,North West,,Rustenburg
+41.222.152.163,4,5,Ookla Speedtest Server 69895: speedtest.infogroconnect.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,North West,,Brits
+102.210.0.30,4,1,Ookla Speedtest Server 71253: speedtest.tekgroup.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,North West,,Brits

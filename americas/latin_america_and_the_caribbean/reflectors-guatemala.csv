@@ -1,19 +1,33 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-45.196.0.204,4,27,coolplay-outdoor.com,GT,Americas,Latin America and the Caribbean,Guatemala,,,
-186.151.199.4,4,-1,csuca.org,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
-45.196.2.142,4,25,dlxiaosha.com,GT,Americas,Latin America and the Caribbean,Guatemala,,,
-181.78.105.127,4,148,DNS Server: 127.105.78.181.ufinet.com.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
-190.148.193.146,4,1962,DNS Server: 146.193.148.190.static.intelnet.net.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
-190.149.55.214,4,32,DNS Server: 214.55.149.190.static.intelnet.net.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
-190.148.235.254,4,88,DNS Server: 254.235.148.190.static.intelnet.net.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
-181.119.105.29,4,-9516,DNS Server: 29.105.119.181.ufinet.com.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
-190.56.246.82,4,-194,DNS Server: 82.246.56.190.static.intelnet.net.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
-45.196.0.187,4,23,imiaokao.com,GT,Americas,Latin America and the Caribbean,Guatemala,,,
-190.113.91.78,4,358,Ookla Speedtest Server 14999: speedtest.blue.net.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
-190.122.184.7,4,360,Ookla Speedtest Server 22134: speedtest.cablecolor.com.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
-138.94.253.6,4,240,Ookla Speedtest Server 23270: speedtest.redeshibridas.com.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
-45.164.150.254,4,-217014,Ookla Speedtest Server 39451: sp.telecomml.info,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
-190.56.58.171,4,336,Ookla Speedtest Server 40095: speedtest100g.claro.com.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
-191.98.192.109,4,288,Ookla Speedtest Server 57123: spb.intertelco.com.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
-191.98.192.110,4,323,Ookla Speedtest Server 57945: spc.optelgt.com,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
-138.117.231.220,4,264,Ookla Speedtest Server 59394: speed.fibernetgta.com,GT,Americas,Latin America and the Caribbean,Guatemala,Departamento de Huehuetenango,,Huehuetenango
+143.208.182.106,4,-68,cainco.org.bo,GT,Americas,Latin America and the Caribbean,Guatemala,,,
+186.151.199.4,4,-10,csuca.org,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
+181.78.105.127,4,78,DNS Server: 127.105.78.181.ufinet.com.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
+190.148.193.146,4,42200,DNS Server: 146.193.148.190.static.intelnet.net.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
+190.149.72.155,4,21690371,DNS Server: 155.72.149.190.dynamic.intelnet.net.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
+38.165.224.17,4,-163,DNS Server: 17.ip-224-165-38.ptr.loqui.com.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
+181.209.194.198,4,21276,DNS Server: 198.194.209.181.static.intelnet.net.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
+190.148.235.254,4,-15,DNS Server: 254.235.148.190.static.intelnet.net.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
+181.119.105.29,4,-608,DNS Server: 29.105.119.181.ufinet.com.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
+45.171.66.198,4,-9,DNS Server: 45-171-66-198.reverse.tecnocolor.com.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
+190.113.91.78,4,-42,Ookla Speedtest Server 14999: speedtest.blue.net.gt,GT,Americas,Latin America and the Caribbean,Guatemala,,,
+190.122.184.7,4,-3,Ookla Speedtest Server 22134: speedtest.cablecolor.com.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
+138.94.253.6,4,-3,Ookla Speedtest Server 23270: speedtest.redeshibridas.com.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
+45.5.116.9,4,77960817,Ookla Speedtest Server 29767: sp2.infinitum.com.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
+45.173.218.2,4,12,Ookla Speedtest Server 32027: speedtest.cabelnet.com.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Mixco
+154.223.128.10,4,-11,Ookla Speedtest Server 38608: speedtest.airnetclient.com,GT,Americas,Latin America and the Caribbean,Guatemala,Chiquimula,,Concepción Las Minas
+45.164.150.254,4,1,Ookla Speedtest Server 39451: sp.telecomml.info,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
+190.56.58.171,4,-4,Ookla Speedtest Server 40095: speedtest100g.claro.com.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
+190.83.9.244,4,-4,Ookla Speedtest Server 43832: st.skywaydigital.net,GT,Americas,Latin America and the Caribbean,Guatemala,Chiquimula,,Esquipulas
+138.118.106.202,4,-7,Ookla Speedtest Server 45840: speedtest.onnonetworks.com,GT,Americas,Latin America and the Caribbean,Guatemala,,,
+190.99.116.115,4,-15,Ookla Speedtest Server 49787: speedtest.bcgtgroup.com,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
+38.165.224.3,4,2,Ookla Speedtest Server 51371: speedtest.loqui.com.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
+24.152.53.4,4,6,Ookla Speedtest Server 59092: speedtestvos.vosguatemala.com,GT,Americas,Latin America and the Caribbean,Guatemala,Jalapa,,Jalapa
+138.117.231.220,4,-8,Ookla Speedtest Server 59394: speed.fibernetgta.com,GT,Americas,Latin America and the Caribbean,Guatemala,Departamento de Huehuetenango,,Huehuetenango
+45.5.118.162,4,-10,Ookla Speedtest Server 65386: poaquil.vosguatemala.com,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
+45.68.49.85,4,-3,Ookla Speedtest Server 67723: speedtest.gua.gt.pit.net,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
+179.60.225.252,4,3,Ookla Speedtest Server 69154: speedtest.nortevision.net.gt,GT,Americas,Latin America and the Caribbean,Guatemala,,,
+45.164.148.240,4,-32,Ookla Speedtest Server 70280: puntonet.telecomml.info,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
+24.152.54.3,4,-1909,Ookla Speedtest Server 70430: joyabaj.vosguatemala.com,GT,Americas,Latin America and the Caribbean,Guatemala,,,
+138.94.254.30,4,-4,Ookla Speedtest Server 73398: speedtest.unicable.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
+38.199.88.81,4,-18625,Ookla Speedtest Server 73683: speedtest.kns.gt,GT,Americas,Latin America and the Caribbean,Guatemala,Guatemala,,Guatemala City
+200.115.123.67,4,505,usac.edu.gt,GT,Americas,Latin America and the Caribbean,Guatemala,,,

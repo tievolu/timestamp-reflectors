@@ -1,7 +1,20 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-103.178.79.34,4,40455,DNS Server: 103-178-79-34.lmp.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
-103.221.246.178,4,231,Ookla Speedtest Server 22513: speedtest-tts.lmpl.net,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
-103.232.142.9,4,203,Ookla Speedtest Server 53866: speedtest.city-dotnet.com,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
-103.121.24.8,4,177,Ookla Speedtest Server 54280: speedtest.netelastic.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
-103.178.78.6,4,301,Ookla Speedtest Server 55852: speed-login.lmpl.net,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
-103.150.206.29,4,-23,Ookla Speedtest Server: speedtestfsd.npcn.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
+103.178.79.34,4,-8,DNS Server: 103-178-79-34.lmp.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
+121.52.157.202,4,125,DNS Server: lumhs.edu.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
+121.52.159.138,4,914021,iub.edu.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
+103.221.246.178,4,1,Ookla Speedtest Server 22513: speedtest-tts.lmpl.net,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
+103.122.222.30,4,-77,Ookla Speedtest Server 27960: sptest.grandtel.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
+119.30.85.238,4,12,Ookla Speedtest Server 41967: orbit.lmpl.net,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
+103.178.216.30,4,-87,Ookla Speedtest Server 48021: speedtest.aa-networks.net,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
+103.166.150.16,4,-5,Ookla Speedtest Server 48089: speedtest.mcsol.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
+103.121.24.8,4,-13,Ookla Speedtest Server 54280: speedtest.netelastic.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
+103.178.78.6,4,8,Ookla Speedtest Server 55852: speed-login.lmpl.net,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
+103.150.206.29,4,14,Ookla Speedtest Server 56135: speedtestfsd.npcn.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
+103.253.18.162,4,11,Ookla Speedtest Server 58731: speed.orbitisp.com,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
+103.47.181.150,4,6,Ookla Speedtest Server 60673: speedtest.anifiber.com,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
+119.160.122.26,4,-4,Ookla Speedtest Server 64828: speedtest-fsd1.jazz.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
+103.12.196.42,4,1,Ookla Speedtest Server 68528: speedtest-fsd.kknetworks.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
+103.167.255.55,4,-9,Ookla Speedtest Server 68631: speedtest-fsd.aerocity.cloud,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
+103.152.117.30,4,13,Ookla Speedtest Server 72706: fsdspeedtest.pace-tel.com,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
+103.172.167.50,4,28,Ookla Speedtest Server 73762: mypanel.telehouse.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
+163.61.128.254,4,5,Ookla Speedtest Server 74063: speedtest.fiberflownet.com,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad

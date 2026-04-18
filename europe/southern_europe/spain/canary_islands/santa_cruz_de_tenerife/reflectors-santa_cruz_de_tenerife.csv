@@ -1,3 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-85.51.202.225,4,29,DNS Server: 225.pool85-51-202.static.orange.es,ES,Europe,Southern Europe,Spain,Canary Islands,Santa Cruz de Tenerife,Santa Cruz de Tenerife
-89.140.122.27,4,403,Ookla Speedtest Server 30999: speedtest1.avatel.es,ES,Europe,Southern Europe,Spain,Canary Islands,Santa Cruz de Tenerife,Santa Cruz de Tenerife
+85.51.202.225,4,4,DNS Server: 225.pool85-51-202.static.orange.es,ES,Europe,Southern Europe,Spain,Canary Islands,Santa Cruz de Tenerife,Santa Cruz de Tenerife
+212.64.160.50,4,-9,elmuseocanario.com,ES,Europe,Southern Europe,Spain,Canary Islands,Santa Cruz de Tenerife,Santa Cruz de Tenerife
+185.105.36.76,4,-4,Ookla Speedtest Server 74269: speedtest15.digimobil.es,ES,Europe,Southern Europe,Spain,Canary Islands,Santa Cruz de Tenerife,Santa Cruz de Tenerife

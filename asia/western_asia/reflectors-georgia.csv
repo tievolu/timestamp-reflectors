@@ -1,72 +1,118 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 85.238.41.121,4,21,airzena.com,GE,Asia,Western Asia,Georgia,,,
-77.91.66.16,4,14,akurat77c.lol,GE,Asia,Western Asia,Georgia,,,
-188.93.95.22,4,-16,apa.gov.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-91.239.207.147,4,351761,batumi.ge,GE,Asia,Western Asia,Georgia,,,
+188.93.95.22,4,-113,apa.gov.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+188.93.95.68,4,-135,archdeco.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+77.91.126.48,4,28,autolebanon.ru,GE,Asia,Western Asia,Georgia,,,
+91.239.207.147,4,287768,batumi.ge,GE,Asia,Western Asia,Georgia,,,
 91.212.213.18,4,56719,binuli.ge,GE,Asia,Western Asia,Georgia,,,
-212.72.155.164,4,8,borjomi.com,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-91.239.207.198,4,481,bsu.edu.ge,GE,Asia,Western Asia,Georgia,,,
-178.134.155.82,4,7120756,DNS Server: 178-134-155-82.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-178.134.248.178,4,1073,DNS Server: 178-134-248-178.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-178.134.27.51,4,178487,DNS Server: 178-134-27-51.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-178.134.28.34,4,9760,DNS Server: 178-134-28-34.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-178.134.36.178,4,17,DNS Server: 178-134-36-178.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-188.169.176.78,4,-7121,DNS Server: 188-169-176-78.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-188.169.44.18,4,2970,DNS Server: 188-169-44-18.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Adjara,,Batumi
-31.146.5.166,4,10817,DNS Server: 31-146-5-166.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-31.146.81.222,4,683,DNS Server: 31-146-81-222.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-31.146.83.206,4,4451928,DNS Server: 31-146-83-206.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-77.92.226.154,4,-757,DNS Server: 77-92-226-154.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-94.43.11.23,4,68,DNS Server: 94-43-11-23.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-94.43.99.154,4,1413,DNS Server: 94-43-99-154.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Adjara,,Batumi
-212.72.130.20,4,4,DNS Server: host-212-72-130-20.customer.magticom.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-212.72.130.21,4,6,DNS Server: host-212-72-130-21.customer.magticom.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-213.131.40.230,4,127,DNS Server: host-213-131-40-230-customer.wanex.net,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-80.241.248.162,4,-16884561,DNS Server: host-80-241-248-162.customer.magticom.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-92.241.69.226,4,-1,DNS Server: host-92-241-69-226-customer.wanex.net,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-92.241.72.162,4,497529,DNS Server: host-92-241-72-162-customer.wanex.net,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-92.241.76.98,4,4201,DNS Server: host-92-241-76-98-customer.wanex.net,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-92.241.86.42,4,-691,DNS Server: host-92-241-86-42-customer.wanex.net,GE,Asia,Western Asia,Georgia,Adjara,,Batumi
-92.241.87.74,4,2694,DNS Server: host-92-241-87-74-customer.wanex.net,GE,Asia,Western Asia,Georgia,Adjara,,Batumi
-92.241.92.218,4,5,DNS Server: host-92-241-92-218-customer.wanex.net,GE,Asia,Western Asia,Georgia,Adjara,,Batumi
-95.104.115.98,4,140,DNS Server: host-95-104-115-98.customer.magticom.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-95.104.46.202,4,181,DNS Server: host-95-104-46-202.customer.magticom.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-77.91.66.35,4,4,drugsoverthecounter.shop,GE,Asia,Western Asia,Georgia,,,
+212.72.155.164,4,-1,borjomi.com,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+91.212.213.24,4,19882,borjomipalace.ge,GE,Asia,Western Asia,Georgia,,,
+91.239.207.38,4,-15,cleancar.ge,GE,Asia,Western Asia,Georgia,,,
+77.91.126.199,4,23,code-industry.net,GE,Asia,Western Asia,Georgia,,,
+195.69.143.143,4,15,comcom.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+146.255.246.22,4,226,DNS Server: 146-255-246-22.customers.silknet.com,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+178.134.155.82,4,-1167,DNS Server: 178-134-155-82.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+178.134.208.38,4,49091,DNS Server: 178-134-208-38.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Adjara,,Batumi
+178.134.248.178,4,34062,DNS Server: 178-134-248-178.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+178.134.27.51,4,53074,DNS Server: 178-134-27-51.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+178.134.28.34,4,38200,DNS Server: 178-134-28-34.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+178.134.36.178,4,-17,DNS Server: 178-134-36-178.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+31.146.5.166,4,9368,DNS Server: 31-146-5-166.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+31.146.81.222,4,1383,DNS Server: 31-146-81-222.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+31.146.83.206,4,63022032,DNS Server: 31-146-83-206.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+77.92.226.154,4,1964,DNS Server: 77-92-226-154.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+94.43.11.23,4,-5,DNS Server: 94-43-11-23.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+94.43.233.190,4,7064,DNS Server: 94-43-233-190.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+94.43.99.154,4,223,DNS Server: 94-43-99-154.dsl.utg.ge,GE,Asia,Western Asia,Georgia,Adjara,,Batumi
+212.72.130.20,4,-1,DNS Server: host-212-72-130-20.customer.magticom.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+212.72.130.21,4,0,DNS Server: host-212-72-130-21.customer.magticom.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+213.131.40.230,4,19222,DNS Server: host-213-131-40-230-customer.wanex.net,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+80.241.248.162,4,38084852,DNS Server: host-80-241-248-162.customer.magticom.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+92.241.69.226,4,-609,DNS Server: host-92-241-69-226-customer.wanex.net,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+92.241.72.162,4,8142,DNS Server: host-92-241-72-162-customer.wanex.net,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+92.241.76.98,4,5880,DNS Server: host-92-241-76-98-customer.wanex.net,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+92.241.86.102,4,-21390,DNS Server: host-92-241-86-102-customer.wanex.net,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+92.241.86.42,4,-3259,DNS Server: host-92-241-86-42-customer.wanex.net,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+92.241.87.74,4,11963,DNS Server: host-92-241-87-74-customer.wanex.net,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+93.177.158.73,4,191,DNS Server: host-93-177-158-73.customer.magticom.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+93.177.164.6,4,-1662711314,DNS Server: host-93-177-164-6.customer.magticom.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+94.137.189.166,4,2761,DNS Server: host-94-137-189-166.customer.magticom.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+95.104.1.17,4,79433918,DNS Server: host-95-104-1-17.customer.magticom.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+95.104.11.15,4,72021690,DNS Server: host-95-104-11-15.customer.magticom.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+95.104.115.98,4,437,DNS Server: host-95-104-115-98.customer.magticom.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+95.104.116.122,4,21433,DNS Server: host-95-104-116-122.customer.magticom.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+77.91.123.212,4,-3,DNS Server: nl.t2.info,GE,Asia,Western Asia,Georgia,,,
+194.135.119.158,4,-4,DoH server: dnscry.pt-tbilisi-ipv4,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+213.157.205.164,4,1136,dsl.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+195.54.179.46,4,-6,eu.edu.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+195.69.143.235,4,0,fcdinamo.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 188.93.88.93,4,13,fcsamgurali.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-91.239.207.139,4,378609,formulanews.ge,GE,Asia,Western Asia,Georgia,,,
-188.93.95.26,4,36,forum.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-85.117.41.12,4,47,frontnews.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-185.163.200.21,4,-114029,georgiantheatre.ge,GE,Asia,Western Asia,Georgia,,,
-91.239.207.119,4,204712,geotimes.ge,GE,Asia,Western Asia,Georgia,,,
+188.93.95.152,4,-2,for.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+91.239.207.139,4,415154,formulanews.ge,GE,Asia,Western Asia,Georgia,,,
+188.93.95.26,4,137449,forum.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+185.163.200.39,4,90562,gau.edu.ge,GE,Asia,Western Asia,Georgia,,,
+185.163.200.21,4,-187938,georgiantheatre.ge,GE,Asia,Western Asia,Georgia,,,
+91.239.207.119,4,420454,geotimes.ge,GE,Asia,Western Asia,Georgia,,,
 91.239.207.180,4,10791200,geworld.ge,GE,Asia,Western Asia,Georgia,,,
-195.54.178.116,4,177648,gobatumi.com,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-109.205.46.3,4,81389,gtu.ge,GE,Asia,Western Asia,Georgia,,,
+91.239.207.42,4,-12,gga.org.ge,GE,Asia,Western Asia,Georgia,,,
+188.93.91.198,4,3,gmwa.org.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+195.54.179.104,4,-71,grea.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+185.163.200.14,4,947341,gruni.edu.ge,GE,Asia,Western Asia,Georgia,,,
+195.54.178.44,4,28,gtradio.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+109.205.46.94,4,3,gtu.edu.ge,GE,Asia,Western Asia,Georgia,,,
+109.205.46.3,4,14520,gtu.ge,GE,Asia,Western Asia,Georgia,,,
 188.93.90.240,4,4,hcore.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-188.93.95.68,4,-10,iknow.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-80.241.247.46,4,2,intel-com.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-185.229.109.222,4,0,investingeorgia.org,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-91.239.207.211,4,19,kaizen.ge,GE,Asia,Western Asia,Georgia,,,
-188.93.95.105,4,2,kvira.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+195.54.179.35,4,22,innoteam.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+91.239.207.211,4,-8,investgeorgia.ge,GE,Asia,Western Asia,Georgia,,,
+185.229.109.222,4,48,investingeorgia.org,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+212.72.155.123,4,-35,isfed.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+62.233.61.230,4,0,jordan4.mx,GE,Asia,Western Asia,Georgia,,,
+195.54.179.110,4,-4,kreston.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+188.93.95.105,4,5,kvira.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+81.95.160.48,4,-2,magticom.ge,GE,Asia,Western Asia,Georgia,,,
 195.54.178.41,4,-66408,marneuli.net,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-91.239.207.212,4,72,matemotors.com,GE,Asia,Western Asia,Georgia,,,
-213.157.205.208,4,779,messenger.com.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-188.93.95.125,4,71,museum.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-91.212.213.2,4,2988437,nbcenter.ge,GE,Asia,Western Asia,Georgia,,,
-185.163.200.25,4,15,oldgroup.ge,GE,Asia,Western Asia,Georgia,,,
-46.8.37.38,4,328,Ookla Speedtest Server 53306: speedtest.sia-com.com,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-139.45.212.81,4,436,Ookla Speedtest Server 65276: speedtest-tbs.retn.net,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-212.72.155.36,4,505,Ookla Speedtest Server: connect.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-185.143.176.55,4,169,Ookla Speedtest Server: speedtest.ordunet.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-91.239.206.128,4,0,opera.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-85.117.41.2,4,4,qebuli-climate.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-217.147.235.212,4,1429,science.org.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-195.54.178.33,4,-984998,site.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-91.239.207.133,4,654,smr.gov.ge,GE,Asia,Western Asia,Georgia,,,
+91.239.207.212,4,-21,matemotors.com,GE,Asia,Western Asia,Georgia,,,
+213.157.205.208,4,185,messenger.com.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+188.93.95.4,4,-107,mestia.gov.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+91.239.206.207,4,481,mhpa.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+185.229.111.78,4,42209,moedani.online,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+188.93.95.125,4,8,museum.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+91.212.213.2,4,9896577,nbcenter.ge,GE,Asia,Western Asia,Georgia,,,
+185.163.200.25,4,-1,oldgroup.ge,GE,Asia,Western Asia,Georgia,,,
+91.239.207.27,4,-4,ombudsman.ge,GE,Asia,Western Asia,Georgia,,,
+213.157.199.140,4,-20,Ookla Speedtest Server 3216: speedtest1.srv.magticom.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+91.151.130.125,4,-4,Ookla Speedtest Server 11945: speed.silknet.com,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+185.19.97.36,4,29,Ookla Speedtest Server 14519: speedtest1.srv.co.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+62.182.8.78,4,67124,Ookla Speedtest Server 16827: speedtest.aquafon.com,GE,Asia,Western Asia,Georgia,Abkhazia,,Sukhumi
+193.228.126.45,4,2,Ookla Speedtest Server 37325: speedtest.genet.ge,GE,Asia,Western Asia,Georgia,,,
+185.143.176.55,4,1,Ookla Speedtest Server 50502: speedtest.ordunet.ge,GE,Asia,Western Asia,Georgia,,,
+85.118.96.76,4,13,Ookla Speedtest Server 51130: speedtest.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+45.136.54.138,4,28,Ookla Speedtest Server 60025: speedtest.green.net.ge,GE,Asia,Western Asia,Georgia,Shida Kartli,,Gomi
+185.168.225.254,4,1,Ookla Speedtest Server 65172: speedtest.skytel.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+212.72.155.125,4,-1,Ookla Speedtest Server: connect.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+91.239.206.128,4,2,opera.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+206.53.48.131,4,8,ozistanbul.net,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+185.229.111.12,4,14,pridex.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+185.163.200.8,4,226473,proservice.ge,GE,Asia,Western Asia,Georgia,,,
+217.147.235.212,4,2644,science.org.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+109.205.44.139,4,-275895,sciencelib.ge,GE,Asia,Western Asia,Georgia,,,
+195.54.178.33,4,-2016053,site.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+195.54.178.5,4,821,smartsense.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+195.54.178.4,4,36,smr.gov.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+213.157.206.35,4,227,smsorg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 213.157.199.149,4,4,smsorg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-188.93.89.87,4,24,top.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-109.172.196.173,4,1520,ultraviolettesting.ru,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+195.54.178.52,4,9,tbiliselebi.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+195.54.179.32,4,15,tmarket.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+188.93.89.87,4,13,top.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+109.172.196.173,4,7679,ultraviolettesting.ru,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+91.212.213.34,4,-482299,urbanmotors.ge,GE,Asia,Western Asia,Georgia,,,
 91.239.206.213,4,32,vanillasky.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-188.93.95.15,4,3,worldsport.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+212.72.155.20,4,2588,vertisoli.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+195.69.143.227,4,18,visitajara.com,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+188.93.95.15,4,8,worldsport.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+185.229.111.112,4,-7,wrc.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+62.233.61.228,4,6,yeezyslides.mx,GE,Asia,Western Asia,Georgia,,,
 37.72.142.62,4,7976,yeezyv2-outlet.us,GE,Asia,Western Asia,Georgia,,,
-185.229.111.110,4,-76,yvavilebismovla.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-46.49.2.71,4,9,yversy.com,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+91.239.206.239,4,-157517,yell.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+91.223.53.10,4,8,yvavilebismovla.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+5.10.34.69,4,0,yversy.com,GE,Asia,Western Asia,Georgia,,,

@@ -1,40 +1,51 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
+91.146.102.175,4,-8,aixacorpore.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
 195.192.255.150,4,61,arquitecturayempresa.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
-195.55.43.170,4,73,aviles.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Alicante
-195.192.255.158,4,17,blume.net,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
-91.146.100.125,4,13,dermatologomiguelgallego.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
-91.146.101.133,4,6,diarioenfermero.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+195.55.43.170,4,-15,aviles.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Alicante
+91.146.103.79,4,-5,bilnea.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+195.192.255.158,4,-7,blume.net,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+82.159.245.187,4,-4,computerhoy.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,El Campello
+195.53.69.15,4,-10,costablanca.org,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Benidorm
+91.146.100.125,4,7,dermatologomiguelgallego.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+91.146.101.133,4,-19,diarioenfermero.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
 91.146.97.111,4,5,directoressociales.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
-5.205.134.107,4,1883,DNS Server: 107.red-5-205-134.dynamicip.rima-tde.net,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Petrel
-92.190.147.147,4,-2894939,DNS Server: 147.pool92-190-147.dynamic.orange.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Alicante
-84.78.169.160,4,77,DNS Server: 160.pool84-78-169.dynamic.orange.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Javea
-92.56.61.34,4,12605,DNS Server: 34.pool92-56-61.dynamic.orange.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,El Campello
-5.205.129.39,4,-148,DNS Server: 39.red-5-205-129.dynamicip.rima-tde.net,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Petrel
-185.69.9.4,4,27753792,DNS Server: 4.9-69-185.static-ip.ftth-tor.tvt-datos.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Torrevieja
-85.60.12.49,4,70,DNS Server: 49.pool85-60-12.dynamic.orange.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Elda
-85.62.216.201,4,60,DNS Server: 85-62-216-201.static.orange.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Agost
-213.0.111.9,4,11,DNS Server: 9.red-213-0-111.customer.static.ccgg.telefonica.net,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Crevillent
-85.50.113.98,4,16221,DNS Server: 98.pool85-50-113.static.orange.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Benissa
-91.146.103.142,4,8,famma.org,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
-109.69.10.222,4,-29,footballia.net,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Javea
+185.69.9.4,4,31278394,DNS Server: 4.9-69-185.static-ip.ftth-tor.tvt-datos.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Torrevieja
+85.60.12.49,4,7,DNS Server: 49.pool85-60-12.dynamic.orange.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Elda
+85.50.92.67,4,22638,DNS Server: 67.pool85-50-92.static.orange.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Sax
+85.62.78.92,4,2891,DNS Server: 92.pool85-62-78.static.orange.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Elche
+212.121.229.233,4,6349151,DNS Server: gw.megatro-avinyo.man,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+195.192.255.154,4,-12,enjoyzaragoza.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+91.146.103.142,4,-7,famma.org,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
 91.146.97.74,4,7,geacron.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+217.127.50.210,4,14985,generadordeprecios.info,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Elche
 91.146.102.104,4,3,guiatelefonicadeempresas.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
-109.69.8.5,4,61080,guifi.net,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Javea
-109.69.8.21,4,-25,hamacaonline.net,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Javea
-109.69.8.20,4,-39,hangar.org,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Javea
-91.146.98.235,4,10,jamonarium.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
 91.146.97.112,4,4,lacasica.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
 91.146.96.124,4,7,llucmajor.org,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
-91.146.96.100,4,3,loading.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+91.146.96.100,4,-25,loading.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
 91.146.97.66,4,414,mensajerosdelapaz.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
-91.146.103.139,4,1,morlaesculturas.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
-185.29.68.21,4,347,Ookla Speedtest Server 6632: sp1.tvt-datos.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Torrevieja
-88.148.8.109,4,441,Ookla Speedtest Server 12785: speedtest.telfy.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Catral
-185.49.156.79,4,390,Ookla Speedtest Server 17797: st.dvblab.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Torrevieja
-78.41.80.11,4,214,Ookla Speedtest Server 18815: speedtest1.biartel.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Biar
-185.19.188.1,4,390,Ookla Speedtest Server 29481: speedtest.scansat.tv,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Torrevieja
-217.70.240.142,4,-31216,Ookla Speedtest Server 38016: speedtest.dragonet.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,l'Alfàs del Pi
-185.239.228.14,4,372,Ookla Speedtest Server 42137: speedtest1.movitel.tv,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Castalla
-80.66.112.8,4,-3235052,Ookla Speedtest Server 59488: speed1.laurban.eu,ES,Europe,Southern Europe,Spain,Valencia,Alicante,La Zenia
-91.146.98.114,4,17,renovetec.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
-91.146.98.10,4,5,udguia.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+91.146.103.139,4,-11,morlaesculturas.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+91.146.98.10,4,0,mtngshoes.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+185.29.68.21,4,-1,Ookla Speedtest Server 6632: sp1.tvt-datos.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Torrevieja
+185.77.176.19,4,-6,Ookla Speedtest Server 7958: speedtest1.conecta-3.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Pinoso
+185.130.144.11,4,-1,Ookla Speedtest Server 10803: speed1.cloudwifi.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,la Nucia
+185.130.144.14,4,-5,Ookla Speedtest Server 10815: speed3.cloudwifi.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,la Nucia
+89.29.188.50,4,6,Ookla Speedtest Server 13311: speedtest.cableworld.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Elda
+185.49.156.79,4,3040,Ookla Speedtest Server 17797: st.dvblab.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Torrevieja
+78.41.80.11,4,-5,Ookla Speedtest Server 18815: speedtest1.biartel.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Biar
+185.130.144.33,4,2,Ookla Speedtest Server 19057: speed5.cloudwifi.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,la Nucia
+78.136.107.51,4,10,Ookla Speedtest Server 21349: nets-mad01.servihosting.net,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Elda
+89.29.244.8,4,5,Ookla Speedtest Server 21350: testdevelocidad.crevision.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Crevillent
+92.63.125.11,4,19,Ookla Speedtest Server 24712: st.wooow.tv,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Benijofar
+37.77.149.6,4,2,Ookla Speedtest Server 26435: speedtest.nolimitnet.eu,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela Costa
+194.59.199.27,4,2,Ookla Speedtest Server 30999: speedtest1.avatel.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Algorfa
+85.217.133.131,4,1,Ookla Speedtest Server 37040: speedtest.lokapsos.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Catral
+185.239.228.14,4,-7,Ookla Speedtest Server 42137: speedtest1.movitel.tv,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Castalla
+45.153.98.0,4,2,Ookla Speedtest Server 55595: speedtest.foxtelecom.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Gata de Gorgos
+195.192.255.172,4,40,palasiet.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+91.146.98.114,4,0,renovetec.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+91.146.99.70,4,16,sateliot.space,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+89.43.76.101,4,10,tancaments.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Alicante
+85.62.72.32,4,12,unicajabaloncesto.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Elche
+195.192.255.227,4,658,valdesqui.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+91.146.101.231,4,9,vegametal.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+91.146.103.169,4,24,velitessport.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela

@@ -1,6 +1,13 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-195.28.72.173,4,878,ftv.com,SK,Europe,Eastern Europe,Slovakia,Prešov Region,,Bardejov
-85.159.106.197,4,116480,hotel-lesanka.sk,SK,Europe,Eastern Europe,Slovakia,Prešov Region,,Vranov nad Topľou
-185.59.184.54,4,187,Ookla Speedtest Server 52676: app.mcom.sk,SK,Europe,Eastern Europe,Slovakia,Prešov Region,,Giraltovce
-195.168.148.232,4,34,rebro.sk,SK,Europe,Eastern Europe,Slovakia,Prešov Region,,Poprad
-195.28.72.155,4,24,sashe.sk,SK,Europe,Eastern Europe,Slovakia,Prešov Region,,Bardejov
+84.47.118.21,4,-1,DNS Server: stip-static-21.84-47-118.telekom.sk,SK,Europe,Eastern Europe,Slovakia,Prešov Region,,Lipany
+84.47.118.5,4,-3,DNS Server: stip-static-5.84-47-118.telekom.sk,SK,Europe,Eastern Europe,Slovakia,Prešov Region,,Lipany
+109.236.119.2,4,-3,DoH server: dns.levonet.sk,SK,Europe,Eastern Europe,Slovakia,Prešov Region,,Levoča
+87.244.209.190,4,6928324,Ookla Speedtest Server 4459: speedtest.hgdata.sk,SK,Europe,Eastern Europe,Slovakia,Prešov Region,,Kežmarok
+109.236.119.10,4,9,Ookla Speedtest Server 23978: speedtest.levonet.sk,SK,Europe,Eastern Europe,Slovakia,Prešov Region,,Levoča
+185.59.187.58,4,-55,Ookla Speedtest Server 37864: hanusovce.mcom.sk,SK,Europe,Eastern Europe,Slovakia,Prešov Region,,Hanušovce nad Topľou
+87.244.198.204,4,16,Ookla Speedtest Server 46632: speedtest2.powernet.sk,SK,Europe,Eastern Europe,Slovakia,Prešov Region,,Prešov
+185.59.184.54,4,-15,Ookla Speedtest Server 52676: app.mcom.sk,SK,Europe,Eastern Europe,Slovakia,Prešov Region,,Giraltovce
+178.18.78.254,4,-4,Ookla Speedtest Server 60385: speedtest.presnet.sk,SK,Europe,Eastern Europe,Slovakia,Prešov Region,,Chotča
+212.37.72.8,4,-3,Ookla Speedtest Server 68712: speedtest.conet-isp.sk,SK,Europe,Eastern Europe,Slovakia,Prešov Region,,Snina
+193.87.59.189,4,9,ucm.sk,SK,Europe,Eastern Europe,Slovakia,Prešov Region,,Bijacovce
+193.87.57.9,4,3416,vsvu.sk,SK,Europe,Eastern Europe,Slovakia,Prešov Region,,Bijacovce

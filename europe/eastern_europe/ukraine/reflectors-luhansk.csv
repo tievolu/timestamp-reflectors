@@ -1,3 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-193.192.37.178,4,222,DNS Server: vpn178-37-192-193.lds.online,UA,Europe,Eastern Europe,Ukraine,Luhansk,,Luhansk
-94.158.46.103,4,7,ntop.tv,UA,Europe,Eastern Europe,Ukraine,Luhansk,,Luhansk
+193.192.37.178,4,-1139,DNS Server: vpn178-37-192-193.lds.online,UA,Europe,Eastern Europe,Ukraine,Luhansk,,Luhansk
+195.69.203.119,4,8,lgaki.info,UA,Europe,Eastern Europe,Ukraine,Luhansk,,Luhansk
+94.158.46.103,4,73,ntop.tv,UA,Europe,Eastern Europe,Ukraine,Luhansk,,Luhansk
+94.158.46.220,4,-5,Ookla Speedtest Server 1274: speedtest.lds.net.ua,UA,Europe,Eastern Europe,Ukraine,Luhansk,,Luhansk
+91.224.113.253,4,-12,Ookla Speedtest Server 4360: st1.ipcom.info,UA,Europe,Eastern Europe,Ukraine,Luhansk,,Sorokyne
