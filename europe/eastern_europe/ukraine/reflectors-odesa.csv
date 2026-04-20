@@ -6,11 +6,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.4.42.198,4,-3947537,DNS Server: h198.onetel185.4.42.onetelecom.od.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
 79.135.198.18,4,4541,DNS Server: pool-198-18-pppoe.icn.od.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
 195.66.200.100,4,-21175,DNS Server: rage-zone.ml,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
-195.138.81.101,4,1,glasweb.com,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
-195.138.68.91,4,2,mclub.com.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
+195.138.81.101,4,2,glasweb.com,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
+195.138.68.91,4,3,mclub.com.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
 81.25.228.244,4,54000,odmu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
 46.175.160.83,4,9,Ookla Speedtest Server 12110: speed.norma4.ks.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
-213.231.5.55,4,335,Ookla Speedtest Server 32663: fido.odessa.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
+213.231.5.55,4,33878114,Ookla Speedtest Server 32663: fido.odessa.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
 213.231.2.124,4,-3,Ookla Speedtest Server 32708: speedtest.paket.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
 91.225.160.46,4,1,Ookla Speedtest Server 37987: speedtest2.flycom.net.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
 46.149.48.3,4,-105159,Ookla Speedtest Server 46921: spodessa1.regiontv.com.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
@@ -19,7 +19,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.238.23.6,4,1,Ookla Speedtest Server 60364: speedtest.stikonet.od.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
 77.52.71.234,4,-5,Ookla Speedtest Server 70986: odesaspeedtest.vodafone.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
 146.120.112.248,4,-1,Ookla Speedtest Server 73543: speedtest.malex.group,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
-195.138.69.231,4,17,pdpu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
+195.138.69.231,4,2,pdpu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
 185.4.43.156,4,25,roznica.com.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
-195.138.80.34,4,4,te.net.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
-195.138.69.237,4,4,tochmash.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
+195.138.80.34,4,2,te.net.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
+195.138.69.237,4,2,tochmash.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa

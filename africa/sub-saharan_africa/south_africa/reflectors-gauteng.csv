@@ -1,6 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 79.133.111.6,4,4,22bet.org.ng,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-197.242.150.247,4,3,3d-car-shows.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+197.242.150.247,4,-1,3d-car-shows.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 154.0.172.92,4,614,absolutewish.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 197.242.155.147,4,2818,acesa.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 196.22.228.99,4,-15,activitybridge.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
@@ -13,11 +13,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 156.38.224.37,4,5028,ait.edu.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 66.22.96.29,4,5,allangray.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 154.0.167.9,4,-9,amanz.io,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-156.38.133.2,4,17,ananzi.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
-197.242.144.253,4,1064,anceasterncape.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+197.242.144.253,4,-2,anceasterncape.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 156.38.203.245,4,12,asb.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
-156.38.230.157,4,36,auditexcel.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
-156.38.250.207,4,46,awieforum.org,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
+156.38.230.157,4,-5,auditexcel.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
+156.38.250.207,4,-3,awieforum.org,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 102.22.81.140,4,9,awmauritius.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 102.222.124.24,4,32,bettingcompanies.africa,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 164.160.91.32,4,-21,biggs.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
@@ -27,11 +26,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 66.22.96.118,4,13,bluetrain.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 197.234.132.100,4,-5,bmc.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 156.38.230.130,4,-16,bookdash.org,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
-164.160.89.122,4,18,boschrivierwines.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+164.160.89.122,4,2,boschrivierwines.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 154.0.162.86,4,1625,buffalolodge.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 156.38.203.5,4,0,caa.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
-197.242.145.173,4,-154,capewinelands.gov.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-154.0.173.95,4,18346,cardioroutier.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+139.84.233.209,4,-5,capetownbicyclemap.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+154.0.173.95,4,3467,cardioroutier.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 154.0.164.210,4,16,catholic-dbn.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 102.210.146.4,4,29,catholiclectionary.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 156.155.250.93,4,-4,catorzegroup.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
@@ -39,21 +38,20 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 164.160.91.44,4,19,centralnews.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 156.155.252.72,4,0,cheetah.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 154.0.165.44,4,-37,chimurengachronic.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-156.38.203.76,4,33,cidb.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
-156.155.252.79,4,1,classifiedfly.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+156.155.252.79,4,0,classifiedfly.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 164.160.91.16,4,-3,clcessentials.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-164.160.91.36,4,3,costcogasguide.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+164.160.91.36,4,2,costcogasguide.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 41.76.212.191,4,-12,crestahotels.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-156.38.250.202,4,46,cricket.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
+156.38.250.202,4,-6,cricket.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 164.160.91.54,4,8,ctph.org,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 156.38.224.36,4,4109,cyberwebit.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 34.35.14.175,4,4,d6.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 197.242.145.151,4,-7,dealerinfo.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-154.0.163.69,4,1188,dealerinfo.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+154.0.163.69,4,-3,dealerinfo.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 197.242.146.90,4,-34,destinyconnect.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 154.0.173.83,4,29,die-christen.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 156.38.250.71,4,-8,digitalshamansrecords.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
-154.0.175.223,4,81,discoverpilates.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+154.0.175.223,4,-5,discoverpilates.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 154.117.129.10,4,-1,DNS Server: 10-129-117-154.bitcointernet.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 102.165.170.174,4,-4818,DNS Server: 102-165-170.wttx-communications.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 102.221.12.46,4,-18431,DNS Server: 102-221-12-46.techwoodtrading.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Kempton Park
@@ -86,6 +84,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 102.218.156.112,4,5,DNS Server: fw.surf4life.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 197.242.158.127,4,-7,DNS Server: justaddasmile.dedicated.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 41.76.218.73,4,6,DNS Server: mv-hs1.pmbg.megs.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+102.132.169.181,4,158,DNS Server: n88l-cust.coolideas.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,
 196.25.155.102,4,34332876,DNS Server: national-electricity-regulator-gw.telkom-ipnet.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria East
 154.0.170.132,4,-10,DNS Server: pewpew.dedicated.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 41.78.36.10,4,3,DNS Server: rosebank.imagine.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Benoni
@@ -118,87 +117,83 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 105.243.213.211,4,1012,DNS Server: vc-gp-n-105-243-213-211.umts.vodacom.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Meyerton
 105.243.213.57,4,346,DNS Server: vc-gp-n-105-243-213-57.umts.vodacom.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Meyerton
 105.247.182.102,4,-742982901,DNS Server: vc-vb-105-247-182-102.ens.vodacom.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,
-154.0.169.74,4,21,doctoraseem.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+154.0.169.74,4,-3,doctoraseem.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 129.151.161.172,4,-4,DoH server: dns.daemon.za.net,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 129.151.162.166,4,-6,DoH server: dns.oliviertv.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 169.239.128.124,4,-1,DoH server: dnscry.pt-johannesburg-ipv4,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 154.0.175.29,4,-6,DoH server: pihole.datamatter.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-196.61.224.139,4,626,dominican.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+196.61.224.139,4,819,dominican.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 169.150.238.19,4,12,dreikon.de,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 165.73.83.199,4,-19,eagleeyesoptometry.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 156.38.208.66,4,2,ecomafrica.org,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 41.76.211.243,4,-9,ecs.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 164.160.91.50,4,4,ecu-warehouse.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 154.0.171.205,4,-7,enviropaedia.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-156.38.203.81,4,-18,erasa.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 156.38.230.184,4,12,eversdal.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 156.38.197.108,4,11,farpost.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
-139.84.227.107,4,0,fipumj.ac.id,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Isando
 66.22.96.124,4,0,firs.gov.ng,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-156.38.230.37,4,15,fixunix.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
+156.38.230.37,4,-4,fixunix.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 154.0.167.191,4,-3,florencemasebe.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 156.38.250.233,4,-17,fluence.africa,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 154.0.175.130,4,-22,flymango.africa,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-156.38.212.115,4,-12016,fmm.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 102.222.124.14,4,-4442,focusontransport.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 197.242.156.234,4,8,formscaff.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-156.38.230.29,4,13,globex360.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
+156.38.230.29,4,-2,globex360.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 197.242.158.42,4,-10,goldcoastestate.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 139.84.231.57,4,1,goplacesdigital.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Isando
-154.0.162.83,4,6,graduates24.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+154.0.162.83,4,-5,graduates24.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 156.38.135.50,4,-20,guesthousepongola.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 156.38.203.223,4,-3,hadithanswers.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
-154.0.163.172,4,6,harmonyclinic.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-102.222.124.11,4,3,humanstoryboard.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+154.0.163.172,4,-6,harmonyclinic.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+102.222.124.11,4,-1,humanstoryboard.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 197.242.151.91,4,1064,hunterhotels.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-156.38.230.51,4,37,icc.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
+156.38.230.51,4,-2,icc.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 34.35.56.5,4,0,infoisinfo.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-165.73.84.117,4,29,inforegulator.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+165.73.84.117,4,-5,inforegulator.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 41.76.213.96,4,4,jachris.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 102.129.40.35,4,-2,jibelatec.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Soshanguve
 156.38.230.155,4,-2,jobjungle.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
-156.38.203.43,4,16,joburg.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
-164.160.91.11,4,7,jordanwines.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+156.38.203.43,4,-1,joburg.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
+164.160.91.11,4,0,jordanwines.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 20.87.26.103,4,12,juta.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-102.222.124.15,4,4,k53rsa.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-164.160.91.35,4,2,kangaroomothercare.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-197.242.156.176,4,11,kayafm.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-154.0.160.172,4,6,kdconsulting.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+102.222.124.15,4,-1,k53rsa.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+164.160.91.35,4,-1,kangaroomothercare.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+197.242.156.176,4,-3,kayafm.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+154.0.160.172,4,-2,kdconsulting.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 102.210.146.10,4,2252,knightnet.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-156.38.203.80,4,7,krier.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
-154.0.166.115,4,3,kusa.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+156.38.203.80,4,-2,krier.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
+154.0.166.115,4,-1,kusa.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 164.160.91.38,4,-7,lamarcreatives.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 164.160.91.12,4,-5,lamosolar.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-156.38.230.7,4,8,laptoponline.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
-156.38.203.147,4,10,leeucollection.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
+156.38.230.7,4,-3,laptoponline.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
+156.38.203.147,4,-6,leeucollection.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 156.38.203.130,4,-9,legal-aid.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
-197.242.148.255,4,2,lestimes.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-154.0.167.88,4,1124,lifeaftermatric.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+197.242.148.255,4,-3,lestimes.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+154.0.167.88,4,-1,lifeaftermatric.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 102.22.80.182,4,3,lionsands.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 164.160.91.15,4,-7,livenetstudios.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 102.210.146.57,4,2959,loika.co.ke,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 154.0.162.205,4,-1,lssummaries.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 164.160.91.17,4,3,lynnwoodproperties.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-154.0.167.73,4,1193,makena.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+154.0.167.73,4,-3,makena.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 197.242.146.106,4,7,mani-industries.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 41.24.238.79,4,-3836,mcdonalds.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,
 41.180.70.131,4,9,mediaupdate.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 164.160.91.21,4,-5,metalsignage.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 154.0.174.213,4,-10,migration.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 34.35.62.31,4,-10,miro.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-156.155.252.83,4,1,mixinpeople.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-154.0.175.51,4,2,mmstadium.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+156.155.252.83,4,0,mixinpeople.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+154.0.175.51,4,-6,mmstadium.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 164.160.91.30,4,-24,modconsulting.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 154.0.175.208,4,2073,modualuminium.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 154.0.163.178,4,486,monprim.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 154.0.171.151,4,3,montevideo.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-197.242.145.93,4,13,moremaestates.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+197.242.145.93,4,-3,moremaestates.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 154.0.174.194,4,-2,mthonjaneni.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 165.73.85.115,4,4726,mut.ac.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 154.0.162.2,4,-6,mzansitaal.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 156.38.212.106,4,-1,namhost.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 154.0.171.149,4,-7,ncr.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-197.242.151.224,4,-2020,ncr.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 154.0.164.130,4,-22,nelsonmandelachildrensfund.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 165.73.83.60,4,1205,nfvf.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 41.193.14.173,4,-1,nightsbridge.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
@@ -208,7 +203,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 154.0.172.182,4,22514,nttgngo.org,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 20.164.37.31,4,13,nust.ac.zw,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 41.76.209.29,4,-17,onlinecarparts.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-197.242.157.67,4,68,onlinecarparts.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+197.242.157.67,4,-6,onlinecarparts.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 102.22.81.75,4,25,onlinecasino-southafrica.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 41.76.213.108,4,-5,onshownearme.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 41.208.11.219,4,-2,Ookla Speedtest Server 2962: speedtest.tb.mtn.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
@@ -234,9 +229,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 102.221.202.34,4,0,Ookla Speedtest Server 50884: speedtest-kzn.surf4life.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 102.33.30.182,4,-5,Ookla Speedtest Server 54362: speedtest.metrofibre.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 102.130.68.152,4,74,Ookla Speedtest Server 61308: johannesburg.speedtest.angolacables.co.ao,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-102.222.156.138,4,292,Ookla Speedtest Server 63561: jhb1.za.speedtest.ncryptd.net,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-156.38.207.138,4,346,Ookla Speedtest Server 63842: speedtest.urbanwave.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+102.222.156.138,4,-9466,Ookla Speedtest Server 63561: jhb1.za.speedtest.ncryptd.net,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 102.221.154.215,4,-2,Ookla Speedtest Server 63842: speed.urbanwave.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+156.38.207.138,4,2,Ookla Speedtest Server 63842: speedtest.urbanwave.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 102.209.241.23,4,-5,Ookla Speedtest Server 68257: spdtst.jhb.za.abantu.cloud,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 102.211.133.234,4,3,Ookla Speedtest Server 69372: speedtest.splizrnetworks.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 102.210.243.13,4,-5,Ookla Speedtest Server 70153: speedtest1.lightbridgefibre.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Menlyn Park
@@ -254,21 +249,21 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 41.180.4.117,4,798,provision-sa.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 164.160.91.25,4,6,psyssa.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 197.242.157.191,4,10,pttradios.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-41.73.51.11,4,14,rain.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-154.0.166.169,4,48,rawoctane.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+41.73.51.11,4,0,rain.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+154.0.166.169,4,-3,rawoctane.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 66.22.50.56,4,43,rbz.co.zw,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 197.242.159.231,4,0,recruithub.africa,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 102.222.124.17,4,10,responsiblegambling.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-169.1.24.242,4,54,responsiblegambling.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-156.38.250.198,4,29,rhinolion.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
+169.1.24.242,4,0,responsiblegambling.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+156.38.250.198,4,-3,rhinolion.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 164.160.91.13,4,5,rivonirecruitment.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-164.160.91.37,4,3,saairforce.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-197.242.149.187,4,503,sabreakingnews.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+164.160.91.37,4,1,saairforce.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+197.242.149.187,4,-2,sabreakingnews.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 197.242.146.110,4,479,sacbc.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-154.0.175.150,4,2,sacbc.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+154.0.175.150,4,-2,sacbc.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 197.242.148.52,4,-3,sace.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 154.0.161.145,4,3,sacities.net,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-154.0.164.145,4,3,sahpra.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+154.0.164.145,4,-5,sahpra.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 154.0.165.172,4,-1,sahrc.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 156.38.235.98,4,10,sajs.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 156.38.154.7,4,275,samedical.org,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
@@ -280,35 +275,34 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 102.222.124.13,4,3,sea-agri.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 156.38.166.234,4,13,shemcareers.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 154.0.162.38,4,11,shuddha.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-154.0.173.64,4,3,shutterdoor.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+154.0.173.64,4,-4,shutterdoor.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 164.160.91.58,4,26,sibeberesort.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 197.242.144.195,4,4001,sif.sc,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 41.76.208.44,4,12,simonstown.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 156.38.250.205,4,8,sitesdeapostas.co.mz,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
-154.0.167.69,4,-27,siyakhula.org,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-154.0.163.176,4,478,sntr.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+154.0.163.176,4,-3,sntr.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 156.38.218.179,4,11,soccertips.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 156.38.250.158,4,6,solardeals.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 102.222.124.23,4,7,southafrica.to,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 156.38.250.63,4,10,spu.ac.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 102.210.146.102,4,2841,srikenya.org,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-156.38.203.50,4,30,starplexmaintenance.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
+156.38.203.50,4,-2,starplexmaintenance.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 156.38.193.218,4,26,statecapture.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 156.38.250.80,4,13,steenbergfarm.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
-139.84.226.219,4,70,stikesdutagama.ac.id,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Isando
-156.38.230.31,4,5,studentconnects.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
+139.84.226.219,4,-1,stikesdutagama.ac.id,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Isando
+156.38.230.31,4,-2,studentconnects.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 102.129.165.58,4,10,supamega.net,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-139.84.238.246,4,4,swazimission.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+139.84.238.246,4,-1,swazimission.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 156.38.250.68,4,17,tac.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 156.38.224.35,4,3887,tacoma.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
-154.0.160.66,4,4209,techsmart.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-156.38.230.227,4,17,thandaisland.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
+154.0.160.66,4,14718,techsmart.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+156.38.230.227,4,-4,thandaisland.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 102.222.124.18,4,8,the-aupair.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 154.0.167.27,4,17,thejournalist.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-154.0.172.198,4,497,thelastmile.best,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+154.0.172.198,4,-5,thelastmile.best,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 164.160.89.145,4,25,thembalifikile.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 164.160.89.133,4,7,theoverclocker.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-102.211.205.98,4,4,thepetdirectory.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Centurion
+102.211.205.98,4,1,thepetdirectory.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Centurion
 156.38.230.215,4,18,therockrestaurantzanzibar.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 154.0.171.3,4,-11450,thesharkbay.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 156.38.203.189,4,9,thetrailerboys.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
@@ -322,16 +316,16 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 66.22.96.11,4,20,transnetnationalportsauthority.net,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 197.242.144.173,4,4,travpacker.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 165.73.80.28,4,10,ttibursaries.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-154.0.174.214,4,58006,turbocash.net,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+154.0.174.214,4,193,turbocash.net,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 156.38.144.210,4,12,turftalk.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 156.38.230.64,4,13,universalkitchens.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 156.38.154.21,4,533,uwc.ac.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
-156.38.250.69,4,5,uwc.ac.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
+156.38.250.69,4,-1,uwc.ac.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 156.38.230.27,4,-5,viperlounge.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 156.38.250.133,4,8,virtualbookeeper.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 197.221.165.100,4,120516,visiteasterncape.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 154.0.165.111,4,5,wapisummit.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-41.76.212.145,4,5,warwickwine.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+41.76.212.145,4,-2,warwickwine.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 154.0.169.9,4,5,wcgrb.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 169.1.20.6,4,4,weekendpost.co.bw,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 156.38.250.76,4,7,wegosell.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
@@ -342,9 +336,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 102.222.124.12,4,14,wisewayrecruitment.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 197.242.156.86,4,6,wmit-tech.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 102.214.9.50,4,20,woodlandstarkenya.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Centurion
-154.0.166.235,4,19,wpa-pool.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+154.0.166.235,4,-1,wpa-pool.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 165.73.87.206,4,4896,wpapool.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-156.38.250.223,4,2,wtgf.org,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
+156.38.250.223,4,-2,wtgf.org,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Pretoria
 102.222.124.10,4,2,zevoligp.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
-154.0.174.244,4,1948,zintofs.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
+154.0.174.244,4,-3,zintofs.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg
 164.160.91.47,4,2,zombetutorials.com,ZA,Africa,Sub-Saharan Africa,South Africa,Gauteng,,Johannesburg

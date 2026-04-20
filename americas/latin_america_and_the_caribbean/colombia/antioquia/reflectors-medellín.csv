@@ -1,8 +1,7 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-200.122.217.234,4,12,ada-aero.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-179.50.14.235,4,52,antillana.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+200.122.217.234,4,-16,ada-aero.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+179.50.14.235,4,3044,antillana.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
 181.58.255.114,4,-4515,asopat.com,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-181.49.136.162,4,-20,barranquilla.gov.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
 190.90.160.165,4,9,biblored.gov.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
 190.60.110.144,4,327,cerlalc.org,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
 186.154.221.98,4,-16,cinematecadebogota.gov.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
@@ -57,6 +56,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 181.205.233.82,4,12116,DNS Server: Dinamic-Tigo-181-205-233-82.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
 181.205.241.34,4,64082655,DNS Server: Dinamic-Tigo-181-205-241-34.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
 181.205.252.242,4,30390,DNS Server: Dinamic-Tigo-181-205-252-242.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+181.205.28.162,4,39,DNS Server: Dinamic-Tigo-181-205-28-162.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
 181.205.34.122,4,6410780,DNS Server: Dinamic-Tigo-181-205-34-122.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
 181.205.47.219,4,-2600,DNS Server: Dinamic-Tigo-181-205-47-219.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
 181.205.48.18,4,-7,DNS Server: Dinamic-Tigo-181-205-48-18.tigo.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
@@ -163,5 +163,5 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 190.90.160.166,4,-3,servtecnica.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
 190.131.233.69,4,11,supergiros.com.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
 179.50.90.223,4,18,ucaldas.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
-179.50.16.128,4,0,ucatolicaluisamigo.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
+179.50.16.128,4,6,ucatolicaluisamigo.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín
 190.60.126.67,4,-2,ufps.edu.co,CO,Americas,Latin America and the Caribbean,Colombia,Antioquia,,Medellín

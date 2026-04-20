@@ -1,10 +1,10 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 91.102.137.13,4,1530,aachen.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Aachen
 195.243.56.85,4,21,koenigswinter.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Aachen
-195.243.56.28,4,5,meckenheim.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Aachen
+195.243.56.28,4,-5,meckenheim.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Aachen
 195.243.56.36,4,2,obk.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Aachen
 5.145.135.169,4,-3,Ookla Speedtest Server 43512: speedtestnet.relaix.net,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Aachen
 195.243.56.176,4,15,rheinbach.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Aachen
 91.102.137.149,4,1275,staedteregion-aachen.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Aachen
-91.102.137.147,4,869,stawag.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Aachen
-91.102.136.240,4,3,wuerselen.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Aachen
+91.102.137.147,4,1414,stawag.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Aachen
+91.102.136.240,4,-1,wuerselen.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Aachen

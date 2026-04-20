@@ -1,17 +1,17 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 176.74.22.29,4,0,alastairhumphreys.com,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
-176.74.17.186,4,98,babington.co.uk,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
+176.74.17.186,4,0,babington.co.uk,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
 193.33.178.69,4,57,ballet.org.uk,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
 176.74.17.208,4,3308,balticmill.com,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
 193.33.178.55,4,66,bsperio.org.uk,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
 176.74.17.140,4,5,businessfocusmagazine.com,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
 176.74.18.105,4,-25,centreforceradio.com,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
-176.74.22.3,4,58,christmas.co.uk,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
+176.74.22.3,4,-1974,christmas.co.uk,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
 176.74.18.83,4,0,colostomyuk.org,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
-176.74.17.227,4,117,cornwallairambulancetrust.org,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
+176.74.17.227,4,0,cornwallairambulancetrust.org,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
 5.181.27.171,4,-4,DNS Server: painel6.fast01.theworkpc.com,GB,Europe,Northern Europe,United Kingdom,England,Brent,Harlesden
 193.33.178.145,4,399835,foon.uk,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
-176.74.17.216,4,54,funds-europe.com,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
+176.74.17.216,4,0,funds-europe.com,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
 193.33.178.84,4,-4,gardenmuseum.org.uk,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
 193.33.178.19,4,-19,geographyfieldwork.com,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
 176.74.20.39,4,3,gmintegratedcare.org.uk,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
@@ -32,7 +32,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 176.74.19.18,4,14,thetangent.org,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
 176.74.18.130,4,21,uidcfinancecompany.com.ng,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
 176.74.17.134,4,16,uniglobalunion.org,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
-176.74.18.110,4,2,wenlock-olympian-society.org.uk,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
+176.74.18.110,4,-1,wenlock-olympian-society.org.uk,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
 176.74.18.98,4,3,wmgallery.org.uk,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
 176.74.16.11,4,5,world-stroke.org,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood
 193.33.178.38,4,10,worldobesity.org,GB,Europe,Northern Europe,United Kingdom,England,Brent,Cricklewood

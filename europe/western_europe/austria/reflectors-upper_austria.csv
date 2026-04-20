@@ -5,10 +5,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 88.116.69.18,4,-4,DNS Server: mail.anrei.at,AT,Europe,Western Europe,Austria,Upper Austria,,Steyr
 193.170.99.77,4,25,dorftv.at,AT,Europe,Western Europe,Austria,Upper Austria,,Vorchdorf
 80.243.171.226,4,5,eww.at,AT,Europe,Western Europe,Austria,Upper Austria,,Wels
-140.78.118.194,4,5,icchp.org,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
+140.78.118.194,4,-4,icchp.org,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
 140.78.3.160,4,-9,jku.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
 212.33.55.8,4,-5,liwest.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
-212.52.198.92,4,2,mcexpert.at,AT,Europe,Western Europe,Austria,Upper Austria,,Wels
+212.52.198.92,4,0,mcexpert.at,AT,Europe,Western Europe,Austria,Upper Austria,,Wels
 83.164.168.67,4,-2,moviemento.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
 212.33.36.188,4,-4,Ookla Speedtest Server 818: speedcheck.liwest.at,AT,Europe,Western Europe,Austria,Upper Austria,,Linz
 85.31.5.226,4,7,Ookla Speedtest Server 3840: speedtest.itandtel.at,AT,Europe,Western Europe,Austria,Upper Austria,,Wels

@@ -1,14 +1,13 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 200.55.33.35,4,23,alfabeta.net,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 149.78.141.228,4,3088844,amsafe.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
-200.80.43.211,4,-2,bodegacolome.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 149.78.140.171,4,616,campananoticias.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
-186.0.229.34,4,4,cij.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
+186.0.229.34,4,-3,cij.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 200.80.42.204,4,-10,cmtv.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 190.61.219.75,4,312776,contartese.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 200.80.43.118,4,-6,cyta.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 209.13.159.138,4,-18,defensorba.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
-149.50.129.96,4,226,desarrollomor.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
+149.50.129.96,4,0,desarrollomor.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 200.10.111.176,4,-9,DNS Server: 176.host.advance.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 181.30.97.20,4,150222,DNS Server: 20-97-30-181.fibertel.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 200.41.174.20,4,1,DNS Server: 20.host.advance.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
@@ -24,7 +23,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 181.209.19.20,4,-7,ib.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 200.80.43.108,4,-1,medicinabuenosaires.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 200.73.130.245,4,6,olavarria.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
-200.80.43.55,4,-1,oma.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 181.9.194.11,4,1392,Ookla Speedtest Server 4227: st-santafe-rce1.cablevisionfibertel.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 181.9.194.135,4,6163,Ookla Speedtest Server 5043: st-salta-tuc1.cablevisionfibertel.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 181.9.194.198,4,1323,Ookla Speedtest Server 9188: st-resistencia-ctr1.cablevisionfibertel.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
@@ -35,10 +33,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 190.105.164.2,4,4,Ookla Speedtest Server: www.pccp.net.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 138.0.104.2,4,-1,ppn.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 200.80.42.181,4,8,puertobahiablanca.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
-200.80.42.219,4,47,puntoip.info,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
+200.80.42.219,4,-1,puntoip.info,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 168.96.15.24,4,20,rosario-conicet.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 200.80.43.221,4,16,sagselatam.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
-200.80.43.5,4,1,smarthings.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
+200.80.43.5,4,-1,smarthings.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 200.10.113.125,4,-20,susanabalbowines.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 149.50.129.246,4,26,terrazaslamadrid.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 200.80.43.16,4,-3,towebs.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires

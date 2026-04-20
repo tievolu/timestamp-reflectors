@@ -26,8 +26,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 31.47.98.37,4,17,Ookla Speedtest Server 3394: speedtest.hvfree.net,CZ,Europe,Eastern Europe,Czechia,Zlín,Vsetín District,Rožnov pod Radhoštěm
 93.89.109.110,4,-2,Ookla Speedtest Server 5148: speedtest.sychrovnet.cz,CZ,Europe,Eastern Europe,Czechia,Zlín,Vsetín District,Vsetín
 212.111.1.28,4,-12,Ookla Speedtest Server 10855: speed.inext.cz,CZ,Europe,Eastern Europe,Czechia,Zlín,Zlín District,Zlín
-79.170.251.40,4,40,oubrecht.cz,CZ,Europe,Eastern Europe,Czechia,Zlín,Zlín District,Zlín
-193.165.158.243,4,18,skipcr.cz,CZ,Europe,Eastern Europe,Czechia,Zlín,Zlín District,Otrokovice
+79.170.251.40,4,-1,oubrecht.cz,CZ,Europe,Eastern Europe,Czechia,Zlín,Zlín District,Zlín
+193.165.158.243,4,-39,skipcr.cz,CZ,Europe,Eastern Europe,Czechia,Zlín,Zlín District,Otrokovice
 93.99.104.161,4,48,soom.cz,CZ,Europe,Eastern Europe,Czechia,Zlín,Uherské Hradiště District,Uherské Hradiště
 195.178.88.109,4,9,utb.cz,CZ,Europe,Eastern Europe,Czechia,Zlín,Zlín District,Zlín
 81.161.68.92,4,29685585,wifi-ub.eu,CZ,Europe,Eastern Europe,Czechia,Zlín,Uherské Hradiště District,Uherský Brod

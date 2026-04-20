@@ -1,21 +1,21 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-82.220.37.2,4,5,123ben.ch,CH,Europe,Western Europe,Switzerland,Solothurn,,
-62.12.149.232,4,3,aess-bar.ch,CH,Europe,Western Europe,Switzerland,Solothurn,,Schönenwerd
-62.12.149.109,4,17,aila.info,CH,Europe,Western Europe,Switzerland,Solothurn,,Schönenwerd
-82.220.37.30,4,30,almodovar.at,CH,Europe,Western Europe,Switzerland,Solothurn,,
+82.220.37.2,4,-1,123ben.ch,CH,Europe,Western Europe,Switzerland,Solothurn,,
+62.12.149.232,4,667,aess-bar.ch,CH,Europe,Western Europe,Switzerland,Solothurn,,Schönenwerd
+62.12.149.109,4,-1,aila.info,CH,Europe,Western Europe,Switzerland,Solothurn,,Schönenwerd
+82.220.37.30,4,0,almodovar.at,CH,Europe,Western Europe,Switzerland,Solothurn,,
 87.102.243.242,4,37,DNS Server: cable-static-243-242.breitband.ch,CH,Europe,Western Europe,Switzerland,Solothurn,,Dornach
-212.60.61.246,4,0,DoH server: doh.quickline.ch dot.quickline.ch,CH,Europe,Western Europe,Switzerland,Solothurn,,Wolfwil
-82.220.37.15,4,68,european-arachnology.org,CH,Europe,Western Europe,Switzerland,Solothurn,,
+212.60.61.246,4,0,DoH server: doh.quickline.ch, dot.quickline.ch,CH,Europe,Western Europe,Switzerland,Solothurn,,Wolfwil
+82.220.37.15,4,0,european-arachnology.org,CH,Europe,Western Europe,Switzerland,Solothurn,,
 82.220.38.5,4,17,foodrunner.de,CH,Europe,Western Europe,Switzerland,Solothurn,,
 82.220.38.149,4,12,hotelakbulut.com,CH,Europe,Western Europe,Switzerland,Solothurn,,
-82.220.38.77,4,7,kajinga.com,CH,Europe,Western Europe,Switzerland,Solothurn,,
-82.220.34.48,4,7,lobotomo.com,CH,Europe,Western Europe,Switzerland,Solothurn,,
-82.220.37.11,4,7,metason.net,CH,Europe,Western Europe,Switzerland,Solothurn,,
-82.220.38.154,4,44,offizieller-registrar.ch,CH,Europe,Western Europe,Switzerland,Solothurn,,
+82.220.38.77,4,-1,kajinga.com,CH,Europe,Western Europe,Switzerland,Solothurn,,
+82.220.34.48,4,0,lobotomo.com,CH,Europe,Western Europe,Switzerland,Solothurn,,
+82.220.37.11,4,-1,metason.net,CH,Europe,Western Europe,Switzerland,Solothurn,,
+82.220.38.154,4,0,offizieller-registrar.ch,CH,Europe,Western Europe,Switzerland,Solothurn,,
 82.220.1.238,4,-4,Ookla Speedtest Server 23723: speedcheck.solnet.ch,CH,Europe,Western Europe,Switzerland,Solothurn,,
 82.220.17.228,4,3,opencsw.org,CH,Europe,Western Europe,Switzerland,Solothurn,,
 82.220.34.82,4,3,pr-inside.com,CH,Europe,Western Europe,Switzerland,Solothurn,,
 82.220.34.4,4,4,safeexambrowser.org,CH,Europe,Western Europe,Switzerland,Solothurn,,
 82.220.38.226,4,15,stadtcasinobaden.ch,CH,Europe,Western Europe,Switzerland,Solothurn,,
 82.220.38.133,4,3,zueriost.ch,CH,Europe,Western Europe,Switzerland,Solothurn,,
-62.12.149.251,4,3,zumstein.ch,CH,Europe,Western Europe,Switzerland,Solothurn,,Schönenwerd
+62.12.149.251,4,-1,zumstein.ch,CH,Europe,Western Europe,Switzerland,Solothurn,,Schönenwerd

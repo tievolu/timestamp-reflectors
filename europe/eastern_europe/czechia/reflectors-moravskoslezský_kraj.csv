@@ -24,7 +24,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 217.196.113.40,4,49393,mopsovi.cloud,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Bruntál District,Bruntál
 81.30.251.141,4,-9,nohavica.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Okres Ostrava-město,Ostrava
 212.158.159.82,4,-63,novyjicin.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Opava District,Hlučín
-93.91.250.49,4,-456908,Ookla Speedtest Server 8806: speedtest.hlucin.net,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Opava District,Hlučín
 93.187.105.139,4,-12,Ookla Speedtest Server 10876: ova-cdn-speedtest.warnet.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Okres Ostrava-město,Ostrava
 93.185.8.31,4,-2,Ookla Speedtest Server 23972: speedtest.albrnet.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Okres Frýdek-Místek,Frýdek-Místek
 85.135.13.2,4,-34,Ookla Speedtest Server 33391: rychlost.poda.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Okres Karviná,Rychvald
@@ -36,12 +35,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.231.236.6,4,-20,Ookla Speedtest Server: www.moses.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Bruntál District,Krnov
 217.197.37.210,4,22,project-aliante.org,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Nový Jičín District,Studénka
 185.175.8.198,4,-14,pruvodce.com,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Okres Ostrava-město,Ostrava
-185.175.8.210,4,-9051,pruvodce.com,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Okres Ostrava-město,Ostrava
 185.175.11.14,4,15,qwerin.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Okres Frýdek-Místek,Paskov
 213.155.227.119,4,-30,sspu-opava.eu,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Opava District,Opava
 91.103.162.250,4,-5,svetzeny.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Okres Karviná,Orlová
 78.157.167.57,4,-23,tdi-tuning.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Okres Karviná,Český Těšín
-217.196.209.29,4,14,uax.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Nový Jičín District,
+217.196.209.29,4,-1,uax.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Nový Jičín District,
 185.175.8.140,4,16,vasestiznosti.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Okres Ostrava-město,Ostrava
-46.47.178.163,4,26,voton.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Okres Ostrava-město,Ostrava
+46.47.178.163,4,-1,voton.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Okres Ostrava-město,Ostrava
 85.207.54.136,4,10,wifiprofi.cz,CZ,Europe,Eastern Europe,Czechia,Moravskoslezský kraj,Nový Jičín District,Nový Jičín

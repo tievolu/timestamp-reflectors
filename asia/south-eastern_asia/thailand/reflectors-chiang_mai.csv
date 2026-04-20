@@ -1,6 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 202.28.244.64,4,-5,cmu.ac.th,TH,Asia,South-eastern Asia,Thailand,Chiang Mai,,Chiang Mai
-202.28.244.121,4,11,cmu.ac.th,TH,Asia,South-eastern Asia,Thailand,Chiang Mai,,Chiang Mai
+202.28.244.121,4,5,cmu.ac.th,TH,Asia,South-eastern Asia,Thailand,Chiang Mai,,Chiang Mai
 118.172.187.154,4,1588,DNS Server: node-1122.pool-118-172.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chiang Mai,,Chiang Mai
 118.172.49.55,4,139788,DNS Server: node-9pz.pool-118-172.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chiang Mai,,Chiang Mai
 125.25.82.191,4,5,DNS Server: node-gcf.pool-125-25.dynamic.totinternet.net,TH,Asia,South-eastern Asia,Thailand,Chiang Mai,,Chiang Mai

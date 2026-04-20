@@ -1,15 +1,13 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-188.68.250.230,4,-5465,charzykowy.net.pl,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Olsztyn
 88.199.128.188,4,79627965,DNS Server: 88-199-128-188.tktelekom.pl,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Nidzica
 88.220.99.92,4,718742,DNS Server: 88-220-99-92.via.wektormedia.pl,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Sępopol
 92.55.226.116,4,38041211,DNS Server: 92-55-226-116.net.hawetelekom.pl,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Świątki
 93.105.142.185,4,58598,DNS Server: c-093105142185.vectranet.pl,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Elblag
 46.151.72.4,4,-4264146,elk.com.pl,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Ełk
 46.151.72.9,4,4181,elknet.pl,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Ełk
-188.68.248.16,4,24,golebieonline.pl,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Olsztyn
-188.68.242.180,4,4,ip2c.org,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Olsztyn
+188.68.248.16,4,0,golebieonline.pl,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Olsztyn
+188.68.242.180,4,-1,ip2c.org,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Olsztyn
 188.68.250.63,4,-1,krosno24.pl,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Olsztyn
-91.240.132.8,4,2,kurzehistorie.pl,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Olecko
 185.139.125.173,4,24,minilink.pl,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Ostróda
 188.68.242.6,4,-12,mol.pl,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Olsztyn
 188.68.248.59,4,3,nck.org.pl,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Olsztyn
@@ -20,6 +18,5 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.138.239.18,4,4,Ookla Speedtest Server 33050: speedtest.macrosat.pl,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Barczewo
 188.68.252.220,4,-16,rolnet.pl,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Olsztyn
 188.68.240.221,4,-1290,simplystreep.com,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Olsztyn
-188.68.252.223,4,5,sky-shop.pl,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Olsztyn
 188.68.252.48,4,12,wmeritum.pl,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Olsztyn
-95.48.192.203,4,14,zegluga.com.pl,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Ostróda
+95.48.192.203,4,3,zegluga.com.pl,PL,Europe,Eastern Europe,Poland,Warmia-Masuria,,Ostróda

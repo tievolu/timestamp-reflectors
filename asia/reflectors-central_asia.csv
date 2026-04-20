@@ -1,12 +1,9 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 90.156.230.134,4,-2,1.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-185.98.5.222,4,-2,1c-dreamsoft.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 5.59.233.112,4,8,1c-kato.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
-80.90.181.50,4,-17,1moto.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 82.115.43.182,4,5,1stroitelny.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-185.22.65.97,4,4,1stroitelny.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+185.22.65.97,4,-33,1stroitelny.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 2.134.13.123,4,-60,1tv.kz,KZ,Asia,Central Asia,Kazakhstan,Shymkent,,Shymkent
-185.120.79.221,4,86065,1tv.kz,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
 38.244.134.170,4,3,1wincasinoinkz.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 38.244.135.163,4,3,1xbet-kazakh.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 38.244.135.35,4,-5,1xbetonline.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
@@ -14,28 +11,24 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 82.115.48.204,4,-1,247travel.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 213.148.2.34,4,-1,2gis.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 213.148.2.82,4,-13,2gis.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-213.148.25.234,4,-7,2gis.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-194.67.82.50,4,3,2gis.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-185.125.91.91,4,-4,31.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+194.67.82.50,4,-35,2gis.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 94.247.128.156,4,-3,3dnews.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 185.116.195.214,4,21,3h.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 91.201.214.220,4,0,50-30-30.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.98.5.124,4,12,716.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 82.115.43.83,4,-5,aaq.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 89.46.33.74,4,-2,abai.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-185.98.5.109,4,-3,abcmarket.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 91.215.136.130,4,-10,abdi.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-195.49.212.165,4,14,access-education.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
+195.49.212.165,4,-1,access-education.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 77.240.39.152,4,-29,adata.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 77.240.39.151,4,-7,adata.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 83.222.7.34,4,68988,adti.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 77.246.247.48,4,-5,advanced.name,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-188.130.160.158,4,30,advokat-alliance.ru,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
 185.146.3.28,4,1,adyrna.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 151.236.196.172,4,9216496,agrotnk.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 194.146.42.60,4,1,aikyn.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.116.195.172,4,-4,aircharter.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-212.112.120.195,4,281,airport.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+212.112.120.195,4,742,airport.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
 185.98.5.102,4,-4,airvent.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 185.129.48.90,4,2,aisbdd.kz,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
 38.244.134.40,4,2,aisdpa.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
@@ -57,13 +50,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 31.210.175.137,4,-1,almajuice.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 185.100.64.51,4,735912,almatv.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 92.46.63.251,4,-45,almaty.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-91.216.178.160,4,-9,almaty.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 38.244.135.140,4,0,almatydom.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 95.161.227.249,4,11897,almau.edu.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 185.129.48.88,4,-1,almavilla.kz,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
 109.248.199.211,4,-22,altyn-orda.kz,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
 176.126.166.85,4,2,amanat-invest.kg,KG,Asia,Central Asia,Kyrgyzstan,,,
-185.98.5.104,4,0,amirsana.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
+185.98.5.104,4,-8,amirsana.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 92.46.220.128,4,3,anpz.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.99.126.126,4,7,apa.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 89.218.72.238,4,21,apartamenty.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
@@ -71,7 +63,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 194.146.42.19,4,-7,apteka.com,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.125.90.158,4,-3,aptekaplus.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.98.5.228,4,-20,aquatic.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
-91.212.89.54,4,92,arbuz.uz,UZ,Asia,Central Asia,Uzbekistan,,,
+91.212.89.54,4,-563420,arbuz.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 185.98.5.189,4,-8,argymaq.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 195.49.215.160,4,-2,arnapress.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 83.69.137.3,4,3,arthotelsgroup.uz,UZ,Asia,Central Asia,Uzbekistan,,,
@@ -81,37 +73,30 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 109.248.198.130,4,16,astanahub.com,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
 185.98.7.4,4,-16,astanatv.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 78.40.108.153,4,-6,atameken.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-185.100.65.149,4,-1,atlant.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 38.244.135.154,4,-9,atoz.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 178.89.187.107,4,-16,atpress.kz,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
 185.116.195.203,4,-58,atu.edu.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 95.141.135.237,4,-23,auezov.edu.kz,KZ,Asia,Central Asia,Kazakhstan,West Kazakhstan,,Oral
 38.244.135.144,4,-16,autohelp.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-185.98.5.235,4,-3,autoshina.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 91.147.92.238,4,-8,avi.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
-93.115.14.3,4,-7,avokado.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-185.100.67.8,4,5,avtomatika.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
+185.100.67.8,4,-11,avtomatika.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 185.234.114.60,4,3,ayacom.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 91.185.7.254,4,3613681,ayagoz-roo.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 95.58.21.77,4,-19076,ayu.edu.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 194.146.42.102,4,-9,azattyq-ruhy.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-194.146.42.82,4,6,azattyq-ruhy.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+194.146.42.82,4,-4,azattyq-ruhy.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 89.219.32.139,4,-4,azh.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-194.4.56.182,4,-7,azimuttrade.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 195.210.47.139,4,-6,azscore.ru,KZ,Asia,Central Asia,Kazakhstan,,,
-185.98.5.168,4,-6,b-artbaget.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 185.113.134.72,4,5452,banker.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 88.204.166.19,4,-58,baq.kz,KZ,Asia,Central Asia,Kazakhstan,Zhambyl Oblysy,,Taraz
 93.115.14.253,4,-13,barbara.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 45.94.219.117,4,3,barqitojik.tj,TJ,Asia,Central Asia,Tajikistan,Viloyati Sughd,,Khujand
-185.98.5.212,4,32,bastion.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
+185.98.5.212,4,-22,bastion.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 38.244.179.131,4,31,batysaliansstroy.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-185.18.254.237,4,214030,bearing.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 91.147.81.154,4,-16,bestnews.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-77.243.80.241,4,12,bet24.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-194.135.25.81,4,10,betonmobile.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+77.243.80.241,4,-8,bet24.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+194.135.25.81,4,-2,betonmobile.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 188.244.115.23,4,-13,bfk.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-185.98.5.129,4,-4,bibliotekar.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 188.130.234.250,4,-20,bilim-all.kz,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
 38.244.179.153,4,-4,bilim-orda.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 38.244.135.136,4,-5,bilimastana.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
@@ -126,7 +111,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.201.214.209,4,1,bluescreen.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 94.247.135.207,4,-1,book24.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 213.148.2.19,4,19,bothub.chat,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-82.200.204.4,4,705772,bourabai.ru,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 94.247.133.35,4,-6,brezent.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 46.226.123.209,4,12,buffalogrill.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 188.0.155.174,4,-18,buketov.edu.kz,KZ,Asia,Central Asia,Kazakhstan,,,
@@ -140,7 +124,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 84.252.159.235,4,-14,caravan.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.146.1.44,4,-8,carececo.org,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 109.248.231.35,4,-18,carefood.kz,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
-109.233.111.61,4,5,carefood.kz,KZ,Asia,Central Asia,Kazakhstan,,,
+109.233.111.61,4,-31249,carefood.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 185.121.81.76,4,-2,casino.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 185.22.64.100,4,5,casinomontana.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 38.244.135.43,4,-65,caspiantoday.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
@@ -153,9 +137,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.146.3.58,4,2,centralmedia24.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 38.244.135.193,4,-16,chemodan-chik.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 38.244.134.57,4,29,chicken-road1.in,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-195.49.210.253,4,8,chist.kz,KZ,Asia,Central Asia,Kazakhstan,,,
+195.49.210.253,4,-8,chist.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 89.219.32.147,4,-24,citypass.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-176.126.165.71,4,7,climatehub.kg,KG,Asia,Central Asia,Kyrgyzstan,,,
+176.126.165.71,4,0,climatehub.kg,KG,Asia,Central Asia,Kyrgyzstan,,,
 194.32.141.123,4,-33,cmn.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 93.115.14.8,4,-11,cmr.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 195.38.168.118,4,-14,co.kg,KG,Asia,Central Asia,Kyrgyzstan,,,
@@ -164,20 +148,17 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 188.0.147.5,4,4,continent-online.com,KZ,Asia,Central Asia,Kazakhstan,,,
 89.35.125.6,4,-39,converter-valut.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 82.115.48.251,4,-29,courses-top.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-195.158.14.74,4,-12,creditasia.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
-185.146.3.159,4,9477,credito.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+185.146.3.159,4,171070,credito.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 5.59.233.207,4,-16,credits.com,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
 78.40.108.125,4,-15,cremap.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 38.244.135.247,4,3,cso.com.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.98.5.152,4,-11,cu.edu.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
-82.200.204.12,4,-57,cwer.ru,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-82.200.204.13,4,-66,cwer.ws,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-185.121.81.165,4,1668,dana-market.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
+185.121.81.165,4,73484,dana-market.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 89.218.185.157,4,77,daryn.kz,KZ,Asia,Central Asia,Kazakhstan,Pavlodar Region,,Pavlodar
 91.147.106.110,4,0,daryn.online,KZ,Asia,Central Asia,Kazakhstan,,,
 195.38.162.93,4,-6,data.gov.kg,KG,Asia,Central Asia,Kyrgyzstan,,,
 185.116.194.79,4,-5,daz.asia,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-185.146.3.219,4,947,degaoptical.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+185.146.3.219,4,-4,degaoptical.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.98.5.114,4,-10,demos.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 38.244.179.136,4,-35,design3d.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 45.138.159.4,4,-15,deye.uz,UZ,Asia,Central Asia,Uzbekistan,,,
@@ -193,7 +174,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.129.192.63,4,39454294,DNS Server: 185-129-192-63.kcell.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 2.132.110.103,4,-1897,DNS Server: 2.132.110.103.megaline.telecom.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 2.132.189.12,4,-2585,DNS Server: 2.132.189.12.megaline.telecom.kz,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
-2.132.36.173,4,10801053,DNS Server: 2.132.36.173.megaline.telecom.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+2.132.36.173,4,-3729,DNS Server: 2.132.36.173.megaline.telecom.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 2.133.119.169,4,4244,DNS Server: 2.133.119.169.megaline.telecom.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 2.133.175.239,4,2410,DNS Server: 2.133.175.239.megaline.telecom.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 2.133.191.9,4,-3021,DNS Server: 2.133.191.9.megaline.telecom.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
@@ -260,21 +241,16 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.158.0.5,4,0,DNS Server: ns2.uzpak.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 84.54.64.35,4,-4,DNS Server: ns3.uzpak.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 85.29.148.9,4,36999209,DNS Server: ukg.2day.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
-89.218.62.190,4,-286246,dobren.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty Region,,
-185.253.8.25,4,7,doctor-khl.kz,KZ,Asia,Central Asia,Kazakhstan,,,
+185.253.8.25,4,-3,doctor-khl.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 195.38.160.7,4,-3,DoH server: dns.cctld.kg,KG,Asia,Central Asia,Kyrgyzstan,,,
 2.135.147.99,4,1,DoH server: kz-pav-w-p-1.nashkan.net,KZ,Asia,Central Asia,Kazakhstan,Zhambyl Oblysy,,Taraz
-188.130.238.39,4,-10,dozor.kz,KZ,Asia,Central Asia,Kazakhstan,Pavlodar Region,,Pavlodar
 88.204.213.227,4,-10,dulaty.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 95.130.227.165,4,-2,dunyo.info,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
-95.130.227.41,4,86,dunyo.info,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 193.111.11.11,4,729,dushanbe.tj,TJ,Asia,Central Asia,Tajikistan,,,
 91.215.136.20,4,36,e-katalog.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-185.98.5.166,4,19,eco-adamant.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
+185.98.5.166,4,-20,eco-adamant.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 212.116.240.170,4,-11,eco-service.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-46.8.31.143,4,-10,edgenrx.com,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
 85.113.24.52,4,-2,edu.gov.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
-85.113.15.230,4,-15897789,edu.gov.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
 195.158.3.34,4,-570,edu.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 37.151.106.235,4,-456287,egemen.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 185.98.5.184,4,-23,egi.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
@@ -283,22 +259,20 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 38.244.135.212,4,-9,ekiti.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 77.220.204.95,4,2,ekois.net,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
 193.176.239.132,4,-16,el-sozduk.kg,KG,Asia,Central Asia,Kyrgyzstan,,,
-212.42.102.209,4,62,elcat.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
+212.42.102.209,4,20,elcat.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
 38.244.134.43,4,-23,elcorazon.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 86.107.198.121,4,4,eldala.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 178.91.128.102,4,861240,election.gov.kz,KZ,Asia,Central Asia,Kazakhstan,West Kazakhstan,,Oral
-46.36.132.160,4,10165,elim.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-46.226.123.181,4,6,elorda.info,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+46.36.132.160,4,1366,elim.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+46.226.123.181,4,-21,elorda.info,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 93.115.14.11,4,-16,encyclopedia.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 91.212.89.68,4,-342945,energomet.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 89.218.48.58,4,-14,enic-kazakhstan.edu.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty Region,,
 195.12.124.25,4,55,eotinish.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 86.107.198.221,4,-8,er10.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-109.248.170.160,4,-12,erkemay-baby.kz,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
 217.11.176.155,4,-2386853,eshop.tj,TJ,Asia,Central Asia,Tajikistan,Dushanbe,,Dushanbe
-89.46.33.129,4,-3,esquire.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 89.35.125.34,4,-5,eurasian-bridge.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-91.201.215.158,4,3,eurocertificat.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+91.201.215.158,4,-30,eurocertificat.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 91.215.139.22,4,-20,euromebel.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 213.148.5.22,4,-10,exclusive-farfor.ru,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.98.5.230,4,-53,expertcolor.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
@@ -311,29 +285,22 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 37.151.92.210,4,-62,forklog.com,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 185.98.5.200,4,-28,foundation.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 89.207.255.214,4,-3,french-house.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-185.98.5.175,4,-3,g3.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 185.100.67.139,4,10,generalre.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 94.131.91.125,4,10,geokurs-online.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 185.253.8.71,4,-4,gippokrat.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 95.46.210.92,4,7,glotr.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
-78.40.109.162,4,4,gmask.kz,KZ,Asia,Central Asia,Kazakhstan,,,
+78.40.109.162,4,-3,gmask.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 213.232.225.60,4,20,goldenpages.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 185.98.5.188,4,-2,goodgame.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
-92.47.15.18,4,28,gorodpavlodar.kz,KZ,Asia,Central Asia,Kazakhstan,Aqmola,,Kokshetau
 5.35.80.194,4,11,gorodskoyportal.ru,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 91.215.137.241,4,-18,gotur.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 178.91.254.185,4,33603,gov4c.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
-178.170.221.224,4,13,grouphe.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-185.234.114.32,4,-14,gruz200.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-83.69.136.109,4,-9,gt-industrial.uk,UZ,Asia,Central Asia,Uzbekistan,,,
 185.116.195.195,4,1,gumir-darya.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.125.91.43,4,15798107,gurk.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-94.247.135.151,4,3,gurme.kz,KZ,Asia,Central Asia,Kazakhstan,,,
+94.247.135.151,4,0,gurme.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 90.156.193.194,4,7,haematech.com,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 38.244.134.92,4,-19,hafizgroup.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-185.98.5.170,4,-2,hakmedical.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 195.158.20.166,4,-1072,hamkorbank.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
-89.46.33.130,4,-6,harpersbazaar.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 37.151.92.155,4,-8,hcbarys.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 38.244.135.241,4,-23,heavenbless.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 178.88.114.118,4,-66,hh.kz,KZ,Asia,Central Asia,Kazakhstan,West Kazakhstan,,Oral
@@ -342,21 +309,19 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 176.126.165.15,4,5,hm.kg,KG,Asia,Central Asia,Kyrgyzstan,,,
 38.244.134.55,4,-6,homeline-shop.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 176.126.165.224,4,1271614,hoster.kg,KG,Asia,Central Asia,Kyrgyzstan,,,
-185.111.105.50,4,-4,hottour.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 91.215.137.230,4,6,ht.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 185.98.5.210,4,-9,hta2022.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 94.232.43.112,4,31,hut.ru,KG,Asia,Central Asia,Kyrgyzstan,,,
-185.98.5.117,4,-2,i-help.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 185.91.126.210,4,-17,i-teka.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 185.121.81.229,4,-15,iapn.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 82.115.41.187,4,-10,icehockey.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 84.54.115.68,4,3,icwc-aral.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 91.212.89.9,4,8,id.uz,UZ,Asia,Central Asia,Uzbekistan,,,
-94.247.135.200,4,9,ife-online.kz,KZ,Asia,Central Asia,Kazakhstan,,,
+94.247.135.200,4,-8,ife-online.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 176.126.165.192,4,15,imu.edu.kg,KG,Asia,Central Asia,Kyrgyzstan,,,
 185.121.82.178,4,-12,inbusiness.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
-176.126.165.70,4,3,infodesk.kg,KG,Asia,Central Asia,Kyrgyzstan,,,
-185.111.106.133,4,31,infor.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
+176.126.165.70,4,-26508,infodesk.kg,KG,Asia,Central Asia,Kyrgyzstan,,,
+185.111.106.133,4,-9,infor.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 185.234.114.224,4,-24,inkaraganda.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 185.217.180.19,4,-16,integrade.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 194.146.43.229,4,-20,interfax.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
@@ -377,32 +342,29 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.91.220.41,4,2,itv.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 45.91.220.42,4,-5,itv.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 45.91.220.43,4,-5,itv.uz,UZ,Asia,Central Asia,Uzbekistan,,,
-188.130.234.198,4,-9,ivicity.kz,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
+89.219.35.67,4,-18,ivest.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 45.8.98.30,4,-30,izaim.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.116.195.194,4,6,jakko.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-194.110.55.34,4,5,jpgazeta.ru,KZ,Asia,Central Asia,Kazakhstan,,,
+194.110.55.34,4,-3,jpgazeta.ru,KZ,Asia,Central Asia,Kazakhstan,,,
 38.244.179.157,4,-4,julde.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-194.39.64.123,4,13,kapital.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+194.39.64.123,4,-16,kapital.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.98.5.160,4,-38,karagandachess.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 176.126.165.31,4,1,karakol.com.kg,KG,Asia,Central Asia,Kyrgyzstan,,,
 38.244.178.90,4,1,kauchuk.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-95.57.55.82,4,-35,kazatu.edu.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 89.218.26.108,4,5,kazbuild.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 194.146.43.144,4,15,kazfootball.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.98.5.190,4,-20,kazgasa.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
-93.170.72.9,4,-6,kazgazeta.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.113.134.121,4,25,kazlenta.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 85.159.24.137,4,176239,kazneb.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 77.245.107.131,4,-8,kazpatent.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 194.39.65.170,4,-6,kazpravda.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 185.102.73.210,4,0,kegoc.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-185.22.65.71,4,5,kfb.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+185.22.65.71,4,-1,kfb.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.146.3.15,4,-9,kff.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 176.126.166.152,4,11,kgma.kg,KG,Asia,Central Asia,Kyrgyzstan,,,
-77.95.1.66,4,-61,kgu.tj,TJ,Asia,Central Asia,Tajikistan,,,
 185.121.81.82,4,-10,kid-mag.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
-78.140.244.38,4,16,kimex.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-185.113.135.51,4,4,kmf.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
+78.140.244.38,4,3,kimex.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+185.113.135.51,4,0,kmf.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 91.218.140.24,4,0,knopka.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 38.244.135.155,4,13,kokshe-gtk.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 90.156.230.92,4,21,korr.solutions,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
@@ -416,7 +378,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.12.112.9,4,-8,kundelik.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 195.12.112.5,4,-16,kundelik.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 195.12.112.4,4,-14,kundelik.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-195.12.112.2,4,16,kundelik.kz,KZ,Asia,Central Asia,Kazakhstan,,,
+195.12.112.2,4,8,kundelik.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 188.241.216.107,4,-4,kursiv.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 185.146.2.237,4,-7,kvantorium74.ru,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 89.219.34.237,4,-10,kyrtag.kg,KZ,Asia,Central Asia,Kazakhstan,,,
@@ -431,7 +393,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.121.82.25,4,-19,liter.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 176.126.165.114,4,-25,literatura.kg,KG,Asia,Central Asia,Kyrgyzstan,,,
 38.244.135.50,4,-4,local-pub.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-185.146.3.134,4,11,logic.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+185.146.3.134,4,-19,logic.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.253.8.122,4,-25,logycom.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 45.82.14.68,4,3,lotoclub.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 94.198.221.100,4,7,lotoclub.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
@@ -441,21 +403,15 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 213.148.2.5,4,4,luxury-farfor.su,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 78.40.109.202,4,-18,madeniportal.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 188.244.115.27,4,-8,maksimebel.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-185.98.5.164,4,-2,man-service.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 185.146.1.89,4,-6,manggis.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-109.248.231.224,4,22,markettours.kz,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
 185.116.194.82,4,-2,masa.media,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 62.209.128.120,4,-4,maxam-chirchiq.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 38.244.134.74,4,7,mayi.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-91.212.89.57,4,-12,mcfr.uz,UZ,Asia,Central Asia,Uzbekistan,,,
-185.98.5.161,4,-1,mchs.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
-31.210.174.241,4,81,medchina.kz,KZ,Asia,Central Asia,Kazakhstan,,,
+31.210.174.241,4,-3,medchina.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 77.95.0.41,4,-42,medcollkulob.tj,TJ,Asia,Central Asia,Tajikistan,,,
 38.244.178.94,4,-3,mega-center-management.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-212.19.134.35,4,828,megait.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty Region,,
 91.212.89.72,4,8901,mehnat.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 89.218.11.82,4,-2778478,mektebi.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-95.56.230.55,4,-14,meloman.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 194.146.41.105,4,-6,memst.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.234.114.122,4,-45,meta.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 89.35.125.17,4,1,microloans.kz,KZ,Asia,Central Asia,Kazakhstan,,,
@@ -463,7 +419,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.116.195.198,4,4,mitsubishielectric.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 91.218.160.26,4,10,mmk.tj,TJ,Asia,Central Asia,Tajikistan,Dushanbe,,Dushanbe
 77.240.38.75,4,-2,mnu.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-109.233.109.147,4,41,monamie.kz,KZ,Asia,Central Asia,Kazakhstan,,,
+109.233.109.147,4,-2,monamie.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 185.253.8.176,4,39,moon.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 81.95.225.213,4,11,mover.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 185.98.5.177,4,21,mtender.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
@@ -474,19 +430,17 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.133.234.147,4,-1,mumiytroll.com,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 93.115.14.249,4,-4,mumkindikterkitaphanasy.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 86.107.198.184,4,29,music-bazaar.com,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-89.218.102.91,4,-4,mymart.kz,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
 89.218.14.48,4,20,namba.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-185.121.82.103,4,18,narcolog-expert.ru,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
+185.121.82.103,4,-26,narcolog-expert.ru,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 194.110.54.182,4,-8,narxoz.edu.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 193.111.11.3,4,555,nasl.tj,TJ,Asia,Central Asia,Tajikistan,,,
-90.156.252.158,4,14,neuroimplantclinic.com,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
+90.156.252.158,4,-10,neuroimplantclinic.com,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 185.125.88.253,4,-11,newelitalco.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 188.244.115.59,4,6,newreporter.org,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 89.46.33.87,4,1,newsroom.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 89.35.125.197,4,-9,newtimes.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-185.121.82.159,4,14,newtimes.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
+185.121.82.159,4,-6,newtimes.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 188.244.115.65,4,6,ng.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-80.241.0.69,4,-13,nic.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 194.32.142.153,4,10,nicbp.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 185.129.49.39,4,0,nis.edu.kz,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
 82.200.245.30,4,-1,nlrk.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
@@ -494,20 +448,17 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 89.218.17.82,4,32,nomad.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 91.201.215.58,4,23,nomadlife.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 38.244.178.57,4,-4,novodom.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-185.22.65.88,4,9,novostroy.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+185.22.65.88,4,-34,novostroy.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 194.4.56.51,4,33,np.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 38.180.39.94,4,-10,npozko.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 83.69.139.158,4,9070,nrm.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 78.40.109.73,4,-1,nurbank.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-185.196.213.39,4,84,nuu.uz,UZ,Asia,Central Asia,Uzbekistan,,,
-185.120.76.224,4,-3,nv.kz,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
+185.196.213.39,4,-39,nuu.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 185.35.222.50,4,37,office-expert.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 194.146.42.134,4,-3,offside.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-185.98.5.118,4,-3,ohotnikkz.com,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 185.98.5.186,4,-39,okprint.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 89.218.20.131,4,10,olx.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 89.218.20.132,4,-2,olx.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-94.247.131.226,4,-412233,olympic.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 38.244.134.83,4,-7,omzh-kmzh.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 89.218.60.244,4,-262921,on.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty Region,,
 89.35.125.21,4,5,oncharge.kz,KZ,Asia,Central Asia,Kazakhstan,,,
@@ -653,17 +604,16 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.129.50.126,4,-8,ortcom.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 146.120.18.110,4,12,oxymed.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 185.146.2.62,4,15,pandora.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-185.8.212.74,4,50,parliament.gov.uz,UZ,Asia,Central Asia,Uzbekistan,,,
+185.8.212.74,4,0,parliament.gov.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 37.150.204.218,4,-42,pavlodarnews.kz,KZ,Asia,Central Asia,Kazakhstan,Shymkent,,Shymkent
 212.154.199.10,4,25,pavon.kz,KZ,Asia,Central Asia,Kazakhstan,Pavlodar Region,,Pavlodar
 89.169.36.113,4,-7,pbprog.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 185.129.51.197,4,8,petslady.com,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
 89.46.33.101,4,0,petstore.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-109.248.32.99,4,13,pkzsk.info,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
+109.248.32.99,4,8,pkzsk.info,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
 84.54.74.198,4,6,pochta.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 95.46.96.61,4,24,podrobno.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 185.249.195.109,4,28,polisia.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-194.146.41.104,4,-1,posobie.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 216.250.10.19,4,12,post.tm,TM,Asia,Central Asia,Turkmenistan,,,
 38.244.134.58,4,8,potolkikostanay.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 82.115.48.11,4,-1,pozdravim.kz,KZ,Asia,Central Asia,Kazakhstan,,,
@@ -677,21 +627,20 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 94.247.131.158,4,6,prodengi.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 185.22.64.234,4,9,prodengi.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.22.64.235,4,-2,prodengi.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-185.116.195.70,4,57,profhim.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-185.100.65.78,4,77,profinstrument.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
+185.116.195.70,4,-4,profhim.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+185.100.65.78,4,-5,profinstrument.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 185.98.5.232,4,-2,profitmaster.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
-185.116.195.199,4,80,profitravel.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+185.116.195.199,4,-4,profitravel.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 37.153.159.13,4,41,proindex.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 89.46.33.210,4,5,promenadeparkhotel.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 195.49.214.147,4,12,prosports.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
-195.210.46.131,4,2,ps.kz,KZ,Asia,Central Asia,Kazakhstan,,,
+195.210.46.131,4,-24,ps.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 85.202.193.133,4,-10,ptgroup.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.116.194.154,4,25,pulscen.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 213.148.7.17,4,9,purrweb.com,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.98.5.174,4,25,pushkinlibrary.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
-2.135.236.82,4,-16,pvlmedcollege.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 46.247.41.238,4,1,pvloblsot.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-93.188.206.111,4,1,q-watch.ru,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
+93.188.206.111,4,-6,q-watch.ru,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 45.80.208.203,4,3,qamshy.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 194.110.55.62,4,-24,qaz-media.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 194.146.42.83,4,4,qaz365.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
@@ -705,10 +654,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 194.110.54.140,4,-1,regtv.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 185.8.212.42,4,-33,regulation.gov.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 194.146.42.77,4,0,religions-congress.org,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-194.146.42.150,4,27,religions-congress.org,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-185.116.195.196,4,27,repako.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+194.146.42.150,4,-37,religions-congress.org,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+185.116.195.196,4,-4,repako.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 109.233.108.70,4,7,resmihat.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-185.100.65.162,4,-1,resurs.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 89.46.33.229,4,4,reworker.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 38.244.179.100,4,9,ribalov.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 77.95.1.73,4,-24,rtsu.tj,TJ,Asia,Central Asia,Tajikistan,,,
@@ -716,32 +664,30 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 38.244.135.153,4,5,s-hotel.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 89.35.125.9,4,10,salemshop.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 109.94.172.117,4,29,sammu.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
-213.230.127.153,4,25,samo.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
+213.230.127.153,4,1,samo.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 93.115.14.137,4,58,sattikrg.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-185.129.50.46,4,6,scat.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
+185.129.50.46,4,1,scat.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 178.88.168.54,4,-60,school40.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 37.140.216.219,4,17,scienceweb.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
-195.158.11.139,4,69,sdtes.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
+195.158.11.139,4,-1,sdtes.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 109.175.215.64,4,67,sdu.edu.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-92.47.149.212,4,-4,sdu.edu.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 91.147.92.188,4,28,selfietravel.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 5.35.80.57,4,21,seomaestro.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 38.244.178.86,4,78,seoprofy.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 77.243.80.102,4,13,set-1c.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 195.49.215.185,4,5,shaiba.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
-89.35.125.18,4,1,shyndyqqazhet.kz,KZ,Asia,Central Asia,Kazakhstan,,,
+89.35.125.18,4,-5,shyndyqqazhet.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 185.22.67.51,4,-2,sint.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.116.195.31,4,6,siter.org.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.252.192.18,4,23,sk.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 38.244.179.158,4,8,skyhostel.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 85.202.193.183,4,2,skyshop.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.129.48.105,4,-8,sn.kz,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
-185.111.106.78,4,108215,soc-human.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
+185.111.106.78,4,-8,soc-human.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 176.126.165.177,4,8,sou.edu.kg,KG,Asia,Central Asia,Kyrgyzstan,,,
 89.219.33.70,4,12,sozdik.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 194.4.58.250,4,8,spasibo.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 38.244.135.215,4,26,spawn.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-2.135.147.132,4,-6,speckarlib.kz,KZ,Asia,Central Asia,Kazakhstan,Zhambyl Oblysy,,Taraz
 185.98.5.234,4,4,spectr.com.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 185.129.48.18,4,-30,spectrum-video.kz,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
 5.59.233.236,4,16,sport.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
@@ -761,11 +707,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 82.115.48.111,4,121,stroitelnye-lesa.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 213.148.11.112,4,8,studmed.ru,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 93.185.73.232,4,8,sud.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
-5.188.242.129,4,11,sud.kz,KZ,Asia,Central Asia,Kazakhstan,,,
+5.188.242.129,4,-20,sud.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 91.207.28.94,4,2,super.kg,KG,Asia,Central Asia,Kyrgyzstan,,,
 188.130.160.50,4,11,supertoy.kz,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
 185.120.78.6,4,-64,svoimirykami.club,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
-91.218.140.41,4,91,svoimirykamicentr.ru,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
+91.218.140.41,4,-36,svoimirykamicentr.ru,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 89.218.16.34,4,56,sz.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 89.218.16.35,4,14,sz.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 89.218.16.33,4,68,sz.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
@@ -773,25 +719,24 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 85.202.193.141,4,40,tair3d.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 176.126.165.113,4,14,tamgasoft.kg,KG,Asia,Central Asia,Kyrgyzstan,,,
 80.80.215.178,4,-18,tashkent.uz,UZ,Asia,Central Asia,Uzbekistan,,,
-77.243.80.30,4,6,taxi.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+77.243.80.30,4,-28,taxi.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 77.245.99.72,4,386177,tdk42.kz,KZ,Asia,Central Asia,Kazakhstan,Mangistauskaya Oblast',,Aktau
-185.98.5.231,4,-2,techlabs.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 38.244.135.214,4,20,temir-argymak.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 194.39.67.52,4,-30,templines.org,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.249.195.6,4,14,tenderbot.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-195.49.215.207,4,25,tenderbot.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
+195.49.215.207,4,-6,tenderbot.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 89.218.2.111,4,13,tenderix.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 89.218.186.46,4,1,tenderplus.kz,KZ,Asia,Central Asia,Kazakhstan,Pavlodar Region,,Pavlodar
 85.29.128.236,4,-3,testcenter.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
-185.129.51.96,4,38,testcenter.kz,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
+185.129.51.96,4,-33,testcenter.kz,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
 37.153.159.12,4,1511,texnostars.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
-185.121.82.6,4,5,tgrad.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
+185.121.82.6,4,-10,tgrad.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 185.146.3.247,4,-6,the-steppe.com,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 85.204.79.24,4,13,tma.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 77.95.1.68,4,9,tnu.tj,TJ,Asia,Central Asia,Tajikistan,,,
 188.94.156.60,4,8,tomas.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-89.219.32.118,4,9,toner-asia.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-89.35.125.12,4,1,tonerbox.kz,KZ,Asia,Central Asia,Kazakhstan,,,
+89.219.32.118,4,-5,toner-asia.kz,KZ,Asia,Central Asia,Kazakhstan,,,
+89.35.125.12,4,-5,tonerbox.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 195.49.212.218,4,-2,topdoc.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 93.115.14.12,4,9,toppress.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.98.7.24,4,1,tourclub.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
@@ -804,12 +749,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.243.71.17,4,57,tumba.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 38.244.135.157,4,47,turist-sport.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 217.174.238.29,4,-397856,turkmenistan.gov.tm,TM,Asia,Central Asia,Turkmenistan,,,
-217.174.238.28,4,-131509,turkmenistan.gov.tm,TM,Asia,Central Asia,Turkmenistan,,,
 95.85.126.182,4,40,turkmenportal.com,TM,Asia,Central Asia,Turkmenistan,,,
 194.146.42.52,4,18,turkystan.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 95.46.96.13,4,-13,turonbank.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 78.40.108.219,4,23,tv7.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-88.204.157.10,4,2092,u-turn.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 213.155.23.181,4,30,uagyz.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 188.0.150.131,4,-18,ubet.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 89.218.8.185,4,13,uchet.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
@@ -820,7 +763,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 109.207.255.226,4,19,univ-silkroad.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 185.146.2.106,4,4,uralskweek.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 93.170.73.106,4,15,urologi.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-46.36.158.181,4,8,ustinka.kz,KZ,Asia,Central Asia,Kazakhstan,East Kazakhstan,,Ust-Kamenogorsk
+46.36.158.181,4,2,ustinka.kz,KZ,Asia,Central Asia,Kazakhstan,East Kazakhstan,,Ust-Kamenogorsk
 93.115.14.20,4,51,usu.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 194.93.25.170,4,21,uwed.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 84.54.82.141,4,-4,uzairways.com,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
@@ -839,57 +782,48 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.98.7.137,4,-9,vavadakazinootzyvyovyvode.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 212.2.227.212,4,5,vb.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
 37.140.243.132,4,5,vecher.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-5.35.81.104,4,10,viagrarpr.com,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
-91.212.89.51,4,-11,vinsanoat.uz,UZ,Asia,Central Asia,Uzbekistan,,,
-185.98.5.211,4,-2,vipforum.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
-185.253.8.67,4,16,vitamir.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-185.146.1.195,4,17,vlast.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+5.35.81.104,4,-7,viagrarpr.com,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
+185.253.8.67,4,-11,vitamir.kz,KZ,Asia,Central Asia,Kazakhstan,,,
+185.146.1.195,4,-2,vlast.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 194.4.56.47,4,20,volna.tj,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 185.129.48.70,4,-14,voltakazinootzivi.kz,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
 85.202.192.58,4,-4,voltakazinootzyvy.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-185.253.8.193,4,5217,voltman.kz,KZ,Asia,Central Asia,Kazakhstan,,,
+185.253.8.193,4,10,voltman.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 77.220.204.65,4,30,volunteer.kg,KG,Asia,Central Asia,Kyrgyzstan,Gorod Bishkek,,Bishkek
 91.215.136.82,4,14,vse.kz,KZ,Asia,Central Asia,Kazakhstan,,,
-185.98.5.208,4,-1,vseza.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
-185.253.8.172,4,6,vstrade.kz,KZ,Asia,Central Asia,Kazakhstan,,,
+185.253.8.172,4,-5,vstrade.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 109.248.32.159,4,-41,vulkanstarsotzyvy.kz,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
-37.150.32.183,4,-188,w3rq.com,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 178.88.115.6,4,-14,waeris.com,KZ,Asia,Central Asia,Kazakhstan,West Kazakhstan,,Oral
 188.130.160.82,4,-35,wallsdesk.com,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
 95.46.96.31,4,-22,webname.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 185.98.5.122,4,3,webpromo.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 77.246.247.201,4,5,wecreatesites.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-5.35.80.168,4,10,wegug.in,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
+5.35.80.168,4,3,wegug.in,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 185.121.82.174,4,0,wifi.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 213.148.29.1,4,6,wildberries.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
-185.253.8.251,4,34,wint.kz,KZ,Asia,Central Asia,Kazakhstan,,,
+185.253.8.251,4,-30,wint.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 45.136.59.4,4,12,wkitu.kz,KZ,Asia,Central Asia,Kazakhstan,Mangistauskaya Oblast',,Aktau
 185.253.8.248,4,-9,wmart.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 213.145.140.198,4,108687,worldnomadgames.com,KG,Asia,Central Asia,Kyrgyzstan,,,
-194.146.42.76,4,9,worldnomadgames.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
+194.146.42.76,4,-7,worldnomadgames.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 195.210.47.167,4,5,wunder.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 91.212.89.42,4,10,www.uz,UZ,Asia,Central Asia,Uzbekistan,,,
-37.151.94.28,4,-26,xiaomi.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 83.69.136.2,4,-293,xs.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 185.98.5.209,4,-7,xx3.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 185.100.65.89,4,1,yk-news.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 194.4.58.30,4,7,yka.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 213.109.146.217,4,20,yourate.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 77.245.103.156,4,13056,yu.edu.kz,KZ,Asia,Central Asia,Kazakhstan,Mangistauskaya Oblast',,Aktau
-185.196.212.52,4,-13,yugaysushi.ru,UZ,Asia,Central Asia,Uzbekistan,,,
 185.98.5.141,4,-4,yujanka.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
-185.182.219.111,4,13,yvision.kz,KZ,Asia,Central Asia,Kazakhstan,,,
+185.182.219.111,4,-46,yvision.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 89.218.51.23,4,8,zakon.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty Region,,
 89.218.51.24,4,3,zakon.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty Region,,
 95.47.178.82,4,3,zan.gov.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
-62.122.141.201,4,-20,zeppelin.tj,TJ,Asia,Central Asia,Tajikistan,,,
 91.201.214.115,4,-6,zero.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
 194.32.142.93,4,-17,zertteushi.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 91.243.71.70,4,-4,zeta.kz,KZ,Asia,Central Asia,Kazakhstan,Almaty,,Almaty
-185.121.81.218,4,-4,zeta.kz,KZ,Asia,Central Asia,Kazakhstan,Astana,,Astana
 77.245.99.74,4,21,zhaikpress.kz,KZ,Asia,Central Asia,Kazakhstan,Mangistauskaya Oblast',,Aktau
 78.40.108.98,4,-3,zhannakangroup.com,KZ,Asia,Central Asia,Kazakhstan,,,
-46.8.31.142,4,-13,zharar.com,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
 109.248.170.199,4,-19,zhasalash.kz,KZ,Asia,Central Asia,Kazakhstan,Karaganda,,Karaganda
 195.49.210.6,4,-7,zhivayaruletkaonlayn.kz,KZ,Asia,Central Asia,Kazakhstan,,,
 91.212.89.46,4,2,ziyonet.uz,UZ,Asia,Central Asia,Uzbekistan,,,

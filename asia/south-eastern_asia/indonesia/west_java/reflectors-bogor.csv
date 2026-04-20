@@ -1,9 +1,9 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-103.150.117.57,4,36,adisumaryadi.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
+103.150.117.57,4,-6,adisumaryadi.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.197.191.109,4,6,alif.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
-103.127.137.154,4,55,arkamaya.co.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
+103.127.137.154,4,-7,arkamaya.co.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.44.27.44,4,21,ayanaresort.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
-103.150.85.15,4,7,bbpkhcinagara.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
+103.150.85.15,4,-6,bbpkhcinagara.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.175.217.172,4,7,bidtrack.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.58.102.59,4,-20,bloggerborneo.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.150.190.168,4,-18,bukukita.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
@@ -11,7 +11,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.150.191.36,4,6,chalistajayautama.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.150.191.84,4,-2,DoH server: dns.diarbagus.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.196.152.126,4,-5,DoH server: dns.goldplate.org,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
-103.150.116.100,4,-3,DoH server: dns.ningkelle.id family.dns.ningkelle.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
+103.150.116.100,4,-3,DoH server: dns.ningkelle.id, family.dns.ningkelle.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.87.66.87,4,-5,fsgm-indonesia.org,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.58.102.40,4,7,hits.co.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.127.138.90,4,-9,iddofficial.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
@@ -21,14 +21,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.18.76.93,4,1,jagonyawebsite.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.127.96.75,4,26,jernih.co,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 82.153.226.106,4,1133,jtp.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
-103.175.217.226,4,28,konstruksi-jasa.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
+103.175.217.226,4,-21,konstruksi-jasa.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.175.220.157,4,-2,kupastuntas.co,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.175.219.121,4,-3,majalio.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.196.146.3,4,1,medcom.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
-103.150.92.234,4,3,metrobali.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.93.130.234,4,-7,metrotvnews.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.196.155.35,4,-5,mysch.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
-103.77.104.8,4,105,neo.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
+103.77.104.8,4,1285,neo.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.14.16.10,4,-42,Ookla Speedtest Server 9766: speedtest2.starnet.net.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 31.56.56.56,4,-1,Ookla Speedtest Server 14863: speedtest.smapasundan8bdg.sch.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.150.197.71,4,-5,Ookla Speedtest Server 17642: speedtest-jkt.centrenat.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
@@ -45,7 +44,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.125.180.49,4,-9,rumahbiru.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.93.161.34,4,5,sampoernakayoe.co.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.93.161.58,4,-18,sampoernauniversity.ac.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
-103.58.100.137,4,113639,sampoernauniversity.ac.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
+103.58.100.137,4,79224,sampoernauniversity.ac.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.58.102.52,4,1731,sekolahkita.net,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.150.103.204,4,2,steamindonesia.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.112.5.5,4,0,stei.ac.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
@@ -53,7 +52,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.150.92.128,4,10,tafsirweb.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.126.116.143,4,15,telset.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.150.100.26,4,18,tentangkita.co,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
-103.127.133.161,4,7,unida.ac.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
+103.127.133.161,4,-1,unida.ac.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.58.102.55,4,3,unidayan.ac.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.150.196.132,4,17,urbanasia.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 103.125.181.170,4,20,wmsjamboree-gontor.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor

@@ -1,6 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 139.84.167.159,4,-24,aapc.org,IN,Asia,Southern Asia,India,Uttar Pradesh,,Noida
-139.84.171.47,4,-2,agtcouae.co,IN,Asia,Southern Asia,India,Uttar Pradesh,,Noida
 203.115.96.82,4,-1,aiims.edu,IN,Asia,Southern Asia,India,Uttar Pradesh,,Noida
 203.115.100.194,4,-2133387,astrojyoti.com,IN,Asia,Southern Asia,India,Uttar Pradesh,,Noida
 139.84.165.175,4,-41,bangkokhotel24.com,IN,Asia,Southern Asia,India,Uttar Pradesh,,Noida
@@ -8,7 +7,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.12.133.19,4,174931,DNS Server: rev.perfectinternet.in,IN,Asia,Southern Asia,India,Uttar Pradesh,,Noida
 14.99.196.2,4,3132,DNS Server: static-2.196.99.14-tataidc.co.in,IN,Asia,Southern Asia,India,Uttar Pradesh,,Noida
 163.61.38.38,4,-39,flpl.us,IN,Asia,Southern Asia,India,Uttar Pradesh,,Noida
-139.84.175.124,4,4,hindiblogger.com,IN,Asia,Southern Asia,India,Uttar Pradesh,,Noida
+139.84.175.124,4,16,hindiblogger.com,IN,Asia,Southern Asia,India,Uttar Pradesh,,Noida
 210.89.42.17,4,2561,mbarendezvous.com,IN,Asia,Southern Asia,India,Uttar Pradesh,,Hoshiārpur
 198.105.113.20,4,6,myinvestorsden.com,IN,Asia,Southern Asia,India,Uttar Pradesh,,Noida
 157.10.99.34,4,12,nixhealthcare.org,IN,Asia,Southern Asia,India,Uttar Pradesh,,Noida
@@ -37,7 +36,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 150.107.8.106,4,-4,Ookla Speedtest Server 50174: noidaspeedtest.sitibroadband.co.in,IN,Asia,Southern Asia,India,Uttar Pradesh,,Noida
 103.161.57.245,4,-1,Ookla Speedtest Server 52512: speedtest.vijw.excitel.in,IN,Asia,Southern Asia,India,Uttar Pradesh,,Varanasi
 106.77.174.68,4,7,Ookla Speedtest Server 53340: ooklatestnoida.live.vodafone.in,IN,Asia,Southern Asia,India,Uttar Pradesh,,Noida
-45.252.79.242,4,169,Ookla Speedtest Server 53654: speedtestknp.digiwaynet.com,IN,Asia,Southern Asia,India,Uttar Pradesh,,Kanpur
+45.252.79.242,4,-12,Ookla Speedtest Server 53654: speedtestknp.digiwaynet.com,IN,Asia,Southern Asia,India,Uttar Pradesh,,Kanpur
 183.82.174.13,4,-11,Ookla Speedtest Server 54064: speedtestlkn.actcorp.in,IN,Asia,Southern Asia,India,Uttar Pradesh,,Lucknow
 103.210.28.22,4,-16,Ookla Speedtest Server 54433: noidasp.renubroadband.com,IN,Asia,Southern Asia,India,Uttar Pradesh,,Noida
 122.186.76.186,4,6,Ookla Speedtest Server 54737: speedtestmrd1.airtel.in,IN,Asia,Southern Asia,India,Uttar Pradesh,,Morādābād
@@ -49,7 +48,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.124.208.14,4,0,Ookla Speedtest Server 61476: speedtest.flexeere.com,IN,Asia,Southern Asia,India,Uttar Pradesh,,Lucknow
 163.61.39.42,4,-3,Ookla Speedtest Server 62369: speedtest2.joycloud.services,IN,Asia,Southern Asia,India,Uttar Pradesh,,Noida
 103.93.213.7,4,-67015,Ookla Speedtest Server 63139: speedtest1.stgscloud.com,IN,Asia,Southern Asia,India,Uttar Pradesh,,Noida
-103.189.147.5,4,189,Ookla Speedtest Server 63139: speedtest1.stgscloud.com,IN,Asia,Southern Asia,India,Uttar Pradesh,,Noida
+103.189.147.5,4,-46,Ookla Speedtest Server 63139: speedtest1.stgscloud.com,IN,Asia,Southern Asia,India,Uttar Pradesh,,Noida
 157.15.203.222,4,43,Ookla Speedtest Server 63339: speedtest.webyne.com,IN,Asia,Southern Asia,India,Uttar Pradesh,,Greater Noida
 203.145.42.6,4,3,Ookla Speedtest Server 63769: speedtest.amitel.in,IN,Asia,Southern Asia,India,Uttar Pradesh,,Noida
 152.52.76.86,4,-12,Ookla Speedtest Server 64221: speedtestgmt1.airtel.in,IN,Asia,Southern Asia,India,Uttar Pradesh,,Lucknow

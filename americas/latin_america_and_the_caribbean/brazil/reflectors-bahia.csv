@@ -61,7 +61,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 177.128.192.54,4,-7,Ookla Speedtest Server 15615: speed.voanet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Candeias
 177.136.44.6,4,-584,Ookla Speedtest Server 15873: speedtest.pronetsolucoes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Salvador
 186.226.160.238,4,-22,Ookla Speedtest Server 16038: speedtest2.infortel.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Eunápolis
-187.103.123.15,4,125,Ookla Speedtest Server 16174: ookla-test.brnetworkfibraa.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Salvador
+187.103.123.15,4,5,Ookla Speedtest Server 16174: ookla-test.brnetworkfibraa.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Salvador
 160.238.175.38,4,-2,Ookla Speedtest Server 17366: teste.qsttelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Salvador
 164.163.78.73,4,-25,Ookla Speedtest Server 17448: teste1.inovanetbrasil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Salvador
 45.189.126.3,4,-5,Ookla Speedtest Server 17849: velocidade.maisnettelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Camaçari
@@ -148,7 +148,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 177.85.66.154,4,-11,Ookla Speedtest Server 34371: speedtest.asetelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Castro Alves
 205.164.241.242,4,-7,Ookla Speedtest Server 34589: speed-test-ookla.winetfsa.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Feira de Santana
 138.204.143.91,4,12,Ookla Speedtest Server 34657: velocimetro.bahianeturucuca.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Maraú
-177.131.129.8,4,415,Ookla Speedtest Server 34782: speedtest.digitalnetba.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Medeiros Neto
+177.131.129.8,4,-2,Ookla Speedtest Server 34782: speedtest.digitalnetba.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Medeiros Neto
 168.194.174.246,4,-13,Ookla Speedtest Server 34892: speedtest.siimnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Ilhéus
 45.227.220.19,4,1367,Ookla Speedtest Server 35063: speedtest.alttelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Salvador
 131.72.246.250,4,-8,Ookla Speedtest Server 35171: speedtest.flashnetworkfsa.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Feira de Santana
@@ -228,7 +228,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 181.233.4.4,4,249539,Ookla Speedtest Server 47790: ookla-speedtest.inew.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Tapiramutá
 177.71.110.2,4,25351,Ookla Speedtest Server 48051: velocidade.conectanett.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Salvador
 45.237.0.67,4,-7,Ookla Speedtest Server 48246: speedtest.cnxnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Formosa do Rio Preto
-177.128.214.114,4,357,Ookla Speedtest Server 48431: velocidade.provedordmnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Salvador
+177.128.214.114,4,6,Ookla Speedtest Server 48431: velocidade.provedordmnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Salvador
 170.79.130.29,4,9,Ookla Speedtest Server 48451: speedsse.conectainter.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Sento Sé
 170.245.179.0,4,-8,Ookla Speedtest Server 48529: ookla-speedtest.irminternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Salvador
 45.161.60.4,4,-5,Ookla Speedtest Server 48651: speedtest.psiunet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Mascote
@@ -251,9 +251,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 190.52.64.12,4,-14,Ookla Speedtest Server 52163: velocimetro.voltsnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Salvador
 191.242.177.14,4,14650,Ookla Speedtest Server 52430: ookla.componettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Ituberá
 45.190.32.6,4,-3,Ookla Speedtest Server 52826: teste.helpnetjequie.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Jequié
-189.89.152.47,4,315,Ookla Speedtest Server 52913: teste.gigatelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Vera Cruz
+189.89.152.47,4,9,Ookla Speedtest Server 52913: teste.gigatelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Vera Cruz
 177.155.144.37,4,10,Ookla Speedtest Server 52992: speedtestcdt.avanza.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Cícero Dantas
-179.124.10.17,4,314,Ookla Speedtest Server 52996: speedtest.infornetms.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Campo Grande
+179.124.10.17,4,25191,Ookla Speedtest Server 52996: speedtest.infornetms.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Campo Grande
 177.23.163.14,4,-21,Ookla Speedtest Server 53030: teste.digitalsolution.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Dias d'Ávila
 45.162.32.13,4,42,Ookla Speedtest Server 53046: velocimetro.callnetba.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Gandu
 45.238.185.18,4,-6,Ookla Speedtest Server 53115: teste.speedwireless.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Salvador
@@ -300,8 +300,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 177.38.178.42,4,41519,Ookla Speedtest Server 56484: speedtestgbi.micks.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Guanambi
 200.108.180.24,4,-6,Ookla Speedtest Server 56882: teste.lkinternet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Maragogipe
 190.112.206.228,4,4,Ookla Speedtest Server 56897: velocidade.jotanetba.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Salvador
-45.167.70.161,4,21163,Ookla Speedtest Server 56926: testevirtualnet.rochanetwork.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Feira de Santana
-168.181.104.74,4,298,Ookla Speedtest Server 56953: speedtest.ipmaxxnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Brumado
+45.167.70.161,4,2751,Ookla Speedtest Server 56926: testevirtualnet.rochanetwork.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Feira de Santana
+168.181.104.74,4,-9,Ookla Speedtest Server 56953: speedtest.ipmaxxnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Brumado
 187.49.175.227,4,9,Ookla Speedtest Server 56954: speedtest.urtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Floresta Azul
 181.191.96.190,4,6,Ookla Speedtest Server 56979: speedtest.brasileirotelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Dias d'Ávila
 167.249.80.59,4,-21,Ookla Speedtest Server 57006: teste.vipnett.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Pojuca
@@ -364,7 +364,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 187.44.248.126,4,-11,Ookla Speedtest Server 62478: fpspeed.inetcon.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Salvador
 170.0.68.222,4,11,Ookla Speedtest Server 62967: teste.lumiarfibra.com,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Conceição do Coité
 189.28.167.192,4,-1,Ookla Speedtest Server 63130: spacespeed.inetcon.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Wenceslau Guimarães
-177.93.72.106,4,264,Ookla Speedtest Server 63212: speedtest.soltelecomvsf.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Juazeiro
+177.93.72.106,4,-6,Ookla Speedtest Server 63212: speedtest.soltelecomvsf.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Juazeiro
 168.194.19.246,4,284298,Ookla Speedtest Server 63314: medidor.provedorconnecta.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Piatã
 168.194.175.194,4,4,Ookla Speedtest Server 63354: test.provex.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Camacan
 45.165.236.42,4,-2000,Ookla Speedtest Server 63676: volprovedor.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Ibicaraí
@@ -443,8 +443,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.187.107.18,4,8,Ookla Speedtest Server 73766: ravi.alfanetbrasil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Porto Seguro
 189.90.215.68,4,-1,Ookla Speedtest Server 74124: ultrateste.ultranetba.com,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Mirangaba
 189.85.124.14,4,-20,Ookla Speedtest Server: speedtest.jinet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Urandi
-189.28.174.50,4,-10,Ookla Speedtest Server: www.mma.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Valença
 200.128.56.88,4,17,ufba.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Salvador
-200.128.56.18,4,5,ufba.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Salvador
-200.128.56.17,4,4,ufba.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Salvador
+200.128.56.18,4,1,ufba.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Salvador
+200.128.56.17,4,0,ufba.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Salvador
 200.128.85.172,4,8,ufrb.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Feira de Santana

@@ -1,8 +1,7 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 85.228.137.127,4,-12,cblgh.org,SE,Europe,Northern Europe,Sweden,Skåne County,,Malmo
-92.33.32.20,4,-62,dinkurs.se,SE,Europe,Northern Europe,Sweden,Skåne County,,Malmo
 80.251.207.30,4,-1266823,DNS Server: 80.251.207.30.mobile.3.dk,SE,Europe,Northern Europe,Sweden,Skåne County,,Malmo
 78.82.207.64,4,-3,DNS Server: c-40cf524e.010-58-6d6c6d5.bbcust.telenor.se,SE,Europe,Northern Europe,Sweden,Skåne County,,Malmo
 85.30.158.81,4,79200008,DNS Server: host-85-30-158-81.sydskane.nu,SE,Europe,Northern Europe,Sweden,Skåne County,,Malmo
 45.83.223.209,4,6,mullvad.net,SE,Europe,Northern Europe,Sweden,Skåne County,,Malmo
-193.138.217.67,4,4,spunk.org,SE,Europe,Northern Europe,Sweden,Skåne County,,Malmo
+193.138.217.67,4,0,spunk.org,SE,Europe,Northern Europe,Sweden,Skåne County,,Malmo

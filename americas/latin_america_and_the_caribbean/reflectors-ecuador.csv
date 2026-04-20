@@ -128,7 +128,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.71.185.106,4,-7,Ookla Speedtest Server 59100: spdtest.netk.tel,EC,Americas,Latin America and the Caribbean,Ecuador,El Oro,,El Guabo
 45.186.6.190,4,11,Ookla Speedtest Server 59567: speedtest.fastnett.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
 205.235.1.132,4,-27640,Ookla Speedtest Server 59634: speedtestgui.rednuevaconexion.net,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
-200.24.135.133,4,276,Ookla Speedtest Server 59634: speedtestgui.rednuevaconexion.net,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
+200.24.135.133,4,-30365,Ookla Speedtest Server 59634: speedtestgui.rednuevaconexion.net,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
 177.234.212.92,4,-9,Ookla Speedtest Server 59635: speedtestpquito.rednuevaconexion.net,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
 181.224.88.193,4,-12,Ookla Speedtest Server 60007: speedtest2.sitertl.com,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
 45.236.148.107,4,1,Ookla Speedtest Server 60039: speedtest.conexiontotal.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Gualaceo
@@ -140,7 +140,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.173.229.178,4,-205478,Ookla Speedtest Server 62632: speedtest.movitech.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
 181.188.218.222,4,4,Ookla Speedtest Server 62925: speedtest.indynet.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Loja,,Loja
 45.233.102.35,4,-3,Ookla Speedtest Server 63032: speedmw.internetdecalidad.com,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
-45.233.101.59,4,173,Ookla Speedtest Server 63032: speedmw.internetdecalidad.com,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
+45.233.101.59,4,-15096,Ookla Speedtest Server 63032: speedmw.internetdecalidad.com,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
 45.71.254.17,4,-8,Ookla Speedtest Server 63140: speedtest.redplus.ec,EC,Americas,Latin America and the Caribbean,Ecuador,El Oro,,Balsas
 45.189.57.130,4,-2926,Ookla Speedtest Server 63271: speedtest1.cbvision.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Cañar,,La Troncal
 181.233.51.131,4,1,Ookla Speedtest Server 63929: speedtest.redy.com.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Loja,,Loja
@@ -176,12 +176,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 181.188.216.6,4,0,Ookla Speedtest Server 73813: speedtest.jakfiber.com,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
 157.100.52.50,4,-7,Ookla Speedtest Server 73823: speedtest.pdrnls.rimtel.net.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Cañar,,Azogues
 45.188.229.245,4,152588,Ookla Speedtest Server 74141: speedtest.astronetv.net,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
-177.126.39.231,4,29,prd.org.mx,EC,Americas,Latin America and the Caribbean,Ecuador,,,
+177.126.39.231,4,3,prd.org.mx,EC,Americas,Latin America and the Caribbean,Ecuador,,,
 200.93.198.229,4,-102521,pycca.com,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
 186.5.76.46,4,25,repcontver.com,EC,Americas,Latin America and the Caribbean,Ecuador,Guayas,,Guayaquil
 190.15.141.153,4,200788,sangregorio.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
 192.188.52.3,4,35930,ucsg.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Pichincha,,Quito
-200.1.161.62,4,9,uees.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,,,
+200.1.161.62,4,-11,uees.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,,,
 192.188.46.4,4,17452476,uta.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Tungurahua Province,,Ambato
 201.159.222.210,4,4,uti.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Azuay,,Cuenca
 190.103.191.42,4,2,yachaytech.edu.ec,EC,Americas,Latin America and the Caribbean,Ecuador,Imbabura,,

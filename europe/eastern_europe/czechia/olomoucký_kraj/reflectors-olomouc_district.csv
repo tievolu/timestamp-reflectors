@@ -8,14 +8,14 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 85.93.168.37,4,2040,DNS Server: ip-85-93-168-37.wscnet.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
 85.163.30.177,4,-3,DNS Server: mail.babydirekt.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Dolany
 195.113.144.194,4,-44,DNS Server: ns.cesnet.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
-90.182.205.37,4,5,geoportal.gov.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Uničov
-82.150.184.15,4,38,legendysevraci.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Charváty
+90.182.205.37,4,0,geoportal.gov.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Uničov
+82.150.184.15,4,-1,legendysevraci.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Charváty
 195.113.147.178,4,-67,nrp-nautilus.io,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
 62.209.208.17,4,30,Ookla Speedtest Server 1570: speedtest.sigmasoft.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Lutín
 82.144.130.204,4,-4,Ookla Speedtest Server 50749: speedtest.ktcz.eu,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Bohuňovice
-195.113.159.98,4,22,pslib.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
+195.113.159.98,4,-2,pslib.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
 94.124.104.7,4,-7,ronnie.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
-195.113.148.55,4,635895,svkul.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
+195.113.148.55,4,-2,svkul.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
 91.228.45.189,4,11,turisticke-znamky.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
 91.228.45.154,4,23,ufleku.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
 158.194.230.160,4,-29,upol.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc

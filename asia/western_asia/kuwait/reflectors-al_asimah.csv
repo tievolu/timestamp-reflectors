@@ -12,7 +12,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 78.89.136.250,4,20,Ookla Speedtest Server 43395: ookla1.ooredoo.com.kw,KW,Asia,Western Asia,Kuwait,Al Asimah,,Kuwait City
 78.89.136.251,4,2,Ookla Speedtest Server 43396: ookla2.ooredoo.com.kw,KW,Asia,Western Asia,Kuwait,Al Asimah,,Kuwait City
 94.128.4.186,4,5,Ookla Speedtest Server 64809: speedtest16.stc.com.kw,KW,Asia,Western Asia,Kuwait,Al Asimah,,Kuwait City
-194.54.192.98,4,315,Ookla Speedtest Server: speedtest.gulfnet.com.kw,KW,Asia,Western Asia,Kuwait,Al Asimah,,Kuwait City
+194.54.192.98,4,-1,Ookla Speedtest Server: speedtest.gulfnet.com.kw,KW,Asia,Western Asia,Kuwait,Al Asimah,,Kuwait City
 94.128.15.9,4,5,Ookla Speedtest Server: speedtest1.viva.com.kw,KW,Asia,Western Asia,Kuwait,Al Asimah,,Kuwait City
 212.43.17.251,4,-8549,Ookla Speedtest Server: speedtest1.zain.net,KW,Asia,Western Asia,Kuwait,Al Asimah,,Kuwait City
 168.187.161.250,4,-780319,Zajil International Telecom Company W.L.L.,KW,Asia,Western Asia,Kuwait,Al Asimah,,Kuwait City

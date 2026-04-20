@@ -14,7 +14,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 85.74.255.42,4,1340,DNS Server: 42.255.74.85.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 94.64.161.6,4,-1,DNS Server: 6.161.64.94.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 84.254.51.145,4,4519,DNS Server: adsl-145.84.254.51.tellas.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-84.254.63.214,4,215960,DNS Server: adsl-214.84.254.63.tellas.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+84.254.63.214,4,186596,DNS Server: adsl-214.84.254.63.tellas.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 79.129.2.87,4,-2,DNS Server: apsi501.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 79.129.2.75,4,-2,DNS Server: apsi530.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 79.129.2.77,4,-1,DNS Server: apsi590.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
@@ -24,12 +24,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 79.131.77.117,4,41,DNS Server: athedsl-390519.home.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 85.72.32.180,4,31223,DNS Server: dimark.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 62.74.227.153,4,-3763882356,DNS Server: dumy153.panafonet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+79.129.102.118,4,27,DNS Server: hell18.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 94.70.160.74,4,-3,DNS Server: karp85.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 94.71.88.32,4,27164,DNS Server: lime75.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 91.138.229.7,4,7,DNS Server: mail2.bellemeat.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 79.131.102.237,4,-685,DNS Server: merr80.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 79.129.52.33,4,10612,DNS Server: mkm329.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-79.129.58.166,4,-2146957046,DNS Server: o17rvr.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 85.72.149.158,4,41,DNS Server: o2m4nv.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 79.129.55.28,4,74,DNS Server: o3g6pt.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 79.129.29.39,4,-553,DNS Server: obveav.static.otenet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
@@ -51,9 +51,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 62.1.105.166,4,-13,efa.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 88.197.28.202,4,6,gunet.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 185.157.208.181,4,-9,knossos-palace.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-79.129.83.76,4,2,line.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+79.129.83.76,4,1,line.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 154.57.18.238,4,-13,live24.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
-185.70.76.198,4,859,musicheaven.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
+185.70.76.198,4,1160,musicheaven.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 185.109.19.166,4,4,myriobiblos.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 31.177.57.52,4,-501933,Ookla Speedtest Server 15251: ookla.iphost.net,GR,Europe,Southern Europe,Greece,Attica,,Athens
 91.218.22.237,4,-3,Ookla Speedtest Server 54045: ookla1.fast.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
@@ -62,7 +62,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 154.57.19.11,4,7,Ookla Speedtest Server 71342: ath-speedtest.isp.htb.systems,GR,Europe,Southern Europe,Greece,Attica,,Athens
 62.103.124.7,4,-6,pathfinder.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 87.203.233.10,4,23,santorini.com,GR,Europe,Southern Europe,Greece,Attica,,Athens
-87.203.233.9,4,3700808,santorini.com,GR,Europe,Southern Europe,Greece,Attica,,Athens
+87.203.233.9,4,18471,santorini.com,GR,Europe,Southern Europe,Greece,Attica,,Athens
 195.251.124.93,4,35,teilar.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 185.109.19.149,4,1,themistokleous.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens
 185.157.208.66,4,25,tourismtoday.gr,GR,Europe,Southern Europe,Greece,Attica,,Athens

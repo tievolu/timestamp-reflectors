@@ -1,9 +1,9 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-95.168.204.231,4,25,amsoft.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
-81.31.43.172,4,5,anniebabymonitor.com,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Benešov District,Miličín
+95.168.204.231,4,-3,amsoft.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+81.31.43.172,4,-1,anniebabymonitor.com,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Benešov District,Miličín
 147.231.104.19,4,30,astro.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Okres Praha-východ,Mnichovice
 95.168.192.66,4,-43,babinet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
-188.75.144.37,4,30,blansko.net,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Okres Kolín,Kolín
+188.75.144.37,4,-61,blansko.net,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Okres Kolín,Kolín
 81.201.48.171,4,-8,czfree.net,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kladno District,Kladno
 185.14.232.143,4,-63917,DNS Server: 143-232.customer.interconnect.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Okres Praha-východ,Říčany
 188.75.186.152,4,6926,DNS Server: 152-186-75-188-static.katroservis.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Poděbrady
@@ -23,16 +23,17 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 37.221.246.242,4,109681,DNS Server: tlapnet-246-242.cust.tlapnet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Čáslav
 78.108.106.29,4,-2,DNS Server: vl3822-spkfree-nfx2.nfx.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mladá Boleslav District,Mnichovo Hradiště
 89.190.36.18,4,22217540,DNS Server: zdobinska--01.licanet.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Nymburk
-89.24.184.133,4,10,dolezel.info,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mladá Boleslav District,Čachovice
+89.24.184.133,4,-1,dolezel.info,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mladá Boleslav District,Čachovice
 46.167.209.30,4,25,havelpartners.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Kostomlaty nad Labem
 194.93.14.42,4,-68,infas.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Nymburk District,Poděbrady
-95.168.217.72,4,9,jabbim.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
-95.168.210.110,4,41,kaloricketabulky.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+95.168.217.72,4,-2,jabbim.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+95.168.210.110,4,-67,kaloricketabulky.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+95.168.200.84,4,-41,kpsys.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
 81.31.45.148,4,85,master.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Benešov District,Miličín
 95.168.214.171,4,-3,mimibazar.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
 95.168.214.172,4,-69,mimibazar.sk,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
 95.168.195.123,4,-11,mojekolo.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
-95.168.192.195,4,55,monitoring-serveru.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+95.168.192.195,4,-65,monitoring-serveru.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
 213.168.188.86,4,-4,muzeummb.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mladá Boleslav District,Mladá Boleslav
 81.31.37.22,4,0,obuvmusilova.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Benešov District,Miličín
 95.168.210.56,4,-40,odpovedi.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
@@ -50,9 +51,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 81.31.46.138,4,7,skaut.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Benešov District,Miličín
 95.168.192.193,4,-100,skrz.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
 213.168.189.25,4,6,sousede.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Mladá Boleslav District,Mladá Boleslav
-185.75.136.6,4,32,stajrozarka.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Benešov District,Vlašim
-95.168.211.44,4,7,superhosting.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
-95.168.192.73,4,-13,svet-oken.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
+185.75.136.6,4,-41,stajrozarka.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Benešov District,Vlašim
+95.168.211.44,4,-2,superhosting.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kutná Hora District,Tupadly
 81.31.32.18,4,15,titulky.com,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Benešov District,Miličín
 90.176.150.92,4,-56,vedavyzkum.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kladno District,Kladno
 89.31.42.169,4,6,vsers.cz,CZ,Europe,Eastern Europe,Czechia,Central Bohemia,Kladno District,Kladno

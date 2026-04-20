@@ -1,13 +1,12 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 102.219.189.153,4,0,abilliontestimoniesandmore.org,NG,Africa,Sub-Saharan Africa,Nigeria,,,
 196.220.66.178,4,42,abu.edu.ng,NG,Africa,Sub-Saharan Africa,Nigeria,,,
-196.220.67.227,4,16,abu.edu.ng,NG,Africa,Sub-Saharan Africa,Nigeria,,,
+196.220.67.227,4,18,abu.edu.ng,NG,Africa,Sub-Saharan Africa,Nigeria,,,
 197.159.69.181,4,-82,airforce.mil.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
 154.113.19.6,4,48,betwinner.ng,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
 197.159.78.201,4,12,budgetoffice.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
 41.184.119.59,4,71,DNS Server: 41-184-119-59.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
 41.184.148.152,4,673,DNS Server: 41-184-148-152.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
-41.184.148.252,4,-122,DNS Server: 41-184-148-252.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
 41.184.149.1,4,322,DNS Server: 41-184-149-1.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
 41.184.153.133,4,275,DNS Server: 41-184-153-133.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
 41.184.164.225,4,51,DNS Server: 41-184-164-225.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
@@ -27,14 +26,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 197.159.74.26,4,307867,icpc.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
 197.159.69.186,4,-12,interior.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
 197.159.74.39,4,235280,maritimeacademy.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
-41.138.161.61,4,5948,nafdac.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,,,
+41.138.161.61,4,1,nafdac.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,,,
 197.159.70.186,4,1812,nahcon.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
 197.159.78.29,4,57,nationalpopulation.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
 197.159.78.216,4,1797,navy.mil.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
-197.159.68.249,4,-51926,nbc.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
 197.159.74.33,4,-22,nema.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
 197.159.74.87,4,22,nerc.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
-154.113.177.235,4,43,newscentral.africa,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+154.113.177.235,4,-2,newscentral.africa,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
 197.159.69.92,4,-3,nigerianstat.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
 197.159.70.254,4,1239,nimasa.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
 80.248.15.228,4,-19657,nimc.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,,,
@@ -57,7 +55,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 167.88.51.14,4,3,Ookla Speedtest Server 67610: ng-speedtest.sitehub.com.ng,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
 155.93.83.155,4,-4,Ookla Speedtest Server 69360: ookla.blazzinghost.com,NG,Africa,Sub-Saharan Africa,Nigeria,,,
 41.78.83.207,4,1836,osgof.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
-102.219.189.129,4,31,pastorchrisonline.org,NG,Africa,Sub-Saharan Africa,Nigeria,,,
 197.159.74.51,4,14,plateaustate.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
 197.159.68.50,4,3012938,population.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
 197.159.67.12,4,7,psc.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
@@ -66,4 +63,4 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 197.159.78.84,4,1669,tetfund.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
 41.78.224.48,4,1253,udusok.edu.ng,NG,Africa,Sub-Saharan Africa,Nigeria,,,
 197.159.74.225,4,7,von.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
-197.159.67.22,4,17,von.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja
+197.159.67.22,4,4,von.gov.ng,NG,Africa,Sub-Saharan Africa,Nigeria,FCT,,Abuja

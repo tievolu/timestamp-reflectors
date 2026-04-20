@@ -1,7 +1,7 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 91.224.148.86,4,0,canalsud.net,FR,Europe,Western Europe,France,Occitanie,Upper Garonne,Toulouse
 91.224.149.143,4,2,capitoledulibre.org,FR,Europe,Western Europe,France,Occitanie,Upper Garonne,Toulouse
-91.206.199.111,4,11,carcassonne-agglo.fr,FR,Europe,Western Europe,France,Occitanie,Aude,Carcassonne
+91.206.199.111,4,0,carcassonne-agglo.fr,FR,Europe,Western Europe,France,Occitanie,Aude,Carcassonne
 193.51.152.67,4,-8,charm-eu.eu,FR,Europe,Western Europe,France,Occitanie,Hérault,Montpellier
 90.83.24.89,4,18,DNS Server: 89-24.83-90.static-ip.oleane.fr,FR,Europe,Western Europe,France,Occitanie,Tarn-et-Garonne,Montauban
 185.249.186.241,4,3450,DNS Server: fs-185-249-186-241.fullsave.info,FR,Europe,Western Europe,France,Occitanie,Upper Garonne,Plaisance-du-Touch
@@ -15,11 +15,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 217.109.171.115,4,-10,langon33.fr,FR,Europe,Western Europe,France,Occitanie,Upper Garonne,Mondonville
 90.60.141.82,4,23,lord.re,FR,Europe,Western Europe,France,Occitanie,Hérault,Saint-Thibéry
 91.206.198.27,4,-12,maison-facile.com,FR,Europe,Western Europe,France,Occitanie,Aude,Carcassonne
-194.214.141.42,4,1251,meformerenregion.fr,FR,Europe,Western Europe,France,Occitanie,Upper Garonne,Toulouse
+194.214.141.42,4,1132,meformerenregion.fr,FR,Europe,Western Europe,France,Occitanie,Upper Garonne,Toulouse
 91.224.149.251,4,-10,musique-libre.org,FR,Europe,Western Europe,France,Occitanie,Upper Garonne,Toulouse
 90.83.223.129,4,-2,pauillac-medoc.com,FR,Europe,Western Europe,France,Occitanie,Upper Garonne,Toulouse
 91.224.149.206,4,10,tetaneutral.net,FR,Europe,Western Europe,France,Occitanie,Upper Garonne,Toulouse
-90.83.22.210,4,4,thebookedition.com,FR,Europe,Western Europe,France,Occitanie,Tarn-et-Garonne,Montauban
+90.83.22.210,4,-1,thebookedition.com,FR,Europe,Western Europe,France,Occitanie,Tarn-et-Garonne,Montauban
 193.51.152.74,4,8,umontpellier.fr,FR,Europe,Western Europe,France,Occitanie,Hérault,Montpellier
 193.49.117.66,4,15,univ-bpclermont.fr,FR,Europe,Western Europe,France,Occitanie,Pyrénées-Orientales,Perpignan
 193.51.152.68,4,5,univ-montp1.fr,FR,Europe,Western Europe,France,Occitanie,Hérault,Montpellier

@@ -8,13 +8,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 94.158.211.106,4,-3,aliclick.shop,UZ,Asia,Central Asia,Uzbekistan,,,
 94.158.211.105,4,-2,aliclick.shop,UZ,Asia,Central Asia,Uzbekistan,,,
 94.158.209.105,4,1,aliclick.shop,UZ,Asia,Central Asia,Uzbekistan,,,
-91.212.89.54,4,92,arbuz.uz,UZ,Asia,Central Asia,Uzbekistan,,,
+91.212.89.54,4,-563420,arbuz.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 83.69.137.3,4,3,arthotelsgroup.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 95.46.96.104,4,10,buxdu.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 84.54.115.70,4,32,cawater-info.net,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 91.212.89.8,4,-3,cctld.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 91.212.89.49,4,775,constitution.uz,UZ,Asia,Central Asia,Uzbekistan,,,
-195.158.14.74,4,-12,creditasia.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 45.138.159.4,4,-15,deye.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 213.230.90.106,4,-117,DNS Server: 106.64.uzpak.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 146.120.18.67,4,10686,DNS Server: 146.120.18.67.ip.nano.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
@@ -40,12 +39,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.158.0.5,4,0,DNS Server: ns2.uzpak.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 84.54.64.35,4,-4,DNS Server: ns3.uzpak.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 95.130.227.165,4,-2,dunyo.info,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
-95.130.227.41,4,86,dunyo.info,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 195.158.3.34,4,-570,edu.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 91.212.89.68,4,-342945,energomet.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 95.46.210.92,4,7,glotr.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 213.232.225.60,4,20,goldenpages.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
-83.69.136.109,4,-9,gt-industrial.uk,UZ,Asia,Central Asia,Uzbekistan,,,
 90.156.193.194,4,7,haematech.com,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 195.158.20.166,4,-1072,hamkorbank.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 84.54.115.68,4,3,icwc-aral.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
@@ -58,12 +55,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.91.220.42,4,-5,itv.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 45.91.220.43,4,-5,itv.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 62.209.128.120,4,-4,maxam-chirchiq.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
-91.212.89.57,4,-12,mcfr.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 91.212.89.72,4,8901,mehnat.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 81.95.225.213,4,11,mover.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 185.74.4.91,4,-18,mtrk.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 83.69.139.158,4,9070,nrm.uz,UZ,Asia,Central Asia,Uzbekistan,,,
-185.196.213.39,4,84,nuu.uz,UZ,Asia,Central Asia,Uzbekistan,,,
+185.196.213.39,4,-39,nuu.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 188.113.226.33,4,1,Ookla Speedtest Server 3687: speedtest.ucell.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 81.95.225.174,4,-2,Ookla Speedtest Server 5381: speed.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 91.188.128.147,4,1,Ookla Speedtest Server 17363: speedtest.ars.uz,UZ,Asia,Central Asia,Uzbekistan,,,
@@ -78,16 +74,16 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 81.162.54.190,4,0,Ookla Speedtest Server 71329: speedtest.pscloud.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 80.80.209.206,4,2,Ookla Speedtest Server: speedtest.tps.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 146.120.18.110,4,12,oxymed.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
-185.8.212.74,4,50,parliament.gov.uz,UZ,Asia,Central Asia,Uzbekistan,,,
+185.8.212.74,4,0,parliament.gov.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 84.54.74.198,4,6,pochta.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 95.46.96.61,4,24,podrobno.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 37.153.159.13,4,41,proindex.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 91.212.89.6,4,673,redemption.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 185.8.212.42,4,-33,regulation.gov.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 109.94.172.117,4,29,sammu.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
-213.230.127.153,4,25,samo.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
+213.230.127.153,4,1,samo.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 37.140.216.219,4,17,scienceweb.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
-195.158.11.139,4,69,sdtes.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
+195.158.11.139,4,-1,sdtes.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 185.74.7.250,4,35,stat.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 80.80.215.178,4,-18,tashkent.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 37.153.159.12,4,1511,texnostars.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
@@ -104,11 +100,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 213.230.125.242,4,21,uzswlu.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 213.230.125.243,4,22,uzswlu.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 130.49.169.184,4,15,uztravel.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
-91.212.89.51,4,-11,vinsanoat.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 95.46.96.31,4,-22,webname.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 213.148.29.1,4,6,wildberries.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 91.212.89.42,4,10,www.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 83.69.136.2,4,-293,xs.uz,UZ,Asia,Central Asia,Uzbekistan,,,
-185.196.212.52,4,-13,yugaysushi.ru,UZ,Asia,Central Asia,Uzbekistan,,,
 91.212.89.46,4,2,ziyonet.uz,UZ,Asia,Central Asia,Uzbekistan,,,
 91.212.89.11,4,53,zn.uz,UZ,Asia,Central Asia,Uzbekistan,,,

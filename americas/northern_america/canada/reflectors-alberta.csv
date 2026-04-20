@@ -3,8 +3,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 136.159.190.44,4,-2,amateurcinema.org,CA,Americas,Northern America,Canada,Alberta,,Calgary
 216.194.67.5,4,-461251,braillebookstore.com,CA,Americas,Northern America,Canada,Alberta,,Lacombe
 198.161.96.233,4,33,camacdonald.com,CA,Americas,Northern America,Canada,Alberta,,Edmonton
-72.142.145.36,4,6,cbabc.org,CA,Americas,Northern America,Canada,Alberta,,Edmonton
-162.223.224.40,4,1,collegeofdietitians.org,CA,Americas,Northern America,Canada,Alberta,,Calgary
+72.142.145.36,4,47,cbabc.org,CA,Americas,Northern America,Canada,Alberta,,Edmonton
+162.223.224.40,4,5,collegeofdietitians.org,CA,Americas,Northern America,Canada,Alberta,,Calgary
 216.194.64.151,4,-8,contextmagic.com,CA,Americas,Northern America,Canada,Alberta,,Lacombe
 216.234.165.38,4,3,cruffler.com,CA,Americas,Northern America,Canada,Alberta,,Spruce Grove
 82.197.198.205,4,-3,DNS Server: 82-197-198-205.dsl.cambrium.nl,CA,Americas,Northern America,Canada,Alberta,,Edmonton
@@ -12,9 +12,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 23.133.64.121,4,-4,DoH server: dnscry.pt-calgary-ipv4,CA,Americas,Northern America,Canada,Alberta,,Calgary
 198.161.96.232,4,-34,eqtraders.com,CA,Americas,Northern America,Canada,Alberta,,Edmonton
 162.223.224.23,4,11,eralberta.ca,CA,Americas,Northern America,Canada,Alberta,,Calgary
-72.13.188.158,4,5,finkproject.org,CA,Americas,Northern America,Canada,Alberta,,Beaumont
+72.13.188.158,4,-3,finkproject.org,CA,Americas,Northern America,Canada,Alberta,,Beaumont
 146.75.109.91,4,0,gentoo.org,CA,Americas,Northern America,Canada,Alberta,,Calgary
-216.234.165.232,4,3,gregbrown.org,CA,Americas,Northern America,Canada,Alberta,,Spruce Grove
+216.234.165.232,4,-1,gregbrown.org,CA,Americas,Northern America,Canada,Alberta,,Spruce Grove
 170.39.115.27,4,53,healthyheating.com,CA,Americas,Northern America,Canada,Alberta,,Calgary
 198.161.96.235,4,-27,incentre.net,CA,Americas,Northern America,Canada,Alberta,,Edmonton
 72.142.147.37,4,-9448,inuitcircumpolar.com,CA,Americas,Northern America,Canada,Alberta,,Edmonton
@@ -22,8 +22,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 216.194.64.161,4,-44,karlheinzstockhausen.org,CA,Americas,Northern America,Canada,Alberta,,Lacombe
 162.223.224.78,4,-2,lawnow.org,CA,Americas,Northern America,Canada,Alberta,,Calgary
 142.109.1.79,4,-1,mtroyal.ca,CA,Americas,Northern America,Canada,Alberta,,Calgary
-74.118.54.54,4,55,newsadvertiser.com,CA,Americas,Northern America,Canada,Alberta,,Vegreville
-74.200.22.17,4,26,northwestjournal.ca,CA,Americas,Northern America,Canada,Alberta,,Calgary
+74.118.54.54,4,5,newsadvertiser.com,CA,Americas,Northern America,Canada,Alberta,,Vegreville
+74.200.22.17,4,2,northwestjournal.ca,CA,Americas,Northern America,Canada,Alberta,,Calgary
 24.244.63.10,4,-3,Ookla Speedtest Server 4207: speedtest.cg.shawcable.net,CA,Americas,Northern America,Canada,Alberta,,Banff
 24.244.63.14,4,1,Ookla Speedtest Server 4207: speedtest.cg.shawcable.net,CA,Americas,Northern America,Canada,Alberta,,Banff
 24.244.63.34,4,3,Ookla Speedtest Server 4240: speedtest.gv.shawcable.net,CA,Americas,Northern America,Canada,Alberta,,Banff
@@ -47,14 +47,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 216.234.161.31,4,-5,Ookla Speedtest Server: speedtest.tera-byte.com,CA,Americas,Northern America,Canada,Alberta,,Spruce Grove
 198.166.139.14,4,20,openbsdfoundation.org,CA,Americas,Northern America,Canada,Alberta,,Calgary
 129.128.216.10,4,1,openeducationalberta.ca,CA,Americas,Northern America,Canada,Alberta,,Edmonton
-24.109.102.114,4,-1052,outdoorsmenforum.ca,CA,Americas,Northern America,Canada,Alberta,,Edmonton
 216.194.69.129,4,12,power-tab.net,CA,Americas,Northern America,Canada,Alberta,,Lacombe
 184.69.214.34,4,19,practicar.ca,CA,Americas,Northern America,Canada,Alberta,,Calgary
 216.194.64.152,4,4,quadibloc.com,CA,Americas,Northern America,Canada,Alberta,,Lacombe
 162.223.224.20,4,17,sealegacy.org,CA,Americas,Northern America,Canada,Alberta,,Calgary
 216.234.160.207,4,7,spaceports.com,CA,Americas,Northern America,Canada,Alberta,,Spruce Grove
 170.39.115.11,4,16,sungreen.net,CA,Americas,Northern America,Canada,Alberta,,Calgary
-216.234.161.11,4,16,tera-byte.com,CA,Americas,Northern America,Canada,Alberta,,Spruce Grove
+216.234.161.11,4,-1,tera-byte.com,CA,Americas,Northern America,Canada,Alberta,,Spruce Grove
 170.39.112.41,4,32,thenewswire.com,CA,Americas,Northern America,Canada,Alberta,,Calgary
-72.142.150.137,4,29760,wildsafebc.com,CA,Americas,Northern America,Canada,Alberta,,Airdrie
+72.142.150.137,4,41720,wildsafebc.com,CA,Americas,Northern America,Canada,Alberta,,Airdrie
 107.190.76.189,4,131,workersofthe.world,CA,Americas,Northern America,Canada,Alberta,,Calgary

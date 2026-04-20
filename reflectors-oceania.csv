@@ -1,21 +1,16 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-194.195.251.41,4,3,11inchpizza.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+194.195.251.41,4,4,11inchpizza.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.152.248.119,4,-3,126asiancuisine.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-43.250.142.135,4,-8,2aussietravellers.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.152.248.28,4,-3,3minuteangels.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.146.112.100,4,9,4x4earth.com,AU,Oceania,Australia and New Zealand,Australia,,,
-82.97.240.157,4,-18,9310802.ru,AU,Oceania,Australia and New Zealand,Australia,,,
 130.216.72.44,4,-1,95bfm.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 198.38.93.23,4,6,a2zdental.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.73.64.3,4,184,aacm.edu.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+103.73.64.3,4,0,aacm.edu.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.37.8.118,4,574,aaic.net.au,AU,Oceania,Australia and New Zealand,Australia,,,
 49.50.249.4,4,-1,aardvark.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 103.236.163.21,4,-36,abdirectory.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-112.213.37.154,4,135,abmission.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-45.79.118.8,4,-6,abstractspoon.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.42.111.202,4,-7,accan.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
-221.121.145.90,4,2806,accomnews.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.1.184.54,4,-1,accorplus.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+112.213.37.154,4,-2,abmission.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+221.121.145.90,4,6,accomnews.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 34.129.10.133,4,-3,acnem.org,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 112.213.34.167,4,0,aco.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 113.52.144.31,4,24,acornandsquirrel.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
@@ -28,47 +23,39 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 13.210.177.10,4,-3,adelaidefringe.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 15.135.130.241,4,2,adelaidefringe.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.224.212.251,4,-2,adskorner.com,AU,Oceania,Australia and New Zealand,Australia,,,
-110.232.143.67,4,-1,aees.org.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.119.109.3,4,14,aeroscouriers.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-112.213.34.123,4,-14,aeva.asn.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.50,4,1228,afao.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 223.165.64.9,4,0,affordablecarsales.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
-202.74.68.133,4,2,aflnswact.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+202.74.68.133,4,-5,aflnswact.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.27.34.26,4,-2,afloat.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 110.232.143.29,4,-4,afltables.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-103.11.147.73,4,-2,agedcareonline.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 172.105.177.58,4,8,agfinance.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.224.212.250,4,5,aidswasting.com,AU,Oceania,Australia and New Zealand,Australia,,,
+103.224.212.250,4,0,aidswasting.com,AU,Oceania,Australia and New Zealand,Australia,,,
 52.63.139.126,4,-28,aie.edu.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-175.45.181.109,4,-3,aips.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 45.64.60.29,4,196,airforcemuseum.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 172.105.188.117,4,-4,airshow.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 170.64.230.157,4,-3,ajdintrade.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.141.22,4,-4,ajp.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 82.97.240.23,4,-3,akkras.ru,AU,Oceania,Australia and New Zealand,Australia,,,
 14.203.67.166,4,101,alaindee.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.27.52.107,4,35,albanyextreme.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Bay of Plenty,,Tauranga
-103.27.34.42,4,-13,alicespringsnews.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
+103.27.52.107,4,-1,albanyextreme.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Bay of Plenty,,Tauranga
 91.239.146.130,4,-7,alijanmotors.com,AU,Oceania,Australia and New Zealand,Australia,,,
-175.45.125.220,4,4,allabilitiesmackay.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-43.250.142.84,4,-8,allcoinvalues.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+175.45.125.220,4,-2,allabilitiesmackay.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 101.0.68.70,4,6,allergywest.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 117.120.11.113,4,18,alor.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.119.110.240,4,1,alsnswact.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.27.32.2,4,-3,altf.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
-175.45.125.163,4,5,althorpestate.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+175.45.125.163,4,-11,althorpestate.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 223.165.77.136,4,19,alzheimers.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 103.27.32.10,4,4,amare.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 20.213.104.22,4,13,ami.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-43.250.140.35,4,-15,amphibianark.org,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 101.0.91.74,4,0,amsi.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-101.0.120.4,4,13,anchor.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-202.4.234.18,4,13,anchor.net.au,AU,Oceania,Australia and New Zealand,Australia,,,
+101.0.120.4,4,10,anchor.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+202.4.234.18,4,5,anchor.net.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.27.32.32,4,13,andromedaspaceways.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 110.232.143.110,4,13,anecdote.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.82.65.7,4,-14,anergy.com.sg,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 172.105.255.140,4,9,angelamaiers.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.27.32.38,4,-8,angelsghosts.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 43.250.140.19,4,-2,angleseapizza.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 101.0.111.70,4,6,anmj.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 52.65.120.166,4,1,apac-accreditation.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
@@ -78,38 +65,34 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 192.250.232.188,4,6,apvi.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.146.112.110,4,6,arboristreportsaustralia.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 43.250.142.88,4,13,architectus.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.27.32.40,4,7,arena.gov.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
-110.232.143.83,4,-1,argonaut.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
+103.27.32.40,4,-1,arena.gov.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 13.54.137.13,4,2,aristocrat.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.152.248.154,4,9,arx.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.209.24.135,4,4,asialinkbusiness.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+103.209.24.135,4,0,asialinkbusiness.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 172.105.189.205,4,-10,asianinspirations.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 221.121.158.71,4,5,asnevents.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 45.63.26.218,4,-7,assignmenthelppro.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.18.108.174,4,649,astra.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.27.32.21,4,-13,asum.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 13.54.243.171,4,-10,athertontablelands.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 45.63.31.140,4,0,atms.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 111.65.227.48,4,13,atoz-nz.com,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 103.27.34.124,4,91,attik.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 202.134.241.61,4,-2,au8.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-139.99.247.189,4,13,aubiz.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-172.105.178.17,4,-3,auctionfinder.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+139.99.247.189,4,2,aubiz.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 223.165.64.43,4,41,audioculture.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 103.119.109.227,4,-1,aulro.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-108.61.184.230,4,57,aupropertyreport.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+108.61.184.230,4,1,aupropertyreport.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 144.48.38.94,4,-13,aus.social,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 122.201.124.236,4,14,ausetute.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.31,4,31,ausfashioncouncil.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.119.110.116,4,-19,ausfoodnews.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 101.0.121.34,4,-9,ausgolf.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-101.0.108.58,4,1,ausleisure.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+101.0.108.58,4,6,ausleisure.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 170.64.136.199,4,6,aussiecasinos.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.1.186.42,4,-12,aussiechildcarenetwork.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.27.34.22,4,-13,aussiehealthproducts.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 103.26.236.235,4,5,aussieinjurylawyers.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.149,4,793,aussietowns.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-192.250.232.24,4,16,australiachinarelations.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+192.250.232.24,4,8,australiachinarelations.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.11.147.170,4,-3,australiacouncil.gov.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.100.38.243,4,7,australianaccountants.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.141.74,4,27,australianbookreview.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
@@ -120,42 +103,40 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.27.35.195,4,-5,australianmilitarybank.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 202.37.74.45,4,-20,australiannaturaltherapistsassociation.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.141.171,4,33,australianpilinggroup.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.27.34.114,4,10,australianplays.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
-116.90.0.46,4,23,australianpolice.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+103.27.34.114,4,0,australianplays.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
+116.90.0.46,4,-1,australianpolice.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 192.250.232.174,4,4,australianstage.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.209.24.178,4,-4,australianstogether.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.209.24.6,4,7,australianstogether.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 34.129.161.75,4,-13,australianvolunteers.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.42.110.8,4,7,australis.pl,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.32,4,937,autism-help.org,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.42.111.74,4,-4,autismspectrum.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
-43.250.142.116,4,-8,awardsaustralia.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+203.96.176.111,4,-8,aviationmuseum.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.27.32.19,4,-1,badminton.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 172.236.53.203,4,-14,ballarat-australia.net,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.27.35.243,4,-35,bandtshirts.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 103.209.24.223,4,-20,baptistcare.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.209.24.166,4,3,baptistcare.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+103.209.24.166,4,0,baptistcare.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.27.34.115,4,8,barnbougle.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 122.202.94.12,4,2,bastionagency.com,AU,Oceania,Australia and New Zealand,Australia,,,
-34.116.115.104,4,5,batchelor.edu.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+34.116.115.104,4,-1,batchelor.edu.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 172.105.186.47,4,-2,bcbg-dresses.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.140.43,4,-23,bcec.edu.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 35.213.226.121,4,8,beachsafe.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 51.161.196.8,4,5,beachsidemedical.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 202.74.66.167,4,-15,beanstalkmums.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.36,4,-6,beautifulpictures.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-202.134.241.247,4,133,bebeja.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+202.134.241.247,4,3,bebeja.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.27.34.125,4,8,benzincafe.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
-221.121.138.138,4,-30,berry.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 52.64.75.251,4,-2,bestbets.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 13.210.202.145,4,9,bestbets.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 13.55.182.174,4,23,bestbets.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.6.213.51,4,26,bestblooms.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
-202.134.241.148,4,49,bestonlinepokies.biz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+202.134.241.148,4,6,bestonlinepokies.biz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.26.236.124,4,30,betgroupglobal.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 43.250.140.15,4,-1,bigvolcano.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.26.236.171,4,-3,bikereview.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-101.0.71.186,4,27,bikereview.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+101.0.71.186,4,0,bikereview.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 139.99.208.205,4,1,bikramyogafitzroy.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 101.0.98.218,4,5,bilbygroup.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 119.252.16.14,4,-8,billmitchell.org,AU,Oceania,Australia and New Zealand,Australia,South Australia,,Adelaide
@@ -163,70 +144,58 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.16.128.249,4,32,binarylane.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 202.74.65.27,4,1,biometricsinstitute.org,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.39,4,-31,birddelacoeur.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-103.209.24.60,4,16,birdsinbackyards.net,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+103.209.24.60,4,0,birdsinbackyards.net,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 163.47.128.186,4,2,bitstorm.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Canterbury,,Timaru
 176.97.68.77,4,9,bizzocasinoapp.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.4.122.14,4,-6,bje.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.127.41.28,4,3522,blackpearlbasketball.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+103.127.41.28,4,488,blackpearlbasketball.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 180.181.226.117,4,-6,bleh.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-27.50.75.140,4,-27,bleh.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-203.143.89.30,4,1422,blogbeast.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+203.143.89.30,4,455,blogbeast.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.249.239.61,4,3,bluecrystal.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 202.142.137.40,4,-11,bluehaze.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 27.54.133.88,4,2,bodyimagemovement.com,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
-27.50.92.137,4,-28,bodyimagemovement.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 223.165.76.120,4,11,bonvoyage.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 116.90.5.2,4,17,booksandpublishing.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.27.32.33,4,-4,boomerangbags.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 35.197.165.27,4,0,borders.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 149.28.169.183,4,-4,boredofstudies.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.130,4,4,bouncycastle.org,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-202.134.241.40,4,42,bprhaneda.co.id,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-27.50.93.167,4,-2657,bq.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+202.134.241.40,4,6,bprhaneda.co.id,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.27.34.113,4,9,brandl.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
-103.225.161.173,4,-24,brightenconsulting.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 43.250.142.76,4,335,brightonsavoy.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 43.250.142.52,4,-10,bsrc.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 43.250.142.31,4,1,bubhub.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.77.224.8,4,31,buckscollegegroup.ac.uk,AU,Oceania,Australia and New Zealand,Australia,,,
-103.25.59.58,4,6,buggybuddys.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+103.77.224.8,4,-1,buckscollegegroup.ac.uk,AU,Oceania,Australia and New Zealand,Australia,,,
+103.25.59.58,4,-3,buggybuddys.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 139.99.194.4,4,5,buildmatrix.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.190.128.97,4,-2,busaustralia.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 27.50.80.111,4,3,business2sell.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.100.39.13,4,-26,businessadvantagepng.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.173.134.106,4,1,busyatwork.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.28.41.99,4,27843,buttons.cm,AU,Oceania,Australia and New Zealand,Australia,,,
-103.28.41.100,4,61560,buttons.cm,AU,Oceania,Australia and New Zealand,Australia,,,
+103.28.41.99,4,24616,buttons.cm,AU,Oceania,Australia and New Zealand,Australia,,,
+103.28.41.100,4,17710,buttons.cm,AU,Oceania,Australia and New Zealand,Australia,,,
 35.189.51.48,4,-4,bydautomotive.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 101.0.100.121,4,-9,c-conf.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 223.165.77.138,4,13,c2c.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
-43.250.142.132,4,-16,caama.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 202.60.67.12,4,21,cablechick.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 192.250.232.189,4,1,cablerepairs.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 45.77.48.202,4,-11,cadence.moe,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.173.134.177,4,1,caic.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
-54.252.32.131,4,12,cairnsartgallery.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+54.252.32.131,4,-3,cairnsartgallery.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 52.63.32.79,4,-6,cairnsattractions.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-3.105.14.37,4,11,cairnsconnect.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-43.250.142.3,4,-10,caloriecounter.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+3.105.14.37,4,-2,cairnsconnect.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.45,4,-18,cambridgemedia.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.152.248.179,4,11,camdenvalleyplumbing.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-43.250.142.155,4,-10,canberraglassworks.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.11.147.104,4,-3,caravansplus.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 110.173.135.22,4,-3,carbonneutral.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-110.173.134.47,4,15,carbonneutral.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+110.173.134.47,4,0,carbonneutral.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.145,4,-11,careconnectcollege.edu.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.27.32.23,4,32,carlcox.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 103.27.35.207,4,12,carmanskitchen.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 103.152.248.200,4,27,carpentariabarra.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-43.250.142.97,4,-13,carpetinnovation.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 172.105.173.117,4,16,cathnews.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-172.105.167.147,4,14,cathnews.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+172.105.167.147,4,-1,cathnews.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 192.250.232.11,4,2,cathoconnect.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.152.249.16,4,-22,catholic.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 27.50.68.122,4,-6,cavershamwildlife.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.27.34.121,4,1,cccc.church,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
-43.250.140.25,4,-9,cdcbus.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 101.0.69.35,4,-2,celebrityspeakers.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.27.32.18,4,-13,centacarecq.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 27.50.84.243,4,0,cepar.edu.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
@@ -234,32 +203,26 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.248.176.140,4,192,chapelhill.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 175.45.125.12,4,-18,cheaperdomains.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 27.131.66.150,4,-39,cheesecake.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.1.184.96,4,-8,chefin.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 170.64.236.160,4,-6,chinwag.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.61,4,-5,christophersmart.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-150.107.75.225,4,-7,cialis5.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 198.38.93.91,4,9,ciputra.ac.id,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-35.189.48.215,4,3,circa.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+35.189.48.215,4,-1,circa.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.141,4,-1,circa.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.42.110.10,4,-14,circinfo.net,AU,Oceania,Australia and New Zealand,Australia,,,
 112.213.35.88,4,-6,cis.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 116.90.0.18,4,-1,citygoldbullion.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.11.147.152,4,-5,citynews.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-203.24.93.16,4,-20,cityofperthparking.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-43.250.142.16,4,88,cityshelving.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+43.250.142.16,4,-2,cityshelving.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.240.88.63,4,-4,clan.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.240.88.11,4,5,clan.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
-218.185.224.247,4,10,classicwings.com,NZ,Oceania,Australia and New Zealand,New Zealand,Tasman District,,Richmond
+103.240.88.11,4,3,clan.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
+218.185.224.247,4,-6,classicwings.com,NZ,Oceania,Australia and New Zealand,New Zealand,Tasman District,,Richmond
 122.201.84.4,4,4,claudeoutdoor.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
 150.229.2.70,4,-7,climatechangeinaustralia.gov.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Geelong
-150.229.2.106,4,3,climatechangeinaustralia.gov.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Geelong
+150.229.2.106,4,-5,climatechangeinaustralia.gov.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Geelong
 110.232.143.78,4,-5,cloudschool.org,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-103.225.161.77,4,-2,cloudschool.org,AU,Oceania,Australia and New Zealand,Australia,,,
 110.173.135.60,4,-24,cmvic.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.104,4,14,cohenhandler.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 110.232.143.56,4,-3,cohre.org,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.146.112.65,4,-7,com-al.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.209.24.200,4,11,comedyfestival.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+103.209.24.200,4,0,comedyfestival.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 119.252.117.162,4,-4,comfsm.fm,FM,Oceania,Micronesia,Federated States of Micronesia,Pohnpei State,,Kolonia
 13.238.80.190,4,-6,communityfirst.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.140,4,-18,compass.education,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
@@ -267,18 +230,16 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.65.61.36,4,-2,consumeraction.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.209.24.183,4,15,continence.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 117.120.11.63,4,-1,convair.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-122.201.124.19,4,22102,convertweb2mobile.com,AU,Oceania,Australia and New Zealand,Australia,,,
+122.201.124.19,4,10,convertweb2mobile.com,AU,Oceania,Australia and New Zealand,Australia,,,
 43.250.142.101,4,12,coo-ops.space,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.26.237.205,4,962,cooberpedy.com,AU,Oceania,Australia and New Zealand,Australia,,,
-103.27.32.27,4,-1,cookingwithyoshiko.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
-103.250.232.127,4,17,cookislandsnews.com,NZ,Oceania,Australia and New Zealand,New Zealand,,,
-101.0.88.162,4,201,coolingrealestate.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-175.45.180.27,4,7,coolum.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+103.250.232.127,4,11,cookislandsnews.com,NZ,Oceania,Australia and New Zealand,New Zealand,,,
+101.0.88.162,4,-1,coolingrealestate.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+175.45.180.27,4,-13,coolum.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.97,4,-10,copmi.net.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 117.74.103.13,4,-6,coredna.com,AU,Oceania,Australia and New Zealand,Australia,,,
 203.143.87.35,4,13,couchcleaningperth.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-110.232.143.1,4,9,counsellingsydney.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-221.121.156.107,4,-23,countryrecipebook.com,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+110.232.143.1,4,572,counsellingsydney.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 58.96.23.73,4,-13,courtneyds.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.140.22,4,-6,cpfi.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.224.212.102,4,9,crackajack.de,AU,Oceania,Australia and New Zealand,Australia,,,
@@ -286,22 +247,19 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.11.147.250,4,-36,creative.gov.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.152.248.151,4,14,creativefocus.net.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 198.38.93.17,4,4,creatorcoast.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-49.50.249.113,4,20,creditcardscompare.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-103.42.110.32,4,-7,creditone.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.27.35.210,4,2,cricketvictoria.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
-27.131.81.137,4,5,croakey.org,AU,Oceania,Australia and New Zealand,Australia,,,
+49.50.249.113,4,1,creditcardscompare.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+103.27.35.210,4,0,cricketvictoria.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 103.233.210.102,4,2247,crocodileadventures.com,AU,Oceania,Australia and New Zealand,Australia,,,
 45.248.76.113,4,22,crocosauruscove.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.49,4,-1,cronin.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 101.0.100.66,4,13,crucial.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 198.38.93.19,4,24,crudsisanatos.bio,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.27.173.25,4,13968,cruiseguru.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+103.27.173.25,4,53662,cruiseguru.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.27.35.72,4,-2,crunch.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 110.232.143.132,4,-6,csisafety.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.27.34.48,4,1,ctic.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 103.77.224.80,4,-30,cubixworld.net,AU,Oceania,Australia and New Zealand,Australia,,,
 221.121.158.111,4,1,cultivatedigital.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.27.34.111,4,-17,cur.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 52.64.39.142,4,3,curtin.edu.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 203.98.83.70,4,-10,customs.gov.pg,AU,Oceania,Australia and New Zealand,Australia,,,
 185.184.153.69,4,13,cutrite.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
@@ -310,38 +268,33 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 163.53.249.10,4,491,cycle-helmets.com,AU,Oceania,Australia and New Zealand,Australia,,,
 103.27.32.24,4,-4,daa.asn.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 122.252.14.219,4,4,dads4kids.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-45.76.121.8,4,3,dailygrail.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-122.129.219.188,4,4,dailyreview.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.233.210.105,4,5,daintreecassowary.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
+45.76.121.8,4,-6,dailygrail.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+122.129.219.188,4,-10,dailyreview.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+103.233.210.105,4,1929,daintreecassowary.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
 13.237.159.195,4,-7,daintreerainforest.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-65.254.95.60,4,17,daleysfruit.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
+65.254.95.60,4,0,daleysfruit.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
 221.121.158.229,4,-3,dandenonggaragedoors.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.224.212.252,4,-2,danteum.com,AU,Oceania,Australia and New Zealand,Australia,,,
 103.242.248.66,4,-3,darkhorizons.com,AU,Oceania,Australia and New Zealand,Australia,,,
 103.224.212.196,4,19,darkos.club,AU,Oceania,Australia and New Zealand,Australia,,,
-27.54.92.114,4,21855,darululoom.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-221.121.159.114,4,-11,darwinairport.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+27.54.92.114,4,10,darululoom.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 16.176.92.82,4,2,darwinfestival.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 15.134.55.183,4,-27,darwinfestival.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 3.105.205.202,4,-2,darwinfestival.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-27.50.84.23,4,-34,darwinfestival.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 3.105.142.252,4,3,dashify.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 52.65.177.243,4,-1,dashify.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 16.176.65.178,4,-5,dashify.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 27.50.70.98,4,3,daviescraig.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.27.32.15,4,12,davismarina.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
+103.27.32.15,4,-1,davismarina.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 202.37.74.109,4,-9,dbansw.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 175.45.125.10,4,-25,ddns.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 45.76.113.28,4,-11,ddtech.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.135,4,-1,deca.org.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 170.64.172.115,4,17,definitivedental.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-43.250.140.16,4,-16,delacour.net,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 110.232.143.72,4,-7,delahoy.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-203.29.225.52,4,-29,deliverit.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.50,4,-8,dentalboutique.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 110.232.143.47,4,-48,designinferno.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.26.236.187,4,6,devpolicy.org,AU,Oceania,Australia and New Zealand,Australia,,,
-103.27.34.30,4,-8,devpolicy.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 203.143.89.81,4,727,diamondcs.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 20.92.129.82,4,61178,diamondscamera.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 139.180.172.85,4,-3,diggarsmate.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
@@ -351,9 +304,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 43.250.142.25,4,-9,dioncariofilms.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.224.212.193,4,3,discoverahobby.com,AU,Oceania,Australia and New Zealand,Australia,,,
 43.250.142.102,4,-4,diyrenovationsonline.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.1.186.221,4,-8,dkeenan.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.175.225.170,4,42,DNS Server: 110-175-225-170.static.tpgi.com.au,AU,Oceania,Australia and New Zealand,Australia,South Australia,,Adelaide
-110.175.240.93,4,-9621,DNS Server: 110-175-240-93.tpgi.com.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
 111.220.59.183,4,89,DNS Server: 111-220-59-183.sta.wbroadband.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 114.134.11.177,4,30628,DNS Server: 114-134-11-177.static.lightwire.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Waikato Region,,Hamilton
 116.240.114.185,4,618,DNS Server: 116-240-114-185.sta.dodo.net.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
@@ -364,9 +315,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 122.199.54.40,4,294,DNS Server: 122-199-54-40.ip4.superloop.com,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
 123.243.165.170,4,6,DNS Server: 123-243-165-170.static.tpgi.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 123.243.202.110,4,36,DNS Server: 123-243-202-110.tpgi.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+123.243.36.55,4,468,DNS Server: 123-243-36-55.tpgi.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 123.243.55.86,4,185077,DNS Server: 123-243-55-86.static.tpgi.com.au,AU,Oceania,Australia and New Zealand,Australia,South Australia,,Adelaide
 124.168.116.170,4,289,DNS Server: 124-168-116-170.tpgi.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 124.170.26.148,4,683,DNS Server: 124-170-26-148.tpgi.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+124.171.220.88,4,452,DNS Server: 124-171-220-88.tpgi.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 14.201.91.170,4,41,DNS Server: 14-201-91-170.static.tpgi.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 14.1.42.148,4,-69273,DNS Server: 14.1.42.148.host.layer2.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 159.196.127.73,4,-2,DNS Server: 159-196-127-73.9fc47f.syd.static.aussiebb.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
@@ -379,14 +332,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 180.150.51.109,4,-24,DNS Server: 180-150-51-109.b49633.mel.static.aussiebb.net,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 115.70.225.190,4,14,DNS Server: 190.225.70.115.static.exetel.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 193.114.136.10,4,103514,DNS Server: 193-114-136-10.tpgi.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-194.223.170.50,4,10,DNS Server: 194-223-170-50.tpgi.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 202.138.20.130,4,216877,DNS Server: 202-138-20-130.sta.wbroadband.net.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 202.138.73.149,4,-13,DNS Server: 202-138-73-149.static.anticlockwise.net.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 202.142.133.126,4,-2195,DNS Server: 202-142-133-126.ca8e85.mel.static.aussiebb.net,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 202.151.81.209,4,71208740,DNS Server: 202-151-81-209.biz.static.teleguam.net,GU,Oceania,Micronesia,Guam,,,Tamuning
 202.171.79.144,4,-7,DNS Server: 202-171-79-144.h16.canl.nc,NC,Oceania,Melanesia,New Caledonia,South Province,,Noumea
 123.136.55.202,4,460,DNS Server: 202-55-136-123.ip.esc.net.au,AU,Oceania,Australia and New Zealand,Australia,South Australia,,Adelaide
-202.7.185.124,4,595,DNS Server: 202-7-185-124.tpgi.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 202.73.30.98,4,436,DNS Server: 202-73-30-98.static.lightningbroadband.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 203.129.129.150,4,-2,DNS Server: 203-129-129-150.sta.dodo.net.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 203.129.25.39,4,-10,DNS Server: 203-129-25-39.cb8119.syd.static.aussiebb.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
@@ -412,7 +363,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 110.143.3.83,4,1782215,DNS Server: abi1684415.lnk.telstra.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.143.148.183,4,748316,DNS Server: abi1708756.lnk.telstra.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.145.154.62,4,-9,DNS Server: bmi-bgi007.cpe.netvault.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-139.130.2.22,4,1035851,DNS Server: cen3563285.lnk.telstra.net,AU,Oceania,Australia and New Zealand,Australia,Queensland,,
 203.144.13.250,4,-1,DNS Server: comsectr.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Gold Coast
 1.159.223.140,4,-94,DNS Server: cpe-1-159-223-140.wb05.wa.asp.telstra.net,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
 144.137.210.182,4,-10,DNS Server: cpe-144-137-210-182.static.nsw.asp.telstra.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
@@ -466,7 +416,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.108.228.15,4,-5,DoH server: dnscry.pt-melbourne-ipv4,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 203.29.240.249,4,-32,DoH server: dnscry.pt-perth-ipv4,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
 195.114.14.74,4,-4,DoH server: dnscry.pt-sydney02-ipv4,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-45.76.113.31,4,0,DoH server: doh-2.seby.io doh.seby.io dot.seby.io,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+45.76.113.31,4,0,DoH server: doh-2.seby.io, doh.seby.io, dot.seby.io,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.6.212.123,4,1,DoH server: nz01.dns4me.net,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 168.138.26.232,4,-21,DoH server: orau.lz0724.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 192.250.232.89,4,3,dolawofattraction.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
@@ -476,30 +426,26 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 27.50.78.89,4,593,dragonboat.sport,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 54.79.62.207,4,-3,drakes.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.119.110.52,4,-8,dreamithost.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-154.26.155.169,4,4,dtc.edu.np,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-27.54.92.237,4,-41115,ductallsystems.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-43.250.142.133,4,16,dulwichcentre.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+154.26.155.169,4,-1,dtc.edu.np,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+43.250.142.133,4,1415,dulwichcentre.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 203.55.134.138,4,7,dvconnect.org,AU,Oceania,Australia and New Zealand,Australia,,,
 103.119.110.234,4,-2,dvdland.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-139.99.248.178,4,6,dynamicobjects.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+139.99.248.178,4,7,dynamicobjects.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 45.65.61.40,4,-4,eachchild.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.11.147.200,4,-3,earlychildhoodaustralia.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
 54.79.176.107,4,5,earnedmedia.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.119.110.17,4,-19,easternsuburbsmums.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-43.250.142.148,4,-9,easycarport.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 110.232.143.105,4,-3,easyflights.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 43.250.140.7,4,2,easypropertylistings.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 117.74.103.23,4,-9,ebuero.de,AU,Oceania,Australia and New Zealand,Australia,,,
-203.22.70.2,4,28,ecn.net.au,AU,Oceania,Australia and New Zealand,Australia,,,
+203.22.70.2,4,8,ecn.net.au,AU,Oceania,Australia and New Zealand,Australia,,,
 43.250.141.164,4,-6,ecocommons.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.26.237.166,4,1,ecolsoc.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
 115.64.189.46,4,-1,economicoutlook.net,AU,Oceania,Australia and New Zealand,Australia,South Australia,,Adelaide
 43.250.142.83,4,-4,ecovoice.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-202.74.66.18,4,3,eczema.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
+202.74.66.18,4,-2,eczema.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.254.137.34,4,5,edigitalagency.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-43.250.142.139,4,-15,edte.ch,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 202.90.68.11,4,7,education.pf,PF,Oceania,Polynesia,French Polynesia,Îles du Vent,,Papeete
-180.92.194.91,4,-29,eec.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 194.195.120.231,4,-10,eftm.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.82.64.71,4,-7,eh-resources.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 175.45.125.135,4,5,ejaccountingco.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
@@ -507,7 +453,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.11.147.180,4,-13,electricvehiclecouncil.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.187.7.134,4,-15,elephind.com,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 103.214.21.40,4,4,elite-electronics.com.au,AU,Oceania,Australia and New Zealand,Australia,Australian Capital Territory,,Canberra
-43.250.140.28,4,-9,eloping.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 119.9.51.27,4,-3,elsewhere.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 119.47.118.165,4,-1,elvisinfonet.com,AU,Oceania,Australia and New Zealand,Australia,,,
 43.250.142.37,4,3,elvispresleymusic.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
@@ -520,17 +465,15 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.209.24.196,4,2,englishtapware.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.204.106.15,4,-23,eos-aus.com,AU,Oceania,Australia and New Zealand,Australia,,,
 91.239.146.181,4,-39,eproclean.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-139.99.208.76,4,7,epswa.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-203.25.185.103,4,11,esc.net.au,AU,Oceania,Australia and New Zealand,Australia,,,
+139.99.208.76,4,8,epswa.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+203.25.185.103,4,-20,esc.net.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.250.232.141,4,-17,escortamour.com,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 202.74.66.65,4,-10,esdnews.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 221.121.138.120,4,32,ethos360.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.27.32.30,4,-14,eurobodalla.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 3.104.164.198,4,-8,evaunt.me,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 114.23.49.239,4,-2,eveningreport.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Marlborough,,Burleigh
 192.250.232.178,4,-22,everestpeople.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-110.232.143.23,4,7,everyaustraliancounts.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-110.232.143.41,4,-13,evidencebasedteaching.org.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
+110.232.143.23,4,-1,everyaustraliancounts.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 43.250.142.129,4,745,evitech.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.127.163.167,4,-9,evokeprojects.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 43.250.142.86,4,0,evolvingthoughts.net,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
@@ -544,7 +487,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.65.61.208,4,1047,eyeandear.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
 43.250.142.15,4,14,ezifunerals.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.224.212.245,4,30,f12bet.bet,AU,Oceania,Australia and New Zealand,Australia,,,
-103.27.34.16,4,160,f2.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
+103.27.34.16,4,0,f2.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 34.126.203.138,4,-4,fanfooty.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 54.153.195.220,4,0,fantasticservicesgroup.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.141.212,4,-6,fare.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
@@ -552,7 +495,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 110.232.143.37,4,-4,fasttrackhomeloans.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.27.35.161,4,-5,fds.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 110.232.143.111,4,-3,feelgoodlaserskin.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-114.23.107.74,4,4,felt.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Canterbury,,Christchurch
+114.23.107.74,4,1,felt.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Canterbury,,Christchurch
 103.224.212.25,4,40,femail.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 52.65.154.232,4,-9,fernbyfilms.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.93,4,-5,fernwoodfitness.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
@@ -560,30 +503,26 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 108.61.96.148,4,-1,fidelity.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.245.161.116,4,10,finalbuilder.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.242.248.51,4,818,financialservicesonline.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.1.187.139,4,-10,findbigmail.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 139.99.248.200,4,-17,fingerlingsmonkey.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 170.64.177.94,4,18,finkedesertrace.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 82.97.245.240,4,0,finversia.ru,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.99,4,-7,firedoor.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 54.153.229.39,4,4,fireflylearning.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 27.131.77.130,4,-10,fireprotectionservices.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-43.250.142.1,4,-4,firesticks.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.224.212.246,4,22,firewallleaktester.com,AU,Oceania,Australia and New Zealand,Australia,,,
-218.185.224.229,4,21,fishandgame.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Tasman District,,Richmond
+103.224.212.246,4,1,firewallleaktester.com,AU,Oceania,Australia and New Zealand,Australia,,,
+218.185.224.229,4,-6,fishandgame.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Tasman District,,Richmond
 110.232.143.22,4,-2,fitzroyisland.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-51.161.196.44,4,1581,fizzicseducation.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+51.161.196.44,4,2,fizzicseducation.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.208.85.230,4,-3,flamedfury.com,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 43.229.63.233,4,-3,flatrockbrewcafe.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-223.165.77.249,4,18,flightdec.com,NZ,Oceania,Australia and New Zealand,New Zealand,,,
+223.165.77.249,4,10,flightdec.com,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 101.0.111.22,4,-7,flightsafetyaustralia.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 119.9.27.175,4,9,floriadeaustralia.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-43.250.142.74,4,42,fluentpixel.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+43.250.142.74,4,-1,fluentpixel.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.224.212.105,4,-46,flygermania.de,AU,Oceania,Australia and New Zealand,Australia,,,
-113.52.6.223,4,-409,foalsbeststart.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Beaudesert
 139.144.96.7,4,2,foldingtables.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-172.105.162.7,4,2040,foldingtables.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-43.250.142.144,4,41,foodfrontier.org,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-119.148.90.159,4,-1,forbes.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
+172.105.162.7,4,-2,foldingtables.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+43.250.142.144,4,-1,foodfrontier.org,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 111.65.238.98,4,-18,foreignaffairs.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 202.89.39.8,4,24,frami.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 43.250.142.98,4,-2,franchise.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
@@ -592,107 +531,98 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 52.64.208.27,4,-1,fringeworld.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 3.106.89.140,4,-13,fringeworld.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 54.66.165.57,4,-24,fringeworld.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-43.250.140.17,4,-14,fst.net.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 43.250.141.124,4,0,fta.edu.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 66.22.91.4,4,-9,fullers.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-66.22.91.11,4,6,fullers.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+66.22.91.11,4,7,fullers.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 103.27.32.14,4,3,furntech.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 192.250.232.193,4,12,futureed.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.27.34.36,4,-4,gaaustralia.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 110.232.143.137,4,-5,gadgetkingsprs.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 202.134.241.78,4,-9,galaxy6623.app,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-116.90.40.4,4,11,gbst.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
+116.90.40.4,4,5,gbst.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
 27.50.65.251,4,-10,gccec.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.1.185.208,4,-9,gccec.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 54.66.233.230,4,0,gcrelectricalsystems.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.119.110.199,4,0,gendercentre.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 203.4.149.24,4,1386,genealogics.org,AU,Oceania,Australia and New Zealand,Australia,,,
 118.88.24.36,4,-18,geoffchappell.com,AU,Oceania,Australia and New Zealand,Australia,,,
 202.134.241.208,4,49,getframd.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-194.195.122.18,4,1,getfrank.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.1.184.193,4,-14,gffoodservice.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-163.47.119.159,4,-21,ghettoforge.org,AU,Oceania,Australia and New Zealand,Australia,,,
+194.195.122.18,4,5,getfrank.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 202.74.65.5,4,-13,gil.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 180.92.194.61,4,-2,gilbertfamilywines.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.3,4,16,giramondopublishing.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.224.212.26,4,-3,girl.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.250.232.70,4,-5,girlmuseum.org,NZ,Oceania,Australia and New Zealand,New Zealand,,,
-202.27.212.66,4,12,gisborne.net.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Gisborne,,Gisborne
+202.27.212.66,4,-2,gisborne.net.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Gisborne,,Gisborne
 103.214.21.26,4,6,glenirisvethospital.com.au,AU,Oceania,Australia and New Zealand,Australia,Australian Capital Territory,,Canberra
-116.118.241.10,4,4,glenrockgp.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.117.107.31,4,5,gme.net.au,AU,Oceania,Australia and New Zealand,Australia,,,
+116.118.241.10,4,-17,glenrockgp.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+103.117.107.31,4,-1,gme.net.au,AU,Oceania,Australia and New Zealand,Australia,,,
 122.201.125.100,4,9,gmonsantoconsulting.com,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.66,4,-3,go8.edu.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-202.74.66.154,4,3,gofar.co,AU,Oceania,Australia and New Zealand,Australia,,,
-43.229.60.21,4,-13,goldenrobotrecords.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+202.74.66.154,4,-3,gofar.co,AU,Oceania,Australia and New Zealand,Australia,,,
 52.65.236.41,4,-7,golflink.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 52.65.82.92,4,2,golflink.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.146.112.218,4,42,goodfoodshow.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+103.146.112.218,4,-3,goodfoodshow.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.16.180.234,4,-20,goodreturns.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-45.63.29.199,4,11,gotriptravel.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+45.63.29.199,4,-7,gotriptravel.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.224.212.188,4,-2,goturkeytourism.com,AU,Oceania,Australia and New Zealand,Australia,,,
-103.224.212.233,4,8,goturkeytourism.com,AU,Oceania,Australia and New Zealand,Australia,,,
+103.224.212.233,4,-1,goturkeytourism.com,AU,Oceania,Australia and New Zealand,Australia,,,
 43.250.142.35,4,1,gourmantic.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 13.237.234.58,4,-17,govhack.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 13.55.105.126,4,13,govhack.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 117.121.244.11,4,210959,gplhost.com,NZ,Oceania,Australia and New Zealand,New Zealand,Canterbury,,Christchurch
-103.26.237.122,4,5,gracecollection.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+103.26.237.122,4,4,gracecollection.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.152.248.22,4,-2,grahamhouse.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.209.24.114,4,-9,grandprix.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 110.232.143.88,4,1,grannyflat.rentals,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.27.35.122,4,-7,grattan.edu.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 103.208.218.124,4,-39,greatershepparton.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-27.131.110.162,4,792,greatwalksofaustralia.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+27.131.110.162,4,987,greatwalksofaustralia.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 110.232.143.51,4,11,greenandgoldrugby.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.152.248.143,4,12,greenbrothers.co.nz,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 43.250.142.56,4,-6,greghunt.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-114.142.161.217,4,22098,gregsavage.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+114.142.161.217,4,16,gregsavage.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.42.111.84,4,-40,griffithreview.com,AU,Oceania,Australia and New Zealand,Australia,,,
-103.27.34.15,4,17,growyouthful.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
+103.27.34.15,4,-1,growyouthful.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 139.99.130.5,4,-1,grupotrocadero.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-95.111.217.84,4,7,gsdiamonds.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+95.111.217.84,4,-3,gsdiamonds.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 168.138.27.188,4,-12,guitarshop.vn,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 172.105.173.53,4,1,gw.casino,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.34,4,-3,gymlink.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.77.224.45,4,-25,hadlow.ac.uk,AU,Oceania,Australia and New Zealand,Australia,,,
 172.105.176.172,4,-5,hairdoctors.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 101.0.69.166,4,4,hairtrade.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-202.76.248.244,4,6,hakka.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+202.76.248.244,4,-1,hakka.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.27.32.17,4,-17,halalpidehouse.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
-139.180.170.97,4,-11,halcyonhouse.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.14,4,-8,hamiltonlocke.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 110.232.143.108,4,-1,haoeydental.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.108.229.174,4,4,harnessmaster.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.77.224.23,4,-9,harrow.ac.uk,AU,Oceania,Australia and New Zealand,Australia,,,
-20.92.129.81,4,56549,hartsport.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+20.92.129.81,4,63408,hartsport.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.136,4,-27,headacheaustralia.org.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 203.29.241.184,4,-23,headwear.com.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
 192.250.232.167,4,0,health-science-spirit.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.49,4,-3,healthwriterhub.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.27.34.27,4,-10,heardmcewan.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 103.77.224.73,4,-6,heartofyorkshire.ac.uk,AU,Oceania,Australia and New Zealand,Australia,,,
-103.152.248.127,4,3,heckerguthrie.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+103.152.248.127,4,0,heckerguthrie.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 27.50.93.169,4,-9858,hellomay.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.224.212.32,4,11,help.com,AU,Oceania,Australia and New Zealand,Australia,,,
 43.245.53.143,4,31,hempelyacht.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
 20.92.129.87,4,61174,henryschein.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-118.127.41.169,4,-28,hiddensecretstours.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.12,4,3,highpowercleaning.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.189.212.79,4,-3,hikervcaravans.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 203.118.131.219,4,-9199,hilariouschaos.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 43.250.142.46,4,1133,hillssolicitors.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 203.143.87.98,4,2,hinterlandviewdental.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 202.134.241.147,4,3,hist-roshpina.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-172.105.190.148,4,-1,hitechfasteners.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.42.110.14,4,764,hlb.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-202.74.66.102,4,5,hockey.ie,AU,Oceania,Australia and New Zealand,Australia,,,
-202.134.241.50,4,36,hokislot88-asik.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+202.74.66.102,4,-9,hockey.ie,AU,Oceania,Australia and New Zealand,Australia,,,
+202.134.241.50,4,1,hokislot88-asik.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.95,4,17,homanndesigns.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 27.50.67.245,4,-5,homebuilthifi.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 45.32.189.185,4,6,homedoctor.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.67,4,20,homelessnessaustralia.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.237.108.247,4,-1162,homeone.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-202.74.70.148,4,15,honeybee.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
+202.74.70.148,4,-13,honeybee.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
 110.173.132.201,4,-6,hornsdalepowerreserve.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 114.23.97.33,4,393,horsetalk.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Canterbury,,Christchurch
 101.0.104.154,4,-4,hotelstrategygroup.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
@@ -700,8 +630,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 203.96.176.17,4,-12,hrfmc.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.4.122.13,4,4,httaus.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 194.195.249.147,4,4,httpster.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-185.17.255.46,4,17,hudin.com,NZ,Oceania,Australia and New Zealand,New Zealand,,,
-221.121.152.241,4,-28,hugabub.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+185.17.255.46,4,-9,hudin.com,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 110.232.143.11,4,-2,humanities.org.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.84.224.30,4,21,humbug.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.119.110.27,4,-6,huntermetalmarket.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
@@ -709,14 +638,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 43.245.53.12,4,32,hvtyres.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
 103.27.32.9,4,5,hyperrust.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 51.161.128.144,4,-11,i-tech.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-43.245.53.21,4,46,iase-web.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
+43.245.53.21,4,3,iase-web.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
 175.45.125.13,4,-14,ib.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.9.57.193,4,-1,iba.gov.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.127.41.94,4,913,ibasecretariat.org,AU,Oceania,Australia and New Zealand,Australia,,,
 103.27.35.155,4,-23,idm.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 103.152.248.7,4,13,idrb.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.64.148.194,4,3,ifaa-archery.org,AU,Oceania,Australia and New Zealand,Australia,,,
-103.27.32.36,4,-7,igsd.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 103.42.110.36,4,-2,iier.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.230.158.158,4,-24,ijk.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 27.131.110.188,4,7,illawarrareptilesociety.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
@@ -726,22 +654,21 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 110.232.143.87,4,1,immunisationcoalition.org.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.27.33.110,4,-7,imperialerskineville.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 103.11.207.159,4,40,indianlink.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-45.124.54.171,4,-29,indigoframing.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.9.161.219,4,103045,ineedhits.com,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
 103.25.59.19,4,-6,infogerontologia.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 34.151.137.154,4,-7,infoisinfo-au.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 134.199.145.27,4,23,infomedia.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 52.65.73.113,4,12,infoodle.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-110.173.132.217,4,13,infrastructurepipeline.org,AU,Oceania,Australia and New Zealand,Australia,,,
-45.77.234.210,4,41,infratil.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+110.173.132.217,4,4,infrastructurepipeline.org,AU,Oceania,Australia and New Zealand,Australia,,,
+45.77.234.210,4,1,infratil.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 117.120.12.165,4,0,inmycommunity.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.26.237.114,4,3,innerhealthclinic.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+103.26.237.114,4,-1,innerhealthclinic.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 221.121.146.221,4,-16,insidehr.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.27.34.14,4,161,insiderguides.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 103.209.24.138,4,-5,insidestory.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.209.24.35,4,5,insidestory.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+103.209.24.35,4,0,insidestory.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 203.114.128.76,4,30,inspire.net.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Manawatu-Wanganui,,Feilding
-176.97.69.216,4,11,inspirythemesdemo.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+176.97.69.216,4,0,inspirythemesdemo.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.160,4,622,instinctmusic.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.209.24.28,4,-18,interactive.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 45.77.237.175,4,-2,intesols.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
@@ -753,150 +680,135 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 172.105.173.253,4,5,isend.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.249.179.134,4,25,ispf.pf,PF,Oceania,Polynesia,French Polynesia,Îles du Vent,,Papeete
 82.97.245.12,4,-12,israelbusinessguide.com,AU,Oceania,Australia and New Zealand,Australia,,,
-103.152.248.32,4,10,itecuae.ae,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+103.152.248.32,4,0,itecuae.ae,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 65.254.94.189,4,-4,iti.ac.pg,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
 101.0.65.50,4,16,itwire.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 45.65.61.35,4,-5,iwda.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
 101.0.102.114,4,-1,iwib.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 202.74.66.204,4,-19,jade.finance,AU,Oceania,Australia and New Zealand,Australia,,,
-110.232.143.20,4,-13,jamberoo.net,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 43.250.142.77,4,2,jamieson.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.96.117.52,4,-5,janter.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
-223.165.64.192,4,20,janter.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
+223.165.64.192,4,10,janter.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 108.61.169.57,4,-3,jasanz.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 101.0.68.158,4,-13,jcba.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 27.124.116.193,4,5,jdtechelectrical.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 58.6.148.103,4,1437,jecoback.com,AU,Oceania,Australia and New Zealand,Australia,,,
 45.125.247.113,4,9,jennifermarohasy.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.208.85.50,4,-7,jgsolutions.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
-139.99.221.236,4,6,jims.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-139.99.223.23,4,3,jimsdogwash.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-43.250.142.100,4,-16,jimsit.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+139.99.221.236,4,44,jims.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+139.99.223.23,4,2,jimsdogwash.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 139.99.223.193,4,12,jimsmowing.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 159.13.57.87,4,4,jinbuguo.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
 175.45.182.50,4,-18,jinding.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 43.250.142.79,4,-1,jmbdraincleaning.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-202.74.67.15,4,3,jobsonthecoast.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.42.110.13,4,-4,johnwardlearchitects.com,AU,Oceania,Australia and New Zealand,Australia,,,
-103.224.212.234,4,4,joomlage.com,AU,Oceania,Australia and New Zealand,Australia,,,
-14.200.224.90,4,-825050,joy.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+202.74.67.15,4,-10,jobsonthecoast.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+103.224.212.234,4,0,joomlage.com,AU,Oceania,Australia and New Zealand,Australia,,,
 103.42.110.31,4,-7,judithlocke.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+149.28.168.93,4,-7,julieandkittee.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.143,4,-14,junkcar.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.29.219.201,4,1461,justiceaction.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
 116.90.7.206,4,2,justtraining.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 125.214.76.49,4,20,kaelmarine.com,AU,Oceania,Australia and New Zealand,Australia,,,
 103.152.249.21,4,-2,kaldorartprojects.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 43.250.142.30,4,-6,karita.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-27.50.82.15,4,-22,karoongas.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-203.206.210.220,4,5,karpati.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+203.206.210.220,4,-64,karpati.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.140.27,4,-9,kaseychambers.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-202.74.70.90,4,8,katrinaleechambers.com,AU,Oceania,Australia and New Zealand,Australia,,,
+202.74.70.90,4,-13,katrinaleechambers.com,AU,Oceania,Australia and New Zealand,Australia,,,
 82.97.245.211,4,-2,khab-vesti.ru,AU,Oceania,Australia and New Zealand,Australia,,,
-202.74.69.46,4,3,kiallafoods.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+202.74.69.46,4,-13,kiallafoods.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.254.137.97,4,15,kiddieland.com.hk,AU,Oceania,Australia and New Zealand,Australia,,,
 149.28.180.2,4,-4,kings.edu.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 202.27.215.14,4,6,kiwibird.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
-103.152.198.220,4,3,klausdierks.com,NZ,Oceania,Australia and New Zealand,New Zealand,,,
-110.173.135.20,4,6,kobejones.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+103.152.198.220,4,-1,klausdierks.com,NZ,Oceania,Australia and New Zealand,New Zealand,,,
+110.173.135.20,4,-1,kobejones.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 45.32.191.76,4,-11,kokogiak.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 159.196.245.77,4,-10,krabb.org,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-45.76.118.219,4,1,ksouhome.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+45.76.118.219,4,-7,ksouhome.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 202.74.67.67,4,10,kuranda.org,AU,Oceania,Australia and New Zealand,Australia,,,
-54.79.75.87,4,12,kuvva.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.64.148.54,4,5,kysa.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+54.79.75.87,4,2,kuvva.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+103.64.148.54,4,-8,kysa.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.127.41.16,4,826,lajeez.com,AU,Oceania,Australia and New Zealand,Australia,,,
 103.27.34.3,4,0,lakehouse.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 117.120.8.129,4,1,lamonts.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 82.97.245.200,4,2,lanbook.com,AU,Oceania,Australia and New Zealand,Australia,,,
-139.84.197.166,4,30,lancemore.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+139.84.197.166,4,2,lancemore.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 43.245.52.38,4,-12,lapitavanuatu.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
-45.76.124.144,4,8,larvatusprodeo.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+45.76.124.144,4,-7,larvatusprodeo.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.42.110.2,4,-2,lasseters.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 192.250.232.236,4,6,latrobevalleyexpress.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.209.24.30,4,-11,launchvic.org,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.208.219.42,4,0,lavoisier.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.134,4,2,lblewis.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.26.237.165,4,-4,lca.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
-45.63.29.188,4,4,leapfrogmachinery.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-110.232.143.6,4,-14,learningfundamentals.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
+45.63.29.188,4,0,leapfrogmachinery.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 139.99.210.96,4,71,leconomistemaghrebin.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.141.7,4,-2,legalaidact.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-120.138.22.131,4,38,legionairefishingcharters.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
+120.138.22.131,4,11,legionairefishingcharters.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 103.13.84.205,4,4,lei.org.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
 124.6.55.236,4,-17,lemmy.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.16,4,1235,lethal.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 202.74.67.248,4,-9,letsgosurfing.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.27.33.211,4,-11,libertyoil.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
-103.230.157.90,4,11,lifesaving.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
+103.230.157.90,4,7,lifesaving.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 43.250.142.75,4,-2,lifestyleessentials.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.27.32.1,4,-5,lighthouses.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 43.250.140.45,4,-1,lightningboxgames.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.42.111.114,4,-16,lightstation.com,AU,Oceania,Australia and New Zealand,Australia,,,
 103.224.212.186,4,-1,linksave.in,AU,Oceania,Australia and New Zealand,Australia,,,
 172.105.169.28,4,265837,linlap.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.84.224.16,4,-7,linux.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.224.212.194,4,7,lionwap.org,AU,Oceania,Australia and New Zealand,Australia,,,
 43.250.140.10,4,-3,lisafriedlandercoach.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-27.131.77.142,4,4932,litepc.com,AU,Oceania,Australia and New Zealand,Australia,,,
+27.131.77.142,4,283,litepc.com,AU,Oceania,Australia and New Zealand,Australia,,,
 52.62.244.154,4,12,literacyplanet.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.224.212.120,4,6,little-idiot.de,AU,Oceania,Australia and New Zealand,Australia,,,
-27.54.133.165,4,3,littlegreenpharma.com,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
+27.54.133.165,4,9,littlegreenpharma.com,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
 182.160.155.103,4,-9,liveperformance.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.119.110.60,4,-1,livewiretestntag.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 160.250.72.12,4,-15,livingbiginatinyhouse.com,AU,Oceania,Australia and New Zealand,Australia,,,
 43.250.142.17,4,0,localeatery.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.42.110.18,4,-16,localfoodconnect.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
 52.65.87.250,4,-3,logarithmic.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.170,4,967,logonow.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 139.99.244.108,4,0,looking-glass.io,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 139.99.244.113,4,0,looking-glass.io,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.226.179.64,4,46,lottos.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+103.226.179.64,4,7,lottos.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.46,4,6,louvreelite.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.77.224.46,4,24,lsec.ac.uk,AU,Oceania,Australia and New Zealand,Australia,,,
 27.131.110.138,4,-4,lukeclarke.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-120.138.17.210,4,16,lumiere.net.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
-203.30.47.240,4,7973,lunapalace.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+120.138.17.210,4,10,lumiere.net.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
+203.30.47.240,4,113,lunapalace.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 131.203.28.19,4,-27,macleansdentist.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Wellington Region,,Porirua
 27.131.110.154,4,3,macroconsulting.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 139.180.165.116,4,15,magellangroup.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-118.127.41.40,4,-29,magicdust.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-202.27.212.68,4,3,makauri.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Gisborne,,Gisborne
+202.27.212.68,4,-4,makauri.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Gisborne,,Gisborne
 43.250.140.21,4,24,manlysurfschool.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 172.105.175.210,4,185258,maph.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 114.134.14.237,4,11,marathon-photos.com,NZ,Oceania,Australia and New Zealand,New Zealand,Waikato Region,,Hamilton
 43.250.142.73,4,4,marcelinobjj.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 192.250.232.203,4,5,marcon.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.94,4,-27,mardigras.org.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-103.27.34.31,4,-1,margmowczko.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 103.224.212.185,4,4,markable.in,AU,Oceania,Australia and New Zealand,Australia,,,
 43.250.142.53,4,-1,marsonhire.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 43.250.142.122,4,27,maryann.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.152.248.125,4,13,mastergrannyflats.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-27.54.89.188,4,3,matthewreilly.com,AU,Oceania,Australia and New Zealand,Australia,,,
+27.54.89.188,4,16,matthewreilly.com,AU,Oceania,Australia and New Zealand,Australia,,,
 103.152.248.115,4,7,matwilautomotiverepairs.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 43.250.140.13,4,30,matzoco.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.27.34.128,4,-6,maxfunding.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 43.243.203.119,4,211,mbfashionweek.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 149.28.173.138,4,0,mbsfestival.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.224.212.9,4,5,mbtshoesonline.com,AU,Oceania,Australia and New Zealand,Australia,,,
-103.26.236.213,4,18,mccofnsw.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
+103.224.212.9,4,0,mbtshoesonline.com,AU,Oceania,Australia and New Zealand,Australia,,,
+103.26.236.213,4,-6,mccofnsw.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.119.110.7,4,-10,mcdonaldpartners.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 122.252.2.10,4,14,mediaman.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.10,4,-1,medicaldirector.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.150.135.95,4,18,medidermic.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 82.97.245.118,4,-9,medsoft.pro,AU,Oceania,Australia and New Zealand,Australia,,,
 203.30.44.22,4,88,meetmeatmikes.com,AU,Oceania,Australia and New Zealand,Australia,,,
-43.250.140.46,4,-9,melbflowershow.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.27.34.25,4,-8,melbourneanglican.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 192.250.232.5,4,33,melbourneit.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-101.0.84.71,4,5,melbournejazz.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-110.232.143.55,4,-10,melbournemarathon.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
+101.0.84.71,4,-1,melbournejazz.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 27.50.90.173,4,-3,melbourneplaygrounds.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-117.120.8.165,4,-518,melbournevaluers.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 120.138.30.85,4,11,melissaevans.com,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 103.119.110.45,4,-2,melodicrock.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.21,4,788,memecode.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-43.250.142.152,4,-22,memorabletv.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 35.244.110.101,4,-7,menzies.edu.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.152.248.39,4,-13,mercurerealestate.ae,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 43.250.142.123,4,2,merrigong.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
@@ -904,21 +816,21 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.242.245.228,4,-9,metromag.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 182.160.154.176,4,80,mgnsw.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
 43.250.142.80,4,-18,mhcc.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-49.255.68.11,4,20,michaelkirby.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+49.255.68.11,4,-6,michaelkirby.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 111.223.236.166,4,28,microburbs.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.27.34.29,4,0,microflite.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 103.77.224.43,4,-3,midkent.ac.uk,AU,Oceania,Australia and New Zealand,Australia,,,
 103.209.24.142,4,-5,miff.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-101.0.94.93,4,14,migrationalliance.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+101.0.94.93,4,4,migrationalliance.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 202.131.88.1,4,0,mindmechanics.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 209.38.93.167,4,-1,minglebox.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.27.34.112,4,-1,mitchellswholesale.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 43.250.142.96,4,-7,mjhi.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 192.250.232.199,4,4,mjpath.org.my,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-203.28.238.219,4,4,mlmtruth.org,AU,Oceania,Australia and New Zealand,Australia,,,
+203.28.238.219,4,-2,mlmtruth.org,AU,Oceania,Australia and New Zealand,Australia,,,
 103.224.212.247,4,0,mmhsmassageme.com,AU,Oceania,Australia and New Zealand,Australia,,,
 103.224.212.197,4,8,mmisi.org,AU,Oceania,Australia and New Zealand,Australia,,,
-103.224.212.232,4,8,mmisi.org,AU,Oceania,Australia and New Zealand,Australia,,,
+103.224.212.232,4,0,mmisi.org,AU,Oceania,Australia and New Zealand,Australia,,,
 103.43.117.45,4,3,mnb.mn,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.53,4,0,mobibox.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.27.32.4,4,10,mobilemuster.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
@@ -928,51 +840,47 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 202.74.65.124,4,-19,monashhealth.org,AU,Oceania,Australia and New Zealand,Australia,,,
 202.131.88.229,4,4,montyvillage.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 45.32.240.249,4,-21,monumentaustralia.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-149.28.175.196,4,41,monumentaustralia.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+149.28.175.196,4,-7,monumentaustralia.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.146.112.117,4,-2,moonlitsanctuary.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 82.97.245.141,4,0,mosmit.ru,AU,Oceania,Australia and New Zealand,Australia,,,
 27.54.130.87,4,229071,motherpedia.com.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
 103.209.24.37,4,0,motogp.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.224.212.225,4,5,moviejosss.com,AU,Oceania,Australia and New Zealand,Australia,,,
-110.173.134.166,4,1,mpavilion.org,AU,Oceania,Australia and New Zealand,Australia,,,
+103.224.212.225,4,0,moviejosss.com,AU,Oceania,Australia and New Zealand,Australia,,,
+110.173.134.166,4,5,mpavilion.org,AU,Oceania,Australia and New Zealand,Australia,,,
 27.131.81.113,4,7,mpnews.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 27.50.68.251,4,5,mpt.net.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-122.201.84.241,4,-33808,mpweddingphoto.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
 101.0.81.254,4,-9,mqff.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-139.99.149.160,4,12,mrsmindfulness.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+139.99.149.160,4,39,mrsmindfulness.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.209.24.42,4,7,mso.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.250.232.162,4,4,mtlroofing.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
-202.27.200.75,4,10,mtpconnect.org.au,NZ,Oceania,Australia and New Zealand,New Zealand,,,
-103.18.108.143,4,5,mua.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.249.70.32,4,48,mubeta.com.br,AU,Oceania,Australia and New Zealand,Australia,,,
+202.27.200.75,4,1,mtpconnect.org.au,NZ,Oceania,Australia and New Zealand,New Zealand,,,
+103.18.108.143,4,0,mua.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+103.249.70.32,4,1,mubeta.com.br,AU,Oceania,Australia and New Zealand,Australia,,,
 103.224.212.241,4,5,muktipolice.org,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.113.197,4,5,multiupload.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.224.212.199,4,10,mundofut.live,AU,Oceania,Australia and New Zealand,Australia,,,
 103.152.248.50,4,8,munrorealty.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.50.34.13,4,49,musicvictoria.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+103.50.34.13,4,-412,musicvictoria.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 91.239.146.223,4,15,mustakshif.com,AU,Oceania,Australia and New Zealand,Australia,,,
 139.99.190.190,4,8,myassignmentwriting.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 139.180.175.39,4,-13,mycar.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-43.250.140.20,4,-10,myfrenchlife.org,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-112.213.33.223,4,-6,myhealth.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 27.131.110.181,4,5,myhealthcareer.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.250.232.122,4,51,mypractice.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 110.232.143.130,4,2,myrepospace.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-110.232.116.46,4,2895,mysti.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+110.232.116.46,4,6802,mysti.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.81,4,-71,myvet.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 110.232.143.4,4,-2,na.org.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.114.55.21,4,-10,nagambiemc.com.au,AU,Oceania,Australia and New Zealand,Australia,South Australia,,Adelaide
 149.28.161.100,4,18,namphong.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-203.63.42.140,4,59,nantien.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Wollongong
+203.63.42.140,4,44,nantien.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Wollongong
 103.152.249.8,4,-2,narranderaexies.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.25.160.66,4,742,nata.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.14.218.170,4,0,nationalaquarium.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Waikato Region,,Hamilton
+103.14.218.170,4,13,nationalaquarium.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Waikato Region,,Hamilton
 172.105.178.208,4,2,nationaldirectory.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 52.63.123.241,4,-3,nationalretail.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.152.248.181,4,2,nationalunitygovernment.org,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.224.212.108,4,-17,nationaudio.com,AU,Oceania,Australia and New Zealand,Australia,,,
-221.121.143.216,4,-26,natrad.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-16.50.72.143,4,47,natsoft.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+16.50.72.143,4,-13,natsoft.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 117.120.14.237,4,944,navalinstitute.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 91.239.146.201,4,-4,navicosoft.com,AU,Oceania,Australia and New Zealand,Australia,,,
 122.201.79.58,4,-2,nbc.com.pg,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
@@ -981,59 +889,56 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 101.0.111.134,4,-3,nec.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 194.195.122.135,4,8,neh.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 202.74.68.230,4,-1,netball.sport,AU,Oceania,Australia and New Zealand,Australia,,,
-43.250.140.38,4,37,netballscoop.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+43.250.140.38,4,-1,netballscoop.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 13.237.91.207,4,23,netcomm.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 101.0.123.174,4,28,netrewards.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 82.97.242.228,4,2,nevatk.ru,AU,Oceania,Australia and New Zealand,Australia,,,
 103.77.224.19,4,2,newcollegedurham.ac.uk,AU,Oceania,Australia and New Zealand,Australia,,,
 43.250.142.124,4,-5,newellpalmer.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.224.212.249,4,3,news24.vip,AU,Oceania,Australia and New Zealand,Australia,,,
-103.42.108.70,4,-15,nexigen.digital,AU,Oceania,Australia and New Zealand,Australia,,,
 103.224.212.191,4,18,nextgenss.com,AU,Oceania,Australia and New Zealand,Australia,,,
-202.27.200.100,4,2,ngia.com.au,NZ,Oceania,Australia and New Zealand,New Zealand,,,
+202.27.200.100,4,1,ngia.com.au,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 110.232.143.48,4,2,nhaa.org.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 77.90.35.125,4,-8,nichigopress.jp,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-194.195.248.90,4,2,nichigopress.jp,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+194.195.248.90,4,0,nichigopress.jp,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 67.219.102.73,4,12,nisamedical.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 110.173.135.42,4,5,nissanpatrol.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-101.0.72.6,4,7,nissanpatrol.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+101.0.72.6,4,616,nissanpatrol.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.94,4,5,nivebeef.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-139.99.210.81,4,5,nobleparkelc.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+139.99.210.81,4,7,nobleparkelc.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.245.53.129,4,20,noelex22.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
 101.0.106.26,4,7,nor.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-110.232.143.115,4,-10,noriyaro.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.77.224.91,4,-16,northamptoncollege.ac.uk,AU,Oceania,Australia and New Zealand,Australia,,,
 202.74.66.41,4,-8,novopsych.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+103.152.248.129,4,0,nrm.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 27.50.91.161,4,1,nswbar.asn.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.27.34.18,4,8,nswcourts.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 110.173.132.188,4,8,nswis.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 43.250.142.18,4,-1,nswnma.asn.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.209.24.94,4,6,nullarborlinks.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+103.209.24.94,4,0,nullarborlinks.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 202.74.69.220,4,-27,nz.basketball,AU,Oceania,Australia and New Zealand,Australia,,,
 202.174.80.44,4,3,nz.com,AU,Oceania,Australia and New Zealand,Australia,,,
 103.250.241.198,4,-10,nzcer.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
-13.54.218.17,4,4,nzcouriers.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-3.105.247.70,4,7,nzcouriers.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+13.54.218.17,4,1,nzcouriers.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+3.105.247.70,4,9,nzcouriers.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 223.165.77.21,4,13,nzcpr.com,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 111.65.227.185,4,-2,nzkc.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 202.74.69.90,4,-12,nznbl.basketball,AU,Oceania,Australia and New Zealand,Australia,,,
 120.138.22.78,4,9,nzonscreen.com,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 103.96.117.12,4,-1,nzsee.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 110.232.143.146,4,5,oasisacc.org,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-103.127.41.18,4,2730,oatleyelectronics.com,AU,Oceania,Australia and New Zealand,Australia,,,
-103.208.188.175,4,-11,obee.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+103.127.41.18,4,701,oatleyelectronics.com,AU,Oceania,Australia and New Zealand,Australia,,,
 103.209.24.66,4,0,obesityevidencehub.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 27.131.74.36,4,0,obits.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-101.0.91.114,4,12,objective.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+101.0.91.114,4,433,objective.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 27.50.67.241,4,12,oceancrusaders.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-203.57.114.66,4,-20,ocetisakowincamp.org,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-20.70.243.50,4,56564,officechoice.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+20.70.243.50,4,63408,officechoice.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 221.121.144.149,4,-9,officepower.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.77,4,-5,ogcg.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 110.232.143.40,4,12,ogmagazine.org.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.27.34.51,4,6,oktoberfesttours.travel,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 43.250.142.55,4,3,oldmelbournegaol.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-149.28.164.202,4,15,oldmelbournegaol.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+149.28.164.202,4,-7,oldmelbournegaol.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.26.237.116,4,2,oncallplumber.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.146.112.59,4,4,ondc.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 163.47.131.134,4,694,onevoice.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
@@ -1172,27 +1077,26 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 3.106.25.35,4,0,opan.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 54.206.164.164,4,14,opan.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.36,4,19,openforum.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-203.25.132.12,4,23,opensrc.org,AU,Oceania,Australia and New Zealand,Australia,,,
+203.25.132.12,4,-7,opensrc.org,AU,Oceania,Australia and New Zealand,Australia,,,
 202.134.241.236,4,15,openvpnandroid.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.119.110.84,4,11,optimalcareaustralia.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.18.56.76,4,388,optin.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-172.105.188.250,4,14,orangutans.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+172.105.188.250,4,3,orangutans.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.140.39,4,-1,oreillyplumbing.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 120.138.17.202,4,15,organic-systems.org,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 103.42.111.11,4,9,orienteering.asn.au,AU,Oceania,Australia and New Zealand,Australia,,,
 150.107.74.24,4,16,osteoporosis.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-45.63.28.225,4,-1,otmtransport.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-172.105.171.149,4,31,ourmoneymarket.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+172.105.171.149,4,-1,ourmoneymarket.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 27.50.81.201,4,13,outbackqueensland.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.38.11.198,4,5,outbackway.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Ballina
+103.38.11.198,4,-13,outbackway.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Ballina
 170.64.128.193,4,15,outinperth.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.54,4,10,overdoseday.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 203.4.149.61,4,6,ozatwar.com,AU,Oceania,Australia and New Zealand,Australia,,,
-103.64.148.113,4,3,ozboulevards.com,AU,Oceania,Australia and New Zealand,Australia,,,
+103.64.148.113,4,-10,ozboulevards.com,AU,Oceania,Australia and New Zealand,Australia,,,
 103.224.212.192,4,7,ozfreeonline.com,AU,Oceania,Australia and New Zealand,Australia,,,
-202.74.66.23,4,48,ozgrav.org,AU,Oceania,Australia and New Zealand,Australia,,,
+202.74.66.23,4,-8,ozgrav.org,AU,Oceania,Australia and New Zealand,Australia,,,
 118.88.24.100,4,7,ozgrid.com,AU,Oceania,Australia and New Zealand,Australia,,,
-103.152.248.30,4,3,ozkcorp.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+103.152.248.30,4,0,ozkcorp.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 43.250.142.6,4,12,ozmacsolutions.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 203.23.159.172,4,14,ozonline.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 194.195.126.170,4,14,ozstock.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
@@ -1208,13 +1112,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.108.229.181,4,3,palmmeadows.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.146.112.179,4,15,paradise-pools.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 128.250.225.49,4,-15,paradisec.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.84.207.223,4,57,parenting.co.id,AU,Oceania,Australia and New Zealand,Australia,,,
 95.111.223.30,4,-9458,parisisfoodhall.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.27.34.23,4,-11,parkinsons.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
-45.76.119.200,4,9,parkz.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+45.76.119.200,4,1,parkz.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 13.236.35.110,4,1,paronellapark.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.208.218.36,4,0,partypartycasino.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-149.28.187.204,4,95,paspaley.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+149.28.187.204,4,0,paspaley.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.27.32.35,4,1107,patstanleytraining.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 110.232.143.161,4,499,paulkelly.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 209.38.22.157,4,14,paynegeo.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
@@ -1225,21 +1127,20 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.42.111.196,4,5,penguins.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
 27.131.111.176,4,1650,penington.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 101.0.70.118,4,10,peninsulahealth.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.27.35.37,4,-7,pennicottjourneys.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
-207.148.86.50,4,20,penrithrollershutters.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+207.148.86.50,4,-7,penrithrollershutters.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 20.28.138.229,4,23,penshurstvictoria.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.214.21.54,4,-8,percapita.org.au,AU,Oceania,Australia and New Zealand,Australia,Australian Capital Territory,,Canberra
-103.119.110.188,4,3,percapita.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+103.119.110.188,4,-2,percapita.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.245.52.70,4,-1,perfumenz.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
 182.160.160.10,4,9,perisherxcountry.org,AU,Oceania,Australia and New Zealand,Australia,,,
-139.99.255.61,4,51,permian.ru,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+139.99.255.61,4,8,permian.ru,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.64.148.80,4,10,personalizemedia.com,AU,Oceania,Australia and New Zealand,Australia,,,
 198.38.93.190,4,16,perthairportshuttle.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.138.86.86,4,6,perthcatholic.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.137.119.3,4,43,perthcatholic.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
-43.250.142.59,4,26,peterdutton.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+103.137.119.3,4,30,perthcatholic.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
+43.250.142.59,4,0,peterdutton.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 117.120.12.137,4,10,petinsuranceaustralia.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-52.64.99.174,4,29,petitjourney.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+52.64.99.174,4,0,petitjourney.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 116.206.228.38,4,147,phillipislandcircuit.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 185.17.252.72,4,5,phosphorusplatform.eu,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 103.49.172.90,4,33,photosynthesis.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
@@ -1251,12 +1152,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.11.147.10,4,11,pilonsec.org,AU,Oceania,Australia and New Zealand,Australia,,,
 103.27.34.13,4,-15,pinnaclesp.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 103.224.212.122,4,16,pintarest.com,AU,Oceania,Australia and New Zealand,Australia,,,
-119.148.90.151,4,9,pironebuilders.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-110.232.143.74,4,-8,pixelcase.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
+119.148.90.151,4,-8,pironebuilders.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 144.48.38.93,4,-1,pixelfed.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-202.20.65.1,4,22,pl.net,NZ,Oceania,Australia and New Zealand,New Zealand,,,
+202.20.65.1,4,1,pl.net,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 43.250.140.5,4,6,plandp.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 202.27.200.80,4,5,planning.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
+203.101.229.168,4,-23,plantdatabases.org,AU,Oceania,Australia and New Zealand,Australia,,,
 103.249.237.13,4,-10,plantsrescue.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.120,4,14,plasticfreejuly.org,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 43.250.140.12,4,2,plasticsurgery.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
@@ -1271,10 +1172,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 27.50.84.27,4,7,polytec.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.26,4,2,population.net.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 167.86.36.13,4,11,portofmelbourne.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-101.0.77.166,4,12,portphillipestate.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+101.0.77.166,4,0,portphillipestate.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.100,4,3,possumpark.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.26.237.145,4,2,ppesydney.net,AU,Oceania,Australia and New Zealand,Australia,,,
-111.67.19.73,4,-9,ppesydney.net,AU,Oceania,Australia and New Zealand,Australia,,,
 103.18.108.178,4,7,practicalmotoring.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 38.180.129.201,4,-21,pravdoryb.info,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 192.250.232.197,4,12,premier-industrial.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
@@ -1291,21 +1191,19 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.27.32.37,4,8,progas.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 103.198.42.71,4,1143,promotionproducts.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 170.64.208.97,4,41,promotions247.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-170.64.164.85,4,47,promotions247.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+170.64.164.85,4,0,promotions247.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 192.250.232.12,4,160,propagate.one,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 180.92.194.33,4,-6,propertylifesouthernhighlands.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 54.252.201.19,4,-11,prosperityforamerica.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.224.212.224,4,12,psi-motorsport.com,AU,Oceania,Australia and New Zealand,Australia,,,
+103.224.212.224,4,-1,psi-motorsport.com,AU,Oceania,Australia and New Zealand,Australia,,,
 202.27.200.166,4,-8,psnz.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 82.97.245.140,4,3,ptoday.ru,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.113,4,-6,ptua.org.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.27.34.9,4,13,publique.ae,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 103.42.110.9,4,-27,pushorpull.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-13.238.205.33,4,3,pwr.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.84.224.28,4,2,pycon-au.org,AU,Oceania,Australia and New Zealand,Australia,,,
-103.27.34.46,4,-13,pyramidtextsonline.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
+13.238.205.33,4,0,pwr.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+103.84.224.28,4,-4,pycon-au.org,AU,Oceania,Australia and New Zealand,Australia,,,
 43.250.142.48,4,712,qaq.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-117.20.7.147,4,-11,qiba.edu.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 110.232.143.42,4,1,qstation.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 118.127.40.205,4,41,quantumbrilliance.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.27.34.33,4,-9,queenslandtheatre.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
@@ -1316,27 +1214,25 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 149.28.170.17,4,-6,racarena.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 35.189.61.203,4,9,racesigns.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 182.160.155.110,4,13,racismnoway.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.96.117.53,4,90,radiomods.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
+103.96.117.53,4,-2,radiomods.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 203.96.176.226,4,0,raforum.info,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.131,4,2364,railtrails.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.49.7.51,4,-7,rainbowvic.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.69,4,34,rainforest.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 110.232.143.79,4,12,rallysportmag.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.249.238.128,4,-10,ramset.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-119.42.55.234,4,25,ramset.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-180.92.194.19,4,-1,randw.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+119.42.55.234,4,-1,ramset.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.144,4,4,ranzcog.edu.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-194.195.248.161,4,31,ranzcog.edu.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-43.245.53.30,4,76,rarebreeds.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
+194.195.248.161,4,6,ranzcog.edu.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+43.245.53.30,4,-14,rarebreeds.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
 43.250.141.64,4,10,rasa.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.224.212.227,4,45,raven1.net,AU,Oceania,Australia and New Zealand,Australia,,,
+103.224.212.227,4,0,raven1.net,AU,Oceania,Australia and New Zealand,Australia,,,
 150.107.74.22,4,0,rawmeatybones.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-150.107.72.85,4,49,rawmeatybones.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+150.107.72.85,4,-2,rawmeatybones.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 192.250.232.90,4,12,rayproperty.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.230.158.143,4,-6,rchpoll.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-210.5.53.89,4,4,rdu.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
+210.5.53.89,4,-1,rdu.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 172.105.187.174,4,17,realweddings.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.38.10.27,4,6,rebellyouscakeco.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Ballina
+103.38.10.27,4,-11,rebellyouscakeco.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Ballina
 13.237.247.121,4,6,recollect.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 15.135.255.188,4,16,recollect.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 3.105.119.228,4,20,recollect.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
@@ -1347,28 +1243,27 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 202.37.74.242,4,9,reefcasino.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 139.99.131.128,4,12,regenpowertech.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 27.131.66.131,4,22,regis.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.208.218.230,4,14,regis.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+103.208.218.230,4,1,regis.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.90,4,5,registrations.events,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.152.248.107,4,5,reia.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-110.232.143.98,4,8,relationship-economy.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-112.213.35.98,4,-2,renaissanceliving.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+110.232.143.98,4,0,relationship-economy.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 43.250.142.28,4,8,renderhjs.net,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 110.232.143.25,4,631,renew.org.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-43.250.142.38,4,-6,rescu.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.224.212.223,4,9,resimyukle.xyz,AU,Oceania,Australia and New Zealand,Australia,,,
-172.105.173.118,4,1362,retailworldmagazine.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+103.224.212.223,4,0,resimyukle.xyz,AU,Oceania,Australia and New Zealand,Australia,,,
+172.105.173.118,4,433,retailworldmagazine.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.22,4,20,revounts.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 20.92.129.83,4,61136,rewardhospitality.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 3.105.57.5,4,14,richardsonforpresident.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+101.0.73.151,4,0,ridetheg.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 221.121.138.114,4,5,riesplumbing.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 27.131.110.185,4,12,rightnow.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.224.212.248,4,4,riqueza-slots-br.com,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.69,4,114,riskfrontiers.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-175.45.181.241,4,46,riskfrontiers.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+175.45.181.241,4,-7,riskfrontiers.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 202.174.105.35,4,-197,rivieraaustralia.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 170.64.186.113,4,6,rjtaxaccountant.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 202.130.44.250,4,16,robbreport.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-67.219.99.102,4,43,rockstarroofing.co.nz,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+67.219.99.102,4,-7,rockstarroofing.co.nz,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.27.32.5,4,579,rogerclarke.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 103.2.198.35,4,24,rogermontgomery.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 192.250.232.168,4,17,rokkorfiles.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
@@ -1379,26 +1274,23 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.27.34.24,4,11,rowetel.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 192.250.232.15,4,44,royaldirectory.biz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.27.35.135,4,34,royalmelbourne.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
-101.0.111.38,4,5,royalwolf.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+101.0.111.38,4,4,royalwolf.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.133,4,9,rptecture.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 27.131.74.63,4,6,rrh.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
 20.92.129.84,4,61128,rsea.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-119.252.86.3,4,-7,rtrfm.com.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,
-103.242.245.16,4,5,rugby365.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-103.242.245.165,4,3,rugbydump.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+103.242.245.16,4,1,rugby365.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 203.114.129.70,4,5,rugbymuseum.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Manawatu-Wanganui,,Feilding
-103.242.245.18,4,6,rugbyonslaught.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+103.242.245.18,4,1,rugbyonslaught.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 103.242.247.2,4,8,rugbypass.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 103.77.224.15,4,23,rutc.ac.uk,AU,Oceania,Australia and New Zealand,Australia,,,
 13.55.45.51,4,24,sacommunity.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.140.2,4,320,sactcg.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 43.250.142.138,4,6,sadroughthub.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 43.224.183.58,4,6,safeandequal.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-139.99.141.192,4,1349,safeandequal.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+139.99.141.192,4,1260,safeandequal.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.137,4,503,safetyrisk.net,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-221.121.139.93,4,-21,salethisweek.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.233.210.104,4,1330,salthouse.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.5.90.132,4,5,samaritanspurse.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
+103.5.90.132,4,-1,samaritanspurse.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
 203.30.45.15,4,80,sandalford.com,AU,Oceania,Australia and New Zealand,Australia,,,
 103.27.33.170,4,11,sane.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 103.127.163.168,4,452,sapphirealuminium.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
@@ -1406,7 +1298,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 120.138.21.111,4,-16,savebarn.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 103.27.34.37,4,11,saveit.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 110.232.143.117,4,10,savethekoala.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-108.61.184.195,4,15,savvysme.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+108.61.184.195,4,0,savvysme.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 45.79.236.171,4,5,saxonsystems.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 202.4.60.52,4,3,sbs.gov.ws,WS,Oceania,Polynesia,Samoa,Tuamasaga,,Apia
 203.143.89.224,4,24,sca.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
@@ -1415,37 +1307,34 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 210.5.53.44,4,10,sciencemediacentre.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 103.42.110.7,4,2,sciencewa.net.au,AU,Oceania,Australia and New Zealand,Australia,,,
 139.99.190.160,4,15,scivee.tv,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-139.99.190.185,4,5,scivee.tv,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+139.99.190.185,4,4,scivee.tv,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 221.121.150.99,4,14,scouts.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-139.99.248.171,4,46,screamingguitars.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+139.99.248.171,4,2,screamingguitars.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 113.52.144.30,4,16,screeningthepast.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.16.128.239,4,10,screenqueensland.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 27.54.133.235,4,21,screenwest.com.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
-43.250.142.5,4,-25,scss.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-203.143.89.24,4,1206,scubadoctor.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+203.143.89.24,4,-509,scubadoctor.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 149.28.166.166,4,0,searchcode.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.15,4,4,seatsafe.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 43.250.142.39,4,7,secondbite.org,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 172.105.177.48,4,16,secureu.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 210.48.126.143,4,-10,securitybrief.com.au,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Browns Bay
 103.26.236.162,4,-1,securitywholesalers.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.27.34.20,4,-10,seedsavers.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 110.232.143.156,4,499,semaphoremusicfestival.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 52.62.224.98,4,22,seniorflatmates.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.119.110.20,4,-6,seonorthsydney.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.243.170.2,4,-5,seooptimizationdirectory.com,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 103.152.248.35,4,5,seqsparky.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-110.173.134.199,4,5,serafinowines.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+110.173.134.199,4,-1,serafinowines.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 172.105.180.231,4,23,sergent.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-202.134.241.195,4,46,serverthailand.host,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+202.134.241.195,4,3,serverthailand.host,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.27.34.6,4,6,sgaonline.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
-202.134.241.221,4,39,sgatermaxwen.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 172.236.62.64,4,1,shadowtronics.org,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.6.212.98,4,6,sharechat.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
-119.63.201.66,4,1580,sherstyn.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+119.63.201.66,4,665,sherstyn.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 35.244.79.132,4,4,shhuaran.cn,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 82.97.245.212,4,13,shoko.ru,AU,Oceania,Australia and New Zealand,Australia,,,
-103.224.72.4,4,25,shopnaturally.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+103.224.72.4,4,2,shopnaturally.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 43.250.142.117,4,5,shortcutssoftware.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 111.118.223.221,4,14,showersealed.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 203.25.159.2,4,7,shrinkpictures.com,AU,Oceania,Australia and New Zealand,Australia,,,
@@ -1453,23 +1342,22 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 125.214.76.193,4,25,siessi.com,AU,Oceania,Australia and New Zealand,Australia,,,
 103.27.34.43,4,-8,sillbeer.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 43.250.142.93,4,1,simplylaser.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.42.110.3,4,-10,simplyspotless.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 58.84.37.196,4,-15,simpsonwestern.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 43.250.141.56,4,-4,singularlabs.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-223.165.77.248,4,46,skookum.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
+223.165.77.248,4,10,skookum.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 110.232.143.96,4,12,skyceylon.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-139.99.155.149,4,6,skyceylon.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+139.99.155.149,4,3,skyceylon.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 185.139.243.217,4,8,skycity.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 185.139.243.218,4,10,skycityadelaide.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 185.139.243.216,4,15,skycityauckland.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 185.139.243.223,4,-1,skycityentertainmentgroup.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 185.139.243.210,4,23,skycityhamilton.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 185.139.243.215,4,7,skycityqueenstown.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.242.245.184,4,3,skyjump.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+103.242.245.184,4,0,skyjump.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 3.25.19.16,4,29,skynews.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 202.74.66.93,4,-8,skyrocketthemes.com,AU,Oceania,Australia and New Zealand,Australia,,,
-111.223.227.19,4,15,skytrans.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.224.212.254,4,6,slider.com,AU,Oceania,Australia and New Zealand,Australia,,,
+111.223.227.19,4,-1,skytrans.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+103.224.212.254,4,1,slider.com,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.131,4,19,sloties.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.27.34.130,4,9,slotshop.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 198.38.93.24,4,17,slotzen-casino.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
@@ -1477,14 +1365,14 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 221.121.138.93,4,8,smarthouse.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 192.250.232.194,4,20,smartlifehealth.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 192.250.232.170,4,21,smcounselling.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-202.76.248.74,4,13,smithandsinger.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-139.99.139.228,4,7,smokescreen.us,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+202.76.248.74,4,-10,smithandsinger.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+139.99.139.228,4,1236,smokescreen.us,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 27.54.133.141,4,19,smperth.com,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
 43.250.140.34,4,12,snintegrity.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-101.0.105.6,4,11,snowsbest.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+101.0.105.6,4,620,snowsbest.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.1.185.120,4,8,snowyhydro.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 175.45.125.230,4,6,solazone.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.224.212.230,4,24,sonydigital-link.com,AU,Oceania,Australia and New Zealand,Australia,,,
+103.224.212.230,4,-1,sonydigital-link.com,AU,Oceania,Australia and New Zealand,Australia,,,
 101.0.80.18,4,6,sosj.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 111.67.28.15,4,22,sostaargentiniankitchen.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.77.224.5,4,8,southbankcolleges.ac.uk,AU,Oceania,Australia and New Zealand,Australia,,,
@@ -1496,27 +1384,23 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 66.22.91.16,4,16,sparknz.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 110.232.143.68,4,7,specialolympics.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 43.250.140.4,4,31,spectronics.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-112.213.39.188,4,-10,spee3d.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 101.0.121.206,4,19,speech-language-therapy.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.27.34.21,4,-10,spicyicecream.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 203.29.65.8,4,-7,spintel.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-35.189.19.247,4,7,spitswimclub.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+35.189.19.247,4,-1,spitswimclub.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.34,4,10,spoonsriverside.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 202.27.200.1,4,-5,sportsdietitians.com.au,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 103.27.34.133,4,-1,sproutcatering.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 45.124.52.198,4,8,sputniksays.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.16.180.117,4,-79506,spv.sh,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-172.105.180.64,4,-46795,sqmresearch.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.33,4,7,srgglobal.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 182.160.153.21,4,19,ssi.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
 203.4.149.35,4,1245,st.net.au,AU,Oceania,Australia and New Zealand,Australia,,,
-139.99.158.76,4,8,stallion-international.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+139.99.158.76,4,43,stallion-international.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 27.54.133.177,4,13,stanleycollege.edu.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
-122.201.125.181,4,999,stanleycollege.edu.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.27.32.41,4,14,stararchitecture.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
+122.201.125.181,4,-1,stanleycollege.edu.au,AU,Oceania,Australia and New Zealand,Australia,,,
+103.27.32.41,4,-1,stararchitecture.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 67.219.102.60,4,13,starbucks.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 192.46.221.70,4,16,starlinkinstallgippsland.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-111.223.234.218,4,-3,starpharma.com,AU,Oceania,Australia and New Zealand,Australia,,,
 43.250.142.153,4,8,starttrainingfirstaid.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 118.127.40.228,4,23,statetrustees.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.1.186.254,4,3,staticice.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
@@ -1524,25 +1408,22 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 198.38.93.21,4,18,staycassino.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 139.99.133.155,4,26,stayupright.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.77.224.20,4,11,stcg.ac.uk,AU,Oceania,Australia and New Zealand,Australia,,,
-103.4.234.72,4,-19,steakschool.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Port Macquarie
 103.27.34.2,4,17,stechnic.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 27.131.111.174,4,81,steel-line.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-110.173.134.173,4,4,steel-line.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+110.173.134.173,4,6,steel-line.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 203.196.54.224,4,138,steelbytes.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-101.0.70.26,4,11,steelmasters.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+101.0.70.26,4,5,steelmasters.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.143.113,4,18,stefmar.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-108.61.251.9,4,10,stemcellsaustralia.edu.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+108.61.251.9,4,1,stemcellsaustralia.edu.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.11.147.125,4,8,stereo.net.au,AU,Oceania,Australia and New Zealand,Australia,,,
-221.121.152.229,4,-27,stkildamelbourne.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.255.31.40,4,-30,stonerealestate.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.209.24.102,4,7,stopadani.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 203.189.80.86,4,3,stormtech.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bowral
 139.99.210.2,4,21,straightorthodontics.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 210.50.2.218,4,3,street-directory.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.16.181.140,4,37,stroke.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-202.134.241.161,4,35,sttjki.ac.id,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+103.16.181.140,4,2,stroke.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+202.134.241.161,4,4,sttjki.ac.id,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.173.133.2,4,6,studentserver.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-110.173.132.17,4,51,studentserver.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+110.173.132.17,4,-2,studentserver.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 4.147.169.208,4,5,studio6pilates.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 13.54.232.200,4,7,studiosity.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 54.253.146.121,4,28,studiosity.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
@@ -1551,46 +1432,41 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 172.105.191.253,4,13,sumogardener.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.5,4,163,sundropfarms.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 123.176.73.3,4,-1283287,sungo.ws,WS,Oceania,Polynesia,Samoa,Tuamasaga,,Apia
-13.239.82.236,4,3,sunlover.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+13.239.82.236,4,0,sunlover.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 60.234.77.227,4,11,sunrockice.com,NZ,Oceania,Australia and New Zealand,New Zealand,Canterbury,,Christchurch
-60.234.77.238,4,270335,sunrockice.com,NZ,Oceania,Australia and New Zealand,New Zealand,Canterbury,,Christchurch
 139.180.169.44,4,0,super.rugby,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 203.57.115.105,4,26,superpit.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.224.212.231,4,17,suziemax.com,AU,Oceania,Australia and New Zealand,Australia,,,
+103.224.212.231,4,0,suziemax.com,AU,Oceania,Australia and New Zealand,Australia,,,
 202.134.241.187,4,-2,swallowpark.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.5.90.74,4,480,swiftflyte.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 136.186.1.10,4,4,swinburne.edu.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-27.131.110.142,4,42,switchboard.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.11.147.232,4,-5,sydney.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
+27.131.110.142,4,-1,switchboard.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 149.28.161.197,4,-6,sydneyanglicans.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.24,4,296,sydneyartsguide.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.146.112.89,4,-1,sydneyboatshow.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-52.64.23.25,4,5,sydneycommunitycollege.edu.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+52.64.23.25,4,-4,sydneycommunitycollege.edu.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.26.237.235,4,6,sydneyfringe.com,AU,Oceania,Australia and New Zealand,Australia,,,
-101.0.103.110,4,2,sydneyfringe.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+101.0.103.110,4,0,sydneyfringe.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.52,4,9,synapse.org.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 114.23.58.205,4,17,synthedit.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Grey Lynn
 43.250.142.92,4,1,tabula-rasa.info,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-27.50.75.35,4,-27,tagg.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 95.111.222.20,4,8,take3.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-110.232.143.17,4,-14,take3.org,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 207.148.87.129,4,6,tallyroom.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 123.243.181.218,4,17193,tangalooma.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-3.104.252.125,4,2,tangaroablue.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+3.104.252.125,4,0,tangaroablue.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 119.31.225.93,4,14,tangerine.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-202.74.67.7,4,0,tarotingie.com,AU,Oceania,Australia and New Zealand,Australia,,,
+202.74.67.7,4,-3,tarotingie.com,AU,Oceania,Australia and New Zealand,Australia,,,
 103.119.110.239,4,22,taxstorebrunswick.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.173.134.179,4,10,tcof.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-43.245.53.139,4,37,tdhb.org.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
+43.245.53.139,4,11,tdhb.org.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
 120.138.18.206,4,19,te-pa-tu.com,NZ,Oceania,Australia and New Zealand,New Zealand,,,
-103.4.234.120,4,-15,teachingtreasures.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Port Macquarie
 43.250.142.29,4,836,teassential.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.27.34.5,4,8,techau.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 110.232.143.18,4,29,techcouncil.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 111.223.236.7,4,15,techguide.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 122.201.86.132,4,46,technelysium.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
 103.224.212.39,4,15,technocarremoval.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-139.99.130.57,4,46,technocarremoval.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+139.99.130.57,4,5,technocarremoval.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 61.8.0.113,4,31,Telstra Corporation Ltd,AU,Oceania,Australia and New Zealand,Australia,,,
 139.130.4.4,4,30,Telstra Corporation Ltd 1,AU,Oceania,Australia and New Zealand,Australia,Queensland,,
 139.134.5.51,4,24,Telstra Corporation Ltd 2,AU,Oceania,Australia and New Zealand,Australia,,,
@@ -1599,17 +1475,15 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.242.245.25,4,24,temanahunaaoraki.org,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 103.230.158.142,4,7,tenants.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 202.74.69.60,4,24,tern.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
-175.45.125.192,4,50,tesselaar.net.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+175.45.125.192,4,-11,tesselaar.net.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.224.212.110,4,8,testticker.de,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.167,4,351,tfasolar.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-103.224.212.242,4,7,thailandmuseum.com,AU,Oceania,Australia and New Zealand,Australia,,,
+103.224.212.242,4,1,thailandmuseum.com,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.89,4,21,tharlizwa.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-103.224.212.237,4,6,the-pirate-bay-proxy.org,AU,Oceania,Australia and New Zealand,Australia,,,
-43.250.142.105,4,-7,theacousticguitarist.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-101.0.72.238,4,9,theatretours.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+103.42.110.11,4,-1,the-fit-foodie.com,AU,Oceania,Australia and New Zealand,Australia,,,
+103.224.212.237,4,0,the-pirate-bay-proxy.org,AU,Oceania,Australia and New Zealand,Australia,,,
+101.0.72.238,4,-1,theatretours.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.1.185.32,4,22,thebackshed.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-208.87.135.105,4,-8,thebackshed.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-14.202.213.220,4,7,thebaxterinn.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 3.25.108.150,4,7,thebigissue.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.2.197.167,4,884,theblock.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 114.23.49.240,4,1,thedailyblog.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Marlborough,,Burleigh
@@ -1625,72 +1499,66 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 170.64.231.153,4,20,thehomeownerbestpractices.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.173.134.142,4,14,thehotspot.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 202.37.74.44,4,16,thelocalelectrician.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.1.186.183,4,-7,thelocalelectrician.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-43.250.141.244,4,-15,thelocalproject.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 170.64.225.201,4,23,themepixels.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-116.90.42.3,4,11,themigration.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
+116.90.42.3,4,10,themigration.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
 203.143.89.160,4,26,themongrelpunt.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 27.50.67.243,4,8,thenecks.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 198.38.93.20,4,18,thenextright.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 122.252.15.50,4,35914,thenokiablog.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-122.252.15.55,4,699,thenokiablog.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-202.94.46.125,4,2,thenutritionguruandthechef.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+122.252.15.55,4,612,thenokiablog.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+202.94.46.125,4,0,thenutritionguruandthechef.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 110.232.143.44,4,1329,theonlineco.net,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.76.144.25,4,17,theosophy.world,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 172.105.168.111,4,24,theperthgroup.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-122.201.124.104,4,-17325,theplumbette.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.27.34.34,4,21,thepodiatrygroup.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 103.250.232.40,4,-5,thepokiesking.com,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 221.121.151.145,4,5,thepracticebali.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-49.50.252.141,4,8,theprow.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
-172.105.191.99,4,26,thermaltake.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.224.212.238,4,3,theromneymarsh.net,AU,Oceania,Australia and New Zealand,Australia,,,
+49.50.252.141,4,1,theprow.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+172.105.191.99,4,-2,thermaltake.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+103.224.212.238,4,0,theromneymarsh.net,AU,Oceania,Australia and New Zealand,Australia,,,
 43.250.142.118,4,17,thesmilespace.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 203.28.238.202,4,26,thesourcebulkfoods.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.250.232.121,4,7,thestandard.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 192.250.232.175,4,17,thetartangroup.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 130.102.188.221,4,22,thetenthwatch.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-202.74.69.89,4,19,thetriffid.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
+202.74.69.89,4,-4,thetriffid.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.128,4,13,thewhoot.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-103.209.24.72,4,9,thewomens.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+103.209.24.72,4,-1,thewomens.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 192.250.232.164,4,3,thinkhigher.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-43.250.141.213,4,-25,thomair.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-110.173.135.39,4,13,threeblueducks.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+110.173.135.39,4,-1,threeblueducks.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 35.189.31.147,4,15,tickthoseboxes.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 223.165.77.39,4,25,tigerturf.com,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 103.27.34.120,4,2,timetableimages.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 203.10.76.2,4,23,tip.net.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.42.111.105,4,0,tismor.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-110.173.135.123,4,2,tj.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+110.173.135.123,4,-2,tj.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 91.239.146.134,4,777,tmr.com.pk,AU,Oceania,Australia and New Zealand,Australia,,,
-172.105.178.191,4,-2,toadsnfrogs.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-122.252.15.54,4,8088,tomeraider.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+122.252.15.54,4,46855,tomeraider.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 27.50.78.226,4,18,tomw.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 192.250.232.161,4,4,tonyabbott.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.28,4,1074,tonyattwood.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.27.34.28,4,10,topdogpestcontrol.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
-202.134.241.249,4,47,topgnonline.shop,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-139.99.189.72,4,21,topmaxtech.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+202.134.241.249,4,2,topgnonline.shop,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+139.99.189.72,4,15,topmaxtech.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.224.212.214,4,5,topspharm.com,AU,Oceania,Australia and New Zealand,Australia,,,
-139.99.199.183,4,10,toptbdev.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+139.99.199.183,4,7,toptbdev.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 175.45.125.149,4,2,totalinternet.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 101.0.109.66,4,495,tradease.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-43.250.142.126,4,-11,transdev.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 110.232.143.150,4,422,transhub.org.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.42.110.16,4,12,transmissionfilms.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.163,4,946,travellers-autobarn.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-101.0.80.26,4,8,travelodium.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+101.0.80.26,4,0,travelodium.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 45.124.52.120,4,7,travelvictoria.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-144.48.37.204,4,17,travelvictoria.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+144.48.37.204,4,-2,travelvictoria.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 43.250.140.8,4,12,treadingmyownpath.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.82.64.61,4,6,treetopsmontville.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 149.28.165.92,4,5,trendsmap.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.140.32,4,4,trevorleeandson.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.250.232.217,4,18,tripinn.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
-194.195.126.85,4,1,tripplanner.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+194.195.126.85,4,-2,tripplanner.net.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.42.110.5,4,33,triptraka.com,AU,Oceania,Australia and New Zealand,Australia,,,
 45.77.232.191,4,12,triwa.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.224.212.244,4,38,trsrockin.com,AU,Oceania,Australia and New Zealand,Australia,,,
+103.224.212.244,4,1,trsrockin.com,AU,Oceania,Australia and New Zealand,Australia,,,
 139.84.193.148,4,20,trueandfalse.info,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 67.219.108.174,4,7,truenorth.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 192.250.232.166,4,30,truenorthis.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
@@ -1698,7 +1566,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 139.144.101.109,4,11,tso.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 202.134.241.56,4,22,ttosite.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.37.8.104,4,572,turbofast.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.27.32.13,4,-12,turnerfreeman.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 45.252.189.21,4,24,tvcentral.com.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
 43.250.142.149,4,15,twil.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 43.250.142.32,4,16,twintowns.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
@@ -1714,39 +1581,35 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 192.250.232.87,4,19,unique-listing.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 198.38.93.18,4,21,universalhometheatre.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.27.32.43,4,22,unpackinggame.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
-139.99.188.198,4,26,usgovernmentdebt.us,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+139.99.188.198,4,5,usgovernmentdebt.us,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.77.224.76,4,5,uxbridgecollege.ac.uk,AU,Oceania,Australia and New Zealand,Australia,,,
 27.50.93.154,4,6,v8sleuth.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 34.129.187.76,4,5,vacca.org,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 139.99.149.31,4,14,valid4sure.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.27.32.26,4,312,vanuatubeachbar.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
-202.89.39.41,4,16,vbaccelerator.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+202.89.39.41,4,-2,vbaccelerator.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 103.224.212.253,4,8,vcdstool.com,AU,Oceania,Australia and New Zealand,Australia,,,
 198.38.93.188,4,-11,vclouds.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.57,4,17,veganeasy.org,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.119.110.36,4,11,veganiac.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-221.121.144.239,4,-31,vetbook.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+103.119.110.36,4,-1,veganiac.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 43.250.142.70,4,8,vetwest.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 35.201.11.162,4,14,vff.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 168.138.13.214,4,-11,vhearts.net,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.42.110.28,4,8,vibehairandskin.co.nz,AU,Oceania,Australia and New Zealand,Australia,,,
 103.146.112.163,4,26,vicrecyclers.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.209.25.237,4,0,victorianopera.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-43.250.142.125,4,-16,victoriasbestflooring.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 192.250.232.18,4,25,videoupdate.me,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.109,4,2,vidpicpro.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-27.131.110.186,4,2,vietnamvetsmuseum.org,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-103.250.232.93,4,16,vikon.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
+27.131.110.186,4,-1,vietnamvetsmuseum.org,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+103.250.232.93,4,10,vikon.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 139.99.150.21,4,18,vinniebatten.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 202.134.241.136,4,17,vipclub.asia,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.80,4,20,visitmoretonbayregion.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 43.250.142.51,4,14,visitnoosa.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 172.236.34.49,4,-1,vk3agk.net.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.127.121.18,4,5,vkradio.com,AU,Oceania,Australia and New Zealand,Australia,,,
-103.236.162.182,4,-4,voced.edu.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 139.99.171.191,4,7,vogonsdrivers.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 202.74.67.212,4,-3,volunteeringaustralia.org,AU,Oceania,Australia and New Zealand,Australia,,,
-43.250.140.30,4,-14,vpncompass.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 82.97.245.219,4,1,vprioritete.ru,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.155,4,502,vridar.org,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 82.97.243.107,4,0,vse-imena.ru,AU,Oceania,Australia and New Zealand,Australia,,,
@@ -1754,32 +1617,31 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.224.212.107,4,2,waffenhq.de,AU,Oceania,Australia and New Zealand,Australia,,,
 27.50.91.78,4,16,wagnerscotland.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 119.9.53.102,4,11,waiheke.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-3.24.58.236,4,19,wakeup.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+3.24.58.236,4,0,wakeup.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.27.33.225,4,9,wallis.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 103.246.250.190,4,4,wallmans.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 103.77.224.10,4,8,waltham.ac.uk,AU,Oceania,Australia and New Zealand,Australia,,,
 110.173.224.245,4,-23,wamug.org.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
-54.66.185.177,4,5,warchalking.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+54.66.185.177,4,-1,warchalking.org,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.27.34.49,4,9,wardkeller.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 43.250.140.48,4,683,warrantyandinsurance.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-203.55.18.8,4,1910,wasalooncars.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+203.55.18.8,4,700,wasalooncars.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.224.212.217,4,15,washingtondceventphotographers.co,AU,Oceania,Australia and New Zealand,Australia,,,
 202.27.200.174,4,8,waternz.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 110.232.143.85,4,10,watertankfactory.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 150.107.72.66,4,5,wayahead.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 27.50.91.106,4,11,wealthwithin.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.250.232.235,4,12,weather-display.com,NZ,Oceania,Australia and New Zealand,New Zealand,,,
-103.152.248.11,4,90,weavefilms.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+103.152.248.11,4,0,weavefilms.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 101.0.120.6,4,16,web24.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 27.50.72.229,4,367,web4business.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-203.24.211.11,4,-42270009,weblink.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.13.102.43,4,15,weddinghouse.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+103.13.102.43,4,4,weddinghouse.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 110.232.143.171,4,285,weddingrule.com,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
 103.25.59.60,4,15,weddingwebsite.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.250.232.52,4,17,weedbusters.org.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 103.224.212.239,4,12,wegovy.click,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.8,4,5,well-played.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-103.224.212.226,4,5,weobo.com,AU,Oceania,Australia and New Zealand,Australia,,,
+103.224.212.226,4,-1,weobo.com,AU,Oceania,Australia and New Zealand,Australia,,,
 101.0.68.38,4,16,westek.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 122.201.124.10,4,18,westendcollection.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
 167.30.222.142,4,-20,westernaustralia.com,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
@@ -1789,34 +1651,33 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.76.112.252,4,-2,wezm.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 27.54.133.107,4,22,wfac.org.au,AU,Oceania,Australia and New Zealand,Australia,Western Australia,,Perth
 172.236.34.83,4,-10,whakatane.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-95.111.216.75,4,286,whakatane.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-203.143.82.116,4,-1839,wheretiz.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+95.111.216.75,4,-14,whakatane.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 223.25.225.6,4,-248027,wia.org.au,AU,Oceania,Australia and New Zealand,Australia,,,
 194.195.126.228,4,9,wikimedia.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-194.195.253.12,4,79,wikimedia.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.152.248.132,4,15,wildcare.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+194.195.253.12,4,-2,wikimedia.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+103.152.248.132,4,0,wildcare.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 43.250.142.150,4,6,wildlife.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 43.250.142.81,4,5,wildlifehabitat.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-34.87.229.94,4,6,willowbank.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+34.87.229.94,4,-1,willowbank.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.254.137.65,4,11,willpark.com.au,AU,Oceania,Australia and New Zealand,Australia,,,
-103.152.248.135,4,9,wilmap.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+103.152.248.135,4,0,wilmap.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 101.0.108.50,4,15,windana.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-203.143.87.20,4,25,wine-cellar-racks.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+203.143.87.20,4,13,wine-cellar-racks.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 52.62.46.62,4,7,winecompanion.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 13.55.173.151,4,-1,winecompanion.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-43.245.53.142,4,35,wingspan.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
+43.245.53.142,4,-1,wingspan.co.nz,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
 101.0.103.123,4,9,wintv.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.250.232.113,4,10,wisemove.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
-43.250.142.44,4,-10,wlsnsw.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.77.224.42,4,3,wmc.ac.uk,AU,Oceania,Australia and New Zealand,Australia,,,
 103.77.224.3,4,2,wnc.ac.uk,AU,Oceania,Australia and New Zealand,Australia,,,
 103.27.34.32,4,14,wolf3d.net,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
-103.152.248.183,4,12,wollemipine.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+103.152.248.183,4,0,wollemipine.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.26.237.243,4,16,womenaustralia.info,AU,Oceania,Australia and New Zealand,Australia,,,
-101.0.69.102,4,22,womenaustralia.info,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-139.180.171.198,4,10,womenswellbeing.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-103.198.42.146,4,1406,womhealth.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-202.89.39.2,4,6,woodlynpark.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
+101.0.69.102,4,0,womenaustralia.info,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+116.90.40.5,4,12,womenlovetech.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Bungarribee
+139.180.171.198,4,0,womenswellbeing.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+103.198.42.146,4,413,womhealth.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+202.89.39.2,4,-3,woodlynpark.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 103.224.212.207,4,5,wordwizard.com,AU,Oceania,Australia and New Zealand,Australia,,,
 43.250.142.19,4,4,workerstohire.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 175.45.125.128,4,-5,workstations.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
@@ -1826,11 +1687,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.77.224.16,4,0,wsc.ac.uk,AU,Oceania,Australia and New Zealand,Australia,,,
 54.66.201.246,4,5,wwda.org.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.224.212.100,4,16,www.de,AU,Oceania,Australia and New Zealand,Australia,,,
-103.224.212.229,4,2,x-eng.com,AU,Oceania,Australia and New Zealand,Australia,,,
+103.224.212.229,4,-1,x-eng.com,AU,Oceania,Australia and New Zealand,Australia,,,
 103.209.24.173,4,5,xdistributors.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 49.50.249.40,4,-13,xenodream.com,NZ,Oceania,Australia and New Zealand,New Zealand,Auckland,,Auckland
 43.250.142.90,4,20,xianghair.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-44.136.58.10,4,-4,xlx500.org,AU,Oceania,Australia and New Zealand,Australia,,,
 82.97.245.116,4,3354,xn----8sbkdqibmrdgt3a.xn--p1ai,AU,Oceania,Australia and New Zealand,Australia,,,
 82.97.245.77,4,6,xn---31-6cddcz2ct3b.xn--p1ai,AU,Oceania,Australia and New Zealand,Australia,,,
 103.224.212.243,4,5,xn--connysper-v9a.com,AU,Oceania,Australia and New Zealand,Australia,,,
@@ -1843,14 +1703,14 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.27.34.17,4,732,yardley.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Parramatta
 103.1.185.20,4,9,ybg.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.224.212.204,4,10,yeezy-s.us,AU,Oceania,Australia and New Zealand,Australia,,,
-103.224.212.215,4,5,yeezyboost350v2s.us,AU,Oceania,Australia and New Zealand,Australia,,,
-103.224.212.236,4,2,yescoloring.com,AU,Oceania,Australia and New Zealand,Australia,,,
-67.219.107.203,4,17,yeuthucung.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
+103.224.212.215,4,-1,yeezyboost350v2s.us,AU,Oceania,Australia and New Zealand,Australia,,,
+103.224.212.236,4,-1,yescoloring.com,AU,Oceania,Australia and New Zealand,Australia,,,
+67.219.107.203,4,0,yeuthucung.com,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 43.250.142.136,4,8,ymca.org.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 117.74.103.18,4,18,ymcagta.org,AU,Oceania,Australia and New Zealand,Australia,,,
 27.124.125.18,4,21,yogaallianceprofessionals.org,AU,Oceania,Australia and New Zealand,Australia,,,
 45.63.31.145,4,1,yogafestival.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-82.115.26.158,4,5,yongefrontdental.com,AU,Oceania,Australia and New Zealand,Australia,,,
+82.115.26.158,4,-1,yongefrontdental.com,AU,Oceania,Australia and New Zealand,Australia,,,
 103.224.212.203,4,3,yongini.com,AU,Oceania,Australia and New Zealand,Australia,,,
 103.224.212.202,4,2,your-domain.com,AU,Oceania,Australia and New Zealand,Australia,,,
 103.184.175.10,4,3,yourpix.au,AU,Oceania,Australia and New Zealand,Australia,,,
@@ -1858,16 +1718,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.96.117.68,4,1,ytmelectrical.co.nz,NZ,Oceania,Australia and New Zealand,New Zealand,,,
 103.224.212.147,4,3,yygssdq.cn,AU,Oceania,Australia and New Zealand,Australia,,,
 43.250.140.24,4,3,yynac.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
-82.97.242.67,4,-13,zapchasti-n1.ru,AU,Oceania,Australia and New Zealand,Australia,,,
-103.224.212.235,4,19,zavalasministorage.com,AU,Oceania,Australia and New Zealand,Australia,,,
+103.224.212.235,4,0,zavalasministorage.com,AU,Oceania,Australia and New Zealand,Australia,,,
 103.224.212.201,4,7,zcube.in,AU,Oceania,Australia and New Zealand,Australia,,,
 110.232.143.21,4,983,zibdigital.com.au,AU,Oceania,Australia and New Zealand,Australia,Queensland,,Brisbane
-27.50.73.49,4,-29,zibdigital.com.au,AU,Oceania,Australia and New Zealand,Australia,Victoria,,Melbourne
 103.224.212.210,4,8,zibocademy.com,AU,Oceania,Australia and New Zealand,Australia,,,
 192.250.232.184,4,314,zingcorp.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.224.212.200,4,6,zithromax.top,AU,Oceania,Australia and New Zealand,Australia,,,
 103.224.212.118,4,24,zjbwp.cn,AU,Oceania,Australia and New Zealand,Australia,,,
-117.120.11.55,4,-34,zoorepairs.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.224.212.146,4,7,zsaud1144.cn,AU,Oceania,Australia and New Zealand,Australia,,,
 103.224.212.206,4,2,zusaar.com,AU,Oceania,Australia and New Zealand,Australia,,,
 103.224.212.213,4,1,zyynor.com,AU,Oceania,Australia and New Zealand,Australia,,,

@@ -1,43 +1,38 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 216.109.194.6,4,817,123.net,US,Americas,Northern America,United States of America,Michigan,,Rochester Hills
 38.127.61.167,4,27,910job.net,US,Americas,Northern America,United States of America,Michigan,,Wixom
-207.179.106.118,4,14,acd.net,US,Americas,Northern America,United States of America,Michigan,,Lansing
+207.179.106.118,4,0,acd.net,US,Americas,Northern America,United States of America,Michigan,,Lansing
 190.92.141.110,4,-6,acruisingcouple.com,US,Americas,Northern America,United States of America,Michigan,,
 173.225.177.192,4,59,ageways.org,US,Americas,Northern America,United States of America,Michigan,,Detroit
 190.92.155.83,4,34,aikenamps.com,US,Americas,Northern America,United States of America,Michigan,,
-190.92.142.59,4,-4,alexgardeningservice.com,US,Americas,Northern America,United States of America,Michigan,,
-162.247.79.16,4,5,americanbeautytools.com,US,Americas,Northern America,United States of America,Michigan,,Detroit
-190.92.136.157,4,9,aoxnews.com,US,Americas,Northern America,United States of America,Michigan,,
+162.247.79.16,4,-2,americanbeautytools.com,US,Americas,Northern America,United States of America,Michigan,,Detroit
+190.92.136.157,4,-18,aoxnews.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.128.129,4,-25,apexwindowwerks.com,US,Americas,Northern America,United States of America,Michigan,,
-190.92.143.171,4,22,ashland.news,US,Americas,Northern America,United States of America,Michigan,,
+190.92.143.171,4,-25,ashland.news,US,Americas,Northern America,United States of America,Michigan,,
 162.247.76.11,4,2312,astratravel.com,US,Americas,Northern America,United States of America,Michigan,,Detroit
 190.92.139.80,4,63,atlanticlaw.in,US,Americas,Northern America,United States of America,Michigan,,
 190.92.132.119,4,-83,badger-rugby.com,US,Americas,Northern America,United States of America,Michigan,,
-190.92.158.87,4,5,brca.org,US,Americas,Northern America,United States of America,Michigan,,
+190.92.158.87,4,0,brca.org,US,Americas,Northern America,United States of America,Michigan,,
 190.92.130.30,4,-14,brightsideofnews.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.140.178,4,-37,bruttenglobal.com,US,Americas,Northern America,United States of America,Michigan,,
-190.92.154.108,4,7,bumblejax.com,US,Americas,Northern America,United States of America,Michigan,,
+190.92.154.108,4,0,bumblejax.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.158.228,4,-6,cakematernity.com,US,Americas,Northern America,United States of America,Michigan,,
-190.92.129.179,4,3,capsahealthcare.com,US,Americas,Northern America,United States of America,Michigan,,
+190.92.129.179,4,-2,capsahealthcare.com,US,Americas,Northern America,United States of America,Michigan,,
 69.63.229.2,4,-19,cata.org,US,Americas,Northern America,United States of America,Michigan,,Lansing
-190.92.154.206,4,6,cementeriosalcedo.com,US,Americas,Northern America,United States of America,Michigan,,
+190.92.154.206,4,162,cementeriosalcedo.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.159.253,4,2,centralbarkusa.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.154.111,4,-15,churchexecutive.com,US,Americas,Northern America,United States of America,Michigan,,
-190.92.129.12,4,5,classicalpoets.org,US,Americas,Northern America,United States of America,Michigan,,
+190.92.129.12,4,-1,classicalpoets.org,US,Americas,Northern America,United States of America,Michigan,,
 190.92.158.246,4,0,cleod9.net,US,Americas,Northern America,United States of America,Michigan,,
 190.92.141.142,4,-32,climber.org,US,Americas,Northern America,United States of America,Michigan,,
-190.92.156.46,4,44,clippingpathlab.com,US,Americas,Northern America,United States of America,Michigan,,
+190.92.156.46,4,0,clippingpathlab.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.143.25,4,-1,cmfr-phil.org,US,Americas,Northern America,United States of America,Michigan,,
-190.92.143.30,4,-17,codforums.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.154.24,4,2,compassrecords.com,US,Americas,Northern America,United States of America,Michigan,,
 69.41.14.75,4,-14,covenanteyes.com,US,Americas,Northern America,United States of America,Michigan,,Owosso
 190.92.128.77,4,0,cozycatfurniture.com,US,Americas,Northern America,United States of America,Michigan,,
-190.92.157.11,4,-12,cpdl.org,US,Americas,Northern America,United States of America,Michigan,,
 190.92.136.22,4,32,css3ps.com,US,Americas,Northern America,United States of America,Michigan,,
-65.183.182.18,4,0,dancingmac.com,US,Americas,Northern America,United States of America,Michigan,,Detroit
-190.92.137.231,4,-4,dcslithiumbatteries.eu,US,Americas,Northern America,United States of America,Michigan,,
+65.183.182.18,4,-10,dancingmac.com,US,Americas,Northern America,United States of America,Michigan,,Detroit
 24.180.102.206,4,-1036,DNS Server: 024-180-102-206.res.spectrum.com,US,Americas,Northern America,United States of America,Michigan,,Cheboygan
-24.231.181.182,4,695,DNS Server: 024-231-181-182.res.spectrum.com,US,Americas,Northern America,United States of America,Michigan,,Davison
 47.35.80.35,4,7171,DNS Server: 047-035-080-035.res.spectrum.com,US,Americas,Northern America,United States of America,Michigan,,Middleville
 75.129.96.217,4,483,DNS Server: 075-129-096-217.res.spectrum.com,US,Americas,Northern America,United States of America,Michigan,,Saginaw
 97.70.66.10,4,-564,DNS Server: 097-070-066-010.res.spectrum.com,US,Americas,Northern America,United States of America,Michigan,,Farmington Hills
@@ -53,50 +48,46 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 147.189.140.136,4,-6,DoH server: dnscry.pt-flint-ipv4,US,Americas,Northern America,United States of America,Michigan,,Flint
 185.165.44.164,4,-2,DoH server: dnscry.pt-grandrapids-ipv4,US,Americas,Northern America,United States of America,Michigan,,Grand Rapids
 190.92.154.71,4,-9,dpublication.com,US,Americas,Northern America,United States of America,Michigan,,
-190.92.156.132,4,109,editorsmanual.com,US,Americas,Northern America,United States of America,Michigan,,
+190.92.156.132,4,3,editorsmanual.com,US,Americas,Northern America,United States of America,Michigan,,
 192.83.113.138,4,-11,edmsauce.com,US,Americas,Northern America,United States of America,Michigan,,Utica
 190.92.137.144,4,42,employeeconnect.com,US,Americas,Northern America,United States of America,Michigan,,
-190.92.153.173,4,-11,evolpub.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.157.239,4,9,faze.ca,US,Americas,Northern America,United States of America,Michigan,,
 190.92.136.130,4,30,firebeetechnoservices.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.141.128,4,-34,fmchealth.org,US,Americas,Northern America,United States of America,Michigan,,
-190.92.152.169,4,50,franchisingusamagazine.com,US,Americas,Northern America,United States of America,Michigan,,
+190.92.152.169,4,0,franchisingusamagazine.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.137.145,4,13,fruitsmith.com,US,Americas,Northern America,United States of America,Michigan,,
-190.92.156.21,4,37,garthstein.com,US,Americas,Northern America,United States of America,Michigan,,
+190.92.156.21,4,0,garthstein.com,US,Americas,Northern America,United States of America,Michigan,,
 199.38.28.16,4,-11072,georgewright.org,US,Americas,Northern America,United States of America,Michigan,,Mohawk
 190.92.137.227,4,34,gtiexpo.com.tw,US,Americas,Northern America,United States of America,Michigan,,
-74.204.57.187,4,32046,historygrandrapids.org,US,Americas,Northern America,United States of America,Michigan,,Wyoming
+74.204.57.187,4,702342,historygrandrapids.org,US,Americas,Northern America,United States of America,Michigan,,Wyoming
 190.92.152.12,4,-40,hueymagoos.com,US,Americas,Northern America,United States of America,Michigan,,
-190.92.158.191,4,18,iapwe.org,US,Americas,Northern America,United States of America,Michigan,,
+190.92.158.191,4,0,iapwe.org,US,Americas,Northern America,United States of America,Michigan,,
 208.92.218.146,4,-30,inflatableoffice.com,US,Americas,Northern America,United States of America,Michigan,,West Bloomfield
 190.92.154.151,4,388,inphb.ci,US,Americas,Northern America,United States of America,Michigan,,
-190.92.141.112,4,-18,intermatwrestle.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.159.217,4,-7,isco-pipe.com,US,Americas,Northern America,United States of America,Michigan,,
-190.92.154.114,4,1,itsalovelylife.com,US,Americas,Northern America,United States of America,Michigan,,
+190.92.154.114,4,-1,itsalovelylife.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.140.165,4,-27,jetsonhacks.com,US,Americas,Northern America,United States of America,Michigan,,
 162.247.78.54,4,-7,jfcy.org,US,Americas,Northern America,United States of America,Michigan,,Detroit
-190.92.141.182,4,-19,jnmc.edu,US,Americas,Northern America,United States of America,Michigan,,
 162.247.76.209,4,1108,jupitercommz.com,US,Americas,Northern America,United States of America,Michigan,,Detroit
 190.92.139.204,4,29,kukooo.com,US,Americas,Northern America,United States of America,Michigan,,
-190.92.140.112,4,-3,kyinwebgroup.com,US,Americas,Northern America,United States of America,Michigan,,
-190.92.159.29,4,4,lapca.org,US,Americas,Northern America,United States of America,Michigan,,
+190.92.159.29,4,-1,lapca.org,US,Americas,Northern America,United States of America,Michigan,,
 190.92.156.195,4,2,lco-cdo.org,US,Americas,Northern America,United States of America,Michigan,,
 190.92.137.85,4,49,legalonlinecasinos.ph,US,Americas,Northern America,United States of America,Michigan,,
 190.92.137.84,4,59,legalonlinegambling.ph,US,Americas,Northern America,United States of America,Michigan,,
 190.92.137.86,4,43,legalsportsbetting.ph,US,Americas,Northern America,United States of America,Michigan,,
 173.162.42.193,4,-2,linxnet.com,US,Americas,Northern America,United States of America,Michigan,,Waterford
-190.92.158.91,4,4,livingproofmag.com,US,Americas,Northern America,United States of America,Michigan,,
+190.92.158.91,4,0,livingproofmag.com,US,Americas,Northern America,United States of America,Michigan,,
 75.75.210.213,4,3,lon-capa.org,US,Americas,Northern America,United States of America,Michigan,,Holt
 162.247.79.3,4,-5,lovehkfilm.com,US,Americas,Northern America,United States of America,Michigan,,Detroit
 190.92.158.182,4,-3,lux-mag.com,US,Americas,Northern America,United States of America,Michigan,,
-162.247.79.183,4,373,manofactionfigures.com,US,Americas,Northern America,United States of America,Michigan,,Detroit
+162.247.79.183,4,1508,manofactionfigures.com,US,Americas,Northern America,United States of America,Michigan,,Detroit
 162.247.77.249,4,-1,matrixsynth.com,US,Americas,Northern America,United States of America,Michigan,,Detroit
 190.92.131.5,4,-1,mccleerylawfirm.com,US,Americas,Northern America,United States of America,Michigan,,
-190.92.135.158,4,9,merg.org.uk,US,Americas,Northern America,United States of America,Michigan,,
+190.92.135.158,4,5,merg.org.uk,US,Americas,Northern America,United States of America,Michigan,,
 216.109.194.8,4,664,mich.com,US,Americas,Northern America,United States of America,Michigan,,Rochester Hills
 76.242.100.9,4,5,midnightbsd.org,US,Americas,Northern America,United States of America,Michigan,,Bloomfield Hills
 208.64.38.233,4,-1997679,mygamercard.net,US,Americas,Northern America,United States of America,Michigan,,Manchester
-190.92.152.180,4,16,nachc.org,US,Americas,Northern America,United States of America,Michigan,,
+190.92.152.180,4,2,nachc.org,US,Americas,Northern America,United States of America,Michigan,,
 190.92.154.167,4,2,nawcc.org,US,Americas,Northern America,United States of America,Michigan,,
 74.126.10.12,4,-8,netonecom.net,US,Americas,Northern America,United States of America,Michigan,,Warren
 190.92.139.104,4,36,netpuppys.com,US,Americas,Northern America,United States of America,Michigan,,
@@ -135,53 +126,52 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 190.92.154.7,4,6,pensacolabeach.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.135.196,4,39,phayul.com,US,Americas,Northern America,United States of America,Michigan,,
 205.251.188.25,4,-1,pipelinepub.com,US,Americas,Northern America,United States of America,Michigan,,Detroit
-190.92.140.61,4,-2,plasticmold.net,US,Americas,Northern America,United States of America,Michigan,,
 190.92.159.157,4,16,powerpyx.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.141.37,4,22,premiereprovisionsbr.com,US,Americas,Northern America,United States of America,Michigan,,
 23.137.84.108,4,11,pressreleasepower.com,US,Americas,Northern America,United States of America,Michigan,,Detroit
 190.92.139.100,4,42,presszoom.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.135.141,4,34,psychedelicbabymag.com,US,Americas,Northern America,United States of America,Michigan,,
 207.75.116.14,4,-4339,radb.net,US,Americas,Northern America,United States of America,Michigan,,Clare
-190.92.132.47,4,64,ratinkhosh.com,US,Americas,Northern America,United States of America,Michigan,,
+190.92.132.47,4,-43,ratinkhosh.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.158.187,4,10,rentacheapcardubai.com,US,Americas,Northern America,United States of America,Michigan,,
 208.92.218.149,4,19,rental.software,US,Americas,Northern America,United States of America,Michigan,,West Bloomfield
 173.225.177.223,4,-6,responsivedesignchecker.com,US,Americas,Northern America,United States of America,Michigan,,Detroit
 190.92.135.202,4,2,rotavicentina.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.154.27,4,6,royal.com,US,Americas,Northern America,United States of America,Michigan,,
-190.92.158.115,4,23,sakerestaurant.com.au,US,Americas,Northern America,United States of America,Michigan,,
+190.92.158.115,4,1,sakerestaurant.com.au,US,Americas,Northern America,United States of America,Michigan,,
 190.92.135.24,4,29,saloni.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.129.1,4,11,scannerfrequencies.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.143.96,4,-9,scientificbeekeeping.com,US,Americas,Northern America,United States of America,Michigan,,
-190.92.159.46,4,9,seakayakadventures.com,US,Americas,Northern America,United States of America,Michigan,,
+190.92.159.46,4,-4,seakayakadventures.com,US,Americas,Northern America,United States of America,Michigan,,
 162.247.78.70,4,17,sexyloops.com,US,Americas,Northern America,United States of America,Michigan,,Detroit
-206.196.9.168,4,945,shivelyky.gov,US,Americas,Northern America,United States of America,Michigan,,Oak Park
+206.196.9.168,4,38,shivelyky.gov,US,Americas,Northern America,United States of America,Michigan,,Oak Park
 64.152.155.19,4,51,sierrachart.com,US,Americas,Northern America,United States of America,Michigan,,Novi
-190.92.138.136,4,56,simplylearnt.com,US,Americas,Northern America,United States of America,Michigan,,
-68.233.42.25,4,61,starsend.org,US,Americas,Northern America,United States of America,Michigan,,Southfield
+190.92.138.136,4,-12,simplylearnt.com,US,Americas,Northern America,United States of America,Michigan,,
+68.233.42.25,4,0,starsend.org,US,Americas,Northern America,United States of America,Michigan,,Southfield
 190.92.158.172,4,17,storypoint.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.158.27,4,842,stuarte.co,US,Americas,Northern America,United States of America,Michigan,,
 190.92.154.218,4,-3,sunopta.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.128.89,4,14,symbolsage.com,US,Americas,Northern America,United States of America,Michigan,,
-162.247.78.69,4,28,synerion.com,US,Americas,Northern America,United States of America,Michigan,,Detroit
+162.247.78.69,4,-3,synerion.com,US,Americas,Northern America,United States of America,Michigan,,Detroit
 190.92.139.218,4,49,teamcnut.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.139.195,4,62,technostream.org,US,Americas,Northern America,United States of America,Michigan,,
-208.83.69.36,4,7,telcodata.us,US,Americas,Northern America,United States of America,Michigan,,Oak Park
-190.92.132.173,4,66,terrassaencomu.cat,US,Americas,Northern America,United States of America,Michigan,,
+208.83.69.36,4,0,telcodata.us,US,Americas,Northern America,United States of America,Michigan,,Oak Park
+190.92.132.173,4,-66,terrassaencomu.cat,US,Americas,Northern America,United States of America,Michigan,,
 190.92.129.103,4,31,testautomationtools.dev,US,Americas,Northern America,United States of America,Michigan,,
 190.92.154.48,4,10,thegalleria.ae,US,Americas,Northern America,United States of America,Michigan,,
 190.92.128.92,4,13,topmexicorealestate.com,US,Americas,Northern America,United States of America,Michigan,,
-152.160.174.125,4,31,traumasoft.com,US,Americas,Northern America,United States of America,Michigan,,Grand Rapids
+152.160.174.125,4,-5,traumasoft.com,US,Americas,Northern America,United States of America,Michigan,,Grand Rapids
 190.92.156.129,4,12,urbansurvival.com,US,Americas,Northern America,United States of America,Michigan,,
 69.41.13.62,4,1,vgchartz.com,US,Americas,Northern America,United States of America,Michigan,,Owosso
 190.92.159.184,4,21,victory.ph,US,Americas,Northern America,United States of America,Michigan,,
 190.92.157.29,4,4,votehemp.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.154.189,4,1,vvc.edu,US,Americas,Northern America,United States of America,Michigan,,
 190.92.128.144,4,12,welding.org,US,Americas,Northern America,United States of America,Michigan,,
-190.92.136.229,4,44,wellbutrin24.com,US,Americas,Northern America,United States of America,Michigan,,
+190.92.136.229,4,-15,wellbutrin24.com,US,Americas,Northern America,United States of America,Michigan,,
 50.229.193.27,4,5,whosaliveandwhosdead.com,US,Americas,Northern America,United States of America,Michigan,,Macomb
-190.92.129.2,4,4,wpaffiliatemanager.com,US,Americas,Northern America,United States of America,Michigan,,
+190.92.129.2,4,0,wpaffiliatemanager.com,US,Americas,Northern America,United States of America,Michigan,,
 190.92.158.4,4,10,wsdm-conference.org,US,Americas,Northern America,United States of America,Michigan,,
-190.92.154.185,4,6,wwt.net,US,Americas,Northern America,United States of America,Michigan,,
+190.92.154.185,4,146,wwt.net,US,Americas,Northern America,United States of America,Michigan,,
 162.247.76.101,4,0,xperti.io,US,Americas,Northern America,United States of America,Michigan,,Detroit
-190.92.159.51,4,4,zamboanga.com,US,Americas,Northern America,United States of America,Michigan,,
-141.213.137.249,4,3,zhanggroup.org,US,Americas,Northern America,United States of America,Michigan,,Ann Arbor
+190.92.159.51,4,-2,zamboanga.com,US,Americas,Northern America,United States of America,Michigan,,
+141.213.137.249,4,0,zhanggroup.org,US,Americas,Northern America,United States of America,Michigan,,Ann Arbor

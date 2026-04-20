@@ -1,5 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-80.179.142.74,4,-1,hebron.org.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Bnei Brak
 80.179.142.66,4,-32,jerusaleminstitute.org.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Bnei Brak
-80.179.140.151,4,8,reader.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Bnei Brak
+80.179.140.151,4,-5,reader.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Bnei Brak
 80.179.141.28,4,-2,zeustech.net,IL,Asia,Western Asia,Israel,Tel Aviv,,Bnei Brak

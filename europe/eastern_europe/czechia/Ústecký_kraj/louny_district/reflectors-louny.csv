@@ -8,7 +8,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 93.91.158.214,4,67305,DNS Server: u158-214.static.kabel1.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
 185.94.6.26,4,-43,DNS Server: user185-94-6-26.luminet.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
 82.208.14.42,4,340651,DNS Server: win3.simplenet.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
-82.208.9.148,4,7,floowie.com,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+82.208.9.148,4,-2,floowie.com,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
 82.208.14.88,4,-18,grolsch.com,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
 82.208.6.9,4,76,horosvaz.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
 82.208.6.4,4,2,kralovstvi-zeleznic.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
@@ -19,4 +19,4 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 82.208.6.24,4,-3,wmce.de,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
 82.208.6.131,4,-8059,worldonline.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
 82.208.6.138,4,-4056,worldonline.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
-93.91.148.122,4,6,zkovysokapec.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+93.91.148.122,4,-41,zkovysokapec.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny

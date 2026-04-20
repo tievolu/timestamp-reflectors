@@ -2,18 +2,18 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 192.158.233.81,4,-5,adworkmedia.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 192.158.236.223,4,2877,africaguide.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 152.3.103.45,4,-10,alban.org,US,Americas,Northern America,United States of America,North Carolina,,Durham
-38.45.67.223,4,4,americanindiancoc.org,US,Americas,Northern America,United States of America,North Carolina,,Durham
+38.45.67.223,4,-5,americanindiancoc.org,US,Americas,Northern America,United States of America,North Carolina,,Durham
 67.23.166.61,4,-6,artobatours.com,US,Americas,Northern America,United States of America,North Carolina,,Asheville
 162.223.10.61,4,7,auctionblox.com,US,Americas,Northern America,United States of America,North Carolina,,Durham
 192.158.236.224,4,2848,auctionguide.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 192.158.233.249,4,-4,babycakesnyc.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 66.193.215.3,4,-14,bbnradio.org,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 192.154.254.229,4,-7,bookmyboat.net,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
-216.59.0.179,4,7,buenosaireswomen.com,US,Americas,Northern America,United States of America,North Carolina,,Asheville
+216.59.0.179,4,0,buenosaireswomen.com,US,Americas,Northern America,United States of America,North Carolina,,Asheville
 67.23.166.3,4,-2,businessfirms.co,US,Americas,Northern America,United States of America,North Carolina,,Asheville
 192.138.189.79,4,-2,car-seat.org,US,Americas,Northern America,United States of America,North Carolina,,Cary
 68.78.37.77,4,-12,casacarbone.com,US,Americas,Northern America,United States of America,North Carolina,,Raleigh
-155.254.23.68,4,1137,centrocoyol.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
+155.254.23.68,4,864,centrocoyol.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 152.3.160.32,4,2,cmosurvey.org,US,Americas,Northern America,United States of America,North Carolina,,Durham
 155.254.25.156,4,-1,coolcoder.org,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 152.7.178.53,4,-7,ctdbase.org,US,Americas,Northern America,United States of America,North Carolina,,Raleigh
@@ -21,9 +21,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 162.217.114.56,4,13,digitalmars.com,US,Americas,Northern America,United States of America,North Carolina,,Durham
 47.27.115.80,4,-18856,DNS Server: 047-027-115-080.res.spectrum.com,US,Americas,Northern America,United States of America,North Carolina,,Newton
 71.76.82.147,4,-24,DNS Server: 071-076-082-147.res.spectrum.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
-71.76.98.175,4,-34858,DNS Server: 071-076-098-175.res.spectrum.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 75.177.76.220,4,759,DNS Server: 075-177-076-220.res.spectrum.com,US,Americas,Northern America,United States of America,North Carolina,,Pineville
-75.181.133.44,4,-22261,DNS Server: 075-181-133-044.res.spectrum.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 75.183.98.139,4,26915,DNS Server: 075-183-098-139.res.spectrum.com,US,Americas,Northern America,United States of America,North Carolina,,Burlington
 96.36.248.12,4,0,DNS Server: 096-036-248-012.biz.spectrum.com,US,Americas,Northern America,United States of America,North Carolina,,Boone
 173.212.6.5,4,31,DNS Server: 173-212-6-5.cpe.surry.net,US,Americas,Northern America,United States of America,North Carolina,,Mount Airy
@@ -45,28 +43,28 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 38.45.64.117,4,-3,DoH server: dnscry.pt-durham-ipv4,US,Americas,Northern America,United States of America,North Carolina,,Durham
 71.135.4.118,4,20649,DoH server: doh.aaaab3n.moe,US,Americas,Northern America,United States of America,North Carolina,,Garner
 192.158.238.6,4,2,earthsave.org,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
-155.254.21.128,4,19,eldi.co.in,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
+155.254.21.128,4,-2,eldi.co.in,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 172.93.120.57,4,398,electrasoft.com,US,Americas,Northern America,United States of America,North Carolina,,Lenoir
-67.23.166.136,4,33,essayelites.com,US,Americas,Northern America,United States of America,North Carolina,,Asheville
-192.154.253.240,4,19,europeanpost.co,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
+67.23.166.136,4,0,essayelites.com,US,Americas,Northern America,United States of America,North Carolina,,Asheville
+192.154.253.240,4,-2,europeanpost.co,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 192.158.238.246,4,10,everythingpreschool.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 152.3.103.186,4,0,faithandleadership.com,US,Americas,Northern America,United States of America,North Carolina,,Durham
 152.2.23.109,4,54,fedorapeople.org,US,Americas,Northern America,United States of America,North Carolina,,Chapel Hill
-68.89.69.138,4,25,free-dc.org,US,Americas,Northern America,United States of America,North Carolina,,Raleigh
+68.89.69.138,4,-4,free-dc.org,US,Americas,Northern America,United States of America,North Carolina,,Raleigh
 31.220.58.93,4,48,freelanguage.org,US,Americas,Northern America,United States of America,North Carolina,,Asheville
 162.245.216.146,4,-2,freemypdf.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 152.3.103.67,4,1,fullframefest.org,US,Americas,Northern America,United States of America,North Carolina,,Durham
 152.2.23.103,4,2,getfedora.org,US,Americas,Northern America,United States of America,North Carolina,,Chapel Hill
 152.2.23.104,4,-5,getfedora.org,US,Americas,Northern America,United States of America,North Carolina,,Chapel Hill
-192.138.189.115,4,381,gkwretail.com,US,Americas,Northern America,United States of America,North Carolina,,Cary
+192.138.189.115,4,-635,gkwretail.com,US,Americas,Northern America,United States of America,North Carolina,,Cary
 162.245.217.130,4,0,global-mind.org,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 192.198.93.2,4,1297,gnolls.org,US,Americas,Northern America,United States of America,North Carolina,,Lenoir
 66.57.1.137,4,31692484,golux.com,US,Americas,Northern America,United States of America,North Carolina,,High Point
-192.138.189.155,4,31,grandpajoescandyshop.com,US,Americas,Northern America,United States of America,North Carolina,,Cary
+192.138.189.155,4,-4,grandpajoescandyshop.com,US,Americas,Northern America,United States of America,North Carolina,,Cary
 152.19.134.47,4,-10,gutenberg.org,US,Americas,Northern America,United States of America,North Carolina,,Carrboro
 198.37.111.173,4,-5,hansenpartnership.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 199.233.231.2,4,-57554,hardenedbsd.org,US,Americas,Northern America,United States of America,North Carolina,,Durham
-38.45.65.32,4,12,hdtimeline.com,US,Americas,Northern America,United States of America,North Carolina,,Durham
+38.45.65.32,4,-28,hdtimeline.com,US,Americas,Northern America,United States of America,North Carolina,,Durham
 192.138.189.151,4,-42,healthymarriageinfo.org,US,Americas,Northern America,United States of America,North Carolina,,Cary
 38.45.66.152,4,-8,helloworld.in,US,Americas,Northern America,United States of America,North Carolina,,Durham
 192.154.254.25,4,11,htechinnovationshub.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
@@ -74,15 +72,15 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 152.19.134.40,4,-9,ibiblio.org,US,Americas,Northern America,United States of America,North Carolina,,Carrboro
 192.158.238.133,4,42,ilfornousa.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 155.254.23.122,4,0,jamesmcallisteronline.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
-192.138.189.32,4,78,kimfoundation.com,US,Americas,Northern America,United States of America,North Carolina,,Cary
+192.138.189.32,4,-2,kimfoundation.com,US,Americas,Northern America,United States of America,North Carolina,,Cary
 77.110.119.74,4,14,kr38.shop,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
-104.128.226.53,4,33,latin-brides.top,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
-155.254.29.18,4,82,leftoverqueen.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
-155.254.23.146,4,5,leopardscourier.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
+104.128.226.53,4,-2,latin-brides.top,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
+155.254.29.18,4,2,leftoverqueen.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
+155.254.23.146,4,-2,leopardscourier.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 155.254.26.68,4,375,luckykey.lk,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
-155.254.25.187,4,9,magapill.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
+155.254.25.187,4,2,magapill.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 192.198.91.30,4,13,magniengenharia.com.br,US,Americas,Northern America,United States of America,North Carolina,,Lenoir
-31.220.58.135,4,17,mix.co.id,US,Americas,Northern America,United States of America,North Carolina,,Asheville
+31.220.58.135,4,-1,mix.co.id,US,Americas,Northern America,United States of America,North Carolina,,Asheville
 152.3.80.200,4,-3,morphosource.org,US,Americas,Northern America,United States of America,North Carolina,,Durham
 130.250.176.178,4,10,mozcom.com,US,Americas,Northern America,United States of America,North Carolina,,Durham
 192.138.189.173,4,533,mybrownnewfies.com,US,Americas,Northern America,United States of America,North Carolina,,Cary
@@ -102,7 +100,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 216.210.92.55,4,15,Ookla Speedtest Server 13903: speedtest.myglnc.com,US,Americas,Northern America,United States of America,North Carolina,,Wilson
 208.80.76.62,4,-2,Ookla Speedtest Server 14757: sp1.pinecomm.net,US,Americas,Northern America,United States of America,North Carolina,,Pineville
 152.19.255.126,4,2,Ookla Speedtest Server 14774: ookla.net.unc.edu,US,Americas,Northern America,United States of America,North Carolina,,Durham
-97.75.159.130,4,181,Ookla Speedtest Server 17051: speedtest.northstate.net,US,Americas,Northern America,United States of America,North Carolina,,High Point
+97.75.159.130,4,-33,Ookla Speedtest Server 17051: speedtest.northstate.net,US,Americas,Northern America,United States of America,North Carolina,,High Point
 152.3.101.108,4,3,Ookla Speedtest Server 29113: speedtest.oit.duke.edu,US,Americas,Northern America,United States of America,North Carolina,,Durham
 216.82.62.254,4,5,Ookla Speedtest Server 59377: speedtest.hckrncaa.metronetinc.com,US,Americas,Northern America,United States of America,North Carolina,,Hickory
 170.62.44.35,4,-4,Ookla Speedtest Server 61557: speedtest.rivrtech.net,US,Americas,Northern America,United States of America,North Carolina,,Lumberton
@@ -117,12 +115,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 191.96.101.66,4,17,osisat.edu.ng,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 204.84.22.141,4,13,pari.edu,US,Americas,Northern America,United States of America,North Carolina,,Hendersonville
 98.18.196.39,4,10,perl.bot,US,Americas,Northern America,United States of America,North Carolina,,Waxhaw
-66.129.123.4,4,16,pki.com,US,Americas,Northern America,United States of America,North Carolina,,Greensboro
+66.129.123.4,4,-1,pki.com,US,Americas,Northern America,United States of America,North Carolina,,Greensboro
 194.14.107.228,4,-33,pl2011.eu,US,Americas,Northern America,United States of America,North Carolina,,
-67.23.166.56,4,57,populiser.com,US,Americas,Northern America,United States of America,North Carolina,,Asheville
+67.23.166.56,4,0,populiser.com,US,Americas,Northern America,United States of America,North Carolina,,Asheville
 155.254.21.225,4,12,pxlnv.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 152.3.103.234,4,23,reporterslab.org,US,Americas,Northern America,United States of America,North Carolina,,Durham
-192.158.224.50,4,10,resimlimag.net,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
+192.158.224.50,4,2,resimlimag.net,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 216.27.28.88,4,32,rizzolibookstore.com,US,Americas,Northern America,United States of America,North Carolina,,Durham
 192.138.189.24,4,3,rmnetwork.org,US,Americas,Northern America,United States of America,North Carolina,,Cary
 136.61.69.135,4,29,robobunny.com,US,Americas,Northern America,United States of America,North Carolina,,Cary
@@ -130,28 +128,28 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 152.3.103.125,4,4,sceneonradio.org,US,Americas,Northern America,United States of America,North Carolina,,Durham
 216.27.28.10,4,11,semcoop.com,US,Americas,Northern America,United States of America,North Carolina,,Durham
 192.158.225.42,4,11,shannonfabrics.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
-192.138.189.116,4,421,sjlmag.com,US,Americas,Northern America,United States of America,North Carolina,,Cary
+192.138.189.116,4,72,sjlmag.com,US,Americas,Northern America,United States of America,North Carolina,,Cary
 152.3.101.125,4,9,snccdigital.org,US,Americas,Northern America,United States of America,North Carolina,,Durham
 199.48.128.150,4,31,snert.com,US,Americas,Northern America,United States of America,North Carolina,,Durham
 199.233.228.154,4,10,ssdrc.com,US,Americas,Northern America,United States of America,North Carolina,,Durham
 198.37.111.188,4,19,staffmark.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 216.117.130.240,4,4,stuartxchange.org,US,Americas,Northern America,United States of America,North Carolina,,Fayetteville
-192.138.189.159,4,394,teampa.com,US,Americas,Northern America,United States of America,North Carolina,,Cary
-192.158.238.247,4,5,techarena.in,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
+192.138.189.159,4,-633,teampa.com,US,Americas,Northern America,United States of America,North Carolina,,Cary
+192.158.238.247,4,-3,techarena.in,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 192.138.189.27,4,-190,texoma.net,US,Americas,Northern America,United States of America,North Carolina,,Cary
 208.86.224.90,4,11,textfiles.com,US,Americas,Northern America,United States of America,North Carolina,,Durham
 155.254.30.254,4,8,the.mk,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 192.138.189.25,4,19,thegreateststorynevertold.tv,US,Americas,Northern America,United States of America,North Carolina,,Cary
-216.59.0.190,4,5,themasterfilm.com,US,Americas,Northern America,United States of America,North Carolina,,Asheville
+216.59.0.190,4,0,themasterfilm.com,US,Americas,Northern America,United States of America,North Carolina,,Asheville
 208.79.82.66,4,13,trilug.org,US,Americas,Northern America,United States of America,North Carolina,,Durham
 38.45.71.139,4,18,trivoo.net,US,Americas,Northern America,United States of America,North Carolina,,Durham
 130.250.176.194,4,2553,unification.net,US,Americas,Northern America,United States of America,North Carolina,,Durham
 155.254.29.127,4,27,valleydrivingschool.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
-192.138.189.196,4,394,valuablekitchen.com,US,Americas,Northern America,United States of America,North Carolina,,Cary
+192.138.189.196,4,-17,valuablekitchen.com,US,Americas,Northern America,United States of America,North Carolina,,Cary
 66.129.115.229,4,1365,vectorvest.com,US,Americas,Northern America,United States of America,North Carolina,,Greensboro
 216.85.168.250,4,14,visit-palau.com,US,Americas,Northern America,United States of America,North Carolina,,Cary
 152.19.134.41,4,11,whitehousetransitionproject.org,US,Americas,Northern America,United States of America,North Carolina,,Carrboro
-216.117.129.123,4,3,woodlandtech.org,US,Americas,Northern America,United States of America,North Carolina,,Fayetteville
-192.158.224.14,4,15,worldcitytime.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
+216.117.129.123,4,-1,woodlandtech.org,US,Americas,Northern America,United States of America,North Carolina,,Fayetteville
+192.158.224.14,4,-1,worldcitytime.com,US,Americas,Northern America,United States of America,North Carolina,,Charlotte
 216.27.29.56,4,3,zerobeat.net,US,Americas,Northern America,United States of America,North Carolina,,Durham
 38.45.66.166,4,13,zirvede.net,US,Americas,Northern America,United States of America,North Carolina,,Durham

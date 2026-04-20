@@ -1,5 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-185.150.186.113,4,11,crealev.com,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
+185.150.186.113,4,-1,crealev.com,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
 81.173.126.239,4,34370,DNS Server: a81-173-126-239.dsl.pocosnet.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
 81.173.72.105,4,-3,DNS Server: a81-173-72-105.dsl.pocosnet.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
 81.173.72.106,4,-3,DNS Server: a81-173-72-106.dsl.pocosnet.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
@@ -8,7 +8,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 198.105.112.15,4,16,downloadfiilm.com,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
 185.75.159.104,4,3,groasis.com,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
 185.150.185.17,4,-10,lecturis.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
-185.150.187.61,4,8,novadic-kentron.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
+185.150.187.61,4,0,novadic-kentron.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
 94.142.241.148,4,0,Ookla Speedtest Server 34666: speed2.suitit.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
-185.150.186.200,4,4,stichting-leerkracht.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
+185.150.186.200,4,0,stichting-leerkracht.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
 176.74.234.37,4,250,vankaathoven.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven

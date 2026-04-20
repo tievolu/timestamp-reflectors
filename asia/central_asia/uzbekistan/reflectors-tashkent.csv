@@ -1,7 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 95.46.96.104,4,10,buxdu.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 84.54.115.70,4,32,cawater-info.net,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
-195.158.14.74,4,-12,creditasia.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 213.230.90.106,4,-117,DNS Server: 106.64.uzpak.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 146.120.18.67,4,10686,DNS Server: 146.120.18.67.ip.nano.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 146.120.19.15,4,77216,DNS Server: 146.120.19.15.ip.nano.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
@@ -22,7 +21,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.158.0.5,4,0,DNS Server: ns2.uzpak.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 84.54.64.35,4,-4,DNS Server: ns3.uzpak.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 95.130.227.165,4,-2,dunyo.info,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
-95.130.227.41,4,86,dunyo.info,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 195.158.3.34,4,-570,edu.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 95.46.210.92,4,7,glotr.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 213.232.225.60,4,20,goldenpages.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
@@ -45,9 +43,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 95.46.96.61,4,24,podrobno.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 37.153.159.13,4,41,proindex.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 109.94.172.117,4,29,sammu.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
-213.230.127.153,4,25,samo.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
+213.230.127.153,4,1,samo.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 37.140.216.219,4,17,scienceweb.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
-195.158.11.139,4,69,sdtes.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
+195.158.11.139,4,-1,sdtes.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 37.153.159.12,4,1511,texnostars.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 85.204.79.24,4,13,tma.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent
 195.158.2.220,4,-34,tuit.uz,UZ,Asia,Central Asia,Uzbekistan,Tashkent,,Tashkent

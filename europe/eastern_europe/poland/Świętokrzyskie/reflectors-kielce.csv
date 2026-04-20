@@ -1,6 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 77.65.163.154,4,17382,DNS Server: customers.globit.pl,PL,Europe,Eastern Europe,Poland,Świętokrzyskie,,Kielce
-81.26.30.30,4,4,jednosc.com.pl,PL,Europe,Eastern Europe,Poland,Świętokrzyskie,,Kielce
+81.26.30.30,4,0,jednosc.com.pl,PL,Europe,Eastern Europe,Poland,Świętokrzyskie,,Kielce
 93.159.185.5,4,208950,Ookla Speedtest Server 20983: speedtest.dsk-kielce.pl,PL,Europe,Eastern Europe,Poland,Świętokrzyskie,,Kielce
 193.164.134.5,4,-3,Ookla Speedtest Server 31492: speedtest.netck.pl,PL,Europe,Eastern Europe,Poland,Świętokrzyskie,,Kielce
 188.241.25.49,4,-3,Ookla Speedtest Server 41218: speedtest.ne-trix.com,PL,Europe,Eastern Europe,Poland,Świętokrzyskie,,Kielce

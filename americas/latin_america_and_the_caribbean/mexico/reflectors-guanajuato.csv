@@ -8,7 +8,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 187.188.150.41,4,126314,DNS Server: sana.dicoba.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
 201.144.48.73,4,7,DNS Server: static.customer-201-144-48-73.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
 201.147.242.124,4,-27,DNS Server: static.customer-201-147-242-124.uninet-ide.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,La Paz
-69.171.212.60,4,4,iislweb.org,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Cuerámaro
+69.171.212.60,4,-54485,iislweb.org,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Cuerámaro
 189.194.232.210,4,-36,Ookla Speedtest Server 3568: speedtest.leon.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
 189.203.166.146,4,14,Ookla Speedtest Server 37266: leon.speedtest.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,León
 187.244.47.106,4,-19,Ookla Speedtest Server 40776: speedtest.gto.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Guanajuato,,Guanajuato City

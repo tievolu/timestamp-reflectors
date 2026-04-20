@@ -1,25 +1,24 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 78.136.66.194,4,3,abrastar.com,ES,Europe,Southern Europe,Spain,Andalusia,Cordoba,Lucena
 5.135.40.86,4,449,adlibweb.com,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
-88.148.3.209,4,4,agustinoszaragoza.com,ES,Europe,Southern Europe,Spain,Andalusia,Almeria,Alfoquia
+88.148.3.209,4,0,agustinoszaragoza.com,ES,Europe,Southern Europe,Spain,Andalusia,Almeria,Alfoquia
 80.59.18.38,4,20,albalearning.com,ES,Europe,Southern Europe,Spain,Andalusia,Seville,El Arahal
 213.4.38.212,4,37,albalearning.com,ES,Europe,Southern Europe,Spain,Andalusia,Seville,San José de la Rinconada
 185.92.244.178,4,2,andaluciarustica.com,ES,Europe,Southern Europe,Spain,Andalusia,Almeria,Almería
 150.214.104.61,4,30,arqus-alliance.eu,ES,Europe,Southern Europe,Spain,Andalusia,Jaen,Jaén
 89.140.72.140,4,15,asperger.es,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
 5.135.40.73,4,524,atalaya-golf.com,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
-178.156.41.236,4,31,brandmeister.network,ES,Europe,Southern Europe,Spain,Andalusia,Malaga,Villanueva de Tapia
+178.156.41.236,4,-1,brandmeister.network,ES,Europe,Southern Europe,Spain,Andalusia,Malaga,Villanueva de Tapia
 150.214.91.183,4,1470,campusdelmar.com,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Seville
 195.248.230.40,4,13,capilla21.es,ES,Europe,Southern Europe,Spain,Andalusia,Malaga,Málaga
 195.248.231.74,4,-26,carmenthyssenmalaga.org,ES,Europe,Southern Europe,Spain,Andalusia,Malaga,Málaga
 217.18.161.20,4,-3,cegal.es,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
 217.18.166.113,4,-31207,centrallibrera.com,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
-185.142.217.60,4,6,cevabun.ro,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Coria del Río
+185.142.217.60,4,0,cevabun.ro,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Coria del Río
 5.135.40.74,4,486,clubdegolfaloha.com,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
 5.135.40.102,4,-27,consellinsulardeformentera.cat,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
 195.248.230.149,4,-10,cudeca.org,ES,Europe,Southern Europe,Spain,Andalusia,Malaga,Málaga
-5.135.40.23,4,26,curiosoando.com,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
-195.78.228.88,4,-641,dailygames.com,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Seville
+5.135.40.23,4,-4,curiosoando.com,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
 195.248.230.141,4,-5,digitales.es,ES,Europe,Southern Europe,Spain,Andalusia,Malaga,Málaga
 5.83.75.10,4,-2,DNS Server: 10-75-83-5-red-servicios.onlycable.es,ES,Europe,Southern Europe,Spain,Andalusia,Seville,La Puebla de Cazalla
 85.62.132.100,4,55,DNS Server: 100.pool85-62-132.dynamic.orange.es,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
@@ -47,7 +46,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.192.108.213,4,-22,fr9.es,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Seville
 150.214.1.36,4,42,fundaciondescubre.es,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Dos Hermanas
 37.235.53.66,4,0,globalcbdbrands.com,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Seville
-5.135.40.51,4,-56,golfsotogrande.com,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
 195.248.230.230,4,-23,horajaen.com,ES,Europe,Southern Europe,Spain,Andalusia,Malaga,Málaga
 5.135.40.30,4,-15,insigniaspoliciales.com,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
 85.62.139.100,4,14,itec.cat,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
@@ -56,7 +54,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 217.18.163.139,4,-12,libreriasnobel.es,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
 217.61.143.49,4,-8,lustau.es,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Seville
 185.79.30.83,4,-10,miofitentrenamiento.es,ES,Europe,Southern Europe,Spain,Andalusia,Cordoba,Córdoba
-185.142.217.50,4,2556,monitoruljuridic.ro,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Coria del Río
+185.142.217.50,4,4627,monitoruljuridic.ro,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Coria del Río
 37.230.93.3,4,182493,Ookla Speedtest Server 6461: speedtest.giganetesmejor.com,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Gerena
 93.114.159.254,4,-24,Ookla Speedtest Server 6903: test1.velocable.com,ES,Europe,Southern Europe,Spain,Andalusia,Malaga,Málaga
 149.100.11.210,4,17461216,Ookla Speedtest Server 7353: speedtest.malagadatacenter.com,ES,Europe,Southern Europe,Spain,Andalusia,Malaga,Málaga
@@ -83,19 +81,19 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 85.62.142.36,4,5257,portbooker.com,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
 62.82.128.4,4,21887,recorda.net,ES,Europe,Southern Europe,Spain,Andalusia,Jaen,Bailén
 217.61.143.92,4,9,recreativohuelva.com,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Seville
-185.92.244.76,4,14,representacionesluislopez.com,ES,Europe,Southern Europe,Spain,Andalusia,Almeria,Almería
+185.92.244.76,4,1,representacionesluislopez.com,ES,Europe,Southern Europe,Spain,Andalusia,Almeria,Almería
 5.135.40.193,4,255,revistaelobservador.com,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
 217.18.162.37,4,9,sigloxxieditores.com,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
 217.18.166.136,4,10,sophosenlinea.com,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
-185.92.245.252,4,3,tlaxcala.es,ES,Europe,Southern Europe,Spain,Andalusia,Almeria,Almería
+185.92.245.252,4,0,tlaxcala.es,ES,Europe,Southern Europe,Spain,Andalusia,Almeria,Almería
 217.18.162.120,4,72,todostuslibros.com,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
 185.145.179.5,4,15,transferandalucia.com,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Estepa
 5.135.93.67,4,9,trianarts.com,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
-5.135.93.116,4,3164,trianarts.com,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
+5.135.93.116,4,-5,trianarts.com,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
 46.27.132.2,4,-1844156782,turismebaixllobregat.com,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
 150.214.80.210,4,15,uca.es,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Seville
 150.214.110.212,4,16,uco.es,ES,Europe,Southern Europe,Spain,Andalusia,Jaen,Jaén
-194.15.236.231,4,9841,uninoovo.com,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Almuñécar
+194.15.236.231,4,9601,uninoovo.com,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Almuñécar
 193.146.156.245,4,15,upsa.es,ES,Europe,Southern Europe,Spain,Andalusia,Almeria,Tabernas
 5.135.40.72,4,417,valderrama.com,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
 54.37.116.112,4,8,voluntaris.cat,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada

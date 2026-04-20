@@ -3,20 +3,20 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 2.57.138.237,4,14,ajwykonczenia.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.137.26,4,-1,aktivist.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 91.234.217.239,4,6,aplikuj.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Żywiec
-2.57.138.203,4,19,argentum-event.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+2.57.138.203,4,-1,argentum-event.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 193.93.88.39,4,16,balex.eu,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.132,4,23,benedyktyni.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.161,4,-2,bityl.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.139.46,4,9,bochnianotariusz.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-195.248.227.16,4,8,bolix.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Żywiec
-91.198.89.38,4,11,brenna-ski.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Gliwice
+195.248.227.16,4,1,bolix.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Żywiec
+91.198.89.38,4,0,brenna-ski.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Gliwice
 193.93.88.44,4,-2,cenyrolnicze.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-2.57.137.48,4,9,coma.com.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+2.57.137.48,4,2,coma.com.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.254,4,22,cupt.gov.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 91.211.222.198,4,-7,czestochowa.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.222,4,-2,dailyweb.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 91.211.222.252,4,0,darco.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-91.211.221.253,4,3,dniotwarte.eu,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+91.211.221.253,4,0,dniotwarte.eu,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 78.88.188.26,4,8142,DNS Server: 078088188026.swietochlowice.vectranet.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bytom
 78.88.188.98,4,-6398055,DNS Server: 078088188098.swietochlowice.vectranet.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bytom
 78.88.188.182,4,58600,DNS Server: 078088188182.swietochlowice.vectranet.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bytom
@@ -46,11 +46,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 188.117.144.238,4,-69,DNS Server: host-188.117.144.238.static.3s.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Katowice
 188.117.153.237,4,-6,DNS Server: host-188.117.153.237.static.3s.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Katowice
 188.117.154.107,4,393843,DNS Server: host-188.117.154.107.static.3s.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Katowice
-85.11.81.226,4,15,DNS Server: host-550b51e2.sileman.net.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Ruda Śląska
-85.11.102.178,4,6788,DNS Server: host-550b66b2.sileman.net.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Radzionków
-85.11.125.123,4,26161,DNS Server: host-550b7d7b.sileman.net.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Zabrze
-85.11.126.105,4,26217,DNS Server: host-550b7e69.sileman.net.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Zabrze
-85.11.126.108,4,279123,DNS Server: host-550b7e6c.sileman.net.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Zabrze
+85.11.81.226,4,6,DNS Server: host-550b51e2.sileman.net.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Ruda Śląska
+85.11.102.178,4,296,DNS Server: host-550b66b2.sileman.net.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Radzionków
+85.11.125.123,4,105443,DNS Server: host-550b7d7b.sileman.net.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Zabrze
+85.11.126.105,4,289,DNS Server: host-550b7e69.sileman.net.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Zabrze
+85.11.126.108,4,25412,DNS Server: host-550b7e6c.sileman.net.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Zabrze
 85.14.100.154,4,-1276,DNS Server: host-85.14.100.154.static.3s.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Żernica
 85.14.121.2,4,117190,DNS Server: host-85.14.121.2.static.3s.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Katowice
 89.25.183.149,4,848,DNS Server: host-89.25.183.149.static.3s.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Katowice
@@ -59,7 +59,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 89.25.247.114,4,14089,DNS Server: host-89.25.247.114.static.3s.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Zabrze
 194.33.76.1,4,1,DNS Server: ip-194-33-76-1.static.speed-net.com.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bielsko-Biala
 91.192.2.111,4,-14393,DNS Server: IP-91-192-2-111.techmedia.com.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Gliwice
-91.244.230.115,4,123,DNS Server: ip-91-244-230-115.simant.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Wilkowice
+91.244.230.115,4,20310,DNS Server: ip-91-244-230-115.simant.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Wilkowice
 89.25.219.10,4,-3,DNS Server: mt02.pgd.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Gliwice
 195.140.155.68,4,64677,DNS Server: pc68-155.kopnet.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Gliwice
 5.185.21.65,4,663991,DNS Server: public-gprs699904.centertel.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Katowice
@@ -71,33 +71,34 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 188.137.46.117,4,5618,DNS Server: static-188-137-46-117.leon.com.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Szczerbice
 81.219.25.230,4,4,DNS Server: static-81-219-25-230.devs.futuro.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Lisowice
 89.200.230.166,4,6598,DNS Server: static-89-200-230-166.leon.com.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Świerklany
+91.211.222.147,4,2,drclown.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.200,4,32,dzialajlokalnie.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-91.211.222.58,4,77,dziwnezegarki.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+91.211.222.58,4,0,dziwnezegarki.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 91.211.221.172,4,3,edtechpoland.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-193.93.88.65,4,94,elazienki.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-85.11.67.207,4,26,elsat.net.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Chorzów
+193.93.88.65,4,0,elazienki.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+85.11.67.207,4,4,elsat.net.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Chorzów
 2.57.137.47,4,8,erkado.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.68,4,4,ewawilczewska.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-2.57.138.28,4,79,faktyoswiecim.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+2.57.138.28,4,2,faktyoswiecim.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.197,4,-4,ffvc.com,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.250,4,-3,film.org.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.232,4,21,forum-foxess.pro,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-85.14.71.7,4,5,forumparkow.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bytom
-2.57.138.225,4,11,fotoszok.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+85.14.71.7,4,-63,forumparkow.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bytom
+2.57.138.225,4,-2,fotoszok.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.98,4,-2,frsi.org.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 91.224.214.227,4,68,funduszsprawiedliwosci.gov.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Żywiec
 2.57.138.6,4,-3,gamemusic.net,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 109.95.203.22,4,6,gkstychy.info,PL,Europe,Eastern Europe,Poland,Silesia,,Tychy
-91.211.222.130,4,0,gokwojciechow.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-193.93.88.64,4,6,guiltfree.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+91.211.222.130,4,1,gokwojciechow.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+193.93.88.64,4,-2,guiltfree.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 188.117.147.116,4,-66,helion.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Katowice
 91.211.221.116,4,-1,hutnia.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-2.57.138.50,4,14,incontext.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+2.57.138.50,4,1,incontext.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 91.211.221.251,4,5,interwencjaprawna.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-91.211.221.190,4,38,interwencjaprawna.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+91.211.221.190,4,0,interwencjaprawna.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 193.93.88.75,4,10,isokolka.eu,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-193.93.88.38,4,2,isokolka.eu,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-2.57.138.47,4,12,iwoman.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+193.93.88.38,4,0,isokolka.eu,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+2.57.138.47,4,-1,iwoman.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 91.211.222.35,4,4,joomla.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.101,4,5,klinikaustron.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 91.224.214.244,4,6,kobize.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Żywiec
@@ -106,7 +107,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.234.217.2,4,6,kotki.eu,PL,Europe,Eastern Europe,Poland,Silesia,,Żywiec
 91.211.222.250,4,15,krakow2016.com,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.140,4,-3,krknews.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-91.211.222.60,4,2,kuznia.net,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+91.211.222.60,4,0,kuznia.net,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.137.252,4,9,leba.eu,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.139.45,4,18,leczymyuzaleznienia.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.83,4,-1,legeartis.org,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
@@ -119,7 +120,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 2.57.138.235,4,5,muzeumwspolczesne.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.61,4,3,mywanderlust.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.160,4,22,naszaziemia.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-193.107.248.117,4,4,ninex.info,PL,Europe,Eastern Europe,Poland,Silesia,,Będzin
+193.107.248.117,4,0,ninex.info,PL,Europe,Eastern Europe,Poland,Silesia,,Będzin
 2.57.138.196,4,16,nowakonfederacja.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 91.211.222.26,4,3,obtk.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 91.211.220.144,4,1,odpowiedzialnybiznes.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
@@ -149,12 +150,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.198.94.43,4,-1,Ookla Speedtest Server: test.ajc.com.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bielsko-Biala
 194.177.29.10,4,-16,Ookla Speedtest Server: ustronet.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Ustroń
 94.231.11.150,4,4,Ookla Speedtest Server: www.microchip.net.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bytom
-2.57.137.14,4,117,oriant.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+2.57.137.14,4,-1,oriant.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.211,4,18,ottenburger.com,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.137.20,4,19,pasjagsm.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-193.93.88.14,4,22,pixelemu.com,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-193.93.88.46,4,29,podatki.biz,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-2.57.138.136,4,46,pol-ukr.com,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+193.93.88.14,4,1,pixelemu.com,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+193.93.88.46,4,1,podatki.biz,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+2.57.138.136,4,0,pol-ukr.com,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.79,4,34,polfair.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.107,4,4,pragmatiq.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.137.3,4,23,pressmania.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
@@ -162,19 +163,19 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.211.221.228,4,5,radekslodkiewicz.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.173,4,13,rawicz.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.137.43,4,7,rbmtechnik.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-2.57.137.50,4,29,rebelya.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+2.57.137.50,4,-1,rebelya.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.142,4,11,redemptor.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.240,4,0,ronson.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-2.57.138.226,4,25,ronson.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-2.57.138.195,4,12,seachange.com,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-2.57.137.12,4,12,sekret-natury.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+2.57.138.226,4,1,ronson.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+2.57.138.195,4,1,seachange.com,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+2.57.137.12,4,1,sekret-natury.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.194,4,27,sektor3-0.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.137.7,4,28,siecobywatelska.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.139.18,4,-11,skarzysko24.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.139.26,4,12,skyeurope.com,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 193.93.88.161,4,1,smarthost.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-93.179.234.37,4,4,sowafinansowa.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Wodzisław Śląski
-2.57.137.6,4,15,sposobnagluten.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+93.179.234.37,4,-4,sowafinansowa.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Wodzisław Śląski
+2.57.137.6,4,1,sposobnagluten.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.138.199,4,10,stopklatka.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.139.31,4,-8,storware.eu,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 91.211.222.98,4,20,stumet.eu,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
@@ -182,25 +183,26 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 2.57.139.199,4,8,subiektywnieofinansach.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 193.93.88.49,4,6,swiatobrazu.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 78.31.94.91,4,72,t2t-support.com,PL,Europe,Eastern Europe,Poland,Silesia,,Racibórz
-2.57.138.233,4,13960,targidobrydesign.com.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+2.57.138.233,4,0,targidobrydesign.com.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 87.98.239.19,4,15,taxijarocin.com.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Będzin
-2.57.137.44,4,34,tomaszskiba.com,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+2.57.137.44,4,0,tomaszskiba.com,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.137.18,4,17,topwoman.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.137.11,4,11,trans.eu,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+93.179.234.21,4,-59,ubezpieczamy-auto.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Wodzisław Śląski
 91.211.222.109,4,11,viapolonia.com,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.139.22,4,1,visegradinsight.eu,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-91.213.108.104,4,12,visitmalopolska.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Żywiec
+91.213.108.104,4,1,visitmalopolska.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Żywiec
 91.211.221.119,4,11,wadowiceonline.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-2.57.138.39,4,3,web-news.eu,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+2.57.138.39,4,0,web-news.eu,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 194.181.228.180,4,6,webd.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Katowice
 91.211.222.155,4,4,wei.org.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-91.211.222.115,4,1,wei.org.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-91.244.231.91,4,7,wertui.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Wilkowice
+91.211.222.115,4,0,wei.org.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+91.244.231.91,4,0,wertui.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Wilkowice
 2.57.137.22,4,7,willakrakowia.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.137.251,4,-3,wise-europa.eu,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-85.14.70.19,4,11,wodzislaw-slaski.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bytom
+85.14.70.19,4,-63,wodzislaw-slaski.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Bytom
 2.57.138.97,4,1,worldwarphotos.info,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 91.211.222.251,4,11,zbiam.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 2.57.136.172,4,2,zenbox.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
-91.211.222.125,4,96,zerwikaptur.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
+91.211.222.125,4,0,zerwikaptur.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Częstochowa
 109.196.55.200,4,2,zory.pl,PL,Europe,Eastern Europe,Poland,Silesia,,Czerwionka-Leszczyny

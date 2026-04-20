@@ -19,7 +19,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.94.6.26,4,-43,DNS Server: user185-94-6-26.luminet.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
 91.192.32.80,4,15840,DNS Server: user91-192-32-80.grape.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Chomutov District,Chomutov
 82.208.14.42,4,340651,DNS Server: win3.simplenet.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
-82.208.9.148,4,7,floowie.com,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+82.208.9.148,4,-2,floowie.com,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
 82.208.14.88,4,-18,grolsch.com,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
 82.208.6.9,4,76,horosvaz.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
 147.161.26.42,4,-70,ipmedia.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Chomutov District,Chomutov
@@ -29,7 +29,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 93.91.154.12,4,5,ohremedia.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
 217.75.208.140,4,9003345,Ookla Speedtest Server 4162: speedtest1.ispalliance.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Chomutov District,Chomutov
 77.95.46.31,4,-69,Ookla Speedtest Server 11187: speedtest.jaw.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Děčín District,Děčín
-77.48.29.193,4,6,over.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Litoměřice District,Třebenice
+77.48.29.193,4,0,over.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Litoměřice District,Třebenice
 82.208.6.28,4,9,pokerzive.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
 82.208.9.180,4,14,santorini.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
 82.208.6.10,4,11,trikralovasbirka.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
@@ -39,4 +39,4 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 82.208.6.131,4,-8059,worldonline.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
 82.208.6.138,4,-4056,worldonline.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
 77.95.46.10,4,4,zamekdecin.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Děčín District,Děčín
-93.91.148.122,4,6,zkovysokapec.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny
+93.91.148.122,4,-41,zkovysokapec.cz,CZ,Europe,Eastern Europe,Czechia,Ústecký kraj,Louny District,Louny

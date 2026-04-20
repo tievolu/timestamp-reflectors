@@ -9,12 +9,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 217.24.17.44,4,4,beograd.com,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 185.119.89.80,4,58,biepag.eu,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 185.119.89.156,4,7,bigcenters.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
-185.102.77.45,4,46,biroaura.co.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
+185.102.77.45,4,-2,biroaura.co.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 185.102.78.43,4,-906,bizpliz.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 79.101.48.72,4,-3,bizportal.rs,RS,Europe,Southern Europe,Serbia,Vojvodina,South Bačka,Novi Sad
 79.101.48.71,4,-9,bizportal.rs,RS,Europe,Southern Europe,Serbia,Vojvodina,South Bačka,Novi Sad
 185.241.214.11,4,-52,bor.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
-94.127.2.29,4,4,caribic.rs,RS,Europe,Southern Europe,Serbia,,,
+94.127.2.29,4,-1,caribic.rs,RS,Europe,Southern Europe,Serbia,,,
 109.111.253.74,4,598,cfkltd.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 185.119.89.160,4,5,cgoglasi.me,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 77.105.38.116,4,19,cmv.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
@@ -68,19 +68,19 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 87.250.61.31,4,24764,DNS Server: static-87-250-61-31.cpe.sn.co.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 185.102.77.137,4,1,docsisbox.com,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 37.120.193.219,4,-6,DoH server: cs-serbia,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
-188.93.126.185,4,14,donacije.rs,RS,Europe,Southern Europe,Serbia,,,
+188.93.126.185,4,-2,donacije.rs,RS,Europe,Southern Europe,Serbia,,,
 178.254.129.65,4,1,Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 185.119.89.107,4,-14,dunav.com,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 212.200.255.38,4,49,dzosecina.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
-194.146.59.24,4,5,emexmag.com,RS,Europe,Southern Europe,Serbia,,,
+194.146.59.24,4,-1,emexmag.com,RS,Europe,Southern Europe,Serbia,,,
 87.237.203.211,4,-7,enova.ba,RS,Europe,Southern Europe,Serbia,,,
 185.22.145.13,4,-1,euinfo.rs,RS,Europe,Southern Europe,Serbia,,,
-217.26.214.171,4,500,eunethosting.com,RS,Europe,Southern Europe,Serbia,,,
+217.26.214.171,4,-50664,eunethosting.com,RS,Europe,Southern Europe,Serbia,,,
 62.240.8.229,4,-11,eurocinema.rs,RS,Europe,Southern Europe,Serbia,Mačva,,Šabac
 79.175.68.105,4,743,europeanwesternbalkans.com,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 185.22.145.76,4,-7,exefeed.com,RS,Europe,Southern Europe,Serbia,,,
 194.146.59.201,4,6,fest.rs,RS,Europe,Southern Europe,Serbia,,,
-109.111.253.124,4,49,galerijamaticesrpske.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
+109.111.253.124,4,1,galerijamaticesrpske.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 62.240.9.77,4,32,grubin.rs,RS,Europe,Southern Europe,Serbia,Mačva,,Šabac
 79.175.68.79,4,10,honex.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 185.119.89.205,4,-18,hramsvetogsave.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
@@ -88,25 +88,23 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 94.127.4.219,4,5,injuriesandsuspensions.com,RS,Europe,Southern Europe,Serbia,,,
 77.105.36.191,4,2773,intersputnik.int,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 147.91.209.71,4,6,kg.ac.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
-89.216.44.8,4,-3649398,kicksta.co,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
-185.22.145.54,4,2,kkcrvenazvezda.rs,RS,Europe,Southern Europe,Serbia,,,
+185.22.145.54,4,-1,kkcrvenazvezda.rs,RS,Europe,Southern Europe,Serbia,,,
 185.119.89.200,4,-18,kladza.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
-77.105.36.149,4,820,kustendorf-filmandmusicfestival.org,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
-185.22.146.4,4,4,laguna.rs,RS,Europe,Southern Europe,Serbia,,,
+77.105.36.149,4,641,kustendorf-filmandmusicfestival.org,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
+185.22.146.4,4,-1,laguna.rs,RS,Europe,Southern Europe,Serbia,,,
 194.146.58.116,4,6,livecup.run,RS,Europe,Southern Europe,Serbia,,,
 77.105.34.180,4,391818,lutrija.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
-79.175.68.47,4,11,mascom.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
+79.175.68.47,4,3,mascom.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 89.216.122.103,4,17,maticasrpska.org.rs,RS,Europe,Southern Europe,Serbia,Vojvodina,Central Banat,Zrenjanin
-185.119.89.151,4,-1,mc.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 217.24.18.112,4,2404928,megatrend.edu.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 109.111.253.66,4,11,mibor.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 194.146.59.70,4,-12,mjuznews.com,RS,Europe,Southern Europe,Serbia,,,
 77.105.36.131,4,1805,mojacarda.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 194.146.59.202,4,14,mojbecej.rs,RS,Europe,Southern Europe,Serbia,,,
-77.105.36.174,4,646,montenegrostars.com,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
+77.105.36.174,4,1660,montenegrostars.com,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 188.93.124.72,4,-3,narodnimuzej.rs,RS,Europe,Southern Europe,Serbia,,,
 193.243.169.195,4,-14,naxi.rs,RS,Europe,Southern Europe,Serbia,,,
-77.105.36.17,4,6,nikolalepojevic5.com,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
+77.105.36.17,4,2,nikolalepojevic5.com,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 77.105.21.7,4,2,nisgazprom.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 212.200.189.49,4,-1,novakdjokovic.com,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 185.119.89.181,4,14,novisad2022.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
@@ -132,7 +130,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 194.146.59.194,4,0,pcrestoring.rs,RS,Europe,Southern Europe,Serbia,,,
 194.146.59.200,4,-12,petnica.rs,RS,Europe,Southern Europe,Serbia,,,
 79.101.48.7,4,-538387,pio.rs,RS,Europe,Southern Europe,Serbia,Vojvodina,South Bačka,Novi Sad
-185.102.77.47,4,14,plantaze.com,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
+185.102.77.47,4,-2,plantaze.com,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 95.140.123.134,4,12,poliklinikavinca.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,New Belgrade
 79.175.127.162,4,11,politikin-zabavnik.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 185.119.89.185,4,0,portomontenegro.com,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
@@ -141,41 +139,37 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.119.88.102,4,12,progdvb.com,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 185.119.89.171,4,6,pups.org.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 94.127.6.10,4,8,putevi-srbije.rs,RS,Europe,Southern Europe,Serbia,,,
-188.93.124.117,4,62,radiobeograd.rs,RS,Europe,Southern Europe,Serbia,,,
-87.237.200.6,4,3,relogik.com,RS,Europe,Southern Europe,Serbia,,,
+188.93.124.117,4,1,radiobeograd.rs,RS,Europe,Southern Europe,Serbia,,,
+87.237.200.6,4,1,relogik.com,RS,Europe,Southern Europe,Serbia,,,
 79.101.48.62,4,19,republika.rs,RS,Europe,Southern Europe,Serbia,Vojvodina,South Bačka,Novi Sad
 79.101.48.63,4,4,republika.rs,RS,Europe,Southern Europe,Serbia,Vojvodina,South Bačka,Novi Sad
 79.175.68.3,4,-16,rosalux.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 185.119.89.72,4,22,rtk.co.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
-185.119.89.230,4,36,rtk.co.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
+185.119.89.230,4,1,rtk.co.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 77.105.21.18,4,839,rts.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 212.200.255.139,4,5,rtv.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
-109.245.215.226,4,-104621,sajam.net,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 185.119.89.180,4,3,sajam.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 194.146.56.73,4,1,seadancefestival.me,RS,Europe,Southern Europe,Serbia,,,
-188.93.124.214,4,13,seadancefestival.me,RS,Europe,Southern Europe,Serbia,,,
+188.93.124.214,4,0,seadancefestival.me,RS,Europe,Southern Europe,Serbia,,,
 217.24.18.122,4,5,sk.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 185.119.88.254,4,906,smedia.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 95.140.126.155,4,-28,soccersportal.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 212.200.255.222,4,-10489,spc.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 185.119.88.157,4,9,stygiansoftware.com,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 62.240.8.250,4,0,subotica.rs,RS,Europe,Southern Europe,Serbia,Mačva,,Šabac
-185.119.88.50,4,0,suerf.org,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 77.105.36.176,4,-196,tecasi.co.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 185.119.89.153,4,13,tesla-museum.org,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
-62.240.9.53,4,4,tippnet.rs,RS,Europe,Southern Europe,Serbia,Mačva,,Šabac
+62.240.9.53,4,-38,tippnet.rs,RS,Europe,Southern Europe,Serbia,Mačva,,Šabac
 38.180.17.84,4,-4,together23.at,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 109.111.253.71,4,12,tomalizvornik.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 62.240.9.58,4,0,traktortom.rs,RS,Europe,Southern Europe,Serbia,Mačva,,Šabac
 77.105.36.120,4,19,transparentnost.org.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
-185.102.77.42,4,-183,trenkic.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 185.119.89.184,4,11,tropicanasummer.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 77.105.36.90,4,1172,uscarriers.net,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 194.146.56.137,4,10,uspesnazena.com,RS,Europe,Southern Europe,Serbia,,,
 185.119.89.100,4,38,videomedeja.org,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 77.105.36.155,4,804,viderma.co.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 185.119.89.199,4,25,vidovdan.org,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
-46.40.6.152,4,-5,vmmi.org,RS,Europe,Southern Europe,Serbia,Vojvodina,South Bačka,Bečej
 185.119.89.23,4,14,vojvodina.gov.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 109.111.252.13,4,13,voxellab.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 94.127.4.166,4,13,vozdovac.rs,RS,Europe,Southern Europe,Serbia,,,
@@ -183,4 +177,4 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.119.88.60,4,7,webcaffe.ws,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 185.119.91.82,4,1,zimad.com,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 185.119.89.176,4,12,zlatnistandard.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
-185.102.77.140,4,356,zuov.gov.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
+185.102.77.140,4,-465,zuov.gov.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade

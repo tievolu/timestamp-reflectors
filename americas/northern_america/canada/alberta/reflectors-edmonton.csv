@@ -1,6 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 198.161.96.233,4,33,camacdonald.com,CA,Americas,Northern America,Canada,Alberta,,Edmonton
-72.142.145.36,4,6,cbabc.org,CA,Americas,Northern America,Canada,Alberta,,Edmonton
+72.142.145.36,4,47,cbabc.org,CA,Americas,Northern America,Canada,Alberta,,Edmonton
 82.197.198.205,4,-3,DNS Server: 82-197-198-205.dsl.cambrium.nl,CA,Americas,Northern America,Canada,Alberta,,Edmonton
 50.65.169.147,4,17021191,DNS Server: S0106000db9480740.ed.shawcable.net,CA,Americas,Northern America,Canada,Alberta,,Edmonton
 198.161.96.232,4,-34,eqtraders.com,CA,Americas,Northern America,Canada,Alberta,,Edmonton
@@ -10,4 +10,3 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 209.115.181.110,4,18,Ookla Speedtest Server 15736: speedtest.switch.ca,CA,Americas,Northern America,Canada,Alberta,,Edmonton
 208.77.198.36,4,281104,Ookla Speedtest Server 22773: speedtest.wolfpaw.net,CA,Americas,Northern America,Canada,Alberta,,Edmonton
 129.128.216.10,4,1,openeducationalberta.ca,CA,Americas,Northern America,Canada,Alberta,,Edmonton
-24.109.102.114,4,-1052,outdoorsmenforum.ca,CA,Americas,Northern America,Canada,Alberta,,Edmonton

@@ -1,10 +1,10 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 153.126.217.67,4,-9,30min.jp,JP,Asia,Eastern Asia,Japan,Aichi,,
-153.126.176.121,4,2,artemisquartz.com,JP,Asia,Eastern Asia,Japan,Aichi,,
-210.196.200.173,4,5,atca.info,JP,Asia,Eastern Asia,Japan,Aichi,,Toyota
+153.126.176.121,4,-2,artemisquartz.com,JP,Asia,Eastern Asia,Japan,Aichi,,
+210.196.200.173,4,2,atca.info,JP,Asia,Eastern Asia,Japan,Aichi,,Toyota
 153.126.180.160,4,-6,atdot.net,JP,Asia,Eastern Asia,Japan,Aichi,,
 153.126.180.191,4,-1,bea-net.com,JP,Asia,Eastern Asia,Japan,Aichi,,
-153.126.191.106,4,4,chinzei-gakuin.jp,JP,Asia,Eastern Asia,Japan,Aichi,,
+153.126.191.106,4,-2,chinzei-gakuin.jp,JP,Asia,Eastern Asia,Japan,Aichi,,
 153.126.177.103,4,-7,cocoloba.jp,JP,Asia,Eastern Asia,Japan,Aichi,,
 125.53.88.66,4,-20,ditgroup.jp,JP,Asia,Eastern Asia,Japan,Aichi,,Toyota
 223.29.51.118,4,-2146872952,DNS Server: 223-29-51-118.dc.ctc.ad.jp,JP,Asia,Eastern Asia,Japan,Aichi,,Nagoya
@@ -13,7 +13,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 153.126.186.223,4,13,dokushojin.com,JP,Asia,Eastern Asia,Japan,Aichi,,
 223.29.45.36,4,-284,eei.jp,JP,Asia,Eastern Asia,Japan,Aichi,,Nagoya
 153.126.187.204,4,-7,fben.jp,JP,Asia,Eastern Asia,Japan,Aichi,,
-153.126.189.228,4,16,figsoku.net,JP,Asia,Eastern Asia,Japan,Aichi,,
+153.126.189.228,4,0,figsoku.net,JP,Asia,Eastern Asia,Japan,Aichi,,
 153.126.179.203,4,-7,fmnagasaki.co.jp,JP,Asia,Eastern Asia,Japan,Aichi,,
 202.236.168.58,4,400,fujita-hu.ac.jp,JP,Asia,Eastern Asia,Japan,Aichi,,Nagoya
 113.146.131.98,4,-3,housetec.co.jp,JP,Asia,Eastern Asia,Japan,Aichi,,Kasugai
@@ -32,5 +32,5 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 153.126.186.71,4,19,romanticmura.com,JP,Asia,Eastern Asia,Japan,Aichi,,
 183.180.26.19,4,21,transformsite.com,JP,Asia,Eastern Asia,Japan,Aichi,,Tōkai
 210.196.200.163,4,247,tsugarubrand.jp,JP,Asia,Eastern Asia,Japan,Aichi,,Toyota
-153.126.186.40,4,3,yoshino-gypsum.com,JP,Asia,Eastern Asia,Japan,Aichi,,
+153.126.186.40,4,-1,yoshino-gypsum.com,JP,Asia,Eastern Asia,Japan,Aichi,,
 202.150.54.8,4,1,zoo.co.jp,JP,Asia,Eastern Asia,Japan,Aichi,,Nagoya

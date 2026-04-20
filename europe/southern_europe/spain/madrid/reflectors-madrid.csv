@@ -3,7 +3,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 80.28.111.60,4,3192,ajuntamentdebenicarlo.org,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 5.134.119.78,4,14,albergdeberga.cat,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.33.166.166,4,-9,alberguescaminosantiago.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-178.211.133.32,4,6,alexrovira.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+178.211.133.32,4,0,alexrovira.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 79.137.44.102,4,-4,alexwun.net,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.12,4,-7,alviflex.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.63,4,1,amigastore.eu,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
@@ -24,18 +24,18 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 5.196.164.5,4,-2,axitea.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 185.195.98.157,4,50,ayuntamientoboadilladelmonte.org,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 154.56.135.244,4,-210,azteca.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-212.85.38.24,4,467,bellezapura.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+212.85.38.24,4,1243,bellezapura.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.22,4,8,bergaresort.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.51,4,4,biblogtecarios.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-213.0.77.134,4,29,bmwmotos.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+213.0.77.134,4,0,bmwmotos.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.16,4,620,cae.net,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-78.136.73.164,4,12,campoborja.net,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-5.196.164.65,4,30,casinounique.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+78.136.73.164,4,0,campoborja.net,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+5.196.164.65,4,-2,casinounique.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.48,4,-2,castillodecanena.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 62.97.84.197,4,36,catala-reinon.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.33.163.234,4,7,catedraldeburgos.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 185.237.234.130,4,15,cerotec.net,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
-178.211.133.30,4,6,ciarglobal.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+178.211.133.30,4,0,ciarglobal.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 78.136.73.37,4,1,cibervoluntarios.org,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 185.2.151.134,4,822111,ciudadreal.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 95.60.250.151,4,-71218,cixug.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
@@ -43,20 +43,21 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 178.211.133.9,4,-6,claudioinacio.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 185.237.235.214,4,1,clinicaferrusbratos.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
 201.46.112.23,4,-6,clinicatambre.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
-193.147.107.22,4,25,cliplab.org,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcorcón
+193.147.107.22,4,-1,cliplab.org,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcorcón
 88.84.88.231,4,-1,cmtbc.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-31.47.76.124,4,6,cnta.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+31.47.76.124,4,0,cnta.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 34.175.244.2,4,-7,colanguage.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.56,4,-3,colchonsmartson.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 185.207.224.10,4,74,computeremuzone.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
-154.58.193.199,4,15,crm.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+154.58.193.199,4,-2,crm.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 201.46.113.51,4,2,curiosfera-historia.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
-178.211.133.72,4,23,dantealighieriasturias.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-34.175.177.228,4,91,decoratrix.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+178.211.133.72,4,2,dantealighieriasturias.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+34.175.177.228,4,-10,decoratrix.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 185.195.97.29,4,-103,demoagro.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 201.46.112.204,4,0,democraciarealya.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
-178.211.133.8,4,4,dexway.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+178.211.133.8,4,-1,dexway.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 217.18.33.31,4,5,diamundialautismo.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+178.211.133.34,4,0,diamundialautismo.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 34.175.78.19,4,14,diariomotor.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 45.130.18.207,4,-22,directivosyempresas.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
 81.45.138.117,4,32889,DNS Server: 117.red-81-45-138.staticip.rima-tde.net,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
@@ -87,10 +88,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 5.134.118.198,4,-2,DoH server: dnscry.pt-madrid-ipv4,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 194.53.137.2,4,-2,DoH server: es-ma.foxyfy.net,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.53,4,7,doofinder.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-154.56.135.128,4,6435,ecopilas.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+154.56.135.128,4,1399,ecopilas.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.26,4,-4,edufichas.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 151.101.134.133,4,1,elcorreoweb.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-151.101.133.124,4,10,elnaturalista.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+151.101.133.124,4,0,elnaturalista.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 185.161.98.69,4,-16,enertic.org,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 62.36.228.50,4,543996,estamosrodando.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.33.163.62,4,-8,fedoraforum.org,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
@@ -103,20 +104,19 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 201.46.113.79,4,-32,formaciononline.eu,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
 185.47.128.108,4,8,foromarketing.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 93.95.208.22,4,20,forumlibertas.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
-208.85.17.238,4,9,fpdeseo.org,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+208.85.17.238,4,1,fpdeseo.org,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.33.161.97,4,7,fronterad.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-80.28.51.242,4,47,fuhem.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-154.56.134.69,4,-1220,fundaciondelcorazon.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+80.28.51.242,4,33,fuhem.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 185.37.226.87,4,-16,fundaciovilacasas.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 93.95.208.138,4,6,futuroelectrico.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
 201.46.113.29,4,32,gamestrategies.io,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
-5.57.226.44,4,47,giftcampaign.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-5.57.226.43,4,8,giftcampaign.fr,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+5.57.226.44,4,1,giftcampaign.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+5.57.226.43,4,0,giftcampaign.fr,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 5.134.116.16,4,28,ginernet.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-185.195.96.114,4,3,ginferreradv.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+185.195.96.114,4,-39,ginferreradv.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 83.175.202.179,4,-7,gira.net,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-185.103.37.138,4,10,gocco.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-154.56.134.55,4,3861,gominolasdepetroleo.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+185.103.37.138,4,0,gocco.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+154.56.134.55,4,895,gominolasdepetroleo.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.33.165.201,4,12,granvelada.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 217.130.24.17,4,-7,grupoplasticosferro.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 185.22.92.224,4,1,grupotrixder.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
@@ -126,18 +126,19 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 34.175.137.197,4,0,hofmann-bcn.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.28,4,1,hugorodriguez.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.58,4,11,iberamia.org,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+185.161.98.65,4,1,icamalaga.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 185.52.16.138,4,4,ielts.ca,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
 178.211.133.43,4,-2,iesbenaljatib.org,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 212.222.42.101,4,-5,ikuska.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 185.195.99.30,4,-57,imdea.org,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 93.95.208.92,4,5,immigrationspain.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
-212.222.42.94,4,54,interhotel.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+212.222.42.94,4,0,interhotel.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 94.198.46.100,4,-6,iosmac.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.33.160.63,4,-9,isquad.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.39,4,-6,itramed.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 5.22.218.121,4,-16038,iucncongress2025.org,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 185.237.234.6,4,-5,javicalvofotografo.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
-178.211.133.15,4,14,jesushuertadesoto.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+178.211.133.15,4,0,jesushuertadesoto.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 5.134.116.203,4,6,jorgejuanjoyeros.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 154.58.198.161,4,5,juanrevenga.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.17,4,2,juantorreslopez.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
@@ -157,7 +158,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 213.236.2.10,4,1,lucushost.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
 151.101.135.10,4,2,lumen.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.37,4,17,maisa.ai,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-213.0.77.132,4,79,majorcabritish.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+213.0.77.132,4,1,majorcabritish.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.33.160.204,4,-30,marinador.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.69,4,10,mariomarini.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.14,4,-2,mariosteopata.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
@@ -171,7 +172,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 201.46.112.246,4,46,miposicionamientoweb.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
 62.97.82.34,4,-33,mitula.mx,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 34.175.138.13,4,3,mlsjournals.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-62.97.84.20,4,5,moduslaborandi.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+62.97.84.20,4,21118,moduslaborandi.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 93.95.208.85,4,7,motosan.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
 5.134.118.63,4,-2,muebleslluesma.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 93.95.208.60,4,2,nadirpromociones.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
@@ -181,7 +182,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 176.97.72.231,4,2,nphys.ru,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.70,4,6,npunto.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 185.161.98.3,4,-58,nutfruit.org,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-178.33.160.224,4,4,oafifoundation.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+178.33.160.224,4,-1,oafifoundation.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 5.145.169.23,4,-5,Ookla Speedtest Server 8109: speedtest.comvive.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 185.23.36.55,4,-18,Ookla Speedtest Server 34330: speedtest01.tedra.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Velilla de San Antonio
 5.188.182.11,4,-11,Ookla Speedtest Server 37061: speedtest-mad.melbicom.net,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
@@ -194,7 +195,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 94.131.1.10,4,-22640,Ookla Speedtest Server 68894: speed.netassist.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 45.147.251.46,4,8,Ookla Speedtest Server 69756: speedtest.eu-md.kamatera.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 143.20.129.9,4,-15,Ookla Speedtest Server 72738: speedtest.vpsfree.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-185.93.182.243,4,2,ourfuturerailway.hk,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+185.93.182.243,4,-1,ourfuturerailway.hk,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 5.196.164.90,4,18,padelstar.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 201.46.113.81,4,15,palabraderunner.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
 178.33.164.118,4,1,pastaspada.pro,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
@@ -207,16 +208,16 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 178.211.133.50,4,36,portalparados.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 93.95.208.102,4,-4,pre-textos.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
 154.56.135.65,4,3403,presos.org.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-38.180.53.107,4,54,profvibor.ru,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-185.103.39.249,4,72,programacion.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+38.180.53.107,4,0,profvibor.ru,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+185.103.39.249,4,0,programacion.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 188.213.5.160,4,28,protegeles.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.23,4,38,psikids.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-5.188.183.186,4,7,qxinfo.in,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+5.188.183.186,4,858759,qxinfo.in,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 91.132.103.5,4,-8,raiolanetworks.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
 45.130.18.243,4,3,recetasdeescandalo.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
 178.211.133.61,4,11,recursosmarketing.net,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.40,4,-21,restauranteelkano.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-80.28.149.10,4,5,revistalatinacs.org,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+80.28.149.10,4,28,revistalatinacs.org,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 212.85.39.85,4,53,revistavanityfair.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 62.36.229.31,4,8,richmediastudio.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 185.207.224.5,4,28,rinzewind.org,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
@@ -226,19 +227,18 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 93.95.208.11,4,11,saludmentalperinatal.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
 178.33.163.213,4,-3,sat.services,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.77,4,8,sb-hotels.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-178.211.133.60,4,20,seff.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+178.211.133.60,4,0,seff.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 201.46.112.205,4,-8,siliconnews.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
 178.211.133.27,4,-8,smart-lighting.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 93.95.208.122,4,28,sobreleyendas.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
 201.46.113.90,4,-8,socialancer.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
-185.195.96.254,4,-3028,somosmalasana.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.33.167.117,4,13,sosracisme.org,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 93.95.208.10,4,29,spg-pack.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
 5.57.226.103,4,16,stackscale.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 5.57.226.105,4,-11,stackscale.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 34.175.171.236,4,10,stephouse.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.44,4,10,surfingtheplanet.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-178.33.165.168,4,2,tablaolosgallos.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+178.33.165.168,4,-1,tablaolosgallos.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 201.46.112.101,4,10,taiarts.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
 178.211.133.94,4,13,teatrodelbarrio.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 193.116.165.101,4,75,tecnologia-ciencia-educacion.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
@@ -253,12 +253,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 178.211.133.19,4,28,torresdental.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 213.236.2.21,4,23,trabada.gal,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
 45.130.16.8,4,11,transparencia.org.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
-178.211.133.62,4,29,transparencia.org.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+178.211.133.62,4,0,transparencia.org.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.7,4,3,trebol-apuestas.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 212.222.42.100,4,9,turincon.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-178.33.166.103,4,8,turismodemurcia.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+178.33.166.103,4,-1,turismodemurcia.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 213.0.33.12,4,-6,turismojerez.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-213.0.33.71,4,43,turismojerez.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+213.0.33.71,4,11,turismojerez.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 213.236.2.20,4,14,tuxiaomi.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
 195.235.183.14,4,10,udllibros.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Pozuelo de Alarcón
 154.44.186.99,4,-19,ultimainformatica.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
@@ -266,7 +266,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 34.175.100.149,4,15,urbidermis.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 45.130.16.6,4,9,vacunas.org,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas
 185.99.184.229,4,6,valdemoro.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-91.149.243.116,4,31,vestalfamily.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+91.149.243.116,4,22487,vestalfamily.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.10,4,17,vetroquick.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.33.164.211,4,6,vidasana.org,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 85.208.114.8,4,-185,videoriders.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
@@ -274,11 +274,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.195.98.117,4,14,visitaboadilla.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.47,4,14,vivadoo.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 185.195.98.40,4,20,vivecamino.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-5.134.119.90,4,28,vivirsinplastico.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-195.12.50.18,4,12,warninglabelgenerator.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+5.134.119.90,4,0,vivirsinplastico.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
+195.12.50.18,4,0,warninglabelgenerator.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 212.163.185.1,4,1203,werfen.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.211.133.18,4,6,xcatalunya.cat,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 176.97.72.83,4,2,xn--80aaabf5aevz9brb.xn--p1ai,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 178.33.167.168,4,18,youbarcelona.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
-185.22.92.19,4,-19504,yumas.com,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Madrid
 201.46.112.85,4,3,yutmovil.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Alcobendas

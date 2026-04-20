@@ -1,5 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-159.148.27.60,4,13,0o.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
+159.148.27.60,4,1,0o.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 87.110.236.44,4,6,13.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 37.233.83.57,4,29,antibot.cloud,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 212.74.231.126,4,9,apihost.ru,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
@@ -10,7 +10,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 31.128.32.203,4,-1,cashboom.ru,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 77.73.71.61,4,-1,concertos.live,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 83.222.20.95,4,7,contentmonster.ru,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
-84.237.232.168,4,13,daba.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
+84.237.232.168,4,3,daba.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 195.13.181.150,4,31,dnipro-m.ua,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 80.250.56.119,4,-2,DNS Server: 80.250.56.119.static.nano.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 212.142.107.7,4,-2,DNS Server: balticom-142-107-7.balticom.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
@@ -35,24 +35,23 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 81.198.74.204,4,-8,dogs.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 195.123.212.200,4,-4,DoH server: dnscry.pt-riga-ipv4,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 159.148.94.36,4,-5,drossinternets.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
-91.90.253.135,4,33,goleks.com,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
+91.90.253.135,4,2,goleks.com,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 91.224.13.22,4,-5,gudriem.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 185.81.129.96,4,-8,hrono.ru,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 185.81.129.187,4,-6,imidge.com.ua,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
-81.198.87.148,4,4708,inttrans.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
-195.123.210.221,4,2,lastgame.pro,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
+81.198.87.148,4,19,inttrans.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
+195.123.210.221,4,-1,lastgame.pro,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 87.110.185.81,4,2,latgaleslaiks.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 81.198.74.212,4,6,lddk.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 77.73.235.147,4,1,lensez.info,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 80.232.240.33,4,-6,li.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
-159.148.57.35,4,3,lma.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
-84.237.244.180,4,4381809,lnvm.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
+84.237.244.180,4,6220969,lnvm.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 81.94.232.122,4,-3,madona.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 81.198.74.243,4,-1,malus.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 37.203.36.72,4,1279805,mapofmemory.org,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 195.123.209.234,4,-1,mos-parket.ru,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
-92.118.148.129,4,45,moscow-forest.ru,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
-83.99.196.240,4,27881,moust.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
+92.118.148.129,4,-2,moscow-forest.ru,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
+83.99.196.240,4,8447,moust.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 185.81.128.24,4,-4967,newsrbk.ru,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 81.198.194.83,4,2,niid.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 37.233.82.2,4,4,okis.ru,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
@@ -81,8 +80,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 81.198.194.91,4,7,stars.gov.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 81.198.194.79,4,30,studyinlatvia.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 159.148.68.36,4,-24,telegraf.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
-84.38.137.54,4,5,telegraf.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
-195.123.210.10,4,2,topgir.com.ua,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
+84.38.137.54,4,-4,telegraf.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
+195.123.210.10,4,66,topgir.com.ua,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 195.123.210.44,4,5,torrent-gamer.pro,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 213.21.217.70,4,2546,transportweekly.com,LV,Europe,Northern Europe,Latvia,Rīga,,Riga
 80.232.240.92,4,22,valmieraszinas.lv,LV,Europe,Northern Europe,Latvia,Rīga,,Riga

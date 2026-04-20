@@ -14,4 +14,4 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.224.171.16,4,2,Ookla Speedtest Server 56250: speedtest.expres.cc,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Vynohradiv
 195.43.71.11,4,9,Ookla Speedtest Server 71585: speedtest.camelot.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Mukachevo
 95.46.73.220,4,-22,rada-uzhgorod.gov.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Uzhhorod
-212.1.100.6,4,7,zakarpat-rada.gov.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Uzhhorod
+212.1.100.6,4,-9,zakarpat-rada.gov.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Uzhhorod

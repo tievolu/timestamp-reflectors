@@ -7,7 +7,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 80.242.34.175,4,-1,DNS Server: poxiqueo.gaya.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Martin
 87.197.174.186,4,3,DNS Server: static-bband-186.87-197-174.telecom.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Martin
 213.81.188.1,4,-8,DNS Server: stip-static-1.213-81-188.telecom.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Lokca
-95.105.255.169,4,647,ekomax.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Liptovský Ján
+95.105.255.169,4,-67,ekomax.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Liptovský Ján
 195.28.72.173,4,-68,ftv.com,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Žilina
 185.254.251.6,4,-4,hzs.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Liptovský Hrádok
 213.81.206.234,4,-8,kajotintacto.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Skalité
@@ -19,7 +19,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 31.170.64.156,4,-1,Ookla Speedtest Server 27343: speedtest.tesatel.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Žilina
 95.105.255.201,4,534,Ookla Speedtest Server 28305: srv3.profi-net.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Liptovský Ján
 185.242.56.5,4,0,Ookla Speedtest Server 45666: speedtest.linustep.eu,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Kysucké Nové Mesto
-95.105.255.178,4,59,parksnow.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Liptovský Ján
+95.105.255.178,4,479,parksnow.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Liptovský Ján
 195.28.72.155,4,-47,sashe.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Žilina
 158.193.213.24,4,-55,transcom-conference.com,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Žilina
 193.87.80.169,4,9,ujs.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Martin

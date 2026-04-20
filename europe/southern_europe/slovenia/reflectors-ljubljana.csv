@@ -15,7 +15,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 86.61.64.147,4,5254,DNS Server: BSN-61-64-147.static.siol.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
 193.77.150.69,4,-1,DNS Server: BSN-77-150-69.static.siol.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
 193.77.216.22,4,17099,DNS Server: BSN-77-216-22.static.siol.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
-193.95.221.141,4,136721,DNS Server: BSN-95-221-141.static.siol.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+193.95.221.141,4,45325376,DNS Server: BSN-95-221-141.static.siol.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
 193.95.248.128,4,48206,DNS Server: BSN-95-248-128.static.siol.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
 85.10.23.143,4,-3,DNS Server: cpe-85-10-23-143.static.amis.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
 85.10.33.221,4,169629,DNS Server: cpe-85-10-33-221.static.amis.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
@@ -27,19 +27,19 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 145.14.14.104,4,-24,epp.eu,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
 84.255.206.8,4,12,eternallybored.org,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
 145.14.15.183,4,21,itena.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
-93.103.221.24,4,2,jskd.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+93.103.221.24,4,-1,jskd.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
 193.2.14.29,4,-6,ki.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
 93.103.220.142,4,4723,kranjska-cebela.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
-84.255.193.153,4,6,ledlenser.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+84.255.193.153,4,1,ledlenser.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
 95.87.191.249,4,8,ment.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
 93.103.4.100,4,-31,mountvacation.com,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
-93.103.159.20,4,11293184,nopeeking.link,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+93.103.159.20,4,8712476,nopeeking.link,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
 93.103.5.189,4,-14,ognjisce.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
 84.255.195.242,4,-3,Ookla Speedtest Server 11367: speedtest.t-2.net,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
 212.13.248.166,4,-5,optius.com,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
-145.14.10.73,4,81,streemba.com,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+145.14.10.73,4,-1,streemba.com,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
 89.212.118.196,4,26008,szd.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
 91.185.212.26,4,268,turisticna-zveza.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
 193.2.120.10,4,16,ung.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
-153.5.60.16,4,14,varninainternetu.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
-145.14.14.25,4,209,vsezaodpadke.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+153.5.60.16,4,-76,varninainternetu.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana
+145.14.14.25,4,-400,vsezaodpadke.si,SI,Europe,Southern Europe,Slovenia,Ljubljana,,Ljubljana

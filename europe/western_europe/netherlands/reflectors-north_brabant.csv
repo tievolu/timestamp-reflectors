@@ -1,7 +1,7 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-213.34.63.24,4,56,beeldhouwwinkel.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Tilburg
+213.34.63.24,4,-3,beeldhouwwinkel.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Tilburg
 217.100.190.174,4,43,berthub.eu,NL,Europe,Western Europe,Netherlands,North Brabant,,'s-Hertogenbosch
-185.150.186.113,4,11,crealev.com,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
+185.150.186.113,4,-1,crealev.com,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
 86.87.119.140,4,31411,devroom.io,NL,Europe,Western Europe,Netherlands,North Brabant,,Oirschot
 212.178.92.10,4,1,directa.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Waalwijk
 86.107.187.184,4,-2,DNS Server: 566bbbb8.static.cust.trined.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Vorstenbosch
@@ -19,34 +19,34 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 212.61.68.205,4,-100,ebericht.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Breda
 185.3.105.24,4,-6,ecicultuurfabriek.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Tilburg
 46.17.9.111,4,3,flevonice.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Bergen op Zoom
-188.64.138.23,4,4,girlswhomagazine.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Drongelen
+188.64.138.23,4,0,girlswhomagazine.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Drongelen
 185.75.159.104,4,3,groasis.com,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
 146.19.102.46,4,-15,growclub.life,NL,Europe,Western Europe,Netherlands,North Brabant,,Eersel
 188.64.138.54,4,-6,hoogbegaafdennu.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Drongelen
-94.103.156.210,4,456,ivo.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Steenbergen
+94.103.156.210,4,810,ivo.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Steenbergen
 46.17.8.70,4,-8,jbproductions.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Bergen op Zoom
 81.4.72.117,4,-5,jobesports.com,NL,Europe,Western Europe,Netherlands,North Brabant,,Nieuwkuijk
-46.17.9.7,4,62,kunststofraamkozijn.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Bergen op Zoom
+46.17.9.7,4,0,kunststofraamkozijn.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Bergen op Zoom
 185.150.185.17,4,-10,lecturis.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
 81.173.59.44,4,-4,levix.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,'s-Hertogenbosch
 188.64.138.5,4,4,mbhockeyschool.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Drongelen
 83.137.196.66,4,1,miranda.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Helmond
 188.64.138.7,4,-1,mobycon.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Drongelen
 188.64.138.25,4,1,ncfs.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Drongelen
-185.150.187.61,4,8,novadic-kentron.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
+185.150.187.61,4,0,novadic-kentron.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
 79.143.216.198,4,2,onkpoker.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Breda
 94.142.241.148,4,0,Ookla Speedtest Server 34666: speed2.suitit.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
-188.64.138.30,4,3,plantlab.com,NL,Europe,Western Europe,Netherlands,North Brabant,,Drongelen
+188.64.138.30,4,0,plantlab.com,NL,Europe,Western Europe,Netherlands,North Brabant,,Drongelen
 46.17.9.112,4,7,princefibre.com,NL,Europe,Western Europe,Netherlands,North Brabant,,Bergen op Zoom
 213.125.4.244,4,4,rc.org,NL,Europe,Western Europe,Netherlands,North Brabant,,Roosendaal
 81.4.72.21,4,5,rietveldlicht.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Nieuwkuijk
-81.4.72.136,4,63,saltro.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Nieuwkuijk
-46.17.8.90,4,25,sam-illustraties.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Bergen op Zoom
+81.4.72.136,4,1,saltro.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Nieuwkuijk
+46.17.8.90,4,1,sam-illustraties.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Bergen op Zoom
 46.17.9.132,4,23,schiedam.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Bergen op Zoom
-46.17.9.74,4,20,siltechcables.com,NL,Europe,Western Europe,Netherlands,North Brabant,,Bergen op Zoom
+46.17.9.74,4,0,siltechcables.com,NL,Europe,Western Europe,Netherlands,North Brabant,,Bergen op Zoom
 185.3.105.29,4,19,slaapkamerconcurrent.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Tilburg
 185.233.212.37,4,9,steden.net,NL,Europe,Western Europe,Netherlands,North Brabant,,Someren
-185.150.186.200,4,4,stichting-leerkracht.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
+185.150.186.200,4,0,stichting-leerkracht.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
 176.74.234.37,4,250,vankaathoven.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Eindhoven
 81.4.72.120,4,13,veluwespecialist.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Nieuwkuijk
 185.3.105.13,4,3,vnrt.nl,NL,Europe,Western Europe,Netherlands,North Brabant,,Tilburg

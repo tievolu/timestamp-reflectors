@@ -16,7 +16,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 177.107.191.62,4,-17,DNS Server: akamai-62.brcentral.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Aparecida de Goiânia
 45.237.120.123,4,7,DNS Server: tbn-120-123.tbntelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Jatai
 191.33.230.226,4,-9,DNS Server: zema.static.gvt.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,
-200.17.56.16,4,2,ifg.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+200.17.56.16,4,12,ifg.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
 186.233.138.18,4,5,ijc.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Aragoiânia
 131.108.116.20,4,0,Ookla Speedtest Server 6313: sp1.soucbnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Catalão
 177.84.43.226,4,-23,Ookla Speedtest Server 8405: speedtest.linenet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Padre Bernardo
@@ -175,7 +175,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 189.50.40.124,4,-2,Ookla Speedtest Server 59652: gyn2.total.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goianira
 187.61.120.29,4,9,Ookla Speedtest Server 59902: lifein.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,São Luís de Montes Belos
 45.187.166.194,4,25,Ookla Speedtest Server 59978: speedtest.thefiber.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
-170.82.76.21,4,253,Ookla Speedtest Server 59978: speedtest.thefiber.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
+170.82.76.21,4,-9,Ookla Speedtest Server 59978: speedtest.thefiber.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
 45.175.147.8,4,-5,Ookla Speedtest Server 60318: spt1.navegartelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Aparecida de Goiânia
 190.124.55.18,4,-27,Ookla Speedtest Server 60346: velocidade.netfibrago.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Quirinópolis
 143.208.246.7,4,6,Ookla Speedtest Server 60537: speedtest.opyt.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Taquaral de Goiás
@@ -228,9 +228,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.182.75.163,4,5,Ookla Speedtest Server 72213: speedtest.tcg.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
 138.94.43.167,4,42276,Ookla Speedtest Server 72326: speedtest.vettatelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
 45.237.140.14,4,-10,Ookla Speedtest Server 72739: teste.plenotelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Campinorte
-138.97.25.109,4,333,Ookla Speedtest Server: ookla.owlfiber.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Jussara
-200.9.127.30,4,178789,Ookla Speedtest Server: st.turboconect.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Nerópolis
-131.161.48.2,4,3,Ookla Speedtest Server: velocimetroala.lvnetwork.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goianésia
+138.97.25.109,4,-1,Ookla Speedtest Server: ookla.owlfiber.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Jussara
+200.9.127.30,4,911328,Ookla Speedtest Server: st.turboconect.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Nerópolis
+131.161.48.2,4,-8,Ookla Speedtest Server: velocimetroala.lvnetwork.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goianésia
 138.204.116.11,4,3,sisprov.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Rio Verde
 187.32.183.73,4,66,ubc.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Goiânia
 131.221.77.90,4,2479,unirv.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Rio Verde

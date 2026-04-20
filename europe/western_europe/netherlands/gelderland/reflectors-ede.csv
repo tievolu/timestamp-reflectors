@@ -1,12 +1,12 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-185.233.175.181,4,22,1001activiteiten.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
+185.233.175.181,4,-1,1001activiteiten.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
 213.136.4.209,4,13,brilliantclassics.com,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
-185.233.172.57,4,43,bruidshoek.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
+185.233.172.57,4,4,bruidshoek.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
 191.96.96.36,4,-15,chatkracht.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
 191.96.96.82,4,-1,kredietbanknederland.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
 185.233.172.86,4,-5,lumeco.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
 191.96.96.39,4,1,mijnhomepage.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
-191.96.96.48,4,5,mijnhomepage.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
+191.96.96.48,4,0,mijnhomepage.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
 191.96.96.50,4,16,moerstaal.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
 213.136.0.188,4,1,moppen.net,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
 185.233.175.140,4,-2,movares.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
@@ -15,11 +15,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 193.109.122.5,4,19,sixxs.net,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
 191.96.96.19,4,12,somt.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
 185.233.175.190,4,0,statiegeldnederland.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
-191.96.96.80,4,23,stophier.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
+191.96.96.80,4,0,stophier.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
 185.233.175.236,4,12,theorie-leren.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
-191.96.96.155,4,2,tuinmeubelsale.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
+191.96.96.155,4,0,tuinmeubelsale.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
 185.233.172.56,4,21,vandenhul.com,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
-185.233.172.33,4,3,vanderlindenonderhoud.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
+185.233.172.33,4,8,vanderlindenonderhoud.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
 185.233.172.70,4,7,vermeerdelft.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
 213.136.4.197,4,15,viviqggz.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede
 191.96.96.105,4,30,vrijspreker.nl,NL,Europe,Western Europe,Netherlands,Gelderland,,Ede

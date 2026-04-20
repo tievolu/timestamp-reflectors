@@ -4,7 +4,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 176.102.128.154,4,42637,DNS Server: 154.128.102.176.client.nordic.tel,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Ústí nad Orlicí District,Lanškroun
 46.13.148.44,4,-4,DNS Server: 46-13-148-44.customers.tmcz.cz,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Pardubice District,Opatovice nad Labem
 82.144.144.47,4,3371,DNS Server: 47-144.gtt-net.cz,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Ústí nad Orlicí District,Česká Třebová
-176.102.137.49,4,-89,DNS Server: 49.137.102.176.client.nordic.tel,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Ústí nad Orlicí District,Lanškroun
 46.30.68.4,4,526,DNS Server: 68wadsl4.becolink.cz,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Pardubice District,Trnávka
 46.36.41.78,4,-8,DNS Server: 78-41.hukot.cloud,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Ústí nad Orlicí District,Řetová
 82.144.144.46,4,8146152,DNS Server: ct.elfranc.net,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Ústí nad Orlicí District,Česká Třebová
@@ -13,9 +12,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 85.163.41.98,4,79201000,DNS Server: lhoty1ap5a.chobex.cz,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Ústí nad Orlicí District,Choceň
 82.117.143.52,4,-4,DNS Server: sportesb.svitavy.cz,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Svitavy District,Svitavy
 46.36.35.30,4,-11,e-news.cz,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Ústí nad Orlicí District,Řetová
-46.36.37.39,4,117,ecocapart.cz,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Ústí nad Orlicí District,Řetová
-84.16.96.19,4,1023,ei-bazeny.cz,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Chrudim District,Skuteč
-193.165.140.251,4,29,fiera.cz,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Ústí nad Orlicí District,Česká Třebová
+46.36.37.39,4,-5,ecocapart.cz,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Ústí nad Orlicí District,Řetová
+84.16.96.19,4,1293,ei-bazeny.cz,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Chrudim District,Skuteč
+193.165.140.251,4,-1,fiera.cz,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Ústí nad Orlicí District,Česká Třebová
 46.36.39.39,4,-8,letemsvetemapplem.eu,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Ústí nad Orlicí District,Řetová
 94.143.232.20,4,5,Ookla Speedtest Server 30576: speedtest.chrudim.net,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Chrudim District,Chrudim
 77.236.217.114,4,-5,Ookla Speedtest Server 50997: speedy40.edera.cz,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Pardubice District,Pardubice
@@ -24,8 +23,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 46.36.41.14,4,12,samsungmagazine.eu,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Ústí nad Orlicí District,Řetová
 46.36.36.152,4,5,styrexon.cz,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Ústí nad Orlicí District,Řetová
 82.117.143.28,4,-26,svitavy.cz,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Svitavy District,Svitavy
-82.117.143.29,4,-13,svitavy.cz,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Svitavy District,Svitavy
 46.36.41.81,4,26,turistika.cz,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Ústí nad Orlicí District,Řetová
-195.113.139.75,4,3,ujep.cz,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Pardubice District,Pardubice
+195.113.139.75,4,0,ujep.cz,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Pardubice District,Pardubice
 46.36.36.153,4,7,volareza.cz,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Ústí nad Orlicí District,Řetová
-31.28.134.219,4,41,vysoke-myto.cz,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Svitavy District,Svitavy
+31.28.134.219,4,-61,vysoke-myto.cz,CZ,Europe,Eastern Europe,Czechia,Pardubický kraj,Svitavy District,Svitavy

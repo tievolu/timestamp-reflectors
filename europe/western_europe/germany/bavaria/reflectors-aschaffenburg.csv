@@ -1,4 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 62.159.226.207,4,14,harrassowitz-verlag.de,DE,Europe,Western Europe,Germany,Bavaria,,Aschaffenburg
 62.159.226.73,4,28,lohr.de,DE,Europe,Western Europe,Germany,Bavaria,,Aschaffenburg
-62.159.226.83,4,2,museen-aschaffenburg.de,DE,Europe,Western Europe,Germany,Bavaria,,Aschaffenburg
+62.159.226.83,4,-1,museen-aschaffenburg.de,DE,Europe,Western Europe,Germany,Bavaria,,Aschaffenburg

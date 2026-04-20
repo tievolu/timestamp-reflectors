@@ -1,10 +1,10 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-186.227.197.236,4,2,agenciaw3.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Cabedelo
-186.227.207.140,4,25,aniversarioverdfrut.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Cabedelo
-187.33.241.19,4,28,apuanaesportes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
-206.42.47.138,4,20,baraodeitarare.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
+186.227.197.236,4,-2,agenciaw3.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Cabedelo
+186.227.207.140,4,-11,aniversarioverdfrut.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Cabedelo
+187.33.241.19,4,0,apuanaesportes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
+206.42.47.138,4,11,baraodeitarare.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
 186.227.205.42,4,6,brazilliant.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Cabedelo
-168.90.207.86,4,783,DNS Server: 168-90-207-86.uplinkbrasil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
+168.90.207.86,4,919,DNS Server: 168-90-207-86.uplinkbrasil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
 187.33.253.186,4,8,DNS Server: 186.253.33.187.in-addr.arpa,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
 45.6.38.29,4,-26,DNS Server: 45.6.38.29.pjmfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Campina Grande
 187.33.253.82,4,14,DNS Server: 82.253.33.187.in-addr.arpa,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
@@ -12,10 +12,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 186.227.201.58,4,-7,editorarealize.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Cabedelo
 187.33.241.58,4,16,falkebier.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
 187.45.182.211,4,-444,feebpr.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Patos
-187.33.241.16,4,4,hoogli.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
-187.33.241.10,4,35,maisgazeta.com,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
-187.33.241.13,4,22,maranhaohoje.com,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
-186.227.195.226,4,17,miriangasparin.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Cabedelo
+187.33.241.16,4,-1,hoogli.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
+187.33.241.10,4,-1,maisgazeta.com,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
+187.33.241.13,4,-1,maranhaohoje.com,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
+186.227.195.226,4,1323,miriangasparin.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Cabedelo
 187.33.241.25,4,5,nogaprodutora.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
 170.231.108.91,4,-5,Ookla Speedtest Server 9432: speedtest.sys3telecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
 190.196.240.230,4,-50,Ookla Speedtest Server 12207: sp1.weblinetelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
@@ -73,10 +73,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 200.24.123.86,4,-81773,Ookla Speedtest Server 53830: velocimetro.xn--lrtelecomunicaes-ppb6w.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
 177.126.217.190,4,87755,Ookla Speedtest Server 54618: teste.lgnetpb.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Itaporanga
 200.24.120.255,4,-4,Ookla Speedtest Server 54934: teste.csnetpb.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
-45.6.36.242,4,244,Ookla Speedtest Server 55126: speedtest.mrtelecompb.com,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Campina Grande
+45.6.36.242,4,5,Ookla Speedtest Server 55126: speedtest.mrtelecompb.com,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Campina Grande
 177.53.30.10,4,-2,Ookla Speedtest Server 55333: speedtest.twtfibra.ppnetwork.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Belém
 201.216.123.34,4,-75,Ookla Speedtest Server 56078: speedtest.pbmicrotelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
-168.232.19.205,4,-34302450,Ookla Speedtest Server 56199: sp1.onlinefibra.jampa.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
 181.191.174.4,4,3,Ookla Speedtest Server 56239: speedtest.provedorcentro.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Bananeiras
 181.189.60.54,4,8,Ookla Speedtest Server 56490: spd1.ndtelecompb.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Cuité de Mamanguape
 45.226.140.215,4,-7,Ookla Speedtest Server 56724: speedtest.xzoom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Sertãozinho
@@ -118,12 +117,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 187.86.88.254,4,-16,Ookla Speedtest Server 72027: 083link.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Marizópolis
 45.6.36.60,4,14,Ookla Speedtest Server 72490: testepjm.pjm.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Campina Grande
 187.33.233.2,4,11021776,Ookla Speedtest Server: xdc.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
-201.216.123.2,4,-9,pbmicrotelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
 187.33.241.40,4,691,pciimoveis.com,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
-104.234.235.68,4,23,playproductionbrz.com,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
-187.33.241.46,4,66,plugando.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
-186.227.205.50,4,4,quatrocantos.com,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Cabedelo
-186.227.207.8,4,10,tronicb7records.com,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Cabedelo
+104.234.235.68,4,-127577,playproductionbrz.com,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
+187.33.241.46,4,-1,plugando.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
+186.227.205.50,4,9,quatrocantos.com,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Cabedelo
+186.227.207.8,4,0,tronicb7records.com,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,Cabedelo
 150.165.254.187,4,14,ufpb.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
-150.165.254.52,4,15,ufpb.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
+150.165.254.52,4,2,ufpb.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa
 187.33.241.49,4,9,videirashopping.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraíba,,João Pessoa

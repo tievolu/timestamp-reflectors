@@ -1,6 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 66.226.77.251,4,-6,anoox.com,US,Americas,Northern America,United States of America,Tennessee,,Ardmore
-173.166.240.211,4,3,cafes.net,US,Americas,Northern America,United States of America,Tennessee,,Nashville
+173.166.240.211,4,-5,cafes.net,US,Americas,Northern America,United States of America,Tennessee,,Nashville
 68.71.108.122,4,75217,cardfoundry.com,US,Americas,Northern America,United States of America,Tennessee,,College Grove
 104.255.147.171,4,2,clarksvilleonline.com,US,Americas,Northern America,United States of America,Tennessee,,Clarksville
 207.114.32.23,4,2,comicshoplocator.com,US,Americas,Northern America,United States of America,Tennessee,,Cordova
@@ -19,11 +19,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 76.22.230.106,4,-6,DNS Server: c-76-22-230-106.hsd1.tn.comcast.net,US,Americas,Northern America,United States of America,Tennessee,,Brentwood
 96.4.63.29,4,12,ena.com,US,Americas,Northern America,United States of America,Tennessee,,Cookeville
 204.238.168.42,4,27,exmormon.org,US,Americas,Northern America,United States of America,Tennessee,,Cleveland
-66.226.77.74,4,126,fordforums.com.au,US,Americas,Northern America,United States of America,Tennessee,,Ardmore
+66.226.77.74,4,0,fordforums.com.au,US,Americas,Northern America,United States of America,Tennessee,,Ardmore
 207.114.32.27,4,15,freecomicbookday.com,US,Americas,Northern America,United States of America,Tennessee,,Cordova
-66.226.77.78,4,768,gnm.org,US,Americas,Northern America,United States of America,Tennessee,,Ardmore
-207.114.32.28,4,5,hakes.com,US,Americas,Northern America,United States of America,Tennessee,,Cordova
-207.114.32.14,4,45,halloweencomicfest.com,US,Americas,Northern America,United States of America,Tennessee,,Cordova
+66.226.77.78,4,-694,gnm.org,US,Americas,Northern America,United States of America,Tennessee,,Ardmore
+207.114.32.28,4,-3,hakes.com,US,Americas,Northern America,United States of America,Tennessee,,Cordova
+207.114.32.14,4,-2,halloweencomicfest.com,US,Americas,Northern America,United States of America,Tennessee,,Cordova
 66.226.74.96,4,680,khmerforums.com,US,Americas,Northern America,United States of America,Tennessee,,Ardmore
 66.226.72.32,4,-19,latalkradio.com,US,Americas,Northern America,United States of America,Tennessee,,Ardmore
 160.36.130.30,4,-8,nimbios.org,US,Americas,Northern America,United States of America,Tennessee,,Knoxville
@@ -57,5 +57,5 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 207.114.32.30,4,6,previewsworld.com,US,Americas,Northern America,United States of America,Tennessee,,Cordova
 172.223.182.221,4,29,sudovanilla.org,US,Americas,Northern America,United States of America,Tennessee,,Maryville
 199.30.112.210,4,-7,susans.org,US,Americas,Northern America,United States of America,Tennessee,,Clarksville
-204.87.213.86,4,20,tennesseetrustee.org,US,Americas,Northern America,United States of America,Tennessee,,Watauga
+204.87.213.86,4,1,tennesseetrustee.org,US,Americas,Northern America,United States of America,Tennessee,,Watauga
 66.226.77.49,4,6,visitsolomons.com.sb,US,Americas,Northern America,United States of America,Tennessee,,Ardmore

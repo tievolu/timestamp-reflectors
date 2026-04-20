@@ -14,8 +14,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 31.131.16.20,4,-12,lovescout-24.de,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 194.44.10.97,4,-5,lvivoblrada.gov.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 95.215.157.210,4,3,lvivport.com,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lapaivka
-45.94.157.217,4,7,mediamapa.com.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
-31.131.31.128,4,3530,moldfootball.com,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
+45.94.157.217,4,-3,mediamapa.com.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
+31.131.31.128,4,1061,moldfootball.com,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 194.44.11.136,4,4,nbuv.gov.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 194.44.112.4,4,14,nung.edu.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 31.131.18.23,4,-9,olta.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
@@ -37,20 +37,20 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 77.52.71.114,4,28,Ookla Speedtest Server 69860: lvivspeedtest.vodafone.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 195.211.85.82,4,-4,Ookla Speedtest Server 71937: ookla.wenet.lviv.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 217.20.162.59,4,21,Ookla Speedtest Server 72755: speedtest-lvi.domonet.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
-91.198.31.11,4,148,Ookla Speedtest Server: cso.com.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Zolochiv
+91.198.31.11,4,2,Ookla Speedtest Server: cso.com.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Zolochiv
 193.53.83.53,4,7,Ookla Speedtest Server: speedtest.telelan.com.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Stryi
-95.46.32.97,4,0,osonnya.com,UA,Europe,Eastern Europe,Ukraine,Lviv,,Vynnyky
+95.46.32.97,4,-3,osonnya.com,UA,Europe,Eastern Europe,Ukraine,Lviv,,Vynnyky
 45.94.158.128,4,-2,pdpu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
-31.131.18.79,4,14,pryvitop.net.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
-45.94.156.70,4,14,psihoterapevt-kiev.com.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
+31.131.18.79,4,-4,pryvitop.net.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
+45.94.156.70,4,-3,psihoterapevt-kiev.com.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 31.131.24.136,4,4,rau.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 194.44.175.95,4,11,risu.org.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
-45.94.157.17,4,6,rivne1.tv,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
+45.94.157.17,4,-4,rivne1.tv,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 45.94.158.182,4,11,smartil.net,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 31.131.22.61,4,20,smartlandacademy.com,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 194.44.147.22,4,-19,sofs.org.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 176.105.232.151,4,5,sviato.top,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
-45.87.90.120,4,16,tavriya.com.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
+45.87.90.120,4,-1,tavriya.com.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 45.94.159.104,4,6,tellur.com.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 194.44.214.24,4,6,uar.net,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 185.91.75.28,4,20,uareview.com,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv

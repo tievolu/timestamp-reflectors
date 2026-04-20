@@ -15,7 +15,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.82.76.70,4,1,DNS Server: mail.kortekft.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Dunaharaszti
 185.25.106.19,4,873,eger.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Göd
 185.25.106.25,4,-27,egrivar.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Göd
-84.2.35.59,4,3,futanet.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Dunaharaszti
+84.2.35.59,4,-1,futanet.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Dunaharaszti
 195.228.254.149,4,6,hotspotsystem.com,HU,Europe,Eastern Europe,Hungary,Pest County,,Telki
 212.24.168.226,4,1,keletdent.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Erdőkertes
 193.224.191.136,4,0,kre.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Üröm
@@ -23,7 +23,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 193.224.218.24,4,-5,kultura.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Nagykovácsi
 84.2.38.66,4,-6,magyarfutball.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Dunaharaszti
 84.2.35.185,4,1002,presstone.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Dunaharaszti
-91.82.85.21,4,103,radio88.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Dunakeszi
+91.82.85.21,4,0,radio88.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Dunakeszi
 193.224.79.14,4,9,renyi.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Érd
 195.199.158.67,4,9,szily.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Pusztavacs
 82.141.159.206,4,6739,szimpla.hu,HU,Europe,Eastern Europe,Hungary,Pest County,,Budaörs

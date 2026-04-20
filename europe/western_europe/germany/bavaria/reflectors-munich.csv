@@ -19,7 +19,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 5.1.66.255,4,-4,Freifunk Munchen e.V.,DE,Europe,Western Europe,Germany,Bavaria,,Munich
 141.84.41.214,4,-1,g-node.org,DE,Europe,Western Europe,Germany,Bavaria,,Munich
 213.155.76.185,4,-6,genua.de,DE,Europe,Western Europe,Germany,Bavaria,,Munich
-213.155.86.189,4,3,gut-erklaert.de,DE,Europe,Western Europe,Germany,Bavaria,,Munich
+213.155.86.189,4,-4,gut-erklaert.de,DE,Europe,Western Europe,Germany,Bavaria,,Munich
 93.104.203.20,4,13,ibusiness.de,DE,Europe,Western Europe,Germany,Bavaria,,Munich
 178.248.242.125,4,-7,infotiger.com,DE,Europe,Western Europe,Germany,Bavaria,,Munich
 80.190.130.144,4,1,jogspace.net,DE,Europe,Western Europe,Germany,Bavaria,,Munich
@@ -48,5 +48,5 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 213.155.69.213,4,13,vw-mms.de,DE,Europe,Western Europe,Germany,Bavaria,,Munich
 213.155.69.129,4,10,vw-mms.de,DE,Europe,Western Europe,Germany,Bavaria,,Munich
 212.18.23.204,4,10,wochenanzeiger.de,DE,Europe,Western Europe,Germany,Bavaria,,Munich
-82.135.8.68,4,8,wochenanzeiger.de,DE,Europe,Western Europe,Germany,Bavaria,,Munich
+82.135.8.68,4,0,wochenanzeiger.de,DE,Europe,Western Europe,Germany,Bavaria,,Munich
 129.187.39.10,4,3,zhs-muenchen.de,DE,Europe,Western Europe,Germany,Bavaria,,Munich

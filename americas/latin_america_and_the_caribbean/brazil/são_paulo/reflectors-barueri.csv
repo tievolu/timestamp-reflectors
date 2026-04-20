@@ -1,6 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 45.178.224.186,4,-39,fabv.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Barueri
-45.178.224.77,4,3,interprimetec.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Barueri
+45.178.224.77,4,-1,interprimetec.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Barueri
 45.178.225.207,4,-43,Ookla Speedtest Server 5778: saopaulo.speedtest.jgnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Barueri
 177.72.114.3,4,-3,Ookla Speedtest Server 47658: nextfiber.tchesolutions.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Barueri
 177.70.244.3,4,-2,Ookla Speedtest Server 49397: medidor.lolnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Barueri

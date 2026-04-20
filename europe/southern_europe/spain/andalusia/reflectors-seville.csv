@@ -2,8 +2,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 80.59.18.38,4,20,albalearning.com,ES,Europe,Southern Europe,Spain,Andalusia,Seville,El Arahal
 213.4.38.212,4,37,albalearning.com,ES,Europe,Southern Europe,Spain,Andalusia,Seville,San José de la Rinconada
 150.214.91.183,4,1470,campusdelmar.com,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Seville
-185.142.217.60,4,6,cevabun.ro,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Coria del Río
-195.78.228.88,4,-641,dailygames.com,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Seville
+185.142.217.60,4,0,cevabun.ro,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Coria del Río
 5.83.75.10,4,-2,DNS Server: 10-75-83-5-red-servicios.onlycable.es,ES,Europe,Southern Europe,Spain,Andalusia,Seville,La Puebla de Cazalla
 5.83.75.137,4,-6,DNS Server: 137-75-83-5-red-servicios.onlycable.es,ES,Europe,Southern Europe,Spain,Andalusia,Seville,La Puebla de Cazalla
 5.83.75.142,4,71363,DNS Server: 142-75-83-5-red-servicios.onlycable.es,ES,Europe,Southern Europe,Spain,Andalusia,Seville,La Puebla de Cazalla
@@ -17,7 +16,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 150.214.1.36,4,42,fundaciondescubre.es,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Dos Hermanas
 37.235.53.66,4,0,globalcbdbrands.com,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Seville
 217.61.143.49,4,-8,lustau.es,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Seville
-185.142.217.50,4,2556,monitoruljuridic.ro,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Coria del Río
+185.142.217.50,4,4627,monitoruljuridic.ro,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Coria del Río
 37.230.93.3,4,182493,Ookla Speedtest Server 6461: speedtest.giganetesmejor.com,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Gerena
 185.49.193.3,4,0,Ookla Speedtest Server 7385: speedtest.wifiguay.es,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Los Rosales
 212.230.175.204,4,15,Ookla Speedtest Server 30481: speedtest-sev.masmovil.com,ES,Europe,Southern Europe,Spain,Andalusia,Seville,Seville

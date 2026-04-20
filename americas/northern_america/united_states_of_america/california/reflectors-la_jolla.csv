@@ -1,6 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 132.249.112.72,4,5,activelivingresearch.org,US,Americas,Northern America,United States of America,California,,La Jolla
-132.239.27.61,4,7,cosmic-cryoem.org,US,Americas,Northern America,United States of America,California,,La Jolla
+132.239.27.61,4,-1,cosmic-cryoem.org,US,Americas,Northern America,United States of America,California,,La Jolla
 132.249.112.91,4,-10,earthmicrobiome.org,US,Americas,Northern America,United States of America,California,,La Jolla
 132.249.112.75,4,10,opentopography.org,US,Americas,Northern America,United States of America,California,,La Jolla
 132.249.112.52,4,13,sdsc.edu,US,Americas,Northern America,United States of America,California,,La Jolla

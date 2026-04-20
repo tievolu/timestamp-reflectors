@@ -1,9 +1,9 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 161.132.74.176,4,-266,apj.org.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima Province,,Lima
 161.132.58.10,4,-9,aprodeh.org.pe,PE,Americas,Latin America and the Caribbean,Peru,,,
-161.132.41.19,4,10,aprodeh.org.pe,PE,Americas,Latin America and the Caribbean,Peru,,,
+161.132.41.19,4,0,aprodeh.org.pe,PE,Americas,Latin America and the Caribbean,Peru,,,
 161.132.57.169,4,0,cverdad.org.pe,PE,Americas,Latin America and the Caribbean,Peru,,,
-161.132.57.228,4,25,cverdad.org.pe,PE,Americas,Latin America and the Caribbean,Peru,,,
+161.132.57.228,4,-1,cverdad.org.pe,PE,Americas,Latin America and the Caribbean,Peru,,,
 143.137.145.212,4,-1759137104,DNS Server: 143137145212.gtdperu.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima Province,,Lima
 170.231.83.227,4,568,DNS Server: mail.tss.com.pe,PE,Americas,Latin America and the Caribbean,Peru,,,
 181.224.224.50,4,0,DNS Server: static22450.flx.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
@@ -71,7 +71,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 204.157.185.247,4,0,Ookla Speedtest Server 52313: speedtest.as273143.net,PE,Americas,Latin America and the Caribbean,Peru,Ica,,Nazca
 201.218.136.1,4,1188,Ookla Speedtest Server 52609: speedtest.vulcanarequipa.com,PE,Americas,Latin America and the Caribbean,Peru,Arequipa,,Arequipa
 181.233.8.30,4,-6,Ookla Speedtest Server 52730: speedtesthrservicom.net.pe,PE,Americas,Latin America and the Caribbean,Peru,Lambayeque,,Motupe
-191.52.212.242,4,268,Ookla Speedtest Server 53344: speedtest.comwifi.net.pe,PE,Americas,Latin America and the Caribbean,Peru,Provincia Constitucional del Callao,,Callao
+191.52.212.242,4,-1,Ookla Speedtest Server 53344: speedtest.comwifi.net.pe,PE,Americas,Latin America and the Caribbean,Peru,Provincia Constitucional del Callao,,Callao
 190.105.240.45,4,4213120,Ookla Speedtest Server 53515: speedtest5.fravatel.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
 190.216.189.250,4,-11,Ookla Speedtest Server 55028: lima.speedtest.ciriontechnologies.com,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
 200.115.20.222,4,5,Ookla Speedtest Server 56077: speed0.colinanet.com,PE,Americas,Latin America and the Caribbean,Peru,Lima Province,,Lima
@@ -88,15 +88,15 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 190.187.192.90,4,6378,Ookla Speedtest Server 61002: speedtest.landatelconnections.com,PE,Americas,Latin America and the Caribbean,Peru,Lima Province,,Lima
 166.1.24.9,4,11,Ookla Speedtest Server 61351: speedtest.olaz.pe,PE,Americas,Latin America and the Caribbean,Peru,Tacna,,Tacna
 191.97.61.237,4,-6,Ookla Speedtest Server 61546: speedtest.conectaperu.pe,PE,Americas,Latin America and the Caribbean,Peru,,,
-38.56.220.241,4,349,Ookla Speedtest Server 61566: speedtest.chiclayo.mifibra-isp.com,PE,Americas,Latin America and the Caribbean,Peru,Lambayeque,,Chiclayo
+38.56.220.241,4,3,Ookla Speedtest Server 61566: speedtest.chiclayo.mifibra-isp.com,PE,Americas,Latin America and the Caribbean,Peru,Lambayeque,,Chiclayo
 138.204.12.163,4,16793,Ookla Speedtest Server 61893: lima10g.mikrotikperu.net,PE,Americas,Latin America and the Caribbean,Peru,Lima Province,,Lima
-38.252.208.0,4,5511,Ookla Speedtest Server 61893: lima10g.mikrotikperu.net,PE,Americas,Latin America and the Caribbean,Peru,,,
+38.252.208.0,4,17272,Ookla Speedtest Server 61893: lima10g.mikrotikperu.net,PE,Americas,Latin America and the Caribbean,Peru,,,
 45.231.72.5,4,-6,Ookla Speedtest Server 62039: speedtest.americanet.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
 38.137.192.250,4,-5,Ookla Speedtest Server 62069: speedtest.cvmcablevisionmajes.com,PE,Americas,Latin America and the Caribbean,Peru,Arequipa,,El Pedregal
 38.56.216.246,4,-8,Ookla Speedtest Server 62245: speedtest.mifibrapiura.pe,PE,Americas,Latin America and the Caribbean,Peru,Lambayeque,,Chiclayo
 154.85.2.18,4,115004,Ookla Speedtest Server 62544: speedtest.inpecable.com,PE,Americas,Latin America and the Caribbean,Peru,Cuzco Department,,Cusco
 45.5.59.46,4,-2,Ookla Speedtest Server 62676: speedtest.globalfiber.com.co,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
-38.255.111.2,4,329,Ookla Speedtest Server 63112: speedtest.mifibrachimbote.pe,PE,Americas,Latin America and the Caribbean,Peru,Ancash,,Chimbote
+38.255.111.2,4,-1,Ookla Speedtest Server 63112: speedtest.mifibrachimbote.pe,PE,Americas,Latin America and the Caribbean,Peru,Ancash,,Chimbote
 190.113.223.154,4,3,Ookla Speedtest Server 63610: speedtest15.amx.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Provincia Constitucional del Callao,,Callao
 190.113.223.219,4,6,Ookla Speedtest Server 63611: speedtest61.amx.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,San Juan de Lurigancho
 190.113.223.163,4,6,Ookla Speedtest Server 63690: speedtest43.amx.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Madre de Dios,,Puerto Maldonado
@@ -112,7 +112,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 190.113.223.195,4,4,Ookla Speedtest Server 64679: speedtest35.amx.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Ancash,,Chimbote
 38.158.83.4,4,23,Ookla Speedtest Server 64868: speedtest.fiberred.pe,PE,Americas,Latin America and the Caribbean,Peru,Arequipa,,Arequipa
 38.56.112.128,4,10,Ookla Speedtest Server 64872: speedtest.interflash.pe,PE,Americas,Latin America and the Caribbean,Peru,Arequipa,,Arequipa
-179.43.98.105,4,24873730,Ookla Speedtest Server 64872: speedtest.interflashfo.com,PE,Americas,Latin America and the Caribbean,Peru,Arequipa,,Arequipa
+179.43.98.105,4,-8894605,Ookla Speedtest Server 64872: speedtest.interflashfo.com,PE,Americas,Latin America and the Caribbean,Peru,Arequipa,,Arequipa
 179.1.145.77,4,-12448,Ookla Speedtest Server 64931: speedtest.nextfiberperu.com,PE,Americas,Latin America and the Caribbean,Peru,Cuzco Department,,Cusco
 45.189.188.50,4,-4,Ookla Speedtest Server 65033: speedtest1.cix.pe.pit.net,PE,Americas,Latin America and the Caribbean,Peru,Lima region,,
 179.49.157.50,4,0,Ookla Speedtest Server 65068: speedtest.vemax.com.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima Province,,Lima
@@ -187,7 +187,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 190.119.71.19,4,-628989,uladech.edu.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima Province,,Lima
 200.48.38.52,4,-629000,uladech.edu.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima Province,,Lima
 161.132.24.61,4,13,unap.edu.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima Province,,Lima
-190.119.84.12,4,9,unasam.edu.pe,PE,Americas,Latin America and the Caribbean,Peru,,,
+190.119.84.12,4,6,unasam.edu.pe,PE,Americas,Latin America and the Caribbean,Peru,,,
 161.132.39.159,4,24,undac.edu.pe,PE,Americas,Latin America and the Caribbean,Peru,,,
-191.98.191.118,4,6769,upao.edu.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima Province,,Lima
+191.98.191.118,4,32999,upao.edu.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima Province,,Lima
 161.132.207.133,4,241909,upt.edu.pe,PE,Americas,Latin America and the Caribbean,Peru,Lima Province,,Lima

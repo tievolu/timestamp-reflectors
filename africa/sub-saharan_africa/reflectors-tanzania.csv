@@ -1,7 +1,7 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 102.223.8.76,4,-16,aicc.co.tz,TZ,Africa,Sub-Saharan Africa,Tanzania,,,
 41.59.200.123,4,710,DNS Server: 123.200-59-41.ttcl.co.tz,TZ,Africa,Sub-Saharan Africa,Tanzania,Dar es Salaam Region,,Dar es Salaam
-41.222.56.186,4,1008,kcmc.ac.tz,TZ,Africa,Sub-Saharan Africa,Tanzania,Arusha,,Arusha
+41.222.56.186,4,-10,kcmc.ac.tz,TZ,Africa,Sub-Saharan Africa,Tanzania,Arusha,,Arusha
 41.59.86.234,4,21,must.ac.tz,TZ,Africa,Sub-Saharan Africa,Tanzania,Dar es Salaam Region,,Dar es Salaam
 217.29.128.71,4,12,Ookla Speedtest Server 2329: speedtest.aptus.co.tz,TZ,Africa,Sub-Saharan Africa,Tanzania,Dar es Salaam Region,,Dar es Salaam
 41.221.32.214,4,-134645,Ookla Speedtest Server 2821: speedtest.simbanet.co.tz,TZ,Africa,Sub-Saharan Africa,Tanzania,,,

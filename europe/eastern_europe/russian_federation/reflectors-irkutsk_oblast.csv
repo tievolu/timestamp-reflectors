@@ -1,17 +1,16 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 91.237.223.62,4,52928,60333.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Ust'-Ilimsk
-82.146.51.226,4,7,al-shell.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+82.146.51.226,4,-9,al-shell.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 80.87.202.77,4,0,allseo.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 80.87.203.176,4,-26,asn24.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 80.87.202.226,4,5,avantaauto.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-82.146.49.188,4,6,avtomat2000.com,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 91.189.162.30,4,-2,bratsk.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Bratsk
 91.189.162.229,4,-12,brstu.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Bratsk
 80.87.203.205,4,3,burmistr.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 82.146.49.180,4,16,carumba.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 80.87.203.169,4,-33,comindware.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 82.146.50.213,4,1,cyberpedia.su,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-82.146.50.125,4,8,defo.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+82.146.50.125,4,0,defo.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 80.87.203.132,4,0,dnkom.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 87.249.61.102,4,184,DNS Server: 102-61-249-87-in-addr.t-tk.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Tulun
 109.194.17.191,4,49036,DNS Server: 109x194x17x191.static-business.irkutsk.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Shelekhov
@@ -45,51 +44,51 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.93.148.92,4,12354,DNS Server: ppp.38hr.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 31.44.247.169,4,70230,DNS Server: ppp.hi-link.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 185.234.228.65,4,629,DNS Server: pppoe.hi-link.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-80.87.203.61,4,54,dveriwell.com,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-80.87.203.69,4,8,elitesochi.com,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-82.146.49.38,4,6,gmgo.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+80.87.203.61,4,2,dveriwell.com,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+80.87.203.69,4,1,elitesochi.com,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+82.146.49.38,4,-4,gmgo.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 82.146.50.54,4,-8,harant.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-80.87.203.209,4,9,homut.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+80.87.203.209,4,4,homut.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 82.146.50.200,4,-7,ibik.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-82.146.51.28,4,38,internet-technologies.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+82.146.51.28,4,1,internet-technologies.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 185.234.228.245,4,6,irk.gov.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 80.87.203.221,4,-5,ispsystem.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 82.146.49.67,4,20,kivi.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 80.87.203.56,4,1,ks-region69.com,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 80.87.203.33,4,2,lbast.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-82.146.51.19,4,23,life-prog.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-82.146.50.113,4,38,medicalru.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+82.146.51.19,4,5,life-prog.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+82.146.50.113,4,15,medicalru.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 80.87.202.144,4,6,mybeterex.com,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-82.146.49.22,4,13,nabor-curierov.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-80.87.202.155,4,5,nebaz.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+82.146.49.22,4,24,nabor-curierov.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+80.87.202.155,4,4,nebaz.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 80.87.203.17,4,13,onlinevologda.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 109.194.16.230,4,-9,Ookla Speedtest Server 2636: speedtest.irkutsk.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Shelekhov
 85.234.125.1,4,-3,Ookla Speedtest Server 4734: st.stranzit.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 93.171.103.246,4,2,Ookla Speedtest Server 16065: speedtest.rta-net.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Angarsk
 195.93.148.200,4,3,Ookla Speedtest Server 28492: sp1.38ht.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-171.22.212.226,4,206,Ookla Speedtest Server 55791: sp10.rline1.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Tayshet
-80.87.202.204,4,3,p-o-k.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+171.22.212.226,4,-8,Ookla Speedtest Server 55791: sp10.rline1.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Tayshet
+80.87.202.204,4,24,p-o-k.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 80.87.203.21,4,8,perevod-pesen.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-82.146.48.140,4,14,poligon64.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+82.146.48.140,4,13,poligon64.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 80.87.203.135,4,7,politik.am,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 82.146.48.159,4,9,redlg.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 80.87.202.106,4,7,rounb.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-80.87.203.180,4,40,russianhighways.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-82.146.50.218,4,14,sabotage-rockgroup.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+80.87.203.180,4,1,russianhighways.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+82.146.50.218,4,26,sabotage-rockgroup.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 80.87.203.34,4,19,smils.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 82.146.49.247,4,11,software-testing.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-80.87.202.30,4,35,sonarvision.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-80.87.203.137,4,35,stroygarant02.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+80.87.202.30,4,25,sonarvision.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+80.87.203.137,4,5,stroygarant02.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 80.87.203.109,4,8,tea.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 77.243.120.188,4,4,teacode.com,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-82.146.49.161,4,3,transport-nn.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+82.146.49.161,4,26,transport-nn.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 82.146.49.98,4,9,v-tagile.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 82.146.49.78,4,18,vetusware.com,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-80.87.203.110,4,7,vino.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+80.87.203.110,4,2,vino.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 82.146.50.107,4,27,vremyan.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-82.146.49.101,4,2,vse-advokaty.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-80.87.202.72,4,3,vtormash.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+82.146.49.101,4,31,vse-advokaty.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+80.87.202.72,4,25,vtormash.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 80.87.203.101,4,-2,xn--80abjd7amah7l.xn--p1acf,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-82.146.50.33,4,77,xn--80ablavxscdb8f8a2c.xn--c1avg,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
-82.146.51.15,4,76,xn--80abwm2cxb.xn--p1ai,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+82.146.50.33,4,25,xn--80ablavxscdb8f8a2c.xn--c1avg,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
+82.146.51.15,4,23,xn--80abwm2cxb.xn--p1ai,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk
 82.146.51.47,4,9,zabory-iz-schtaketnika.ru,RU,Europe,Eastern Europe,Russian Federation,Irkutsk Oblast,,Irkutsk

@@ -1,7 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 80.95.166.59,4,-3,acsifreelife.nl,NL,Europe,Western Europe,Netherlands,South Holland,,The Hague
-185.40.97.100,4,4,ambifloor.nl,NL,Europe,Western Europe,Netherlands,South Holland,,The Hague
-185.40.97.141,4,-125,autoleitner.nl,NL,Europe,Western Europe,Netherlands,South Holland,,The Hague
+185.40.97.100,4,0,ambifloor.nl,NL,Europe,Western Europe,Netherlands,South Holland,,The Hague
 80.95.173.30,4,-4,burgernet.nl,NL,Europe,Western Europe,Netherlands,South Holland,,The Hague
 185.40.97.42,4,-8,cocamsterdam.nl,NL,Europe,Western Europe,Netherlands,South Holland,,The Hague
 185.40.97.114,4,148,conservatoriumvanamsterdam.nl,NL,Europe,Western Europe,Netherlands,South Holland,,The Hague
@@ -10,10 +9,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 213.124.39.21,4,-2,DNS Server: D57C2715.static.ziggozakelijk.nl,NL,Europe,Western Europe,Netherlands,South Holland,,The Hague
 46.21.171.193,4,-2,DNS Server: no-record-set.datafiber.nl,NL,Europe,Western Europe,Netherlands,South Holland,,The Hague
 185.40.97.133,4,-6,hzs.be,NL,Europe,Western Europe,Netherlands,South Holland,,The Hague
-46.21.164.170,4,32,ipass.com,NL,Europe,Western Europe,Netherlands,South Holland,,The Hague
+46.21.164.170,4,-1,ipass.com,NL,Europe,Western Europe,Netherlands,South Holland,,The Hague
 185.41.38.93,4,4,Ookla Speedtest Server 26476: speedtest.glasnet.nl,NL,Europe,Western Europe,Netherlands,South Holland,,The Hague
 213.156.5.94,4,2,Ookla Speedtest Server 63833: speedtest1.nextpertise.nl,NL,Europe,Western Europe,Netherlands,South Holland,,The Hague
-213.156.0.4,4,346,Ookla Speedtest Server 63833: speedtest1.nextpertise.nl,NL,Europe,Western Europe,Netherlands,South Holland,,The Hague
+213.156.0.4,4,0,Ookla Speedtest Server 63833: speedtest1.nextpertise.nl,NL,Europe,Western Europe,Netherlands,South Holland,,The Hague
 213.156.0.10,4,14,paytsoftware.com,NL,Europe,Western Europe,Netherlands,South Holland,,The Hague
 213.156.0.5,4,-9,powerpeers.nl,NL,Europe,Western Europe,Netherlands,South Holland,,The Hague
 80.95.166.55,4,12,suncamp.nl,NL,Europe,Western Europe,Netherlands,South Holland,,The Hague

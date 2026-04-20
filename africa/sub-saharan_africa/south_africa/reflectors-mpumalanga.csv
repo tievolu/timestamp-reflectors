@@ -1,6 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 196.21.185.98,4,-4,africanastronomicalsociety.org,ZA,Africa,Sub-Saharan Africa,South Africa,Mpumalanga,,Nelspruit
-196.21.185.104,4,-20,astro4dev.org,ZA,Africa,Sub-Saharan Africa,South Africa,Mpumalanga,,Nelspruit
 102.221.198.177,4,455,DNS Server: 177.198.221.102.dimension5.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Mpumalanga,,Ermelo
 102.221.197.18,4,1,DNS Server: 18.197.221.102.dimension5.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Mpumalanga,,Ermelo
 41.23.98.218,4,39205210,DNS Server: vc-41-23-98-218.umts.vodacom.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Mpumalanga,,Nelspruit
@@ -10,4 +9,4 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 102.221.196.254,4,-1,Ookla Speedtest Server 53683: spd.dimension5.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Mpumalanga,,Ermelo
 102.210.243.11,4,-1,Ookla Speedtest Server 68156: speedtest.lightbridgefibre.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Mpumalanga,,Emalahleni
 196.21.185.123,4,67,saip.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Mpumalanga,,Nelspruit
-196.21.185.68,4,1,salt.ac.za,ZA,Africa,Sub-Saharan Africa,South Africa,Mpumalanga,,Nelspruit
+196.21.185.68,4,-1,salt.ac.za,ZA,Africa,Sub-Saharan Africa,South Africa,Mpumalanga,,Nelspruit

@@ -6,7 +6,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 203.74.220.3,4,-51,500.gov.tw,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 203.74.221.4,4,-46,500.gov.tw,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 203.74.220.2,4,-72,500.gov.tw,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
-210.244.72.15,4,10624,archi.com.tw,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
+210.244.72.15,4,10138460,archi.com.tw,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 1.160.203.160,4,154,DNS Server: 1-160-203-160.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 1.160.210.38,4,2147,DNS Server: 1-160-210-38.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 1.160.236.147,4,-15,DNS Server: 1-160-236-147.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
@@ -20,6 +20,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 1.161.65.56,4,81,DNS Server: 1-161-65-56.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 1.161.70.24,4,-14,DNS Server: 1-161-70-24.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 1.161.76.193,4,21,DNS Server: 1-161-76-193.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
+1.161.76.240,4,-132,DNS Server: 1-161-76-240.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 1.161.77.178,4,38497,DNS Server: 1-161-77-178.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 1.161.77.224,4,-38,DNS Server: 1-161-77-224.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 1.161.90.84,4,7,DNS Server: 1-161-90-84.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
@@ -29,6 +30,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 1.162.69.34,4,28811896,DNS Server: 1-162-69-34.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 1.162.96.181,4,57597440,DNS Server: 1-162-96-181.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,Banqiao
 1.163.128.138,4,19545,DNS Server: 1-163-128-138.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
+1.163.144.129,4,-95,DNS Server: 1-163-144-129.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 1.171.199.120,4,150029,DNS Server: 1-171-199-120.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,Banqiao
 1.171.218.147,4,-24,DNS Server: 1-171-218-147.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 1.171.225.67,4,57599305,DNS Server: 1-171-225-67.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,Banqiao
@@ -57,8 +59,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 59.124.74.18,4,127,eisland.com.tw,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 219.84.168.188,4,1036,eprice.com.hk,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 219.84.168.168,4,1020,eprice.com.tw,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
-203.69.238.170,4,4,eternity.com.tw,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,Sanchong District
-60.251.60.22,4,7,farmsbiotech.com,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
+203.69.238.170,4,16,eternity.com.tw,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,Sanchong District
+60.251.60.22,4,16,farmsbiotech.com,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 114.34.121.114,4,-2,gslin.org,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 118.150.164.96,4,57600383,hamtalk.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 211.72.198.2,4,11349,jiye.com.tw,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City

@@ -1,14 +1,13 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-185.123.204.78,4,6,43folder.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
+185.123.204.78,4,0,43folder.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
 89.38.129.98,4,-8,casinos-online.es,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
 185.127.128.148,4,0,castillodesantabarbara.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
-188.130.247.39,4,145,cdan.es,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
-5.135.88.24,4,5,compac.es,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
+188.130.247.39,4,403,cdan.es,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
+5.135.88.24,4,1,compac.es,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
 5.135.88.29,4,-11,cotec.es,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
 85.51.13.115,4,-24352,DNS Server: 115.pool85-51-13.static.orange.es,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
 185.9.194.13,4,-4,DNS Server: 194-9-185-13.nunsys.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
 82.213.196.233,4,100,DNS Server: static.233.196.213.82.ibercom.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
-139.47.10.8,4,-3599036,DNS Server: static.masmovil.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
 185.123.206.29,4,13,lapepica.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
 62.15.155.254,4,-19,manabo.org,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
 147.156.223.81,4,58,mclibre.org,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
@@ -19,5 +18,5 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 31.222.120.131,4,1,Ookla Speedtest Server 69446: speedtest3.avatel.es,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
 185.127.128.67,4,6,reservasdirectas.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
 185.127.128.36,4,23,ricardcamarena.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
-147.156.222.187,4,54,silknow.org,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
-185.123.204.80,4,13,subdownloader.net,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
+147.156.222.187,4,-1,silknow.org,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
+185.123.204.80,4,1,subdownloader.net,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia

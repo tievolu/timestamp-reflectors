@@ -1,10 +1,10 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 80.82.216.25,4,82,baukunst-nrw.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Solingen
-80.82.223.193,4,37,berlin-info.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Solingen
-80.82.222.140,4,8,convo.casa,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Solingen
-80.82.223.18,4,1857,dieprinzen.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Solingen
-80.82.223.151,4,12,panzer-archiv.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Solingen
-80.82.223.88,4,71,schwartzpr.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Solingen
+80.82.223.193,4,104,berlin-info.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Solingen
+80.82.222.140,4,-1,convo.casa,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Solingen
+80.82.223.18,4,1537,dieprinzen.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Solingen
+80.82.223.151,4,103,panzer-archiv.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Solingen
+80.82.223.88,4,1,schwartzpr.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Solingen
 80.82.223.211,4,95,springe.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Solingen
 80.82.223.198,4,297,ueckermuende.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Solingen
 80.82.223.246,4,6,wachwerk.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Solingen

@@ -1,28 +1,23 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 168.181.186.107,4,11,accion.coop,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 66.97.44.237,4,-3,adepa.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-179.43.122.22,4,-13,adepa.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 138.36.238.139,4,-32,agenciapresentes.org,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 193.233.63.3,4,13,agroxxi.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 200.58.98.217,4,-6,ahira.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-200.58.121.141,4,13845,aica.org,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-193.233.63.34,4,2,area-sar.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-66.97.44.241,4,-46938,asaeca.org,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
+200.58.121.141,4,62042,aica.org,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
+193.233.63.34,4,27,area-sar.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 66.97.38.80,4,-43086,asivamosensalud.org,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 168.181.184.17,4,0,asmgyf.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 179.43.127.200,4,92077,autopremier.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 200.58.126.226,4,14,avmartinmalharro.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-190.228.29.15,4,18,barrachina.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Las Toscas
+190.228.29.15,4,-1,barrachina.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Las Toscas
 179.43.112.160,4,-11,bdkdesign.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 193.233.63.122,4,-6,bi-bi.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-66.97.37.127,4,-507496,cavenas.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-66.97.34.172,4,-133933,cedes.org,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 200.58.107.32,4,-5,ceg.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 179.43.119.18,4,-18,chacodiapordia.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 168.181.184.55,4,294522,clicavisos.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 66.97.34.20,4,-28137,clubcolon.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 200.58.107.97,4,-4,costanerabike.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-193.233.63.75,4,-11,cowonamerica.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 66.97.33.185,4,-9,crea.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 66.97.36.150,4,1399,cuartopodersalta.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 66.97.44.165,4,-168425,dinamomultimedia.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
@@ -32,15 +27,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 181.10.198.131,4,-3,DNS Server: mail.granix.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Arocena
 200.0.211.33,4,-1,DNS Server: ros1-33.is.net.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rafaela
 200.58.123.150,4,-8,DNS Server: sd-2121363-w.dattaweb.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-193.233.63.176,4,-11,dprofile.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 190.228.29.91,4,3,edisan.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Las Toscas
 168.197.50.214,4,3,editorialelateneo.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 179.43.113.250,4,-6,elcivismo.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 66.97.38.42,4,-7,elroldanense.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 138.219.42.52,4,-41613,emb.cl,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 200.58.103.3,4,8,empaklo.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-168.181.187.28,4,-3556,enfasys.net,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-200.58.122.155,4,2,envialosimple.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
+200.58.122.155,4,-4,envialosimple.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 179.43.123.131,4,-5,escuelajulioverne.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 179.43.114.66,4,7,fedefutbol.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 66.97.45.80,4,2,feminacida.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
@@ -48,7 +41,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 200.58.105.134,4,3,flexo-app.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 200.58.99.95,4,-9801,fm899.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 179.43.126.229,4,28,fund.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-200.58.105.21,4,-4,gacetamarinera.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 168.197.48.23,4,-3,gaiacoop.tech,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 193.233.63.49,4,19,glory-casino.mobi,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 66.97.41.245,4,-22284,guiacomercialcrespo.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
@@ -62,9 +54,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 200.58.100.61,4,-386851,larural.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 168.197.48.122,4,92845,latecla.info,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 66.97.42.250,4,-3993,latecla.info,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-66.97.44.166,4,-38360,lavozdecipolletti.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 66.97.35.68,4,6,lobosuelto.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-200.58.126.17,4,-30,lobosuelto.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 179.43.121.24,4,0,lomasac.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 190.122.240.127,4,5,lt10.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Santa Fe
 200.58.105.7,4,-1,marambio.aq,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
@@ -104,10 +94,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 193.233.63.39,4,25,rushydro.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 193.233.63.173,4,5,sakh.online,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 179.43.124.74,4,8,servitecalisto.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-193.233.63.88,4,-3,skladchina.biz,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 200.58.105.69,4,3,sna.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 193.233.63.101,4,31,sportclan.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-66.97.34.245,4,-454247,surfinglatino.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 193.233.63.180,4,-9,surgutneftegas.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 193.233.63.43,4,4,takt-magazine.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 193.233.63.54,4,16,tennislok.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
@@ -116,9 +104,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 193.233.63.74,4,18,topkazinobonus.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 193.233.63.170,4,33,travellikeavegan.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 168.181.187.13,4,3195,tynmagazine.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-200.58.105.230,4,-28,undef.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 190.122.241.31,4,13,unl.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Santa Fe
-193.233.63.30,4,-9,vbrr.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 66.97.39.163,4,-45457,victoriabaeza.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 179.43.122.17,4,1,visitsalta.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 179.60.232.10,4,-3210,WICORP SA,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario

@@ -7,20 +7,20 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 93.92.133.124,4,4,atmosfair.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 80.241.60.169,4,-3,attac.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 212.36.170.230,4,-2,berlinale-talents.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
-85.158.2.229,4,18,bionity.com,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
+85.158.2.229,4,1,bionity.com,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 217.197.86.189,4,3,c-base.org,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 185.106.84.46,4,1,c3voc.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 185.106.84.100,4,6530,ccc.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
-85.158.2.220,4,4,chemeurope.com,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
-85.158.2.216,4,5,chemie.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
+85.158.2.220,4,1,chemeurope.com,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
+85.158.2.216,4,2,chemie.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 212.91.232.41,4,-13,christian-lindner.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
-212.91.232.203,4,2,christian-lindner.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
-80.82.204.167,4,123,classless.org,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
-194.68.112.3,4,63,commag.org,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
-80.239.139.7,4,8,computernotizen.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
+212.91.232.203,4,7,christian-lindner.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
+80.82.204.167,4,-1,classless.org,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
+194.68.112.3,4,3,commag.org,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
+80.239.139.7,4,6,computernotizen.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 212.36.170.200,4,15,culturebase.net,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 80.241.59.72,4,42,datenschutz-berlin.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
-80.239.139.61,4,24,deltakom.net,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
+80.239.139.61,4,2,deltakom.net,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 80.241.59.59,4,4,deutsches-spionagemuseum.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 80.241.59.103,4,0,deutschlandmuseum.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 83.135.16.46,4,-49876,DNS Server: i5387102E.versanet.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
@@ -28,17 +28,16 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 217.197.91.153,4,-5,DoH server: artikel10-doh-ipv4,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 37.120.217.75,4,-3,DoH server: cs-berlin,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 87.128.111.190,4,-5,DoH server: dns.faked.org,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
-194.68.113.4,4,996,econ-datalinks.org,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
+194.68.113.4,4,4,econ-datalinks.org,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 93.92.134.165,4,-6,farmy.ch,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 217.197.86.81,4,-7,fau.org,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
-217.197.86.86,4,6,fau.org,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
+217.197.86.86,4,-2,fau.org,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 212.91.232.204,4,-6,fdp-fraktion.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 212.91.232.53,4,-7,fnst.org,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 212.91.232.215,4,5,freie-demokraten.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 212.91.232.51,4,21,freiheit.org,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
-80.241.59.35,4,9,freiheitsrechte.org,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
+80.241.59.35,4,0,freiheitsrechte.org,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 212.42.244.122,4,-3,fritz.box,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
-80.241.59.57,4,48,gemeingut.org,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 141.20.80.230,4,0,genderopen.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 104.151.107.135,4,1,greven.net,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 212.36.170.234,4,2,gropiusbau.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
@@ -59,12 +58,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 85.215.167.141,4,-25,Ookla Speedtest Server 69225: spd.cndd.net,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 85.215.249.148,4,0,Ookla Speedtest Server 69657: speedtest04.ber.server.camp,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 192.102.162.200,4,3,open-roberta.org,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
-82.140.0.52,4,54,openhpi.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
+82.140.0.52,4,-30,openhpi.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 80.241.58.18,4,2,opensourcepress.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 80.241.59.95,4,8,opentalk.eu,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 34.32.27.218,4,27,palaeontologyonline.com,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 212.91.232.171,4,-3,qantara.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
-85.158.2.224,4,16,quimica.es,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
+85.158.2.224,4,1,quimica.es,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 93.92.128.131,4,30,reiterrevue.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 62.214.70.170,4,22,ruesselsheim.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 80.239.207.166,4,11,schule.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
@@ -73,7 +72,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 80.241.59.128,4,6,sprind.org,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 62.214.70.164,4,21,stadt-kassel.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 193.104.220.23,4,16,taz.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
-217.197.86.172,4,8,transportr.app,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
+217.197.86.172,4,-2,transportr.app,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 82.140.15.120,4,20,tvb.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 62.141.177.111,4,9,wias-berlin.de,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin
 212.42.230.38,4,-162,wizards-of-os.org,DE,Europe,Western Europe,Germany,State of Berlin,,Berlin

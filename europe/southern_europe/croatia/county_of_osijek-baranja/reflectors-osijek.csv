@@ -1,5 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 161.53.204.33,4,-44,ffos.hr,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Osijek
 194.152.247.138,4,12,kbc-rijeka.hr,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Osijek
-194.152.248.44,4,0,multilink.hr,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Osijek
+194.152.248.44,4,-2,multilink.hr,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Osijek
 194.152.247.144,4,15,unicath.hr,HR,Europe,Southern Europe,Croatia,County of Osijek-Baranja,,Osijek

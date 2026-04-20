@@ -27,15 +27,15 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 83.0.184.13,4,2,DNS Server: ome13.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
 83.142.189.67,4,-202,DNS Server: otrs.salumanus.com,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
 91.196.212.42,4,-3,DNS Server: scandale.telnet.krakow.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-62.121.136.212,4,7,ekspertpr.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+62.121.136.212,4,0,ekspertpr.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
 62.121.130.4,4,-8,forum-turystyczne.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
 62.121.136.66,4,-7,galeriadomow.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-194.33.187.76,4,26,groteska.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-62.121.131.82,4,9,jordan.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+194.33.187.76,4,8,groteska.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+62.121.131.82,4,0,jordan.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
 194.53.193.151,4,-4,koremba.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
 62.121.130.31,4,-11,krakow.travel,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
 93.159.158.151,4,-16,krakowairport.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-83.142.186.205,4,87,marr.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+83.142.186.205,4,-1,marr.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
 94.124.10.66,4,6,masternet.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
 185.45.247.171,4,4,meteofor.com.ua,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
 185.45.247.170,4,1,meteofor.com.ua,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
@@ -48,11 +48,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 213.172.173.138,4,5,Ookla Speedtest Server 30440: speedtest.exatel.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
 185.45.244.241,4,-4,Ookla Speedtest Server 37698: speedtest.w-net.eu,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
 185.45.244.245,4,31,Ookla Speedtest Server 37699: speedtest.domonet.me,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-193.164.255.66,4,358,Ookla Speedtest Server 38577: speedtest.awist.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-91.196.215.5,4,321,Ookla Speedtest Server 63794: speedtest.dev.telnet.krakow.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+193.164.255.66,4,2,Ookla Speedtest Server 38577: speedtest.awist.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
+91.196.215.5,4,0,Ookla Speedtest Server 63794: speedtest.dev.telnet.krakow.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
 194.53.115.250,4,14,Ookla Speedtest Server 69242: speedtest.is-net.com.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
 185.16.229.205,4,14,optima.school,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
 194.53.193.136,4,0,pzk.org.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
 62.121.130.240,4,10,tur-info.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
 62.121.136.161,4,19,wawel.com.pl,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow
-193.16.47.93,4,-295,wnet.ua,PL,Europe,Eastern Europe,Poland,Lesser Poland,,Krakow

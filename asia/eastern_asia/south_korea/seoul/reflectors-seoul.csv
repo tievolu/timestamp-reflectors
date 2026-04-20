@@ -1,10 +1,10 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 8.220.196.231,4,0,90vs.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 34.64.222.161,4,-8,amazingticket.site,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-141.164.58.45,4,10,blingmolt.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-158.247.219.202,4,9,cakeandallie.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-8.213.131.135,4,2,carryprotocol.io,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-146.56.191.88,4,8,chiwava.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
+141.164.58.45,4,13,blingmolt.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
+158.247.219.202,4,11,cakeandallie.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
+8.213.131.135,4,-5,carryprotocol.io,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
+146.56.191.88,4,3,chiwava.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 158.247.226.26,4,1,choiloto.org,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 218.232.66.7,4,11,detaildnp.co.kr,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 158.247.210.85,4,-6,DNS Server: 158.247.210.85.vultrusercontent.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
@@ -17,36 +17,33 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 140.238.10.79,4,4,DoH server: frog.dns.qwer.pw,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 129.154.217.90,4,-3,DoH server: kr1.ooroot.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 140.238.15.1,4,3,DoH server: kr2.ooroot.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-91.204.224.58,4,2,efuns.net,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
+91.204.224.58,4,-2,efuns.net,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 141.164.51.104,4,24,eholynet.org,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-146.56.166.92,4,8,funami.tech,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
+146.56.166.92,4,6,funami.tech,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 132.145.84.111,4,5,hmm21.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 43.155.164.155,4,0,honglinyutian.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 158.247.224.220,4,16,hotels-in-dubai.org,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-158.247.193.62,4,70,iscope.co.kr,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 218.38.54.138,4,-11,jdtsolution.kr,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-158.247.251.190,4,9,k1newsleader.co.kr,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
+158.247.251.190,4,-543,k1newsleader.co.kr,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 211.45.37.180,4,-6,kcar.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 34.64.118.60,4,-13,koreaexpose.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 58.229.105.94,4,-4,mdy.co.kr,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-116.122.37.77,4,4168,no1shop.net,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
+116.122.37.77,4,928,no1shop.net,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 34.64.242.113,4,5,onmam.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 202.165.66.5,4,-2,Ookla Speedtest Server 73226: seoul.speedtest.gslnetworks.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-158.247.219.198,4,21,penhoo.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-112.171.26.29,4,-32398481,peopleandad.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-158.247.234.237,4,8,pmangvegasmoney.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
+158.247.219.198,4,15,penhoo.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
+158.247.234.237,4,14,pmangvegasmoney.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 158.247.245.11,4,19,poh.kr,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-158.247.215.67,4,7,pr25.net,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
+158.247.215.67,4,15,pr25.net,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 43.128.137.168,4,5,shadiao.pro,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-43.131.254.145,4,-3,shs-dome3.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-158.247.203.49,4,9,tellthechildrenthetruth.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
+158.247.203.49,4,15,tellthechildrenthetruth.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 140.238.30.27,4,10,totolink.net,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 58.229.6.69,4,5,ttaf.kr,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 1.250.0.14,4,-429,Verizon (Newark NJ),KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-104.37.214.54,4,33,w09776.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-8.220.204.248,4,4,waltonchain.org,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
+104.37.214.54,4,-1,w09776.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
+8.220.204.248,4,7,waltonchain.org,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 158.247.251.40,4,27,wegenie.kr,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-218.38.58.172,4,704,xn--9d0bp30cjhe9zk.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
+218.38.58.172,4,514,xn--9d0bp30cjhe9zk.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 49.171.184.105,4,2244,xn--jj0bn3viuefqbv6k.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-64.176.225.123,4,10,yesonoil.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-141.164.45.114,4,20,youngpoongwood.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
+64.176.225.123,4,11,yesonoil.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
+141.164.45.114,4,14,youngpoongwood.com,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul

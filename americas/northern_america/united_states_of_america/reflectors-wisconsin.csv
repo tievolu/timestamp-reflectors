@@ -1,10 +1,9 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 12.145.166.5,4,15,800ceoread.com,US,Americas,Northern America,United States of America,Wisconsin,,Milwaukee
 24.196.82.225,4,486,ada-auth.org,US,Americas,Northern America,United States of America,Wisconsin,,Madison
-162.217.86.217,4,9,audiofidelity.net,US,Americas,Northern America,United States of America,Wisconsin,,Franklin
+162.217.86.217,4,1,audiofidelity.net,US,Americas,Northern America,United States of America,Wisconsin,,Franklin
 98.100.223.164,4,-1,boatus.org,US,Americas,Northern America,United States of America,Wisconsin,,Milwaukee
-139.60.100.49,4,-2,bogsfootwear.ca,US,Americas,Northern America,United States of America,Wisconsin,,Glendale
-139.60.100.59,4,3,bogsfootwear.co.uk,US,Americas,Northern America,United States of America,Wisconsin,,Glendale
+139.60.100.59,4,-9,bogsfootwear.co.uk,US,Americas,Northern America,United States of America,Wisconsin,,Glendale
 139.60.100.48,4,-10,bogsfootwear.com,US,Americas,Northern America,United States of America,Wisconsin,,Glendale
 162.218.1.164,4,-74,captel.com,US,Americas,Northern America,United States of America,Wisconsin,,Madison
 24.183.48.12,4,-8899,DNS Server: 024-183-048-012.res.spectrum.com,US,Americas,Northern America,United States of America,Wisconsin,,Janesville
@@ -13,7 +12,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 12.148.221.214,4,101846,DNS Server: 12-148-221-214.sonicpcs.net,US,Americas,Northern America,United States of America,Wisconsin,,Orfordville
 173.89.42.201,4,57012,DNS Server: cpe-173-89-42-201.wi.res.rr.com,US,Americas,Northern America,United States of America,Wisconsin,,Milwaukee
 24.167.224.197,4,2899,DNS Server: cpe-24-167-224-197.wi.res.rr.com,US,Americas,Northern America,United States of America,Wisconsin,,Milwaukee
-65.27.67.206,4,3194,DNS Server: cpe-65-27-67-206.new.res.rr.com,US,Americas,Northern America,United States of America,Wisconsin,,Oshkosh
 65.30.52.105,4,-14,DNS Server: cpe-65-30-52-105.wi.res.rr.com,US,Americas,Northern America,United States of America,Wisconsin,,New Berlin
 98.144.108.193,4,-205,DNS Server: cpe-98-144-108-193.wi.res.rr.com,US,Americas,Northern America,United States of America,Wisconsin,,Muskego
 24.211.5.23,4,-1816,DNS Server: gen-024-211-005-23.res.spectrum.com,US,Americas,Northern America,United States of America,Wisconsin,,Waukesha
@@ -26,9 +24,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 144.92.48.190,4,5,fiji.sc,US,Americas,Northern America,United States of America,Wisconsin,,DeForest
 139.60.100.41,4,-23,florsheim.com,US,Americas,Northern America,United States of America,Wisconsin,,Glendale
 139.60.100.55,4,-24,florsheim.eu,US,Americas,Northern America,United States of America,Wisconsin,,Glendale
-139.60.100.56,4,-6,forsake.com,US,Americas,Northern America,United States of America,Wisconsin,,Glendale
 199.195.146.143,4,1,glenoaks.edu,US,Americas,Northern America,United States of America,Wisconsin,,Franklin
-128.104.111.211,4,4,globalcryospherewatch.org,US,Americas,Northern America,United States of America,Wisconsin,,Madison
+128.104.111.211,4,1,globalcryospherewatch.org,US,Americas,Northern America,United States of America,Wisconsin,,Madison
 162.217.86.164,4,10,ihomeschoolnetwork.com,US,Americas,Northern America,United States of America,Wisconsin,,Franklin
 144.92.48.194,4,5,image.sc,US,Americas,Northern America,United States of America,Wisconsin,,DeForest
 144.92.48.180,4,-2,imagej.net,US,Americas,Northern America,United States of America,Wisconsin,,DeForest
@@ -36,13 +33,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 66.185.30.136,4,10,macminivault.com,US,Americas,Northern America,United States of America,Wisconsin,,Franklin
 66.170.2.86,4,25,madisonchildrensmuseum.org,US,Americas,Northern America,United States of America,Wisconsin,,Madison
 66.185.26.90,4,9,marionrecord.com,US,Americas,Northern America,United States of America,Wisconsin,,Franklin
-205.213.240.19,4,31,mcpl.us,US,Americas,Northern America,United States of America,Wisconsin,,Hammond
+205.213.240.19,4,0,mcpl.us,US,Americas,Northern America,United States of America,Wisconsin,,Hammond
 144.92.226.95,4,6,mediahistoryproject.org,US,Americas,Northern America,United States of America,Wisconsin,,Madison
 199.102.238.171,4,-1,metrojacksonville.com,US,Americas,Northern America,United States of America,Wisconsin,,Franklin
-74.62.73.2,4,61,mtpleasantwi.gov,US,Americas,Northern America,United States of America,Wisconsin,,Milwaukee
-144.92.142.11,4,3,neos-guide.org,US,Americas,Northern America,United States of America,Wisconsin,,Madison
+74.62.73.2,4,14,mtpleasantwi.gov,US,Americas,Northern America,United States of America,Wisconsin,,Milwaukee
+144.92.142.11,4,0,neos-guide.org,US,Americas,Northern America,United States of America,Wisconsin,,Madison
 162.217.86.162,4,-14,newenergyandfuel.com,US,Americas,Northern America,United States of America,Wisconsin,,Franklin
-139.60.100.43,4,-13,nunnbush.com,US,Americas,Northern America,United States of America,Wisconsin,,Glendale
 204.152.38.164,4,4,oldtimeradiodownloads.com,US,Americas,Northern America,United States of America,Wisconsin,,Waupaca
 69.147.222.51,4,-14,Ookla Speedtest Server 11685: speedtest.airstreamcomm.net,US,Americas,Northern America,United States of America,Wisconsin,,Eau Claire
 66.170.4.22,4,-12,Ookla Speedtest Server 12715: speedtest.supranet.net,US,Americas,Northern America,United States of America,Wisconsin,,Madison
@@ -60,18 +56,18 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 209.94.172.170,4,-3,Ookla Speedtest Server: speedtest.dwave.net,US,Americas,Northern America,United States of America,Wisconsin,,Hancock
 66.185.30.186,4,3,Ookla Speedtest Server: www.mynetworkhelpdesk.com,US,Americas,Northern America,United States of America,Wisconsin,,Franklin
 144.92.142.6,4,2,optimization-online.org,US,Americas,Northern America,United States of America,Wisconsin,,Madison
-144.92.142.12,4,33,optimization-online.org,US,Americas,Northern America,United States of America,Wisconsin,,Madison
-38.39.182.41,4,21,paokworld.com,US,Americas,Northern America,United States of America,Wisconsin,,Milwaukee
+144.92.142.12,4,1,optimization-online.org,US,Americas,Northern America,United States of America,Wisconsin,,Madison
+38.39.182.41,4,1,paokworld.com,US,Americas,Northern America,United States of America,Wisconsin,,Milwaukee
 67.52.45.38,4,8,pegasusautoracing.com,US,Americas,Northern America,United States of America,Wisconsin,,Milwaukee
-66.185.18.237,4,41,planetsub.com,US,Americas,Northern America,United States of America,Wisconsin,,Franklin
+66.185.18.237,4,3,planetsub.com,US,Americas,Northern America,United States of America,Wisconsin,,Franklin
 209.242.233.69,4,6,protect-all.com,US,Americas,Northern America,United States of America,Wisconsin,,Columbus
 66.185.21.59,4,22,referee.com,US,Americas,Northern America,United States of America,Wisconsin,,Franklin
-66.185.26.120,4,14,scafabtool.com,US,Americas,Northern America,United States of America,Wisconsin,,Franklin
+66.185.26.120,4,0,scafabtool.com,US,Americas,Northern America,United States of America,Wisconsin,,Franklin
 12.148.217.37,4,22,sfbank.com,US,Americas,Northern America,United States of America,Wisconsin,,Orfordville
 204.152.38.89,4,666,skydivechicago.com,US,Americas,Northern America,United States of America,Wisconsin,,Waupaca
-162.221.89.144,4,3,spiralstrategic.com,US,Americas,Northern America,United States of America,Wisconsin,,Franklin
+162.221.89.144,4,-1,spiralstrategic.com,US,Americas,Northern America,United States of America,Wisconsin,,Franklin
 139.60.100.42,4,8,stacyadams.com,US,Americas,Northern America,United States of America,Wisconsin,,Glendale
-199.195.146.139,4,15,superiortrails.com,US,Americas,Northern America,United States of America,Wisconsin,,Franklin
+199.195.146.139,4,2,superiortrails.com,US,Americas,Northern America,United States of America,Wisconsin,,Franklin
 216.165.179.168,4,5,tommybartlett.com,US,Americas,Northern America,United States of America,Wisconsin,,Middleton
 162.221.89.153,4,-2218,twelvetribes.org,US,Americas,Northern America,United States of America,Wisconsin,,Franklin
 161.38.17.253,4,15,vendetta-online.com,US,Americas,Northern America,United States of America,Wisconsin,,Milwaukee

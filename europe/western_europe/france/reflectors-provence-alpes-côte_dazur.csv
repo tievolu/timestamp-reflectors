@@ -2,7 +2,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 5.226.2.241,4,-1,aip-fonctionpublique.fr,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Var,Toulon
 147.94.19.249,4,-38,centrale-mediterranee.fr,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,Marseille
 139.124.146.14,4,-63,cereq.fr,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,Marseille
-188.240.51.83,4,1,coupure-electricite.fr,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,Nice
+188.240.51.83,4,-6,coupure-electricite.fr,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,Nice
 78.153.224.243,4,2,DNS Server: cpe-et005492.cust.jaguar-network.net,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,Marseille
 85.69.158.6,4,2702056,DNS Server: mx.sum-online.fr,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,,
 45.140.164.127,4,-4,DoH server: dnscry.pt-marseille-ipv4,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,Marseille
@@ -10,7 +10,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 199.232.82.132,4,-9,girlswalker.com,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,Marseille
 193.48.96.10,4,-4706,hal.science,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,Nice
 213.225.239.225,4,8,incredibox.com,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,Cannes
-45.155.171.163,4,24,lacontrevoie.fr,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,Nice
+45.155.171.163,4,-1,lacontrevoie.fr,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,Nice
 217.13.56.155,4,-24,mmv.fr,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,Biot
 202.165.68.1,4,11,Ookla Speedtest Server 48390: mrs2.speedtest.gslnetworks.com,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,Marseille
 45.155.168.32,4,-1,Ookla Speedtest Server 48616: speedtest-ookla-nce.as62000.net,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,Nice
@@ -18,9 +18,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 85.69.158.3,4,1,pc-infopratique.com,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,,
 45.155.169.126,4,-3,peter-services.fr,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,Nice
 217.13.57.217,4,9,royatonic.com,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,Biot
-193.48.96.87,4,-13403,sciencesconf.org,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,Nice
 139.124.245.191,4,18,univ-amu.fr,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,Cabriès
 217.13.56.188,4,31,vacancesbleues.fr,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,Biot
 185.216.26.203,4,7,vireoapp.com,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Alpes-Maritimes,Nice
-38.54.123.61,4,3,www.gov.hk,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,Marseille
-38.54.123.58,4,6,www.gov.hk,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,Marseille
+38.54.123.61,4,-1,www.gov.hk,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,Marseille
+38.54.123.58,4,-2,www.gov.hk,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,Marseille

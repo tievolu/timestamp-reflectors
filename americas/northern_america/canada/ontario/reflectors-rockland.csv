@@ -1,11 +1,9 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-23.111.64.229,4,-3,azevedonelson.com,CA,Americas,Northern America,Canada,Ontario,,Rockland
 23.111.66.14,4,-11,babartoo.com,CA,Americas,Northern America,Canada,Ontario,,Rockland
-23.111.64.30,4,903,beprofitable.ca,CA,Americas,Northern America,Canada,Ontario,,Rockland
+23.111.64.30,4,890,beprofitable.ca,CA,Americas,Northern America,Canada,Ontario,,Rockland
 23.111.66.4,4,-10,cowichanmaternityclinic.ca,CA,Americas,Northern America,Canada,Ontario,,Rockland
 23.111.64.214,4,8,cwhc-rcsf.ca,CA,Americas,Northern America,Canada,Ontario,,Rockland
-23.111.64.69,4,-2,disabilityalliancebc.org,CA,Americas,Northern America,Canada,Ontario,,Rockland
-23.111.64.199,4,2669,educatedearth.net,CA,Americas,Northern America,Canada,Ontario,,Rockland
+23.111.64.199,4,1170,educatedearth.net,CA,Americas,Northern America,Canada,Ontario,,Rockland
 23.111.64.180,4,1356,fullahead.org,CA,Americas,Northern America,Canada,Ontario,,Rockland
 23.111.64.7,4,0,funky-stuff.com,CA,Americas,Northern America,Canada,Ontario,,Rockland
 23.111.64.26,4,-2,gcatholic.org,CA,Americas,Northern America,Canada,Ontario,,Rockland
@@ -13,5 +11,5 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 23.111.64.80,4,10,jproc.ca,CA,Americas,Northern America,Canada,Ontario,,Rockland
 23.111.65.132,4,1453,sqliteexpert.com,CA,Americas,Northern America,Canada,Ontario,,Rockland
 23.111.64.145,4,9,tarragontheatre.com,CA,Americas,Northern America,Canada,Ontario,,Rockland
-23.111.64.178,4,8,thunderbirdhouse.ca,CA,Americas,Northern America,Canada,Ontario,,Rockland
+23.111.64.178,4,6,thunderbirdhouse.ca,CA,Americas,Northern America,Canada,Ontario,,Rockland
 23.111.66.231,4,4,zetetics.com,CA,Americas,Northern America,Canada,Ontario,,Rockland

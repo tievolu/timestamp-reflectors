@@ -1,8 +1,8 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 151.243.137.138,4,4,1win.com.mx,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-200.152.177.46,4,4,4x4brasil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Ribeirão Preto
+200.152.177.46,4,-2,4x4brasil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Ribeirão Preto
 187.45.186.42,4,511,aa.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-62.72.63.40,4,0,abejor.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+62.72.63.40,4,-5,abejor.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 179.190.13.200,4,-7,abree.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Jundiaí
 166.0.186.28,4,-1,acaidoninja.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Vinhedo
 187.102.157.83,4,2,acaoeducativa.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
@@ -11,8 +11,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 177.136.254.70,4,-34,aelesab.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 195.35.43.65,4,4,aepet.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 45.179.90.194,4,-3,agbt.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-34.95.253.60,4,6,ahkbrasil.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-91.108.124.158,4,13,alafa.info,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+34.95.253.60,4,-1,ahkbrasil.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+91.108.124.158,4,-1,alafa.info,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 66.22.76.78,4,-6,alicorp.com.pe,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 200.219.255.156,4,1473,amazonia.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 69.6.222.215,4,-18,amb.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
@@ -23,9 +23,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 168.195.13.51,4,3,arquidiocesedearacaju.org,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Lins
 82.112.245.161,4,-2,artesdeolga.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 82.29.59.241,4,-5,askdeb.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-35.198.56.30,4,34,asopat.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+35.198.56.30,4,-1,asopat.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 177.52.160.74,4,1772,assentec.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-216.238.110.130,4,8,astroamerica.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Osasco
+216.238.110.130,4,-3,astroamerica.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Osasco
 177.71.174.5,4,18,astrus.digital,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 177.69.20.57,4,-4,atena.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 66.22.28.139,4,33,axa.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
@@ -76,11 +76,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 179.108.126.29,4,232,crea-sc.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 177.54.146.125,4,-10,crfsp.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 129.121.46.159,4,-5,crprn.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Vinhedo
-201.48.32.103,4,313,ctbdigital.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Ribeirão Preto
+201.48.32.103,4,-64990,ctbdigital.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Ribeirão Preto
 178.132.198.110,4,-17,cultspplay.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 187.109.36.173,4,-7,culturaniteroi.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 52.67.2.141,4,-8,cutelyst.org,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-35.198.47.45,4,4,dermasthetic.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+35.198.47.45,4,-1,dermasthetic.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 69.6.222.100,4,10,diap.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 193.123.99.205,4,0,diarioinduscom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Vinhedo
 185.137.92.152,4,-7,divulgaaqui.online,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
@@ -93,7 +93,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 177.139.163.26,4,-766,DNS Server: 177-139-163-26.dsl.telesp.net.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 177.144.128.64,4,-69940,DNS Server: 177-144-128-64.user.vivozap.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 177.174.112.253,4,49366881,DNS Server: 177-174-112-253.user.vivozap.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-177.200.69.231,4,-52980135,DNS Server: 177-200-69-231.alcanstelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Ribeirão Preto
 177.200.69.235,4,-1,DNS Server: 177-200-69-235.alcanstelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Ribeirão Preto
 177.38.72.42,4,-10,DNS Server: 177-38-72-42.nationaltelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Jales
 179.175.40.158,4,0,DNS Server: 179-175-40-158.user.vivozap.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Engenheiro Coelho
@@ -188,10 +187,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 108.181.69.153,4,-7,DoH server: dnscry.pt-saopaulo-ipv4,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 144.22.247.219,4,-3,DoH server: ibuki.cgnat.net,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 45.179.90.176,4,17,dominium-hf.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-187.102.244.21,4,3,ecommercebrasil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+187.102.244.21,4,-5,ecommercebrasil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 35.247.220.50,4,-5,elciudadanoweb.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 129.121.41.191,4,22,elevadoa3.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-177.154.147.203,4,15,eliane.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+177.154.147.203,4,-11,eliane.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 119.8.87.48,4,-31,epl.gov.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 200.219.255.102,4,-15,escolastamonica.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 45.178.224.186,4,-39,fabv.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Barueri
@@ -200,14 +199,14 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 34.151.251.126,4,-40,fastcompanybrasil.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 201.55.32.226,4,6,fatecsp.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 179.191.98.230,4,-6,fecap.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-181.215.46.243,4,26,feiradorolomogi.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Osasco
+181.215.46.243,4,0,feiradorolomogi.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Osasco
 34.39.233.26,4,3,felitron.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 168.231.93.80,4,3,fgvjr.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-177.52.160.63,4,1072,fontesville.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+177.52.160.63,4,4233,fontesville.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 168.75.71.20,4,-4,foradoar.org,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 38.180.16.130,4,-24,foradoar.org,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 92.246.130.159,4,-5,foradoar.org,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-187.102.244.43,4,2,foradoar.org,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+187.102.244.43,4,-4,foradoar.org,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 35.247.200.188,4,-1,fundacionsol.cl,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 146.235.31.74,4,-19,fundacred.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 38.180.196.193,4,-5,gaspowered.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
@@ -218,13 +217,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 35.215.213.20,4,-4442,go2peru.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 107.150.167.202,4,-3,gocil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Vinhedo
 191.101.18.68,4,-1,goldsky.com.uy,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-203.159.80.234,4,2,guaranifc.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+203.159.80.234,4,0,guaranifc.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 54.232.63.176,4,6,guestdash.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 200.152.191.40,4,-9,hagah.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Ribeirão Preto
-149.18.50.184,4,2,hnetsites.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+149.18.50.184,4,0,hnetsites.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 187.73.144.2,4,-7,hotelbrasilbebedouro.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Bebedouro
 140.99.164.120,4,2,hylpress.net,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-35.247.255.203,4,6,ibccrim.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 155.204.218.34,4,-382375,ibgm.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 52.67.56.188,4,-1,ibgpconcursos.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 54.207.126.74,4,-15,ibgpconcursos.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
@@ -243,7 +241,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 77.37.126.89,4,9,inesc.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 163.176.131.158,4,-3,influx.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 217.196.61.230,4,-7,informa.life,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-45.178.224.77,4,3,interprimetec.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Barueri
+45.178.224.77,4,-1,interprimetec.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Barueri
 107.150.167.186,4,-6,jalapaoexpedicoes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Vinhedo
 45.225.80.29,4,13,jmvstream.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 72.60.56.12,4,0,kolpaeditores.edu.pe,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
@@ -256,16 +254,15 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 187.11.115.63,4,17,leardi.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 167.249.240.168,4,-3,lightsystemsoft.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Iracemápolis
 145.223.27.213,4,-8,logweb.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-187.108.199.185,4,-8,macucosafari.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-200.219.229.6,4,1234,marketbrindes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-200.201.204.37,4,69,marmorariacaragua.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-200.201.208.240,4,3,marmorariajardimpaulista.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-200.201.217.116,4,32,marmorariajardimpaulista.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-177.52.160.17,4,1014,maujor.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+200.219.229.6,4,3004,marketbrindes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+200.201.204.37,4,75,marmorariacaragua.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+200.201.208.240,4,-1,marmorariajardimpaulista.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+200.201.217.116,4,-1,marmorariajardimpaulista.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+177.52.160.17,4,-5,maujor.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 72.62.136.71,4,-4,maxipark.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 168.138.152.117,4,-20,me.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 144.22.180.163,4,-4,metodista.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-132.226.240.51,4,15,metodista.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+132.226.240.51,4,0,metodista.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 187.121.160.5,4,57720,mfpecas.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Laranjal Paulista
 177.136.251.226,4,-6,mtxfer.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 93.127.211.194,4,-3,mudes.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
@@ -278,7 +275,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 217.196.60.10,4,46,okta.club,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 144.22.243.235,4,5,oliberal.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 80.94.90.159,4,4,oliveirasantos-imobiliaria.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-66.22.76.160,4,15,omint.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+66.22.76.160,4,-1,omint.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 189.1.176.218,4,1,Ookla Speedtest Server 1318: speedtest.ntelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Limeira
 179.108.84.118,4,-3,Ookla Speedtest Server 1846: campinas.speedtest.netturbosolucoes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Nova Odessa
 177.52.104.15,4,14,Ookla Speedtest Server 2158: speedtest.xturbo.net.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Leme
@@ -338,7 +335,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 164.163.28.233,4,3,Ookla Speedtest Server 19506: stmc.aliancanet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 187.49.240.21,4,0,Ookla Speedtest Server 19663: speedtest.jdnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Ibirá
 177.73.177.24,4,-6,Ookla Speedtest Server 19721: speedtest.sothis.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-200.152.70.142,4,268,Ookla Speedtest Server 19751: fujin.tdkom.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+200.152.70.142,4,8,Ookla Speedtest Server 19751: fujin.tdkom.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 191.5.164.60,4,-23598,Ookla Speedtest Server 19972: speedtest.server.imf.net.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Marília
 186.237.4.242,4,-1,Ookla Speedtest Server 20459: speedtest.provale.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Guaratinguetá
 45.238.228.66,4,69040520,Ookla Speedtest Server 20801: speedtest-cdn.redenetprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Agudos
@@ -389,7 +386,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 200.25.58.86,4,-3,Ookla Speedtest Server 29666: spt-sao1.edgeuno.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 45.160.252.22,4,635747,Ookla Speedtest Server 29750: speedtest.fastnetbr.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Auriflama
 170.150.72.29,4,21,Ookla Speedtest Server 29769: speedtest.iranettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Cidade Dutra
-45.185.71.246,4,374,Ookla Speedtest Server 29860: speed.dwnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+45.185.71.246,4,11,Ookla Speedtest Server 29860: speed.dwnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 45.183.191.254,4,2,Ookla Speedtest Server 29876: speedtest.cybertelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 45.6.184.66,4,-12,Ookla Speedtest Server 29940: cdn-speedtest.mafhen.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Areiópolis
 45.180.136.9,4,14,Ookla Speedtest Server 30160: speedtest.azarititelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Populina
@@ -498,7 +495,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.170.99.30,4,3,Ookla Speedtest Server 43115: medidor.elevartelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Hortolândia
 45.179.91.21,4,-7,Ookla Speedtest Server 43144: speedtest-spo.hostzone.net,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 190.11.216.76,4,35066,Ookla Speedtest Server 43277: speedtest.conectagold.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-190.11.216.20,4,404,Ookla Speedtest Server 43277: speedtest.conectagold.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+190.11.216.20,4,-1,Ookla Speedtest Server 43277: speedtest.conectagold.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 143.0.60.37,4,-13,Ookla Speedtest Server 43306: speedtest.mvatelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Campinas
 170.238.228.232,4,-15,Ookla Speedtest Server 43696: sp1.ondanetitajobi.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Itajobi
 201.182.166.5,4,-197155,Ookla Speedtest Server 43706: speedtest.maisnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Santana de Parnaíba
@@ -524,7 +521,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 206.0.90.6,4,-162687,Ookla Speedtest Server 46275: velocidade.clickfibratelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Jundiaí
 45.234.236.195,4,-10,Ookla Speedtest Server 46293: speedtest.digitalltelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Aguaí
 170.84.96.78,4,18,Ookla Speedtest Server 46484: speedtest.visionetfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-186.26.90.2,4,222,Ookla Speedtest Server 46596: dtconnect-sp1.gnctelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+186.26.90.2,4,0,Ookla Speedtest Server 46596: dtconnect-sp1.gnctelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 138.59.240.6,4,-12,Ookla Speedtest Server 46719: speedtest.guaptelnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Guapiaçu
 132.255.117.34,4,-12,Ookla Speedtest Server 47024: speedtestgja.polotel.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Guarujá
 192.141.116.8,4,-5,Ookla Speedtest Server 47051: fiberinovadoranet.inovadoranet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Itapira
@@ -576,7 +573,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.191.32.37,4,0,Ookla Speedtest Server 53049: speedtest.leksttelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 131.100.132.204,4,-11679,Ookla Speedtest Server 53175: speedtest3.radiobrastelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Ribeirão Preto
 200.219.56.69,4,-2,Ookla Speedtest Server 53390: speedtestsvr.rapidfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Praia Grande
-45.226.77.10,4,303,Ookla Speedtest Server 53534: speedtest.navixtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Pitangueiras
+45.226.77.10,4,18,Ookla Speedtest Server 53534: speedtest.navixtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Pitangueiras
 187.62.208.90,4,-1,Ookla Speedtest Server 53637: speedtest.wsnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 45.183.155.44,4,-11,Ookla Speedtest Server 53675: speedtest.redfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Osasco
 45.165.174.39,4,4,Ookla Speedtest Server 53751: teste.pontocertointernet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
@@ -663,7 +660,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 201.48.76.68,4,4936,Ookla Speedtest Server 61991: netwavesfibra.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Miguelópolis
 200.162.160.149,4,4,Ookla Speedtest Server 62058: spdtst.abasetelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Marília
 186.232.253.143,4,-15,Ookla Speedtest Server 62060: speedtest.conecta-fibraoptica.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Araraquara
-138.36.212.23,4,190,Ookla Speedtest Server 62065: speedtest.voee.provsolutions.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Limeira
 132.255.72.15,4,3,Ookla Speedtest Server 62080: speedtest2.megaredes.net.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Rosana
 190.83.86.34,4,-5464950,Ookla Speedtest Server 62097: velocidade.webfibratelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Guarujá
 38.250.223.2,4,-93256,Ookla Speedtest Server 62151: teste.fullnetfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Embu das Artes
@@ -770,19 +766,16 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 201.182.120.18,4,3,Ookla Speedtest Server 74331: fox.avianet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Lins
 198.1.195.85,4,-9,Ookla Speedtest Server 74491: dns.jd.net.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 198.1.195.86,4,14,Ookla Speedtest Server 74491: dns.jd.net.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-45.71.124.138,4,309,Ookla Speedtest Server: speedtest.fibranet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Campinas
-45.233.51.232,4,324,Ookla Speedtest Server: speedtest.gfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,
-201.69.104.106,4,6856,Ookla Speedtest Server: teste.moovenet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-187.49.32.20,4,-12912,Ookla Speedtest Server: velocidade.maxiweb.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Jundiaí
+45.71.124.138,4,8,Ookla Speedtest Server: speedtest.fibranet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Campinas
+201.69.104.106,4,3,Ookla Speedtest Server: teste.moovenet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 186.233.16.220,4,-3,Ookla Speedtest Server: www.conchalnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Conchal
-186.233.16.24,4,1021,Ookla Speedtest Server: www.conchalnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Conchal
 177.136.231.55,4,734,opinanews.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 189.50.110.14,4,63481,ortigoza.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Lençóis Paulista
-85.31.60.179,4,3,osaopaulo.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+85.31.60.179,4,-6,osaopaulo.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 160.202.130.241,4,-3,palcomp3.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 160.202.130.237,4,16,palcomp3.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 160.202.130.29,4,-10,palcomp3.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-177.54.145.108,4,12,palcomp3.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+177.54.145.108,4,-5689,palcomp3.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 195.35.18.163,4,-21,paraibatotal.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 186.192.142.23,4,13,personalvip.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Barueri
 177.136.254.68,4,7,planaltohotelaruja.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
@@ -793,7 +786,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 191.101.234.114,4,4,portalguarani.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 137.131.166.123,4,15,portaliso.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 52.67.204.209,4,21,primecursos.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-187.102.244.76,4,67,profesionalsdr.store,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+187.102.244.76,4,-5,profesionalsdr.store,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 170.82.174.15,4,2,promobit.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 170.82.173.15,4,1,promobit.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 177.52.160.16,4,0,protegecordeiro.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
@@ -804,13 +797,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 52.67.98.226,4,-19,puket.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 129.121.34.20,4,30,purplepier.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Vinhedo
 166.0.186.11,4,-7,quimicosp.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Vinhedo
-200.201.133.212,4,0,r5produtora.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-143.208.8.36,4,116,radiojovemrio.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+200.201.133.212,4,-1,r5produtora.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+143.208.8.36,4,7,radiojovemrio.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 144.22.250.73,4,4,redeangola.info,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 167.86.52.44,4,4,rededorsaoluiz.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 200.219.255.117,4,7,refriconalimentos.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 93.127.211.45,4,8,reitech.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-216.238.113.23,4,18,revistacapitaleconomico.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Osasco
+216.238.113.23,4,0,revistacapitaleconomico.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Osasco
 34.95.255.102,4,30,revistacultivar.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 93.127.211.158,4,2,revistaurbanova.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 35.198.10.55,4,8,rtm.net.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
@@ -826,7 +819,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 186.194.51.50,4,5,semanaacademica.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 77.37.43.33,4,5,semcia.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 189.50.110.27,4,28,sempreroupas.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Lençóis Paulista
-177.11.209.44,4,2567,seujorge.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Santos
+177.11.209.44,4,5518,seujorge.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Santos
 34.95.179.30,4,17,shoppingchina.com.py,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 177.136.254.36,4,3,simego.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 89.116.214.107,4,5,simulados.online,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
@@ -837,19 +830,19 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 102.165.25.38,4,14,spcine.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 54.207.49.51,4,23,spcineplay.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 200.145.46.188,4,44,sprace.org.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-177.54.145.107,4,28,sscdn.co,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+177.54.145.107,4,10,sscdn.co,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 46.202.148.34,4,11,steelcorp.tech,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 66.22.76.193,4,13,sulamerica.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 167.86.52.145,4,2,sulamericaodonto.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 177.136.246.161,4,6,tacontratado.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-93.127.210.231,4,0,thegirlscurls.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+93.127.210.231,4,-5,thegirlscurls.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 103.204.193.11,4,9,tintasrc.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-18.228.76.50,4,4,tofindmould.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-35.198.7.224,4,35,topsony.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+18.228.76.50,4,0,tofindmould.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+35.198.7.224,4,0,topsony.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 56.126.150.129,4,14,totalexpress.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 54.233.101.141,4,14,totalexpress.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 52.67.77.83,4,-17,totalexpress.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-151.101.249.124,4,5,tractorpartsasap.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+151.101.249.124,4,-1,tractorpartsasap.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 72.61.128.138,4,9,traiano.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 200.136.27.194,4,41,tvcultura.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 186.193.230.94,4,45,udop.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
@@ -869,6 +862,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 170.82.174.10,4,3,vittude.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 170.82.173.10,4,11,vittude.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 45.179.90.208,4,14,voetripoficial.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
-195.35.17.224,4,19,webcitizen.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
+195.35.17.224,4,-124,webcitizen.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 145.223.31.49,4,5,webitcoin.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
 129.121.43.85,4,13,wmdiagnosticos.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo

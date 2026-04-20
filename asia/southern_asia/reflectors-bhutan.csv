@@ -1,8 +1,7 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-118.103.136.81,4,6,bfalbt.com,BT,Asia,Southern Asia,Bhutan,Thimphu District,,Thimphu
+118.103.136.81,4,3,bfalbt.com,BT,Asia,Southern Asia,Bhutan,Thimphu District,,Thimphu
 119.2.107.238,4,9,DNS Server: ll-cust-119.2-107-238.gw2.lungtenzampa.druknet.bt,BT,Asia,Southern Asia,Bhutan,Thimphu District,,Thimphu
 202.144.128.216,4,-3,library.gov.bt,BT,Asia,Southern Asia,Bhutan,,,
-202.144.128.201,4,-12,nic.bt,BT,Asia,Southern Asia,Bhutan,,,
 202.144.128.143,4,255922,Ookla Speedtest Server 14901: speedtest.bt.bt,BT,Asia,Southern Asia,Bhutan,,,
 103.127.254.27,4,0,Ookla Speedtest Server 42906: speedtest.datanetwifi.com,BT,Asia,Southern Asia,Bhutan,,,
 103.161.249.15,4,-3586,Ookla Speedtest Server 57631: speedtest.supernetbhutan.com,BT,Asia,Southern Asia,Bhutan,Thimphu District,,Thimphu

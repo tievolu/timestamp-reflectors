@@ -3,7 +3,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 81.31.158.31,4,1,anpeq.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 81.31.158.12,4,24,blunavytraghetti.com,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 81.31.156.8,4,-11,corrieresalentino.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
-81.31.156.148,4,66,corrieresalentino.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
+81.31.156.148,4,2,corrieresalentino.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 81.31.158.38,4,-3,curamagazine.com,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 178.255.191.166,4,3966,DNS Server: 166.block-191.ipv4.avanzati.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Novalesa
 194.116.25.240,4,863,DNS Server: 194-116-25-240-static.bbbell.com,IT,Europe,Southern Europe,Italy,Piedmont,Province of Alessandria,Casale Monferrato
@@ -20,8 +20,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 81.201.6.182,4,2,DNS Server: host182-pool081201006.albedo.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 81.201.4.221,4,-7,DNS Server: host221-pool081201004.albedo.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 77.242.186.206,4,-5,DNS Server: posta.easyprofit.it,IT,Europe,Southern Europe,Italy,Piedmont,Province of Biella,Biella
-81.31.156.162,4,9,donantoniopizza.com,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
-81.31.156.141,4,13,e-duesse.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
+81.31.156.162,4,-3,donantoniopizza.com,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
+81.31.156.141,4,1,e-duesse.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 213.215.222.107,4,3,eutekne.info,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 176.221.51.162,4,-4,firmiamo.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 176.221.51.116,4,-2,gaggia.com,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
@@ -32,12 +32,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 87.250.74.87,4,41,istruzionepiemonte.it,IT,Europe,Southern Europe,Italy,Piedmont,Province of Novara,Novara
 81.31.156.32,4,12,lacrunadellago.net,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 213.254.12.150,4,4,linux.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
-81.31.156.113,4,78,luinonotizie.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
-213.215.222.200,4,35,magnetimarelli.com,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
-81.31.158.18,4,8,mkportal.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
+81.31.156.113,4,-3,luinonotizie.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
+213.215.222.200,4,0,magnetimarelli.com,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
+81.31.158.18,4,0,mkportal.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 81.31.156.160,4,22,mulinocaputo.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 194.116.63.180,4,138,nimbus.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Buriasco
-81.31.158.39,4,27,nuoviprofili.com,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
+81.31.158.39,4,-2,nuoviprofili.com,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 194.116.76.88,4,-5,Ookla Speedtest Server 2316: speedtest1.top-ix.org,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 213.144.68.226,4,6,Ookla Speedtest Server 24900: speedhost3.isiline.it,IT,Europe,Southern Europe,Italy,Piedmont,Province of Cuneo,Cuneo
 46.20.91.252,4,-31,Ookla Speedtest Server 38731: dgtookla01.fibering.com,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
@@ -50,7 +50,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 81.31.156.201,4,6,sayoga.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 193.150.60.193,4,21,teatrostabiletorino.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,La Loggia
 194.116.72.20,4,9,top-ix.org,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
-81.31.151.44,4,6,traghettionline.net,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
+81.31.151.44,4,-2,traghettionline.net,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 81.31.157.10,4,8,traghettiper-sardegna.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 81.31.156.200,4,8,truenumbers.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 213.215.222.58,4,15,tuttogare.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
@@ -58,4 +58,4 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 81.31.145.134,4,7,ugg--australia.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 80.169.109.163,4,23,venice-tourism.com,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 81.31.158.28,4,25,ventonuovo.eu,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
-81.31.156.192,4,15,visionbiz.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
+81.31.156.192,4,1,visionbiz.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin

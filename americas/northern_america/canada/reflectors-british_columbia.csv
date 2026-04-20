@@ -1,17 +1,17 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 64.69.82.147,4,1,4goodhosting.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 162.223.120.34,4,331293,911metallurgist.com,CA,Americas,Northern America,Canada,British Columbia,,Kamloops
-66.209.187.64,4,1122,accelerateokanagan.com,CA,Americas,Northern America,Canada,British Columbia,,Kelowna
+66.209.187.64,4,871,accelerateokanagan.com,CA,Americas,Northern America,Canada,British Columbia,,Kelowna
 162.223.226.94,4,-3,amssa.org,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 193.188.15.166,4,380,babushahi.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
-207.194.216.8,4,40,bananaguard.com,CA,Americas,Northern America,Canada,British Columbia,,Smithers
+207.194.216.8,4,74,bananaguard.com,CA,Americas,Northern America,Canada,British Columbia,,Smithers
 162.223.226.38,4,2,bcgreens.ca,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
-66.85.29.119,4,10,benferencz.org,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
+66.85.29.119,4,4,benferencz.org,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 96.125.178.30,4,2127,calendarzone.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 162.223.226.174,4,27,canterra.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 216.113.194.113,4,2671,chemposite.com,CA,Americas,Northern America,Canada,British Columbia,,New Denver
 142.58.120.2,4,-8,cjsf.ca,CA,Americas,Northern America,Canada,British Columbia,,Burnaby
-67.231.20.210,4,11,compleatseanbean.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
+67.231.20.210,4,3,compleatseanbean.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 66.209.187.76,4,-8,courtprep.ca,CA,Americas,Northern America,Canada,British Columbia,,Kelowna
 23.180.104.119,4,5,cptdb.ca,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 204.11.251.153,4,8,cssa-cila.org,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
@@ -20,7 +20,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 216.21.129.22,4,-2,DNS Server: dns2.van.radiant.net,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 196.240.79.163,4,-28,DoH server: cs-vancouver,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 23.154.81.92,4,-1,DoH server: dnscry.pt-vancouver-ipv4,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
-66.209.180.120,4,5,doxafestival.ca,CA,Americas,Northern America,Canada,British Columbia,,Kelowna
+66.209.180.120,4,-4,doxafestival.ca,CA,Americas,Northern America,Canada,British Columbia,,Kelowna
 23.180.104.35,4,-9,dp9.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 162.223.226.102,4,-1,ecebc.ca,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 216.187.94.167,4,2,ehosting.ca,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
@@ -29,18 +29,18 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 162.213.156.4,4,-6,fisherly.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 162.223.226.21,4,12,genomebc.ca,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 151.101.213.91,4,-7,gentoo.org,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
-208.87.197.148,4,5,hiddenponies.com,CA,Americas,Northern America,Canada,British Columbia,,Surrey
+208.87.197.148,4,-7,hiddenponies.com,CA,Americas,Northern America,Canada,British Columbia,,Surrey
 162.223.226.60,4,1,indiginews.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 162.223.226.26,4,-4,inmedpharma.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 207.6.137.13,4,-31,kgbinternet.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 96.125.178.139,4,11,leadertoday.org,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
-162.223.226.41,4,25,lifesciencesbc.ca,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
+162.223.226.41,4,1,lifesciencesbc.ca,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 152.232.178.38,4,-16,mnbc.ca,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 69.31.189.48,4,-1,mover.net,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 64.34.48.186,4,10,murchies.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 162.223.226.36,4,17,myrgroup.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
-69.10.129.60,4,24,netidea.com,CA,Americas,Northern America,Canada,British Columbia,,Kelowna
-71.19.241.30,4,57,oldcountrymarket.com,CA,Americas,Northern America,Canada,British Columbia,,Coquitlam
+69.10.129.60,4,-1,netidea.com,CA,Americas,Northern America,Canada,British Columbia,,Kelowna
+71.19.241.30,4,14,oldcountrymarket.com,CA,Americas,Northern America,Canada,British Columbia,,Coquitlam
 204.11.248.241,4,7,ontariocrimestoppers.ca,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 207.102.78.141,4,8,Ookla Speedtest Server 3049: vancouver.speedtest.telus.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 216.251.155.5,4,-17,Ookla Speedtest Server 3318: speedtest.skywaywest.net,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
@@ -52,16 +52,16 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 96.125.140.80,4,-2,Ookla Speedtest Server 17168: west-speedtest.frontiernetworks.ca,CA,Americas,Northern America,Canada,British Columbia,,Pitt Meadows
 24.207.8.229,4,-8,Ookla Speedtest Server 22154: speedtest.deltacable.com,CA,Americas,Northern America,Canada,British Columbia,,Golden
 199.119.216.161,4,-29,Ookla Speedtest Server 34825: speedtest.provisiondata.net,CA,Americas,Northern America,Canada,British Columbia,,Kelowna
-69.10.129.62,4,0,oxygenhealingtherapies.com,CA,Americas,Northern America,Canada,British Columbia,,Kelowna
+69.10.129.62,4,-1,oxygenhealingtherapies.com,CA,Americas,Northern America,Canada,British Columbia,,Kelowna
 216.113.194.119,4,2343,paoweb.com,CA,Americas,Northern America,Canada,British Columbia,,New Denver
 216.187.94.181,4,3,peacemagazine.org,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 162.221.207.104,4,15,pearsoncollege.ca,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 207.6.137.14,4,3,peoplesoftheworld.org,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
-64.69.89.21,4,22,peterboroughpublichealth.ca,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
+64.69.89.21,4,-797,peterboroughpublichealth.ca,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 204.11.251.241,4,6,poynton.ca,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 204.11.251.240,4,-19,poynton.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 96.125.178.143,4,13,quakerinfo.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
-162.223.226.194,4,38,rockymountainflatbread.ca,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
+162.223.226.194,4,1,rockymountainflatbread.ca,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 66.209.178.253,4,9,sandvine.com,CA,Americas,Northern America,Canada,British Columbia,,Kelowna
 162.223.120.143,4,1092813,searchenginecolossus.com,CA,Americas,Northern America,Canada,British Columbia,,Kamloops
 162.222.137.219,4,-12,skiburke.com,CA,Americas,Northern America,Canada,British Columbia,,Kelowna
@@ -70,19 +70,19 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 135.84.176.116,4,-228,snwebcastcenter.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 96.125.179.66,4,6,splinterware.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 209.97.222.140,4,3,theeyeopener.com,CA,Americas,Northern America,Canada,British Columbia,,Kelowna
-23.180.104.33,4,4,therez.ca,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
+23.180.104.33,4,-1,therez.ca,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 23.180.104.123,4,42,thesln.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 66.209.187.59,4,13,thyroid.ca,CA,Americas,Northern America,Canada,British Columbia,,Kelowna
 216.113.194.241,4,17,timeisonourside.com,CA,Americas,Northern America,Canada,British Columbia,,New Denver
-66.209.187.65,4,1113,torontomastergardeners.ca,CA,Americas,Northern America,Canada,British Columbia,,Kelowna
+66.209.187.65,4,870,torontomastergardeners.ca,CA,Americas,Northern America,Canada,British Columbia,,Kelowna
 162.223.226.217,4,20,treelinecollective.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 23.180.104.34,4,12,turq.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
-96.53.88.246,4,4,ufobc.ca,CA,Americas,Northern America,Canada,British Columbia,,Surrey
+96.53.88.246,4,-3,ufobc.ca,CA,Americas,Northern America,Canada,British Columbia,,Surrey
 69.10.135.253,4,11,ultimaterollercoaster.com,CA,Americas,Northern America,Canada,British Columbia,,Kelowna
-69.10.154.200,4,9,ultimatewaterpark.com,CA,Americas,Northern America,Canada,British Columbia,,Kelowna
+69.10.154.200,4,-1,ultimatewaterpark.com,CA,Americas,Northern America,Canada,British Columbia,,Kelowna
 158.51.123.142,4,4,viewsfromastepstool.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
 66.85.29.55,4,4,visitoakville.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
-192.243.215.139,4,4,vopenhouse.ca,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
-209.97.195.210,4,3,winebc.com,CA,Americas,Northern America,Canada,British Columbia,,Kelowna
+192.243.215.139,4,1,vopenhouse.ca,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
+209.97.195.210,4,0,winebc.com,CA,Americas,Northern America,Canada,British Columbia,,Kelowna
 23.180.104.121,4,7,wpl.ca,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
-64.69.79.30,4,903,zetetics.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver
+64.69.79.30,4,-24483,zetetics.com,CA,Americas,Northern America,Canada,British Columbia,,Vancouver

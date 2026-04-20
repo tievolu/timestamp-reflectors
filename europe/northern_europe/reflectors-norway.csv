@@ -1,6 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 38.180.77.63,4,-11,22bet.onl,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-192.121.38.145,4,-323,acfnewsource.org,NO,Europe,Northern Europe,Norway,,,
 217.170.193.90,4,6,afrol.com,NO,Europe,Northern Europe,Norway,Rogaland,,Haugesund
 104.37.38.113,4,0,agderleague.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 81.175.54.3,4,-1,agendamagasin.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
@@ -11,10 +10,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 46.250.221.39,4,18,anart.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 185.42.170.200,4,30,anduin.net,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 185.12.56.135,4,5,antropologi.info,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-83.242.12.67,4,7,avaldsnes.info,NO,Europe,Northern Europe,Norway,Vestland,,Husnes
+83.242.12.67,4,-3,avaldsnes.info,NO,Europe,Northern Europe,Norway,Vestland,,Husnes
 185.91.67.250,4,1,basecampexplorer.com,NO,Europe,Northern Europe,Norway,,,
-185.181.60.49,4,47,bato.to,NO,Europe,Northern Europe,Norway,Vestfold,,Sandefjord
-46.250.221.12,4,50,bawser.com,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+185.181.60.49,4,0,bato.to,NO,Europe,Northern Europe,Norway,Vestfold,,Sandefjord
+46.250.221.12,4,3,bawser.com,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 91.220.143.178,4,-1,beatfoundation.com,NO,Europe,Northern Europe,Norway,,,
 91.220.143.177,4,4,beatfoundation.com,NO,Europe,Northern Europe,Norway,,,
 185.114.57.89,4,2,bekkelund.net,NO,Europe,Northern Europe,Norway,,,
@@ -23,20 +22,19 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.190.155.33,4,1,besteonlinecasinos.com,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 185.181.62.139,4,29779,bikez.com,NO,Europe,Northern Europe,Norway,Vestfold,,Sandefjord
 104.233.9.223,4,-6,birkebeiner.no,NO,Europe,Northern Europe,Norway,,,
-195.1.92.4,4,57,bitfocus.io,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-185.116.4.109,4,-538,bmobilized.com,NO,Europe,Northern Europe,Norway,,,
+195.1.92.4,4,-25393,bitfocus.io,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 104.37.38.85,4,-12,bondivvs.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 185.116.4.76,4,-36,buyandread.com,NO,Europe,Northern Europe,Norway,,,
-80.65.56.33,4,694,byoin-kyokasho.org,NO,Europe,Northern Europe,Norway,,,
+80.65.56.33,4,-20,byoin-kyokasho.org,NO,Europe,Northern Europe,Norway,,,
 194.102.175.31,4,48,cephalexinme365.top,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-192.165.108.63,4,2017,codefactory.se,NO,Europe,Northern Europe,Norway,,,
-51.13.37.176,4,44,compendiamedlem.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+192.165.108.63,4,-2642,codefactory.se,NO,Europe,Northern Europe,Norway,,,
+51.13.37.176,4,0,compendiamedlem.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 195.254.219.69,4,-33,connectid.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 91.189.181.38,4,0,cuescore.com,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-195.1.88.21,4,21,dagogtid.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+195.1.88.21,4,35,dagogtid.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 46.250.221.10,4,-26,dailyscandinavian.com,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 217.170.207.99,4,-27,detsoteliv.no,NO,Europe,Northern Europe,Norway,Rogaland,,Haugesund
-217.170.205.111,4,106,detsoteliv.no,NO,Europe,Northern Europe,Norway,Rogaland,,Haugesund
+217.170.205.111,4,24,detsoteliv.no,NO,Europe,Northern Europe,Norway,Rogaland,,Haugesund
 193.69.47.176,4,-5,dialogapi.no,NO,Europe,Northern Europe,Norway,Telemark,,Porsgrunn
 79.161.9.164,4,56930,DNS Server: 164.79-161-9.customer.lyse.net,NO,Europe,Northern Europe,Norway,Rogaland,,Nærbø
 171.22.155.252,4,14400450,DNS Server: 171-22-155-252.network.trollfjord.no,NO,Europe,Northern Europe,Norway,Nordland,,Andenes
@@ -65,7 +63,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 46.250.221.35,4,27,dyrebeskyttelsen.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 213.162.241.28,4,1,dysleksinorge.no,NO,Europe,Northern Europe,Norway,,,
 185.47.40.228,4,-39,elbilforum.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-158.36.102.245,4,53,elmcip.net,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+158.36.102.245,4,-33,elmcip.net,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 129.242.170.252,4,-14,eludamos.org,NO,Europe,Northern Europe,Norway,Troms,,Tromsø
 5.249.229.167,4,-7,energifaktanorge.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 91.219.215.209,4,-6,eurodownload.com,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
@@ -74,7 +72,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 193.30.119.51,4,-35,filemail.com,NO,Europe,Northern Europe,Norway,,,
 213.162.246.102,4,-1,filmkikk.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 91.229.143.159,4,3,forbrukernet.com,NO,Europe,Northern Europe,Norway,,,
-62.89.43.12,4,30,foreneset.no,NO,Europe,Northern Europe,Norway,,,
+62.89.43.12,4,-1,foreneset.no,NO,Europe,Northern Europe,Norway,,,
 37.202.56.212,4,-11,foreningenfri.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 37.202.56.213,4,-3,foreningenfri.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 37.202.56.211,4,-1,foreningenfri.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
@@ -82,9 +80,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 194.63.249.217,4,0,freemuse.org,NO,Europe,Northern Europe,Norway,,,
 87.238.33.129,4,-9,frifagbevegelse.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 129.240.118.8,4,-3,fsweb.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-194.63.248.47,4,3,fuglen.com,NO,Europe,Northern Europe,Norway,,,
-87.238.33.233,4,28,gamer.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-104.37.38.118,4,2,gjestang.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+194.63.248.47,4,0,fuglen.com,NO,Europe,Northern Europe,Norway,,,
+87.238.33.233,4,-21,gamer.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+104.37.38.118,4,-1,gjestang.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 158.36.191.230,4,-24,gunkies.org,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 104.37.38.99,4,8,h-breed.com,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 195.54.170.173,4,35,hellspin-app.com,NO,Europe,Northern Europe,Norway,,,
@@ -95,19 +93,19 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 129.241.56.200,4,-9,hist.no,NO,Europe,Northern Europe,Norway,Trøndelag,,Trondheim
 82.102.27.86,4,9,hotnews.lv,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 195.159.29.35,4,5,hoytlavt.no,NO,Europe,Northern Europe,Norway,Østfold,,Tomter
-185.125.171.241,4,4,hugssociety.org,NO,Europe,Northern Europe,Norway,Vestfold,,Sandefjord
+185.125.171.241,4,19345,hugssociety.org,NO,Europe,Northern Europe,Norway,Vestfold,,Sandefjord
 104.37.38.97,4,-1,humanrightshouse.org,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 104.37.38.72,4,-3,hyco.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 87.238.33.176,4,5,ibooking.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 91.189.120.181,4,0,idrettenonline.no,NO,Europe,Northern Europe,Norway,,,
 185.12.56.137,4,-3,ife.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 185.14.97.82,4,-4,interflora.no,NO,Europe,Northern Europe,Norway,Vestfold,,Sandefjord
-5.249.229.163,4,11,investtech.com,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+5.249.229.163,4,-111,investtech.com,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 185.101.34.18,4,30795,io.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-194.63.249.234,4,51,ishavskatedralen.no,NO,Europe,Northern Europe,Norway,,,
+194.63.249.234,4,0,ishavskatedralen.no,NO,Europe,Northern Europe,Norway,,,
 195.54.170.247,4,11,istoriarusi.ru,NO,Europe,Northern Europe,Norway,,,
 104.37.38.74,4,-7,jagajazzist.com,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-195.159.29.232,4,10,jagajazzist.com,NO,Europe,Northern Europe,Norway,Østfold,,Tomter
+195.159.29.232,4,-1,jagajazzist.com,NO,Europe,Northern Europe,Norway,Østfold,,Tomter
 194.63.249.212,4,-4,jostedal.com,NO,Europe,Northern Europe,Norway,,,
 87.238.33.157,4,8,kapital.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 87.238.33.156,4,-74,kapital.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
@@ -115,7 +113,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.226.148.118,4,-23,klanen.no,NO,Europe,Northern Europe,Norway,,,
 20.251.145.11,4,-20,kukutool.com,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 195.16.73.88,4,-115977,kunnskap.no,NO,Europe,Northern Europe,Norway,Vestfold,,Sandefjord
-195.159.37.82,4,7,kunst.no,NO,Europe,Northern Europe,Norway,Akershus,,Asker
+195.159.37.82,4,-1,kunst.no,NO,Europe,Northern Europe,Norway,Akershus,,Asker
 185.125.171.230,4,-1,lemmygrad.ml,NO,Europe,Northern Europe,Norway,Vestfold,,Sandefjord
 213.162.240.14,4,61,lervig.no,NO,Europe,Northern Europe,Norway,,,
 185.35.202.243,4,5,linderud.dev,NO,Europe,Northern Europe,Norway,,,
@@ -124,11 +122,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.189.182.143,4,48,lofoten-info.no,NO,Europe,Northern Europe,Norway,,,
 185.181.62.105,4,-3,lookmovie2.to,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 87.238.33.218,4,28,lovdata.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-104.37.38.126,4,3,mack.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+104.37.38.126,4,-1,mack.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 185.14.97.189,4,17,markedsgata.no,NO,Europe,Northern Europe,Norway,Vestfold,,Sandefjord
-129.241.30.86,4,36,matematikksenteret.no,NO,Europe,Northern Europe,Norway,Trøndelag,,Trondheim
+129.241.30.86,4,4,matematikksenteret.no,NO,Europe,Northern Europe,Norway,Trøndelag,,Trondheim
 46.250.221.29,4,20,mathallenoslo.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-104.37.38.124,4,3,menon.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+104.37.38.124,4,0,menon.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 185.35.185.248,4,-67,mic.no,NO,Europe,Northern Europe,Norway,,,
 91.189.176.14,4,3174,montages.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 46.226.10.66,4,22,moviebird.no,NO,Europe,Northern Europe,Norway,,,
@@ -139,32 +137,31 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.54.170.215,4,3,nationalcasinoapp.com,NO,Europe,Northern Europe,Norway,,,
 129.240.118.41,4,-32,nettskjema.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 193.156.55.160,4,8,ngu.no,NO,Europe,Northern Europe,Norway,Akershus,,Ås
-87.238.40.87,4,31,nifs.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-87.238.40.85,4,25,nifs.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-87.238.40.88,4,20,nifs.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-87.238.40.86,4,17,nifs.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+87.238.40.87,4,-21,nifs.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+87.238.40.85,4,-21,nifs.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+87.238.40.88,4,-64,nifs.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+87.238.40.86,4,-61,nifs.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 185.114.57.86,4,0,nifu.no,NO,Europe,Northern Europe,Norway,,,
 193.107.31.138,4,3,njk.no,NO,Europe,Northern Europe,Norway,,,
 129.240.189.200,4,0,nlpl.eu,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 193.69.47.60,4,-1,nmf.no,NO,Europe,Northern Europe,Norway,Telemark,,Porsgrunn
 104.37.38.71,4,3,nobelpeaceprize.org,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-195.159.29.211,4,5,nobelpeaceprize.org,NO,Europe,Northern Europe,Norway,Østfold,,Tomter
+195.159.29.211,4,-2,nobelpeaceprize.org,NO,Europe,Northern Europe,Norway,Østfold,,Tomter
 185.14.97.53,4,5,nomorefakenews.com,NO,Europe,Northern Europe,Norway,Vestfold,,Sandefjord
-195.191.30.163,4,422,nor-fishing.no,NO,Europe,Northern Europe,Norway,,,
+195.191.30.163,4,1138,nor-fishing.no,NO,Europe,Northern Europe,Norway,,,
 45.67.13.41,4,10,norid.no,NO,Europe,Northern Europe,Norway,,,
 91.209.215.41,4,-36,norid.no,NO,Europe,Northern Europe,Norway,,,
 46.250.221.18,4,17,norne.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 91.242.200.197,4,-1,norsknettskole.no,NO,Europe,Northern Europe,Norway,,,
 104.37.38.109,4,3,norskpen.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 5.249.229.168,4,8,norskpetroleum.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-38.180.1.100,4,12,novorus.info,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+38.180.1.100,4,-3,novorus.info,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 129.241.160.103,4,3,ntnu.edu,NO,Europe,Northern Europe,Norway,Trøndelag,,Trondheim
 129.241.160.102,4,-55,ntnu.no,NO,Europe,Northern Europe,Norway,Trøndelag,,Trondheim
 129.241.210.22,4,685,nvg.org,NO,Europe,Northern Europe,Norway,Trøndelag,,Trondheim
-104.37.38.89,4,7,nynorsk.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-104.37.39.65,4,3,nytid.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+104.37.39.65,4,-1,nytid.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 46.250.210.149,4,6,ofv.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-217.144.76.199,4,4538,old.no,NO,Europe,Northern Europe,Norway,Trøndelag,,Trondheim
+217.144.76.199,4,1473,old.no,NO,Europe,Northern Europe,Norway,Trøndelag,,Trondheim
 104.37.38.127,4,9,onlinegroup.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 217.149.113.138,4,66027,Ookla Speedtest Server 899: speedtest.enivest.net,NO,Europe,Northern Europe,Norway,Vestland,,Førde
 217.13.4.132,4,-3,Ookla Speedtest Server 8018: speedtest.nextgentel.no,NO,Europe,Northern Europe,Norway,Buskerud,,Drammen
@@ -191,37 +188,36 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.7.192.103,4,26939,oslosportslager.no,NO,Europe,Northern Europe,Norway,,,
 129.240.118.163,4,23,ous-research.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 104.37.38.78,4,-3,pameldingssystem.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-195.159.29.41,4,24,pameldingssystem.no,NO,Europe,Northern Europe,Norway,Østfold,,Tomter
+195.159.29.41,4,-1,pameldingssystem.no,NO,Europe,Northern Europe,Norway,Østfold,,Tomter
 104.37.38.82,4,5,pecus.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 91.242.200.60,4,5,pf.no,NO,Europe,Northern Europe,Norway,,,
-62.89.43.15,4,9,pirate4x4.no,NO,Europe,Northern Europe,Norway,,,
+62.89.43.15,4,-2,pirate4x4.no,NO,Europe,Northern Europe,Norway,,,
 176.125.232.20,4,2,pogostick.net,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 194.63.249.218,4,4,procolharum.com,NO,Europe,Northern Europe,Norway,,,
 46.250.214.132,4,38,proisp.eu,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 185.91.67.253,4,51,psykologisk.no,NO,Europe,Northern Europe,Norway,,,
-104.37.38.117,4,10,pureorganic.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+104.37.38.117,4,0,pureorganic.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 185.117.97.226,4,2548,rachelwilmann.no,NO,Europe,Northern Europe,Norway,,,
 46.226.24.119,4,22,radiocrafts.com,NO,Europe,Northern Europe,Norway,,,
 185.114.57.23,4,1,radiodayseurope.com,NO,Europe,Northern Europe,Norway,,,
-158.36.190.152,4,35,radionova.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+158.36.190.152,4,-61,radionova.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 87.238.33.252,4,-58,redpill-linpro.com,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 46.250.221.8,4,22,religioner.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-185.41.243.37,4,5,remywiki.com,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+185.41.243.37,4,9,remywiki.com,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 158.37.161.24,4,8,riksantikvaren.no,NO,Europe,Northern Europe,Norway,,,
-185.226.149.25,4,2,runbox.com,NO,Europe,Northern Europe,Norway,,,
+185.226.149.25,4,-2,runbox.com,NO,Europe,Northern Europe,Norway,,,
 104.37.38.77,4,11,rusinfo.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 194.63.249.211,4,9,rvtssor.no,NO,Europe,Northern Europe,Norway,,,
 104.37.38.103,4,9,s-fossen.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-46.226.10.71,4,7,sagabetongsaging.no,NO,Europe,Northern Europe,Norway,,,
+46.226.10.71,4,-105,sagabetongsaging.no,NO,Europe,Northern Europe,Norway,,,
 104.37.38.122,4,16,saharaforestproject.com,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 104.37.38.120,4,10,salt-peanuts.eu,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 193.35.52.30,4,7,samfundet.no,NO,Europe,Northern Europe,Norway,,,
-38.180.76.155,4,19,saran.ru,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-91.205.187.70,4,0,scandinavianaturist.org,NO,Europe,Northern Europe,Norway,,,
-217.170.196.98,4,7,scandoil.com,NO,Europe,Northern Europe,Norway,Rogaland,,Haugesund
-46.250.210.152,4,-1,sci-fit.net,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+38.180.76.155,4,-1,saran.ru,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+91.205.187.70,4,3,scandinavianaturist.org,NO,Europe,Northern Europe,Norway,,,
+217.170.196.98,4,4,scandoil.com,NO,Europe,Northern Europe,Norway,Rogaland,,Haugesund
 104.37.39.16,4,7,scienceofclimatechange.org,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-46.250.210.147,4,16,secretcinema.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+46.250.210.147,4,4,secretcinema.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 193.35.52.50,4,-29,sesse.net,NO,Europe,Northern Europe,Norway,,,
 185.47.41.64,4,-50,sida.se,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 104.37.38.93,4,7,simco.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
@@ -229,13 +225,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 104.37.38.112,4,9,sjomatkompanietas.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 194.63.249.215,4,15,skienhif.no,NO,Europe,Northern Europe,Norway,,,
 104.37.38.98,4,8,skog.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-46.250.221.25,4,7,skyblivion.com,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-104.37.38.105,4,5,skypat.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+46.250.221.25,4,4,skyblivion.com,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+104.37.38.105,4,0,skypat.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 104.37.38.104,4,26,slettmeg.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-195.159.29.135,4,6,slettmeg.no,NO,Europe,Northern Europe,Norway,Østfold,,Tomter
+195.159.29.135,4,-1,slettmeg.no,NO,Europe,Northern Europe,Norway,Østfold,,Tomter
 46.250.221.19,4,17,smartepenger.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 91.189.182.7,4,3208,solem.biz,NO,Europe,Northern Europe,Norway,,,
-91.220.196.150,4,1,spaceguardcentre.com,NO,Europe,Northern Europe,Norway,,,
+91.220.196.150,4,-37,spaceguardcentre.com,NO,Europe,Northern Europe,Norway,,,
 104.37.38.68,4,-15,spareiendom.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 195.159.29.138,4,7,speiding.no,NO,Europe,Northern Europe,Norway,Østfold,,Tomter
 185.91.67.249,4,37,sportfiskarna.se,NO,Europe,Northern Europe,Norway,,,
@@ -243,7 +239,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 87.238.33.180,4,8,start.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 87.238.33.182,4,6,start.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 87.238.33.181,4,-54,start.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-81.27.47.253,4,721800,start365.info,NO,Europe,Northern Europe,Norway,,,
+81.27.47.253,4,338442,start365.info,NO,Europe,Northern Europe,Norway,,,
 87.238.33.154,4,36,startsiden.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 87.238.33.153,4,-53,startsiden.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 46.250.221.20,4,26,stavanger-forum.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
@@ -251,23 +247,23 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.91.67.251,4,-14,studsvik.com,NO,Europe,Northern Europe,Norway,,,
 46.250.221.6,4,25,svomming.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 46.250.221.24,4,17,tekniskmuseum.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-195.159.29.212,4,7,tempus.no,NO,Europe,Northern Europe,Norway,Østfold,,Tomter
+195.159.29.212,4,0,tempus.no,NO,Europe,Northern Europe,Norway,Østfold,,Tomter
 185.175.56.140,4,11,texasbbs.net,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-194.32.107.12,4,5,theqtree.com,NO,Europe,Northern Europe,Norway,Vestfold,,Sandefjord
+194.32.107.12,4,26,theqtree.com,NO,Europe,Northern Europe,Norway,Vestfold,,Sandefjord
 194.63.249.216,4,21,theworld.guru,NO,Europe,Northern Europe,Norway,,,
 188.94.216.70,4,14,thommessen.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-46.250.221.31,4,8,tiff.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+46.250.221.31,4,4,tiff.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 193.58.250.33,4,20,tikkio.com,NO,Europe,Northern Europe,Norway,,,
-46.226.10.73,4,44,tildasworld.com,NO,Europe,Northern Europe,Norway,,,
-104.37.38.94,4,17,toothwalker.org,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-195.159.29.139,4,4,tornado.no,NO,Europe,Northern Europe,Norway,Østfold,,Tomter
+46.226.10.73,4,-64,tildasworld.com,NO,Europe,Northern Europe,Norway,,,
+104.37.38.94,4,-1,toothwalker.org,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+195.159.29.139,4,0,tornado.no,NO,Europe,Northern Europe,Norway,Østfold,,Tomter
 104.37.38.88,4,14,torreys.org,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 104.37.38.79,4,11,tps.as,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 87.238.33.146,4,13,tradewindsnews.com,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 87.238.41.58,4,12,tu.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-87.238.41.59,4,10,tu.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-185.114.57.91,4,18,turpaahjul.com,NO,Europe,Northern Europe,Norway,,,
-104.37.38.86,4,36,ultrafunk.com,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+87.238.41.59,4,-63,tu.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+185.114.57.91,4,-1,turpaahjul.com,NO,Europe,Northern Europe,Norway,,,
+104.37.38.86,4,-1,ultrafunk.com,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 158.37.212.194,4,-54,uni.no,NO,Europe,Northern Europe,Norway,Agder,,Grimstad
 185.7.60.117,4,13,unik.no,NO,Europe,Northern Europe,Norway,,,
 104.37.38.69,4,9,ustedalen.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
@@ -280,10 +276,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 129.240.118.130,4,35,vikingtidsmuseet.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 104.37.38.81,4,20,villrein.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 194.63.249.214,4,18,vreid.no,NO,Europe,Northern Europe,Norway,,,
-104.37.38.102,4,2,wagneropera.net,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
+104.37.38.102,4,-1,wagneropera.net,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 51.175.219.184,4,88,watchthatpage.com,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 46.250.211.191,4,20,watercircles.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
-195.159.29.151,4,6,wayp.com,NO,Europe,Northern Europe,Norway,Østfold,,Tomter
+195.159.29.151,4,-1,wayp.com,NO,Europe,Northern Europe,Norway,Østfold,,Tomter
 185.7.60.107,4,-50,webhuset.no,NO,Europe,Northern Europe,Norway,,,
 104.37.38.64,4,7,westra-engineering.no,NO,Europe,Northern Europe,Norway,Oslo County,,Oslo
 88.84.39.67,4,11,xdevs.com,NO,Europe,Northern Europe,Norway,Møre og Romsdal,,Surnadal

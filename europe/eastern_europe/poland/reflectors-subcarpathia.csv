@@ -11,7 +11,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 46.148.157.195,4,149,DNS Server: ext-46-148-157-195.interq.pl,PL,Europe,Eastern Europe,Poland,Subcarpathia,,Sanok
 83.3.89.186,4,46110,DNS Server: gnl186.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Subcarpathia,,Rzeszów
 91.192.166.36,4,-7,DNS Server: h9119216636.nm.zetorzeszow.pl,PL,Europe,Eastern Europe,Poland,Subcarpathia,,Rzeszów
-109.196.119.63,4,1800778,DNS Server: host-119-63.mt.pl,PL,Europe,Eastern Europe,Poland,Subcarpathia,,Dębica
+109.196.119.63,4,55428,DNS Server: host-119-63.mt.pl,PL,Europe,Eastern Europe,Poland,Subcarpathia,,Dębica
 88.220.123.166,4,-1806659,DNS Server: host-123-166.ip4.setcomp.pl,PL,Europe,Eastern Europe,Poland,Subcarpathia,,Jarosław
 185.80.32.153,4,8910,DNS Server: host-185.80.32.153.onlinenet.pl,PL,Europe,Eastern Europe,Poland,Subcarpathia,,Brzozów
 83.68.83.76,4,5,DNS Server: host-83-68-83-76.dynamic.mm.pl,PL,Europe,Eastern Europe,Poland,Subcarpathia,,Mielec
@@ -28,7 +28,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 94.232.217.177,4,58482,DNS Server: host-94.232.217.177.krosoft.pl,PL,Europe,Eastern Europe,Poland,Subcarpathia,,Jaśliska
 94.232.217.81,4,54040348,DNS Server: host-94.232.217.81.krosoft.pl,PL,Europe,Eastern Europe,Poland,Subcarpathia,,Jaśliska
 94.232.220.147,4,-2,DNS Server: host-94.232.220.147.krosoft.pl,PL,Europe,Eastern Europe,Poland,Subcarpathia,,Jaśliska
-81.162.208.105,4,-9924015,DNS Server: host208105.telnetropczyce.pl,PL,Europe,Eastern Europe,Poland,Subcarpathia,,Ropczyce
 91.189.217.72,4,43852,DNS Server: ip-91.189.217.72.skyware.pl,PL,Europe,Eastern Europe,Poland,Subcarpathia,,Rzeszów
 91.246.72.17,4,-4056,DNS Server: ip-91.246.72.17.skyware.pl,PL,Europe,Eastern Europe,Poland,Subcarpathia,,Rzeszów
 81.163.204.90,4,5531,DNS Server: pppoe-static-a-90.interblock.pl,PL,Europe,Eastern Europe,Poland,Subcarpathia,,Stalowa Wola
@@ -54,4 +53,4 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.200.83.3,4,-3,Ookla Speedtest Server 71752: speedtest.plonka.info,PL,Europe,Eastern Europe,Poland,Subcarpathia,,Jasło
 89.188.221.79,4,8,pwste.edu.pl,PL,Europe,Eastern Europe,Poland,Subcarpathia,,Jarosław
 91.240.28.203,4,19,tbg.net.pl,PL,Europe,Eastern Europe,Poland,Subcarpathia,,Tarnobrzeg
-80.48.69.254,4,3,wlodawa.pl,PL,Europe,Eastern Europe,Poland,Subcarpathia,,Stalowa Wola
+80.48.69.254,4,14,wlodawa.pl,PL,Europe,Eastern Europe,Poland,Subcarpathia,,Stalowa Wola

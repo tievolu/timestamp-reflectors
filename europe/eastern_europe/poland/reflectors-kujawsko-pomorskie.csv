@@ -1,5 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-89.40.146.149,4,6,cenzi.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Torun
+89.40.146.149,4,4,cenzi.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Torun
 95.160.31.73,4,22864,DNS Server: 095160031073.business.static.vectranet.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Torun
 89.238.12.142,4,-4390,DNS Server: 142.12.238.89.static.smgr.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Grudziądz
 194.39.196.31,4,83451,DNS Server: 194-39-196-31.ipv4.krusz-lan.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Kruszwica
@@ -23,8 +23,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 89.40.146.237,4,38,mir.gov.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Torun
 217.173.176.19,4,11654,Ookla Speedtest Server 11305: speedtest1.tvk.torun.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Torun
 77.91.63.222,4,26,otvarta.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Włocławek
-77.91.63.153,4,36,peregrinus.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Włocławek
-77.91.63.150,4,4,sp10wloclawek.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Włocławek
-176.96.33.3,4,16,toop.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Więcbork
+77.91.63.153,4,0,peregrinus.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Włocławek
+77.91.63.150,4,-1,sp10wloclawek.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Włocławek
+176.96.33.3,4,1,toop.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Więcbork
 158.75.35.16,4,8,torun.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Torun
 158.75.1.96,4,9,umk.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Torun

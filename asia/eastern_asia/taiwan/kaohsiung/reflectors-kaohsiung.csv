@@ -1,5 +1,7 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 1.172.170.204,4,0,DNS Server: 1-172-170-204.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
+1.172.178.132,4,100,DNS Server: 1-172-178-132.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
+1.172.179.226,4,48,DNS Server: 1-172-179-226.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 1.172.228.178,4,27123043,DNS Server: 1-172-228-178.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 1.172.230.72,4,57600264,DNS Server: 1-172-230-72.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 1.173.114.223,4,1404,DNS Server: 1-173-114-223.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
@@ -35,7 +37,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 1.174.86.125,4,191,DNS Server: 1-174-86-125.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 1.174.86.170,4,-8,DNS Server: 1-174-86-170.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 1.174.86.220,4,57600167,DNS Server: 1-174-86-220.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
+1.174.92.23,4,408,DNS Server: 1-174-92-23.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 1.174.95.187,4,-9,DNS Server: 1-174-95-187.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
+1.175.113.160,4,-33319,DNS Server: 1-175-113-160.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
+1.175.192.61,4,11,DNS Server: 1-175-192-61.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 1.175.203.121,4,37,DNS Server: 1-175-203-121.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 1.175.64.29,4,-43,DNS Server: 1-175-64-29.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 211.22.209.2,4,16,DNS Server: 211-22-209-2.hinet-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
@@ -52,6 +57,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 60.249.133.164,4,31,easytravel.com.tw,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 59.120.254.212,4,-956,foxpro.com.tw,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 60.248.124.228,4,16,fst.tw,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
+60.249.179.122,4,-731,lionfree.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 59.120.253.7,4,-8,norbelbaby.com.tw,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 59.120.118.168,4,21,ppt.cc,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 61.221.155.233,4,56067514,sinlonn.com,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung

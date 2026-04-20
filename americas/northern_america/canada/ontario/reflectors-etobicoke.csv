@@ -2,6 +2,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 162.213.111.70,4,0,fongo.com,CA,Americas,Northern America,Canada,Ontario,,Etobicoke
 209.162.253.182,4,2,maestronet.com,CA,Americas,Northern America,Canada,Ontario,,Etobicoke
 135.84.136.139,4,0,Ookla Speedtest Server 69636: tdc01-speedtest.whipcord.com,CA,Americas,Northern America,Canada,Ontario,,Etobicoke
-98.158.132.69,4,12,pygresql.org,CA,Americas,Northern America,Canada,Ontario,,Etobicoke
+98.158.132.69,4,-1,pygresql.org,CA,Americas,Northern America,Canada,Ontario,,Etobicoke
 208.68.90.162,4,0,thewrenchmonkey.ca,CA,Americas,Northern America,Canada,Ontario,,Etobicoke
-38.64.168.168,4,1,yvonnebutler.com,CA,Americas,Northern America,Canada,Ontario,,Etobicoke
+38.64.168.168,4,-5,yvonnebutler.com,CA,Americas,Northern America,Canada,Ontario,,Etobicoke

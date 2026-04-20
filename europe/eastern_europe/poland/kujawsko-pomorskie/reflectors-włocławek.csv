@@ -6,5 +6,5 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 77.91.53.202,4,-14,DNS Server: user53-202.otvarta.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Włocławek
 176.241.78.136,4,10,DNS Server: user78-136.satfilm.com.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Włocławek
 77.91.63.222,4,26,otvarta.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Włocławek
-77.91.63.153,4,36,peregrinus.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Włocławek
-77.91.63.150,4,4,sp10wloclawek.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Włocławek
+77.91.63.153,4,0,peregrinus.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Włocławek
+77.91.63.150,4,-1,sp10wloclawek.pl,PL,Europe,Eastern Europe,Poland,Kujawsko-Pomorskie,,Włocławek

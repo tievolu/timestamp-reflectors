@@ -4,9 +4,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 72.18.130.250,4,260,bf1.my,US,Americas,Northern America,United States of America,Colorado,,Denver
 72.18.132.28,4,2,blue-anvil.com,US,Americas,Northern America,United States of America,Colorado,,Denver
 72.18.132.130,4,7,buddhanet.info,US,Americas,Northern America,United States of America,Colorado,,Denver
-72.18.132.129,4,35,buddhanet.net,US,Americas,Northern America,United States of America,Colorado,,Denver
+72.18.132.129,4,0,buddhanet.net,US,Americas,Northern America,United States of America,Colorado,,Denver
 72.18.132.172,4,159,businessbazaar.biz,US,Americas,Northern America,United States of America,Colorado,,Denver
-198.255.104.126,4,6,classiccardb.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+198.255.104.126,4,-1,classiccardb.com,US,Americas,Northern America,United States of America,Colorado,,Denver
 75.148.123.25,4,43,critters.org,US,Americas,Northern America,United States of America,Colorado,,Denver
 71.211.227.165,4,-2,DNS Server: 71-211-227-165.hlrn.qwest.net,US,Americas,Northern America,United States of America,Colorado,,Denver
 74.95.115.82,4,-19,DNS Server: 74-95-115-82-Colorado.hfc.comcastbusiness.net,US,Americas,Northern America,United States of America,Colorado,,Denver
@@ -16,16 +16,16 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 97.118.241.59,4,-3,DNS Server: 97-118-241-59.hlrn.qwest.net,US,Americas,Northern America,United States of America,Colorado,,Denver
 4.34.37.186,4,-4,DNS Server: TELLERWIFI.ear1.Denver1.Level3.net,US,Americas,Northern America,United States of America,Colorado,,Denver
 216.120.201.105,4,-6,DoH server: den01.dnscry.pt,US,Americas,Northern America,United States of America,Colorado,,Denver
-174.128.235.250,4,6,eq2wire.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+174.128.235.250,4,-1,eq2wire.com,US,Americas,Northern America,United States of America,Colorado,,Denver
 216.120.200.102,4,-1,havells-sylvania.com,US,Americas,Northern America,United States of America,Colorado,,Denver
 72.18.158.242,4,732,inplainsite.org,US,Americas,Northern America,United States of America,Colorado,,Denver
-72.18.132.151,4,4,iwraw-ap.org,US,Americas,Northern America,United States of America,Colorado,,Denver
+72.18.132.151,4,-1,iwraw-ap.org,US,Americas,Northern America,United States of America,Colorado,,Denver
 50.214.28.50,4,55,kitsunet.net,US,Americas,Northern America,United States of America,Colorado,,Denver
 66.162.107.170,4,-16,krcc.org,US,Americas,Northern America,United States of America,Colorado,,Denver
 72.18.130.165,4,1527,mekodenim.com,US,Americas,Northern America,United States of America,Colorado,,Denver
 50.194.155.74,4,0,mhsoftware.com,US,Americas,Northern America,United States of America,Colorado,,Denver
 209.51.180.229,4,6028,milharal.org,US,Americas,Northern America,United States of America,Colorado,,Denver
-216.120.200.151,4,4,mirusbio.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+216.120.200.151,4,0,mirusbio.com,US,Americas,Northern America,United States of America,Colorado,,Denver
 23.237.207.34,4,-19,olevod.com,US,Americas,Northern America,United States of America,Colorado,,Denver
 23.237.207.58,4,3,olevod.com,US,Americas,Northern America,United States of America,Colorado,,Denver
 23.237.207.66,4,8,olevod.com,US,Americas,Northern America,United States of America,Colorado,,Denver
@@ -43,7 +43,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 67.43.208.74,4,14,Ookla Speedtest Server 69787: speedtest.vistabeam.com,US,Americas,Northern America,United States of America,Colorado,,Denver
 46.110.192.253,4,14,Ookla Speedtest Server 72804: speedtest.dnvrco26.metronetinc.com,US,Americas,Northern America,United States of America,Colorado,,Denver
 72.18.132.34,4,-6,opsonin-pharma.com,US,Americas,Northern America,United States of America,Colorado,,Denver
-72.18.132.134,4,375,productivedreams.com,US,Americas,Northern America,United States of America,Colorado,,Denver
-97.122.75.214,4,50,scottlabs.io,US,Americas,Northern America,United States of America,Colorado,,Denver
-173.248.157.214,4,9,sv-anuncios.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+72.18.132.134,4,1440,productivedreams.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+97.122.75.214,4,-1,scottlabs.io,US,Americas,Northern America,United States of America,Colorado,,Denver
+173.248.157.214,4,-2,sv-anuncios.com,US,Americas,Northern America,United States of America,Colorado,,Denver
 173.248.157.219,4,52,wpwebhost.com,US,Americas,Northern America,United States of America,Colorado,,Denver

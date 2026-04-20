@@ -4,16 +4,16 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 172.235.235.194,4,-23,alithia.gr,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 176.107.150.180,4,-3,alvolante.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 212.35.217.49,4,15,alzheimer.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-195.231.84.136,4,6,amathsdictionaryforkids.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+195.231.84.136,4,1,amathsdictionaryforkids.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 81.29.215.110,4,10,amcham.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-95.110.232.137,4,13,asalink.net,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+95.110.232.137,4,2,asalink.net,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 176.107.149.68,4,1131,askanews.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 34.154.237.33,4,8,asmel.eu,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-62.212.5.250,4,21,asst-lariana.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Como,Novedrate
-83.136.107.36,4,24,astronomia.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+62.212.5.250,4,0,asst-lariana.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Como,Novedrate
+83.136.107.36,4,0,astronomia.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 95.110.231.155,4,9,avmagazine.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 62.149.172.216,4,534,basilicasannicola.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-5.8.101.21,4,641,beta-tools.com,IT,Europe,Southern Europe,Italy,Lombardy,,
+5.8.101.21,4,32,beta-tools.com,IT,Europe,Southern Europe,Italy,Lombardy,,
 176.107.150.179,4,70,bimbisaniebelli.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 15.160.32.153,4,8,bisazza.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 62.149.171.87,4,534,boffi.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
@@ -34,12 +34,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 95.141.35.146,4,0,concorsi.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 172.232.219.115,4,0,consiglioveneto.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 66.22.43.21,4,16,cortecostituzionale.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-176.107.150.181,4,116,cosedicasa.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+176.107.150.181,4,0,cosedicasa.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 172.232.216.232,4,-13,crlab.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 217.61.37.63,4,19,cronachefermane.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 212.35.197.237,4,10,crowdfundme.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 85.94.202.95,4,5,dailyonline.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-195.231.87.26,4,8,diariodelweb.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+195.231.87.26,4,3,diariodelweb.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 95.110.224.24,4,-7,digital-sat.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 151.0.153.122,4,517,DNS Server: 151-0-153-122.ip281.fastwebnet.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 185.67.236.56,4,27062431,DNS Server: 185-67-236-56.digiten.eu,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
@@ -69,10 +69,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.141.57.8,4,-5,DNS Server: recursive-nameserver1.lowhosting.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 217.138.219.219,4,-9,DoH server: cs-milan,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 82.118.16.121,4,-3,DoH server: dnscry.pt-milan-ipv4,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-195.231.50.139,4,431,donnapop.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Bergamo
+195.231.50.139,4,1424,donnapop.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Bergamo
 50.117.4.18,4,0,dwin-global.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Figino
 37.9.228.213,4,6,elettricitafutura.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-95.141.35.187,4,7,emdr-europe.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+95.141.35.187,4,1177,emdr-europe.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 81.29.205.177,4,-11830511,eso.net,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 94.188.237.154,4,14,esteri.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 95.110.230.146,4,-10,esteticamagazine.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
@@ -83,22 +83,22 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 15.161.77.42,4,1,ferrarainfo.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 212.35.216.193,4,12,ferrovie.info,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 158.58.173.6,4,0,fic.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-91.212.246.84,4,822,financiarul.ro,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+91.212.246.84,4,2236,financiarul.ro,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 195.231.73.80,4,-35,fisco7.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 212.35.204.71,4,-7,flai.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 95.174.23.124,4,59820,fondazionenazionalecommercialisti.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 5.144.171.112,4,2,fondorepubblicadigitale.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 212.35.217.212,4,7,friendofthesea.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-46.21.182.20,4,13,fruitbookmagazine.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Dalmine
+46.21.182.20,4,6,fruitbookmagazine.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Dalmine
 85.94.200.172,4,-4,funghiitaliani.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 95.110.230.196,4,-6,garanteinfanzia.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 95.110.230.195,4,0,gardiol.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-95.110.230.204,4,6,gardiol.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-151.101.243.10,4,4,gfps.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+95.110.230.204,4,-1,gardiol.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+151.101.243.10,4,0,gfps.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 94.188.237.163,4,-4,giovani2030.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 45.141.57.227,4,17,globalist.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 85.94.202.214,4,0,glossariomarketing.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-195.231.50.137,4,1186,greenbiz.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Bergamo
+195.231.50.137,4,470,greenbiz.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Bergamo
 195.231.50.133,4,474,greenme.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Bergamo
 213.215.199.176,4,14,grom.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 94.188.237.120,4,-15,groupmaire.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
@@ -107,7 +107,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 212.35.217.69,4,9,harken.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 85.239.164.42,4,-15,ifom.eu,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 37.9.227.163,4,-24,ilfattoalimentare.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-95.110.222.153,4,31,ilpaesenuovo.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+95.110.222.153,4,0,ilpaesenuovo.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 5.144.169.59,4,6,ilromanista.eu,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 45.147.250.86,4,24,imiglioricasinoonline.net,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 185.127.134.109,4,-60,inda.net,IT,Europe,Southern Europe,Italy,Lombardy,Province of Brescia,Brescia
@@ -116,7 +116,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 176.107.150.177,4,-6,insella.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 95.110.231.18,4,6014,insidemarketing.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 212.35.217.95,4,2,inter-news.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-34.154.111.100,4,86,interiors3d.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+34.154.111.100,4,-1,interiors3d.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 95.110.254.126,4,-279556,ivo128.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 217.19.153.5,4,49128,jacabook.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 217.61.55.229,4,320,jkcapri.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
@@ -125,21 +125,22 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 217.61.44.5,4,3,lakecomoschool.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 176.107.149.201,4,-16,lamarzocco.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 212.35.194.214,4,-3,lanotiziagiornale.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-81.208.42.104,4,8,lanotterosa.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-195.231.75.111,4,25,laprovinciadibiella.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+81.208.42.104,4,1,lanotterosa.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+195.231.75.111,4,4,laprovinciadibiella.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 195.231.85.111,4,-132,latestatamagazine.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 195.231.70.124,4,2,laziodisco.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 176.107.150.184,4,7,lefayresorts.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 212.35.217.161,4,-2,lega-pro.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-212.35.196.18,4,66,lestanzedelvetro.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+212.35.196.18,4,-2,lestanzedelvetro.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 82.112.214.171,4,25,lineapelle-fair.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+212.35.217.209,4,1,linkware.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 172.232.217.210,4,12,loaloaa.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-195.231.67.171,4,336391,locandacipriani.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+195.231.67.171,4,26616,locandacipriani.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 66.22.43.237,4,0,lotto-italia.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 212.35.217.118,4,-21,magellanoconcerti.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 94.188.237.121,4,-2,mairetecnimont.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-94.23.73.76,4,50,marcar.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-172.232.218.172,4,5,maxvalle.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+94.23.73.76,4,-1,marcar.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+172.232.218.172,4,-1,maxvalle.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 195.231.71.5,4,87,medicitalia.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 80.211.120.192,4,-4,midaticket.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 217.61.36.188,4,10,millionaire.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
@@ -152,7 +153,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 212.35.217.108,4,10,moroso.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 212.35.217.2,4,1,mou-online.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 217.61.63.132,4,5,movimentolento.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-95.110.224.120,4,656,mygladix.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+95.110.224.120,4,-208,mygladix.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 95.110.227.120,4,14,myhealthbox.eu,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 34.154.58.175,4,3,myparking.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 212.35.217.78,4,-50,natofoundation.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
@@ -160,10 +161,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.231.66.243,4,75268,nigrizia.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 95.110.224.52,4,5,nikepretaventes.fr,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 194.185.40.90,4,128,nilox.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-195.231.60.33,4,12,notiziaoggi.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Bergamo
+195.231.60.33,4,5,notiziaoggi.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Bergamo
 81.208.42.66,4,1621,novamont.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 195.231.87.73,4,11,oasport.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-192.71.245.69,4,31,odessa-daily.com.ua,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Cologno Monzese
+192.71.245.69,4,-1,odessa-daily.com.ua,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Cologno Monzese
 46.141.33.186,4,5,Ookla Speedtest Server 3998: speedtest.wolnet.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Brescia,Tremosine
 89.96.108.170,4,-2,Ookla Speedtest Server 7839: spd-pub-mi-01-01.fastwebnet.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 89.96.108.186,4,1,Ookla Speedtest Server 7898: spd-pub-rm-01-01.fastwebnet.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
@@ -192,18 +193,17 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 212.35.196.10,4,9,pedemontana.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 85.94.203.210,4,7,pgdue.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 158.58.172.4,4,-1,pianetabambini.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-95.110.225.244,4,-54555,picamemag.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 85.94.203.206,4,60,pistoletto.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-95.110.252.45,4,681,placetobet.net,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+95.110.252.45,4,46623,placetobet.net,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 45.145.250.40,4,49462,playlogiq.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 144.168.46.82,4,27,podtepeto.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 95.110.229.86,4,42,proiezionidiborsa.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 95.141.32.132,4,-716,proimpianti.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-81.29.208.212,4,14357444,prosciuttodiparma.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+81.29.208.212,4,-1,prosciuttodiparma.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 185.25.204.83,4,27,quicosenza.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-95.110.222.131,4,6,ravaglioli.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-91.193.5.232,4,692,reset-service.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-217.61.55.228,4,1197,rivoire.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+95.110.222.131,4,3,ravaglioli.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+91.193.5.232,4,1096,reset-service.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+217.61.55.228,4,326,rivoire.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 172.232.204.186,4,11,rollersports.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 66.22.43.75,4,61,romamobilita.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 185.30.108.63,4,4,romasegreta.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
@@ -213,10 +213,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 178.23.13.163,4,9,sciroccoh.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 217.73.228.2,4,1719,sibillini.net,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 212.35.196.168,4,7,sicis.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-95.110.225.29,4,59,sitbusshuttle.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+95.110.225.29,4,1,sitbusshuttle.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 95.174.22.44,4,7,sive.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 195.231.65.68,4,12,soldioggi.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-95.110.227.15,4,32,songstube.net,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+95.110.227.15,4,0,songstube.net,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 212.35.205.45,4,8,sportando.basketball,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 5.144.162.82,4,12,sportando.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 195.231.94.250,4,378,stradivarius.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
@@ -232,32 +232,32 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 172.232.217.215,4,9,thisiscombo.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 151.101.241.124,4,15,thun.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 172.232.206.217,4,9,tibetstrumentiarmonici.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-34.154.174.227,4,3,tigota.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+34.154.174.227,4,-1,tigota.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 81.208.42.151,4,14,tizianoferro.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 85.94.207.169,4,1,trasportoeuropa.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 95.141.32.225,4,11,turbolab.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 83.217.190.203,4,301705,tuttobiciweb.it,IT,Europe,Southern Europe,Italy,Lombardy,,
 83.217.190.87,4,301621,tuttobiciweb.it,IT,Europe,Southern Europe,Italy,Lombardy,,
-172.232.206.252,4,47,ultimouomo.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+172.232.206.252,4,1,ultimouomo.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 94.188.237.75,4,14,uniba.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-89.96.212.248,4,22,uniecampus.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+89.96.212.248,4,-149,uniecampus.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 176.107.151.132,4,571,unifortunato.eu,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-5.8.111.82,4,32,unioncamerelombardia.it,IT,Europe,Southern Europe,Italy,Lombardy,,
+5.8.111.82,4,0,unioncamerelombardia.it,IT,Europe,Southern Europe,Italy,Lombardy,,
 35.152.60.177,4,10,unisannio.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 195.231.70.125,4,11,unitgarage.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-163.171.138.116,4,17,usafis.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-194.185.40.14,4,953,v-valley.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+163.171.138.116,4,-1,usafis.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+194.185.40.14,4,87,v-valley.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 77.220.80.15,4,32,vallelunga.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Varese,Varese
 212.31.253.25,4,9,valored.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-195.231.75.213,4,21,valseriananews.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+195.231.75.213,4,3,valseriananews.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 37.247.48.95,4,13,verexif.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 172.232.206.88,4,36,vetriolovenerdisanto.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 62.149.173.117,4,777,villavigoni.eu,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-95.174.12.69,4,2,visitferrara.eu,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+95.174.12.69,4,-1,visitferrara.eu,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 95.174.20.82,4,8050737,visitverona.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 217.171.39.158,4,8,webtic.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 37.9.233.85,4,10,whistleblowing.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-172.232.208.181,4,6,yeppon.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+172.232.208.181,4,1,yeppon.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 151.101.242.132,4,9,zg.ch,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 66.22.43.46,4,-15,zucchetti.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 66.22.43.47,4,-7,zucchetti.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan

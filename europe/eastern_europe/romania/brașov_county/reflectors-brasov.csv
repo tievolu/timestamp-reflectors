@@ -6,5 +6,5 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 86.122.94.69,4,-2,DNS Server: static-86-122-94-69.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Brașov County,,Brasov
 86.122.95.159,4,15969,DNS Server: static-86-122-95-159.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Brașov County,,Brasov
 91.201.83.9,4,4,magicearth.com,RO,Europe,Eastern Europe,Romania,Brașov County,,Brasov
-91.201.83.7,4,10,magiclane.com,RO,Europe,Eastern Europe,Romania,Brașov County,,Brasov
-91.201.83.8,4,12,magiclane.com,RO,Europe,Eastern Europe,Romania,Brașov County,,Brasov
+91.201.83.7,4,0,magiclane.com,RO,Europe,Eastern Europe,Romania,Brașov County,,Brasov
+91.201.83.8,4,-1,magiclane.com,RO,Europe,Eastern Europe,Romania,Brașov County,,Brasov

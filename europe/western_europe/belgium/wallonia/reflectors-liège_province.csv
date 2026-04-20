@@ -4,7 +4,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.182.59.41,4,-1,DNS Server: 41.59-182-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
 87.65.84.87,4,46,DNS Server: 87.84-65-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
 193.190.182.53,4,-4,DoH server: dns.belnet.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
-139.165.57.26,4,3,fsagx.ac.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
+139.165.57.26,4,0,fsagx.ac.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
 139.165.160.20,4,-15,gmsh.info,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Awans
 46.16.240.100,4,4,intermarche.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
 193.190.183.132,4,-30,kmska.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège

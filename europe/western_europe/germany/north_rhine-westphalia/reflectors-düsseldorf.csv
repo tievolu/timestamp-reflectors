@@ -1,16 +1,16 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-213.202.253.13,4,13,agrilaui.com,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
+213.202.253.13,4,-1,agrilaui.com,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 80.83.116.60,4,1,airportbus-muenchen.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 185.147.218.240,4,11,amsel.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
-80.83.126.200,4,3,basiccolor.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
+80.83.126.200,4,-1,basiccolor.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 5.104.107.36,4,-2,basslover.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 80.83.116.62,4,-4,berufundfamilie.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
-80.83.125.105,4,43,cashcab.org,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
+80.83.125.105,4,-1,cashcab.org,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 5.199.136.234,4,-8,congres-uinl-paris.org,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 89.107.64.155,4,2,daemlich.net,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 85.114.136.161,4,-7,ddnss.org,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 80.83.116.26,4,-8,deichkind.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
-80.83.122.201,4,8,dieseher.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
+80.83.122.201,4,0,dieseher.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 213.202.245.215,4,-20,dietotenhosen.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 2.207.170.66,4,-2202,DNS Server: dslb-002-207-170-066.002.207.pools.vodafone-ip.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 5.199.130.141,4,-4,DNS Server: git.envs.net,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
@@ -23,23 +23,21 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 118.91.184.89,4,-5,DoH server: dnscry.pt-dusseldorf03-ipv4,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 213.202.211.221,4,-3,DoH server: ns2.opennameserver.org,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 5.199.139.236,4,-3,downloader.run,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
-212.20.161.112,4,24,eprc.asia,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
+212.20.161.112,4,0,eprc.asia,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 82.83.72.245,4,-3,fiksel.info,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
-213.202.230.130,4,39,haberaktuel.com,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
+213.202.230.130,4,-1,haberaktuel.com,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 80.83.126.215,4,-3,host-ing.eu,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 80.83.126.201,4,0,hostsuche.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 185.147.216.198,4,99,hussel.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
-5.199.135.200,4,8,impossiblegame.co,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 185.147.218.138,4,35,karrieretag-familienunternehmen.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 78.31.67.209,4,-4,kvchospitals.in,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 85.202.163.64,4,-11,kwick.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 213.131.254.53,4,-19,layer-grosshandel.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
-5.199.138.5,4,-24640,linyway.com,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 212.20.164.206,4,24,materialo.com,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
-80.83.116.252,4,20,mauritz.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
-5.199.139.234,4,13,maxibottin.com,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
+80.83.116.252,4,-1,mauritz.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
+5.199.139.234,4,0,maxibottin.com,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 5.104.107.240,4,-3,maxime-and-co.com,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
-80.83.116.47,4,45,mesotherapie.org,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
+80.83.116.47,4,-1,mesotherapie.org,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 80.83.126.189,4,6,mystipendium.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 185.147.218.70,4,-8,neotokyo.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 80.83.113.80,4,-17,nicowolter.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
@@ -51,18 +49,17 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 5.199.133.196,4,20,reparatur.it,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 212.20.161.1,4,-12,rvr.ruhr,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 80.83.116.193,4,10,schmeck-den-sueden.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
-80.83.126.78,4,12,socialsaloon.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
+80.83.126.78,4,-2,socialsaloon.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 212.20.167.71,4,6,sovd-sh.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 80.83.116.45,4,22,sozial.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 80.83.122.102,4,55,staatsoper-hamburg.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 185.147.219.42,4,15,stbk-hessen.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
-89.163.245.196,4,9,steinbeis-hochschule.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
-5.199.143.71,4,16,steinbeis.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
+89.163.245.196,4,0,steinbeis-hochschule.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
+5.199.143.71,4,-2,steinbeis.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 80.83.126.164,4,15,suchebiete.com,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
-80.83.113.102,4,-371,teebohne.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
-80.83.113.226,4,10,trierer-weihnachtsmarkt.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
+80.83.113.226,4,-1,trierer-weihnachtsmarkt.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 80.83.125.111,4,43,usadellab.org,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 80.83.113.70,4,7,virtualhosts.de,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 80.83.116.64,4,5,wts.com,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 91.228.53.85,4,4,yhrd.org,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
-78.31.67.89,4,0,zplatformu.com,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
+78.31.67.89,4,1,zplatformu.com,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf

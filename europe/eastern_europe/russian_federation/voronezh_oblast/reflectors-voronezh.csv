@@ -12,8 +12,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 80.82.55.71,4,1945,DNS Server: fa71.55.fix-addr.vsi.ru,RU,Europe,Eastern Europe,Russian Federation,Voronezh Oblast,,Voronezh
 109.195.52.19,4,14474,DNS Server: junost.ru,RU,Europe,Eastern Europe,Russian Federation,Voronezh Oblast,,Voronezh
 80.82.50.153,4,2,DNS Server: mail.citosfsin.ru,RU,Europe,Eastern Europe,Russian Federation,Voronezh Oblast,,Voronezh
-85.113.129.91,4,30,intrid.ru,RU,Europe,Eastern Europe,Russian Federation,Voronezh Oblast,,Voronezh
-217.25.228.153,4,28,kursk46.com,RU,Europe,Eastern Europe,Russian Federation,Voronezh Oblast,,Voronezh
+85.113.129.91,4,-6,intrid.ru,RU,Europe,Eastern Europe,Russian Federation,Voronezh Oblast,,Voronezh
+217.25.228.153,4,0,kursk46.com,RU,Europe,Eastern Europe,Russian Federation,Voronezh Oblast,,Voronezh
 109.195.48.230,4,-8,Ookla Speedtest Server 2706: speedtest.voronezh.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Voronezh Oblast,,Voronezh
 87.245.196.163,4,-15,Ookla Speedtest Server 22820: speedtest-voz.retn.net,RU,Europe,Eastern Europe,Russian Federation,Voronezh Oblast,,Voronezh
 217.25.228.120,4,1,russiafoto.ru,RU,Europe,Eastern Europe,Russian Federation,Voronezh Oblast,,Voronezh

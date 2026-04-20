@@ -9,9 +9,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.189.227.237,4,398,DNS Server: 45-189-227-237.provedornorte.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Solonópole
 45.238.112.61,4,12,DNS Server: 45.238.112.061.linkbaratotelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
 177.19.149.41,4,-3,DNS Server: bomache41.static.host.gvt.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
-200.150.137.161,4,1861,girassol.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+200.150.137.161,4,251228,girassol.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
 200.129.17.217,4,13,ifce.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
-200.17.33.160,4,0,ifce.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+200.17.33.160,4,-4,ifce.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
 201.139.186.223,4,1581,momentoeditorial.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
 132.255.80.8,4,13,Ookla Speedtest Server 6315: speedtest.almeidaparente.eti.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Frecheirinha
 138.0.72.2,4,23,Ookla Speedtest Server 6333: speedtest.ultranetce.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Pacujá
@@ -45,7 +45,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.234.151.248,4,5,Ookla Speedtest Server 18852: velocidade.giga7telecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
 138.121.120.13,4,32,Ookla Speedtest Server 23007: sp1.smartinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
 45.160.232.78,4,15,Ookla Speedtest Server 23297: sistelbras.aquilink.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Canindé
-138.219.180.226,4,363,Ookla Speedtest Server 23543: pdb-st01.provenet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Pedra Branca
+138.219.180.226,4,49636,Ookla Speedtest Server 23543: pdb-st01.provenet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Pedra Branca
 45.176.220.254,4,62445164,Ookla Speedtest Server 24342: speedtest-viveza.alcloud.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
 45.161.184.48,4,-83,Ookla Speedtest Server 24505: speedtest.bestnettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Morrinhos
 192.141.0.12,4,-1,Ookla Speedtest Server 24909: speedtest.infocotelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
@@ -130,7 +130,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 191.7.217.174,4,35,Ookla Speedtest Server 44966: velocimetro.senanet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Santa Quitéria
 168.232.12.174,4,3,Ookla Speedtest Server 45048: speedteststay.safeway.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Baturité
 189.85.119.128,4,-3,Ookla Speedtest Server 45251: sp1.incursonet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Iguatu
-138.36.0.70,4,329,Ookla Speedtest Server 45473: teste.texnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
+138.36.0.70,4,8,Ookla Speedtest Server 45473: teste.texnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
 200.25.36.39,4,1,Ookla Speedtest Server 46129: spt-for1.edgeuno.com,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
 167.249.16.56,4,2,Ookla Speedtest Server 46729: teste.orbetelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,São Gonçalo do Amarante
 181.233.136.6,4,14,Ookla Speedtest Server 47729: sp1.agilityquixelo.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Quixelô
@@ -187,7 +187,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.175.5.34,4,38,Ookla Speedtest Server 60216: speedtestrussas.valetelecomce.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Tabuleiro do Norte
 45.71.42.19,4,-84,Ookla Speedtest Server 60400: spx.etechinformaticatelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Acarape
 170.150.201.56,4,-88,Ookla Speedtest Server 61378: sp.barreiranet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
-189.85.118.199,4,-23939192,Ookla Speedtest Server 61458: sp1.idernettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Iguatu
 45.175.131.2,4,2877,Ookla Speedtest Server 61534: sp1.connecttelecom.seg.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
 170.239.47.30,4,-11,Ookla Speedtest Server 61984: mtest.sertaonetfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Crato
 179.48.16.255,4,66754638,Ookla Speedtest Server 62422: sp1.milhanet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Deputado Irapuan Pinheiro
@@ -195,7 +194,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 190.120.37.3,4,41057,Ookla Speedtest Server 62813: sp1.netsupporttelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Ipu
 45.175.58.120,4,10805766,Ookla Speedtest Server 62823: speedtestmnv.infortec.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Morada Nova
 187.19.151.214,4,68204204,Ookla Speedtest Server 63044: speedtest.agilitytelecomcruz.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Russas
-190.83.53.3,4,4676,Ookla Speedtest Server 63161: sp.multitelecomce.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Aracoiaba
+190.83.53.3,4,11509,Ookla Speedtest Server 63161: sp.multitelecomce.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Aracoiaba
 187.17.188.1,4,0,Ookla Speedtest Server 63285: st.wavelinktelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Mauriti
 179.124.163.11,4,33,Ookla Speedtest Server 63308: speedtest.inforfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Sobral
 190.107.199.102,4,-8,Ookla Speedtest Server 63774: megabyte.leoroot.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Santa Quitéria
@@ -207,7 +206,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 179.43.50.1,4,-93,Ookla Speedtest Server 64800: teste.loopnet.ciriaco.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Eusébio
 179.43.49.1,4,3,Ookla Speedtest Server 64803: teste.c3link.ciriaco.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Eusébio
 179.43.48.2,4,4,Ookla Speedtest Server 64804: teste2.c3link.ciriaco.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Eusébio
-189.85.116.208,4,10324,Ookla Speedtest Server 64988: ookla.viafios.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Icó
+189.85.116.208,4,79607,Ookla Speedtest Server 64988: ookla.viafios.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Icó
 45.178.188.1,4,30812063,Ookla Speedtest Server 65071: speedtest-trutelecom.alcloud.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Madalena
 201.20.89.136,4,220228,Ookla Speedtest Server 65096: velocidade.jaguarfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Jaguaruana
 160.20.162.34,4,-384675,Ookla Speedtest Server 67507: speed.popnetubajara.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza
@@ -228,5 +227,5 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 177.84.77.243,4,-7,Ookla Speedtest Server 71564: sp1ookla.lxtelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Redenção
 45.165.28.21,4,37219454,Ookla Speedtest Server 72060: speedtest.inforlinkreriutaba.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Reriutaba
 143.255.236.66,4,-17,Ookla Speedtest Server 73326: speedtest.bbb.arenaja.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Beberibe
-138.0.72.11,4,123,Ookla Speedtest Server: speedtest.ultranetce.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Pacujá
+138.0.72.11,4,4,Ookla Speedtest Server: speedtest.ultranetce.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Pacujá
 201.139.184.46,4,-15113,portalin.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Fortaleza

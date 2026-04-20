@@ -9,14 +9,14 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 213.158.90.145,4,66,backtowork.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 213.158.90.173,4,-4,baildsa.com,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 213.158.90.65,4,10,basket.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
-213.158.90.28,4,4,bluepalace.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.28,4,0,bluepalace.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 213.158.90.195,4,-14,booksjournal.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 213.158.90.54,4,-5,brace2dev.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 213.158.90.141,4,-14,casadeltoro.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 213.158.90.241,4,-10,corallia.org,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 213.158.90.169,4,-10,cres.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 192.135.166.167,4,-41,cretaquarium.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
-192.135.166.110,4,27,cretaquarium.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+192.135.166.110,4,1,cretaquarium.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 213.158.90.58,4,2,critical-stages.org,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 213.158.90.204,4,8,d-waste.com,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 213.158.90.120,4,2,daidalos-service.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
@@ -32,8 +32,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 213.158.90.68,4,14,gcr.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 213.158.90.47,4,-7,gkirinis.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 213.158.90.182,4,-6,hcaa-eleng.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
-213.158.90.20,4,13,i-m-patron.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
-213.158.90.33,4,24,i-smartcloud.com,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.20,4,0,i-m-patron.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
+213.158.90.33,4,-1,i-smartcloud.com,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 213.158.90.13,4,0,iaath.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 213.158.90.14,4,13,iatriko.gr,GR,Europe,Southern Europe,Greece,Crete,,Heraklion
 213.158.90.244,4,27,jasarqueologia.es,GR,Europe,Southern Europe,Greece,Crete,,Heraklion

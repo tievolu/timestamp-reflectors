@@ -2,8 +2,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 102.211.30.63,4,-4,africanbettingclan.com,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
 196.21.91.131,4,-27,aims.ac.za,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
 13.245.210.27,4,35,australiantimes.co.uk,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
-160.119.101.164,4,4,buildcoza.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
-13.244.188.58,4,23,cashbuild.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
+160.119.101.164,4,0,buildcoza.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
+13.244.188.58,4,-1,cashbuild.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
 129.205.133.217,4,15546254,DNS Server: 129-205-133-217.dynamic.macrolan.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
 197.89.18.229,4,-6,DNS Server: 197-89-18-229.dyn.mweb.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
 197.245.38.84,4,-3,DNS Server: dsl-197-245-38-84.voxdsl.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
@@ -14,8 +14,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 209.203.50.187,4,-6,dreamresorts.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
 13.244.56.48,4,1,flysaa.com,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
 13.247.143.12,4,-5,flysaa.com,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
-209.203.41.6,4,29,legacyhotels.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
-197.155.21.78,4,1,mastodon.africa,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
+209.203.41.6,4,2,legacyhotels.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
+197.155.21.78,4,2,mastodon.africa,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
 13.244.198.220,4,4,myschool.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
 102.211.29.170,4,7,ngb.org.za,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
 41.50.22.68,4,20,Ookla Speedtest Server 6003: speedtest-ctn.cellc.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
@@ -39,6 +39,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 102.212.60.20,4,-13,Ookla Speedtest Server 72332: speedtest.lnx.network,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
 151.101.227.10,4,43,raffles.com,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
 102.67.137.82,4,2,tayyibanfund.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
-154.66.204.99,4,1667,truthcoffee.com,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
+154.66.204.99,4,2567,truthcoffee.com,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
 102.67.137.10,4,21,urchinrestaurant.co.za,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town
 160.119.252.27,4,6658,yinkaedward.com,ZA,Africa,Sub-Saharan Africa,South Africa,Western Cape,,Cape Town

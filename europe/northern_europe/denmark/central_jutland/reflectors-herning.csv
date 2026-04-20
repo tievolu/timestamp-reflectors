@@ -1,6 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-185.31.79.130,4,32,audiovector.com,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
-46.30.121.230,4,68,cardealerplus.com,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
+185.31.79.130,4,-1,audiovector.com,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
+46.30.121.230,4,-1205,cardealerplus.com,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 46.30.126.230,4,-46,conventus.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 46.30.127.86,4,-4,e-pages.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 46.30.127.83,4,-41,e-pages.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
@@ -12,19 +12,19 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 46.30.127.85,4,-51,e-pages.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 46.30.127.94,4,-39,e-pages.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 46.30.127.91,4,-33,e-pages.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
-46.30.126.135,4,9,e-pages.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
-46.30.126.143,4,5,e-pages.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
-46.30.126.155,4,2,e-pages.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
+46.30.126.135,4,-38,e-pages.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
+46.30.126.143,4,-38,e-pages.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
+46.30.126.155,4,-37,e-pages.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 46.30.126.156,4,-41,e-pages.pub,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 46.30.126.147,4,-42,e-pages.pub,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
-185.31.76.148,4,3,hafaro.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
-46.30.121.150,4,10,heiring.com,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
+185.31.76.148,4,-36,hafaro.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
+46.30.121.150,4,-1243,heiring.com,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 185.31.76.122,4,1,iversen-import.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 185.31.76.117,4,-19,madbanditten.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 185.31.76.131,4,14,monsido.com,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 185.31.76.91,4,-38,nanion.de,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 62.69.153.49,4,21,planway.com,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
-185.31.77.87,4,9,plast.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
+185.31.77.87,4,-1,plast.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 185.31.76.104,4,-13,randersidag.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 46.30.124.118,4,-23,skatepro.com,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 185.31.76.114,4,1,tangent-audio.com,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning

@@ -49,7 +49,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.239.172.54,4,-29,Ookla Speedtest Server 46468: teste.ficarnettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Lagarto
 138.122.212.30,4,-14,Ookla Speedtest Server 48122: speedtest.netfolha.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Porto da Folha
 168.181.28.146,4,-3,Ookla Speedtest Server 50977: speedtst.bbnetup.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Itabaiana
-177.70.161.6,4,154,Ookla Speedtest Server 54584: teste3.infotec.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Umbaúba
+177.70.161.6,4,-5,Ookla Speedtest Server 54584: teste3.infotec.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Umbaúba
 186.233.28.22,4,60841,Ookla Speedtest Server 54837: speedtest.megalinkse.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Nossa Senhora de Lourdes
 45.225.120.179,4,11,Ookla Speedtest Server 56112: st-mundonet.owlcore.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
 200.39.48.10,4,18,Ookla Speedtest Server 56717: teste.webnetse.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Propriá
@@ -71,6 +71,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 187.87.225.1,4,-22,Ookla Speedtest Server 72516: speedtest.soubaruk.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Laranjeiras
 45.225.120.227,4,2,Ookla Speedtest Server 72540: speed.rapnettelecomunicacoes.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
 187.86.180.201,4,0,Ookla Speedtest Server 73313: speedtest.unoun.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Aracaju
-45.238.200.80,4,314,Ookla Speedtest Server: speedtest-lagarto.anettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Lagarto
+45.238.200.80,4,-1,Ookla Speedtest Server: speedtest-lagarto.anettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,Lagarto
 200.17.141.14,4,10,ufs.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,São Cristóvão
-200.17.141.60,4,7,ufs.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,São Cristóvão
+200.17.141.60,4,0,ufs.br,BR,Americas,Latin America and the Caribbean,Brazil,Sergipe,,São Cristóvão

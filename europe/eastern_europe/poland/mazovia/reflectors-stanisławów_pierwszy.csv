@@ -1,6 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-85.128.55.75,4,7,1a-werbung.at,PL,Europe,Eastern Europe,Poland,Mazovia,,Stanisławów Pierwszy
-85.128.54.50,4,36,reklamowe-upominki.pl,PL,Europe,Eastern Europe,Poland,Mazovia,,Stanisławów Pierwszy
+85.128.55.75,4,2,1a-werbung.at,PL,Europe,Eastern Europe,Poland,Mazovia,,Stanisławów Pierwszy
 85.128.54.57,4,7,spyshop.pl,PL,Europe,Eastern Europe,Poland,Mazovia,,Stanisławów Pierwszy
 85.128.54.67,4,2,zajazdszalas.pl,PL,Europe,Eastern Europe,Poland,Mazovia,,Stanisławów Pierwszy
-85.128.55.73,4,3,zatorland.pl,PL,Europe,Eastern Europe,Poland,Mazovia,,Stanisławów Pierwszy
+85.128.55.73,4,-2,zatorland.pl,PL,Europe,Eastern Europe,Poland,Mazovia,,Stanisławów Pierwszy

@@ -2,10 +2,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.57.68.12,4,0,arminco.com,AM,Asia,Western Asia,Armenia,,,
 185.57.68.15,4,-3,arpinet.am,AM,Asia,Western Asia,Armenia,,,
 217.113.25.216,4,15050330,celog.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-91.195.255.228,4,62672,celog.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+91.195.255.228,4,-6,celog.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
 77.91.68.11,4,-4,chas-daily.com,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
 2.56.206.6,4,-5,cmf.am,AM,Asia,Western Asia,Armenia,,,
-81.16.14.33,4,44156,datalex.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+81.16.14.33,4,-50286,datalex.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
 46.130.117.7,4,75608909,DNS Server: 7.117.130.46.in-addr.mts.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
 81.89.215.193,4,1,DNS Server: customer215-193.crossnet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
 45.159.74.1,4,-7,DNS Server: dns1.virusnet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
@@ -59,7 +59,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 83.139.0.19,4,547,Ookla Speedtest Server 19443: speedtesthost.viva.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
 45.159.74.2,4,-35,Ookla Speedtest Server 24730: speedtest.virusnet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
 195.191.186.78,4,-13,Ookla Speedtest Server 32183: speedtest.skynet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
-195.191.187.111,4,439,Ookla Speedtest Server 32183: speedtest.skynet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
+195.191.187.111,4,-82567,Ookla Speedtest Server 32183: speedtest.skynet.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
 62.89.7.99,4,-11,Ookla Speedtest Server 32511: speedtest3.itsec.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
 109.68.122.117,4,2,Ookla Speedtest Server 34558: evn-speed.arpinet.am,AM,Asia,Western Asia,Armenia,,,
 217.113.29.65,4,2153,Ookla Speedtest Server 38655: speedtest.maxinetartik.am,AM,Asia,Western Asia,Armenia,Shirak,,Shirak
@@ -77,6 +77,5 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 2.56.205.8,4,1353,sheynin.ru,AM,Asia,Western Asia,Armenia,,,
 91.223.82.8,4,1290,uahistory.co,AM,Asia,Western Asia,Armenia,,,
 176.32.195.163,4,22,unibank.am,AM,Asia,Western Asia,Armenia,,,
-83.139.13.250,4,-232166,unibank.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
 37.26.168.23,4,9,yerphi.am,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
 91.223.82.30,4,6,zdescargas.org,AM,Asia,Western Asia,Armenia,,,

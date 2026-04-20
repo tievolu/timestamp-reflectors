@@ -1,6 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 216.234.165.38,4,3,cruffler.com,CA,Americas,Northern America,Canada,Alberta,,Spruce Grove
-216.234.165.232,4,3,gregbrown.org,CA,Americas,Northern America,Canada,Alberta,,Spruce Grove
+216.234.165.232,4,-1,gregbrown.org,CA,Americas,Northern America,Canada,Alberta,,Spruce Grove
 216.234.161.31,4,-5,Ookla Speedtest Server: speedtest.tera-byte.com,CA,Americas,Northern America,Canada,Alberta,,Spruce Grove
 216.234.160.207,4,7,spaceports.com,CA,Americas,Northern America,Canada,Alberta,,Spruce Grove
-216.234.161.11,4,16,tera-byte.com,CA,Americas,Northern America,Canada,Alberta,,Spruce Grove
+216.234.161.11,4,-1,tera-byte.com,CA,Americas,Northern America,Canada,Alberta,,Spruce Grove

@@ -7,10 +7,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.83.232.6,4,-3,DNS Server: 6.232.pool.szemernet.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
 91.227.138.100,4,14,dobossy.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
 91.227.139.68,4,-15,dsfl.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
-91.227.138.53,4,9,ephelis.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.227.138.53,4,-1,ephelis.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
 91.227.138.41,4,23,feszekrako.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
 91.227.138.18,4,-3,fintech.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
-91.227.138.37,4,4,flippermuzeum.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.227.138.37,4,0,flippermuzeum.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
 91.227.139.81,4,-13,hiia.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
 91.227.138.34,4,-2,lepesradio.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
 91.227.139.235,4,16,linkcsereoldal.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
@@ -21,8 +21,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.227.138.31,4,-4,paksiandras.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
 91.227.139.69,4,0,parlando.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
 91.227.139.84,4,-15,pontmagazin.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
-91.227.138.39,4,5,shodostation.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
-91.227.139.189,4,3,szegeder.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.227.138.39,4,-2,shodostation.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
+91.227.139.189,4,-2,szegeder.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
 91.227.138.117,4,13,szekhelycentrum.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
 91.227.139.41,4,7,sztfh.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged
 91.227.138.102,4,11,uvegangyal.hu,HU,Europe,Eastern Europe,Hungary,Csongrád megye,,Szeged

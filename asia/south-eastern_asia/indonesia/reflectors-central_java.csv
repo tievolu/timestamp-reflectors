@@ -30,7 +30,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.182.196.6,4,64,Ookla Speedtest Server 61485: speedtest.speedplus.in,ID,Asia,South-eastern Asia,Indonesia,Central Java,,Surakarta
 103.155.190.77,4,-9,Ookla Speedtest Server 61662: semarang-test.trisuladata.net.id,ID,Asia,South-eastern Asia,Indonesia,Central Java,,Semarang
 41.216.186.10,4,-4,Ookla Speedtest Server 63599: speedtestid.perwiramedia.co.id,ID,Asia,South-eastern Asia,Indonesia,Central Java,,Purbalingga
-103.166.8.226,4,376,Ookla Speedtest Server 64591: karanganyar.aksessedaya.my.id,ID,Asia,South-eastern Asia,Indonesia,Central Java,,Karanganyar
+103.166.8.226,4,61100199,Ookla Speedtest Server 64591: karanganyar.aksessedaya.my.id,ID,Asia,South-eastern Asia,Indonesia,Central Java,,Karanganyar
 49.156.22.210,4,42,Ookla Speedtest Server 64941: speedtest6.palapa.net.id,ID,Asia,South-eastern Asia,Indonesia,Central Java,,
 103.166.32.242,4,30,Ookla Speedtest Server 65153: blora.dcity.id,ID,Asia,South-eastern Asia,Indonesia,Central Java,,Blora
 103.131.19.42,4,4,Ookla Speedtest Server 65505: speedtest.swiftlaju.com,ID,Asia,South-eastern Asia,Indonesia,Central Java,,Batang
@@ -100,5 +100,5 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 163.223.112.248,4,19,Ookla Speedtest Server 74129: speedtest.teknoindo.net,ID,Asia,South-eastern Asia,Indonesia,Central Java,,Boyolali
 198.15.16.28,4,43,Ookla Speedtest Server 74418: speedtest.primasaranabersama.com,ID,Asia,South-eastern Asia,Indonesia,Central Java,,Pekalongan
 103.147.46.163,4,-18,stmi.ac.id,ID,Asia,South-eastern Asia,Indonesia,Central Java,,Klaten
-103.167.2.32,4,14,uinsalatiga.ac.id,ID,Asia,South-eastern Asia,Indonesia,Central Java,,Salatiga
+103.167.2.32,4,5,uinsalatiga.ac.id,ID,Asia,South-eastern Asia,Indonesia,Central Java,,Salatiga
 49.128.176.211,4,19,unisayogya.ac.id,ID,Asia,South-eastern Asia,Indonesia,Central Java,,Semarang

@@ -3,5 +3,5 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 37.235.49.95,4,-2,DoH server: doh.azoris.ovh,IS,Europe,Northern Europe,Iceland,Capital Region,Hafnarfjarðarkaupstaður,Hafnarfjordur
 130.208.165.58,4,6,hi.is,IS,Europe,Northern Europe,Iceland,Capital Region,Hafnarfjarðarkaupstaður,Hafnarfjordur
 157.157.221.29,4,-1,Ookla Speedtest Server 62159: speedtest.hashblock.be,IS,Europe,Northern Europe,Iceland,Capital Region,Hafnarfjarðarkaupstaður,Hafnarfjordur
-194.144.161.80,4,13,umferdin.is,IS,Europe,Northern Europe,Iceland,Capital Region,Hafnarfjarðarkaupstaður,Hafnarfjordur
-194.144.161.109,4,46,vegagerdin.is,IS,Europe,Northern Europe,Iceland,Capital Region,Hafnarfjarðarkaupstaður,Hafnarfjordur
+194.144.161.80,4,0,umferdin.is,IS,Europe,Northern Europe,Iceland,Capital Region,Hafnarfjarðarkaupstaður,Hafnarfjordur
+194.144.161.109,4,-1,vegagerdin.is,IS,Europe,Northern Europe,Iceland,Capital Region,Hafnarfjarðarkaupstaður,Hafnarfjordur

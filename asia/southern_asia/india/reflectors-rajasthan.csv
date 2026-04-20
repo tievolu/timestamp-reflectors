@@ -1,7 +1,7 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 117.203.160.230,4,56606776,biharboardonline.com,IN,Asia,Southern Asia,India,Rajasthan,,Kota
 117.203.169.39,4,-61,nitrkl.ac.in,IN,Asia,Southern Asia,India,Rajasthan,,Kota
-117.203.169.10,4,8,nitrkl.ac.in,IN,Asia,Southern Asia,India,Rajasthan,,Kota
+117.203.169.10,4,2,nitrkl.ac.in,IN,Asia,Southern Asia,India,Rajasthan,,Kota
 103.119.76.246,4,-21,Ookla Speedtest Server 16723: speedtest.stplnet.com,IN,Asia,Southern Asia,India,Rajasthan,,Jaipur
 61.246.31.154,4,-11,Ookla Speedtest Server 19889: speedtestjpr1.airtel.in,IN,Asia,Southern Asia,India,Rajasthan,,Jaipur
 112.79.47.1,4,0,Ookla Speedtest Server 22967: ooklatestjaipur.live.vodafone.in,IN,Asia,Southern Asia,India,Rajasthan,,Jaipur
@@ -16,5 +16,5 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.137.84.8,4,-26,Ookla Speedtest Server 50264: speedtest1.bfibernet.com,IN,Asia,Southern Asia,India,Rajasthan,,Jaipur
 160.202.11.6,4,-38,Ookla Speedtest Server 62322: udaipur-speedtest.ishancloud.com,IN,Asia,Southern Asia,India,Rajasthan,,Udaipur
 165.99.52.7,4,36,Ookla Speedtest Server 73241: speedtest.dserverhosting.com,IN,Asia,Southern Asia,India,Rajasthan,,Jaipur
-103.68.40.44,4,8,qssindia.com,IN,Asia,Southern Asia,India,Rajasthan,,Jaipur
+103.68.40.44,4,12,qssindia.com,IN,Asia,Southern Asia,India,Rajasthan,,Jaipur
 165.99.53.106,4,11,servertrafficweb.com,IN,Asia,Southern Asia,India,Rajasthan,,Jaipur

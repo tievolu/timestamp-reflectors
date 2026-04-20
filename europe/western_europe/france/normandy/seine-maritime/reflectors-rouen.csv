@@ -1,8 +1,8 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 146.255.169.76,4,-3,avizi.fr,FR,Europe,Western Europe,France,Normandy,Seine-Maritime,Rouen
 146.255.169.106,4,-43,infiniment-charentes.com,FR,Europe,Western Europe,France,Normandy,Seine-Maritime,Rouen
-176.57.246.58,4,37,rouen.fr,FR,Europe,Western Europe,France,Normandy,Seine-Maritime,Rouen
+176.57.246.58,4,1,rouen.fr,FR,Europe,Western Europe,France,Normandy,Seine-Maritime,Rouen
 176.57.243.254,4,5,seinemaritime.fr,FR,Europe,Western Europe,France,Normandy,Seine-Maritime,Rouen
 176.57.245.134,4,31376,seinemaritime.net,FR,Europe,Western Europe,France,Normandy,Seine-Maritime,Rouen
 146.255.169.105,4,14,sudcharentetourisme.fr,FR,Europe,Western Europe,France,Normandy,Seine-Maritime,Rouen
-146.255.171.138,4,3,ville-tulle.fr,FR,Europe,Western Europe,France,Normandy,Seine-Maritime,Rouen
+146.255.171.138,4,-1,ville-tulle.fr,FR,Europe,Western Europe,France,Normandy,Seine-Maritime,Rouen

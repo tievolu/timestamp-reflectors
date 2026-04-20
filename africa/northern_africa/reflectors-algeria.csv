@@ -1,6 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 102.207.216.124,4,3168,alelec.com,DZ,Africa,Northern Africa,Algeria,,,
-102.220.31.36,4,14,domelec-dz.com,DZ,Africa,Northern Africa,Algeria,Beni Abbes,,Béni Abbès
+102.220.31.36,4,-4,domelec-dz.com,DZ,Africa,Northern Africa,Algeria,Beni Abbes,,Béni Abbès
 213.179.181.8,4,369,esli.com.dz,DZ,Africa,Northern Africa,Algeria,,,
 41.111.220.40,4,-13,lagh-univ.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
 213.179.181.28,4,3,lecourrier-dalgerie.com,DZ,Africa,Northern Africa,Algeria,,,
@@ -17,11 +17,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 41.111.191.115,4,19,univ-bechar.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
 41.111.191.121,4,-6,univ-bechar.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
 41.111.234.143,4,1,univ-boumerdes.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
-41.111.234.131,4,12,univ-boumerdes.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
+41.111.234.131,4,-7,univ-boumerdes.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
 197.140.11.224,4,746,univ-constantine2.dz,DZ,Africa,Northern Africa,Algeria,,,
 41.111.206.210,4,3609369,univ-msila.dz,DZ,Africa,Northern Africa,Algeria,Béjaïa,,Amizour
 41.111.171.235,4,-7,univ-oran1.dz,DZ,Africa,Northern Africa,Algeria,Oran,,Oran
 41.110.190.124,4,7,univ-saida.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
 41.106.128.5,4,1,univ-sba.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,
-41.111.224.35,4,12,univ-tebessa.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
+41.111.224.35,4,-9,univ-tebessa.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
 41.201.17.84,4,25,wilayabiskra.dz,DZ,Africa,Northern Africa,Algeria,Blida,,Blida

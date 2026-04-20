@@ -1,7 +1,7 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-84.236.133.121,4,6,calatayud.es,ES,Europe,Southern Europe,Spain,Murcia,Murcia,Alcantarilla
+84.236.133.121,4,-1,calatayud.es,ES,Europe,Southern Europe,Spain,Murcia,Murcia,Alcantarilla
 77.73.41.121,4,59596759,DNS Server: 77-73-41-121-static.telelorca.com,ES,Europe,Southern Europe,Spain,Murcia,Murcia,Lorca
-195.57.137.3,4,25,juegosonce.es,ES,Europe,Southern Europe,Spain,Murcia,Murcia,Molina de Segura
+195.57.137.3,4,220,juegosonce.es,ES,Europe,Southern Europe,Spain,Murcia,Murcia,Molina de Segura
 2.59.124.17,4,32818159,onceq1140.com,ES,Europe,Southern Europe,Spain,Murcia,Murcia,Lorca
 185.44.24.25,4,0,Ookla Speedtest Server 8138: speedtest.electronicamartinez.es,ES,Europe,Southern Europe,Spain,Murcia,Murcia,La Aparecida
 94.143.27.52,4,-1,Ookla Speedtest Server 18928: speedtest1.nixus.es,ES,Europe,Southern Europe,Spain,Murcia,Murcia,Murcia

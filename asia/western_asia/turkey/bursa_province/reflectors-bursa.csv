@@ -1,16 +1,13 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-45.143.4.139,4,24,basinturu.news,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
 212.192.252.77,4,0,dirilisantalya.com.tr,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
 212.98.224.69,4,-371863,DNS Server: 212.98.224.69.pendns.net,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
 81.213.149.81,4,10,DNS Server: 81.213.149.81.dynamic.ttnet.com.tr,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
 213.14.11.162,4,-16,DNS Server: host-213-14-11-162.reverse.superonline.net,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
-45.59.70.115,4,9,hepbidolu.com,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
 212.98.224.26,4,2021,kaplanokullari.com,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
-185.136.206.60,4,-9974828,karelservis.com.tr,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
 195.175.54.82,4,-5,kutahya.bel.tr,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
 185.223.77.28,4,5,mavikus.com.tr,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
-109.176.253.41,4,1,mutfaksirlari.com,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
-185.136.206.14,4,43,oguzhankaraburgu.com.tr,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
+109.176.253.41,4,4,mutfaksirlari.com,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
+185.136.206.14,4,-7,oguzhankaraburgu.com.tr,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
 188.119.0.138,4,-3,Ookla Speedtest Server 42517: speedtest16.turk.net,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
 2.56.248.59,4,2,Ookla Speedtest Server 50093: speedtest.uzmansoft.net,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
 188.41.249.12,4,-10,Ookla Speedtest Server 55150: bur1speedtest.turktelekom.com.tr,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
@@ -22,6 +19,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.143.4.249,4,15,seastaralanya.com,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
 212.100.185.237,4,-321,seslihobi.com,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
 2.56.248.11,4,-19,tekirdagarabulucu.com,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
-91.194.54.154,4,4,toyzzshop.com,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
-185.136.206.71,4,1,zeytinburnukarotcu.com.tr,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
+91.194.54.154,4,-7,toyzzshop.com,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
+185.136.206.71,4,-1,zeytinburnukarotcu.com.tr,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa
 5.181.87.165,4,1928,zsohbet.org,TR,Asia,Western Asia,Turkey,Bursa Province,,Bursa

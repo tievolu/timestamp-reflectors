@@ -1,10 +1,10 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-85.238.41.121,4,21,airzena.com,GE,Asia,Western Asia,Georgia,,,
+85.238.41.121,4,-2,airzena.com,GE,Asia,Western Asia,Georgia,,,
 188.93.95.22,4,-113,apa.gov.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 188.93.95.68,4,-135,archdeco.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-77.91.126.48,4,28,autolebanon.ru,GE,Asia,Western Asia,Georgia,,,
+77.91.126.48,4,-29,autolebanon.ru,GE,Asia,Western Asia,Georgia,,,
 91.239.207.147,4,287768,batumi.ge,GE,Asia,Western Asia,Georgia,,,
-91.212.213.18,4,56719,binuli.ge,GE,Asia,Western Asia,Georgia,,,
+91.212.213.18,4,91740,binuli.ge,GE,Asia,Western Asia,Georgia,,,
 212.72.155.164,4,-1,borjomi.com,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 91.212.213.24,4,19882,borjomipalace.ge,GE,Asia,Western Asia,Georgia,,,
 91.239.207.38,4,-15,cleancar.ge,GE,Asia,Western Asia,Georgia,,,
@@ -46,14 +46,14 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 213.157.205.164,4,1136,dsl.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 195.54.179.46,4,-6,eu.edu.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 195.69.143.235,4,0,fcdinamo.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-188.93.88.93,4,13,fcsamgurali.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+188.93.88.93,4,6,fcsamgurali.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 188.93.95.152,4,-2,for.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 91.239.207.139,4,415154,formulanews.ge,GE,Asia,Western Asia,Georgia,,,
 188.93.95.26,4,137449,forum.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 185.163.200.39,4,90562,gau.edu.ge,GE,Asia,Western Asia,Georgia,,,
 185.163.200.21,4,-187938,georgiantheatre.ge,GE,Asia,Western Asia,Georgia,,,
 91.239.207.119,4,420454,geotimes.ge,GE,Asia,Western Asia,Georgia,,,
-91.239.207.180,4,10791200,geworld.ge,GE,Asia,Western Asia,Georgia,,,
+91.239.207.180,4,10587977,geworld.ge,GE,Asia,Western Asia,Georgia,,,
 91.239.207.42,4,-12,gga.org.ge,GE,Asia,Western Asia,Georgia,,,
 188.93.91.198,4,3,gmwa.org.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 195.54.179.104,4,-71,grea.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
@@ -70,7 +70,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.54.179.110,4,-4,kreston.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 188.93.95.105,4,5,kvira.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 81.95.160.48,4,-2,magticom.ge,GE,Asia,Western Asia,Georgia,,,
-195.54.178.41,4,-66408,marneuli.net,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 91.239.207.212,4,-21,matemotors.com,GE,Asia,Western Asia,Georgia,,,
 213.157.205.208,4,185,messenger.com.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 188.93.95.4,4,-107,mestia.gov.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
@@ -90,6 +89,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.136.54.138,4,28,Ookla Speedtest Server 60025: speedtest.green.net.ge,GE,Asia,Western Asia,Georgia,Shida Kartli,,Gomi
 185.168.225.254,4,1,Ookla Speedtest Server 65172: speedtest.skytel.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 212.72.155.125,4,-1,Ookla Speedtest Server: connect.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+212.72.155.36,4,1278,Ookla Speedtest Server: connect.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 91.239.206.128,4,2,opera.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 206.53.48.131,4,8,ozistanbul.net,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 185.229.111.12,4,14,pridex.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
@@ -100,19 +100,19 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.54.178.5,4,821,smartsense.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 195.54.178.4,4,36,smr.gov.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 213.157.206.35,4,227,smsorg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-213.157.199.149,4,4,smsorg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+213.157.199.149,4,0,smsorg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 195.54.178.52,4,9,tbiliselebi.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 195.54.179.32,4,15,tmarket.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 188.93.89.87,4,13,top.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 109.172.196.173,4,7679,ultraviolettesting.ru,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 91.212.213.34,4,-482299,urbanmotors.ge,GE,Asia,Western Asia,Georgia,,,
-91.239.206.213,4,32,vanillasky.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+91.239.206.213,4,-2,vanillasky.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 212.72.155.20,4,2588,vertisoli.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 195.69.143.227,4,18,visitajara.com,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 188.93.95.15,4,8,worldsport.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 185.229.111.112,4,-7,wrc.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 62.233.61.228,4,6,yeezyslides.mx,GE,Asia,Western Asia,Georgia,,,
-37.72.142.62,4,7976,yeezyv2-outlet.us,GE,Asia,Western Asia,Georgia,,,
+37.72.142.62,4,0,yeezyv2-outlet.us,GE,Asia,Western Asia,Georgia,,,
 91.239.206.239,4,-157517,yell.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 91.223.53.10,4,8,yvavilebismovla.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 5.10.34.69,4,0,yversy.com,GE,Asia,Western Asia,Georgia,,,

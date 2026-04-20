@@ -1,8 +1,8 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 195.190.166.214,4,23,casinolocarno.ch,CH,Europe,Western Europe,Switzerland,Ticino,,Muralto
 185.220.245.18,4,-16,centroculturalechiasso.ch,CH,Europe,Western Europe,Switzerland,Ticino,,Lugano
-185.220.244.5,4,5,emeren.com,CH,Europe,Western Europe,Switzerland,Ticino,,Lugano
-185.220.247.149,4,56,friendsandpartners.it,CH,Europe,Western Europe,Switzerland,Ticino,,Lugano
+185.220.244.5,4,-1,emeren.com,CH,Europe,Western Europe,Switzerland,Ticino,,Lugano
+185.220.247.149,4,0,friendsandpartners.it,CH,Europe,Western Europe,Switzerland,Ticino,,Lugano
 185.220.244.29,4,-12,innovup.net,CH,Europe,Western Europe,Switzerland,Ticino,,Lugano
 217.168.224.130,4,0,leonardo3.net,CH,Europe,Western Europe,Switzerland,Ticino,,Lugano
 46.21.26.30,4,2,mendrisiottoturismo.ch,CH,Europe,Western Europe,Switzerland,Ticino,,Bioggio
@@ -11,4 +11,4 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.54.81.15,4,-58,Ookla Speedtest Server 37146: speedtest.goline.ch,CH,Europe,Western Europe,Switzerland,Ticino,,Stabio
 185.220.245.105,4,1,orticolario.it,CH,Europe,Western Europe,Switzerland,Ticino,,Lugano
 195.190.166.215,4,2,swissminiatur.ch,CH,Europe,Western Europe,Switzerland,Ticino,,Muralto
-185.220.245.83,4,2,zoomark.it,CH,Europe,Western Europe,Switzerland,Ticino,,Lugano
+185.220.245.83,4,-1,zoomark.it,CH,Europe,Western Europe,Switzerland,Ticino,,Lugano

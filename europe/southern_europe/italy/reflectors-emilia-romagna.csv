@@ -2,9 +2,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.62.162.207,4,-32,agenziapo.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Bologna,Bologna
 151.8.40.20,4,0,ariete.net,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Modena,Cavezzo
 195.62.190.247,4,32,carpidiem.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Reggio Emilia,Correggio
-185.247.212.193,4,4,cna.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Forlì-Cesena,Castrocaro Terme
+185.247.212.193,4,-1,cna.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Forlì-Cesena,Castrocaro Terme
 195.62.179.113,4,-2166170108,comunecervia.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Reggio Emilia,Correggio
-31.3.182.7,4,10,cortonamaec.org,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Forlì-Cesena,Cesena
+31.3.182.7,4,0,cortonamaec.org,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Forlì-Cesena,Cesena
 2.229.85.92,4,-8,DNS Server: 2-229-85-92.ip195.fastwebnet.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Modena,Ravarino
 185.187.45.46,4,-7,DNS Server: 46.45.187.185.ip.fibrafast.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Ravenna,Ravenna
 88.149.135.77,4,48,DNS Server: 88-149-135-77.static.eolo.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Piacenza,Villanova sull'Arda
@@ -18,11 +18,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 212.104.43.2,4,-5,DNS Server: ns1.ignet.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Reggio Emilia,Reggio Emilia
 77.89.9.10,4,20,DNS Server: office.egsolutions.com,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Bologna,Bologna
 79.98.45.44,4,15,ehiweb.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Parma,Parma
-82.180.47.169,4,7,fiamma.com,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Bologna,Bologna
+82.180.47.169,4,0,fiamma.com,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Bologna,Bologna
 195.62.190.71,4,-14,flashgiovani.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Reggio Emilia,Correggio
 79.98.45.14,4,8,interlex.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Parma,Parma
 195.62.175.67,4,-2,istruzioneer.gov.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Bologna,Bologna
-194.113.88.123,4,86,italiafruit.net,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Reggio Emilia,Cavriago
+194.113.88.123,4,-3,italiafruit.net,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Reggio Emilia,Cavriago
 195.62.162.208,4,-37,lepida.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Bologna,Bologna
 79.98.45.31,4,10,marconiexpress.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Parma,Parma
 195.62.186.138,4,-61703,Ookla Speedtest Server 2872: speedtest1.lepida.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Bologna,Bologna
@@ -37,8 +37,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 79.98.40.52,4,25,scs-europe.net,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Parma,Parma
 213.209.214.11,4,15,simas.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Ravenna,Ravenna
 31.3.182.17,4,7,soleluna.com,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Forlì-Cesena,Cesena
-31.3.182.1,4,26,spazio38.com,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Forlì-Cesena,Cesena
-195.62.190.245,4,70,terredargine.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Reggio Emilia,Correggio
+31.3.182.1,4,1,spazio38.com,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Forlì-Cesena,Cesena
+195.62.190.245,4,-2,terredargine.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Reggio Emilia,Correggio
 77.89.51.37,4,16,umbertocesariartcontest.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Forlì-Cesena,Forlì
-192.167.219.48,4,22,unife.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Ferrara,Ferrara
+192.167.219.48,4,-91723,unife.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Ferrara,Ferrara
 79.98.45.12,4,0,yamamay.com,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Parma,Parma

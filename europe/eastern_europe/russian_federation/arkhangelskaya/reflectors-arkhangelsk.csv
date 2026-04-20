@@ -8,6 +8,5 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.122.216.160,4,-2,DNS Server: ip-160-216-122-091.static.atnet.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
 92.101.95.217,4,13170,DNS Server: ip-217-095-101-092.static.atnet.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
 92.101.120.233,4,44267470,DNS Server: ip-233-120-101-92.pools.atnet.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
-62.192.235.251,4,1,nsmu.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
+62.192.235.251,4,-22,nsmu.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
 45.132.50.29,4,5,pirogovclinic.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk
-45.132.50.121,4,-14,shopkarat.ru,RU,Europe,Eastern Europe,Russian Federation,Arkhangelskaya,,Arkhangelsk

@@ -1,46 +1,39 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-185.56.74.147,4,2,1202.org.il,IL,Asia,Western Asia,Israel,,,
+185.56.74.147,4,-1,1202.org.il,IL,Asia,Western Asia,Israel,,,
 62.219.58.168,4,-6,a-2-z.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 81.218.117.93,4,0,acousticplus.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 81.218.83.70,4,-8,activestills.org,IL,Asia,Western Asia,Israel,Jerusalem,,Modiin Ilit
 185.37.149.250,4,4,adva.org,IL,Asia,Western Asia,Israel,,,
-185.18.206.241,4,728,adva.org,IL,Asia,Western Asia,Israel,Central District,,
+185.18.206.241,4,623,adva.org,IL,Asia,Western Asia,Israel,Central District,,
 185.201.148.67,4,3,aisrael.org,IL,Asia,Western Asia,Israel,,,
 66.22.84.26,4,3,alljobs.co.il,IL,Asia,Western Asia,Israel,Central District,,
 81.218.83.103,4,17,alooma.tv,IL,Asia,Western Asia,Israel,Jerusalem,,Modiin Ilit
-185.56.75.80,4,168,arberobotics.com,IL,Asia,Western Asia,Israel,,,
-81.218.117.82,4,60,archives.gov.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+185.56.75.80,4,0,arberobotics.com,IL,Asia,Western Asia,Israel,,,
+81.218.117.82,4,1,archives.gov.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 88.218.116.187,4,6,arims.org.il,IL,Asia,Western Asia,Israel,Central District,,Rehovot
 185.56.74.190,4,5,asafltd.co.il,IL,Asia,Western Asia,Israel,,,
 212.150.130.237,4,820,asoccer.co.il,IL,Asia,Western Asia,Israel,Central District,,Rishon LeTsiyyon
 167.86.44.146,4,-45,assuta.co.il,IL,Asia,Western Asia,Israel,Central District,,
 176.100.166.89,4,-2,bankjerusalem.co.il,IL,Asia,Western Asia,Israel,Central District,,
 185.108.148.63,4,10,bauhaus-center.com,IL,Asia,Western Asia,Israel,,,
-185.108.148.164,4,-41,bauhaus-center.com,IL,Asia,Western Asia,Israel,,,
 185.201.148.68,4,3,bdsk.co.il,IL,Asia,Western Asia,Israel,,,
 88.218.116.221,4,25,beta-estate.com,IL,Asia,Western Asia,Israel,Central District,,Rehovot
 212.80.205.67,4,33,bezalel.ac.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
-80.178.161.107,4,-7,birdf.com,IL,Asia,Western Asia,Israel,,,
 176.100.169.109,4,0,boi.org.il,IL,Asia,Western Asia,Israel,Central District,,
 185.56.73.50,4,12,breslev.co.il,IL,Asia,Western Asia,Israel,,,
 195.28.181.112,4,-7,buyallexpress.com,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
-185.108.148.65,4,-249,capitalise.ai,IL,Asia,Western Asia,Israel,,,
 185.108.148.15,4,-4,caregivers.org.il,IL,Asia,Western Asia,Israel,,,
-185.108.148.81,4,-264,carmelwines.co.il,IL,Asia,Western Asia,Israel,,,
 88.218.116.24,4,-13,carsmedia.co.il,IL,Asia,Western Asia,Israel,Central District,,Rehovot
 62.90.75.133,4,16,casinos.fyi,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
-212.199.177.172,4,5,chinanewsline.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+212.199.177.172,4,-5,chinanewsline.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 62.219.58.243,4,323,cinema.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 62.90.75.197,4,-6,civileng.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 88.218.116.31,4,1,codere-partners.com,IL,Asia,Western Asia,Israel,Central District,,Rehovot
 185.220.207.189,4,-4376,col.org.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
 185.201.148.127,4,-1,collplant.com,IL,Asia,Western Asia,Israel,,,
-185.131.144.182,4,-2,comc.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
-88.218.116.137,4,-10,conversioner.com,IL,Asia,Western Asia,Israel,Central District,,Rehovot
-185.108.148.135,4,131,cyabra.com,IL,Asia,Western Asia,Israel,,,
 88.218.117.53,4,-13,daroma.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
-185.108.148.134,4,122,darrow.ai,IL,Asia,Western Asia,Israel,,,
-195.225.46.200,4,3,dldtelaviv.com,IL,Asia,Western Asia,Israel,,,
+185.108.148.134,4,-5,darrow.ai,IL,Asia,Western Asia,Israel,,,
+195.225.46.200,4,0,dldtelaviv.com,IL,Asia,Western Asia,Israel,,,
 2.55.123.133,4,27059627,DNS Server: 2-55-123-133.orange.net.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 2.55.96.176,4,-2144136469,DNS Server: 2-55-96-176.orange.net.il,IL,Asia,Western Asia,Israel,Haifa,,Haifa
 2.55.125.80,4,20953860,DNS Server: 31-154-125-80.orange.net.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
@@ -75,23 +68,22 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 88.218.117.13,4,0,drkahn.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 31.133.101.68,4,-5,druyan.com,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
 182.54.236.10,4,-76,e-mago.co.il,IL,Asia,Western Asia,Israel,,,
-182.54.236.24,4,1656,e-mago.co.il,IL,Asia,Western Asia,Israel,,,
+182.54.236.24,4,1636,e-mago.co.il,IL,Asia,Western Asia,Israel,,,
 192.115.82.200,4,-3,e-vrit.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Giv‘atayim
 88.218.116.151,4,-15,econcretetech.com,IL,Asia,Western Asia,Israel,Central District,,Rehovot
 195.225.46.112,4,-4,elijah-interfaith.org,IL,Asia,Western Asia,Israel,,,
-195.225.46.43,4,5,eran.org.il,IL,Asia,Western Asia,Israel,,,
+195.225.46.43,4,0,eran.org.il,IL,Asia,Western Asia,Israel,,,
 5.100.253.75,4,8997,etzel.org.il,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
-212.150.158.23,4,23,f2h.io,IL,Asia,Western Asia,Israel,Central District,,Rishon LeTsiyyon
+212.150.158.23,4,375,f2h.io,IL,Asia,Western Asia,Israel,Central District,,Rishon LeTsiyyon
 88.218.117.134,4,-15,farbr.co,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
-82.80.210.157,4,2,forms-wizard.biz,IL,Asia,Western Asia,Israel,Central District,,Modi‘in Makkabbim Re‘ut
+82.80.210.157,4,-6,forms-wizard.biz,IL,Asia,Western Asia,Israel,Central District,,Modi‘in Makkabbim Re‘ut
 185.201.148.70,4,9,geneva-accord.org,IL,Asia,Western Asia,Israel,,,
 81.218.117.73,4,-2,geokg.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 195.28.180.198,4,-9,gfh.org.il,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
 176.100.169.39,4,-25,globes.co.il,IL,Asia,Western Asia,Israel,Central District,,
 185.47.173.152,4,479,haifaff.co.il,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
-167.86.44.32,4,8,harel-group.co.il,IL,Asia,Western Asia,Israel,Central District,,
-80.179.142.74,4,-1,hebron.org.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Bnei Brak
-185.108.148.112,4,7,herzog.ac.il,IL,Asia,Western Asia,Israel,,,
+167.86.44.32,4,-15,harel-group.co.il,IL,Asia,Western Asia,Israel,Central District,,
+185.108.148.112,4,-8,herzog.ac.il,IL,Asia,Western Asia,Israel,,,
 185.131.144.174,4,2,hias.org.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 66.22.84.27,4,-2,hidabroot.org,IL,Asia,Western Asia,Israel,Central District,,
 94.188.230.211,4,-2,hilan.co.il,IL,Asia,Western Asia,Israel,Central District,,
@@ -102,31 +94,30 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 51.84.42.152,4,-4,iac360.org,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 82.166.0.164,4,-4,icast.co.il,IL,Asia,Western Asia,Israel,Northern District,,Er Reina
 88.218.117.79,4,-40,icpas.org.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
-185.56.73.24,4,2,idanraichelproject.com,IL,Asia,Western Asia,Israel,,,
-88.218.116.134,4,909,idsf.org.il,IL,Asia,Western Asia,Israel,Central District,,Rehovot
+185.56.73.24,4,-1,idanraichelproject.com,IL,Asia,Western Asia,Israel,,,
+88.218.116.134,4,-7,idsf.org.il,IL,Asia,Western Asia,Israel,Central District,,Rehovot
 176.100.166.52,4,-9,iec.co.il,IL,Asia,Western Asia,Israel,Central District,,
-195.28.181.44,4,44,insuranceusaauto.com,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
+195.28.181.44,4,0,insuranceusaauto.com,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
 88.218.117.196,4,-14,ipo.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 62.219.50.49,4,-7,isracast.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 185.108.148.92,4,1,israel-opera.co.il,IL,Asia,Western Asia,Israel,,,
-199.203.52.202,4,10050340,isratrance.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 185.108.148.9,4,8,itadmit.co.il,IL,Asia,Western Asia,Israel,,,
-83.229.81.191,4,12,jamd.ac.il,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
+83.229.81.191,4,-1,jamd.ac.il,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
 88.218.117.88,4,-1,jerusalemfoundation.org,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 80.179.142.66,4,-32,jerusaleminstitute.org.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Bnei Brak
 188.191.147.117,4,-18,jerusalemstoneart.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 88.218.117.180,4,2,joh.org.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 88.218.117.142,4,0,jordanretro.org,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
-195.225.46.181,4,3,jppi.org.il,IL,Asia,Western Asia,Israel,,,
-212.150.243.220,4,1151,julievino.com,IL,Asia,Western Asia,Israel,Central District,,Na‘an
+195.225.46.181,4,1,jppi.org.il,IL,Asia,Western Asia,Israel,,,
+212.150.243.220,4,1743,julievino.com,IL,Asia,Western Asia,Israel,Central District,,Na‘an
 192.116.146.34,4,-34,jvpvc.com,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
-185.56.72.170,4,20,kehilot.co.il,IL,Asia,Western Asia,Israel,,,
+185.56.72.170,4,-1,kehilot.co.il,IL,Asia,Western Asia,Israel,,,
 185.56.75.170,4,-16,kenyonperetz.co.il,IL,Asia,Western Asia,Israel,,,
 185.56.75.150,4,2,keshatot.co.il,IL,Asia,Western Asia,Israel,,,
 66.22.84.16,4,-1,kkl-jnf.org,IL,Asia,Western Asia,Israel,Central District,,
 66.22.84.22,4,-52,kkl.org.il,IL,Asia,Western Asia,Israel,Central District,,
 185.201.148.121,4,-42,kolma.co.il,IL,Asia,Western Asia,Israel,,,
-82.80.25.204,4,14,kulam.org,IL,Asia,Western Asia,Israel,Central District,,Rishon LeTsiyyon
+82.80.25.204,4,0,kulam.org,IL,Asia,Western Asia,Israel,Central District,,Rishon LeTsiyyon
 194.88.109.105,4,-11,lahakaviation.com,IL,Asia,Western Asia,Israel,,,
 185.56.74.226,4,-6,lawforums.co.il,IL,Asia,Western Asia,Israel,,,
 176.100.169.144,4,7,maccabi4u.co.il,IL,Asia,Western Asia,Israel,Central District,,
@@ -136,24 +127,20 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 212.80.205.130,4,4,masa.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 195.238.120.50,4,-4,matan-consulting.com,IL,Asia,Western Asia,Israel,,,
 176.100.169.166,4,24,max.co.il,IL,Asia,Western Asia,Israel,Central District,,
-66.22.84.239,4,58,max.co.il,IL,Asia,Western Asia,Israel,Central District,,
+66.22.84.239,4,5,max.co.il,IL,Asia,Western Asia,Israel,Central District,,
 185.253.72.180,4,0,mc-avodotafar.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 167.86.44.73,4,-19,menoramivt.co.il,IL,Asia,Western Asia,Israel,Central District,,
-185.37.149.106,4,3,mhmhmuseum.org,IL,Asia,Western Asia,Israel,,,
-195.225.46.99,4,37,milog.co.il,IL,Asia,Western Asia,Israel,,,
-88.218.116.155,4,-644,mitvim.org.il,IL,Asia,Western Asia,Israel,Central District,,Rehovot
-167.86.44.72,4,9,mizrahi-tefahot.co.il,IL,Asia,Western Asia,Israel,Central District,,
-195.225.46.15,4,42,molad.org,IL,Asia,Western Asia,Israel,,,
+185.37.149.106,4,-2,mhmhmuseum.org,IL,Asia,Western Asia,Israel,,,
+195.225.46.99,4,2,milog.co.il,IL,Asia,Western Asia,Israel,,,
+167.86.44.72,4,-32,mizrahi-tefahot.co.il,IL,Asia,Western Asia,Israel,Central District,,
+195.225.46.15,4,0,molad.org,IL,Asia,Western Asia,Israel,,,
 176.100.169.225,4,10,mr.gov.il,IL,Asia,Western Asia,Israel,Central District,,
-185.37.148.221,4,984,musictalk.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 66.22.84.58,4,3,n12.co.il,IL,Asia,Western Asia,Israel,Central District,,
 185.56.74.98,4,2,nadlancenter.co.il,IL,Asia,Western Asia,Israel,,,
-185.18.205.221,4,2,naftalibike.co.il,IL,Asia,Western Asia,Israel,,,
-88.218.116.160,4,-7,nalagaat.org.il,IL,Asia,Western Asia,Israel,Central District,,Rehovot
+185.18.205.221,4,-5,naftalibike.co.il,IL,Asia,Western Asia,Israel,,,
 185.241.7.75,4,-2,nammal-sleep.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 80.179.226.44,4,0,nana10.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 88.218.116.234,4,-10,nite.org.il,IL,Asia,Western Asia,Israel,Central District,,Rehovot
-185.145.255.98,4,-1,nituv-eng.com,IL,Asia,Western Asia,Israel,,,
 91.223.106.242,4,1,ocean.org.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 194.36.90.153,4,24,oknesset.org,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
 91.135.102.116,4,5,Ookla Speedtest Server 4138: speedtest2.pelephone.net.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Ramat HaSharon
@@ -192,41 +179,41 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.189.140.45,4,4,peacenow.org.il,IL,Asia,Western Asia,Israel,,,
 194.88.108.110,4,-21,peter-law.com,IL,Asia,Western Asia,Israel,,,
 185.145.254.111,4,2,piratbeitshemesh.co.il,IL,Asia,Western Asia,Israel,,,
-88.218.117.49,4,36,pitsou.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+88.218.117.49,4,-5,pitsou.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 185.145.252.225,4,-1655,pluginsmarket.com,IL,Asia,Western Asia,Israel,,,
 62.219.58.249,4,-13,productx.org,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
-88.218.116.178,4,19,prof-shapira.com,IL,Asia,Western Asia,Israel,Central District,,Rehovot
-80.179.140.151,4,8,reader.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Bnei Brak
+88.218.116.178,4,-7,prof-shapira.com,IL,Asia,Western Asia,Israel,Central District,,Rehovot
+80.179.140.151,4,-5,reader.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Bnei Brak
 88.218.117.30,4,-26,rs-nadlan.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 185.56.74.85,4,12,rummikub.com,IL,Asia,Western Asia,Israel,,,
 63.250.63.229,4,794,sabon.com,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
 192.116.146.73,4,12,schoolblink.com,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
-185.56.74.100,4,0,seo-analytic.co.il,IL,Asia,Western Asia,Israel,,,
+185.56.74.100,4,-4,seo-analytic.co.il,IL,Asia,Western Asia,Israel,,,
 213.8.209.12,4,91,sharonicohen.com,IL,Asia,Western Asia,Israel,Northern District,,Daburiyya
 88.218.117.120,4,-1,shvoong.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 192.116.146.58,4,3,smart-shooter.com,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
-185.108.148.226,4,7,ssv.network,IL,Asia,Western Asia,Israel,,,
+185.108.148.226,4,-8,ssv.network,IL,Asia,Western Asia,Israel,,,
 185.28.153.237,4,880,sun-clinic.co.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
 88.218.116.103,4,-1563,system-labs.co.il,IL,Asia,Western Asia,Israel,Central District,,Rehovot
 195.238.120.40,4,13,tadmitug.com,IL,Asia,Western Asia,Israel,,,
-192.116.146.27,4,6,tambour.co.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
-185.56.75.185,4,0,tavisraeli.co.il,IL,Asia,Western Asia,Israel,,,
+192.116.146.27,4,-2,tambour.co.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
+185.56.75.185,4,2,tavisraeli.co.il,IL,Asia,Western Asia,Israel,,,
 185.145.252.60,4,1436,the3.co.il,IL,Asia,Western Asia,Israel,,,
 185.56.73.14,4,4,thenorman.com,IL,Asia,Western Asia,Israel,,,
-185.56.75.138,4,10,thenorman.com,IL,Asia,Western Asia,Israel,,,
+185.56.75.138,4,-1,thenorman.com,IL,Asia,Western Asia,Israel,,,
 185.108.148.219,4,-13,theparentscircle.org,IL,Asia,Western Asia,Israel,,,
-185.56.74.250,4,17,thepulse.co.il,IL,Asia,Western Asia,Israel,,,
-88.218.117.138,4,13,traduc71.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+185.56.74.250,4,2,thepulse.co.il,IL,Asia,Western Asia,Israel,,,
+88.218.117.138,4,-4,traduc71.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 82.80.210.153,4,12,tzohar.org.il,IL,Asia,Western Asia,Israel,Central District,,Modi‘in Makkabbim Re‘ut
 185.108.148.48,4,17,uhaifa.org,IL,Asia,Western Asia,Israel,,,
 163.171.213.13,4,12,usafis.org,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 167.17.132.24,4,-8,usbcali.edu.co,IL,Asia,Western Asia,Israel,,,
-185.108.148.90,4,739,vanleer.org.il,IL,Asia,Western Asia,Israel,,,
+185.108.148.90,4,-8,vanleer.org.il,IL,Asia,Western Asia,Israel,,,
 185.56.74.212,4,11,vaxtestimonies.org,IL,Asia,Western Asia,Israel,,,
-192.116.109.25,4,23,vibeisrael.com,IL,Asia,Western Asia,Israel,Jerusalem,,Jerusalem
+192.116.109.25,4,-3,vibeisrael.com,IL,Asia,Western Asia,Israel,Jerusalem,,Jerusalem
 46.121.239.135,4,4483,visualartists.ru,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 192.116.146.100,4,1,vitamix-israel.co.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
-185.56.74.69,4,2,vocabulary.co.il,IL,Asia,Western Asia,Israel,,,
+185.56.74.69,4,0,vocabulary.co.il,IL,Asia,Western Asia,Israel,,,
 199.203.51.141,4,7,weberdev.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 185.145.252.27,4,7,wetext.co.il,IL,Asia,Western Asia,Israel,,,
 109.207.78.102,4,5,wikirefua.org.il,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
@@ -235,7 +222,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 62.219.106.21,4,2,winguides.com,IL,Asia,Western Asia,Israel,Haifa,,Haifa
 195.189.140.17,4,5,womenwagepeace.org.il,IL,Asia,Western Asia,Israel,,,
 80.178.161.132,4,2,xmpie.com,IL,Asia,Western Asia,Israel,,,
-109.226.41.138,4,680,ybook.co.il,IL,Asia,Western Asia,Israel,Jerusalem,,Jerusalem
+109.226.41.138,4,398,ybook.co.il,IL,Asia,Western Asia,Israel,Jerusalem,,Jerusalem
 192.115.80.55,4,11,ynetnews.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Giv‘atayim
 195.225.46.185,4,3,yo-yoo.co.il,IL,Asia,Western Asia,Israel,,,
 82.166.38.20,4,632,yourway.org.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv

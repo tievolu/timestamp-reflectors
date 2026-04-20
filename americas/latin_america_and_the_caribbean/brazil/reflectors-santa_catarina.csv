@@ -1,9 +1,8 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 177.10.165.118,4,-43,abiis.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
 201.48.255.119,4,-8,andes.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,São João Batista
-170.81.43.218,4,11,brasil123.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
+170.81.43.218,4,9,brasil123.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
 45.163.12.10,4,-19,brdrive.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Videira
-177.39.132.51,4,-45364,capinzalnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Capinzal
 201.76.0.20,4,-71,contato.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Araranguá
 143.0.123.197,4,-26,cpb.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Joinville
 200.80.111.178,4,423,crc-ce.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Itajaí
@@ -28,8 +27,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 200.175.44.230,4,253,DNS Server: mail.contabilizesc.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Balneário Camboriú
 179.190.96.82,4,215930,DNS Server: mail.lufamar.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Blumenau
 177.222.144.66,4,41537,DNS Server: smtp.inviosat.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Concórdia
-45.224.128.126,4,843,espacorecomecar.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
-177.170.10.149,4,-11708,fepaf.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Florianópolis
+45.224.128.126,4,814,espacorecomecar.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
 189.45.192.187,4,2133,fricar.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Blumenau
 45.224.131.237,4,17,gigage.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
 170.81.42.155,4,-5,guajava.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
@@ -139,7 +137,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 170.245.130.11,4,41,Ookla Speedtest Server 61512: speed.infinityprovedor.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Joinville
 170.233.180.5,4,7,Ookla Speedtest Server 62068: speed.carlessi.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Turvo
 45.184.15.248,4,-5,Ookla Speedtest Server 62586: speedtest.jetline.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,São Francisco do Sul
-186.226.126.254,4,249,Ookla Speedtest Server 62882: speedtestitp.scnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Maravilha
+186.226.126.254,4,2,Ookla Speedtest Server 62882: speedtestitp.scnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Maravilha
 177.75.165.170,4,1672,Ookla Speedtest Server 63289: cersul.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Turvo
 45.190.172.3,4,7,Ookla Speedtest Server 64909: mileniumtelecom.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Água Doce
 177.101.98.109,4,-7,Ookla Speedtest Server 65014: speedtest3.unifique.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Blumenau
@@ -166,14 +164,14 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 187.61.96.4,4,5,Ookla Speedtest Server 72488: speed.conexaolink.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Itapema
 177.155.130.250,4,-5,Ookla Speedtest Server 72554: speed.mknetprovedor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Papanduva
 45.187.152.3,4,18,Ookla Speedtest Server 73030: teste.xinternet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Palhoça
-191.240.135.227,4,95,Ookla Speedtest Server: speedtestcco.scnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
+191.240.135.227,4,8,Ookla Speedtest Server: speedtestcco.scnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
 187.85.164.152,4,1273,pcj.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Blumenau
-45.224.128.220,4,826,peixeurbano.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
-170.81.41.119,4,11,pensarcursos.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
+45.224.128.220,4,815,peixeurbano.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
+170.81.41.119,4,8,pensarcursos.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
 45.163.12.53,4,114,portaldemarcelino.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Videira
 170.81.43.64,4,8,sbis.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
 200.19.215.161,4,0,sc.gov.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Chapecó
 45.224.131.211,4,37,simplicissimo.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
 170.81.43.153,4,14,uniali.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Xaxim
 179.127.80.235,4,618,unibave.net,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Criciúma
-177.200.196.254,4,10,wk.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Blumenau
+177.200.196.254,4,-12,wk.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Blumenau

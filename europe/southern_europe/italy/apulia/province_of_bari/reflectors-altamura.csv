@@ -9,7 +9,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.110.21.109,4,-11,DNS Server: 1109.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
 185.110.21.173,4,-8,DNS Server: 1173.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
 185.110.22.154,4,19,DNS Server: 2154.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
-185.110.22.200,4,11,DNS Server: 2200.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
+185.110.22.200,4,6,DNS Server: 2200.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
 185.110.22.242,4,0,DNS Server: 2242.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
 185.110.22.253,4,-14,DNS Server: 2253.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
 185.110.23.32,4,-5,DNS Server: 3032.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
@@ -18,6 +18,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.110.23.127,4,-3,DNS Server: 3127.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
 185.110.23.134,4,-1,DNS Server: 3134.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
 185.110.23.135,4,-4,DNS Server: 3135.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
+185.110.23.145,4,0,DNS Server: 3145.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
 185.110.23.173,4,-16,DNS Server: 3173.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
 185.110.23.239,4,-4,DNS Server: 3239.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
 185.110.23.244,4,-3,DNS Server: 3244.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura

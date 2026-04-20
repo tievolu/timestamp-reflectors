@@ -1,10 +1,10 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 93.166.103.102,4,-15,aqualogo.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Silkeborg
-185.31.79.130,4,32,audiovector.com,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
+185.31.79.130,4,-1,audiovector.com,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 86.52.62.146,4,130,biopix.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Viborg
 94.143.8.140,4,-4,bodylab.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Skanderborg
 94.137.135.228,4,208,bornholmsmuseum.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Silkeborg
-46.30.121.230,4,68,cardealerplus.com,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
+46.30.121.230,4,-1205,cardealerplus.com,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 46.30.126.230,4,-46,conventus.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 77.33.81.43,4,926,DNS Server: 77.33.81.43.dhcp.fibianet.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Horsens
 84.238.37.124,4,11,DNS Server: 84-238-37-124.ptr.bnaa.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Aarhus
@@ -20,13 +20,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 46.30.127.85,4,-51,e-pages.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 46.30.127.94,4,-39,e-pages.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 46.30.127.91,4,-33,e-pages.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
-46.30.126.135,4,9,e-pages.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
-46.30.126.143,4,5,e-pages.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
-46.30.126.155,4,2,e-pages.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
+46.30.126.135,4,-38,e-pages.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
+46.30.126.143,4,-38,e-pages.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
+46.30.126.155,4,-37,e-pages.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 46.30.126.156,4,-41,e-pages.pub,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 46.30.126.147,4,-42,e-pages.pub,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
-185.31.76.148,4,3,hafaro.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
-46.30.121.150,4,10,heiring.com,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
+185.31.76.148,4,-36,hafaro.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
+46.30.121.150,4,-1243,heiring.com,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 185.31.76.122,4,1,iversen-import.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 94.143.8.102,4,-2,lloyd-shop.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Skanderborg
 185.31.76.117,4,-19,madbanditten.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
@@ -37,7 +37,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 88.83.69.50,4,75,Ookla Speedtest Server 4435: speedtest01.waoo.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Aarhus
 87.51.35.76,4,-31,Ookla Speedtest Server 8763: linespeed3.nms.tele.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Aarhus
 62.69.153.49,4,21,planway.com,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
-185.31.77.87,4,9,plast.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
+185.31.77.87,4,-1,plast.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 94.143.8.104,4,-6,prishammeren.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Skanderborg
 185.31.76.104,4,-13,randersidag.dk,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning
 46.30.124.118,4,-23,skatepro.com,DK,Europe,Northern Europe,Denmark,Central Jutland,,Herning

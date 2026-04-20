@@ -1,6 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 91.146.102.175,4,-8,aixacorpore.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
-195.192.255.150,4,61,arquitecturayempresa.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+195.192.255.150,4,1,arquitecturayempresa.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
 195.55.43.170,4,-15,aviles.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Alicante
 91.146.103.79,4,-5,bilnea.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
 195.192.255.158,4,-7,blume.net,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
@@ -8,7 +8,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.53.69.15,4,-10,costablanca.org,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Benidorm
 91.146.100.125,4,7,dermatologomiguelgallego.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
 91.146.101.133,4,-19,diarioenfermero.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
-91.146.97.111,4,5,directoressociales.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+91.146.97.111,4,-3,directoressociales.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
 185.69.9.4,4,31278394,DNS Server: 4.9-69-185.static-ip.ftth-tor.tvt-datos.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Torrevieja
 85.60.12.49,4,7,DNS Server: 49.pool85-60-12.dynamic.orange.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Elda
 85.50.92.67,4,22638,DNS Server: 67.pool85-50-92.static.orange.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Sax
@@ -16,13 +16,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 212.121.229.233,4,6349151,DNS Server: gw.megatro-avinyo.man,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
 195.192.255.154,4,-12,enjoyzaragoza.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
 91.146.103.142,4,-7,famma.org,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
-91.146.97.74,4,7,geacron.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+91.146.97.74,4,284,geacron.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
 217.127.50.210,4,14985,generadordeprecios.info,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Elche
-91.146.102.104,4,3,guiatelefonicadeempresas.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
-91.146.97.112,4,4,lacasica.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
-91.146.96.124,4,7,llucmajor.org,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+91.146.102.104,4,2,guiatelefonicadeempresas.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+91.146.97.112,4,-8,lacasica.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+91.146.96.124,4,-10,llucmajor.org,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
 91.146.96.100,4,-25,loading.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
-91.146.97.66,4,414,mensajerosdelapaz.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
+91.146.97.66,4,3823,mensajerosdelapaz.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
 91.146.103.139,4,-11,morlaesculturas.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
 91.146.98.10,4,0,mtngshoes.com,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Orihuela
 185.29.68.21,4,-1,Ookla Speedtest Server 6632: sp1.tvt-datos.es,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Torrevieja

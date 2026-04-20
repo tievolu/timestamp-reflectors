@@ -1,8 +1,8 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-89.190.181.195,4,16,cavit.it,IT,Europe,Southern Europe,Italy,Trentino-Alto Adige,South Tyrol,Bolzano
+89.190.181.195,4,0,cavit.it,IT,Europe,Southern Europe,Italy,Trentino-Alto Adige,South Tyrol,Bolzano
 84.18.136.217,4,115867,DNS Server: 84-18-136-217.ip.bkom.it,IT,Europe,Southern Europe,Italy,Trentino-Alto Adige,South Tyrol,Bolzano
 84.18.156.119,4,115865,DNS Server: 84-18-156-119.ip.bkom.it,IT,Europe,Southern Europe,Italy,Trentino-Alto Adige,Province of Trente,Pozza di Fassa
 93.89.59.25,4,239,DNS Server: 93-89-59-25.ip.bkom.it,IT,Europe,Southern Europe,Italy,Trentino-Alto Adige,South Tyrol,Mühlbach
 185.230.80.97,4,-5,Ookla Speedtest Server 69650: speedtest.b-net.it,IT,Europe,Southern Europe,Italy,Trentino-Alto Adige,South Tyrol,Badia
 185.230.80.34,4,-5,Ookla Speedtest Server 69652: speedtest2.dolomitesnetwork.it,IT,Europe,Southern Europe,Italy,Trentino-Alto Adige,South Tyrol,Badia
-109.205.108.254,4,31,trentinosviluppo.it,IT,Europe,Southern Europe,Italy,Trentino-Alto Adige,Province of Trente,Trento
+109.205.108.254,4,1,trentinosviluppo.it,IT,Europe,Southern Europe,Italy,Trentino-Alto Adige,Province of Trente,Trento

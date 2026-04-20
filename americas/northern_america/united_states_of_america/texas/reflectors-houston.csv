@@ -1,11 +1,9 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-185.121.169.26,4,9,727895.com,US,Americas,Northern America,United States of America,Texas,,Houston
-65.99.251.105,4,5,albright.edu,US,Americas,Northern America,United States of America,Texas,,Houston
-205.251.145.41,4,2,alpinezone.com,US,Americas,Northern America,United States of America,Texas,,Houston
+185.121.169.26,4,0,727895.com,US,Americas,Northern America,United States of America,Texas,,Houston
 104.186.27.19,4,175321,anarduino.com,US,Americas,Northern America,United States of America,Texas,,Houston
-151.101.181.193,4,3,bakerinstitute.org,US,Americas,Northern America,United States of America,Texas,,Houston
+151.101.181.193,4,0,bakerinstitute.org,US,Americas,Northern America,United States of America,Texas,,Houston
 205.251.150.91,4,-5,cmll.com,US,Americas,Northern America,United States of America,Texas,,Houston
-205.251.155.191,4,3,decamiones.com,US,Americas,Northern America,United States of America,Texas,,Houston
+205.251.155.191,4,-1,decamiones.com,US,Americas,Northern America,United States of America,Texas,,Houston
 173.11.131.1,4,247,DNS Server: 173-11-131-1-houston.txt.hfc.comcastbusiness.net,US,Americas,Northern America,United States of America,Texas,,Houston
 50.244.115.137,4,257336,DNS Server: 50-244-115-137-static.hfc.comcastbusiness.net,US,Americas,Northern America,United States of America,Texas,,Houston
 96.73.116.75,4,1979,DNS Server: 96-73-116-75-static.hfc.comcastbusiness.net,US,Americas,Northern America,United States of America,Texas,,Houston
@@ -21,10 +19,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 73.76.100.206,4,-7,DNS Server: c-73-76-100-206.hsd1.tx.comcast.net,US,Americas,Northern America,United States of America,Texas,,Houston
 73.76.101.17,4,66440632,DNS Server: c-73-76-101-17.hsd1.tx.comcast.net,US,Americas,Northern America,United States of America,Texas,,Houston
 209.135.170.51,4,-5,DoH server: dnscry.pt-houston-ipv4,US,Americas,Northern America,United States of America,Texas,,Houston
-66.187.76.140,4,3,electioncenter.org,US,Americas,Northern America,United States of America,Texas,,Houston
+66.187.76.140,4,-130741,electioncenter.org,US,Americas,Northern America,United States of America,Texas,,Houston
 205.251.153.191,4,15,energyjustice.net,US,Americas,Northern America,United States of America,Texas,,Houston
 2.56.137.147,4,-5,enter-sys.com,US,Americas,Northern America,United States of America,Texas,,Houston
-65.99.251.21,4,-4,gchsrams.org,US,Americas,Northern America,United States of America,Texas,,Houston
 205.251.145.62,4,-4,gmufourthestate.com,US,Americas,Northern America,United States of America,Texas,,Houston
 129.7.202.32,4,30,imechanica.org,US,Americas,Northern America,United States of America,Texas,,Houston
 65.99.196.159,4,-6,kernsec.org,US,Americas,Northern America,United States of America,Texas,,Houston
@@ -32,25 +29,25 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 205.251.153.71,4,-4,lazosdeamormariano.net,US,Americas,Northern America,United States of America,Texas,,Houston
 38.134.40.55,4,-2,loganvillebaptist.org,US,Americas,Northern America,United States of America,Texas,,Houston
 205.251.155.182,4,1,lrrd.org,US,Americas,Northern America,United States of America,Texas,,Houston
-205.251.153.75,4,1,maimonides.edu,US,Americas,Northern America,United States of America,Texas,,Houston
+205.251.153.75,4,-1,maimonides.edu,US,Americas,Northern America,United States of America,Texas,,Houston
 108.65.49.10,4,17,mega.nu,US,Americas,Northern America,United States of America,Texas,,Houston
 65.99.212.112,4,20,michaux.ca,US,Americas,Northern America,United States of America,Texas,,Houston
 12.5.205.166,4,-26,misterart.com,US,Americas,Northern America,United States of America,Texas,,Houston
 66.187.76.40,4,-9,msadams.com,US,Americas,Northern America,United States of America,Texas,,Houston
-205.251.145.43,4,63,mustangv8.com,US,Americas,Northern America,United States of America,Texas,,Houston
+205.251.145.43,4,-2,mustangv8.com,US,Americas,Northern America,United States of America,Texas,,Houston
 50.217.68.194,4,-2,nwra.com,US,Americas,Northern America,United States of America,Texas,,Houston
 205.251.153.145,4,2184,odamodontologia.com,US,Americas,Northern America,United States of America,Texas,,Houston
 209.173.255.106,4,1,Ookla Speedtest Server 25206: speedtest.pslightwave.com,US,Americas,Northern America,United States of America,Texas,,Houston
 184.105.34.242,4,0,Ookla Speedtest Server 42209: speedtest.ifnetwork.biz,US,Americas,Northern America,United States of America,Texas,,Houston
 205.171.31.10,4,3,Ookla Speedtest Server 53405: houston.speedtest.brightspeed.com,US,Americas,Northern America,United States of America,Texas,,Houston
 67.207.122.203,4,-26,Ookla Speedtest Server 64168: houho0001speedtestserver01.wiline.com,US,Americas,Northern America,United States of America,Texas,,Houston
-205.251.153.14,4,10,pikapp.org,US,Americas,Northern America,United States of America,Texas,,Houston
+205.251.153.14,4,0,pikapp.org,US,Americas,Northern America,United States of America,Texas,,Houston
 205.251.153.33,4,2,pmms.edu.ph,US,Americas,Northern America,United States of America,Texas,,Houston
-23.26.125.13,4,8,queenelizabethnationalpark.com,US,Americas,Northern America,United States of America,Texas,,Houston
+23.26.125.13,4,-3,queenelizabethnationalpark.com,US,Americas,Northern America,United States of America,Texas,,Houston
 50.210.208.210,4,13,secform4.com,US,Americas,Northern America,United States of America,Texas,,Houston
-66.187.76.7,4,2,sjra.net,US,Americas,Northern America,United States of America,Texas,,Houston
+66.187.76.7,4,-2,sjra.net,US,Americas,Northern America,United States of America,Texas,,Houston
 69.7.187.215,4,1248,thedigitalbits.com,US,Americas,Northern America,United States of America,Texas,,Houston
 216.74.247.24,4,13,wapsisquare.com,US,Americas,Northern America,United States of America,Texas,,Houston
 2.56.137.173,4,-176,wondermondo.com,US,Americas,Northern America,United States of America,Texas,,Houston
 66.249.108.93,4,-1,ysearch.org,US,Americas,Northern America,United States of America,Texas,,Houston
-205.251.153.15,4,636840,zbs.org,US,Americas,Northern America,United States of America,Texas,,Houston
+205.251.153.15,4,2695677,zbs.org,US,Americas,Northern America,United States of America,Texas,,Houston

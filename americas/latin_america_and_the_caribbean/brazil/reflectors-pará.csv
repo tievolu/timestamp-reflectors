@@ -4,7 +4,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.190.138.66,4,-3,DNS Server: 45-190-138-66.isppapagaio.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Santarém
 45.191.243.1,4,-22685,DNS Server: 45-191-243-1.nvnetwork.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Canaã dos Carajás
 45.71.80.148,4,4,DNS Server: 45-71-80-148.coelhotecnologia.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Parauapebas
-177.130.52.76,4,0,DNS Server: 76-52-130-177.redewsp.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Santarém
+177.130.52.76,4,10,DNS Server: 76-52-130-177.redewsp.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Santarém
 201.76.105.10,4,884519,Ookla Speedtest Server 2157: speedtest.vescnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Ananindeua
 177.124.88.12,4,-13,Ookla Speedtest Server 5821: speedtest.skorpionet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Marabá
 177.66.104.117,4,8,Ookla Speedtest Server 6580: speedtest1.interconect.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Belém
@@ -88,7 +88,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 201.159.92.22,4,21,Ookla Speedtest Server 49528: speedtest.groovetelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Ananindeua
 168.232.16.3,4,4,Ookla Speedtest Server 49584: speedtest.speednetacara.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Acará
 200.1.216.2,4,4,Ookla Speedtest Server 50155: speedtest.uru.interlig.net,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Santarém
-138.118.222.116,4,-1089674,Ookla Speedtest Server 50245: teste.cepainet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Cametá
 45.165.25.0,4,10,Ookla Speedtest Server 50785: speedtest.ctmtelnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Itaituba
 132.255.230.50,4,8,Ookla Speedtest Server 51177: speedtest.gigabyteinternet.com,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Canaã dos Carajás
 186.209.109.7,4,-33536,Ookla Speedtest Server 51207: speedtest.ultraconnectfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Belém
@@ -128,7 +127,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 177.66.105.134,4,19,Ookla Speedtest Server 59909: roblin.conectainternet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Belém
 45.169.29.6,4,16,Ookla Speedtest Server 59972: speedtest.megaconexao.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Belém
 177.184.232.0,4,79982,Ookla Speedtest Server 60069: speedtest.cyberdata.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Ananindeua
-138.117.37.156,4,299,Ookla Speedtest Server 60069: speedtest.cyberdata.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Colares
+138.117.37.156,4,80266,Ookla Speedtest Server 60069: speedtest.cyberdata.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Colares
 206.43.196.81,4,28,Ookla Speedtest Server 60248: speedtest.dft.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Ananindeua
 179.63.14.4,4,-6,Ookla Speedtest Server 60277: ookla.tenonetfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Belém
 138.94.203.228,4,18,Ookla Speedtest Server 60710: velocidade.wspnp.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Novo Progresso
@@ -182,4 +181,5 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 190.8.8.233,4,34364303,Ookla Speedtest Server 72979: host2.inforwnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Marituba
 45.177.140.92,4,36050424,Ookla Speedtest Server 73537: sistemas.liketelecompa.com,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Ananindeua
 170.245.94.16,4,25515063,Ookla Speedtest Server 73652: webtelecompa.com,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Ananindeua
-186.209.220.25,4,198,Ookla Speedtest Server: speedtest1.gconecta.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Conceição do Araguaia
+186.209.220.25,4,-12,Ookla Speedtest Server: speedtest1.gconecta.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Conceição do Araguaia
+179.189.193.114,4,1,Ookla Speedtest Server: speedtestnp.novanetnp.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Novo Progresso

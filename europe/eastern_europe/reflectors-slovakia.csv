@@ -11,19 +11,19 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 37.9.175.21,4,-6,arsdigita.com,SK,Europe,Eastern Europe,Slovakia,,,
 5.252.32.158,4,5,astro7.com,SK,Europe,Eastern Europe,Slovakia,,,
 91.237.170.55,4,5,atris.sk,SK,Europe,Eastern Europe,Slovakia,,,
-46.229.230.49,4,92,aufob.org,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava-Petržalka
+46.229.230.49,4,0,aufob.org,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava-Petržalka
 109.74.149.35,4,-10336,banky.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 90.64.252.250,4,-55,bb.cz,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 217.73.23.55,4,1,bhc-int.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 109.74.157.64,4,27,bodyworld.eu,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
-92.60.51.49,4,50,bratislavskenoviny.sk,SK,Europe,Eastern Europe,Slovakia,,,
+92.60.51.49,4,-1,bratislavskenoviny.sk,SK,Europe,Eastern Europe,Slovakia,,,
 109.74.157.58,4,5,bystricoviny.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 86.110.243.219,4,-5,casino-online.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Galanta
 45.149.176.12,4,14,cesmad.sk,SK,Europe,Eastern Europe,Slovakia,,,
-37.9.175.26,4,3,cme.net,SK,Europe,Eastern Europe,Slovakia,,,
+37.9.175.26,4,-1,cme.net,SK,Europe,Eastern Europe,Slovakia,,,
 91.245.16.10,4,-7,coolhousing.net,SK,Europe,Eastern Europe,Slovakia,,,
 81.89.49.155,4,-4,crossuite.com,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
-81.89.49.141,4,3202,crossuite.com,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
+81.89.49.141,4,-1,crossuite.com,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 5.252.32.79,4,-8,crypto.ru,SK,Europe,Eastern Europe,Slovakia,,,
 185.218.29.110,4,-18142,DNS Server: 110-29-218-185.kiki.sk,SK,Europe,Eastern Europe,Slovakia,Trenčín Region,,Ilava
 80.87.216.166,4,0,DNS Server: 1109.166.cus.dsidata.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Námestovo
@@ -39,7 +39,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 90.64.255.58,4,-3,DNS Server: 90-64-255-58.static.orange.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 91.228.245.196,4,-9,DNS Server: 91-228-245-196.jangalbac.net,SK,Europe,Eastern Europe,Slovakia,Banská Bystrica Region,,Zvolen
 31.134.97.92,4,-4,DNS Server: 92.97-134-31.detronics.sk,SK,Europe,Eastern Europe,Slovakia,Banská Bystrica Region,,Krupina
-93.184.72.99,4,1365,DNS Server: 94.184.72.99.host.vnet.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
+93.184.72.99,4,5,DNS Server: 94.184.72.99.host.vnet.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 85.248.128.27,4,-67,DNS Server: aa3.modelektronik.dc.cust.gts.sk,SK,Europe,Eastern Europe,Slovakia,Nitra Region,,Nitra
 85.248.128.28,4,-5720,DNS Server: aa4.modelektronik.dc.cust.gts.sk,SK,Europe,Eastern Europe,Slovakia,Nitra Region,,Nitra
 213.81.179.186,4,-5,DNS Server: bip-static-186.213-81-179.telecom.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Dolný Kubín
@@ -95,17 +95,17 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 109.236.119.2,4,-3,DoH server: dns.levonet.sk,SK,Europe,Eastern Europe,Slovakia,Prešov Region,,Levoča
 185.87.12.3,4,-73,dulovic.tech,SK,Europe,Eastern Europe,Slovakia,,,
 195.210.29.104,4,-58,ecav.sk,SK,Europe,Eastern Europe,Slovakia,,,
-95.105.255.169,4,647,ekomax.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Liptovský Ján
+95.105.255.169,4,-67,ekomax.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Liptovský Ján
 109.74.157.62,4,-29,elis.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 86.110.243.232,4,-17,emaya.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Galanta
-46.229.230.43,4,23,emaya.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava-Petržalka
-195.168.10.140,4,266582,etarget.eu,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
+46.229.230.43,4,0,emaya.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava-Petržalka
+195.168.10.140,4,1427690,etarget.eu,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 5.252.32.121,4,-32,eurasia.expert,SK,Europe,Eastern Europe,Slovakia,,,
-185.66.200.113,4,3,exisport.com,SK,Europe,Eastern Europe,Slovakia,,,
+185.66.200.113,4,1,exisport.com,SK,Europe,Eastern Europe,Slovakia,,,
 195.210.29.187,4,5,felvidek.ma,SK,Europe,Eastern Europe,Slovakia,,,
 86.110.243.51,4,3,femme.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Galanta
-194.160.65.31,4,62,filharmonia.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Vlčkovce
-37.9.174.113,4,16,finax.eu,SK,Europe,Eastern Europe,Slovakia,,,
+194.160.65.31,4,-1,filharmonia.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Vlčkovce
+37.9.174.113,4,-1,finax.eu,SK,Europe,Eastern Europe,Slovakia,,,
 5.252.32.9,4,-2,finevpn.org,SK,Europe,Eastern Europe,Slovakia,,,
 5.252.34.102,4,-9,firstmail.ltd,SK,Europe,Eastern Europe,Slovakia,,,
 195.28.72.173,4,-68,ftv.com,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Žilina
@@ -113,38 +113,37 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 109.74.144.30,4,-3,hauzi.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 217.75.67.210,4,-1,hc.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 62.197.233.176,4,6,heinnovate.eu,SK,Europe,Eastern Europe,Slovakia,Nitra Region,,Nitra
-37.9.175.33,4,4,hhunikov.sk,SK,Europe,Eastern Europe,Slovakia,,,
+37.9.175.33,4,-1,hhunikov.sk,SK,Europe,Eastern Europe,Slovakia,,,
 86.110.243.202,4,-7,home.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Galanta
 5.252.32.33,4,-3,homemademk.com,SK,Europe,Eastern Europe,Slovakia,,,
-85.159.106.197,4,116480,hotel-lesanka.sk,SK,Europe,Eastern Europe,Slovakia,Košice Region,,Bohdanovce
+85.159.106.197,4,200124,hotel-lesanka.sk,SK,Europe,Eastern Europe,Slovakia,Košice Region,,Bohdanovce
 5.252.32.61,4,10,hyper.hosting,SK,Europe,Eastern Europe,Slovakia,,,
 185.254.251.6,4,-4,hzs.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Liptovský Hrádok
 5.252.32.174,4,2,incanto.eu,SK,Europe,Eastern Europe,Slovakia,,,
 46.229.230.45,4,3,indel.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava-Petržalka
 213.215.124.50,4,-72,industra.sk,SK,Europe,Eastern Europe,Slovakia,Trenčín Region,,Považská Bystrica
-46.229.239.68,4,3,jonnesway.net,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Ivanka pri Dunaji
+37.9.174.74,4,-1,jj-electronic.com,SK,Europe,Eastern Europe,Slovakia,,,
+46.229.239.68,4,0,jonnesway.net,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Ivanka pri Dunaji
 86.110.243.229,4,6,kabocalap.com,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Galanta
 213.81.206.234,4,-8,kajotintacto.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Skalité
 85.248.130.170,4,-2,kamzakrasou.sk,SK,Europe,Eastern Europe,Slovakia,Nitra Region,,Nitra
 185.152.196.106,4,-16,kellysbike.com,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Piešťany
-217.67.29.221,4,-261,kia.sk,SK,Europe,Eastern Europe,Slovakia,,,
-217.67.26.154,4,5,kinexbearings.sk,SK,Europe,Eastern Europe,Slovakia,,,
 5.252.32.112,4,10,kma.biz,SK,Europe,Eastern Europe,Slovakia,,,
 81.89.49.136,4,14,kosiceonline.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 185.110.146.106,4,-88,kotlebovci.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Stará Bystrica
 62.168.94.163,4,-2,krestannavidieku.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Piešťany
-86.110.243.42,4,3,lagotto.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Galanta
+195.210.29.208,4,-69,kros.sk,SK,Europe,Eastern Europe,Slovakia,,,
 5.252.32.26,4,36,lava.top,SK,Europe,Eastern Europe,Slovakia,,,
 81.89.49.138,4,-15,letenky.com,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 46.229.227.229,4,398098,linia.sk,SK,Europe,Eastern Europe,Slovakia,Nitra Region,,Cabaj-Čápor
-194.160.218.10,4,8,linux.sk,SK,Europe,Eastern Europe,Slovakia,Banská Bystrica Region,,Rimavská Sobota
-5.252.34.58,4,69,lostarkcodex.com,SK,Europe,Eastern Europe,Slovakia,,,
+194.160.218.10,4,0,linux.sk,SK,Europe,Eastern Europe,Slovakia,Banská Bystrica Region,,Rimavská Sobota
+5.252.34.58,4,0,lostarkcodex.com,SK,Europe,Eastern Europe,Slovakia,,,
 109.71.67.129,4,-33,ludialudom.sk,SK,Europe,Eastern Europe,Slovakia,,,
 85.248.129.10,4,5,lumen.sk,SK,Europe,Eastern Europe,Slovakia,Nitra Region,,Nitra
 195.210.29.243,4,-13279,magnetpress.online,SK,Europe,Eastern Europe,Slovakia,,,
-85.248.129.36,4,3,market24.sk,SK,Europe,Eastern Europe,Slovakia,Nitra Region,,Nitra
-85.248.129.37,4,2,market24.sk,SK,Europe,Eastern Europe,Slovakia,Nitra Region,,Nitra
-85.248.129.35,4,61,market24.sk,SK,Europe,Eastern Europe,Slovakia,Nitra Region,,Nitra
+85.248.129.36,4,-1,market24.sk,SK,Europe,Eastern Europe,Slovakia,Nitra Region,,Nitra
+85.248.129.37,4,-67,market24.sk,SK,Europe,Eastern Europe,Slovakia,Nitra Region,,Nitra
+85.248.129.35,4,-65,market24.sk,SK,Europe,Eastern Europe,Slovakia,Nitra Region,,Nitra
 80.242.34.186,4,2,mestomartin.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Martin
 185.161.175.82,4,-63,meteo.sk,SK,Europe,Eastern Europe,Slovakia,,,
 90.64.235.174,4,9,modrastrecha.cz,SK,Europe,Eastern Europe,Slovakia,Banská Bystrica Region,,Zvolen
@@ -152,9 +151,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 158.195.86.172,4,-65,naboj.org,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 185.66.200.58,4,-65,ndsas.sk,SK,Europe,Eastern Europe,Slovakia,,,
 5.252.32.147,4,-15,nekto.me,SK,Europe,Eastern Europe,Slovakia,,,
-37.9.168.237,4,-1,netfinancie.sk,SK,Europe,Eastern Europe,Slovakia,,,
 212.57.37.89,4,15,nitra.sk,SK,Europe,Eastern Europe,Slovakia,,,
-193.163.77.62,4,19,nusoundofvisegrad.eu,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
+193.163.77.62,4,-2,nusoundofvisegrad.eu,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 185.161.175.29,4,-68,oma.sk,SK,Europe,Eastern Europe,Slovakia,,,
 88.212.10.19,4,-65,Ookla Speedtest Server 691: speedtest.antik.sk,SK,Europe,Eastern Europe,Slovakia,Košice Region,,Čierna nad Tisou
 94.136.138.186,4,2,Ookla Speedtest Server 2091: spdtst.minet.sk,SK,Europe,Eastern Europe,Slovakia,Košice Region,,Michalovce
@@ -191,21 +189,21 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 212.37.72.8,4,-3,Ookla Speedtest Server 68712: speedtest.conet-isp.sk,SK,Europe,Eastern Europe,Slovakia,Prešov Region,,Snina
 193.161.113.80,4,2,Ookla Speedtest Server 70939: webserver.radiointernet.sk,SK,Europe,Eastern Europe,Slovakia,Trenčín Region,,Bánovce nad Bebravou
 213.81.159.114,4,17,Ookla Speedtest Server 71234: speedtest.fer-net.sk,SK,Europe,Eastern Europe,Slovakia,Trenčín Region,,Lubina
-86.110.242.159,4,45,panako.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Galanta
-196.245.155.44,4,2,pandorajewelry.ca,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
+86.110.242.159,4,0,panako.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Galanta
+196.245.155.44,4,0,pandorajewelry.ca,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 86.110.243.222,4,7,paneleshop.eu,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Galanta
-95.105.255.178,4,59,parksnow.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Liptovský Ján
+95.105.255.178,4,479,parksnow.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Liptovský Ján
 86.110.243.36,4,1,patristica.net,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Galanta
 37.9.170.8,4,0,pcrevue.sk,SK,Europe,Eastern Europe,Slovakia,,,
 5.252.32.117,4,-13,piar4you.com,SK,Europe,Eastern Europe,Slovakia,,,
 5.252.32.104,4,-8,pin-up-casino.com.br,SK,Europe,Eastern Europe,Slovakia,,,
 92.240.244.75,4,11,poradna.net,SK,Europe,Eastern Europe,Slovakia,,,
-212.57.35.213,4,3,postoveznamky.sk,SK,Europe,Eastern Europe,Slovakia,,,
+212.57.35.213,4,-4,postoveznamky.sk,SK,Europe,Eastern Europe,Slovakia,,,
 5.252.32.193,4,3,pq.hosting,SK,Europe,Eastern Europe,Slovakia,,,
 88.212.29.3,4,13,praveorechove.com,SK,Europe,Eastern Europe,Slovakia,Košice Region,,Košice
 194.116.233.62,4,-3,prophoto.ua,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 147.213.112.206,4,-62,quantiki.org,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
-195.168.148.232,4,34,rebro.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
+195.168.148.232,4,1,rebro.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 62.176.161.80,4,25,retart.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 5.252.32.70,4,-7,roscasinos.com,SK,Europe,Eastern Europe,Slovakia,,,
 213.215.124.157,4,8,sadrokarton.sk,SK,Europe,Eastern Europe,Slovakia,Trenčín Region,,Považská Bystrica
@@ -214,46 +212,45 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 92.240.254.149,4,5,sdetmi.com,SK,Europe,Eastern Europe,Slovakia,,,
 5.252.34.95,4,14,serverspace.ru,SK,Europe,Eastern Europe,Slovakia,,,
 193.163.77.73,4,8,shocart.cz,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
-94.124.148.114,4,21,skgeodesy.sk,SK,Europe,Eastern Europe,Slovakia,,,
+94.124.148.114,4,-63,skgeodesy.sk,SK,Europe,Eastern Europe,Slovakia,,,
 86.110.247.133,4,398523,skpkosice.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Galanta
-85.248.130.144,4,7,skybergtech.com,SK,Europe,Eastern Europe,Slovakia,Nitra Region,,Nitra
+85.248.130.144,4,-66,skybergtech.com,SK,Europe,Eastern Europe,Slovakia,Nitra Region,,Nitra
 37.9.171.142,4,-57,slovakiaring.sk,SK,Europe,Eastern Europe,Slovakia,,,
-185.66.200.61,4,7,smartsro.sk,SK,Europe,Eastern Europe,Slovakia,,,
+185.66.200.61,4,-63,smartsro.sk,SK,Europe,Eastern Europe,Slovakia,,,
 81.89.49.137,4,-21,sos.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 195.210.29.93,4,39,spadepoker.tv,SK,Europe,Eastern Europe,Slovakia,,,
 5.252.32.54,4,13,star-bus.ru,SK,Europe,Eastern Europe,Slovakia,,,
 193.87.79.7,4,8,statpedu.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
-213.215.124.60,4,4,stavoindustriahsv.sk,SK,Europe,Eastern Europe,Slovakia,Trenčín Region,,Považská Bystrica
+213.215.124.60,4,-2,stavoindustriahsv.sk,SK,Europe,Eastern Europe,Slovakia,Trenčín Region,,Považská Bystrica
 5.252.32.18,4,8,steroidify.ltd,SK,Europe,Eastern Europe,Slovakia,,,
 86.110.247.132,4,398522,stolarstvokovac.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Galanta
 5.252.32.1,4,1,stormwall.network,SK,Europe,Eastern Europe,Slovakia,,,
 85.248.130.131,4,10,strbskepleso.sk,SK,Europe,Eastern Europe,Slovakia,Nitra Region,,Nitra
-37.9.175.3,4,7,strbskepleso.sk,SK,Europe,Eastern Europe,Slovakia,,,
+37.9.175.3,4,-1,strbskepleso.sk,SK,Europe,Eastern Europe,Slovakia,,,
 5.252.32.58,4,4,stream-promotion.ru,SK,Europe,Eastern Europe,Slovakia,,,
 147.175.1.60,4,-56,stuba.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava-Staré Mesto
 37.9.174.128,4,45,svetapple.sk,SK,Europe,Eastern Europe,Slovakia,,,
 84.245.69.193,4,-67,SWAN a.s.,SK,Europe,Eastern Europe,Slovakia,Košice Region,,Veľká Ida
 193.87.1.2,4,2,ta3.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Modra
-46.229.230.48,4,16,teprofa.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava-Petržalka
+46.229.230.48,4,0,teprofa.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava-Petržalka
 109.71.71.76,4,11,teraz.sk,SK,Europe,Eastern Europe,Slovakia,,,
-5.252.32.35,4,11,testingjournals.com,SK,Europe,Eastern Europe,Slovakia,,,
+5.252.32.35,4,24,testingjournals.com,SK,Europe,Eastern Europe,Slovakia,,,
 5.252.34.78,4,18,the.hosting,SK,Europe,Eastern Europe,Slovakia,,,
 62.168.94.212,4,13,tkkbs.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Piešťany
 5.252.32.196,4,17,top4smm.com,SK,Europe,Eastern Europe,Slovakia,,,
 85.248.130.224,4,27,topspeed.sk,SK,Europe,Eastern Europe,Slovakia,Nitra Region,,Nitra
 85.248.130.147,4,20,tracktest.eu,SK,Europe,Eastern Europe,Slovakia,Nitra Region,,Nitra
 158.193.213.24,4,-55,transcom-conference.com,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Žilina
-86.110.243.90,4,4,travelguide.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Galanta
+86.110.243.90,4,-1,travelguide.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Galanta
 86.110.243.127,4,10,trnavskyhlas.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Galanta
-217.67.26.156,4,-232,ttstudio.sk,SK,Europe,Eastern Europe,Slovakia,,,
 62.168.94.182,4,11,tvlux.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Piešťany
 193.87.59.189,4,9,ucm.sk,SK,Europe,Eastern Europe,Slovakia,Prešov Region,,Bijacovce
 193.87.80.169,4,9,ujs.sk,SK,Europe,Eastern Europe,Slovakia,Žilina Region,,Martin
-37.9.171.229,4,19,uluv.sk,SK,Europe,Eastern Europe,Slovakia,,,
+37.9.171.229,4,-38,uluv.sk,SK,Europe,Eastern Europe,Slovakia,,,
 193.87.99.189,4,9,uniag.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Trnava
 194.160.192.15,4,12,unipo.sk,SK,Europe,Eastern Europe,Slovakia,Banská Bystrica Region,,Rimavská Sobota
-62.197.228.158,4,39,unms.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Trnava
-193.87.72.195,4,34,unsk.sk,SK,Europe,Eastern Europe,Slovakia,Nitra Region,,Nitra
+62.197.228.158,4,5,unms.sk,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Trnava
+193.87.72.195,4,0,unsk.sk,SK,Europe,Eastern Europe,Slovakia,Nitra Region,,Nitra
 158.197.16.80,4,-49,upjs.sk,SK,Europe,Eastern Europe,Slovakia,Košice Region,,Košice
 109.74.157.127,4,16,vamaconsulting.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 37.9.170.244,4,20,varazslatosmagyarorszag.hu,SK,Europe,Eastern Europe,Slovakia,,,
@@ -266,13 +263,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 193.87.57.9,4,3416,vsvu.sk,SK,Europe,Eastern Europe,Slovakia,Prešov Region,,Bijacovce
 185.77.144.69,4,18542,vszp.sk,SK,Europe,Eastern Europe,Slovakia,,,
 109.74.157.175,4,8,watchexclusive.eu,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
-185.66.200.32,4,6,webrealgroup.sk,SK,Europe,Eastern Europe,Slovakia,,,
+185.66.200.32,4,0,webrealgroup.sk,SK,Europe,Eastern Europe,Slovakia,,,
 37.9.169.172,4,87,websupport.sk,SK,Europe,Eastern Europe,Slovakia,,,
 37.9.169.173,4,-7,websupport.sk,SK,Europe,Eastern Europe,Slovakia,,,
 37.9.169.171,4,-59,websupport.sk,SK,Europe,Eastern Europe,Slovakia,,,
 195.210.28.242,4,14,webumenia.sk,SK,Europe,Eastern Europe,Slovakia,,,
-81.89.49.146,4,-307,zachej.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 86.110.243.31,4,2,zberatel.eu,SK,Europe,Eastern Europe,Slovakia,Trnava Region,,Galanta
 5.252.32.161,4,-45,zenno.club,SK,Europe,Eastern Europe,Slovakia,,,
-195.168.10.150,4,266549,zoohoo.hu,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
+195.168.10.150,4,1427683,zoohoo.hu,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava
 195.168.10.191,4,1421175,zoohoo.sk,SK,Europe,Eastern Europe,Slovakia,Bratislava Region,,Bratislava

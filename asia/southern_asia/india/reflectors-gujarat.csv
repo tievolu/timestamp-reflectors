@@ -36,7 +36,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.64.212.98,4,-1,Ookla Speedtest Server 55337: speedtest.mahua.charotarbroadband.in,IN,Asia,Southern Asia,India,Gujarat,,Mahuva
 144.48.251.8,4,34,Ookla Speedtest Server 55590: speedtest.netwireinternet.in,IN,Asia,Southern Asia,India,Gujarat,,Vadodara
 103.76.118.226,4,18,Ookla Speedtest Server 57013: sp1.wsnet.in,IN,Asia,Southern Asia,India,Gujarat,,Lakhani
-103.221.239.6,4,323,Ookla Speedtest Server 58977: speedtest.sphatiknetwork.in,IN,Asia,Southern Asia,India,Gujarat,,Jetpur
+103.221.239.6,4,-16,Ookla Speedtest Server 58977: speedtest.sphatiknetwork.in,IN,Asia,Southern Asia,India,Gujarat,,Jetpur
 103.188.236.227,4,-31,Ookla Speedtest Server 59784: speedtest.pacelinknetwork.com,IN,Asia,Southern Asia,India,Gujarat,,Vadodara
 103.148.97.18,4,15,Ookla Speedtest Server 61724: speedtest.ultrawave.in,IN,Asia,Southern Asia,India,Gujarat,,Vapi
 103.166.188.42,4,16,Ookla Speedtest Server 62014: speedtest.alhutaibnetsol.com,IN,Asia,Southern Asia,India,Gujarat,,Dohad

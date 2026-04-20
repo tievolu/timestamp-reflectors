@@ -1,5 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-185.18.206.241,4,728,adva.org,IL,Asia,Western Asia,Israel,Central District,,
+185.18.206.241,4,623,adva.org,IL,Asia,Western Asia,Israel,Central District,,
 66.22.84.26,4,3,alljobs.co.il,IL,Asia,Western Asia,Israel,Central District,,
 88.218.116.187,4,6,arims.org.il,IL,Asia,Western Asia,Israel,Central District,,Rehovot
 212.150.130.237,4,820,asoccer.co.il,IL,Asia,Western Asia,Israel,Central District,,Rishon LeTsiyyon
@@ -11,7 +11,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 88.218.116.24,4,-13,carsmedia.co.il,IL,Asia,Western Asia,Israel,Central District,,Rehovot
 88.218.116.31,4,1,codere-partners.com,IL,Asia,Western Asia,Israel,Central District,,Rehovot
 185.220.207.189,4,-4376,col.org.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
-88.218.116.137,4,-10,conversioner.com,IL,Asia,Western Asia,Israel,Central District,,Rehovot
 80.178.124.77,4,-4,DNS Server: 80.178.124.77.adsl.012.net.il,IL,Asia,Western Asia,Israel,Central District,,Bet Dagan
 80.178.255.122,4,0,DNS Server: 80.178.255.122.forward.012.net.il,IL,Asia,Western Asia,Israel,Central District,,Be'er Ya'aqov
 84.94.193.66,4,-1,DNS Server: 84.94.193.66.cable.012.net.il,IL,Asia,Western Asia,Israel,Central District,,Bet Dagan
@@ -24,34 +23,32 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 31.133.101.68,4,-5,druyan.com,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
 88.218.116.151,4,-15,econcretetech.com,IL,Asia,Western Asia,Israel,Central District,,Rehovot
 5.100.253.75,4,8997,etzel.org.il,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
-212.150.158.23,4,23,f2h.io,IL,Asia,Western Asia,Israel,Central District,,Rishon LeTsiyyon
-82.80.210.157,4,2,forms-wizard.biz,IL,Asia,Western Asia,Israel,Central District,,Modi‘in Makkabbim Re‘ut
+212.150.158.23,4,375,f2h.io,IL,Asia,Western Asia,Israel,Central District,,Rishon LeTsiyyon
+82.80.210.157,4,-6,forms-wizard.biz,IL,Asia,Western Asia,Israel,Central District,,Modi‘in Makkabbim Re‘ut
 195.28.180.198,4,-9,gfh.org.il,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
 176.100.169.39,4,-25,globes.co.il,IL,Asia,Western Asia,Israel,Central District,,
 185.47.173.152,4,479,haifaff.co.il,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
-167.86.44.32,4,8,harel-group.co.il,IL,Asia,Western Asia,Israel,Central District,,
+167.86.44.32,4,-15,harel-group.co.il,IL,Asia,Western Asia,Israel,Central District,,
 66.22.84.27,4,-2,hidabroot.org,IL,Asia,Western Asia,Israel,Central District,,
 94.188.230.211,4,-2,hilan.co.il,IL,Asia,Western Asia,Israel,Central District,,
-88.218.116.134,4,909,idsf.org.il,IL,Asia,Western Asia,Israel,Central District,,Rehovot
+88.218.116.134,4,-7,idsf.org.il,IL,Asia,Western Asia,Israel,Central District,,Rehovot
 176.100.166.52,4,-9,iec.co.il,IL,Asia,Western Asia,Israel,Central District,,
-195.28.181.44,4,44,insuranceusaauto.com,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
-83.229.81.191,4,12,jamd.ac.il,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
-212.150.243.220,4,1151,julievino.com,IL,Asia,Western Asia,Israel,Central District,,Na‘an
+195.28.181.44,4,0,insuranceusaauto.com,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
+83.229.81.191,4,-1,jamd.ac.il,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
+212.150.243.220,4,1743,julievino.com,IL,Asia,Western Asia,Israel,Central District,,Na‘an
 192.116.146.34,4,-34,jvpvc.com,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
 66.22.84.16,4,-1,kkl-jnf.org,IL,Asia,Western Asia,Israel,Central District,,
 66.22.84.22,4,-52,kkl.org.il,IL,Asia,Western Asia,Israel,Central District,,
-82.80.25.204,4,14,kulam.org,IL,Asia,Western Asia,Israel,Central District,,Rishon LeTsiyyon
+82.80.25.204,4,0,kulam.org,IL,Asia,Western Asia,Israel,Central District,,Rishon LeTsiyyon
 176.100.169.144,4,7,maccabi4u.co.il,IL,Asia,Western Asia,Israel,Central District,,
 192.116.146.4,4,14,mahalooz.co.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
 66.22.84.55,4,42,mako.co.il,IL,Asia,Western Asia,Israel,Central District,,
 176.100.169.166,4,24,max.co.il,IL,Asia,Western Asia,Israel,Central District,,
-66.22.84.239,4,58,max.co.il,IL,Asia,Western Asia,Israel,Central District,,
+66.22.84.239,4,5,max.co.il,IL,Asia,Western Asia,Israel,Central District,,
 167.86.44.73,4,-19,menoramivt.co.il,IL,Asia,Western Asia,Israel,Central District,,
-88.218.116.155,4,-644,mitvim.org.il,IL,Asia,Western Asia,Israel,Central District,,Rehovot
-167.86.44.72,4,9,mizrahi-tefahot.co.il,IL,Asia,Western Asia,Israel,Central District,,
+167.86.44.72,4,-32,mizrahi-tefahot.co.il,IL,Asia,Western Asia,Israel,Central District,,
 176.100.169.225,4,10,mr.gov.il,IL,Asia,Western Asia,Israel,Central District,,
 66.22.84.58,4,3,n12.co.il,IL,Asia,Western Asia,Israel,Central District,,
-88.218.116.160,4,-7,nalagaat.org.il,IL,Asia,Western Asia,Israel,Central District,,Rehovot
 88.218.116.234,4,-10,nite.org.il,IL,Asia,Western Asia,Israel,Central District,,Rehovot
 194.36.90.153,4,24,oknesset.org,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
 207.232.36.172,4,-858739,Ookla Speedtest Server 5283: speed.cellcom.co.il,IL,Asia,Western Asia,Israel,Central District,,Rishon LeTsiyyon
@@ -64,13 +61,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 62.90.236.42,4,78271408,Ookla Speedtest Server 46049: speedtest.cellcom.co.il,IL,Asia,Western Asia,Israel,Central District,,Raanana
 185.217.98.94,4,530,Ookla Speedtest Server: speedtest.interhost.co.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
 88.218.116.38,4,-8,orphaned-land.com,IL,Asia,Western Asia,Israel,Central District,,Rehovot
-88.218.116.178,4,19,prof-shapira.com,IL,Asia,Western Asia,Israel,Central District,,Rehovot
+88.218.116.178,4,-7,prof-shapira.com,IL,Asia,Western Asia,Israel,Central District,,Rehovot
 63.250.63.229,4,794,sabon.com,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin
 192.116.146.73,4,12,schoolblink.com,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
 192.116.146.58,4,3,smart-shooter.com,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
 185.28.153.237,4,880,sun-clinic.co.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
 88.218.116.103,4,-1563,system-labs.co.il,IL,Asia,Western Asia,Israel,Central District,,Rehovot
-192.116.146.27,4,6,tambour.co.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
+192.116.146.27,4,-2,tambour.co.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
 82.80.210.153,4,12,tzohar.org.il,IL,Asia,Western Asia,Israel,Central District,,Modi‘in Makkabbim Re‘ut
 192.116.146.100,4,1,vitamix-israel.co.il,IL,Asia,Western Asia,Israel,Central District,,Petah Tikva
 109.207.78.102,4,5,wikirefua.org.il,IL,Asia,Western Asia,Israel,Central District,,Rosh Ha‘Ayin

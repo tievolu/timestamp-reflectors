@@ -8,4 +8,4 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 77.40.49.9,4,712,DNS Server: 9.49.pppoe.mari-el.ru,RU,Europe,Eastern Europe,Russian Federation,Mariy-El Republic,,Yoshkar-Ola
 188.187.193.187,4,9755,DNS Server: dynamicip-193-187-188-187.pppoe.yola.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Mariy-El Republic,,Yoshkar-Ola
 136.169.208.59,4,4,Ookla Speedtest Server 38086: speedtest.ml.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Mariy-El Republic,,Yoshkar-Ola
-85.143.16.14,4,3,volgatech.net,RU,Europe,Eastern Europe,Russian Federation,Mariy-El Republic,,Yoshkar-Ola
+85.143.16.14,4,-70,volgatech.net,RU,Europe,Eastern Europe,Russian Federation,Mariy-El Republic,,Yoshkar-Ola

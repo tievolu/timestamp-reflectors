@@ -1,46 +1,41 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-107.182.235.182,4,-16,24biz.biz,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
-209.95.41.6,4,-8,bensdeli.net,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
-209.236.66.115,4,-9,carolinaregionvb.org,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 166.70.198.52,4,-11,cirris.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
-34.106.255.242,4,6,cookiesandclogs.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
-166.70.53.131,4,14,craftlakecity.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
-166.70.198.34,4,16,cuzcoeats.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
+34.106.255.242,4,0,cookiesandclogs.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
+166.70.53.131,4,-1,craftlakecity.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
+166.70.198.34,4,-30,cuzcoeats.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 65.130.194.253,4,-3,DNS Server: 65-130-194-253.slkc.qwest.net,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 67.2.222.215,4,-2,DNS Server: 67-2-222-215.slkc.qwest.net,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 98.33.223.189,4,10,DNS Server: c-98-33-223-189.hsd1.ut.comcast.net,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 98.33.223.227,4,-5,DNS Server: c-98-33-223-227.hsd1.ut.comcast.net,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 103.114.162.65,4,-6,DoH server: dnscry.pt-saltlakecity-ipv4,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 166.70.198.128,4,-1,eaaf.org,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
-166.70.198.161,4,11,eaaf.org,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
-173.244.208.77,4,346,eastafricantube.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
+166.70.198.161,4,-30,eaaf.org,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
+173.244.208.77,4,1422,eastafricantube.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 174.127.112.34,4,-7,horrornews.net,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 67.212.238.187,4,-5,k12academics.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 166.70.53.100,4,-19,krcl.org,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 174.127.110.175,4,12,kwc.org,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
-174.127.112.50,4,73,lindawagner.net,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
+174.127.112.50,4,0,lindawagner.net,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 166.70.53.135,4,2,longtermcarelink.net,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 166.70.53.212,4,-20,mission.net,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
-166.70.198.101,4,13,namiut.org,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
+166.70.198.101,4,1,namiut.org,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 166.70.198.71,4,21,ninjabee.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 205.204.45.146,4,3,Ookla Speedtest Server 12009: speedtest.firstdigital.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 69.162.228.10,4,-3,Ookla Speedtest Server 19165: sp01.seddt.net,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 208.185.206.78,4,-5,Ookla Speedtest Server 64619: speedtest.wifipros.co,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 107.182.232.111,4,4,ovilex.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
-107.182.233.144,4,368,ovilex.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
-166.70.198.51,4,16,parrbrown.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
-174.127.108.167,4,29,procolharum.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
+107.182.233.144,4,-341,ovilex.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
+166.70.198.51,4,-29,parrbrown.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
+174.127.108.167,4,1,procolharum.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 166.70.198.108,4,6,prolixlubricant.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 209.95.41.62,4,3,rea.gov.ng,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
-206.217.210.81,4,-14,redlion.net,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 166.70.53.168,4,10,slugmag.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
-34.106.0.15,4,43,solutionreach.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
-69.162.228.7,4,29,sweetnsassyeats.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
-174.127.112.103,4,20,thegunmag.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
+34.106.0.15,4,-1,solutionreach.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
+69.162.228.7,4,-1,sweetnsassyeats.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
+174.127.112.103,4,0,thegunmag.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 166.70.198.88,4,10,therapyanimals.org,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 98.158.176.27,4,10,thespiderawards.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 166.70.198.3,4,9,tuitionfundingsources.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
-166.70.198.31,4,13,uphe.org,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
+166.70.198.31,4,-1,uphe.org,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 107.182.235.153,4,13,uslaw.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
-206.217.210.45,4,-6,visitob.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City
 174.127.112.24,4,0,warrennolan.com,US,Americas,Northern America,United States of America,Utah,,Salt Lake City

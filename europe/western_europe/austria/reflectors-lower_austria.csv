@@ -2,16 +2,16 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 193.170.200.75,4,133,akbild.ac.at,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
 95.129.200.41,4,-3,akis.at,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
 95.129.200.19,4,1034778,architektenlexikon.at,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
-185.230.132.68,4,51,ardv.at,AT,Europe,Western Europe,Austria,Lower Austria,,Jaidhof
+185.230.132.68,4,0,ardv.at,AT,Europe,Western Europe,Austria,Lower Austria,,Jaidhof
 86.106.183.207,4,-3,avionio.com,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
 95.129.200.53,4,-40,beigewum.at,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
-95.129.200.37,4,8,beigewum.at,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
-185.126.21.107,4,10,c02.at,AT,Europe,Western Europe,Austria,Lower Austria,,Schönau an der Triesting
+95.129.200.37,4,-1,beigewum.at,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+185.126.21.107,4,0,c02.at,AT,Europe,Western Europe,Austria,Lower Austria,,Schönau an der Triesting
 193.170.194.51,4,3,cba.media,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
-31.14.17.118,4,5,cdkeysforgames.com,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+31.14.17.118,4,0,cdkeysforgames.com,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
 31.14.17.179,4,0,census2011.co.in,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
 62.212.187.3,4,36,crowdcoopfunding.at,AT,Europe,Western Europe,Austria,Lower Austria,,Grosspertholz
-82.218.183.50,4,6,cyano.at,AT,Europe,Western Europe,Austria,Lower Austria,,Tulln
+82.218.183.50,4,1,cyano.at,AT,Europe,Western Europe,Austria,Lower Austria,,Tulln
 194.116.243.40,4,-17,derstandard.de,AT,Europe,Western Europe,Austria,Lower Austria,,Zwölfaxing
 194.116.243.43,4,28,diestandard.at,AT,Europe,Western Europe,Austria,Lower Austria,,Zwölfaxing
 110.172.148.110,4,21,diggita.com,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
@@ -19,7 +19,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 89.185.121.250,4,-5,DNS Server: pns1.netplanet.at,AT,Europe,Western Europe,Austria,Lower Austria,,Lanzendorf
 83.138.55.186,4,-4,DoH server: dnscry.pt-vienna-ipv4,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
 95.129.206.155,4,-6,dschungelwien.at,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
-95.129.200.133,4,6,filmarchiv.at,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+95.129.200.133,4,0,filmarchiv.at,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
 146.255.56.98,4,12687,Foundation for Applied Privacy,AT,Europe,Western Europe,Austria,Lower Austria,,Wiener Neudorf
 193.170.194.31,4,-2,fro.at,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
 62.212.166.203,4,-7,gea-waldviertler.at,AT,Europe,Western Europe,Austria,Lower Austria,,Schrems
@@ -29,7 +29,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 193.170.194.206,4,-1,irational.org,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
 62.212.176.115,4,-4,krems.at,AT,Europe,Western Europe,Austria,Lower Austria,,Grosspertholz
 193.170.194.11,4,1,kupf.at,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
-193.170.194.3,4,4,maiz.at,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
+193.170.194.3,4,0,maiz.at,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
 62.218.228.5,4,-4902,mondial-reisen.com,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
 89.185.118.29,4,3,motornetzwerk.at,AT,Europe,Western Europe,Austria,Lower Austria,,Lanzendorf
 193.170.194.40,4,5,oberhumer.com,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
@@ -37,11 +37,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.31.52.34,4,15,Ookla Speedtest Server 15904: speedtest.kraftcom.at,AT,Europe,Western Europe,Austria,Lower Austria,,Steinakirchen am Forst
 91.244.70.82,4,-12,Ookla Speedtest Server 70748: ookla.evolushost.com,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
 81.16.110.7,4,-45,Ookla Speedtest Server: www.dic.at,AT,Europe,Western Europe,Austria,Lower Austria,,Ochsenburg
-81.16.111.2,4,6,open-networld.at,AT,Europe,Western Europe,Austria,Lower Austria,,Ochsenburg
+81.16.111.2,4,-1,open-networld.at,AT,Europe,Western Europe,Austria,Lower Austria,,Ochsenburg
 110.172.148.31,4,24,pausehardware.com,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
 146.255.58.212,4,1,pentek-timing.at,AT,Europe,Western Europe,Austria,Lower Austria,,Wiener Neudorf
-193.170.194.5,4,8,physicalnarration.org,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
-46.102.156.21,4,18,private.coffee,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+193.170.194.5,4,-1,physicalnarration.org,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
+46.102.156.21,4,-1,private.coffee,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
 193.170.194.2,4,10,radical-openness.org,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
 83.138.55.172,4,1,radio.menu,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
 193.170.194.33,4,9,republicart.net,AT,Europe,Western Europe,Austria,Lower Austria,,Sitzendorf an der Schmida
@@ -57,7 +57,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 95.129.200.110,4,3,trost.at,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
 86.106.183.58,4,13,univetbantara.ac.id,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
 94.177.9.213,4,7,uugear.com,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
-31.14.17.148,4,6,vbrae.com,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
-185.126.20.160,4,5,werk-x.at,AT,Europe,Western Europe,Austria,Lower Austria,,Schönau an der Triesting
+31.14.17.148,4,-2,vbrae.com,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
+185.126.20.160,4,0,werk-x.at,AT,Europe,Western Europe,Austria,Lower Austria,,Schönau an der Triesting
 94.177.8.119,4,5,windowsbbs.com,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf
 95.129.206.26,4,1049,wuk.at,AT,Europe,Western Europe,Austria,Lower Austria,,Langenzersdorf

@@ -31,7 +31,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 212.12.14.54,4,3466,DNS Server: rev-54-14-12-212.tula.net,RU,Europe,Eastern Europe,Russian Federation,Tula Oblast,,Tula
 212.12.31.74,4,242618,kbptula.ru,RU,Europe,Eastern Europe,Russian Federation,Tula Oblast,,Tula
 109.195.177.193,4,6,m-analytics.ru,RU,Europe,Eastern Europe,Russian Federation,Tula Oblast,,Tula
-109.195.177.137,4,8,m-analytics.ru,RU,Europe,Eastern Europe,Russian Federation,Tula Oblast,,Tula
+109.195.177.137,4,-2,m-analytics.ru,RU,Europe,Eastern Europe,Russian Federation,Tula Oblast,,Tula
 84.47.134.154,4,1870,mpcenter.ru,RU,Europe,Eastern Europe,Russian Federation,Tula Oblast,,Tula
 109.195.176.230,4,8,Ookla Speedtest Server 2661: speedtest.tula.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Tula Oblast,,Tula
 5.164.24.134,4,4,sfx-tula.ru,RU,Europe,Eastern Europe,Russian Federation,Tula Oblast,,Tula

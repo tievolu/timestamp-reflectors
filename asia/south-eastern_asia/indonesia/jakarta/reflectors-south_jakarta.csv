@@ -1,14 +1,14 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 103.147.154.198,4,-4,asia.ac.id,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
-103.147.154.202,4,17,burberrybags.net.co,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
+103.147.154.202,4,0,burberrybags.net.co,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
 103.147.154.162,4,4,clarissajntour.id,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
 103.121.213.75,4,-6,DNS Server: ip-75.213.hsp.net,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
 103.160.63.242,4,16,DoH server: dns.engineer.web.id,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
 38.47.180.115,4,56,DoH server: dns.glorydns.com,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
-103.147.154.210,4,7,kepointernet.com,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
+103.147.154.210,4,1,kepointernet.com,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
 103.147.154.201,4,-6,liputanbogor.com,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
 103.147.154.165,4,31,muslimahnews.net,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
-103.147.154.188,4,3,ocbcnispventura.com,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
+103.147.154.188,4,4,ocbcnispventura.com,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
 103.163.231.163,4,-4,Ookla Speedtest Server 14526: speedtest-jkt.mti.net.id,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
 103.19.56.6,4,-4,Ookla Speedtest Server 21296: speedtest.bitsnet.id,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
 202.182.57.194,4,-31,Ookla Speedtest Server 34437: speedtest.arsen.co.id,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
@@ -27,11 +27,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.15.172.3,4,15,Ookla Speedtest Server 71925: speedtest.nethome.id,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
 163.223.142.132,4,39,Ookla Speedtest Server 72330: sp-jkt.xconnect.id,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
 103.179.134.136,4,3,Ookla Speedtest Server 74159: ookla.maxcloud.id,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
-103.147.154.185,4,5,rsupsoeradji.id,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
+103.147.154.185,4,2,rsupsoeradji.id,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
 103.147.154.204,4,54,smoothlens.com,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
-103.147.154.179,4,-5,stiebangkinang.ac.id,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
 151.245.85.181,4,412,stitmuhngawi.ac.id,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
-103.147.154.207,4,27,tebe.us,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
-103.147.154.184,4,0,tofindohub.com,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
+103.147.154.207,4,5,tebe.us,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
+103.147.154.184,4,-6,tofindohub.com,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
 103.147.154.203,4,551,xolabit.co.id,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta
-103.147.154.187,4,-14,yuksinau.id,ID,Asia,South-eastern Asia,Indonesia,Jakarta,,South Jakarta

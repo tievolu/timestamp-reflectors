@@ -1,5 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-188.235.144.131,4,114,DNS Server: 188x235x144x131.static-business.saratov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov
 188.235.145.214,4,-6,DNS Server: 188x235x145x214.static-business.saratov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov
 88.147.142.131,4,183,DNS Server: 88-147-142-131.san.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov
 88.147.146.212,4,534,DNS Server: 88-147-146-212.san.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov
@@ -7,7 +6,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 88.147.150.185,4,-1,DNS Server: 88-147-150-185.san.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov
 82.116.54.164,4,2053,DNS Server: chance-l.renet.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov
 188.235.160.86,4,-14,DNS Server: dynamicip-188-235-160-86.pppoe.saratov.ertelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov
-78.29.120.182,4,27082,DNS Server: PPPoE-78-29-120-182.san.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov
+78.29.120.182,4,380,DNS Server: PPPoE-78-29-120-182.san.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov
 88.147.188.243,4,-4,DNS Server: pppoe-88-147-188-243.san.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov
 88.147.189.202,4,-399,DNS Server: pppoe-88-147-189-202.san.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov
 88.147.210.10,4,-9511,DNS Server: pppoe-88-147-210-10.san.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov
@@ -15,8 +14,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 82.114.242.123,4,6,Ookla Speedtest Server 10425: sp1.scts.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov
 89.23.120.2,4,3,Ookla Speedtest Server 29222: speed.sarlink.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov
 194.186.195.253,4,21,Ookla Speedtest Server 69513: speedtest.saratov.gldn.net,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov
-82.116.46.25,4,3,renet.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov
-82.116.32.36,4,5,saratovmer.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov
-82.116.48.91,4,16,saratovoblgaz.com,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov
+82.116.46.25,4,-18,renet.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov
+82.116.32.36,4,-5,saratovmer.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov
+82.116.48.91,4,-19,saratovoblgaz.com,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov
 194.58.31.249,4,11,sgu.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov
 82.116.48.66,4,1,vavilovsar.ru,RU,Europe,Eastern Europe,Russian Federation,Saratov Oblast,,Saratov

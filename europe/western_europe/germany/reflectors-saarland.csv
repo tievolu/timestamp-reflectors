@@ -7,17 +7,16 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 94.23.165.183,4,-5,DNS Server: ip183.ip-94-23-165.eu,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
 212.89.130.180,4,-3,DNS Server: resolver1.infoserve.de,DE,Europe,Western Europe,Germany,Saarland,,Nalbach
 87.98.245.13,4,18,downthemall.org,DE,Europe,Western Europe,Germany,Saarland,,
-134.96.8.251,4,18,dssv.de,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
+134.96.8.251,4,0,dssv.de,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
 139.19.206.170,4,-25,ecva.net,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
 87.98.242.178,4,42,endungen.de,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
-87.98.242.10,4,-1,gamesect.co.uk,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
-212.89.155.39,4,2,globus.de,DE,Europe,Western Europe,Germany,Saarland,,Nalbach
+212.89.155.39,4,0,globus.de,DE,Europe,Western Europe,Germany,Saarland,,Nalbach
 94.23.166.193,4,-6,gohits.de,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
-94.23.161.44,4,19,iwebplaza.nl,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
-213.135.6.58,4,3,izes.de,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
+94.23.161.44,4,0,iwebplaza.nl,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
+213.135.6.58,4,1,izes.de,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
 213.135.9.198,4,-25,klinikum-saarbruecken.de,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
 94.23.162.236,4,0,mandirachopra.com,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
-94.23.161.188,4,26,mandirachopra.com,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
+94.23.161.188,4,-1,mandirachopra.com,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
 87.98.242.203,4,0,mapa-metro.com,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
 94.23.160.111,4,0,medlutekint.com,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
 87.98.242.205,4,5,mjs.gov.mg,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
@@ -26,14 +25,14 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 94.23.161.119,4,300,puzzle.de,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
 134.96.226.109,4,-4,saarland-informatics-campus.de,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
 94.23.160.3,4,7,samsunescortbayan.biz,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
-94.23.162.9,4,27,schenker-pm.de,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
-87.98.245.17,4,9,siteendesign.nl,DE,Europe,Western Europe,Germany,Saarland,,
-94.23.160.220,4,4,taiga.net,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
+94.23.162.9,4,0,schenker-pm.de,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
+87.98.245.17,4,0,siteendesign.nl,DE,Europe,Western Europe,Germany,Saarland,,
+94.23.160.220,4,-1,taiga.net,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
 94.23.166.171,4,19,tiplr.com,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
 94.23.160.241,4,9,tn123.org,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
 94.23.167.136,4,2,topbegin.nl,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
 134.96.7.127,4,10,uni-saarland.de,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
 134.96.7.128,4,9,uni-sb.de,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
 87.98.242.65,4,2,via-alpina.org,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
-94.23.162.58,4,2,wauwfy.com,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
+94.23.162.58,4,-1,wauwfy.com,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken
 94.23.162.163,4,17,webwiki.pt,DE,Europe,Western Europe,Germany,Saarland,,Saarbrücken

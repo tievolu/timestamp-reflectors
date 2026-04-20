@@ -2,7 +2,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.137.131.25,4,-1,DNS Server: 91-137-131-25.opticon.hu,HU,Europe,Eastern Europe,Hungary,Bács-Kiskun,,Tiszakécske
 82.141.146.7,4,-1,DNS Server: ge1.hatvan-pe0.gline.hu,HU,Europe,Eastern Europe,Hungary,Bács-Kiskun,,Kiskunfélegyháza
 87.242.47.132,4,226684,DNS Server: host-87-242-47-132.prtelecom.hu,HU,Europe,Eastern Europe,Hungary,Bács-Kiskun,,Kiskunfélegyháza
-85.90.166.123,4,7,kaff.hu,HU,Europe,Eastern Europe,Hungary,Bács-Kiskun,,Kecskemét
+85.90.166.123,4,0,kaff.hu,HU,Europe,Eastern Europe,Hungary,Bács-Kiskun,,Kecskemét
 185.47.162.119,4,6,Ookla Speedtest Server 30574: speedtest.bajanet.hu,HU,Europe,Eastern Europe,Hungary,Bács-Kiskun,,Baja
 77.221.32.17,4,-7,Ookla Speedtest Server 36406: speedtest.microsystem.hu,HU,Europe,Eastern Europe,Hungary,Bács-Kiskun,,Kecskemét
 82.131.192.162,4,5,Ookla Speedtest Server 52922: speedtest.netsurfclub.hu,HU,Europe,Eastern Europe,Hungary,Bács-Kiskun,,Kiskunhalas

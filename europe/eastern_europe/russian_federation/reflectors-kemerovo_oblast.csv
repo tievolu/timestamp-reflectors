@@ -1,8 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-87.103.174.78,4,11,10-irk.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+87.103.174.78,4,1,10-irk.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
 194.33.15.37,4,22,ako.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Kemerovo
-87.103.202.252,4,-3,banktestov.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
-95.181.55.74,4,-8,cimus.biz,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Belovo
 176.196.178.135,4,-3429851996,DNS Server: 176-196-178-135.goodline.info,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Polysayevo
 176.196.95.186,4,8040,DNS Server: 176-196-95-186.goodline.info,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Kemerovo
 77.235.201.250,4,-6,DNS Server: 250.201.Novokuznetsk.ptl.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
@@ -35,16 +33,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 88.86.92.9,4,57503675,DNS Server: Kem-OfficeVoip-gw.92.quantum.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Kemerovo
 87.103.210.109,4,4,DNS Server: mail.navitrade.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
 88.86.92.32,4,-6,DNS Server: subnet32x8.92.quantum.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Kemerovo
-194.33.15.36,4,-10,guaig42.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Kemerovo
 212.75.192.6,4,-12,kaverafisha.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Belovo
-194.33.15.61,4,9,kemobl.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Kemerovo
+194.33.15.61,4,18,kemobl.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Kemerovo
 95.181.37.82,4,-23,kuz-edu.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Belovo
-194.33.15.33,4,-6,kuzbass85.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Kemerovo
 46.172.110.185,4,7,Ookla Speedtest Server 10277: sp1.m-ten.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Mezhdurechensk
-217.78.235.54,4,223,Ookla Speedtest Server 20145: speedtest.megatc.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Kemerovo
+217.78.235.54,4,0,Ookla Speedtest Server 20145: speedtest.megatc.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Kemerovo
 46.8.251.43,4,-4,Ookla Speedtest Server 27144: speedtest.yacolo.com,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Kemerovo
-82.200.50.66,4,399,Ookla Speedtest Server: speed-kmo.myttk.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Kemerovo
-87.103.171.16,4,-2467028833,tfomsra.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
 94.247.111.40,4,19,truenetwork.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
-87.103.245.112,4,18,universal-optica.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
-95.181.50.62,4,71,xn--j1aai7d.xn--p1ai,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Belovo
+87.103.245.112,4,-1,universal-optica.ru,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Novokuznetsk
+95.181.50.62,4,8,xn--j1aai7d.xn--p1ai,RU,Europe,Eastern Europe,Russian Federation,Kemerovo Oblast,,Belovo

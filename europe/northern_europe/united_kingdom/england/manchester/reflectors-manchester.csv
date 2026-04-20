@@ -1,16 +1,16 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 5.61.60.29,4,-5,20betapp.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 89.116.229.24,4,0,aamax.co,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
-153.92.211.68,4,16,adjoe.io,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
+153.92.211.68,4,0,adjoe.io,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 5.61.60.212,4,-4,arena-metallurg.ru,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 46.202.195.49,4,2,arzy.in,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 5.61.60.169,4,-4,betamo.net,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 146.70.181.154,4,65,bn.org.uk,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 168.231.116.31,4,60,brainstrust.org.uk,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
-38.180.200.157,4,11,britishtalks.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
+38.180.200.157,4,-1,britishtalks.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 89.117.36.10,4,5,casinonotongamstop.org.uk,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 191.101.80.171,4,9,ceslava.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
-89.116.228.39,4,4,chaaipani.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
+89.116.228.39,4,3,chaaipani.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 72.61.202.180,4,-2,dawncapital.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 168.231.79.44,4,7,divingheritage.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 91.90.121.245,4,98,dkeng.co.uk,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
@@ -25,12 +25,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 46.227.200.55,4,-3,FAELIX Anycast 2,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 137.220.117.62,4,-20,glasgow.social,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 89.116.229.9,4,-24,golden-forum.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
-153.92.210.154,4,3,hashthemes.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
+153.92.210.154,4,-1,hashthemes.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 5.61.61.70,4,-39,hey-siri.io,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 5.61.61.222,4,-13,hotels-penza.ru,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 147.93.84.122,4,3,houseontherock.org.ng,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
-81.92.205.90,4,3,huicopper.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
-5.182.18.241,4,33,innovation-village.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
+81.92.205.90,4,0,huicopper.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
+5.182.18.241,4,1,innovation-village.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 199.232.54.133,4,7,kiddicare.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 168.231.116.219,4,39,lengthening-sldf.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 72.62.132.16,4,21,londonreconnections.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
@@ -44,12 +44,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 72.62.210.159,4,11,Ookla Speedtest Server 73571: srv1297898.hstgr.cloud,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 194.1.147.93,4,9,peopleandcountries.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 38.244.176.117,4,7,pinup5009.ru,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
-77.74.107.143,4,174685,plusbus.info,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
-141.136.42.129,4,16,ponder.cat,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
+77.74.107.143,4,141503,plusbus.info,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
+141.136.42.129,4,0,ponder.cat,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 72.62.133.116,4,23,provisurgicals.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 187.77.96.135,4,9,rawaura.ai,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 195.110.59.186,4,10,restauranterecaredo.es,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
-89.21.0.11,4,28,rgis.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
+89.21.0.11,4,1,rgis.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 194.1.147.71,4,11,scienceofrelationships.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 146.70.23.240,4,13,scottish-gallery.co.uk,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 5.61.60.18,4,11,shkola1-krsk.ru,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
@@ -139,7 +139,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 194.1.147.66,4,17,wvdot.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 194.1.147.77,4,6,wyldfamilytravel.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 194.1.147.98,4,7,wyldfamilytravel.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
-194.1.147.55,4,1,xn--zf4bu3hwmr39b.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
+194.1.147.55,4,0,xn--zf4bu3hwmr39b.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 194.1.147.36,4,7,yeah-local.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 194.1.147.23,4,6,yesmissy.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 194.1.147.9,4,1,yesmissy.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
@@ -147,7 +147,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 194.1.147.68,4,2,yourdnaguide.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 194.1.147.86,4,7,yourish.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 194.1.147.11,4,4,yourish.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
-192.145.126.69,4,5,yousher.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
+192.145.126.69,4,0,yousher.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 194.1.147.78,4,10,yummyistanbul.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 194.1.147.79,4,0,yummyistanbul.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 194.1.147.85,4,2,zacjohnson.com,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester

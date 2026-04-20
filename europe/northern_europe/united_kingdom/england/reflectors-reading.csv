@@ -1,16 +1,15 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 151.236.33.111,4,-40,3cherry.com,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
 151.236.54.229,4,10,biophytis.com,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
-151.236.39.172,4,13,bribes.org,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
-151.236.32.159,4,14,burnspet.co.uk,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
-31.193.136.166,4,7,cardiffcastle.com,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
+151.236.39.172,4,0,bribes.org,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
+31.193.136.166,4,0,cardiffcastle.com,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
 151.236.52.107,4,3,catedraldevalencia.es,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
 151.236.52.181,4,-3,cecobi.es,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
 151.236.35.231,4,93,charliechaplin.com,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
 151.236.63.169,4,6,chisenhale.org.uk,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
 83.151.202.104,4,-32,DNS Server: 83-151-202-104.customer.gigaclear.net,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
 151.236.38.250,4,13,fediea.org,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
-151.236.35.41,4,10,firmiamo.it,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
+151.236.35.41,4,0,firmiamo.it,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
 85.234.139.117,4,36,fisac-cgil.it,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
 94.76.193.113,4,23,gasworks.org.uk,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
 151.236.54.184,4,58,geol-alp.com,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
@@ -24,13 +23,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 151.236.34.122,4,9,mynametags.com,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
 151.236.61.211,4,4,peterwebb.com,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
 151.236.35.175,4,-36,pikesibiza.com,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
-151.236.38.201,4,11,pneumaticisottocontrollo.it,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
+151.236.38.201,4,-1,pneumaticisottocontrollo.it,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
 83.151.201.112,4,2,puttyfoot.com,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
 151.236.34.146,4,12,riberasalud.com,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
 85.234.135.183,4,-3,richieburnett.co.uk,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
-85.234.130.173,4,2,scas.org.uk,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
-151.236.32.224,4,47,selectsportssouvenirs.co.uk,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
+85.234.130.173,4,1,scas.org.uk,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
 151.236.34.187,4,2,traveline.cymru,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
 85.234.130.217,4,13619,valcucine.com,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
-151.236.35.119,4,56,visitswanseabay.com,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
+151.236.35.119,4,0,visitswanseabay.com,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading
 151.236.59.184,4,6761,xagena.it,GB,Europe,Northern Europe,United Kingdom,England,Reading,Reading

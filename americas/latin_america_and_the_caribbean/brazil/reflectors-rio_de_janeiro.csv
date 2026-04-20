@@ -30,24 +30,22 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 201.76.161.162,4,79,DNS Server: mvx-201-76-161-162.mundivox.com,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
 177.71.77.218,4,41461229,DNS Server: prinse-177-71-77-218.prinse.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Volta Redonda
 200.225.232.233,4,19380,DNS Server: tcs.sindilojaspoa.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
-179.127.11.156,4,-3,euunica.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,
 186.226.57.189,4,565,grupomidia.com,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
 200.156.28.59,4,1,ibc.gov.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
-200.156.28.61,4,91426,ibc.gov.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
+200.156.28.61,4,372740,ibc.gov.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
 186.226.56.225,4,50,idec.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
-186.226.56.235,4,174,iteleport.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
-200.20.168.133,4,-51210,jbrj.gov.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
+186.226.56.235,4,19,iteleport.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
 186.226.57.102,4,-13,maisjovembr.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
 186.226.60.178,4,1018,noiteafora.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
 179.127.4.166,4,-13,noroestecalcados.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,
-200.218.251.93,4,5,oba.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
+200.218.251.93,4,-9,oba.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
 189.1.48.29,4,1,Ookla Speedtest Server 2064: sp1.gigalink.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Nova Friburgo
 186.232.41.58,4,-2,Ookla Speedtest Server 7141: velocimetro.connectnetwork.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Mangaratiba
 45.239.24.67,4,2,Ookla Speedtest Server 7289: speedtest.redetelnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Petrópolis
 177.93.157.119,4,-3,Ookla Speedtest Server 7783: st-quissama.workbandalarga.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Quissamã
 138.59.40.233,4,-4,Ookla Speedtest Server 8003: velocimetro.alfatelecomunicacoes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,São Francisco de Itabapoana
 177.154.28.26,4,46586755,Ookla Speedtest Server 8124: speed.megaflash.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Magé
-191.7.16.4,4,313,Ookla Speedtest Server 8622: speedtest.scrio.net,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Nova Iguaçu
+191.7.16.4,4,6,Ookla Speedtest Server 8622: speedtest.scrio.net,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Nova Iguaçu
 138.36.198.118,4,-3919456,Ookla Speedtest Server 8675: speedtelcomunicacoes.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Campos dos Goytacazes
 186.228.44.9,4,-2,Ookla Speedtest Server 12564: spetstbhe01.timbrasil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
 131.100.12.26,4,6,Ookla Speedtest Server 13476: speedtest.netsystemcampos.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Campos dos Goytacazes
@@ -153,14 +151,14 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 179.0.48.245,4,5,Ookla Speedtest Server 54473: speedtest.kronosnetwork.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Belford Roxo
 179.109.158.11,4,1,Ookla Speedtest Server 55359: speedtest.grupodigitalnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Natividade
 38.225.78.241,4,25,Ookla Speedtest Server 55487: speedtest.fivetelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Inhoaíba
-187.120.30.207,4,208,Ookla Speedtest Server 55487: speedtest.fivetelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
+187.120.30.207,4,36132,Ookla Speedtest Server 55487: speedtest.fivetelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
 143.137.224.122,4,15,Ookla Speedtest Server 56631: velocimetro.falconbandalarga.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
 187.16.251.35,4,-272,Ookla Speedtest Server 57203: meganet.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Petrópolis
 189.125.30.98,4,47310135,Ookla Speedtest Server 57285: riodejaneiro.speedtest.ciriontechnologies.com,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
 138.97.65.2,4,-3,Ookla Speedtest Server 57309: speed-vm3.westlink.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Maricá
 187.103.202.1,4,-6708,Ookla Speedtest Server 57360: tfconecta.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
 170.150.26.52,4,-23,Ookla Speedtest Server 57473: testedevelocidade.adaptlink.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Seropédica
-168.181.60.242,4,277,Ookla Speedtest Server 57622: bandwidth.pontofibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
+168.181.60.242,4,-1,Ookla Speedtest Server 57622: bandwidth.pontofibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
 168.197.56.30,4,5,Ookla Speedtest Server 57719: velocimetro-ctc.lv.network,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Campos dos Goytacazes
 45.162.179.238,4,260862,Ookla Speedtest Server 57948: testedevelocidade.taquaranet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
 177.12.178.38,4,-244124,Ookla Speedtest Server 58442: linklitelecom.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Belford Roxo
@@ -180,7 +178,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.169.224.228,4,0,Ookla Speedtest Server 61931: ookla.rjfiber.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Cordeiro
 131.221.135.202,4,-1,Ookla Speedtest Server 62013: speedtest.v1plus.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Seropédica
 186.193.246.177,4,-3,Ookla Speedtest Server 62174: teste1g.nossanetoficial.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Barra Mansa
-177.71.72.173,4,319,Ookla Speedtest Server 62174: teste1g.nossanetoficial.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Volta Redonda
 138.186.157.115,4,-33084,Ookla Speedtest Server 62679: masterfibertelecom.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Barra Mansa
 179.97.31.1,4,8454,Ookla Speedtest Server 62712: teste.novabaixadafibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Belford Roxo
 170.80.68.212,4,-1,Ookla Speedtest Server 62904: speedtest.ngt.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Teresópolis
@@ -223,21 +220,19 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 201.7.167.210,4,-9,Ookla Speedtest Server 72169: spd.amigosfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Belford Roxo
 201.33.174.49,4,9776,Ookla Speedtest Server 72950: velocidade.cbinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Casimiro de Abreu
 45.190.144.6,4,-5,Ookla Speedtest Server 73002: speedtest.digcarmo.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Carmo
-177.74.113.5,4,322,Ookla Speedtest Server: speedtest.easyfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Três Rios
+177.74.113.5,4,11,Ookla Speedtest Server: speedtest.easyfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Três Rios
 186.237.161.40,4,1007640,Ookla Speedtest Server: speedtest.inova.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Angra dos Reis
-186.26.92.253,4,326,Ookla Speedtest Server: speedtest.sousat.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,São João de Meriti
-45.186.156.4,4,69,Ookla Speedtest Server: sppetropolis.fibralink.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Magé
+186.26.92.253,4,-53,Ookla Speedtest Server: speedtest.sousat.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,São João de Meriti
+45.186.156.4,4,5,Ookla Speedtest Server: sppetropolis.fibralink.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Magé
 201.33.27.161,4,5,opengatebr.com,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Niterói
 186.226.58.16,4,189,palavrabemescrita.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
 186.226.56.162,4,4057,planetaatlantida.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
 186.226.58.26,4,91,portalhospitaisbrasil.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
 143.0.120.137,4,-9,portoitajai.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,São Pedro da Aldeia
 186.226.61.6,4,592,protanato.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
-200.225.232.236,4,-520,sindilojaspoa.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
 139.82.178.61,4,721899,twister.net.co,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
 200.196.57.166,4,20,ubc.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
 201.18.168.118,4,490,uenf.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Campos dos Goytacazes
 200.156.137.16,4,21,ufrj.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Niterói
-146.164.209.16,4,-43,ufrj.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
 186.226.61.172,4,-1,unifsa.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro
 186.226.56.75,4,1764,vilhenanoticias.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio de Janeiro,,Rio de Janeiro

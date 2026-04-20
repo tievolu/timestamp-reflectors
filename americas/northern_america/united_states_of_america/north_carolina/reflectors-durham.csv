@@ -1,6 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 152.3.103.45,4,-10,alban.org,US,Americas,Northern America,United States of America,North Carolina,,Durham
-38.45.67.223,4,4,americanindiancoc.org,US,Americas,Northern America,United States of America,North Carolina,,Durham
+38.45.67.223,4,-5,americanindiancoc.org,US,Americas,Northern America,United States of America,North Carolina,,Durham
 162.223.10.61,4,7,auctionblox.com,US,Americas,Northern America,United States of America,North Carolina,,Durham
 152.3.160.32,4,2,cmosurvey.org,US,Americas,Northern America,United States of America,North Carolina,,Durham
 199.48.130.6,4,-22,dict.org,US,Americas,Northern America,United States of America,North Carolina,,Durham
@@ -10,7 +10,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 152.3.103.186,4,0,faithandleadership.com,US,Americas,Northern America,United States of America,North Carolina,,Durham
 152.3.103.67,4,1,fullframefest.org,US,Americas,Northern America,United States of America,North Carolina,,Durham
 199.233.231.2,4,-57554,hardenedbsd.org,US,Americas,Northern America,United States of America,North Carolina,,Durham
-38.45.65.32,4,12,hdtimeline.com,US,Americas,Northern America,United States of America,North Carolina,,Durham
+38.45.65.32,4,-28,hdtimeline.com,US,Americas,Northern America,United States of America,North Carolina,,Durham
 38.45.66.152,4,-8,helloworld.in,US,Americas,Northern America,United States of America,North Carolina,,Durham
 152.3.80.200,4,-3,morphosource.org,US,Americas,Northern America,United States of America,North Carolina,,Durham
 130.250.176.178,4,10,mozcom.com,US,Americas,Northern America,United States of America,North Carolina,,Durham

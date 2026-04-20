@@ -20,6 +20,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 66.128.32.94,4,-8,Ookla Speedtest Server 30603: srv1.itel.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Chajarí
 45.175.149.18,4,-16,Ookla Speedtest Server 41215: speedtest1.infinet.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Villaguay
 181.209.110.2,4,3,Ookla Speedtest Server 68318: speedtest.eleyce.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Victoria
-190.183.218.25,4,28,trivento.com,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Paraná
-200.61.248.118,4,1,uner.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Concepción del Uruguay
-190.7.19.43,4,1,wearedrew.co,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Paraná
+190.183.218.25,4,2536,trivento.com,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Paraná
+200.61.248.118,4,-3,uner.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Concepción del Uruguay
+190.7.19.43,4,-2,wearedrew.co,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Paraná

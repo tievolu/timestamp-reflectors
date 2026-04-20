@@ -1,6 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-193.110.254.16,4,8,deepthought.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Nieuwkerken-Waas
-87.66.186.140,4,20,DNS Server: 140.186-66-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
+193.110.254.16,4,-2,deepthought.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Nieuwkerken-Waas
 81.244.16.162,4,84,DNS Server: 162.16-244-81.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
 81.242.198.184,4,70,DNS Server: 184.198-242-81.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
 91.178.57.193,4,18,DNS Server: 193.57-178-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
@@ -13,13 +12,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 87.65.238.61,4,36,DNS Server: 61.238-65-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
 91.176.8.68,4,46,DNS Server: 68.8-176-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
 87.65.15.90,4,29,DNS Server: 90.15-65-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
-91.180.232.95,4,136,DNS Server: 95.232-180-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
 91.183.109.45,4,4566,DNS Server: mail.reneclaeys.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
 193.110.252.79,4,17,geraardsbergen.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Nieuwkerken-Waas
 217.19.231.100,4,-11,klascement.net,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
 185.21.134.1,4,-3,Ookla Speedtest Server 45320: speedtest.1ago.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Dendermonde
 176.62.171.220,4,17,plopsaindoorcoevorden.nl,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
-185.179.91.65,4,26550,sweetslyrics.com,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
+185.179.91.65,4,11147,sweetslyrics.com,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
 193.110.252.84,4,39,torhout.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Nieuwkerken-Waas
 193.110.252.82,4,37,vilvoorde.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Nieuwkerken-Waas
 193.110.252.76,4,31,wetteren.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Nieuwkerken-Waas

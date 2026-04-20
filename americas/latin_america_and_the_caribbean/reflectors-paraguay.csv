@@ -4,7 +4,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 201.217.49.202,4,28,conacyt.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
 190.110.231.57,4,17,conacyt.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,,,
 143.202.210.232,4,65450419,DNS Server: 143-202-210-232.neo.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,,,
-143.255.140.108,4,129,DNS Server: 143-255-140-108.giganet.net.py,PY,Americas,Latin America and the Caribbean,Paraguay,Alto Paraná Department,,Ciudad del Este
 143.255.140.162,4,241,DNS Server: 143-255-140-162.giganet.net.py,PY,Americas,Latin America and the Caribbean,Paraguay,Alto Paraná Department,,Ciudad del Este
 143.255.140.19,4,-12511,DNS Server: 143-255-140-19.giganet.net.py,PY,Americas,Latin America and the Caribbean,Paraguay,Alto Paraná Department,,Ciudad del Este
 143.255.140.200,4,27,DNS Server: 143-255-140-200.giganet.net.py,PY,Americas,Latin America and the Caribbean,Paraguay,Alto Paraná Department,,Ciudad del Este
@@ -37,10 +36,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 190.128.195.138,4,25362261,DNS Server: static-138-195-128-190.telecel.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Central Department,,Lambaré
 181.40.92.86,4,351710,DNS Server: static-86-92-40-181.telecel.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
 181.120.24.61,4,14401149,estudiocodas.com,PY,Americas,Latin America and the Caribbean,Paraguay,Alto Paraná Department,,Ciudad del Este
-190.128.235.6,4,-5680968,fundacionparaguaya.org.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
 168.90.177.104,4,5,ip.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,,,
 190.113.92.67,4,1475,mercoeste.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Canindeyú,,Katueté
-201.217.49.102,4,56,meteorologia.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+201.217.49.102,4,-2,meteorologia.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
 186.16.60.250,4,12,mic.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
 201.217.40.244,4,21,ministeriopublico.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
 181.103.1.151,4,-15,ministeriopublico.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,
@@ -78,9 +76,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 138.59.225.19,4,-2,Ookla Speedtest Server 74161: speedtest.connexapy.com,PY,Americas,Latin America and the Caribbean,Paraguay,Canindeyú,,Villa Ygatimí
 168.90.177.139,4,7,paraguay.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,,,
 190.104.158.198,4,15,roshka.com,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
-201.222.53.89,4,529291,salesianito.edu.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
-168.90.177.103,4,37,senacsa.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,,,
-168.90.177.228,4,25,senatur.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,,,
+168.90.177.103,4,2,senacsa.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,,,
+168.90.177.228,4,1,senatur.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,,,
 190.128.233.101,4,29,sigob.org,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
 201.222.48.206,4,-5,TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A) 1,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
 201.222.50.30,4,15,TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A) 2,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción

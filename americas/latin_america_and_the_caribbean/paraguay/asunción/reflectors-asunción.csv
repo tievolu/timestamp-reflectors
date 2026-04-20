@@ -15,8 +15,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 190.128.214.90,4,211,DNS Server: pool-90-214-128-190.telecel.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
 181.40.122.102,4,9255,DNS Server: static-102-122-40-181.telecel.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
 181.40.92.86,4,351710,DNS Server: static-86-92-40-181.telecel.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
-190.128.235.6,4,-5680968,fundacionparaguaya.org.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
-201.217.49.102,4,56,meteorologia.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
+201.217.49.102,4,-2,meteorologia.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
 186.16.60.250,4,12,mic.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
 201.217.40.244,4,21,ministeriopublico.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
 201.217.49.2,4,-2141529113,mopc.gov.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
@@ -27,7 +26,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 181.78.94.150,4,-12,Ookla Speedtest Server 43935: speedtest.wizzi.com.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
 181.78.27.165,4,140732,Ookla Speedtest Server 64058: speedtestvcc.amacom.com.ar,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
 190.104.158.198,4,15,roshka.com,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
-201.222.53.89,4,529291,salesianito.edu.py,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
 190.128.233.101,4,29,sigob.org,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
 201.222.48.206,4,-5,TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A) 1,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción
 201.222.50.30,4,15,TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A) 2,PY,Americas,Latin America and the Caribbean,Paraguay,Asunción,,Asunción

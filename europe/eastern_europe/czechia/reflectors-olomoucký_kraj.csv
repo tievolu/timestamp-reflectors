@@ -1,33 +1,34 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 94.124.105.131,4,-29,burdadigital.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
 195.113.145.10,4,-54,cbvk.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
-147.251.6.92,4,1307,ceskyhudebnislovnik.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Prostějov District,Prostějov
+147.251.6.92,4,-1315,ceskyhudebnislovnik.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Prostějov District,Prostějov
 195.113.155.82,4,4310,digitalniknihovna.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
 46.33.115.139,4,-7,DNS Server: 46-33-115-139.infos.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Prostějov District,Prostějov
 46.33.120.137,4,76742817,DNS Server: 46-33-120-137.infos.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Prostějov District,Prostějov
 94.241.90.71,4,55764,DNS Server: 71.90.241.94.client.nordic.tel,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
 91.187.59.84,4,6060,DNS Server: 84.59.187.91.client.nordic.tel,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
 90.183.151.106,4,-40,DNS Server: 90-183-151-106.rcq.o2.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Šumperk District,Hanušovice
+90.183.159.90,4,101,DNS Server: 90-183-159-90.rcq.o2.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Šumperk District,Hanušovice
 94.124.107.176,4,15,DNS Server: host176.hanacke.net,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
 46.167.233.65,4,17,DNS Server: ip-46-167-233-65.net.vodafone.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Přerov District,Kokory
 85.93.168.37,4,2040,DNS Server: ip-85-93-168-37.wscnet.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
 85.163.30.177,4,-3,DNS Server: mail.babydirekt.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Dolany
 195.113.144.194,4,-44,DNS Server: ns.cesnet.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
-90.182.205.37,4,5,geoportal.gov.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Uničov
+90.182.205.37,4,0,geoportal.gov.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Uničov
 77.48.31.73,4,-4,holesov.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Přerov District,Dřevohostice
 195.78.122.161,4,224123,hranet.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Přerov District,Hranice
 46.33.112.26,4,-235461,infos.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Prostějov District,Prostějov
-82.150.184.15,4,38,legendysevraci.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Charváty
+82.150.184.15,4,-1,legendysevraci.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Charváty
 195.113.147.178,4,-67,nrp-nautilus.io,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
 90.183.151.107,4,-1,O2 Czech Republic. a.s.,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Šumperk District,Hanušovice
 62.209.208.17,4,30,Ookla Speedtest Server 1570: speedtest.sigmasoft.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Lutín
 185.99.64.60,4,-3,Ookla Speedtest Server 11181: speed.nfx.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Šumperk District,Kolšov
 77.48.31.86,4,4,Ookla Speedtest Server 29050: speedtest.raab.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Přerov District,Dřevohostice
 82.144.130.204,4,-4,Ookla Speedtest Server 50749: speedtest.ktcz.eu,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Bohuňovice
-195.113.159.98,4,22,pslib.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
+195.113.159.98,4,-2,pslib.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
 94.124.104.7,4,-7,ronnie.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
 81.201.63.12,4,-41230,spkfree.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Šumperk District,Šumperk
-195.113.148.55,4,635895,svkul.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
+195.113.148.55,4,-2,svkul.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
 91.228.45.189,4,11,turisticke-znamky.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
 91.228.45.154,4,23,ufleku.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Olomouc District,Olomouc
 147.251.6.91,4,-1832,universitas.cz,CZ,Europe,Eastern Europe,Czechia,Olomoucký kraj,Prostějov District,Prostějov

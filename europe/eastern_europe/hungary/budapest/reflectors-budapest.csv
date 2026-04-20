@@ -1,17 +1,16 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 87.97.76.20,4,-2,360bar.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-82.141.138.41,4,6154,abplusz.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+82.141.138.41,4,2277,abplusz.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 193.224.38.210,4,-80,abtk.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-82.150.35.85,4,13,agria.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+82.150.35.85,4,-7673,agria.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 195.56.65.180,4,-13,aktivradio.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 195.228.75.127,4,14,audi.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 185.161.74.181,4,77,autopalyamatrica.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 109.74.49.207,4,11,avkf.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-212.108.220.4,4,-8,besencziarpad.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 79.172.210.49,4,9,bidf.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-81.0.68.51,4,45,biokontroll.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-193.224.41.8,4,1233897,bmf.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-37.220.138.58,4,16,bpugyvedikamara.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+81.0.68.51,4,1,biokontroll.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+193.224.41.8,4,1356442,bmf.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+37.220.138.58,4,0,bpugyvedikamara.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 193.224.38.196,4,9345,cultural-opposition.eu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 195.228.156.159,4,10,danubecommission.org,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 217.65.97.100,4,-4,data.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
@@ -66,7 +65,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 81.183.248.195,4,30473,DNS Server: dsl51B7F8C3.fixip.t-online.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 81.183.253.121,4,25151,DNS Server: dsl51B7FD79.fixip.t-online.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 84.1.26.208,4,-16838,DNS Server: dsl54011AD0.fixip.t-online.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-84.1.27.123,4,-22981,DNS Server: dsl54011B7B.fixip.t-online.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 84.1.34.139,4,70792,DNS Server: dsl5401228B.fixip.t-online.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 84.2.58.4,4,44217,DNS Server: dsl54023A04.fixip.t-online.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 188.6.164.43,4,1509,DNS Server: dslBC06A42B.fixip.t-online.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
@@ -82,7 +80,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 82.141.128.226,4,-1,DNS Server: mail1.mono-group.com,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 194.39.45.46,4,-1,DNS Server: mbraptor.tech,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 81.182.250.40,4,565,DNS Server: mx.gylco.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-91.104.181.74,4,-7198461,DNS Server: netacc-gpn-104-181-74.pool.yettel.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 81.182.244.148,4,-8,DNS Server: newborn.scale.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 92.249.148.13,4,-3822,DNS Server: smtp.innosys.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 92.249.143.136,4,19011,DNS Server: smtp.softic.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
@@ -91,8 +88,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 94.199.177.25,4,-7,durerkert.com,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 178.48.186.181,4,-15,egyhazmegye.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 84.206.100.145,4,3,ekr.gov.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-212.108.220.118,4,40,elobolygonk.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-195.228.156.23,4,2,esemenyhangositas.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+212.108.220.118,4,0,elobolygonk.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+195.228.156.23,4,0,esemenyhangositas.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 87.229.77.159,4,-15,eszakhirnok.com,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 91.82.105.238,4,24,fkf.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 195.56.193.134,4,-16,fono.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
@@ -105,22 +102,22 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.228.45.188,4,15,jakabferenc.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 109.122.216.202,4,-6,jatekshop.eu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 217.65.100.110,4,0,joyridestreet.com,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-195.228.152.169,4,4,jss.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+195.228.152.169,4,164,jss.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 193.225.109.4,4,-4911,katolikus.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 157.181.227.78,4,-4,komal.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 62.77.226.122,4,-319,kozbeszerzes.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-82.141.138.58,4,16,kulter.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+82.141.138.58,4,0,kulter.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 95.140.39.36,4,-8,lasvegascasino.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-82.150.37.11,4,8904,leier.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+82.150.37.11,4,1,leier.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 109.122.216.27,4,-4,linkfast.me,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-84.1.159.61,4,42,maszol.ro,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+84.1.159.61,4,0,maszol.ro,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 81.0.69.116,4,-12,metalelektro.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 195.228.76.211,4,-5,metnet.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 195.228.152.157,4,1745,mnv.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 89.133.144.73,4,-6,mszt.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-185.161.207.67,4,1305,mti.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+185.161.207.67,4,3038,mti.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 87.229.120.60,4,370,multifly.aero,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-91.83.231.244,4,6281,nagytv.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+91.83.231.244,4,18703,nagytv.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 91.219.237.223,4,4,namecoin.org,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 109.74.48.59,4,2,neopropertyservices.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 87.97.76.21,4,1121,net-tech.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
@@ -132,7 +129,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 85.90.166.136,4,-13,Ookla Speedtest Server 22794: speedtest2.opcnet.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 5.105.245.120,4,-2,Ookla Speedtest Server 71778: speedtestbud1.sweet.tv,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 84.225.145.249,4,31781,Ookla Speedtest Server 74174: speedtest-tb.yettel.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-92.61.114.179,4,10,prohardver.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+79.120.178.33,4,2,pestbuda.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+92.61.114.179,4,-1,prohardver.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 185.161.205.201,4,13,radio.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 185.161.205.202,4,23,radio.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 185.161.205.196,4,-2,radio.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
@@ -143,18 +141,18 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.161.204.63,4,19,ridikul.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 185.161.204.60,4,8,ridikul.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 92.61.114.26,4,44,rsf.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-195.228.149.19,4,18,selfstore.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+195.228.149.19,4,-1,selfstore.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 193.225.94.9,4,20,sk-szeged.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 91.219.237.26,4,-8,soccer365.net,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 95.140.33.218,4,788,srv.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 195.56.77.52,4,4,sutolemeztisztitas.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-217.65.97.153,4,0,szegediszabadteri.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+217.65.97.153,4,-7,szegediszabadteri.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 193.225.109.9,4,1,szentiras.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 92.249.148.57,4,8,szepi.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 81.0.97.108,4,9,szepsegkommando.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 91.82.220.18,4,22,taylorcrystal.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 109.74.49.167,4,13,tehetseg.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-37.220.139.172,4,3,tehetseg.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+37.220.139.172,4,3628,tehetseg.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 81.0.107.237,4,-619,tenyek-tevhitek.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 195.56.77.123,4,13,terrorhaza.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 195.56.165.6,4,5,tesztandras.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
@@ -164,19 +162,19 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 193.224.41.163,4,8,uni-obuda.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 38.180.108.208,4,2,unrol.org,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 81.0.107.178,4,158,urbanlegends.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-91.219.236.245,4,3,ustvdb.com,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+91.219.236.245,4,2,ustvdb.com,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 195.228.75.235,4,19,vaskarika.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 217.79.142.63,4,-54,vehir.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-217.79.142.11,4,10,vehir.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-185.161.74.122,4,8,vendegvaro.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+217.79.142.11,4,-62,vehir.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+185.161.74.122,4,-2,vendegvaro.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 212.108.220.149,4,7,veresegyhaz.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 217.79.142.100,4,5,veszpreminfo.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 109.122.217.18,4,5,visiteger.com,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 195.56.165.3,4,16,viszlaysport.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-195.228.75.27,4,56,webshark.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+195.228.75.27,4,-4,webshark.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 91.219.238.244,4,9,winmx.com,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 193.6.202.67,4,4,zoobudapest.com,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 94.21.0.214,4,3,zooszeged.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
-195.56.55.225,4,4,zpok.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
+195.56.55.225,4,934,zpok.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 78.131.12.248,4,59112,zsofigorombei.com,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest
 193.224.38.211,4,9,zti.hu,HU,Europe,Eastern Europe,Hungary,Budapest,,Budapest

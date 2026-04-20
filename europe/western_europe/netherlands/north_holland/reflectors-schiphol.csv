@@ -1,6 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 154.59.122.69,4,-33,acuityplatform.com,NL,Europe,Western Europe,Netherlands,North Holland,,Schiphol
-154.59.122.74,4,11,acuityplatform.com,NL,Europe,Western Europe,Netherlands,North Holland,,Schiphol
+154.59.122.74,4,-1,acuityplatform.com,NL,Europe,Western Europe,Netherlands,North Holland,,Schiphol
 91.223.220.109,4,6,Ookla Speedtest Server 29076: speedtest.xsnews.nl,NL,Europe,Western Europe,Netherlands,North Holland,,Schiphol
 91.223.220.110,4,0,Ookla Speedtest Server 45549: speedtest.newsxs.nl,NL,Europe,Western Europe,Netherlands,North Holland,,Schiphol
 185.80.233.170,4,31,Ookla Speedtest Server 69003: speedtest.nl.novoserve.com,NL,Europe,Western Europe,Netherlands,North Holland,,Schiphol

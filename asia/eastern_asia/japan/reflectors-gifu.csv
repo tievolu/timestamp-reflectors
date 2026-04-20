@@ -1,9 +1,9 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-210.172.202.9,4,667,beatsonic.co.jp,JP,Asia,Eastern Asia,Japan,Gifu,,Gujō
+210.172.202.9,4,298,beatsonic.co.jp,JP,Asia,Eastern Asia,Japan,Gifu,,Gujō
 210.172.223.97,4,11,curves.co.jp,JP,Asia,Eastern Asia,Japan,Gifu,,Kani
 103.1.245.224,4,30,DNS Server: hd103-1-245-224.hidatakayama.ne.jp,JP,Asia,Eastern Asia,Japan,Gifu,,Takayama
 118.22.53.244,4,-3,DNS Server: p3020-ipngnfx01kouchinwc.kochi.ocn.ne.jp,JP,Asia,Eastern Asia,Japan,Gifu,,Gifu
-210.172.210.64,4,538,eseven.jp,JP,Asia,Eastern Asia,Japan,Gifu,,Kani
+210.172.210.64,4,205,eseven.jp,JP,Asia,Eastern Asia,Japan,Gifu,,Kani
 158.199.126.175,4,-4,g-ncc.jp,JP,Asia,Eastern Asia,Japan,Gifu,,Minokamo
 210.172.223.113,4,13,greenpeace.or.jp,JP,Asia,Eastern Asia,Japan,Gifu,,Kani
 210.172.223.93,4,-4,japan-net.ne.jp,JP,Asia,Eastern Asia,Japan,Gifu,,Kani
@@ -13,5 +13,3 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 210.172.192.7,4,585,mirai.ne.jp,JP,Asia,Eastern Asia,Japan,Gifu,,Gujō
 158.199.126.201,4,-38,oita-nhs.ac.jp,JP,Asia,Eastern Asia,Japan,Gifu,,Minokamo
 158.199.127.117,4,12,tokyo-aff.or.jp,JP,Asia,Eastern Asia,Japan,Gifu,,Minokamo
-210.172.222.107,4,-8,trip-kamakura.com,JP,Asia,Eastern Asia,Japan,Gifu,,Kani
-158.199.126.130,4,-15,tsuru.ac.jp,JP,Asia,Eastern Asia,Japan,Gifu,,Minokamo

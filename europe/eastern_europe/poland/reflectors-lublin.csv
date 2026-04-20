@@ -13,8 +13,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 80.53.94.58,4,-2,DNS Server: hq58.internetdsl.tpnet.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Lublin
 178.212.219.228,4,1,DNS Server: ip-178-212-219-228.ambit24.net,PL,Europe,Eastern Europe,Poland,Lublin,,Lubartów
 178.212.222.102,4,7380,DNS Server: ip-178-212-222-102.ambit24.net,PL,Europe,Eastern Europe,Poland,Lublin,,Lubartów
-89.186.17.222,4,2322,DNS Server: ip-89-186-17-222.net.media.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Lublin
-89.186.17.80,4,-87272,DNS Server: ip-89-186-17-80.net.media.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Lublin
+89.186.17.222,4,8037,DNS Server: ip-89-186-17-222.net.media.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Lublin
 87.239.241.182,4,117896,DNS Server: ip241-182.vtelecom.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Lublin
 87.239.246.167,4,922,DNS Server: ip246-167.vtelecom.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Lublin
 89.186.9.129,4,53918827,DNS Server: sta9.129.vip-net.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Lublin
@@ -23,7 +22,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.117.36.223,4,-5,gabinetortodontyczny.eu,PL,Europe,Eastern Europe,Poland,Lublin,,Gmina Opole Lubelskie
 5.201.6.210,4,-10,historycy.org,PL,Europe,Eastern Europe,Poland,Lublin,,Lublin
 217.113.158.236,4,27,iung.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Lublin
-212.182.125.67,4,12,muzeumzamoyskich.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Lublin
+212.182.125.67,4,0,muzeumzamoyskich.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Lublin
 159.255.184.30,4,57,Ookla Speedtest Server 2226: speedtest.tom-net.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Zamość
 91.205.88.15,4,15,Ookla Speedtest Server 5851: speedtest.tau.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Biała Podlaska
 193.17.174.24,4,7,Ookla Speedtest Server 7952: speedtest.instalnet.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Kraśnik
@@ -31,6 +30,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.205.88.16,4,-1,Ookla Speedtest Server 23071: speedtest3.tau.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Biała Podlaska
 185.229.124.4,4,-3,Ookla Speedtest Server 31397: test.bluedot.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Chełm
 194.126.165.237,4,-4,Ookla Speedtest Server 42879: fiber-media.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Lublin
-185.29.15.173,4,333,Ookla Speedtest Server 48424: speedtest3.furora.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Międzyrzec Podlaski
+185.29.15.173,4,1,Ookla Speedtest Server 48424: speedtest3.furora.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Międzyrzec Podlaski
 89.186.0.122,4,-1,Ookla Speedtest Server: speedtest.vip-net.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Lublin
 87.246.207.215,4,29,umcs.pl,PL,Europe,Eastern Europe,Poland,Lublin,,Lublin

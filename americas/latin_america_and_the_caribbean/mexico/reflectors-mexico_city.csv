@@ -1,8 +1,8 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 195.250.27.25,4,-18,6cfn.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
-216.224.125.162,4,8,b1-bet.top,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
-216.224.125.155,4,15,bbrbet.top,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
-216.224.125.159,4,8,betcerto.top,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+216.224.125.162,4,-11,b1-bet.top,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+216.224.125.155,4,-11,bbrbet.top,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+216.224.125.159,4,-11,betcerto.top,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
 201.96.177.100,4,-11,canal22.org.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Benito Juarez
 103.138.188.149,4,1,cdhpuebla.org.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
 195.250.27.54,4,3,cecytebcs.edu.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
@@ -21,11 +21,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.250.27.27,4,-11,gruasmare.com.ar,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
 195.250.27.213,4,5,iesppuchiza.edu.pe,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
 195.250.27.42,4,-10,imipe.org.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
-195.250.27.29,4,-2,institutosanfernando.edu.pe,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
-38.146.69.39,4,32,lideresmexicanos.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,
-216.224.125.165,4,-33,luckbet.top,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+38.146.69.39,4,-3,lideresmexicanos.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,
 195.250.27.47,4,-2,mirevistaveracruz.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
-119.8.14.79,4,1,movistar.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+119.8.14.79,4,7,movistar.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
 98.98.253.77,4,-16,multichoicetalentfactory.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
 189.216.14.77,4,8,Ookla Speedtest Server 2115: speedtest.cuautitlan.izzi.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Iztacalco
 189.203.168.18,4,-2,Ookla Speedtest Server 8150: alboli-speedtest1.totalplay.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Benito Juarez
@@ -57,7 +55,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 132.248.166.18,4,-96,unam.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
 195.250.27.182,4,8,usevivabemmais.com.br,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
 195.250.27.30,4,23,valdiviaesbimba.cl,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
-31.6.13.6,4,6,valeriarp.com.tr,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
+31.6.13.6,4,-7,valeriarp.com.tr,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
 195.250.27.211,4,22,yanapumaspanish.org,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
 195.250.27.46,4,3,yevo.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City
 195.250.27.33,4,8,zamworg.com,MX,Americas,Latin America and the Caribbean,Mexico,Mexico City,,Mexico City

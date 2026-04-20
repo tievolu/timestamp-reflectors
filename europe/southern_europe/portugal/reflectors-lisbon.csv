@@ -1,10 +1,10 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-109.71.43.210,4,8,4800bps.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+109.71.43.210,4,1,4800bps.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 213.58.130.233,4,147,4cmedica.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-213.146.202.161,4,32,adecco.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Carnaxide
+213.146.202.161,4,-2,adecco.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Carnaxide
 194.38.157.142,4,0,aiod.eu,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-5.154.174.233,4,70,akmediahosting.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-109.71.43.203,4,10,amd-export.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+5.154.174.233,4,-1,akmediahosting.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+109.71.43.203,4,2,amd-export.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 109.71.40.14,4,6,anesaportugal.org,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 109.71.44.100,4,1,apadariaportuguesa.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 109.71.43.216,4,26,autocarisma.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
@@ -14,8 +14,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 194.65.92.189,4,18,cm-aveiro.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 89.114.200.81,4,-2,cm-feira.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 194.65.141.201,4,-6,cm-fundao.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-62.48.167.85,4,172,cm-ilhavo.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,
-213.58.130.231,4,678,cpidt.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+62.48.167.85,4,222,cm-ilhavo.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,
+213.58.130.231,4,434,cpidt.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 85.241.29.217,4,-5,dataroad.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Amadora
 5.249.101.107,4,-6,DNS Server: 107.101.249.5.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 5.249.100.12,4,-2,DNS Server: 12.100.249.5.rev.vodafone.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
@@ -37,10 +37,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 213.58.230.133,4,29,eapn.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 194.38.157.192,4,-2,eventkey.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 195.22.14.187,4,-4,farmaciasdeservico.net,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-109.71.43.207,4,7,farol.com.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+109.71.43.207,4,-1,farol.com.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 109.71.45.67,4,-1,forwork.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 148.69.168.35,4,45,globalnoticias.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-188.208.143.125,4,10,growlforwindows.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 146.193.32.4,4,1,inesc-id.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 62.48.188.75,4,-26,ipiaget.org,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 193.136.189.26,4,887,iscte-iul.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
@@ -65,5 +64,5 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.113.142.224,4,-1,science-track.com,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 213.58.130.252,4,14,spea.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 109.71.43.31,4,8,sper.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
-109.71.43.54,4,7,startupmadeira.eu,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
+109.71.43.54,4,4,startupmadeira.eu,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon
 193.136.173.58,4,6,ua.pt,PT,Europe,Southern Europe,Portugal,Lisbon,,Lisbon

@@ -1,7 +1,7 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 45.162.106.183,4,-11,crea-rs.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Canoas
 177.52.162.89,4,-30,dialhost.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Cachoeira do Sul
-131.72.52.84,4,2,dmawd.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Imbé
+131.72.52.84,4,-2,dmawd.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Imbé
 138.122.72.243,4,-9,DNS Server: 138-122-72-243.user.starinternet.psi.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Gravataí
 177.20.235.230,4,-3,DNS Server: 177-20-235-230.fontana.ind.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Casca
 177.52.151.132,4,50729,DNS Server: 177-52-151-132.boscatto.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Caxias do Sul
@@ -170,7 +170,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 177.91.159.15,4,-12,Ookla Speedtest Server 51691: ookla.nova.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Canguçu
 191.37.136.58,4,-3,Ookla Speedtest Server 51793: speedtest.brmaster.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Campina das Missões
 131.221.195.241,4,-5,Ookla Speedtest Server 51959: spt.vipmaisinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Itaqui
-177.10.119.15,4,270043,Ookla Speedtest Server 52193: speedtest.ventosulnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Canguçu
+177.10.119.15,4,175971,Ookla Speedtest Server 52193: speedtest.ventosulnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Canguçu
 187.62.96.14,4,-6,Ookla Speedtest Server 52285: speedtest.amdtelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Bagé
 45.237.100.7,4,-4,Ookla Speedtest Server 52325: speedtest.seitelbrs.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Bom Retiro do Sul
 177.10.80.12,4,215,Ookla Speedtest Server 52356: speedtest.viacom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,São Luiz Gonzaga
@@ -269,12 +269,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.177.209.34,4,184391,Ookla Speedtest Server 72900: speedtestitaqui.fronteirainternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Itaqui
 187.0.5.240,4,-193728,Ookla Speedtest Server 73021: speed.conectarssolucoes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Santiago
 187.32.6.226,4,30390,Ookla Speedtest Server 74073: speedtest01.vibrainternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
-45.175.185.234,4,-17422058,Ookla Speedtest Server: speedtest.dblinktelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Torres
 201.182.97.43,4,12,orionitas.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Taquara
 186.225.194.29,4,-53042,Pannet Servicos On Line Ltda,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Encantado
 187.86.132.238,4,6,pelotas.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Pelotas
 187.86.132.228,4,2,pelotas.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Pelotas
-45.148.96.9,4,52,pinkfire.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
+45.148.96.9,4,-14,pinkfire.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
 45.148.96.28,4,-16,planaltomovelaria.com,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
 45.148.96.11,4,-11,radioaltouruguai.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
 201.3.169.199,4,37,radiopampa.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre

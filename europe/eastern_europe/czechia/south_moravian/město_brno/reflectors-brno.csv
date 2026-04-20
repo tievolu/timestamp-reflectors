@@ -1,7 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 93.185.99.102,4,8,4kids.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 93.185.99.151,4,-3,blue-style.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
-93.185.104.29,4,-361,bmw7er-club.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 147.251.96.60,4,6,brna.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 46.13.10.11,4,-5,casinoadmiral.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 91.217.97.130,4,666,DNS Server: 130.97.kmnet.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
@@ -16,19 +15,18 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 81.19.1.86,4,0,DNS Server: thermis.faster.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 81.19.13.81,4,-8,DNS Server: zsk-cust4041.cust.wosa.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 77.240.184.217,4,17,dpmb.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
-81.19.8.3,4,8,edda.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
-185.62.108.37,4,47,elektrika.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
+81.19.8.3,4,1,edda.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
+185.62.108.37,4,1,elektrika.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 185.66.36.178,4,-23,elektroserviscz.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 185.66.36.58,4,-7,gigaserver.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
-93.185.97.196,4,5,iure.org,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
+93.185.97.196,4,-2,iure.org,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 89.102.24.106,4,3,iw0hks.it,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 93.185.96.4,4,-5,kdpcr.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 95.129.96.157,4,0,kucharkaprodceru.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 185.137.124.214,4,30463,lipka.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
-185.137.124.216,4,15840,lipka.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
+185.137.124.216,4,31724,lipka.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 93.185.111.100,4,10,malostranska-beseda.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 93.185.99.101,4,4,maxikovy-hracky.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
-93.185.104.30,4,-297,miapedia.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 77.240.185.83,4,1,muzikus.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 195.113.221.211,4,-63,nmnm.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 93.185.111.101,4,-11,ocun.com,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
@@ -43,16 +41,14 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 95.129.101.168,4,25,sketchengine.co.uk,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 77.240.188.210,4,75,speedingeurope.com,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 93.185.104.23,4,-95,sportovnivozy.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
-93.185.104.14,4,-136,stylove.com,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 147.251.49.72,4,8,theses.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 93.185.104.24,4,26,tombru.com,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 185.66.36.39,4,13,toner-paradise.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
-93.185.99.154,4,5,travelportal.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
+93.185.99.154,4,0,travelportal.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 93.185.101.40,4,11,trikralovasbirka.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 77.240.187.186,4,51,uur.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 185.66.36.138,4,-11,vinovnik.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
-93.185.111.98,4,3,vmd-drogerie.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
-93.185.104.27,4,-199,vodaprozivot.eu,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
+93.185.111.98,4,0,vmd-drogerie.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 77.240.188.212,4,3,webylon.info,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 93.185.97.211,4,13,witter.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno
 185.137.125.42,4,8,wosa.cz,CZ,Europe,Eastern Europe,Czechia,South Moravian,Město Brno,Brno

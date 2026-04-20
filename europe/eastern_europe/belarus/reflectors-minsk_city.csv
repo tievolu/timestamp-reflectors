@@ -12,8 +12,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 194.62.19.24,4,-4,auradoma.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.124.139.25,4,-3,autohits.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.160.80,4,19,aversev.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
-194.62.19.31,4,9,avs-auto.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
-194.62.19.16,4,3,bdg.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
+194.62.19.31,4,-7,avs-auto.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
+194.62.19.16,4,-8,bdg.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.160.154,4,-33,belavia.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.160.143,4,-14,belchip.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.160.79,4,-8,belgazprombank.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
@@ -26,15 +26,15 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.183.120.132,4,18,bitrix24.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.124.139.56,4,12,bokhandog.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 95.46.203.216,4,15,bspu.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
-85.209.148.174,4,0,bus-tour.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
+85.209.148.174,4,74194,bus-tour.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 134.17.15.115,4,-19,butb.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 93.85.84.146,4,25189,byfly.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 95.47.60.238,4,-13,c2n.me,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 95.47.60.237,4,-13,clip2net.com,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 93.84.112.58,4,1,detmir.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 93.84.112.59,4,-1,detmir.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
-178.124.210.225,4,93,dev-bitrix.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
-194.62.19.136,4,5,digimedia.ru,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
+178.124.210.225,4,-20,dev-bitrix.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
+194.62.19.136,4,-6,digimedia.ru,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.124.204.179,4,31606403,DNS Server: 178.124.204.179.pppoe.vitebsk.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.124.217.181,4,3299,DNS Server: 181-217-124-178-static.mgts.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 86.57.194.188,4,-230821099,DNS Server: 188-194-57-86-static.mgts.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
@@ -109,14 +109,14 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 178.172.160.82,4,-25,emall.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 45.135.234.13,4,-25,euro-standart.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.160.96,4,2,evroopt.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
-85.209.148.43,4,10,exim.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
+85.209.148.43,4,-10,exim.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 185.183.120.151,4,222,fonbet.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 46.216.180.113,4,-8,givc.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 46.216.180.114,4,-11,givc.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.227.147,4,-22,goldenv.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
-194.62.19.153,4,25,grani.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
-85.209.148.166,4,68,graveropt.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
-86.57.174.148,4,59,grsmu.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
+194.62.19.153,4,7,grani.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
+85.209.148.166,4,-2,graveropt.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
+86.57.174.148,4,-26,grsmu.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 37.17.74.99,4,-14,gsu.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 134.17.89.171,4,129,hb.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.160.74,4,2,healthplanet.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
@@ -124,10 +124,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.47.153.78,4,928,hockey.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 85.209.148.79,4,-12,hostfly.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 185.47.153.70,4,948,ibmedia.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
-178.163.226.238,4,-5,joelynnturner.com,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
-178.124.139.55,4,28,lebel-minsk.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
-85.209.148.142,4,39,ledeme.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
-85.209.148.150,4,2,makita-online.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
+178.124.139.55,4,-22,lebel-minsk.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
+85.209.148.142,4,-10,ledeme.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
+85.209.148.150,4,-8,makita-online.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.160.91,4,-4,markformelle.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.160.108,4,-5,mchs.gov.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.160.141,4,-6,mile.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
@@ -136,11 +135,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 178.172.160.156,4,-9,mk.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 212.98.164.251,4,-4,myauto.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.124.141.73,4,-7,normativka.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
-178.163.234.45,4,2,nsv.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
+178.163.234.45,4,-5,nsv.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 185.204.118.69,4,-12385,o-plati.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.160.100,4,-11,of.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.163.226.245,4,17,officelife.media,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
-178.163.226.244,4,81,officelife.media,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
+178.163.226.244,4,-6,officelife.media,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.163.226.59,4,-49,officeton.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.160.70,4,4,oma.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 82.209.230.75,4,-17,Ookla Speedtest Server 4426: test.byfly.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
@@ -150,24 +149,22 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 178.172.160.152,4,-5,oz.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 194.62.19.226,4,4527,peretyazhkann.ru,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.160.134,4,12,portative.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
-178.163.234.46,4,75,portative.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
+178.163.234.46,4,-8,portative.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.124.143.43,4,-9,praca.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 93.125.59.4,4,557,probelarus.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.124.210.104,4,16,procvetok.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 45.135.234.65,4,1,promsfo.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.160.83,4,-2,rbank.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
-45.87.219.5,4,27,realmade.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 93.84.119.239,4,-54818,ritual.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.160.110,4,32,rulez.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 194.62.19.83,4,1,russianhelicopters.aero,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.160.77,4,17,rw.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
-178.124.176.87,4,-44987108,sadiki.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.160.99,4,-5,sansnab.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 45.135.234.46,4,-14,select.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 93.84.119.237,4,-13,shangrila.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 86.57.185.10,4,-1054,svetograd.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.160.103,4,-19,tochka.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
-178.124.139.60,4,7,torgplus.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
+178.124.139.60,4,-6,torgplus.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.160.86,4,-12,un.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.160.102,4,9,unishop.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.163.224.92,4,18,unistar.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
@@ -177,8 +174,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 46.53.200.22,4,-2,voka.tv,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 46.53.200.86,4,7,voka.tv,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 45.87.219.244,4,19,vrgames.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
-93.84.119.243,4,10,westagro.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
+93.84.119.243,4,-16,westagro.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.160.107,4,-2,wildlife.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.160.66,4,-2,xistore.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
-178.172.227.139,4,2,xplast.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
+178.172.227.139,4,-6,xplast.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk
 178.172.160.84,4,0,zepterbank.by,BY,Europe,Eastern Europe,Belarus,Minsk City,,Minsk

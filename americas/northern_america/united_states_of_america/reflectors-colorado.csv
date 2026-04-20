@@ -7,10 +7,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 72.18.132.28,4,2,blue-anvil.com,US,Americas,Northern America,United States of America,Colorado,,Denver
 94.26.84.85,4,-2,bpi.org,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
 72.18.132.130,4,7,buddhanet.info,US,Americas,Northern America,United States of America,Colorado,,Denver
-72.18.132.129,4,35,buddhanet.net,US,Americas,Northern America,United States of America,Colorado,,Denver
+72.18.132.129,4,0,buddhanet.net,US,Americas,Northern America,United States of America,Colorado,,Denver
 72.18.132.172,4,159,businessbazaar.biz,US,Americas,Northern America,United States of America,Colorado,,Denver
 192.30.132.105,4,-2,cdaonline.org,US,Americas,Northern America,United States of America,Colorado,,Aurora
-198.255.104.126,4,6,classiccardb.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+198.255.104.126,4,-1,classiccardb.com,US,Americas,Northern America,United States of America,Colorado,,Denver
 75.148.123.25,4,43,critters.org,US,Americas,Northern America,United States of America,Colorado,,Denver
 192.30.131.114,4,-9,cspm.org,US,Americas,Northern America,United States of America,Colorado,,Aurora
 72.174.172.61,4,3186,DNS Server: 072-174-172-061.res.spectrum.com,US,Americas,Northern America,United States of America,Colorado,,Cañon City
@@ -33,7 +33,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 4.34.37.186,4,-4,DNS Server: TELLERWIFI.ear1.Denver1.Level3.net,US,Americas,Northern America,United States of America,Colorado,,Denver
 66.198.193.78,4,3681668,DNS Server: vail-66-198-193-78.colorado.net,US,Americas,Northern America,United States of America,Colorado,,Kremmling
 216.120.201.105,4,-6,DoH server: den01.dnscry.pt,US,Americas,Northern America,United States of America,Colorado,,Denver
-174.128.235.250,4,6,eq2wire.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+174.128.235.250,4,-1,eq2wire.com,US,Americas,Northern America,United States of America,Colorado,,Denver
 198.59.47.203,4,1149,fcgov.com,US,Americas,Northern America,United States of America,Colorado,,Fort Collins
 70.57.43.188,4,14,futureboy.us,US,Americas,Northern America,United States of America,Colorado,,Aurora
 192.30.132.98,4,18,goodwillcolorado.org,US,Americas,Northern America,United States of America,Colorado,,Aurora
@@ -43,16 +43,16 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 192.30.135.98,4,342,hamtv.tv,US,Americas,Northern America,United States of America,Colorado,,Aurora
 216.120.200.102,4,-1,havells-sylvania.com,US,Americas,Northern America,United States of America,Colorado,,Denver
 204.144.181.195,4,-3,hyperhistory.com,US,Americas,Northern America,United States of America,Colorado,,Sedalia
-206.124.19.137,4,3,hypermall.com,US,Americas,Northern America,United States of America,Colorado,,Leadville
+206.124.19.137,4,0,hypermall.com,US,Americas,Northern America,United States of America,Colorado,,Leadville
 72.18.158.242,4,732,inplainsite.org,US,Americas,Northern America,United States of America,Colorado,,Denver
-72.18.132.151,4,4,iwraw-ap.org,US,Americas,Northern America,United States of America,Colorado,,Denver
+72.18.132.151,4,-1,iwraw-ap.org,US,Americas,Northern America,United States of America,Colorado,,Denver
 50.214.28.50,4,55,kitsunet.net,US,Americas,Northern America,United States of America,Colorado,,Denver
 66.162.107.170,4,-16,krcc.org,US,Americas,Northern America,United States of America,Colorado,,Denver
 192.30.129.194,4,454,learningrx.com,US,Americas,Northern America,United States of America,Colorado,,Aurora
 72.18.130.165,4,1527,mekodenim.com,US,Americas,Northern America,United States of America,Colorado,,Denver
 50.194.155.74,4,0,mhsoftware.com,US,Americas,Northern America,United States of America,Colorado,,Denver
 209.51.180.229,4,6028,milharal.org,US,Americas,Northern America,United States of America,Colorado,,Denver
-216.120.200.151,4,4,mirusbio.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+216.120.200.151,4,0,mirusbio.com,US,Americas,Northern America,United States of America,Colorado,,Denver
 206.82.203.51,4,-12,newportbeachindy.com,US,Americas,Northern America,United States of America,Colorado,,Thornton
 23.237.207.34,4,-19,olevod.com,US,Americas,Northern America,United States of America,Colorado,,Denver
 23.237.207.58,4,3,olevod.com,US,Americas,Northern America,United States of America,Colorado,,Denver
@@ -91,17 +91,17 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 4.18.219.3,4,-4,Ookla Speedtest Server 73983: speed-bmsa.unwiredaccess.com,US,Americas,Northern America,United States of America,Colorado,,Divide
 4.32.115.97,4,-2,Ookla Speedtest Server 74476: speed-bkkr.unwiredaccess.com,US,Americas,Northern America,United States of America,Colorado,,Woodland Park
 72.18.132.34,4,-6,opsonin-pharma.com,US,Americas,Northern America,United States of America,Colorado,,Denver
-192.30.135.117,4,651,ppihc.org,US,Americas,Northern America,United States of America,Colorado,,Aurora
+192.30.135.117,4,1116,ppihc.org,US,Americas,Northern America,United States of America,Colorado,,Aurora
 192.30.135.66,4,14,preferredgaragedoorsdenver.com,US,Americas,Northern America,United States of America,Colorado,,Aurora
-72.18.132.134,4,375,productivedreams.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+72.18.132.134,4,1440,productivedreams.com,US,Americas,Northern America,United States of America,Colorado,,Denver
 192.30.128.27,4,3,rescuemission.org,US,Americas,Northern America,United States of America,Colorado,,Aurora
 206.82.203.44,4,0,scienceforconservation.org,US,Americas,Northern America,United States of America,Colorado,,Thornton
-97.122.75.214,4,50,scottlabs.io,US,Americas,Northern America,United States of America,Colorado,,Denver
+97.122.75.214,4,-1,scottlabs.io,US,Americas,Northern America,United States of America,Colorado,,Denver
 64.111.25.186,4,-20,slitherine.com,US,Americas,Northern America,United States of America,Colorado,,Colorado Springs
 192.30.135.71,4,-3,socialseo.com,US,Americas,Northern America,United States of America,Colorado,,Aurora
 206.82.203.59,4,12,soliddocuments.com,US,Americas,Northern America,United States of America,Colorado,,Thornton
 204.144.181.151,4,15,starfall.com,US,Americas,Northern America,United States of America,Colorado,,Sedalia
-173.248.157.214,4,9,sv-anuncios.com,US,Americas,Northern America,United States of America,Colorado,,Denver
+173.248.157.214,4,-2,sv-anuncios.com,US,Americas,Northern America,United States of America,Colorado,,Denver
 206.82.203.47,4,14,taylorlaw.com,US,Americas,Northern America,United States of America,Colorado,,Thornton
 128.117.225.32,4,15,ucar.edu,US,Americas,Northern America,United States of America,Colorado,,Boulder
 216.160.182.223,4,252,welcomehome.org,US,Americas,Northern America,United States of America,Colorado,,Parker

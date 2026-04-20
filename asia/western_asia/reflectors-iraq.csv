@@ -32,7 +32,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.91.19.67,4,0,Ookla Speedtest Server 59703: spt1.tishknet.com,IQ,Asia,Western Asia,Iraq,Sulaymaniyah Governorate,,Sulaymaniyah
 185.135.69.42,4,-11,Ookla Speedtest Server 61970: speedtest.gntcld.net,IQ,Asia,Western Asia,Iraq,Baghdad,,Al Mansour
 188.72.40.196,4,9,Ookla Speedtest Server 62149: eitis.cloudns.nz,IQ,Asia,Western Asia,Iraq,Wasit Governorate,,
-185.16.25.249,4,304,Ookla Speedtest Server 62149: eitis.cloudns.nz,IQ,Asia,Western Asia,Iraq,,,
+185.16.25.249,4,-8,Ookla Speedtest Server 62149: eitis.cloudns.nz,IQ,Asia,Western Asia,Iraq,,,
 188.72.41.193,4,0,Ookla Speedtest Server 62150: kut.cloudns.nz,IQ,Asia,Western Asia,Iraq,,,
 188.72.45.241,4,-5,Ookla Speedtest Server 62164: wataniya.cloudns.nz,IQ,Asia,Western Asia,Iraq,,,
 185.206.124.233,4,-12,Ookla Speedtest Server 62685: quicknet.najaf.cloudns.nz,IQ,Asia,Western Asia,Iraq,Karbala Governorate,,Karbala

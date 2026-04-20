@@ -1,31 +1,31 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-213.238.32.179,4,5565,abc.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
+213.238.32.179,4,-428,abc.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 195.37.233.11,4,12382,agricultural-engineering.eu,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
-212.72.171.241,4,5,android-hilfe.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
+212.72.171.241,4,131,android-hilfe.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 212.53.157.230,4,-13,atos-kliniken.com,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
-212.79.53.30,4,39,buergel.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
+212.79.53.30,4,1,buergel.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 193.218.17.43,4,-5,dashoefer.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 31.17.42.180,4,-2,DNS Server: ip1f112ab4.dynamic.kabel-deutschland.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 80.151.173.12,4,16,DNS Server: p5097ad0c.dip0.t-ipconnect.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
-212.6.189.35,4,23,dtvp.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
+212.6.189.35,4,0,dtvp.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 212.53.157.252,4,-7,dvct.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
-212.6.189.184,4,33,econda.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
-212.53.140.71,4,60,ecvsv.at,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
+212.6.189.184,4,0,econda.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
+212.53.140.71,4,-3,ecvsv.at,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 212.12.63.116,4,-20,elementare-vielfalt.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
-212.72.182.41,4,175,enenko.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
+212.72.182.41,4,768,enenko.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 213.128.146.14,4,4,epages.com,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 212.72.182.36,4,-21,ergotec.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 212.72.171.122,4,46,evangeliums.net,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
-212.12.39.62,4,9081,fielmann.com,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
+212.12.39.62,4,-1,fielmann.com,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 185.45.110.169,4,1,h2.live,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 217.6.38.31,4,-4,hagebau.com,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
-212.72.171.207,4,28,hifi-und-lebensart.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
+212.72.171.207,4,-3,hifi-und-lebensart.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 212.6.181.216,4,-1,homeinstead.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 212.72.189.150,4,-6,ibt.org.ru,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 217.114.79.202,4,-24,infodrom.org,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 185.45.110.188,4,-27,l-mount.com,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 212.72.184.247,4,-1714,leichte-sprache.org,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
-212.72.171.37,4,4,listen-to-our-future.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
+212.72.171.37,4,-4,listen-to-our-future.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 213.238.47.226,4,-13,ma-hsh.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 213.128.137.20,4,2,maemo.org,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 87.253.164.92,4,1,modellbau-wiki.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
@@ -41,10 +41,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 212.72.183.88,4,-871,papierkram.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 212.12.36.29,4,50,planetarium-hamburg.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 185.45.110.230,4,7,polyband.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
-212.79.54.202,4,42,pop.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
-212.72.183.218,4,4,powweb.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
-213.238.32.188,4,-492154,projekt-gutenberg.org,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
-213.128.137.24,4,88,scratchbox.org,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
+212.79.54.202,4,-4,pop.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
+212.72.183.218,4,-3,powweb.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
+213.128.137.24,4,1,scratchbox.org,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 212.12.35.94,4,3837637,softselect.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 195.243.248.77,4,18898,studio-hamburg.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg
 213.209.102.105,4,13,suetterlinschrift.de,DE,Europe,Western Europe,Germany,Hamburg,,Hamburg

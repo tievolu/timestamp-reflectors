@@ -36,7 +36,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 213.157.205.164,4,1136,dsl.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 195.54.179.46,4,-6,eu.edu.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 195.69.143.235,4,0,fcdinamo.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-188.93.88.93,4,13,fcsamgurali.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+188.93.88.93,4,6,fcsamgurali.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 188.93.95.152,4,-2,for.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 188.93.95.26,4,137449,forum.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 188.93.91.198,4,3,gmwa.org.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
@@ -48,7 +48,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 212.72.155.123,4,-35,isfed.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 195.54.179.110,4,-4,kreston.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 188.93.95.105,4,5,kvira.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-195.54.178.41,4,-66408,marneuli.net,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 213.157.205.208,4,185,messenger.com.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 188.93.95.4,4,-107,mestia.gov.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 91.239.206.207,4,481,mhpa.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
@@ -60,6 +59,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 85.118.96.76,4,13,Ookla Speedtest Server 51130: speedtest.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 185.168.225.254,4,1,Ookla Speedtest Server 65172: speedtest.skytel.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 212.72.155.125,4,-1,Ookla Speedtest Server: connect.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+212.72.155.36,4,1278,Ookla Speedtest Server: connect.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 91.239.206.128,4,2,opera.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 206.53.48.131,4,8,ozistanbul.net,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 185.229.111.12,4,14,pridex.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
@@ -68,12 +68,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.54.178.5,4,821,smartsense.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 195.54.178.4,4,36,smr.gov.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 213.157.206.35,4,227,smsorg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-213.157.199.149,4,4,smsorg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+213.157.199.149,4,0,smsorg.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 195.54.178.52,4,9,tbiliselebi.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 195.54.179.32,4,15,tmarket.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 188.93.89.87,4,13,top.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 109.172.196.173,4,7679,ultraviolettesting.ru,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
-91.239.206.213,4,32,vanillasky.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
+91.239.206.213,4,-2,vanillasky.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 212.72.155.20,4,2588,vertisoli.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 195.69.143.227,4,18,visitajara.com,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi
 188.93.95.15,4,8,worldsport.ge,GE,Asia,Western Asia,Georgia,Tbilisi,,Tbilisi

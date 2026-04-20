@@ -1,6 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-193.226.7.211,4,6892132,academicdirect.org,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
-91.209.189.43,4,3,clujit.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
+193.226.7.211,4,7594222,academicdirect.org,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
+91.209.189.43,4,279,clujit.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
 185.125.111.46,4,-7,DNS Server: 185-125-111-46.static.intovps.com,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
 188.27.139.114,4,-21,DNS Server: 188-27-139-114.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
 5.2.196.32,4,4203,DNS Server: fmail.timcj.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
@@ -12,7 +12,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.209.189.177,4,231,nord-vest.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
 193.226.5.26,4,3,Ookla Speedtest Server 16918: speedtest.utcluj.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
 188.26.117.67,4,127,Ookla Speedtest Server 28837: speedtest.tamaseduard.com,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
-128.0.55.124,4,11,remsimobiliare.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
+128.0.55.124,4,-1,remsimobiliare.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
 188.213.217.213,4,11,szabadsag.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
 91.209.189.126,4,18,transilvaniareporter.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca
 193.0.225.15,4,19,ubbcluj.ro,RO,Europe,Eastern Europe,Romania,Cluj County,,Cluj-Napoca

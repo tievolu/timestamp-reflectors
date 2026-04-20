@@ -2,7 +2,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 196.46.190.64,4,23,afdalkazinohatonline.com,EG,Africa,Northern Africa,Egypt,,,
 102.213.180.130,4,-17,albarqenergy.com,LY,Africa,Northern Africa,Libya,,,
 102.207.216.124,4,3168,alelec.com,DZ,Africa,Northern Africa,Algeria,,,
-41.128.143.175,4,5,amgad-hendy.com,EG,Africa,Northern Africa,Egypt,Cairo Governorate,,Cairo
+41.128.143.175,4,-2,amgad-hendy.com,EG,Africa,Northern Africa,Egypt,Cairo Governorate,,Cairo
 196.203.16.218,4,207144,apia.com.tn,TN,Africa,Northern Africa,Tunisia,Tunis Governorate,,Tunis
 193.95.27.71,4,-1,arp.tn,TN,Africa,Northern Africa,Tunisia,,,
 196.196.122.163,4,296753,aspirevapechile.com,LY,Africa,Northern Africa,Libya,Tripoli,,Tripoli
@@ -20,7 +20,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 41.39.242.34,4,67925368,DNS Server: host-41.39.242.34.tedata.net,EG,Africa,Northern Africa,Egypt,Cairo Governorate,,Cairo
 41.41.152.225,4,2137,DNS Server: host-41.41.152.225.tedata.net,EG,Africa,Northern Africa,Egypt,Cairo Governorate,,Cairo
 41.231.62.166,4,-4184327871,DNS Server: MAIL.NAFSHIP.COM,TN,Africa,Northern Africa,Tunisia,,,
-102.220.31.36,4,14,domelec-dz.com,DZ,Africa,Northern Africa,Algeria,Beni Abbes,,Béni Abbès
+102.220.31.36,4,-4,domelec-dz.com,DZ,Africa,Northern Africa,Algeria,Beni Abbes,,Béni Abbès
 213.179.181.8,4,369,esli.com.dz,DZ,Africa,Northern Africa,Algeria,,,
 154.70.207.242,4,-1,fes.ma,MA,Africa,Northern Africa,Morocco,Fès-Meknès,Fes,Fes
 196.196.122.166,4,296642,geekbaraustralia.com,LY,Africa,Northern Africa,Libya,Tripoli,,Tripoli
@@ -45,12 +45,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 197.230.47.48,4,0,med.ma,MA,Africa,Northern Africa,Morocco,Casablanca-Settat,Nouaceur Province,Dar Bouazza
 196.203.16.137,4,907,medianet.tn,TN,Africa,Northern Africa,Tunisia,Tunis Governorate,,Tunis
 197.230.9.168,4,-11,mincom.gov.ma,MA,Africa,Northern Africa,Morocco,Casablanca-Settat,Nouaceur Province,Dar Bouazza
-102.211.209.37,4,16,miss2l.com,TN,Africa,Northern Africa,Tunisia,,,
+102.211.209.37,4,-3,miss2l.com,TN,Africa,Northern Africa,Tunisia,,,
 41.217.224.23,4,6,mistnews.com,EG,Africa,Northern Africa,Egypt,,,
 102.213.181.173,4,33,misuratau.edu.ly,LY,Africa,Northern Africa,Libya,,,
 41.33.73.68,4,-3,mts.gov.eg,EG,Africa,Northern Africa,Egypt,Giza,,Giza
 62.240.36.36,4,835,nic.ly,LY,Africa,Northern Africa,Libya,,,
-62.240.36.40,4,6,nic.ly,LY,Africa,Northern Africa,Libya,,,
+62.240.36.40,4,-4052,nic.ly,LY,Africa,Northern Africa,Libya,,,
 102.213.180.5,4,-16,noonyshop.ly,LY,Africa,Northern Africa,Libya,,,
 197.50.178.226,4,60353162,objectsdev.com,EG,Africa,Northern Africa,Egypt,Cairo Governorate,,Cairo
 105.198.254.209,4,262375,Ookla Speedtest Server 1689: speedtest8.vodafone.com.eg,EG,Africa,Northern Africa,Egypt,Alexandria,,
@@ -113,8 +113,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 105.73.34.184,4,20641,Ookla Speedtest Server 72894: speedtest10g.inwi.co.ma,MA,Africa,Northern Africa,Morocco,,,
 196.203.16.201,4,140790,oss-online.org,TN,Africa,Northern Africa,Tunisia,Tunis Governorate,,Tunis
 102.213.181.234,4,-1,planning.gov.ly,LY,Africa,Northern Africa,Libya,,,
-102.219.176.81,4,857,rnrt.tn,TN,Africa,Northern Africa,Tunisia,,,
-197.13.10.54,4,5,rtci.tn,TN,Africa,Northern Africa,Tunisia,,,
+102.219.176.81,4,540,rnrt.tn,TN,Africa,Northern Africa,Tunisia,,,
+197.13.10.54,4,0,rtci.tn,TN,Africa,Northern Africa,Tunisia,,,
 197.140.11.226,4,603,safex.dz,DZ,Africa,Northern Africa,Algeria,,,
 196.196.122.182,4,296676,skecrystalbarturkiye.com,LY,Africa,Northern Africa,Libya,Tripoli,,Tripoli
 196.196.122.188,4,296637,skecrystalpluspolska.com,LY,Africa,Northern Africa,Libya,Tripoli,,Tripoli
@@ -124,7 +124,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 41.111.128.195,4,31908588,sntf.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
 213.131.64.60,4,395,taraboulsi.com,EG,Africa,Northern Africa,Egypt,,,
 197.12.0.107,4,11,tuniscallcenter.com,TN,Africa,Northern Africa,Tunisia,,,
-41.77.114.55,4,16,ueuromed.org,MA,Africa,Northern Africa,Morocco,Marrakesh-Safi,Marrakech,Marrakesh
+41.77.114.55,4,-2,ueuromed.org,MA,Africa,Northern Africa,Morocco,Marrakesh-Safi,Marrakech,Marrakesh
 41.111.187.133,4,7,univ-alger3.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
 41.111.191.116,4,17,univ-bechar.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
 41.111.191.123,4,9,univ-bechar.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
@@ -132,13 +132,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 41.111.191.115,4,19,univ-bechar.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
 41.111.191.121,4,-6,univ-bechar.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
 41.111.234.143,4,1,univ-boumerdes.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
-41.111.234.131,4,12,univ-boumerdes.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
+41.111.234.131,4,-7,univ-boumerdes.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
 197.140.11.224,4,746,univ-constantine2.dz,DZ,Africa,Northern Africa,Algeria,,,
 41.111.206.210,4,3609369,univ-msila.dz,DZ,Africa,Northern Africa,Algeria,Béjaïa,,Amizour
 41.111.171.235,4,-7,univ-oran1.dz,DZ,Africa,Northern Africa,Algeria,Oran,,Oran
 41.110.190.124,4,7,univ-saida.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
 41.106.128.5,4,1,univ-sba.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,
-41.111.224.35,4,12,univ-tebessa.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
+41.111.224.35,4,-9,univ-tebessa.dz,DZ,Africa,Northern Africa,Algeria,Algiers,,Algiers
 41.187.109.253,4,113,upss-egy.com,EG,Africa,Northern Africa,Egypt,,,
 196.196.122.185,4,296629,uwelldanmark.com,LY,Africa,Northern Africa,Libya,Tripoli,,Tripoli
 196.196.122.167,4,296670,voopoovapeaustralia.com,LY,Africa,Northern Africa,Libya,Tripoli,,Tripoli

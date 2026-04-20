@@ -8,5 +8,5 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 202.165.68.1,4,11,Ookla Speedtest Server 48390: mrs2.speedtest.gslnetworks.com,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,Marseille
 185.189.72.202,4,-29,Ookla Speedtest Server 73556: fr-mrs01.speed.misaka.one,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,Marseille
 139.124.245.191,4,18,univ-amu.fr,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,Cabriès
-38.54.123.61,4,3,www.gov.hk,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,Marseille
-38.54.123.58,4,6,www.gov.hk,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,Marseille
+38.54.123.61,4,-1,www.gov.hk,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,Marseille
+38.54.123.58,4,-2,www.gov.hk,FR,Europe,Western Europe,France,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,Marseille

@@ -13,5 +13,5 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.84.187.173,4,-4,Ookla Speedtest Server 33113: stream4.burgasnet.com,BG,Europe,Eastern Europe,Bulgaria,Burgas,,Burgas
 45.84.185.253,4,270408,Ookla Speedtest Server 42756: speed.vis21.net,BG,Europe,Eastern Europe,Bulgaria,Burgas,,Burgas
 87.119.111.19,4,44,Ookla Speedtest Server 64183: radio.rn-tv.com,BG,Europe,Eastern Europe,Bulgaria,Burgas,,Burgas
-213.16.56.13,4,257,Ookla Speedtest Server: host.tvskat.net,BG,Europe,Eastern Europe,Bulgaria,Burgas,,Burgas
+213.16.56.13,4,-1,Ookla Speedtest Server: host.tvskat.net,BG,Europe,Eastern Europe,Bulgaria,Burgas,,Burgas
 87.120.13.118,4,-396,servizstroj.com,BG,Europe,Eastern Europe,Bulgaria,Burgas,,Burgas

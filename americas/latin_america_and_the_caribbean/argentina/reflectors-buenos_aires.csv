@@ -57,7 +57,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 168.96.248.133,4,-1281807,experttel.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,La Plata
 190.1.0.80,4,-15,hidramic.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Bahía Blanca
 186.33.208.223,4,2,infd.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Benavídez
-200.51.96.75,4,3,inidep.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Mar del Plata
+200.51.96.75,4,-2,inidep.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Mar del Plata
 170.80.24.6,4,-3,mdp.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Mar del Plata
 119.8.73.110,4,-16,norton.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,
 190.55.63.66,4,3058,Ookla Speedtest Server 900: velocidad.telecentro.net.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Partido de La Matanza
@@ -119,5 +119,5 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 170.210.104.16,4,11050992,unlz.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,
 200.124.178.2,4,11,unnoba.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Junín
 207.248.74.35,4,9,unq.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Bernal
-170.210.224.6,4,2,unse.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,
+170.210.224.6,4,0,unse.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,
 149.104.77.251,4,14,utecgreenwineworld.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,

@@ -9,4 +9,4 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 193.161.113.80,4,2,Ookla Speedtest Server 70939: webserver.radiointernet.sk,SK,Europe,Eastern Europe,Slovakia,Trenčín Region,,Bánovce nad Bebravou
 213.81.159.114,4,17,Ookla Speedtest Server 71234: speedtest.fer-net.sk,SK,Europe,Eastern Europe,Slovakia,Trenčín Region,,Lubina
 213.215.124.157,4,8,sadrokarton.sk,SK,Europe,Eastern Europe,Slovakia,Trenčín Region,,Považská Bystrica
-213.215.124.60,4,4,stavoindustriahsv.sk,SK,Europe,Eastern Europe,Slovakia,Trenčín Region,,Považská Bystrica
+213.215.124.60,4,-2,stavoindustriahsv.sk,SK,Europe,Eastern Europe,Slovakia,Trenčín Region,,Považská Bystrica

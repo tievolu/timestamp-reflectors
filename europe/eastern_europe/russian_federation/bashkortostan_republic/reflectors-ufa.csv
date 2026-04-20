@@ -1,7 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-92.50.187.140,4,1225,bashenc.online,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
 81.30.206.92,4,0,bitel.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
-85.8.186.55,4,7,cccp-ufa.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+85.8.186.55,4,-30,cccp-ufa.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
 145.255.31.145,4,53987,DNS Server: 145.255.31.145.static.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
 145.255.5.183,4,-4,DNS Server: 145.255.5.183.static.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
 46.191.140.217,4,8171,DNS Server: 46.191.140.217.dynamic.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
@@ -35,8 +34,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 81.30.213.254,4,-7,fermo.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
 81.30.200.44,4,-31,gorsovet-ufa.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
 46.191.141.177,4,915,gsrb.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
-94.41.208.102,4,3,krcrb.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+94.41.208.102,4,-1,krcrb.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
 81.30.198.118,4,-11,Ookla Speedtest Server 25120: speedtest.ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
-81.30.208.16,4,113315,plgn.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
+81.30.208.16,4,372,plgn.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
 81.30.200.43,4,6,ufacity.info,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa
 81.30.199.238,4,31,ufanet.ru,RU,Europe,Eastern Europe,Russian Federation,Bashkortostan Republic,,Ufa

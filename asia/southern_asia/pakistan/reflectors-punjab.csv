@@ -1,7 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 202.142.172.154,4,26904,amis.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
-103.16.146.197,4,-16,ctpublicschooljal.com,IN,Asia,Southern Asia,India,Punjab,,Rāipur
-175.176.186.26,4,-16,dailypost.in,IN,Asia,Southern Asia,India,Punjab,,Amritsar
 103.217.177.7,4,52322,dhakarachi.org,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
 103.178.79.34,4,-8,DNS Server: 103-178-79-34.lmp.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
 202.142.179.66,4,-8238,DNS Server: 202-142-179-66.multi.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Wah Cantt
@@ -49,11 +47,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 119.30.85.238,4,12,Ookla Speedtest Server 41967: orbit.lmpl.net,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad
 113.192.47.243,4,38,Ookla Speedtest Server 42465: speedtest.samzbroadband.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
 103.52.34.6,4,11,Ookla Speedtest Server 42493: speedtest.mtcl.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Mian Channu
-103.52.34.3,4,16573,Ookla Speedtest Server 42493: speedtest.mtcl.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Mian Channu
+103.52.34.3,4,2,Ookla Speedtest Server 42493: speedtest.mtcl.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Mian Channu
 45.194.89.5,4,-3,Ookla Speedtest Server 42513: speedtesthsp.prime.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Hasilpur
 110.39.164.37,4,2,Ookla Speedtest Server 42611: speed.duoslinks.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
 103.111.39.251,4,3,Ookla Speedtest Server 44237: npnst2.npisp.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Islamabad
 160.187.140.3,4,-2,Ookla Speedtest Server 44284: speedtest.clicknconnect.co.in,IN,Asia,Southern Asia,India,Punjab,,Jalālābād
+103.72.138.255,4,1,Ookla Speedtest Server 44376: portal.iweb.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Wah Cantt
 103.203.46.117,4,20475,Ookla Speedtest Server 45154: spape.getlinks.net.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Ahmedpur East
 154.208.48.187,4,68966406,Ookla Speedtest Server 45314: speedtest.naeemit.com,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
 223.123.33.182,4,-65,Ookla Speedtest Server 47438: speedtest3.smartsys.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Jhang Sadar
@@ -89,7 +88,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 160.30.236.49,4,141152,Ookla Speedtest Server 61969: spdtw1.spectron.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Chichawatni
 103.103.42.130,4,-75,Ookla Speedtest Server 62153: speedtestp.telcomaster.com,PK,Asia,Southern Asia,Pakistan,Punjab,,Gujranwala
 103.244.93.255,4,162569,Ookla Speedtest Server 62930: speed.reliance-broadband.net,PK,Asia,Southern Asia,Pakistan,Punjab,,Jhelum
-103.155.4.222,4,188,Ookla Speedtest Server 63084: myspeedtest.connecteldunyapur.xyz,PK,Asia,Southern Asia,Pakistan,Punjab,,Dunyapur
+103.155.4.222,4,-75,Ookla Speedtest Server 63084: myspeedtest.connecteldunyapur.xyz,PK,Asia,Southern Asia,Pakistan,Punjab,,Dunyapur
 157.20.147.240,4,21,Ookla Speedtest Server 63448: ookla.zcomnetworks.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
 103.168.40.6,4,11908,Ookla Speedtest Server 64021: speedlhr.skifgroup.com,PK,Asia,Southern Asia,Pakistan,Punjab,,Lahore
 119.160.122.26,4,-4,Ookla Speedtest Server 64828: speedtest-fsd1.jazz.com.pk,PK,Asia,Southern Asia,Pakistan,Punjab,,Faisalabad

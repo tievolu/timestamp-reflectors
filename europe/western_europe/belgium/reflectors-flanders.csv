@@ -1,11 +1,10 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 109.68.162.51,4,0,argosarts.org,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-195.160.166.174,4,81,bitlbee.org,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Zaventem
-193.110.254.16,4,8,deepthought.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Nieuwkerken-Waas
+195.160.166.174,4,-1,bitlbee.org,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Zaventem
+193.110.254.16,4,-2,deepthought.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Nieuwkerken-Waas
 86.39.72.72,4,-14,delcampe-static.net,BE,Europe,Western Europe,Belgium,Flanders,Limburg Province,Hasselt
 86.39.72.71,4,-4,delcampe-static.net,BE,Europe,Western Europe,Belgium,Flanders,Limburg Province,Hasselt
 81.247.107.128,4,17,DNS Server: 128.107-247-81.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
-87.66.186.140,4,20,DNS Server: 140.186-66-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
 81.244.16.162,4,84,DNS Server: 162.16-244-81.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
 81.242.198.184,4,70,DNS Server: 184.198-242-81.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
 87.67.235.189,4,2,DNS Server: 189.235-67-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
@@ -24,7 +23,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.176.8.68,4,46,DNS Server: 68.8-176-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
 81.241.230.74,4,-12968,DNS Server: 74.230-241-81.adsl-static.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Vilvoorde
 87.65.15.90,4,29,DNS Server: 90.15-65-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
-91.180.232.95,4,136,DNS Server: 95.232-180-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
 91.183.70.251,4,-4,DNS Server: mail.atrio.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
 91.183.109.45,4,4566,DNS Server: mail.reneclaeys.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
 212.71.8.129,4,-8,edpnet.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
@@ -34,7 +32,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 109.68.161.56,4,-34,effectsdatabase.com,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
 193.110.252.79,4,17,geraardsbergen.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Nieuwkerken-Waas
 109.68.160.157,4,15,gwg.org,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Zaventem
-81.95.125.201,4,8,hdl-concept.be,BE,Europe,Western Europe,Belgium,Flanders,West Flanders Province,Bruges
+81.95.125.201,4,-2,hdl-concept.be,BE,Europe,Western Europe,Belgium,Flanders,West Flanders Province,Bruges
 217.19.231.100,4,-11,klascement.net,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
 86.39.68.130,4,7,knx.org,BE,Europe,Western Europe,Belgium,Flanders,Limburg Province,Hasselt
 212.71.0.110,4,-67,Ookla Speedtest Server 40400: speedtest.edpnet.net,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
@@ -43,12 +41,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 176.62.171.220,4,17,plopsaindoorcoevorden.nl,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
 109.68.161.190,4,1,prevent.be,BE,Europe,Western Europe,Belgium,Flanders,Antwerp Province,Antwerp
 141.138.64.26,4,13,supergame.be,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Tielt-Winge
-185.179.91.65,4,26550,sweetslyrics.com,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
+185.179.91.65,4,11147,sweetslyrics.com,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Ghent
 193.110.252.84,4,39,torhout.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Nieuwkerken-Waas
 185.18.148.23,4,-10,tvvisie.be,BE,Europe,Western Europe,Belgium,Flanders,West Flanders Province,Oostkamp
 109.68.160.247,4,10,unix-solutions.be,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Zaventem
 193.110.252.82,4,37,vilvoorde.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Nieuwkerken-Waas
-185.18.148.240,4,3,waasland-beveren.be,BE,Europe,Western Europe,Belgium,Flanders,West Flanders Province,Oostkamp
-86.39.64.73,4,5,waste-of.space,BE,Europe,Western Europe,Belgium,Flanders,Limburg Province,Hasselt
+185.18.148.240,4,-1,waasland-beveren.be,BE,Europe,Western Europe,Belgium,Flanders,West Flanders Province,Oostkamp
+86.39.64.73,4,-1,waste-of.space,BE,Europe,Western Europe,Belgium,Flanders,Limburg Province,Hasselt
 193.110.252.76,4,31,wetteren.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Nieuwkerken-Waas
 193.110.252.85,4,31,zonhoven.be,BE,Europe,Western Europe,Belgium,Flanders,East Flanders,Nieuwkerken-Waas

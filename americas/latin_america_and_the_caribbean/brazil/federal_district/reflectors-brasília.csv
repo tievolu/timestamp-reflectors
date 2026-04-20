@@ -1,5 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-187.115.86.101,4,26,brasal.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
+187.115.86.101,4,25,brasal.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
 200.130.18.127,4,-3,capes.gov.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
 189.84.137.235,4,-5,cfm.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
 24.152.15.146,4,11,cfq.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
@@ -12,7 +12,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 186.215.95.249,4,-2146972733,DNS Server: Vlan2231.static.gvt.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
 186.250.243.195,4,-1,fazendalaguna.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
 191.217.57.139,4,959,ifmt.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
-186.250.240.93,4,815,martinsnegocios.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
+186.250.240.93,4,951,martinsnegocios.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
 189.85.80.56,4,-7,Ookla Speedtest Server 1625: speedtest.nwi.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
 149.78.102.210,4,-2,Ookla Speedtest Server 9218: speedro.sitelbra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
 170.239.145.15,4,-7744,Ookla Speedtest Server 12465: speedtest.arctelecomgo.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
@@ -57,7 +57,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 206.0.20.46,4,-7,Ookla Speedtest Server 60399: ggndf-velocimetro.lv.network,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
 186.211.249.98,4,-2,Ookla Speedtest Server 60838: speedtest.speedtestcerradonet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
 143.255.111.114,4,1720,Ookla Speedtest Server 61671: speedtest.digitalconect.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
-45.166.160.38,4,259,Ookla Speedtest Server 62076: ookla.conectivaredes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
+45.166.160.38,4,6,Ookla Speedtest Server 62076: ookla.conectivaredes.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
 45.179.144.135,4,-1,Ookla Speedtest Server 63389: teste.hilan.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
 170.247.184.37,4,7,Ookla Speedtest Server 64958: ookla.7telecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
 168.197.143.229,4,26,Ookla Speedtest Server 64959: speedtest.eifibra.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
@@ -68,6 +68,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 186.216.30.10,4,-4,Ookla Speedtest Server 71502: speedtest.titelecom.inf.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
 45.179.144.136,4,4125,Ookla Speedtest Server 71846: teste.maxgiga.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
 189.84.137.165,4,4,portalmedico.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
-189.50.84.11,4,87146,pps.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
+189.50.84.11,4,184932,pps.org.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
 167.249.251.89,4,478808,sitelbra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília
 177.15.68.19,4,22,telebras.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Federal District,,Brasília

@@ -7,15 +7,15 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 220.158.201.109,4,42,everydayonsales.com,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
 103.211.239.21,4,3,flashbynight.com,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
 185.93.164.120,4,9,formulamasa.com,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
-103.130.153.10,4,6,freepressreleasedb.com,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
-185.93.164.203,4,44,friedchillies.com,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
-185.93.164.201,4,5,hk-taxi.com,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
+103.130.153.10,4,1,freepressreleasedb.com,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
+185.93.164.203,4,0,friedchillies.com,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
+185.93.164.201,4,-1,hk-taxi.com,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
 103.72.163.180,4,-6,ijbel.com,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
 103.72.163.99,4,627,in2ideas.com,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
 103.204.7.191,4,-6,iwk.com.my,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
 103.72.163.9,4,938,jomtanyapeguam.com,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
 220.158.201.36,4,654,klsescreener.com,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
-103.130.153.78,4,6,kltower.com.my,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
+103.130.153.78,4,-1,kltower.com.my,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
 202.59.9.71,4,-11,learningtigers.my,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
 103.130.153.14,4,6,madacorp.com.my,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
 103.204.7.45,4,0,malaysianbar.org.my,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
@@ -29,7 +29,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 118.107.220.254,4,5,Ookla Speedtest Server 63813: speedtest.tgb-host.com,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
 103.29.56.67,4,-11,Ookla Speedtest Server 67602: speedtest-akl.ixtelecom.net,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
 103.249.84.20,4,32,ppdkk.edu.my,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
-185.93.164.44,4,4,sistersinislam.org.my,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
+185.93.164.44,4,0,sistersinislam.org.my,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
 103.187.26.12,4,11,stoba.com.my,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
 103.228.53.122,4,819,upsi.edu.my,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya
 103.72.163.182,4,413,vestigopetroleum.com,MY,Asia,South-eastern Asia,Malaysia,Selangor,,Cyberjaya

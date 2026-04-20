@@ -1,6 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 35.229.134.56,4,0,1680380.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-34.80.142.182,4,8,1687370.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+34.80.142.182,4,-1,1687370.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 156.234.231.31,4,25,188988.vip,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 156.234.231.32,4,24,188988.vip,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 156.234.231.36,4,24,188988.vip,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
@@ -21,12 +21,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 104.199.162.225,4,-2,bbkz.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 59.124.95.211,4,-1757132714,beetles.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 35.194.237.172,4,-3,best-legal.jp,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-104.155.230.5,4,6,bookfere.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+104.155.230.5,4,2,bookfere.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 104.199.214.191,4,-5,brilio.net,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 35.221.247.38,4,-9,clibo.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 35.234.49.191,4,26,cmmedia.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 140.112.30.240,4,32,csie.org,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-104.155.230.68,4,6,daviteq.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+104.155.230.68,4,0,daviteq.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 35.229.212.107,4,-4,deepradai.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 1.162.163.129,4,2327,DNS Server: 1-162-163-129.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 1.162.168.5,4,28,DNS Server: 1-162-168-5.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
@@ -87,24 +87,24 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.131.189.74,4,-3,DoH server: dnscry.pt-taipeh-ipv4,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 61.222.218.100,4,-6,e-classical.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Daan
 104.199.233.184,4,-22,enermax.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-210.242.49.19,4,9,f-2.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+210.242.49.19,4,-79912,f-2.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 34.81.70.65,4,-4,fftc.org.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 34.80.32.212,4,5945764,finguider.cc,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 107.167.182.246,4,2,forbeautylove.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-34.80.246.181,4,10,gamebase.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+34.80.246.181,4,-2,gamebase.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 35.234.39.85,4,33,greenpeace.org.cn,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 104.199.236.4,4,-6,groupbuyforms.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-45.43.59.201,4,2,growthman.cn,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-118.194.253.217,4,1,gsoc.cn,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+45.43.59.201,4,8,growthman.cn,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+118.194.253.217,4,8,gsoc.cn,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 104.199.184.118,4,-25,gugu.fund,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 130.211.253.109,4,-10,gwangju2015.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 35.234.58.5,4,24,hockeycurve.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-219.87.145.180,4,0,ibase.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Xinyi
+219.87.145.180,4,-7,ibase.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Xinyi
 104.199.232.106,4,16,lia-roc.org.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-34.81.152.152,4,3,lia-roc.org.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+34.81.152.152,4,-2,lia-roc.org.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 35.185.141.245,4,5,liskul.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 104.199.252.254,4,10,mainpi.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-104.155.219.139,4,2,mashup.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+104.155.219.139,4,0,mashup.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 35.194.215.179,4,-1,mofang.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 104.199.165.123,4,0,neti.cc,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 104.199.204.72,4,-1,neticrm.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
@@ -138,23 +138,23 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 35.229.232.54,4,20,simular.co,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 34.80.106.104,4,8,spacecraft.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 210.61.130.19,4,23,sunnyhills.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-35.221.158.12,4,6,superbowlcommercials.tv,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-35.185.142.145,4,5,taiwan-healthcare.org,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+35.221.158.12,4,-3,superbowlcommercials.tv,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+35.185.142.145,4,0,taiwan-healthcare.org,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 104.199.225.102,4,17,taiwantimes.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 35.229.254.224,4,368,tbc-diecast.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-211.21.23.49,4,146,tmst.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+211.21.23.49,4,581,tmst.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 34.80.36.145,4,11,twmotel.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 35.201.233.115,4,26,uanalyze.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 61.219.98.250,4,156895,unisonic.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 104.155.238.199,4,8,unisonic.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 193.42.40.162,4,5,unlistedstock.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 34.80.38.188,4,6,uukt.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-104.199.204.141,4,8,vegas338.com.in,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+104.199.204.141,4,2,vegas338.com.in,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 34.80.170.74,4,11,vigattintourism.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 211.21.137.6,4,144,waibel.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Daan
 60.250.97.158,4,27,wanyuantemple.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 104.199.239.202,4,5,wuwuji.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 35.194.254.221,4,5,xdg.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-35.229.163.10,4,3,xm-studios.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+35.229.163.10,4,0,xm-studios.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 34.80.255.179,4,3,xn--950bs8ev3e04c98p79cca198u.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 35.236.168.25,4,1,zhupiter.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei

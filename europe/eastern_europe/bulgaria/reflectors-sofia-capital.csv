@@ -1,21 +1,21 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-78.128.43.129,4,4,africanspicesafaris.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
-195.123.224.150,4,3,apmcontrols.com.ua,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+78.128.43.129,4,0,africanspicesafaris.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+195.123.224.150,4,-9,apmcontrols.com.ua,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 195.123.229.197,4,5,arhizorro.ru,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
-91.148.141.93,4,17,arriva-personal.de,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+91.148.141.93,4,0,arriva-personal.de,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 213.191.221.71,4,-1,bas.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 217.145.167.115,4,2,bda.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 78.128.43.55,4,-1,boxie24.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 78.128.43.242,4,-6,bulgaria-hotels.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
-78.128.43.193,4,4,caboverdeairlines.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+78.128.43.193,4,0,caboverdeairlines.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.217.121,4,-8,catcasin.top,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.217.160,4,-8,catcasino25.click,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
-78.128.43.103,4,3,celestialheavens.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+78.128.43.103,4,0,celestialheavens.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 193.8.4.50,4,-18,ciela.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 193.8.4.133,4,2128,ciela.net,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 217.12.203.204,4,-5,crcind.ru,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 91.215.153.115,4,-2,cvet-forum.ru,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
-195.85.215.10,4,4,daigaz.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+195.85.215.10,4,0,daigaz.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 94.26.26.170,4,-13915,denifest.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 194.145.63.30,4,4,dirbg.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 94.26.53.141,4,314,DNS Server: 141.53.26.94.tbc.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
@@ -32,6 +32,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 213.91.166.2,4,69103224,DNS Server: 213-91-166-2.ip.btc-net.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 37.157.168.146,4,-5,DNS Server: 37-157-168-146.net1.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 46.10.158.51,4,-7,DNS Server: 46-10-158-51.ip.btc-net.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+46.10.196.122,4,935,DNS Server: 46-10-196-122.ip.btc-net.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 46.10.230.171,4,479,DNS Server: 46-10-230-171.ip.btc-net.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 46.10.230.194,4,-102568,DNS Server: 46-10-230-194.ip.btc-net.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 62.73.67.194,4,-4,DNS Server: 62-73-67-194.ip.btc-net.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
@@ -111,21 +112,22 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 79.124.7.43,4,-6,DoH server: dnscry.pt-sofia-ipv4,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 91.215.154.165,4,4,duster-clubs.ru,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 78.128.43.16,4,0,elato.media,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
-78.128.43.69,4,42,elite-pharma.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+78.128.43.69,4,0,elite-pharma.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 217.79.36.252,4,77,eshop.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
-78.128.127.54,4,3,fahrzeugtechnik-kruse.de,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+78.128.127.54,4,0,fahrzeugtechnik-kruse.de,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.217.42,4,-8,fordogtrainers.ru,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 79.142.70.142,4,3079,ghostwritingllc.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 91.215.152.86,4,19,grimuar.ru,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
-195.123.224.220,4,54,homeocean.com.ua,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+195.123.224.220,4,-1,homeocean.com.ua,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.217.119,4,7,inglesina-italy.ru,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+85.14.37.45,4,719383,ipacbc-bgtr.eu,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 195.85.215.215,4,-2,ipacct.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.217.152,4,-20,jetton2635.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 46.249.70.3,4,1278,julimaruli.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.97.73.178,4,1,karadimov.info,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
-78.128.43.237,4,4,kedai168app.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+78.128.43.237,4,0,kedai168app.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 91.215.153.145,4,-3,krasota-shop.com.ua,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
-195.191.35.102,4,14,levski.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+195.191.35.102,4,0,levski.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 77.77.151.176,4,-28,mapcrow.info,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 93.152.174.18,4,-47,metropolitan.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 85.14.37.47,4,2,mrrb.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
@@ -142,39 +144,38 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 213.183.62.34,4,-9,Ookla Speedtest Server 38115: speedtest-sof.melbicom.net,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 212.50.10.110,4,-13,Ookla Speedtest Server 48776: nspeed.a1.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 91.215.155.10,4,-6,open4u.co.uk,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
-91.247.36.104,4,50,openj-gate.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+91.247.36.104,4,2,openj-gate.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 31.13.218.54,4,12,payner.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 195.230.15.160,4,1,pfcslavia.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 82.118.227.4,4,7,podrujka.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.217.110,4,-3,pokerok-site.club,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.217.115,4,30,pokerokgames.beauty,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
-185.196.101.220,4,27,properstatus.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+185.196.101.220,4,0,properstatus.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.217.124,4,0,r7cs.digital,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.217.150,4,3,r7csn.lol,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.217.112,4,0,r7csn.onl,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
-195.191.35.74,4,38,radiotangra.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+195.191.35.74,4,0,radiotangra.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.217.128,4,3,remont-epos.ru,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 91.247.37.45,4,7,ringworms.space,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.217.40,4,16,rs-rf.ru,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.217.157,4,34,rsem.click,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.217.123,4,1,ruoivolga.ru,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
-195.123.226.119,4,81,rus.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+195.123.226.119,4,1,rus.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.216.97,4,-1257,rusbank.net,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
-87.118.140.232,4,13,sam-kinti.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
-94.72.143.150,4,6,schafpudel-vom-eichwald.de,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+87.118.140.232,4,0,sam-kinti.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+94.72.143.150,4,1,schafpudel-vom-eichwald.de,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.217.114,4,-8,shopblackberry.ru,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 85.187.244.155,4,10,siteforge.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
-93.152.232.155,4,401541,skycode.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
-82.147.128.2,4,-29243312,sliven.net,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
-195.123.226.149,4,20,smartlook.com.ua,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+93.152.232.155,4,1,skycode.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+195.123.226.149,4,0,smartlook.com.ua,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.217.129,4,4,stake-official654.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 62.176.76.131,4,-19,store.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 194.141.86.103,4,59693,swu.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 95.43.243.100,4,10,telegraph.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 78.128.43.92,4,-8668,threecar-bg.com,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.217.147,4,6,top-vodka.beauty,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
-78.128.43.93,4,9,trasdocar.org,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
-194.141.79.8,4,7,ue-varna.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+78.128.43.93,4,1,trasdocar.org,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+194.141.79.8,4,2,ue-varna.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 62.44.96.51,4,20,uni-sofia.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 91.215.154.24,4,13,universalinternetlibrary.ru,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.217.71,4,7,vavada-gold.beauty,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
@@ -188,7 +189,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.82.217.41,4,8,vip-selektorr.beauty,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.217.113,4,3,voiskorovo.ru,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 194.141.118.115,4,13,weather.bg,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
-82.118.230.66,4,73,wikinger-turnier.de,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
+82.118.230.66,4,1,wikinger-turnier.de,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.217.163,4,2,winetwork.ru,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.217.168,4,7,winwin24.homes,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia
 185.82.217.162,4,-20,winwin24.icu,BG,Europe,Eastern Europe,Bulgaria,Sofia-Capital,,Sofia

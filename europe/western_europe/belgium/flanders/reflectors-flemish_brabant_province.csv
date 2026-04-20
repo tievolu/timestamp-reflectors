@@ -1,5 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-195.160.166.174,4,81,bitlbee.org,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Zaventem
+195.160.166.174,4,-1,bitlbee.org,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Zaventem
 81.241.230.74,4,-12968,DNS Server: 74.230-241-81.adsl-static.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Vilvoorde
 109.68.160.157,4,15,gwg.org,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Zaventem
 141.138.64.26,4,13,supergame.be,BE,Europe,Western Europe,Belgium,Flanders,Flemish Brabant Province,Tielt-Winge

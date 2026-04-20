@@ -1,5 +1,4 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 89.166.51.89,4,892,auricmedia.net,FI,Europe,Northern Europe,Finland,Uusimaa,,Vantaa
 194.100.34.1,4,1,pcuf.fi,FI,Europe,Northern Europe,Finland,Uusimaa,,Vantaa
-89.166.51.67,4,49,teatterimuseo.fi,FI,Europe,Northern Europe,Finland,Uusimaa,,Vantaa
-89.166.51.80,4,-197,tinfo.fi,FI,Europe,Northern Europe,Finland,Uusimaa,,Vantaa
+89.166.51.67,4,-1,teatterimuseo.fi,FI,Europe,Northern Europe,Finland,Uusimaa,,Vantaa

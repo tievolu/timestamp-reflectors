@@ -1,7 +1,7 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-207.148.99.118,4,8,3goo.co.jp,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
+207.148.99.118,4,-7,3goo.co.jp,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 139.180.194.233,4,13,ad2iction.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
-202.182.121.151,4,15,aerocool.com.tw,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
+202.182.121.151,4,0,aerocool.com.tw,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 167.179.112.87,4,-2,calil.jp,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 207.148.110.86,4,-3,caselawnotes.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 180.10.251.21,4,-49,chushin.co.jp,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
@@ -9,35 +9,35 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.77.31.67,4,-8,DoH server: at.pzhg.me,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 167.179.78.123,4,-1,DoH server: dns.fullaccesstointernet.jp.eu.org,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 45.67.86.123,4,-4,DoH server: dnscry.pt-tokyo-ipv4,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
-167.179.82.83,4,46,draveness.me,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
-45.77.31.188,4,2,fuma.com.vn,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
+167.179.82.83,4,0,draveness.me,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
+45.77.31.188,4,1,fuma.com.vn,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 45.32.54.173,4,-30,gamblingsnews.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
-202.182.117.199,4,5,gamblingsnews.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
-108.61.163.52,4,4,geekvape.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
-198.13.39.159,4,10,genma.vn,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
-45.32.252.15,4,12,gslin.org,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
+202.182.117.199,4,1,gamblingsnews.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
+108.61.163.52,4,-1,geekvape.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
+198.13.39.159,4,-1,genma.vn,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
+45.32.252.15,4,9,gslin.org,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 207.148.113.154,4,-5,howtoprinter.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 45.76.49.1,4,-8,idmall.org,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 45.32.30.218,4,4,igrev.kr,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 167.179.69.55,4,-7,jellywp.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
-139.180.194.7,4,3,kanazawa-tourism.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
+139.180.194.7,4,0,kanazawa-tourism.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 198.13.62.134,4,-12,kenhrao.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 45.76.204.191,4,-2,lbbs.org,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
-45.77.135.209,4,56,lejournaldelaphotographie.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
+45.77.135.209,4,-1,lejournaldelaphotographie.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 198.13.32.49,4,-4,loftwork.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
-202.182.124.118,4,70,metareading.info,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
-202.182.105.221,4,27,moabbs.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
+202.182.124.118,4,2,metareading.info,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
+202.182.105.221,4,-9,moabbs.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 45.32.19.28,4,-5,myconan.net,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 108.160.137.196,4,5,nun.nu,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 198.13.52.169,4,-9,outdoorjapan.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 108.61.200.94,4,8,percetakanertu.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 45.76.103.27,4,-10,phelieuvietnam.vn,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 45.76.51.57,4,16,puppetx2.com.tw,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
-167.179.109.218,4,15,slashtw.space,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
+167.179.109.218,4,-1,slashtw.space,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 45.32.46.46,4,11,taiwanhot.net,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 45.32.49.74,4,6,tvtgroup.com.vn,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 149.28.21.182,4,7,xn--2e0bjks7vpoc50hx3eexi6ve.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
-108.61.181.229,4,2,xtglobe.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
+108.61.181.229,4,0,xtglobe.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 66.42.32.204,4,5,youngsun.org.tw,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 104.156.239.154,4,14,zorinaq.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 45.77.26.18,4,-2,zyan.cc,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa

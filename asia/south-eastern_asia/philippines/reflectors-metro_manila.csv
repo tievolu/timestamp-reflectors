@@ -1,6 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 8.212.171.95,4,-10,cashmart.ph,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Manila
-8.212.157.198,4,-5,cheapjerseys18.com,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Manila
 121.58.226.134,4,375860,dlsud.edu.ph,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Pasig
 103.104.17.7,4,-1044842791,DNS Server: 103-104-17-7.static.rise.as,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Makati City
 119.92.115.218,4,14,DNS Server: 119.92.115.218.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Pasay
@@ -39,7 +38,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 122.55.236.166,4,-4198485068,DNS Server: 122.55.236.166.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Caruhatan
 122.55.242.174,4,17916314,DNS Server: 122.55.242.174.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Caruhatan
 122.55.246.153,4,59139360,DNS Server: 122.55.246.153.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Caruhatan
-122.55.251.58,4,28075155,DNS Server: 122.55.251.58.static.pldt.net,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Caruhatan
 124.104.152.215,4,15351228,DNS Server: 124.104.152.215.pldt.net,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Taguig
 124.104.155.110,4,19752771,DNS Server: 124.104.155.110.pldt.net,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Taguig
 124.107.104.149,4,35,DNS Server: 124.107.104.149.pldt.net,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Quezon City
@@ -109,7 +107,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 126.209.31.10,4,19,Ookla Speedtest Server 72417: makatispeed.infinivan.com,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Manila
 58.71.117.34,4,73,pbsp.org.ph,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Manila
 202.92.128.50,4,-6,phkule.org,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Quezon City
-202.90.134.36,4,-22,psa.gov.ph,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Quezon City
 155.137.80.131,4,101079,pup.edu.ph,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Quezon City
 113.19.104.67,4,101093,pup.edu.ph,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Pasig
 118.194.239.21,4,14,techsupportplusit.com,PH,Asia,South-eastern Asia,Philippines,Metro Manila,,Manila

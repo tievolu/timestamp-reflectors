@@ -1,16 +1,16 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-185.123.204.78,4,6,43folder.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
+185.123.204.78,4,0,43folder.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
 178.255.225.73,4,8,7televalencia.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Paterna
 213.162.208.67,4,-3,banak.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Torrent
 213.162.208.71,4,0,banak.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Torrent
 178.255.229.41,4,0,canalextremadura.es,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Paterna
-178.255.229.40,4,1,canalextremadura.es,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Paterna
-178.255.225.167,4,7,casacochecurro.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Paterna
+178.255.229.40,4,-2,canalextremadura.es,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Paterna
+178.255.225.167,4,-1,casacochecurro.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Paterna
 89.38.129.98,4,-8,casinos-online.es,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
 185.127.128.148,4,0,castillodesantabarbara.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
-188.130.247.39,4,145,cdan.es,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
+188.130.247.39,4,403,cdan.es,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
 178.255.230.122,4,1,cforganya.cat,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Paterna
-5.135.88.24,4,5,compac.es,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
+5.135.88.24,4,1,compac.es,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
 178.255.230.198,4,-5,comunitatvalenciana.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Paterna
 178.255.230.196,4,-5,comunitatvalenciana.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Paterna
 5.135.88.29,4,-11,cotec.es,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
@@ -21,8 +21,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 90.161.64.242,4,-2,DNS Server: 242.pool90-161-64.static.orange.es,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Sueca
 62.37.140.235,4,-5,DNS Server: 62.37.140.235.static.abi.uni2.es,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Montroy
 82.213.196.233,4,100,DNS Server: static.233.196.213.82.ibercom.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
-139.47.10.8,4,-3599036,DNS Server: static.masmovil.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
-90.161.69.226,4,52,etra-id.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Sueca
+90.161.69.226,4,1258,etra-id.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Sueca
 178.255.230.119,4,-3,fonspitius.org,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Paterna
 178.255.231.114,4,-13,internetpasoapaso.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Paterna
 213.162.208.91,4,-4,kenayhome.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Torrent
@@ -33,7 +32,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 178.255.230.25,4,6,martincodax.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Paterna
 147.156.223.81,4,58,mclibre.org,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
 80.91.65.248,4,13,mousetrap.net,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Ador
-178.255.225.39,4,22,nanoge.org,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Paterna
+178.255.225.39,4,-2,nanoge.org,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Paterna
 147.156.200.174,4,1,Ookla Speedtest Server 5481: speedtest.uv.es,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
 185.151.208.11,4,-1,Ookla Speedtest Server 9395: speedtest.airsip.net,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Llombai
 185.59.51.126,4,5,Ookla Speedtest Server 12548: speedtest.ontitel.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Ontinyent
@@ -47,8 +46,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 178.255.230.21,4,-7,rccelta.es,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Paterna
 185.127.128.67,4,6,reservasdirectas.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
 185.127.128.36,4,23,ricardcamarena.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
-147.156.222.187,4,54,silknow.org,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
-185.123.204.80,4,13,subdownloader.net,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
+147.156.222.187,4,-1,silknow.org,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
+185.123.204.80,4,1,subdownloader.net,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Valencia
 178.255.231.121,4,18,uniproyecta.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Paterna
 178.255.231.122,4,13,uniproyecta.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Paterna
 178.255.231.118,4,24,vidabytes.com,ES,Europe,Southern Europe,Spain,Valencia,Valencia,Paterna

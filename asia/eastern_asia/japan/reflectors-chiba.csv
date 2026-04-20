@@ -2,7 +2,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 158.101.74.24,4,53,2401002.xyz,JP,Asia,Eastern Asia,Japan,Chiba,,Inzai
 219.166.60.234,4,-4,aoba-science.co.jp,JP,Asia,Eastern Asia,Japan,Chiba,,Noda
 140.227.151.83,4,-27,arax.co.jp,JP,Asia,Eastern Asia,Japan,Chiba,,Ichikawa
-140.227.150.68,4,20,best-shingaku.net,JP,Asia,Eastern Asia,Japan,Chiba,,Ichikawa
+140.227.150.68,4,2,best-shingaku.net,JP,Asia,Eastern Asia,Japan,Chiba,,Ichikawa
 131.186.35.85,4,-8,correc.co.jp,JP,Asia,Eastern Asia,Japan,Chiba,,Inzai
 133.159.68.84,4,6,cosmowater.com,JP,Asia,Eastern Asia,Japan,Chiba,,Matsudo
 158.101.143.5,4,-3,cybergadget.co.jp,JP,Asia,Eastern Asia,Japan,Chiba,,Inzai
@@ -26,8 +26,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 155.248.164.105,4,-15,leavesongs.com,JP,Asia,Eastern Asia,Japan,Chiba,,Inzai
 133.159.73.125,4,-6,mew.org,JP,Asia,Eastern Asia,Japan,Chiba,,Matsudo
 153.143.230.167,4,-20350,mobilestation.jp,JP,Asia,Eastern Asia,Japan,Chiba,,Utase
-219.117.238.193,4,-21847,muronavi.net,JP,Asia,Eastern Asia,Japan,Chiba,,Nagareyama
-219.117.239.198,4,50,music.ne.jp,JP,Asia,Eastern Asia,Japan,Chiba,,Nagareyama
+219.117.239.198,4,-2,music.ne.jp,JP,Asia,Eastern Asia,Japan,Chiba,,Nagareyama
 133.159.68.163,4,12,nangin.jp,JP,Asia,Eastern Asia,Japan,Chiba,,Matsudo
 140.83.34.244,4,20,omorovie.com,JP,Asia,Eastern Asia,Japan,Chiba,,Inzai
 133.159.72.86,4,2,pfa.or.jp,JP,Asia,Eastern Asia,Japan,Chiba,,Matsudo

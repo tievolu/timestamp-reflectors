@@ -1,9 +1,9 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 188.219.106.19,4,1,addictus.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Padua,Padua
 213.187.10.117,4,-73,aiti.org,IT,Europe,Southern Europe,Italy,Veneto,Province of Padua,Piazzola sul Brenta
-185.170.139.172,4,7,amicodelpopolo.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Belluno,Santa Giustina
+185.170.139.172,4,1,amicodelpopolo.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Belluno,Santa Giustina
 212.19.118.114,4,17,cesar.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Verona,Verona
-83.211.227.158,4,21,clouditalia.com,IT,Europe,Southern Europe,Italy,Veneto,Province of Padua,Vigonza
+83.211.227.158,4,-14,clouditalia.com,IT,Europe,Southern Europe,Italy,Veneto,Province of Padua,Vigonza
 93.62.185.101,4,2,DNS Server: 93-62-185-101.ip23.fastwebnet.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Treviso,Mogliano Veneto
 93.62.185.102,4,3,DNS Server: 93-62-185-102.ip23.fastwebnet.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Treviso,Mogliano Veneto
 93.62.185.99,4,3,DNS Server: 93-62-185-99.ip23.fastwebnet.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Treviso,Mogliano Veneto
@@ -24,7 +24,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 146.247.65.242,4,20,Ookla Speedtest Server 3679: speedtest.hynetwifi.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Treviso,San Zenone degli Ezzelini
 185.103.81.114,4,15,Ookla Speedtest Server 4826: speedtestvr01.interplanet.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Verona,San Bonifacio
 185.44.214.246,4,-8,Ookla Speedtest Server 6339: speedtest.3psystem.net,IT,Europe,Southern Europe,Italy,Veneto,Province of Venice,Fiesso d'Artico
-185.44.215.252,4,349,Ookla Speedtest Server 6339: speedtest.3psystem.net,IT,Europe,Southern Europe,Italy,Veneto,Province of Venice,Fiesso d'Artico
+185.44.215.252,4,-4,Ookla Speedtest Server 6339: speedtest.3psystem.net,IT,Europe,Southern Europe,Italy,Veneto,Province of Venice,Fiesso d'Artico
 185.171.36.10,4,65,Ookla Speedtest Server 6901: speedtestmm01.interplanet.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Verona,San Bonifacio
 45.10.12.21,4,5,Ookla Speedtest Server 8289: speedtest.flynet.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Padua,San Martino di Lupari
 185.190.162.9,4,-1,Ookla Speedtest Server 25258: speedtest.hiveway.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Padua,Limena

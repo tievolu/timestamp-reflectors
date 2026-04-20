@@ -1,6 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 196.46.190.64,4,23,afdalkazinohatonline.com,EG,Africa,Northern Africa,Egypt,,,
-41.128.143.175,4,5,amgad-hendy.com,EG,Africa,Northern Africa,Egypt,Cairo Governorate,,Cairo
+41.128.143.175,4,-2,amgad-hendy.com,EG,Africa,Northern Africa,Egypt,Cairo Governorate,,Cairo
 41.65.234.152,4,-17,DNS Server: HOST-152-234.65.41.nile-online.net,EG,Africa,Northern Africa,Egypt,Cairo Governorate,,Cairo
 156.200.116.74,4,532120,DNS Server: host-156.200.116.74.tedata.net,EG,Africa,Northern Africa,Egypt,Qalyubia,,Banhā
 154.236.179.233,4,22769842,DNS Server: HOST-233-179.236.154.nile-online.net,EG,Africa,Northern Africa,Egypt,,,

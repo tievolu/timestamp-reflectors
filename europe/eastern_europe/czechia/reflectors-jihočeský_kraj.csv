@@ -1,7 +1,7 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 176.74.216.191,4,94,alahednews.com.lb,CZ,Europe,Eastern Europe,Czechia,Jihočeský kraj,České Budějovice District,České Budějovice
 62.168.1.149,4,-5,cai.cz,CZ,Europe,Eastern Europe,Czechia,Jihočeský kraj,České Budějovice District,České Budějovice
-176.74.220.164,4,296,ceskereality.cz,CZ,Europe,Eastern Europe,Czechia,Jihočeský kraj,České Budějovice District,České Budějovice
+176.74.220.164,4,0,ceskereality.cz,CZ,Europe,Eastern Europe,Czechia,Jihočeský kraj,České Budějovice District,České Budějovice
 176.74.220.134,4,12,ceskestavby.cz,CZ,Europe,Eastern Europe,Czechia,Jihočeský kraj,České Budějovice District,České Budějovice
 188.120.209.162,4,8,DNS Server: 209-ip-162.backer.cz,CZ,Europe,Eastern Europe,Czechia,Jihočeský kraj,Tábor District,Rataje
 188.120.209.62,4,29627,DNS Server: 209-ip-62.backer.cz,CZ,Europe,Eastern Europe,Czechia,Jihočeský kraj,Tábor District,Rataje
@@ -14,7 +14,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 176.74.217.163,4,4,metalexpert.com,CZ,Europe,Eastern Europe,Czechia,Jihočeský kraj,České Budějovice District,České Budějovice
 92.62.225.11,4,-5,Ookla Speedtest Server 9567: speedtest-10g.starnet.cz,CZ,Europe,Eastern Europe,Czechia,Jihočeský kraj,České Budějovice District,České Budějovice
 188.120.196.133,4,-6266,Ookla Speedtest Server 31243: speedtest.luckynet.cz,CZ,Europe,Eastern Europe,Czechia,Jihočeský kraj,České Budějovice District,České Budějovice
-188.120.220.120,4,87223,Ookla Speedtest Server: speed1.vyladeny.cz,CZ,Europe,Eastern Europe,Czechia,Jihočeský kraj,České Budějovice District,České Budějovice
+188.120.220.120,4,12805,Ookla Speedtest Server: speed1.vyladeny.cz,CZ,Europe,Eastern Europe,Czechia,Jihočeský kraj,České Budějovice District,České Budějovice
 95.80.230.253,4,2,Ookla Speedtest Server: speedtest.skylan.cz,CZ,Europe,Eastern Europe,Czechia,Jihočeský kraj,Tábor District,Veselí nad Lužnicí
 176.74.220.135,4,16,otacivehlediste.cz,CZ,Europe,Eastern Europe,Czechia,Jihočeský kraj,České Budějovice District,České Budějovice
 92.62.226.5,4,3,pcvcomp.cz,CZ,Europe,Eastern Europe,Czechia,Jihočeský kraj,České Budějovice District,České Budějovice
@@ -22,4 +22,4 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 176.74.219.29,4,6,ros-audit.com,CZ,Europe,Eastern Europe,Czechia,Jihočeský kraj,České Budějovice District,České Budějovice
 92.62.232.12,4,121108,visnove.cz,CZ,Europe,Eastern Europe,Czechia,Jihočeský kraj,České Budějovice District,České Budějovice
 176.74.220.136,4,13,zamky-hrady.cz,CZ,Europe,Eastern Europe,Czechia,Jihočeský kraj,České Budějovice District,České Budějovice
-176.74.220.60,4,8,zavuch.info,CZ,Europe,Eastern Europe,Czechia,Jihočeský kraj,České Budějovice District,České Budějovice
+176.74.220.60,4,0,zavuch.info,CZ,Europe,Eastern Europe,Czechia,Jihočeský kraj,České Budějovice District,České Budějovice

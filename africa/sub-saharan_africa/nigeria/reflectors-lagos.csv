@@ -6,7 +6,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 41.184.245.99,4,255,DNS Server: 41-184-245-99.rv.ipnxtelecoms.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
 167.88.51.245,4,-5,DoH server: dnscry.pt-ikeja-ipv4,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
 176.97.192.12,4,-1,DoH server: dnscry.pt-lagos-ipv4,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
-154.113.177.235,4,43,newscentral.africa,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
+154.113.177.235,4,-2,newscentral.africa,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
 154.113.167.234,4,23,Ookla Speedtest Server 2617: speed.mainonecable.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
 41.184.56.234,4,7,Ookla Speedtest Server 6618: speedtest1.ipnxnigeria.net,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos
 196.207.11.25,4,7,Ookla Speedtest Server 8616: speedtest.netcomafrica.com,NG,Africa,Sub-Saharan Africa,Nigeria,Lagos,,Lagos

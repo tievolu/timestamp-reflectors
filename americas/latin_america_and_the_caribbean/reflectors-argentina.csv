@@ -1,36 +1,34 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 45.162.171.201,4,-2,aader.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 170.155.20.15,4,15728544,abc.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,La Plata
-167.250.5.65,4,6,acampante.com,AR,Americas,Latin America and the Caribbean,Argentina,,,
-181.119.48.15,4,6,acara.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
+167.250.5.65,4,-4,acampante.com,AR,Americas,Latin America and the Caribbean,Argentina,,,
+181.119.48.15,4,0,acara.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 168.181.186.107,4,11,accion.coop,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 66.97.44.237,4,-3,adepa.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-179.43.122.22,4,-13,adepa.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 138.36.238.139,4,-32,agenciapresentes.org,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 45.162.169.47,4,15,agendasalta.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 193.233.63.3,4,13,agroxxi.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 200.58.98.217,4,-6,ahira.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 45.162.171.192,4,5,ahrcc.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
-200.58.121.141,4,13845,aica.org,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
+200.58.121.141,4,62042,aica.org,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 167.250.5.72,4,10,ajalar.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 200.55.33.35,4,23,alfabeta.net,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 190.106.134.178,4,-5,alsurweb.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 149.50.135.80,4,-1191,altavistawines.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 138.255.88.25,4,-3,altermundi.net,AR,Americas,Latin America and the Caribbean,Argentina,,,
-190.105.151.228,4,2,amailing.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
+190.105.151.228,4,-6,amailing.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 149.78.141.228,4,3088844,amsafe.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 190.183.221.236,4,1,amur.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Paraná
 190.183.221.238,4,1,amur.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Paraná
 190.183.221.237,4,6,amur.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Paraná
-200.51.93.116,4,37,anlis.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
+200.51.93.116,4,-5,anlis.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 45.227.160.222,4,8,apasionadasxlamoda.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
-193.233.63.34,4,2,area-sar.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
+193.233.63.34,4,27,area-sar.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 149.50.142.178,4,-6,areasteel.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 200.123.128.78,4,-8,argentinainvestiga.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 186.123.100.105,4,26434674,argentinaroom.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Avellaneda
 190.210.152.167,4,-38826,argentinosporlaeducacion.org,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
-66.97.44.241,4,-46938,asaeca.org,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-167.250.5.56,4,529,asice.se,AR,Americas,Latin America and the Caribbean,Argentina,,,
+167.250.5.56,4,-582,asice.se,AR,Americas,Latin America and the Caribbean,Argentina,,,
 66.97.38.80,4,-43086,asivamosensalud.org,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 168.181.184.17,4,0,asmgyf.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 149.50.128.20,4,9,auda.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
@@ -40,33 +38,30 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 200.58.126.226,4,14,avmartinmalharro.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 45.162.169.177,4,-370943,avnam.net,AR,Americas,Latin America and the Caribbean,Argentina,,,
 167.250.5.25,4,-13,axxon.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
-181.88.192.77,4,9,barbini.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Corrientes,,Corrientes
-167.250.5.27,4,0,bariloche.com,AR,Americas,Latin America and the Caribbean,Argentina,,,
+181.88.192.77,4,-2,barbini.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Corrientes,,Corrientes
+167.250.5.27,4,-2,bariloche.com,AR,Americas,Latin America and the Caribbean,Argentina,,,
 128.201.111.220,4,-11,bariloche.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Rio Negro,,Bariloche
-190.228.29.15,4,18,barrachina.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Las Toscas
+190.228.29.15,4,-1,barrachina.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Las Toscas
 179.43.112.160,4,-11,bdkdesign.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 193.233.63.122,4,-6,bi-bi.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 149.50.139.219,4,12,bingosanvicente.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
-200.80.43.211,4,-2,bodegacolome.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
-190.2.34.5,4,15,bolsadecereales.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
+190.2.34.5,4,6,bolsadecereales.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 149.104.79.39,4,-5,bubbachunks.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,
 149.78.140.171,4,616,campananoticias.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 149.50.128.192,4,22,campusinda.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 45.227.162.177,4,-5,canalabierto.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 170.78.75.97,4,-405,canaltrans.com,AR,Americas,Latin America and the Caribbean,Argentina,,,
-200.68.105.39,4,5,cari.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
+200.68.105.39,4,3,cari.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 186.65.103.69,4,16327962,cartapacio.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Azul
 181.225.136.110,4,-25,catedraldelosmilagros.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,San Telmo
-66.97.37.127,4,-507496,cavenas.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-66.97.34.172,4,-133933,cedes.org,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 200.58.107.32,4,-5,ceg.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 190.103.192.17,4,-8,celt.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Tornquist
 167.250.5.52,4,-31,centroanafrank.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 179.43.119.18,4,-18,chacodiapordia.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-167.250.5.73,4,1,chicos.net,AR,Americas,Latin America and the Caribbean,Argentina,,,
+167.250.5.73,4,-7,chicos.net,AR,Americas,Latin America and the Caribbean,Argentina,,,
 149.50.159.176,4,-4,cholilaonline.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
-168.205.92.54,4,0,cifrasonline.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
-186.0.229.34,4,4,cij.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
+168.205.92.54,4,-3,cifrasonline.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
+186.0.229.34,4,-3,cij.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 181.88.192.65,4,8,cimientos.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Corrientes,,Corrientes
 190.7.61.149,4,3,ciudaddecorrientes.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Campana
 181.88.192.146,4,-9,clasedigital.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Corrientes,,Corrientes
@@ -82,7 +77,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 190.61.219.75,4,312776,contartese.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 186.33.216.37,4,-1,cordoba.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Benavídez
 200.58.107.97,4,-4,costanerabike.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-193.233.63.75,4,-11,cowonamerica.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 66.97.33.185,4,-9,crea.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 190.104.218.28,4,1,cta.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,
 66.97.36.150,4,1399,cuartopodersalta.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
@@ -92,10 +86,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 209.13.159.138,4,-18,defensorba.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 45.227.161.190,4,105976,defensoria.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 186.189.236.67,4,-15,deitglobal.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
-149.50.129.96,4,226,desarrollomor.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
+149.50.129.96,4,0,desarrollomor.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 167.250.5.38,4,-12,deyvel.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 66.97.44.165,4,-168425,dinamomultimedia.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-149.50.133.44,4,-922,dixitp.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 200.24.249.1,4,10267,DNS Server: 1-249-24-200.comodoro.net,AR,Americas,Latin America and the Caribbean,Argentina,Chubut,,Comodoro Rivadavia
 181.171.232.10,4,-298455,DNS Server: 10-232-171-181.fibertel.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,
 181.209.101.10,4,-54290,DNS Server: 10.101.209.181.in-addr.arpa,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Victoria
@@ -240,7 +233,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 190.123.85.89,4,-7,DNS Server: host89.190-123-85.sitsanetworks.net,AR,Americas,Latin America and the Caribbean,Argentina,Cordoba,,Río Cuarto
 190.96.116.90,4,25,DNS Server: Host90-116.epectelco.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Cordoba,,Córdoba
 200.115.48.90,4,-1,DNS Server: host90-48.115-200.mail.arcoop.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Cordoba,,Etruria
-181.105.120.94,4,-2145895448,DNS Server: host94.181-105-120.telecom.net.ar,AR,Americas,Latin America and the Caribbean,Argentina,Tucuman,,San Miguel de Tucumán
 181.10.181.99,4,-5,DNS Server: host99.181-10-181.telecom.net.ar,AR,Americas,Latin America and the Caribbean,Argentina,Chaco,,Barranqueras
 200.59.236.202,4,-4,DNS Server: inalambrico202-236-centenario.neunet.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Neuquen,,Centenario
 181.10.198.131,4,-3,DNS Server: mail.granix.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Arocena
@@ -263,7 +255,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 190.104.196.62,4,-4323,DNS Server: static.62.196.104.190.cps.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,
 170.150.155.85,4,59593,DNS Server: static.85.155.150.170.cps.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,
 170.210.4.222,4,142,DNS Server: unab-riu-500M.ALMIRANTE-BROWN.riu.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,
-193.233.63.176,4,-11,dprofile.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 200.68.105.36,4,6977,drapaulaontivero.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 190.228.29.91,4,3,edisan.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Las Toscas
 168.197.50.214,4,3,editorialelateneo.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
@@ -278,8 +269,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 66.97.38.42,4,-7,elroldanense.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 138.219.42.52,4,-41613,emb.cl,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 200.58.103.3,4,8,empaklo.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-168.181.187.28,4,-3556,enfasys.net,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-200.58.122.155,4,2,envialosimple.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
+200.58.122.155,4,-4,envialosimple.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 179.43.123.131,4,-5,escuelajulioverne.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 45.162.171.11,4,-18,espaciomemoria.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 186.148.128.86,4,-6,ETERNET S.R.L.,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Bahía Blanca
@@ -292,7 +282,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 167.250.5.67,4,-10,fce.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 179.43.114.66,4,7,fedefutbol.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 66.97.45.80,4,2,feminacida.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-181.88.192.61,4,9,ferre-compras.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Corrientes,,Corrientes
 193.233.63.67,4,4,fight.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 167.250.5.92,4,-10,filba.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 149.50.138.166,4,5248,firstrainingsalud.edu.pe,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
@@ -303,12 +292,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 190.183.223.98,4,32,fmmail.in,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Paraná
 179.43.126.229,4,28,fund.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 149.50.141.110,4,-5,gacetamarinera.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
-200.58.105.21,4,-4,gacetamarinera.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 168.197.48.23,4,-3,gaiacoop.tech,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 151.101.219.10,4,-33,galicia.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
-45.227.161.35,4,14,garrahan.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
+45.227.161.35,4,0,garrahan.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 190.57.234.194,4,19,Gigared S.A.,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
-149.50.135.60,4,76307,globalports.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
+149.50.135.60,4,503193,globalports.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 193.233.63.49,4,19,glory-casino.mobi,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 66.97.41.245,4,-22284,guiacomercialcrespo.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 45.227.160.39,4,-3,guiacores.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
@@ -331,9 +319,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 186.33.208.223,4,2,infd.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Benavídez
 149.50.132.145,4,240426,infoplatense.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 66.97.40.15,4,-385,inforegion.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-200.45.208.143,4,55184,informoto.com,AR,Americas,Latin America and the Caribbean,Argentina,,,
-200.51.96.75,4,3,inidep.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Mar del Plata
-149.50.138.230,4,499,institutoavanzar.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
+200.45.208.143,4,106567,informoto.com,AR,Americas,Latin America and the Caribbean,Argentina,,,
+200.51.96.75,4,-2,inidep.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Mar del Plata
+149.50.138.230,4,1,institutoavanzar.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 200.68.105.224,4,-9,institutotezza.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 66.97.47.211,4,-441322,instmanuellucero.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 200.58.105.221,4,290,invap.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
@@ -357,35 +345,31 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 168.197.49.246,4,-274004,lapulseada.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 200.43.130.208,4,5,larioja.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Cordoba,,Córdoba
 200.58.100.61,4,-386851,larural.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-200.68.105.151,4,4,lasretamasapart.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
+200.68.105.151,4,3,lasretamasapart.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 168.197.48.122,4,92845,latecla.info,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 66.97.42.250,4,-3993,latecla.info,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 167.250.5.71,4,3,latinta.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
-66.97.44.166,4,-38360,lavozdecipolletti.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 66.97.35.68,4,6,lobosuelto.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-200.58.126.17,4,-30,lobosuelto.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 179.43.121.24,4,0,lomasac.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 190.122.240.127,4,5,lt10.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Santa Fe
 200.58.105.7,4,-1,marambio.aq,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 181.88.192.45,4,43,margen.org,AR,Americas,Latin America and the Caribbean,Argentina,Corrientes,,Corrientes
-181.88.192.16,4,26,maximaonline.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Corrientes,,Corrientes
+181.88.192.16,4,0,maximaonline.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Corrientes,,Corrientes
 167.250.5.4,4,-8,maximilianoperet.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 170.80.24.6,4,-3,mdp.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Mar del Plata
 200.80.43.108,4,-1,medicinabuenosaires.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
-181.88.192.37,4,7,mermaco.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Corrientes,,Corrientes
+181.88.192.37,4,0,mermaco.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Corrientes,,Corrientes
 181.225.136.74,4,-19,mesi.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,San Telmo
 193.233.63.107,4,0,metaratings.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-200.68.105.13,4,2351,mibenjamin.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
+200.68.105.13,4,792,mibenjamin.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 200.0.228.212,4,311,miituzaingo.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 149.50.138.46,4,37519,minaclavero.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 193.233.63.29,4,-8,mosoblbank.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-149.50.132.114,4,-107637,museomoderno.org,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 167.250.5.48,4,0,na.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 181.88.192.145,4,0,naturalezaparaelfuturo.org,AR,Americas,Latin America and the Caribbean,Argentina,Corrientes,,Corrientes
 179.43.121.161,4,1,necochea.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 167.250.5.100,4,0,nestorhugofuentes.com,AR,Americas,Latin America and the Caribbean,Argentina,,,
-167.250.5.6,4,808,nestorhugofuentes.com,AR,Americas,Latin America and the Caribbean,Argentina,,,
-190.57.234.86,4,-131430,newellsoldboys.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
+167.250.5.6,4,198,nestorhugofuentes.com,AR,Americas,Latin America and the Caribbean,Argentina,,,
 167.250.5.80,4,12,noalamina.org,AR,Americas,Latin America and the Caribbean,Argentina,,,
 119.8.73.110,4,-16,norton.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,
 45.227.161.88,4,17,notaalpie.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
@@ -393,10 +377,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 168.181.186.117,4,794122,notitarde.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 190.210.10.34,4,3,nuevachevallier.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 149.50.140.131,4,-1,nuevodiariodesalta.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
-190.105.144.56,4,2,nutmailer.com,AR,Americas,Latin America and the Caribbean,Argentina,,,
+190.105.144.56,4,-4,nutmailer.com,AR,Americas,Latin America and the Caribbean,Argentina,,,
 193.233.63.124,4,37,ocm.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 200.73.130.245,4,6,olavarria.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
-200.80.43.55,4,-1,oma.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 168.196.25.241,4,78356249,Ookla Speedtest Server 787: speedtest.gc-group.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Rio Negro,,San Antonio Oeste
 190.55.63.66,4,3058,Ookla Speedtest Server 900: velocidad.telecentro.net.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Partido de La Matanza
 45.229.31.230,4,-3,Ookla Speedtest Server 1472: speedtest.sectornet.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Mar del Plata
@@ -550,26 +533,25 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 200.58.108.170,4,34,pad19.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 45.227.160.126,4,2,panamericano.us,AR,Americas,Latin America and the Caribbean,Argentina,,,
 149.50.143.198,4,0,paselaboral.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
-45.173.0.64,4,32,pergaminovirtual.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
+45.173.0.64,4,3,pergaminovirtual.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 66.97.45.129,4,-50876,perspectivasur.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 66.97.32.6,4,-224835,petrolnews.net,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 193.233.63.38,4,12,poker1.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 193.233.63.177,4,8,pokercashers.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 193.233.63.13,4,22,pokerhouse.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 138.0.104.2,4,-1,ppn.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
-181.88.192.116,4,35,primegame.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Corrientes,,Corrientes
+181.88.192.116,4,0,primegame.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Corrientes,,Corrientes
 181.88.192.107,4,2,produccion-animal.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Corrientes,,Corrientes
 179.0.151.50,4,5,provincianet.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
-181.88.192.140,4,12,proxerweb.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Corrientes,,Corrientes
+181.88.192.140,4,-1,proxerweb.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Corrientes,,Corrientes
 200.80.42.181,4,8,puertobahiablanca.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
-200.80.42.219,4,47,puntoip.info,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
+200.80.42.219,4,-1,puntoip.info,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 193.233.63.216,4,-9,pwnet.org,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 190.210.98.12,4,6,qmto.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 190.104.195.170,4,50774,quilmes.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,
 204.199.3.7,4,1292,radiocanal.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Cordoba,,San Francisco
-149.50.130.30,4,-16,radiorsp.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 45.162.169.213,4,7,raovet.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
-190.210.186.138,4,36,raovet.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
+190.210.186.138,4,5,raovet.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 200.123.144.22,4,4,rapipago.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 181.88.192.168,4,4,razonyrevolucion.org,AR,Americas,Latin America and the Caribbean,Argentina,Corrientes,,Corrientes
 66.97.40.5,4,-159985,realplanning.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
@@ -580,35 +562,32 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 190.106.134.254,4,17,republicahosting.com,AR,Americas,Latin America and the Caribbean,Argentina,,,
 179.43.112.73,4,1,residencialospinos.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 190.228.29.85,4,6,revistacts.net,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Las Toscas
-45.167.121.53,4,66,rewildingargentina.org,AR,Americas,Latin America and the Caribbean,Argentina,,,
-190.226.250.149,4,40,rhrecursos.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
+45.167.121.53,4,-848,rewildingargentina.org,AR,Americas,Latin America and the Caribbean,Argentina,,,
+190.226.250.149,4,-1,rhrecursos.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 170.210.5.66,4,14,riu.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,
 168.96.15.24,4,20,rosario-conicet.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 200.58.126.145,4,2,ruibalgames.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 193.233.63.39,4,25,rushydro.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-200.61.169.5,4,6,safaesperanza.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
+200.61.169.5,4,3,safaesperanza.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 200.80.43.221,4,16,sagselatam.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 193.233.63.173,4,5,sakh.online,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 45.235.89.63,4,17,salta.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
-45.235.88.66,4,-296327,salta.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
-190.57.236.203,4,40,santafeciudad.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
+190.57.236.203,4,-2,santafeciudad.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 167.250.5.53,4,9,sarem.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 200.43.236.170,4,4,scba.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Misiones,,Oberá
 168.96.248.140,4,-1281291,scielo.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,La Plata
-190.57.226.237,4,6,secundaria9rg.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
-167.250.5.9,4,471,servicomint.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
+190.57.226.237,4,-3,secundaria9rg.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
+167.250.5.9,4,-7,servicomint.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 179.43.124.74,4,8,servitecalisto.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 200.45.208.17,4,5,sitiosargentina.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 200.123.128.68,4,34,siu.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
-193.233.63.88,4,-3,skladchina.biz,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 45.169.250.90,4,3640,smartalk.cl,AR,Americas,Latin America and the Caribbean,Argentina,,,
-200.80.43.5,4,1,smarthings.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
+200.80.43.5,4,-1,smarthings.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 45.227.160.143,4,502787,smartmail.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 200.58.105.69,4,3,sna.org.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 149.50.134.204,4,11,spacemakereducacion.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 193.233.63.101,4,31,sportclan.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 181.225.136.140,4,6,stratocat.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,San Telmo
-66.97.34.245,4,-454247,surfinglatino.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 193.233.63.180,4,-9,surgutneftegas.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 200.10.113.125,4,-20,susanabalbowines.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 149.50.131.102,4,12,tageblatt.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
@@ -625,7 +604,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 181.88.192.162,4,15,totalmedios.com,AR,Americas,Latin America and the Caribbean,Argentina,Corrientes,,Corrientes
 200.80.43.16,4,-3,towebs.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 193.233.63.170,4,33,travellikeavegan.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-190.183.218.25,4,28,trivento.com,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Paraná
+190.183.218.25,4,2536,trivento.com,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Paraná
 149.50.133.143,4,-4,tuaiti.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 200.61.218.69,4,2334,tucuman.gov.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,La Plata
 190.210.98.76,4,12,tudorplace.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
@@ -636,7 +615,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 168.181.187.13,4,3195,tynmagazine.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 190.220.158.69,4,13,ub.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 200.10.181.13,4,23,ucasal.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
-181.117.7.38,4,-3,ucel.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 190.210.238.97,4,0,ucema.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 200.10.120.253,4,-11,ucema.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,Buenos Aires
 186.153.137.163,4,47,ucse.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
@@ -647,8 +625,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 177.200.236.55,4,19,unaj.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 170.210.156.92,4,19,uncaus.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,
 170.210.81.62,4,179365,uncoma.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,
-200.58.105.230,4,-28,undef.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-200.61.248.118,4,1,uner.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Concepción del Uruguay
+200.61.248.118,4,-3,uner.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Concepción del Uruguay
 170.210.232.249,4,6,unf.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,
 181.88.192.41,4,12,unidadesbariatricas.com,AR,Americas,Latin America and the Caribbean,Argentina,Corrientes,,Corrientes
 179.0.132.58,4,1844,unidiversidad.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Mendoza,,Mendoza
@@ -657,22 +634,21 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 190.122.241.31,4,13,unl.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Santa Fe
 170.210.104.16,4,11050992,unlz.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,
 200.124.178.2,4,11,unnoba.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Junín
-45.227.162.172,4,35,uno-propiedades.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
+45.227.162.172,4,3,uno-propiedades.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 207.248.74.35,4,9,unq.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,Bernal
-170.210.224.6,4,2,unse.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,
+170.210.224.6,4,0,unse.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,
 190.122.236.205,4,9,unsl.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,San Luis,,Juana Koslay
 200.124.112.2,4,9,unvm.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 216.244.195.11,4,32,uolsinectis.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Chubut,,Comodoro Rivadavia
 45.235.89.62,4,5,upateco.edu.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 190.105.145.201,4,3,utadeo.edu.co,AR,Americas,Latin America and the Caribbean,Argentina,,,
 149.104.77.251,4,14,utecgreenwineworld.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires,,
-193.233.63.30,4,-9,vbrr.ru,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 66.97.39.163,4,-45457,victoriabaeza.com,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
 167.250.5.35,4,6,villalosaromos.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,,,
 179.43.122.17,4,1,visitsalta.ar,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario
-45.227.162.181,4,3,vocabularyserver.com,AR,Americas,Latin America and the Caribbean,Argentina,,,
+45.227.162.181,4,6722,vocabularyserver.com,AR,Americas,Latin America and the Caribbean,Argentina,,,
 149.50.132.232,4,7,waki.com.ar,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
-190.7.19.43,4,1,wearedrew.co,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Paraná
+190.7.19.43,4,-2,wearedrew.co,AR,Americas,Latin America and the Caribbean,Argentina,Entre Rios,,Paraná
 149.50.159.66,4,14,welcomeargentina.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 149.50.132.90,4,99595,welcomeuruguay.com,AR,Americas,Latin America and the Caribbean,Argentina,Buenos Aires F.D.,,
 179.60.232.10,4,-3210,WICORP SA,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Rosario

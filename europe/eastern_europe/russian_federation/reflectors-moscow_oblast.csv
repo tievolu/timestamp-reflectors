@@ -1,13 +1,11 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 46.61.247.174,4,-5,advita.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,
 194.87.238.48,4,-4,aisory.tech,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Korolyov
-194.87.98.14,4,69,aramed.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Korolyov
 194.87.235.36,4,9,astatix.com,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Korolyov
 194.106.197.38,4,8508,avangardmet.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Podolsk
 92.38.224.125,4,-1,bankrotstvo-476.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Lyubertsy
-92.38.224.137,4,-6,belbagno.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Lyubertsy
-188.126.44.223,4,3776,bmw-donbass.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Domodedovo
-192.162.103.116,4,5,botmasterlabs.net,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,
+188.126.44.223,4,4823,bmw-donbass.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Domodedovo
+192.162.103.116,4,-29,botmasterlabs.net,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,
 188.126.45.66,4,-9,dillmart.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Domodedovo
 94.143.41.15,4,9,dj.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Vidnoye
 185.39.114.88,4,5,dlh.net,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Sergiyev Posad
@@ -19,9 +17,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 31.135.86.100,4,-3,DNS Server: 31.135.86.100,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Mytishchi
 31.135.92.50,4,65495370,DNS Server: 31.135.92.50,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Mytishchi
 46.150.165.124,4,5867,DNS Server: 46-150-165-124.broadband.opcom.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Mytishchi
-46.150.180.9,4,3538,DNS Server: 46-150-180-9.broadband.opticom.net,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Mytishchi
+46.150.180.9,4,4736,DNS Server: 46-150-180-9.broadband.opticom.net,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Mytishchi
 46.150.191.57,4,2,DNS Server: 46-150-191-57.cvlan.opticom.net,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Mytishchi
-93.157.172.153,4,54,DNS Server: 93-157-172-153.avk-wellcom.com,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Kotel'niki
+93.157.172.153,4,4,DNS Server: 93-157-172-153.avk-wellcom.com,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Kotel'niki
 93.157.235.27,4,7348,DNS Server: 93-157-235-27.static.ip-home.net,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Tomilino
 94.253.113.143,4,-825276770,DNS Server: 94-253-113-143.dynvpn.flex.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Noginsk
 89.23.192.96,4,5,DNS Server: 96z192.klimovsk.net,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Klimovsk
@@ -41,7 +39,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 95.84.189.74,4,106066,DNS Server: corpperson-95-84-189-74.ip.moscow.rt.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Ramenskoye
 109.94.3.101,4,32970,DNS Server: host-3-101.podolsknet.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Podolsk
 77.91.194.104,4,37679,DNS Server: host-77.91.194.104.vernet.su,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Korolyov
-77.91.195.121,4,10350,DNS Server: host-77.91.195.121.vernet.su,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Korolyov
+77.91.195.121,4,31182,DNS Server: host-77.91.195.121.vernet.su,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Korolyov
 77.91.196.86,4,24544,DNS Server: host-77.91.196.86.vernet.su,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Korolyov
 79.164.223.172,4,14084133,DNS Server: host-79-164-223-172.qwerty.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Lobnya
 79.164.32.142,4,37893,DNS Server: host-79-164-32-142.qwerty.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Mytishchi
@@ -74,23 +72,20 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.236.141.89,4,-11,geocaching.su,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Chekhov
 212.45.26.154,4,-887823,geospace.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Mytishchi
 213.219.205.157,4,270,gigatran.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Lytkarino
-79.164.37.242,4,54432,go-power.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Mytishchi
-217.76.40.147,4,-12,gosfilmofond.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Chekhov
+79.164.37.242,4,0,go-power.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Mytishchi
 46.39.225.193,4,-17,gta.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,
-92.38.235.217,4,128746,happywitch.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Lyubertsy
+92.38.235.217,4,196915,happywitch.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Lyubertsy
 213.108.196.222,4,-17,ib.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,
-89.169.157.149,4,3,investfuture.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,
-94.253.94.8,4,12,itkm.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Ivanteyevka
+89.169.157.149,4,2,investfuture.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,
+94.253.94.8,4,20,itkm.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Ivanteyevka
 46.175.30.55,4,-1,kob.su,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Zvenigorod
 77.91.195.210,4,-15,kudel.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Korolyov
-176.111.72.11,4,38374,link-tel.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Dolgoprudny
-46.39.232.178,4,8,losinyiostrov.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,
-213.79.122.52,4,-6660,lustrof.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,
-194.87.92.107,4,22,magazin-holoda.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Korolyov
+176.111.72.11,4,0,link-tel.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Dolgoprudny
+46.39.232.178,4,-25,losinyiostrov.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,
+194.87.92.107,4,-9,magazin-holoda.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Korolyov
 185.58.205.1,4,-1204,mpti.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,
 194.87.236.104,4,-22,nedorogo-kuhni.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Korolyov
 194.87.248.53,4,235133,nison.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Korolyov
-77.91.199.58,4,-7,Ookla Speedtest Server 4548: speedtest.vermont-it.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Korolyov
 194.34.99.243,4,35,Ookla Speedtest Server 4702: st1.proximanet.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Voskresensk
 194.34.99.244,4,13,Ookla Speedtest Server 4735: st2.proximanet.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Voskresensk
 176.97.160.76,4,4,Ookla Speedtest Server 6184: speedtest.kaspiytelekom.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Dmitrov
@@ -109,18 +104,16 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 95.154.128.19,4,49,Ookla Speedtest Server: speedtest.vosnet.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Voskresensk
 194.87.101.20,4,20,original-isos.online,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Korolyov
 81.5.88.162,4,-45,paragon.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Dolgoprudny
-93.175.31.142,4,50,phystech.edu,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Dolgoprudny
-77.51.201.13,4,5,pogranec.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Balashikha
 95.163.25.106,4,20,pokrishka.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Reutov
 212.45.19.98,4,11,psychiatry.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Mytishchi
-109.94.1.2,4,37,quartztelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Podolsk
+109.94.1.2,4,7,quartztelecom.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Podolsk
 46.61.247.144,4,-26,rustelecom-museum.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,
-46.61.143.6,4,5,sibmama.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,
-77.91.195.135,4,7,sky-water.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Korolyov
-46.61.232.34,4,4,smbn.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,
+46.61.143.6,4,3,sibmama.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,
+77.91.195.135,4,-24,sky-water.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Korolyov
+46.61.232.34,4,82,smbn.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,
 92.38.224.98,4,6,smi44.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Lyubertsy
-46.61.199.56,4,4,sphf.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,
-194.87.232.87,4,110589,sportivnoepitanie.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Korolyov
+46.61.199.56,4,13,sphf.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,
+194.87.232.87,4,137733,sportivnoepitanie.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Korolyov
 194.63.142.103,4,-1829572,starterkit.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,
 194.87.94.136,4,2,tardyon.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Korolyov
 176.192.194.46,4,4297150,telescopicdamper.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Serpukhov
@@ -129,4 +122,4 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 109.94.0.75,4,7,tvpodolsk.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Podolsk
 178.213.112.69,4,622,vshk.ru,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Shchyolkovo
 176.62.191.19,4,-35,xn--80apydf.xn--p1ai,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,Istra
-46.61.232.35,4,408,xn--l1agf.xn--p1ai,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,
+46.61.232.35,4,476,xn--l1agf.xn--p1ai,RU,Europe,Eastern Europe,Russian Federation,Moscow Oblast,,

@@ -1,13 +1,12 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 62.219.58.168,4,-6,a-2-z.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 81.218.117.93,4,0,acousticplus.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
-81.218.117.82,4,60,archives.gov.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+81.218.117.82,4,1,archives.gov.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 212.80.205.67,4,33,bezalel.ac.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 62.90.75.133,4,16,casinos.fyi,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
-212.199.177.172,4,5,chinanewsline.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+212.199.177.172,4,-5,chinanewsline.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 62.219.58.243,4,323,cinema.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 62.90.75.197,4,-6,civileng.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
-185.131.144.182,4,-2,comc.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 88.218.117.53,4,-13,daroma.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 2.55.123.133,4,27059627,DNS Server: 2-55-123-133.orange.net.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 2.55.125.80,4,20953860,DNS Server: 31-154-125-80.orange.net.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
@@ -28,7 +27,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 192.115.82.200,4,-3,e-vrit.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Giv‘atayim
 88.218.117.134,4,-15,farbr.co,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 81.218.117.73,4,-2,geokg.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
-80.179.142.74,4,-1,hebron.org.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Bnei Brak
 185.131.144.174,4,2,hias.org.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 80.179.226.37,4,704,hma.org.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 62.219.58.242,4,-6,homeswitchome.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
@@ -37,7 +35,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 88.218.117.79,4,-40,icpas.org.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 88.218.117.196,4,-14,ipo.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 62.219.50.49,4,-7,isracast.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
-199.203.52.202,4,10050340,isratrance.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 88.218.117.88,4,-1,jerusalemfoundation.org,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 80.179.142.66,4,-32,jerusaleminstitute.org.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Bnei Brak
 188.191.147.117,4,-18,jerusalemstoneart.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
@@ -46,7 +43,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 62.219.58.137,4,-4,machinerynews.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 212.80.205.130,4,4,masa.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 185.253.72.180,4,0,mc-avodotafar.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
-185.37.148.221,4,984,musictalk.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 185.241.7.75,4,-2,nammal-sleep.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 80.179.226.44,4,0,nana10.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 91.223.106.242,4,1,ocean.org.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
@@ -58,12 +54,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 82.166.201.37,4,-858726,Ookla Speedtest Server: speed.013.net,IL,Asia,Western Asia,Israel,Tel Aviv,,Ramat Gan
 80.179.148.114,4,11,opgal.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Ramat Gan
 185.229.226.165,4,30,pastaricco.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
-88.218.117.49,4,36,pitsou.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+88.218.117.49,4,-5,pitsou.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 62.219.58.249,4,-13,productx.org,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
-80.179.140.151,4,8,reader.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Bnei Brak
+80.179.140.151,4,-5,reader.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Bnei Brak
 88.218.117.30,4,-26,rs-nadlan.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 88.218.117.120,4,-1,shvoong.co.il,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
-88.218.117.138,4,13,traduc71.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
+88.218.117.138,4,-4,traduc71.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 163.171.213.13,4,12,usafis.org,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 46.121.239.135,4,4483,visualartists.ru,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 199.203.51.141,4,7,weberdev.com,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv

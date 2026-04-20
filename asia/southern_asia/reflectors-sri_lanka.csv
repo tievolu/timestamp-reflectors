@@ -13,6 +13,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.140.194.110,4,1,orelstudio.com,LK,Asia,Southern Asia,Sri Lanka,,,
 192.248.95.74,4,35,rjt.ac.lk,LK,Asia,Southern Asia,Sri Lanka,North Western Province,Kurunegala District,Kuliyapitiya
 192.248.1.163,4,39,seu.ac.lk,LK,Asia,Southern Asia,Sri Lanka,Western Province,Colombo District,Maharagama
-103.140.194.254,4,85,sltda.gov.lk,LK,Asia,Southern Asia,Sri Lanka,,,
+103.140.194.254,4,-3,sltda.gov.lk,LK,Asia,Southern Asia,Sri Lanka,,,
 192.248.8.87,4,-57,uom.lk,LK,Asia,Southern Asia,Sri Lanka,Western Province,Colombo District,Maharagama
 192.248.93.7,4,5966310,uwu.ac.lk,LK,Asia,Southern Asia,Sri Lanka,North Western Province,Kurunegala District,Kuliyapitiya

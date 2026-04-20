@@ -1,19 +1,19 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-91.206.200.100,4,7,1k.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-195.137.240.100,4,10,1plus1.ua,UA,Europe,Eastern Europe,Ukraine,,,
-195.137.240.80,4,5,1plus1.ua,UA,Europe,Eastern Europe,Ukraine,,,
+91.206.200.100,4,-1,1k.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+195.137.240.100,4,1,1plus1.ua,UA,Europe,Eastern Europe,Ukraine,,,
+195.137.240.80,4,0,1plus1.ua,UA,Europe,Eastern Europe,Ukraine,,,
 193.47.166.145,4,17,1tvcrimea.ru,UA,Europe,Eastern Europe,Ukraine,Crimea,,
 185.68.16.174,4,-11,1win-azerbaycan.az,UA,Europe,Eastern Europe,Ukraine,,,
-31.41.220.94,4,6,20.ua,UA,Europe,Eastern Europe,Ukraine,,,
+31.41.220.94,4,1,20.ua,UA,Europe,Eastern Europe,Ukraine,,,
 195.137.240.82,4,0,2plus2.ua,UA,Europe,Eastern Europe,Ukraine,,,
 195.137.240.102,4,3,2plus2.ua,UA,Europe,Eastern Europe,Ukraine,,,
 45.94.156.222,4,-3,30jili-casino.com,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 176.114.8.34,4,-8,34.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
 194.1.182.7,4,563,4caraudio.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.156.42.96,4,3,4caraudio.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.156.42.96,4,0,4caraudio.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 176.114.7.77,4,3,4mama.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
-212.111.214.34,4,6,5246.cc,UA,Europe,Eastern Europe,Ukraine,,,
-212.111.214.100,4,4,5246.cc,UA,Europe,Eastern Europe,Ukraine,,,
+212.111.214.34,4,0,5246.cc,UA,Europe,Eastern Europe,Ukraine,,,
+212.111.214.100,4,7,5246.cc,UA,Europe,Eastern Europe,Ukraine,,,
 62.182.86.117,4,97232,72media.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.26,4,6,7910.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 178.20.157.249,4,-1,7kanal.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
@@ -21,12 +21,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 89.184.91.217,4,-12,a-service.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.159,4,-2,aarhusaffairs.dk,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.185,4,-16,ab3.army,UA,Europe,Eastern Europe,Ukraine,,,
-195.69.187.3,4,2,abcua.com,UA,Europe,Eastern Europe,Ukraine,,,
-185.104.45.141,4,4,abiznes.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-77.87.197.37,4,50,acoustic.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-212.26.128.166,4,6,adamant.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+195.69.187.3,4,-2,abcua.com,UA,Europe,Eastern Europe,Ukraine,,,
+185.104.45.141,4,0,abiznes.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+77.87.197.37,4,0,acoustic.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+212.26.128.166,4,1,adamant.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.39.224.102,4,22,adm.tools,UA,Europe,Eastern Europe,Ukraine,,,
-194.113.32.21,4,7,adv-sonata.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
+194.113.32.21,4,-1,adv-sonata.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
 89.184.65.78,4,5,adv.vg,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.6,4,0,advokats-zp.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.94.88,4,-2,aeroner.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
@@ -35,46 +35,46 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.191.25.136,4,31,agroperspectiva.com,UA,Europe,Eastern Europe,Ukraine,,,
 91.229.76.76,4,-16,agrostory.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 77.222.146.244,4,-339,ais.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-95.67.18.75,4,105,alfakid.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-194.28.86.136,4,4,alfasmartagro.com,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.124,4,80,all3dp.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+95.67.18.75,4,0,alfakid.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+194.28.86.136,4,0,alfasmartagro.com,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.124,4,0,all3dp.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.76.34,4,70,allbible.info,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 5.181.161.20,4,15,alphaservesp.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.22,4,-6,altelaw.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.132,4,-19,ameldental.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.52,4,-28,americanenglish.ua,UA,Europe,Eastern Europe,Ukraine,,,
-77.87.193.228,4,2,amf.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-77.87.195.192,4,10,amnu.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-89.184.73.148,4,8,amtool.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-89.184.74.27,4,26,amtool.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+77.87.193.228,4,1,amf.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+77.87.195.192,4,0,amnu.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.73.148,4,-1,amtool.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.74.27,4,0,amtool.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.69.154.8,4,39,andro-news.com,UA,Europe,Eastern Europe,Ukraine,,,
-91.196.0.29,4,14,annetflowers.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+91.196.0.29,4,2,annetflowers.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.67.1.91,4,27,anri-pharm.com,UA,Europe,Eastern Europe,Ukraine,,,
 194.28.85.100,4,-19,aph.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 45.12.3.62,4,11,apunkagames.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-89.184.94.60,4,68,armyinform.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.94.60,4,1,armyinform.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.124.10.74,4,-3,art-trade.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.98,4,-4,artslooker.com,UA,Europe,Eastern Europe,Ukraine,,,
 77.120.122.50,4,91534,artukraine.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-193.169.189.227,4,9,asiacentr.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+193.169.189.227,4,1,asiacentr.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 195.47.248.22,4,-2084,asmap.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 195.234.4.27,4,1,asmetalwork.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-31.128.78.134,4,118,assistant.ua,UA,Europe,Eastern Europe,Ukraine,,,
+31.128.78.134,4,0,assistant.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.75.176,4,-13,asterslaw.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-89.184.73.193,4,31,astorgold.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-5.181.161.54,4,41,asymptote.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.73.193,4,0,astorgold.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+5.181.161.54,4,-1,asymptote.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.162,4,-3,atlas-atv.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.156.43.190,4,73,atlasfestival.com,UA,Europe,Eastern Europe,Ukraine,,,
-185.104.45.122,4,4,atriusconcert.agency,UA,Europe,Eastern Europe,Ukraine,,,
+185.104.45.122,4,0,atriusconcert.agency,UA,Europe,Eastern Europe,Ukraine,,,
 185.67.1.8,4,995,atschool.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-77.87.196.116,4,30,aub.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+77.87.196.116,4,0,aub.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.65.247.153,4,35,auc.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 62.149.30.4,4,-14,auchan.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-93.190.45.6,4,57,audioheritage.net,UA,Europe,Eastern Europe,Ukraine,,,
-185.253.218.211,4,18,audipower.lv,UA,Europe,Eastern Europe,Ukraine,,,
-185.104.45.16,4,6,audit-invest.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+93.190.45.6,4,2,audioheritage.net,UA,Europe,Eastern Europe,Ukraine,,,
+185.253.218.211,4,-2,audipower.lv,UA,Europe,Eastern Europe,Ukraine,,,
+185.104.45.16,4,0,audit-invest.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 77.87.195.134,4,-2,autoboss.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-195.234.4.62,4,16,autodoka.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+195.234.4.62,4,0,autodoka.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 31.28.163.83,4,-6,autoklad.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.174.221.16,4,-29,autokraz.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.76.15,4,10,automisto24.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
@@ -85,25 +85,25 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 93.190.40.130,4,476,avtoradosti.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 5.181.161.79,4,-3,awem.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.160,4,-15,azolalegal.com,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.74.239,4,50,azov.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.67.1.92,4,38,babycenter.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+89.184.74.239,4,0,azov.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+185.67.1.92,4,1,babycenter.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.95.167,4,18,babydent.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-89.184.70.73,4,10,bacadelo.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.70.73,4,0,bacadelo.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 77.87.195.101,4,-5,banki.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 31.41.221.14,4,34,bar-library.com,UA,Europe,Eastern Europe,Ukraine,,,
-185.104.45.23,4,10,barometer.show,UA,Europe,Eastern Europe,Ukraine,,,
-185.65.246.22,4,3,baukron.com,UA,Europe,Eastern Europe,Ukraine,,,
+185.104.45.23,4,0,barometer.show,UA,Europe,Eastern Europe,Ukraine,,,
+185.65.246.22,4,-2,baukron.com,UA,Europe,Eastern Europe,Ukraine,,,
 91.195.53.16,4,17,bdf.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
 94.131.240.92,4,-16,bdpu.org,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.200.40.91,4,1586,beautybuy.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 5.181.161.12,4,-2,bebestschool.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.233.118.140,4,5,bellamozzarella.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.233.118.140,4,-1,bellamozzarella.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 195.248.234.5,4,10,besthosting.ua,UA,Europe,Eastern Europe,Ukraine,,,
 194.28.173.2,4,16,bestname.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.54,4,-7,bestsimilar.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.156.43.196,4,68,bettertone.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.233.43.13,4,7,bettilt.xyz,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.68.169,4,25,bezzaryadki.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+185.233.43.13,4,0,bettilt.xyz,UA,Europe,Eastern Europe,Ukraine,,,
+89.184.68.169,4,-1,bezzaryadki.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 194.28.86.190,4,-29,bigbucks.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 81.17.134.48,4,-400,bigline.net,UA,Europe,Eastern Europe,Ukraine,Kharkivs’ka Oblast’,,Kharkiv
 193.239.71.100,4,-26,bigmir.net,UA,Europe,Eastern Europe,Ukraine,,,
@@ -113,20 +113,19 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 31.41.221.115,4,5,birdinflight.com,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.93.39,4,5,bit.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 194.183.174.204,4,-2,bitlex.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-93.190.46.14,4,-133,bitte.net.ua,UA,Europe,Eastern Europe,Ukraine,,,
 77.120.99.7,4,51195,bizethicsessay.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-77.87.197.212,4,3,bizol.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+77.87.197.212,4,0,bizol.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.61.139.31,4,15,blazingfast.io,UA,Europe,Eastern Europe,Ukraine,,,
 62.149.5.49,4,-15,blockbuster.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 89.184.70.4,4,3,bls.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-89.184.70.15,4,31,bls.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-5.181.161.100,4,5,bobstore.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.70.15,4,0,bls.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+5.181.161.100,4,-1,bobstore.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.218.212.151,4,51,bodo.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.171,4,2,boomerangbet.eu,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.72.63,4,4,borgexpert.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.174.174.228,4,10,bourgas.ru,UA,Europe,Eastern Europe,Ukraine,,,
-91.223.223.149,4,19,brd24.com,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.88.90,4,16,bricks.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+185.174.174.228,4,1,bourgas.ru,UA,Europe,Eastern Europe,Ukraine,,,
+91.223.223.149,4,0,brd24.com,UA,Europe,Eastern Europe,Ukraine,,,
+89.184.88.90,4,1,bricks.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 77.123.136.36,4,0,broadlink.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 173.242.51.142,4,-10,brokensofa.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.124.9.11,4,-4,brovary.net.ua,UA,Europe,Eastern Europe,Ukraine,,,
@@ -134,25 +133,24 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.209.235.90,4,-6,bsmu.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.53,4,-4,bucpress.eu,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.107,4,5,budmagazin.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.73.206,4,53,bunews.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-193.243.159.4,4,11,bus.com.ua,UA,Europe,Eastern Europe,Ukraine,Vinnytsia,,Vinnytsia
+89.184.73.206,4,0,bunews.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+193.243.159.4,4,2,bus.com.ua,UA,Europe,Eastern Europe,Ukraine,Vinnytsia,,Vinnytsia
 185.104.45.70,4,-1,business-broker.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 77.120.99.119,4,-1,business-guide.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.235.218.116,4,25,business.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv Oblast,,
-77.87.199.106,4,59,businessvisit.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.104.45.42,4,4,butuz.biz,UA,Europe,Eastern Europe,Ukraine,,,
+77.87.199.106,4,0,businessvisit.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+185.104.45.42,4,0,butuz.biz,UA,Europe,Eastern Europe,Ukraine,,,
 185.233.36.202,4,-12,cambridge.ua,UA,Europe,Eastern Europe,Ukraine,,,
 31.41.221.15,4,41,car-silence.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.203.4.45,4,11,carbuy.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.27,4,-9,carmonitor.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-91.200.40.103,4,11,casinolifemagazine.com,UA,Europe,Eastern Europe,Ukraine,,,
+91.200.40.103,4,-13,casinolifemagazine.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.52,4,-71,casinosland.org,UA,Europe,Eastern Europe,Ukraine,,,
-194.28.84.31,4,19,caviar.net.ua,UA,Europe,Eastern Europe,Ukraine,,,
+194.28.84.31,4,511,caviar.net.ua,UA,Europe,Eastern Europe,Ukraine,,,
 88.218.188.33,4,-33,cedem.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
 185.68.16.17,4,-3,cerkva.info,UA,Europe,Eastern Europe,Ukraine,,,
-176.119.25.196,4,-75,certproxywizard.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.225.196.82,4,8,ch.ua,UA,Europe,Eastern Europe,Ukraine,Chernihiv,,Chernihiv
-89.184.68.176,4,5,chainway.net.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.68.176,4,0,chainway.net.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 195.191.24.221,4,9,chamber.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.93.135,4,1,chaynikam.info,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 77.87.196.126,4,2,checkcosmetic.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
@@ -161,18 +159,17 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.232.29.178,4,4,childdevelop.com.ua,UA,Europe,Eastern Europe,Ukraine,Mykolaiv,,Mykolayiv
 185.9.43.186,4,-6,childrenofwar.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 217.77.211.89,4,-395,chmnu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Mykolaiv,,Mykolayiv
-217.77.211.91,4,5,chmnu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Mykolaiv,,Mykolayiv
+217.77.211.91,4,1,chmnu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Mykolaiv,,Mykolayiv
 91.192.47.142,4,-2,chnpu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Chernihiv,,Chernihiv
 185.104.45.109,4,-5,cje.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.69.154.117,4,29,cleanhomeguide.com,UA,Europe,Eastern Europe,Ukraine,,,
-185.67.1.245,4,11,club1.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.67.1.245,4,1,club1.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 62.149.2.8,4,2,colocall.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 176.114.10.82,4,16,companion.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
-93.190.42.226,4,-785,confitur.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.74.141,4,-7,contek.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.104.45.24,4,4,conto.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.104.45.24,4,0,conto.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.233.41.2,4,-19,control.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.104.45.93,4,4,coolaser.clinic,UA,Europe,Eastern Europe,Ukraine,,,
+185.104.45.93,4,0,coolaser.clinic,UA,Europe,Eastern Europe,Ukraine,,,
 95.67.8.80,4,-8,cosmonova.net.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.166,4,-2,cpd.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
 194.28.86.223,4,-4,crb.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
@@ -191,37 +188,37 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.233.100.55,4,5,czo.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
 77.87.196.206,4,-7,dachalangeron.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.206.226.84,4,669,darg.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
-195.191.25.216,4,12,darkoderebornonion.com,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.156,4,4,darusya.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+195.191.25.216,4,1,darkoderebornonion.com,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.156,4,0,darusya.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 212.1.66.252,4,1,dasu.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.233.39.183,4,23,data-science-ua.com,UA,Europe,Eastern Europe,Ukraine,,,
 31.202.133.86,4,-6,dduvs.edu.ua,UA,Europe,Eastern Europe,Ukraine,Ternopil Oblast,,Ternopil
-77.87.193.158,4,163,dec-edu.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+77.87.193.158,4,0,dec-edu.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 176.114.1.250,4,-8,dei.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
 185.104.45.2,4,102,dejure.foundation,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.65.21,4,940126,deka.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.65.21,4,339,deka.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.59,4,34,dekorshop.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 217.173.215.74,4,-8,delfi.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.236.226.79,4,-12,deltasport.ua,UA,Europe,Eastern Europe,Ukraine,,,
 195.191.25.66,4,0,dengi-v-dolg.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.231.206.202,4,0,deps.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.104.45.15,4,4,derm.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.104.45.15,4,0,derm.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 77.87.196.192,4,-25,desktopgames.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 77.87.198.155,4,-26,desta.biz,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.68.16.73,4,2,devolz.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.73,4,0,devolz.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.74.8,4,15,diagram.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 173.242.48.192,4,-6,dif.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.200.113.139,4,-6,dilo.net.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 31.41.216.91,4,-7,dionis.net.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.93.87,4,12,discover.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-91.200.40.47,4,760,distributoram.com,UA,Europe,Eastern Europe,Ukraine,,,
-77.222.132.6,4,43,divan.tv,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-77.87.197.171,4,6,dixigroup.org,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+91.200.40.47,4,1695,distributoram.com,UA,Europe,Eastern Europe,Ukraine,,,
+77.222.132.6,4,12,divan.tv,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+77.87.197.171,4,2,dixigroup.org,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 193.169.188.210,4,2,dk-books.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.136.99.200,4,7,dlshsi.edu.ph,UA,Europe,Eastern Europe,Ukraine,,,
 193.150.49.131,4,-8,dnepr.com,UA,Europe,Eastern Europe,Ukraine,Dnipropetrovsk Oblast,,Dnipro
 88.81.239.196,4,9909050,dnipro-ukr.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.124.11.97,4,3,dnipro24.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.124.11.97,4,0,dnipro24.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 109.108.87.96,4,-358389,DNS Server: 109-108-87-96.kievnet.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 37.53.85.116,4,5,DNS Server: 116-85-53-37.pool.ukrtel.net,UA,Europe,Eastern Europe,Ukraine,,,
 31.128.75.116,4,-4,DNS Server: 116.31-pool.datagroup.com.ua,UA,Europe,Eastern Europe,Ukraine,Mykolaiv,,Mykolayiv
@@ -444,7 +441,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 95.47.164.179,4,2952,DNS Server: unallocated179.unioncom.net.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 95.47.164.204,4,17635,DNS Server: unallocated204.unioncom.net.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.38.208.200,4,-8,DNS Server: unassigned.208.38.185.in-addr.arpa,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-93.171.218.166,4,323,DNS Server: undefined-166,UA,Europe,Eastern Europe,Ukraine,Crimea,,Kerch
+93.171.218.166,4,2,DNS Server: undefined-166,UA,Europe,Eastern Europe,Ukraine,Crimea,,Kerch
 194.24.190.9,4,-15,DNS Server: undefined-190-9.tvoetv.com.ru,UA,Europe,Eastern Europe,Ukraine,Sebastopol City,,Sevastopol
 93.171.218.91,4,64798488,DNS Server: undefined-91,UA,Europe,Eastern Europe,Ukraine,Crimea,,Kerch
 213.111.121.178,4,4251,DNS Server: unused-213.111.121.178.bilink.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
@@ -460,22 +457,21 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 188.239.194.252,4,-6,don-sky.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.234.32.67,4,-36,donbass.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
 109.254.245.145,4,-3,donnu.ru,UA,Europe,Eastern Europe,Ukraine,Donetsk,,Donetsk
-62.149.5.12,4,107088,donor.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+62.149.5.12,4,2,donor.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 195.64.190.1,4,-798,dp.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
 194.150.107.20,4,-12,dpchas.com.ua,UA,Europe,Eastern Europe,Ukraine,Dnipropetrovsk Oblast,,Dnipro
 178.20.153.142,4,-8,dpu.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.73.65,4,18,drobak.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.203.63.75,4,0,dropmefiles.com.ua,UA,Europe,Eastern Europe,Ukraine,Dnipropetrovsk Oblast,,Dnipro
 185.174.220.61,4,-2,ds7.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-77.88.197.6,4,-2,dsbt.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.72.81,4,-7,dspu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.237.207.100,4,-4,dv-gazeta.info,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.79.187,4,9,dveribelorussii.md,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.79.187,4,-1,dveribelorussii.md,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 194.180.10.25,4,-3,dvkf.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.149,4,-5,dvnshu.com,UA,Europe,Eastern Europe,Ukraine,,,
 194.28.85.252,4,0,dzyga.com,UA,Europe,Eastern Europe,Ukraine,,,
-91.239.233.29,4,18,e-altsest.com,UA,Europe,Eastern Europe,Ukraine,,,
-45.129.97.9,4,61915,e-schools.info,UA,Europe,Eastern Europe,Ukraine,,,
+91.239.233.29,4,0,e-altsest.com,UA,Europe,Eastern Europe,Ukraine,,,
+45.129.97.9,4,-24793,e-schools.info,UA,Europe,Eastern Europe,Ukraine,,,
 92.60.184.52,4,-2,easycom.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.87,4,18,eausedcars.com,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.90.176,4,8,ecoaction.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
@@ -484,70 +480,70 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.104.45.44,4,12,ed-era.com,UA,Europe,Eastern Europe,Ukraine,,,
 78.137.5.91,4,5396,ed-sp.net,UA,Europe,Eastern Europe,Ukraine,Cherkasy Oblast,,Cherkasy
 80.91.162.211,4,-12,edbo.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-77.87.196.28,4,5,eden.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-89.184.77.198,4,20,edukation.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+77.87.196.28,4,0,eden.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.77.198,4,1,edukation.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 89.184.70.105,4,-14,electrica-shop.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 217.76.194.115,4,5,elektrovesti.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 93.190.46.226,4,4,elektrozavod.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.19,4,-24,elit-web.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.65.245.190,4,10,elvorti.com,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.76.102,4,7,emarket.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+185.65.245.190,4,0,elvorti.com,UA,Europe,Eastern Europe,Ukraine,,,
+89.184.76.102,4,1,emarket.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 195.248.234.114,4,29,eo.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.22,4,4,eos-klinkier.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.90.15,4,7,epo.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.104.45.83,4,4,epos.ua,UA,Europe,Eastern Europe,Ukraine,,,
-77.222.139.43,4,119,ersel.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.22,4,0,eos-klinkier.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+89.184.90.15,4,0,epo.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+185.104.45.83,4,0,epos.ua,UA,Europe,Eastern Europe,Ukraine,,,
+77.222.139.43,4,0,ersel.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 77.87.199.207,4,13,estet-portal.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.156.43.158,4,11,etnodim.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.156.43.158,4,1,etnodim.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.55,4,15,eubam.org,UA,Europe,Eastern Europe,Ukraine,,,
-91.218.212.85,4,25,eurabota.ua,UA,Europe,Eastern Europe,Ukraine,,,
+91.218.212.85,4,1,eurabota.ua,UA,Europe,Eastern Europe,Ukraine,,,
 213.160.150.149,4,113,eurolab.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.117,4,-8,eurosiz.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.110,4,25,evakuator-ua.com,UA,Europe,Eastern Europe,Ukraine,,,
-185.156.43.119,4,5,expetro.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.110,4,0,evakuator-ua.com,UA,Europe,Eastern Europe,Ukraine,,,
+185.156.43.119,4,-1,expetro.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 93.190.43.113,4,-3,expresstuning.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 93.190.45.81,4,1,extreme-centre.com,UA,Europe,Eastern Europe,Ukraine,,,
-195.248.225.63,4,280,extremstyle.ua,UA,Europe,Eastern Europe,Ukraine,,,
+195.248.225.63,4,-81,extremstyle.ua,UA,Europe,Eastern Europe,Ukraine,,,
 83.150.204.166,4,-6,farmak.ua,UA,Europe,Eastern Europe,Ukraine,,,
-62.149.25.84,4,9,fashionweek.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+62.149.25.84,4,-1,fashionweek.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.156.43.187,4,-2,favor.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 77.87.193.24,4,-6,favoritti.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 31.131.16.210,4,220010,femto.com.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 81.17.138.62,4,-2,feskov.ua,UA,Europe,Eastern Europe,Ukraine,Kharkivs’ka Oblast’,,Babayi
-185.104.45.112,4,10,ffr.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.233.38.235,4,4,fhu.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-91.234.33.173,4,46,fifaua.org,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
+185.233.38.235,4,1,fhu.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+91.234.33.173,4,5118,fifaua.org,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
 193.169.189.89,4,92,figvam.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.218.212.51,4,-4,film.ua,UA,Europe,Eastern Europe,Ukraine,,,
-5.181.161.28,4,47,filosof.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+5.181.161.28,4,-2,filosof.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 46.254.107.94,4,2,fin.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.7,4,5,finbalance.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.65.246.28,4,4,fishingstock.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.7,4,0,finbalance.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.65.246.28,4,0,fishingstock.ua,UA,Europe,Eastern Europe,Ukraine,,,
 77.87.196.233,4,-31,fit4brain.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.38,4,-21,fitor.biz,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.51,4,-13,fixlab.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-194.33.180.208,4,5,flora24.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+194.33.180.208,4,1,flora24.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 89.184.77.47,4,-33,floristics.info,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+62.149.25.33,4,0,footwear.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.90,4,-4,forestique.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-194.28.172.238,4,8,formodessa.com,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.74.193,4,5,forter.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+194.28.172.238,4,0,formodessa.com,UA,Europe,Eastern Europe,Ukraine,,,
+89.184.74.193,4,-1,forter.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.46,4,15,fortuna-dent.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.78,4,6,forwardprint.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.103,4,32,foxmart.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.103,4,0,foxmart.ua,UA,Europe,Eastern Europe,Ukraine,,,
 78.27.236.224,4,-7,fpsu.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 194.0.200.202,4,2,freehost.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 195.248.234.85,4,1241,froster.org,UA,Europe,Eastern Europe,Ukraine,,,
-91.200.40.49,4,757,full-chip.net,UA,Europe,Eastern Europe,Ukraine,,,
-45.154.116.150,4,32,fungodoctor.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
-89.184.77.193,4,9,funquest.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+91.200.40.49,4,1683,full-chip.net,UA,Europe,Eastern Europe,Ukraine,,,
+45.154.116.150,4,0,fungodoctor.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
+89.184.77.193,4,1,funquest.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 45.134.173.240,4,-2,futebolgratis.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 89.184.78.74,4,-5,fw-daily.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-193.169.188.254,4,5,gambling-law-us.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+193.169.188.254,4,1,gambling-law-us.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 194.28.85.150,4,871,gamemaster.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.239.234.167,4,-13,games-profit.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.42,4,13,gamingpost.net,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.26,4,-3,garvis.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.233.38.24,4,10,gazda.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.233.38.24,4,1,gazda.ua,UA,Europe,Eastern Europe,Ukraine,,,
 93.190.44.197,4,-9,gcsms.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 176.114.8.46,4,-34,gelios.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
 91.196.52.205,4,-1,generator.email,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
@@ -556,11 +552,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 89.184.93.182,4,-7,getmancar.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 193.178.146.28,4,3,giganet.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 194.28.86.15,4,-2,gik-team.com,UA,Europe,Eastern Europe,Ukraine,,,
-195.138.81.101,4,1,glasweb.com,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
+195.138.81.101,4,2,glasweb.com,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
 185.68.16.188,4,-14,globalrightscompliance.org,UA,Europe,Eastern Europe,Ukraine,,,
-31.41.216.88,4,8,globalweb.net.ua,UA,Europe,Eastern Europe,Ukraine,,,
+31.41.216.88,4,1,globalweb.net.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.91.59,4,-26,globusbank.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.46.90.26,4,-31918,gms.net,UA,Europe,Eastern Europe,Ukraine,,,
 45.94.156.210,4,27,gnpu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 89.184.72.122,4,9,gogetnews.info,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 195.64.224.189,4,-10,golos.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
@@ -574,87 +569,86 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.104.45.163,4,8,grainexpo.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.239.235.161,4,8,grand-hotel.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 77.87.193.198,4,-2,grandbiser.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.104.45.139,4,36,grandeco.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.104.45.139,4,0,grandeco.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 46.150.105.239,4,-2,guiaidn.ru,UA,Europe,Eastern Europe,Ukraine,Donetsk,,Donetsk
 185.104.45.161,4,-3,gx.net.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.168.131.128,4,1830,gx.net.ua,UA,Europe,Eastern Europe,Ukraine,Dnipropetrovsk Oblast,,Dnipro
+185.168.131.128,4,0,gx.net.ua,UA,Europe,Eastern Europe,Ukraine,Dnipropetrovsk Oblast,,Dnipro
 185.104.45.135,4,10,hairlife.ru,UA,Europe,Eastern Europe,Ukraine,,,
-185.104.45.33,4,5,hammer.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.104.45.33,4,1,hammer.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 178.20.157.132,4,0,hardfitness.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.222.139.153,4,2,harmony-health.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.104.45.97,4,6,hawaiisecuritycameras.com,UA,Europe,Eastern Europe,Ukraine,,,
+185.104.45.97,4,0,hawaiisecuritycameras.com,UA,Europe,Eastern Europe,Ukraine,,,
 176.97.113.89,4,3,hbusnews.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.232.28.100,4,-1,health-ua.com,UA,Europe,Eastern Europe,Ukraine,Mykolaiv,,Mykolayiv
-185.68.16.190,4,6,helianth-tour.com,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.190,4,0,helianth-tour.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.37,4,-11,heliosstrategia.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.32,4,-7,hellstrshop.com,UA,Europe,Eastern Europe,Ukraine,,,
+185.25.117.162,4,0,heroesportal.net,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.90,4,9,hikvision.co.ua,UA,Europe,Eastern Europe,Ukraine,,,
 178.20.154.34,4,-46,hlr.ua,UA,Europe,Eastern Europe,Ukraine,,,
 82.144.223.139,4,7,hnb.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.228.146.11,4,11,ho.ua,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.68.12,4,20,hod-konem.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.68.12,4,0,hod-konem.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 77.87.194.74,4,1,holodomorct.org,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.200.40.10,4,2396,holstprint.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.207,4,53,home-divan.ru,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.207,4,0,home-divan.ru,UA,Europe,Eastern Europe,Ukraine,,,
 194.28.84.131,4,-20,honda.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.131,4,-12,hostgid.net,UA,Europe,Eastern Europe,Ukraine,,,
 77.222.150.22,4,-8,hotline.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.200.41.251,4,32,hvosting.ua,UA,Europe,Eastern Europe,Ukraine,,,
 77.87.194.209,4,1,hyundai.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.68.16.28,4,6,i-posud.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.28,4,0,i-posud.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.92.219,4,-24,ibuhgalter.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 89.184.95.72,4,-1,icm.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.233.100.12,4,31,id.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.66,4,-13,ideadigital.agency,UA,Europe,Eastern Europe,Ukraine,,,
 91.208.115.38,4,-2,idgod.ph,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-31.41.217.68,4,48,idgu.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
+31.41.217.68,4,2,idgu.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.74.212,4,3,iea.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.177,4,-14,iec-expo.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.195.53.30,4,2,ier.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.72,4,-6,ifix.ua,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.78.139,4,9,iforum.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-176.111.63.44,4,6,igniteoutsourcing.com,UA,Europe,Eastern Europe,Ukraine,,,
+89.184.78.139,4,0,iforum.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+176.111.63.44,4,5,igniteoutsourcing.com,UA,Europe,Eastern Europe,Ukraine,,,
 212.111.193.194,4,-564435,iitta.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
-212.111.192.250,4,4,iitta.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
-212.111.193.193,4,4,iitta.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.89.223,4,12,ikra-shop.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+212.111.192.250,4,11051,iitta.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
+212.111.193.193,4,11053,iitta.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.134,4,4,ildu.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.76.249,4,28,ilenta.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-195.66.210.31,4,10,im.ge,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-195.191.25.9,4,10,imbf.org,UA,Europe,Eastern Europe,Ukraine,,,
+89.184.76.249,4,0,ilenta.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+195.191.25.9,4,-1,imbf.org,UA,Europe,Eastern Europe,Ukraine,,,
 195.39.197.221,4,8,imena.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 193.239.68.43,4,34519057,img.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 62.149.28.83,4,18,imzo.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.18.63,4,4,ind-gen.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.18.62,4,-15,indian-generic.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-194.28.84.123,4,4,industriya.com,UA,Europe,Eastern Europe,Ukraine,,,
+194.28.84.123,4,0,industriya.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.43,4,-7,info-credit.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 176.114.7.108,4,-16,info-hub.top,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
 80.91.162.219,4,20,inforesurs.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 31.41.221.243,4,-3,inmart.online,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.72.9,4,19,innet-trading.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-89.184.88.136,4,24,insait.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.72.9,4,0,innet-trading.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.88.136,4,0,insait.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 194.28.172.205,4,-217,institutfrancais-ukraine.com,UA,Europe,Eastern Europe,Ukraine,,,
-77.87.199.124,4,34,interia.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.174.220.72,4,4,internetmosque.net,UA,Europe,Eastern Europe,Ukraine,,,
+77.87.199.124,4,0,interia.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+185.174.220.72,4,0,internetmosque.net,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.193,4,7,internetsantehnik.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 212.42.73.2,4,0,internetua.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.29,4,0,internews.ua,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.90.94,4,22,interpipe.biz,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.90.94,4,0,interpipe.biz,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.233.118.52,4,73,invivo.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.79.227,4,-9,ipiend.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 139.28.38.8,4,1,iplex.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-91.239.234.70,4,14,ipvnews.org,UA,Europe,Eastern Europe,Ukraine,,,
+91.239.234.70,4,1,ipvnews.org,UA,Europe,Eastern Europe,Ukraine,,,
 62.80.191.34,4,48,ispf.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 89.184.68.44,4,-2,istore.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-77.87.199.37,4,49,it-kharkiv.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-89.184.78.214,4,81,itarena.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-89.184.78.203,4,32,itc-compass.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+77.87.199.37,4,-1,it-kharkiv.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.78.214,4,-1,itarena.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.78.203,4,1,itc-compass.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 134.249.129.195,4,-48,itkr.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 62.149.7.42,4,1,ittour.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.209.51.6,4,-41,ittv.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.87,4,-8,itukraine.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.4,4,4,ivepl.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.4,4,0,ivepl.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.74.37,4,-6,izbornyk.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 194.28.86.30,4,-73,izmail-city.com,UA,Europe,Eastern Europe,Ukraine,,,
 91.200.40.29,4,1779,izmail-tour.com,UA,Europe,Eastern Europe,Ukraine,,,
@@ -669,24 +663,22 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 89.184.79.129,4,-5,juridicheskij-supermarket.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.43,4,4,jusstjob.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.133,4,17,kadett-club.by,UA,Europe,Eastern Europe,Ukraine,,,
-91.231.85.28,4,45,kalambus.com,UA,Europe,Eastern Europe,Ukraine,,,
-185.237.206.162,4,7,kalush.info,UA,Europe,Eastern Europe,Ukraine,,,
+91.231.85.28,4,2,kalambus.com,UA,Europe,Eastern Europe,Ukraine,,,
+185.237.206.162,4,-1,kalush.info,UA,Europe,Eastern Europe,Ukraine,,,
 185.66.89.58,4,-72,kamagra-eu.com,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.69.105,4,-8,karavan.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.233.117.209,4,-30,karpataljalap.net,UA,Europe,Eastern Europe,Ukraine,,,
 193.105.7.135,4,-12859,kart.edu.ua,UA,Europe,Eastern Europe,Ukraine,Kharkivs’ka Oblast’,,Kharkiv
-91.200.40.48,4,752,katyababash.com,UA,Europe,Eastern Europe,Ukraine,,,
+91.200.40.48,4,1687,katyababash.com,UA,Europe,Eastern Europe,Ukraine,,,
 95.47.123.226,4,10,keaz.com.ua,UA,Europe,Eastern Europe,Ukraine,Dnipropetrovsk Oblast,,Dnipro
 185.68.16.169,4,12,kendoguide.org,UA,Europe,Eastern Europe,Ukraine,,,
 193.107.172.124,4,17,kharkiv.com,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.76.170,4,5,khersonci.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.76.170,4,0,khersonci.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 78.152.160.15,4,1,khmelnytskyi.ua,UA,Europe,Eastern Europe,Ukraine,Khmelnytskyi Oblast,,Khmelnytskyi
-89.184.68.161,4,-3,kidstaff.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 31.41.216.70,4,-8,kiev-orthodox.org,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.98,4,3,kievkayaks.com,UA,Europe,Eastern Europe,Ukraine,,,
 77.87.195.195,4,-9,kiis.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-91.194.251.147,4,51,kino-teatr.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.68.16.23,4,26,kino.net.ua,UA,Europe,Eastern Europe,Ukraine,,,
+91.194.251.147,4,2618,kino-teatr.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+185.68.16.23,4,0,kino.net.ua,UA,Europe,Eastern Europe,Ukraine,,,
 212.42.83.135,4,-68,kinoafisha.ua,UA,Europe,Eastern Europe,Ukraine,,,
 195.248.234.111,4,-7,kinogallery.com,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.68.55,4,15,kinowar.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
@@ -694,26 +686,26 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.68.16.205,4,-6,klitschko-brothers.com,UA,Europe,Eastern Europe,Ukraine,,,
 78.152.160.245,4,25,km-oblrada.gov.ua,UA,Europe,Eastern Europe,Ukraine,Khmelnytskyi Oblast,,Khmelnytskyi
 193.201.116.3,4,15,km.ua,UA,Europe,Eastern Europe,Ukraine,,,
-91.200.40.114,4,6,kmbilka.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.73.207,4,6,kms.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-193.254.216.206,4,3,kneu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+91.200.40.114,4,-1,kmbilka.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+89.184.73.207,4,0,kms.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+193.254.216.206,4,-3,kneu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 194.61.53.101,4,-5,knlu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.233.38.88,4,25,knpu.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.233.38.88,4,0,knpu.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.202.128.77,4,106423,knu.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 194.28.101.40,4,-10,knuba.edu.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.58,4,3,knukim.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
 176.114.8.41,4,5,kokl.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
-185.124.11.99,4,38,kolomyia24.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.124.11.99,4,0,kolomyia24.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.71,4,0,kolos-consulting.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.127,4,0,komplaens-audit.top,UA,Europe,Eastern Europe,Ukraine,,,
 45.150.149.182,4,780,konhaber.com,UA,Europe,Eastern Europe,Ukraine,,,
-62.149.5.36,4,8,konkors.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+62.149.5.36,4,1,konkors.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.124.8.34,4,3,konotop24.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.31,4,8,konotop24.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.31,4,0,konotop24.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.30,4,18,kons-na-bis.com,UA,Europe,Eastern Europe,Ukraine,,,
 77.87.192.113,4,29,koruna.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 178.20.154.4,4,10800132,kosmodrom.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-193.227.210.62,4,3,koveltaxi.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+193.227.210.62,4,-5,koveltaxi.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 80.91.164.19,4,-14,kpi.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.212.203.46,4,1,kpnu.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
 193.23.157.14,4,-7,kr.ua,UA,Europe,Eastern Europe,Ukraine,,,
@@ -723,17 +715,16 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 77.52.20.96,4,730,kremen.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.29,4,-10,kremenchug.info,UA,Europe,Eastern Europe,Ukraine,,,
 193.106.203.11,4,-35,krm.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
-194.28.86.125,4,34,krolevets.com,UA,Europe,Eastern Europe,Ukraine,,,
-62.182.84.119,4,-6,kronopolo.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+194.28.86.125,4,0,krolevets.com,UA,Europe,Eastern Europe,Ukraine,,,
 217.20.175.6,4,-15,kronverskiy.ru,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 176.111.60.171,4,65,ktc.ua,UA,Europe,Eastern Europe,Ukraine,,,
-77.87.192.83,4,6,ktozvonit.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-89.184.76.220,4,8,kuchma.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-89.184.91.149,4,31,kult-mebeli.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.104.45.84,4,22,kupit-gazobeton.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+77.87.192.83,4,0,ktozvonit.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.76.220,4,-1,kuchma.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.91.149,4,0,kult-mebeli.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+185.104.45.84,4,-1,kupit-gazobeton.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 194.28.172.200,4,-4,kurkul.com,UA,Europe,Eastern Europe,Ukraine,,,
 91.231.85.101,4,20,kurses.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-91.200.40.45,4,859,kuzya.ua,UA,Europe,Eastern Europe,Ukraine,,,
+91.200.40.45,4,1978,kuzya.ua,UA,Europe,Eastern Europe,Ukraine,,,
 213.160.146.51,4,-2,kvs.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.128,4,-6,kvsz.com,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.76.145,4,2,kyiv1.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
@@ -744,46 +735,41 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.68.16.139,4,3,lamarin.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 178.20.154.213,4,1,laserhouse.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.202,4,31,laserroom19.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.17.163,4,3,laserville.com,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.17.163,4,0,laserville.com,UA,Europe,Eastern Europe,Ukraine,,,
 194.28.173.200,4,5,latifundist.com,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.76.190,4,-5,lavra.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.68.16.25,4,3,lawgaw.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.25,4,0,lawgaw.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 194.28.172.92,4,-70,lawngo.net,UA,Europe,Eastern Europe,Ukraine,,,
 77.120.110.220,4,1,lawyer.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 93.190.41.104,4,9,ldufk.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.153,4,-33,le-vele.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 195.182.194.174,4,-5,leave-russia.org,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
-91.200.40.38,4,54,ledass.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+91.200.40.38,4,184,ledass.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 194.28.84.70,4,11,legalpilot.com,UA,Europe,Eastern Europe,Ukraine,,,
 91.220.101.184,4,0,lemoncasino-hu.com,UA,Europe,Eastern Europe,Ukraine,,,
 195.191.24.32,4,-43,leopolis.news,UA,Europe,Eastern Europe,Ukraine,,,
-91.222.137.38,4,7,leva.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+91.222.137.38,4,0,leva.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 195.69.203.119,4,8,lgaki.info,UA,Europe,Eastern Europe,Ukraine,Luhansk,,Luhansk
 185.68.16.118,4,-4,liam.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.12,4,-1,ligatepla.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 5.181.161.25,4,1,lightwood.store,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.233.116.20,4,1,like-themes.com,UA,Europe,Eastern Europe,Ukraine,,,
+185.233.116.20,4,0,like-themes.com,UA,Europe,Eastern Europe,Ukraine,,,
 176.114.3.207,4,-1,likicontrol.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
-195.248.225.65,4,-315,linija-svitla.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.200.40.2,4,-1698,linux.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.68.20,4,69,liraland.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.68.20,4,0,liraland.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 93.190.42.225,4,-25,litmisto.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 194.28.172.226,4,40167,litopys.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.78.6,4,8,lks.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.78.6,4,0,lks.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 62.140.239.1,4,-3,LLC TRC FIORD,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.200,4,-4,lnam.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
-195.24.145.118,4,577151,loga.gov.ua,UA,Europe,Eastern Europe,Ukraine,Dnipropetrovsk Oblast,,Dnipro
-45.134.173.163,4,-9,lookmovie.ag,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.187.81.230,4,325,loungefm.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.76.235,4,31,loveprint.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+195.24.145.118,4,300849,loga.gov.ua,UA,Europe,Eastern Europe,Ukraine,Dnipropetrovsk Oblast,,Dnipro
+89.184.76.235,4,0,loveprint.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 31.131.16.20,4,-12,lovescout-24.de,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 185.104.45.71,4,-1,lozovamachinery.com,UA,Europe,Eastern Europe,Ukraine,,,
-77.87.196.220,4,11,lubimivka.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+77.87.196.220,4,0,lubimivka.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.223.180.93,4,16,lukashuk.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
 89.184.89.159,4,2,luxgroups.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 195.22.112.250,4,-3,lvduvs.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
-193.19.230.130,4,-1272,lviv.net,UA,Europe,Eastern Europe,Ukraine,,,
-193.238.23.1,4,-1272,lviv.net,UA,Europe,Eastern Europe,Ukraine,,,
 194.44.10.97,4,-5,lvivoblrada.gov.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 95.215.157.210,4,3,lvivport.com,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lapaivka
 185.68.16.112,4,-1,lvivpost.net,UA,Europe,Eastern Europe,Ukraine,,,
@@ -791,54 +777,55 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.244.124.89,4,-4,m1.tv,UA,Europe,Eastern Europe,Ukraine,,,
 31.41.220.194,4,27,m2motors.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.124.10.100,4,19,m3cargo.com,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.74.41,4,8,macmillanukraine.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.74.41,4,2,macmillanukraine.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.239.233.145,4,11,macstore.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.143,4,6,madmike.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.143,4,0,madmike.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.239.234.38,4,-4,magazin-akkumulyatorov.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-194.28.86.161,4,13,magdek.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+194.28.86.161,4,0,magdek.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.78.145,4,29,magniflex.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 193.105.70.75,4,21,magnolia-tv.com,UA,Europe,Eastern Europe,Ukraine,,,
 91.207.44.29,4,-58,maize.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.61,4,-4,mala-pozyczka-online.pl,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.99,4,1,malls.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.99,4,0,malls.ua,UA,Europe,Eastern Europe,Ukraine,,,
 176.114.9.30,4,-50,mamabook.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
 5.181.161.56,4,-1,mamindom.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.114,4,-1,mamusi.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.205.18.71,4,-8,mapsland.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-195.248.234.110,4,22,marathon.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.105,4,63,margunas.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-77.87.197.245,4,51,maristella.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-89.184.93.71,4,4,marketmebeli.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+195.248.234.110,4,0,marathon.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.105,4,0,margunas.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+77.87.197.245,4,1,maristella.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.93.71,4,-1,marketmebeli.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 193.169.188.66,4,13,martin.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 195.234.4.26,4,2,maxibud.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 77.87.196.30,4,4,maxiclimate.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 217.196.160.19,4,-5,maxnet.ua,UA,Europe,Eastern Europe,Ukraine,Ternopil Oblast,,Ternopil
 91.194.250.152,4,61,maxsite.org,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.222.136.150,4,-16,maxval.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.78.215,4,28,mayak.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.78.215,4,1,mayak.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 193.169.188.189,4,-2,mazdaclub.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-89.184.73.84,4,4,mbastrategy.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-81.17.128.2,4,1,mbk.com.ua,UA,Europe,Eastern Europe,Ukraine,Kharkivs’ka Oblast’,,Kharkiv
-77.87.195.32,4,3,mcgroup.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-195.138.68.91,4,2,mclub.com.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
+89.184.73.84,4,-1,mbastrategy.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+81.17.128.2,4,0,mbk.com.ua,UA,Europe,Eastern Europe,Ukraine,Kharkivs’ka Oblast’,,Kharkiv
+77.87.195.32,4,0,mcgroup.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+195.138.68.91,4,3,mclub.com.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
 91.222.137.241,4,-6,mcstore.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.78.45,4,-7,mdclinics.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-212.66.58.7,4,6,mdomtv.net,UA,Europe,Eastern Europe,Ukraine,Donetsk,,Donetsk
+212.66.58.7,4,14,mdomtv.net,UA,Europe,Eastern Europe,Ukraine,Donetsk,,Donetsk
 217.77.211.132,4,-10,mdu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Mykolaiv,,Mykolayiv
-91.203.147.211,4,17,mebel-fabrik.com.ua,UA,Europe,Eastern Europe,Ukraine,Dnipropetrovsk Oblast,,Kryvyi Rih
+91.203.147.211,4,1,mebel-fabrik.com.ua,UA,Europe,Eastern Europe,Ukraine,Dnipropetrovsk Oblast,,Kryvyi Rih
 83.150.204.120,4,33,mebelok.com,UA,Europe,Eastern Europe,Ukraine,,,
-83.150.204.66,4,40,mebelok.com,UA,Europe,Eastern Europe,Ukraine,,,
-91.206.200.198,4,43,meblens.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+83.150.204.66,4,-1,mebelok.com,UA,Europe,Eastern Europe,Ukraine,,,
+91.206.200.198,4,0,meblens.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.76.135,4,8,meblimarko.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 89.184.91.152,4,25,med-expert.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 89.184.74.49,4,5,medcity.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.62,4,-12,meddiagnostica.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-45.94.157.217,4,7,mediamapa.com.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
+45.94.157.217,4,-3,mediamapa.com.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 185.104.45.28,4,6,medicina.ua,UA,Europe,Eastern Europe,Ukraine,,,
 62.149.23.194,4,5,medtechnika.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-91.206.200.121,4,44,megapari-bk.com,UA,Europe,Eastern Europe,Ukraine,,,
+91.206.200.121,4,0,megapari-bk.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.68,4,7,meinds.online,UA,Europe,Eastern Europe,Ukraine,,,
 37.52.54.116,4,-11,memory.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.156.42.98,4,-13,memorybook.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 193.106.137.21,4,1454318,menscult.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 89.184.90.103,4,0,menslife.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.21,4,11,merx.ua,UA,Europe,Eastern Europe,Ukraine,,,
@@ -846,23 +833,21 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.216.232.45,4,16,meteo.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.203.145.209,4,-3,meteopost.com,UA,Europe,Eastern Europe,Ukraine,Dnipropetrovsk Oblast,,Kryvyi Rih
 77.87.192.194,4,23,metroui.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-5.181.161.72,4,-1406,mhp-miami.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 5.181.161.83,4,4,migrant.support,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 62.182.86.148,4,2,military-technologies.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 195.39.197.223,4,4,mirohost.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-77.87.193.129,4,11,mirpola-dekora.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+77.87.193.129,4,0,mirpola-dekora.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.233.117.82,4,-2,mista.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.167,4,61,mistercat.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.167,4,0,mistercat.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 5.181.161.71,4,-4,mixbytes.io,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 89.184.74.113,4,-12,mixsport.pro,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.47,4,0,mk-translations.ua,UA,Europe,Eastern Europe,Ukraine,,,
 93.190.40.195,4,-714,mnau.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.90.10,4,12,mnogomest.info,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.90.10,4,0,mnogomest.info,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.233.43.88,4,-19,mobileplanet.ua,UA,Europe,Eastern Europe,Ukraine,,,
-193.200.255.37,4,-207919,modnaledi.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.223.216.24,4,-1,mojbred.com,UA,Europe,Eastern Europe,Ukraine,,,
 45.154.117.20,4,-14,molbuk.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
-31.131.31.128,4,3530,moldfootball.com,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
+31.131.31.128,4,1061,moldfootball.com,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 178.20.154.59,4,-10791300,molod-kredit.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.101,4,11,moms.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.168.130.230,4,-2,morozov.com.ua,UA,Europe,Eastern Europe,Ukraine,Dnipropetrovsk Oblast,,Dnipro
@@ -871,30 +856,30 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.233.116.229,4,-15,motostuff.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 194.28.87.164,4,-1,movetocascais.com,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.69.233,4,0,mozayka.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.104.45.132,4,14,mskukraine.com,UA,Europe,Eastern Europe,Ukraine,,,
+185.104.45.132,4,0,mskukraine.com,UA,Europe,Eastern Europe,Ukraine,,,
 46.164.156.38,4,-14,msl.ua,UA,Europe,Eastern Europe,Ukraine,,,
 46.164.128.174,4,-14,msl.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 77.222.150.122,4,-1,msl.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 194.33.181.33,4,0,multinet.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.184,4,81,music112.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.184,4,0,music112.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.197.129.127,4,28,my-addr.com,UA,Europe,Eastern Europe,Ukraine,,,
-5.181.161.82,4,28,my-jaxxwallet.io,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-5.181.161.90,4,5,my-sollet.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.68.16.142,4,26,mycitroen.club,UA,Europe,Eastern Europe,Ukraine,,,
+5.181.161.82,4,4,my-jaxxwallet.io,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+5.181.161.90,4,7,my-sollet.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+185.68.16.142,4,0,mycitroen.club,UA,Europe,Eastern Europe,Ukraine,,,
 62.149.0.215,4,8,mycounter.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-89.184.72.90,4,6,mycountry.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.72.90,4,0,mycountry.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 5.181.161.13,4,-7,myenglishworld.pro,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.104.45.144,4,3,mypaydayloancash.com,UA,Europe,Eastern Europe,Ukraine,,,
+185.104.45.144,4,0,mypaydayloancash.com,UA,Europe,Eastern Europe,Ukraine,,,
 77.87.194.92,4,-2,naas.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 77.120.109.205,4,-1,nadavi.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-77.120.109.207,4,8,nadavi.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.65.244.185,4,12,naftusia.com,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.45,4,47,naiukraine.com,UA,Europe,Eastern Europe,Ukraine,,,
+77.120.109.207,4,-1,nadavi.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+185.65.244.185,4,0,naftusia.com,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.45,4,0,naiukraine.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.138,4,-3,nakkkim.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
-195.140.246.4,4,31903,naqa.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
+195.140.246.4,4,58897,naqa.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
 178.20.154.151,4,1,nashost.net.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.197,4,13,nashpoker.net,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.68.185,4,17,nature-revive.org,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.68.185,4,0,nature-revive.org,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.142.175.20,4,68,nazk.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 89.184.72.111,4,-1,nazva.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 77.87.195.88,4,39,nbc.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
@@ -906,9 +891,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.232.28.101,4,-14,neuronews.com.ua,UA,Europe,Eastern Europe,Ukraine,Mykolaiv,,Mykolayiv
 193.34.173.206,4,225,New Information Systems PP,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Uzhhorod
 89.184.72.170,4,5,newhorizons.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-194.60.69.12,4,1832651,news2000.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+194.60.69.12,4,320845,news2000.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.253.218.120,4,190,newsua.one,UA,Europe,Eastern Europe,Ukraine,,,
-45.12.2.63,4,0,nikefactorys.us,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+45.12.2.63,4,1,nikefactorys.us,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 194.42.205.11,4,-10,nikerosherun.us,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.180,4,0,niko.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.36,4,8,nikolab.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
@@ -920,13 +905,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.67.1.214,4,-1,nltu.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
 195.24.133.161,4,-26,nmetau.edu.ua,UA,Europe,Eastern Europe,Ukraine,Dnipropetrovsk Oblast,,Dnipro
 185.237.206.136,4,4,nmiu.org,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.68.9,4,0,nobu.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-91.220.101.43,4,1,nomer.org,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.93,4,23,non-profit.nl,UA,Europe,Eastern Europe,Ukraine,,,
-5.181.161.74,4,4,nordast.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-5.181.161.16,4,-1389,norwich-terrier.top,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-89.184.85.86,4,7,novaposhta.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.128.233.66,4,5,novaposhta.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.68.9,4,1,nobu.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+91.220.101.43,4,-1,nomer.org,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.93,4,0,non-profit.nl,UA,Europe,Eastern Europe,Ukraine,,,
+5.181.161.74,4,-2,nordast.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.85.86,4,6,novaposhta.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+185.128.233.66,4,1,novaposhta.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 213.108.75.167,4,0,nplu.org,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.225.138.153,4,-15,nrada.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.77.238,4,-5,nrfu.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
@@ -943,17 +927,16 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.168.131.114,4,0,obliksoft.com.ua,UA,Europe,Eastern Europe,Ukraine,Dnipropetrovsk Oblast,,Dnipro
 92.60.188.164,4,2,obolon.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 89.184.69.142,4,25,obuvka.net.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.68.16.121,4,30,obys.agency,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.91.154,4,21,ocean-wood.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.67.2.10,4,32,odds2win.bet,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.121,4,0,obys.agency,UA,Europe,Eastern Europe,Ukraine,,,
+89.184.91.154,4,0,ocean-wood.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+185.67.2.10,4,0,odds2win.bet,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.129,4,6,odesskiy.com,UA,Europe,Eastern Europe,Ukraine,,,
 81.25.228.244,4,54000,odmu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
-193.0.61.149,4,30,offers.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+193.0.61.149,4,1,offers.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.120,4,15,ogo.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.141,4,-6,oiff.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.191,4,6,okeanelzy.com,UA,Europe,Eastern Europe,Ukraine,,,
-91.217.254.53,4,27,okey-motel.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-31.41.221.72,4,-27825,oknograd.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+91.217.254.53,4,0,okey-motel.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 31.131.18.23,4,-9,olta.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 91.222.136.169,4,10,olvent.ua,UA,Europe,Eastern Europe,Ukraine,,,
 82.207.52.214,4,7,ombudsman.gov.ua,UA,Europe,Eastern Europe,Ukraine,Vinnytsia,,Vinnytsia
@@ -984,15 +967,15 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 77.109.1.155,4,-27,Ookla Speedtest Server 4123: speedtest.people.net.ua,UA,Europe,Eastern Europe,Ukraine,Dnipropetrovsk Oblast,,Dnipro
 91.224.113.253,4,-12,Ookla Speedtest Server 4360: st1.ipcom.info,UA,Europe,Eastern Europe,Ukraine,Luhansk,,Sorokyne
 91.194.78.33,4,-2,Ookla Speedtest Server 4746: speedtest.tenet.ua,UA,Europe,Eastern Europe,Ukraine,,,
-95.67.49.122,4,322,Ookla Speedtest Server 5447: speedtest.cosmonova.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+95.67.49.122,4,69198791,Ookla Speedtest Server 5447: speedtest.cosmonova.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.224.178.3,4,0,Ookla Speedtest Server 5501: speedserver.tv9.net.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Berehove
-212.26.128.168,4,291,Ookla Speedtest Server 5884: speedtest.adamant.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+212.26.128.168,4,0,Ookla Speedtest Server 5884: speedtest.adamant.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 176.122.99.72,4,937,Ookla Speedtest Server 6088: st1.utelecom.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 176.122.99.73,4,688,Ookla Speedtest Server 6099: st2.utelecom.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.200.55.8,4,-97638,Ookla Speedtest Server 6103: st3.utelecom.com.ua,UA,Europe,Eastern Europe,Ukraine,Dnipropetrovsk Oblast,,Marhanets
 91.234.0.4,4,1,Ookla Speedtest Server 6128: speedtest.hata.net.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv Oblast,,Pereiaslav
 78.30.254.46,4,3,Ookla Speedtest Server 6819: speedtest.sevstar.net,UA,Europe,Eastern Europe,Ukraine,Sebastopol City,,Sevastopol
-78.30.254.33,4,335,Ookla Speedtest Server 6819: speedtest.sevstar.net,UA,Europe,Eastern Europe,Ukraine,Sebastopol City,,Sevastopol
+78.30.254.33,4,1,Ookla Speedtest Server 6819: speedtest.sevstar.net,UA,Europe,Eastern Europe,Ukraine,Sebastopol City,,Sevastopol
 193.104.208.10,4,22,Ookla Speedtest Server 7150: sp1.intelservis.net,UA,Europe,Eastern Europe,Ukraine,,,
 78.137.1.35,4,4,Ookla Speedtest Server 8633: speedtest.mclaut.com,UA,Europe,Eastern Europe,Ukraine,Cherkasy Oblast,,Cherkasy
 109.200.156.202,4,-11,Ookla Speedtest Server 9069: st.azinet.ru,UA,Europe,Eastern Europe,Ukraine,Crimea,,Simferopol
@@ -1058,7 +1041,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 46.150.0.38,4,7,Ookla Speedtest Server 30039: speedtest.skyline.kh.ua,UA,Europe,Eastern Europe,Ukraine,Kharkivs’ka Oblast’,,Kharkiv
 185.53.76.194,4,-17,Ookla Speedtest Server 30300: speedtest.lanet.network,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 193.57.42.18,4,0,Ookla Speedtest Server 30397: speedtest.teranet.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-217.25.80.20,4,333,Ookla Speedtest Server 30739: speedtest.mega.net.ru,UA,Europe,Eastern Europe,Ukraine,Donetsk,,
+217.25.80.20,4,2,Ookla Speedtest Server 30739: speedtest.mega.net.ru,UA,Europe,Eastern Europe,Ukraine,Donetsk,,
 193.41.63.254,4,-55,Ookla Speedtest Server 30813: srv01-okl-kv.kyivstar.ua,UA,Europe,Eastern Europe,Ukraine,,,
 77.47.128.254,4,0,Ookla Speedtest Server 30981: speedtest.kpi.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 149.255.131.15,4,-4,Ookla Speedtest Server 31125: speedtest-kiv.retn.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
@@ -1070,13 +1053,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 193.93.12.190,4,-1244,Ookla Speedtest Server 32144: speedtest.solver.net.ua,UA,Europe,Eastern Europe,Ukraine,Poltava Oblast,,Poltava
 91.234.226.2,4,0,Ookla Speedtest Server 32157: spt.sipcom.net.ua,UA,Europe,Eastern Europe,Ukraine,Zaporizhzhia,,Zaporizhzhya
 193.93.16.24,4,10,Ookla Speedtest Server 32649: speedtest.argocom.net.ua,UA,Europe,Eastern Europe,Ukraine,Chernivtsi,,Chernivtsi
-213.231.5.55,4,335,Ookla Speedtest Server 32663: fido.odessa.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
+213.231.5.55,4,33878114,Ookla Speedtest Server 32663: fido.odessa.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
 213.231.2.124,4,-3,Ookla Speedtest Server 32708: speedtest.paket.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
 80.93.123.3,4,-1,Ookla Speedtest Server 32959: speedtest.vishinet.dp.ua,UA,Europe,Eastern Europe,Ukraine,Dnipropetrovsk Oblast,,Apostolove
 94.231.188.138,4,5,Ookla Speedtest Server 33181: speedtest.berezhany.net,UA,Europe,Eastern Europe,Ukraine,Ivano-Frankivsk Oblast,,Burshtyn
 185.183.92.17,4,1,Ookla Speedtest Server 33217: speedtest.vom.lutsk.ua,UA,Europe,Eastern Europe,Ukraine,Volyn,,Lutsk
 93.170.78.14,4,1,Ookla Speedtest Server 33632: sp1.prolvl.net,UA,Europe,Eastern Europe,Ukraine,Dnipropetrovsk Oblast,,Kamyanske
-92.60.177.7,4,10794661,Ookla Speedtest Server 33632: sp1.prolvl.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+92.60.177.7,4,20,Ookla Speedtest Server 33632: sp1.prolvl.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 141.98.108.58,4,16,Ookla Speedtest Server 34022: speedtest.netforce.hosting,UA,Europe,Eastern Europe,Ukraine,,,
 195.211.85.70,4,-6,Ookla Speedtest Server 34751: vds.wenet.lviv.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 195.12.59.76,4,24,Ookla Speedtest Server 34898: ookla.kyivlink.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
@@ -1093,15 +1076,15 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.179.213.24,4,10,Ookla Speedtest Server 38783: speedtest.globalnet.kiev.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv Oblast,,Boryspil
 81.17.140.79,4,-6,Ookla Speedtest Server 39357: speedtest.optik.net.ua,UA,Europe,Eastern Europe,Ukraine,,,
 192.166.135.20,4,-13,Ookla Speedtest Server 39363: speedtest.aermaxnet.com,UA,Europe,Eastern Europe,Ukraine,Kharkivs’ka Oblast’,,Zmiyiv
-195.95.147.142,4,-5,Ookla Speedtest Server 39737: speedtest-kl.netgroup.ua,UA,Europe,Eastern Europe,Ukraine,Ivano-Frankivsk Oblast,,Kalush
 195.182.22.3,4,-3,Ookla Speedtest Server 39737: hurricane.arte-fact.net,UA,Europe,Eastern Europe,Ukraine,Ivano-Frankivsk Oblast,,Svarychiv
+195.95.147.142,4,-5,Ookla Speedtest Server 39737: speedtest-kl.netgroup.ua,UA,Europe,Eastern Europe,Ukraine,Ivano-Frankivsk Oblast,,Kalush
 193.242.163.2,4,-2,Ookla Speedtest Server 39798: speedtest.baryshivka.net,UA,Europe,Eastern Europe,Ukraine,Kyiv Oblast,,Baryshivka
 193.142.219.1,4,-3,Ookla Speedtest Server 39932: speedtest.ir.net.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.201.180.150,4,17,Ookla Speedtest Server 40216: speedtest.citynet.kharkiv.ua,UA,Europe,Eastern Europe,Ukraine,Kharkivs’ka Oblast’,,Kharkiv
 95.215.92.239,4,7,Ookla Speedtest Server 40505: speedtest.uacity.net,UA,Europe,Eastern Europe,Ukraine,,,
 31.42.181.3,4,11,Ookla Speedtest Server 40753: speedtest.knopka.pp.ua,UA,Europe,Eastern Europe,Ukraine,Ivano-Frankivsk Oblast,,Kolomyia
 194.42.113.13,4,3,Ookla Speedtest Server 40778: speedtest.ikstelecom.net.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv Oblast,,Borova
-194.42.112.5,4,415,Ookla Speedtest Server 40778: speedtest.ikstelecom.net.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+194.42.112.5,4,2,Ookla Speedtest Server 40778: speedtest.ikstelecom.net.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 62.122.206.147,4,-1,Ookla Speedtest Server 42072: speedtest.uteam.ua,UA,Europe,Eastern Europe,Ukraine,Ivano-Frankivsk Oblast,,Ivano-Frankivsk
 178.20.152.31,4,-8,Ookla Speedtest Server 44026: speedtest.freehost.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 31.42.178.15,4,0,Ookla Speedtest Server 44290: speedtest.winet.com.ua,UA,Europe,Eastern Europe,Ukraine,Khmelnytskyi Oblast,,Shepetivka
@@ -1190,7 +1173,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 95.46.72.11,4,-12,Ookla Speedtest Server 73690: speedtest.vozhd.net.ua,UA,Europe,Eastern Europe,Ukraine,Vinnytsia,,Teplyk
 91.240.98.9,4,-19,Ookla Speedtest Server 74017: stv.lima.net.ua,UA,Europe,Eastern Europe,Ukraine,,,
 176.108.232.29,4,88,Ookla Speedtest Server 74213: speed.skm.com.ua,UA,Europe,Eastern Europe,Ukraine,Sumy,,Sumy
-91.198.31.11,4,148,Ookla Speedtest Server: cso.com.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Zolochiv
+91.198.31.11,4,2,Ookla Speedtest Server: cso.com.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Zolochiv
 193.16.101.25,4,-3,Ookla Speedtest Server: speedinet.berdyansk.net,UA,Europe,Eastern Europe,Ukraine,,,
 91.230.25.94,4,-6,Ookla Speedtest Server: speedtest.kvant.if.ua,UA,Europe,Eastern Europe,Ukraine,,,
 62.205.132.249,4,2636,Ookla Speedtest Server: speedtest.netassist.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
@@ -1204,21 +1187,21 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.104.45.142,4,-8,optimacredit.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.100,4,6,optiua.info,UA,Europe,Eastern Europe,Ukraine,,,
 212.42.83.55,4,6,orakul.com,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.140,4,56,orbita23.com,UA,Europe,Eastern Europe,Ukraine,,,
-185.104.45.128,4,3,orthodoxy.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.140,4,-1,orbita23.com,UA,Europe,Eastern Europe,Ukraine,,,
+185.104.45.128,4,0,orthodoxy.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.9,4,24,orto-mag.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-95.46.32.97,4,0,osonnya.com,UA,Europe,Eastern Europe,Ukraine,Lviv,,Vynnyky
+95.46.32.97,4,-3,osonnya.com,UA,Europe,Eastern Europe,Ukraine,Lviv,,Vynnyky
 195.216.226.16,4,5,osvita.net,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.95,4,-35,otdel.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 31.41.220.195,4,29,otvetim.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.68.208,4,15,otzyvua.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 195.137.240.89,4,13,ovva.tv,UA,Europe,Eastern Europe,Ukraine,,,
 195.137.240.109,4,9,ovva.tv,UA,Europe,Eastern Europe,Ukraine,,,
-77.87.194.105,4,5,oxford-med.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-91.239.232.88,4,16,pack.ua,UA,Europe,Eastern Europe,Ukraine,,,
-195.191.24.174,4,4,packo.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+77.87.194.105,4,0,oxford-med.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+91.239.232.88,4,1,pack.ua,UA,Europe,Eastern Europe,Ukraine,,,
+195.191.24.174,4,0,packo.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.64,4,15,pamjatnik.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-62.182.84.243,4,4,pandora-charmssaleclearance.us,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+62.182.84.243,4,-2,pandora-charmssaleclearance.us,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 5.181.161.98,4,-13,papaflowers.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.205.17.185,4,41913,parus.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 176.103.56.72,4,8008,parusplus.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
@@ -1226,14 +1209,14 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 178.20.154.150,4,110,patrioty.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.65.127,4,9,pawnbat.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 193.0.61.227,4,16,payday.net.ua,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.68.56,4,63,pcweek.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.68.56,4,1,pcweek.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 109.201.246.197,4,103137,pdau.edu.ua,UA,Europe,Eastern Europe,Ukraine,Poltava Oblast,,Poltava
 45.94.158.128,4,-2,pdpu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
-195.138.69.231,4,17,pdpu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
+195.138.69.231,4,2,pdpu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
 91.200.40.18,4,2310,peloton.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.126,4,2,pep.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
-147.78.117.33,4,55,perec.fm,UA,Europe,Eastern Europe,Ukraine,,,
-195.191.25.21,4,52,perfectum.ua,UA,Europe,Eastern Europe,Ukraine,,,
+147.78.117.33,4,1,perec.fm,UA,Europe,Eastern Europe,Ukraine,,,
+195.191.25.21,4,1,perfectum.ua,UA,Europe,Eastern Europe,Ukraine,,,
 77.87.196.210,4,7,personal-plus.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.156.41.187,4,3,pfl.ua,UA,Europe,Eastern Europe,Ukraine,,,
 5.181.161.81,4,4,pharma.ai,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
@@ -1241,22 +1224,22 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 62.149.7.45,4,4,piligrim.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.239.232.212,4,19,pin-up-uz.biz,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.77.225,4,20,pitbddma.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-91.200.40.92,4,994,pkind.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+91.200.40.92,4,2139,pkind.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 195.64.154.155,4,6,pl.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-31.41.216.67,4,44,planetarebusov.com,UA,Europe,Eastern Europe,Ukraine,,,
+31.41.216.67,4,1,planetarebusov.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.78,4,43,platfor.ma,UA,Europe,Eastern Europe,Ukraine,,,
 195.54.163.111,4,8,playmarket.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.94,4,4,plittorgservis.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.205.16.66,4,3,pnpu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 89.184.78.143,4,-9,podarkoff.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.67.1.83,4,42,podolfitness.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.67.1.83,4,0,podolfitness.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.200.40.116,4,-15,podolyanin.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 77.88.252.42,4,7,poetryclub.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 176.114.8.9,4,12,pogliad.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
-95.158.22.28,4,71,poglyad.tv,UA,Europe,Eastern Europe,Ukraine,Kyiv Oblast,,Kotsiubynske
-185.68.16.117,4,35,polimer.ltd,UA,Europe,Eastern Europe,Ukraine,,,
+95.158.22.28,4,2,poglyad.tv,UA,Europe,Eastern Europe,Ukraine,Kyiv Oblast,,Kotsiubynske
+185.68.16.117,4,0,polimer.ltd,UA,Europe,Eastern Europe,Ukraine,,,
 178.20.157.233,4,17,polissiauniver.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
-91.222.137.198,4,2123,poltava.info,UA,Europe,Eastern Europe,Ukraine,,,
+91.222.137.198,4,0,poltava.info,UA,Europe,Eastern Europe,Ukraine,,,
 193.178.144.111,4,4,pon.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 178.20.158.12,4,8,poradnica.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.19.202,4,4,porady.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
@@ -1270,24 +1253,23 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 77.87.194.60,4,2,pravda.press,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.155,4,5,pravo.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.239.234.8,4,118756,pravoslavye.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
-178.20.158.103,4,49,presa.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.111,4,67,preskub.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+178.20.158.103,4,-8,presa.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.111,4,0,preskub.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.75.213,4,7,pressorg24.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 5.181.161.92,4,14,priceva.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.73,4,16,prikhodko.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.69.153.96,4,14,primehouse.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.69.153.96,4,-1,primehouse.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.222.136.252,4,-3,printer.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.168,4,59,printhub.pro,UA,Europe,Eastern Europe,Ukraine,,,
 176.107.176.66,4,24,pro-consulting.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-194.28.86.105,4,44,pro1c.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.76.40,4,9,prodj.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+194.28.86.105,4,1,pro1c.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 62.149.26.52,4,229225,proext.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.233.42.19,4,15,profi-credit.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.234.35.249,4,1597,profi.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
-185.233.37.160,4,48,profiwins.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.233.37.160,4,-1,profiwins.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 77.123.155.94,4,18,profootball.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.176,4,-1,profoptica.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.124.9.61,4,64,profpereklad.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.124.9.61,4,0,profpereklad.ua,UA,Europe,Eastern Europe,Ukraine,,,
 77.120.124.80,4,6,profpressa.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 89.184.69.86,4,6,promobud.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.65.245.60,4,58,prootech.info,UA,Europe,Eastern Europe,Ukraine,,,
@@ -1299,8 +1281,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.178.150.61,4,96058,prozorro.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
 94.131.241.201,4,4,prozorro.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.62,4,-2,prynext.com,UA,Europe,Eastern Europe,Ukraine,,,
-31.131.18.79,4,14,pryvitop.net.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
-45.94.156.70,4,14,psihoterapevt-kiev.com.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
+31.131.18.79,4,-4,pryvitop.net.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
+45.94.156.70,4,-3,psihoterapevt-kiev.com.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 93.190.41.220,4,1,pstu.edu,UA,Europe,Eastern Europe,Ukraine,,,
 193.169.188.152,4,37,psy-practice.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.222.137.28,4,5,psyfactor.org,UA,Europe,Eastern Europe,Ukraine,,,
@@ -1316,67 +1298,66 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 91.203.4.121,4,10,radiomaria.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 89.184.68.36,4,8,radiorelax.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 89.184.69.170,4,13,radioroks.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-193.0.142.165,4,1366,rashodniki.net.ua,UA,Europe,Eastern Europe,Ukraine,,,
+193.0.142.165,4,318,rashodniki.net.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.124.8.18,4,5,rastamozhka.com,UA,Europe,Eastern Europe,Ukraine,,,
-194.0.200.204,4,94538,ratinggroup.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+194.0.200.204,4,188177,ratinggroup.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 31.131.24.136,4,4,rau.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 185.68.16.144,4,0,reabit.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 176.114.7.104,4,7,realdom.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
-89.184.92.104,4,59,realgazeta.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-91.200.40.73,4,-487,rebus1.com,UA,Europe,Eastern Europe,Ukraine,,,
+89.184.92.104,4,-1,realgazeta.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 77.120.119.25,4,23,receptika.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 89.184.69.209,4,6,reform.energy,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 212.66.44.50,4,17,reklamisto.com,UA,Europe,Eastern Europe,Ukraine,Donetsk,,Makiyivka
 176.107.190.231,4,8,relax.ge,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.158,4,4,remontlviv.top,UA,Europe,Eastern Europe,Ukraine,,,
 5.181.161.88,4,45,rent-me.cy,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-89.184.92.26,4,11,rental-power.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.92.26,4,-1,rental-power.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 176.114.8.39,4,9,retro.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
 185.104.45.7,4,15,rev.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.66.83,4,17,rezina.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 31.41.220.92,4,11,ria.ua,UA,Europe,Eastern Europe,Ukraine,,,
-91.200.43.64,4,5,rid.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
+91.200.43.64,4,0,rid.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 194.44.175.95,4,11,risu.org.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 89.184.95.50,4,8,rito.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-45.94.157.17,4,6,rivne1.tv,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
-185.68.16.8,4,15,rivnenews.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+45.94.157.17,4,-4,rivne1.tv,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
+185.68.16.8,4,-1,rivnenews.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.228.147.20,4,28,robik.net,UA,Europe,Eastern Europe,Ukraine,,,
-185.104.45.146,4,49,roditeli.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.104.45.146,4,0,roditeli.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.145,4,89,rolivka.online,UA,Europe,Eastern Europe,Ukraine,,,
-213.169.83.158,4,12,romsat.ua,UA,Europe,Eastern Europe,Ukraine,,,
+213.169.83.158,4,0,romsat.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.79.154,4,1,romstal.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.218.214.1,4,17,roofer.cz,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.35,4,-2,rosadent.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.4.43.156,4,25,roznica.com.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
 185.104.45.3,4,-6,rpr.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.225.138.200,4,17,rshu.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
-77.120.120.231,4,23,rstcars.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+77.120.120.231,4,0,rstcars.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.32,4,19,rteam.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-62.244.25.73,4,7,rtkorr.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
+62.244.25.73,4,-1,rtkorr.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
 89.184.73.102,4,7,ruporzt.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 194.54.80.22,4,1,rx-name.ua,UA,Europe,Eastern Europe,Ukraine,,,
 212.1.77.173,4,-718,sai.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.68.16.46,4,4,samisdat.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.46,4,-1,samisdat.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.165,4,9,samokat.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.203.4.44,4,-4,santmat.net.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.63,4,16,sat.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.33,4,14,saveukraineua.org,UA,Europe,Eastern Europe,Ukraine,,,
-185.104.45.67,4,3,saveukraineua.org,UA,Europe,Eastern Europe,Ukraine,,,
+185.104.45.67,4,0,saveukraineua.org,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.17.57,4,-14,schoollife.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 31.222.235.200,4,10,sci-conf.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.72.49,4,7,sd.net.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.3,4,5,sdk-kotel.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 194.180.10.23,4,8,sdp-studio.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.67.3.63,4,3,sdp-studio.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.65.27,4,940102,secunda.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+185.67.3.63,4,0,sdp-studio.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+89.184.65.27,4,322,secunda.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 194.180.10.58,4,-16,security-hub.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.218.214.188,4,6,seo-akademiya.com,UA,Europe,Eastern Europe,Ukraine,,,
-185.124.10.51,4,19,seo-live.com,UA,Europe,Eastern Europe,Ukraine,,,
-178.20.158.239,4,8,sergeidovlatov.com,UA,Europe,Eastern Europe,Ukraine,,,
+185.124.10.51,4,0,seo-live.com,UA,Europe,Eastern Europe,Ukraine,,,
+178.20.158.239,4,2,sergeidovlatov.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.113,4,11,service-core.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.40,4,5,services-realty.com,UA,Europe,Eastern Europe,Ukraine,,,
 194.28.87.139,4,8398222,setevuha.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-213.59.161.38,4,12,sev.gov.ru,UA,Europe,Eastern Europe,Ukraine,Sebastopol City,,Sevastopol
+213.59.161.38,4,-20,sev.gov.ru,UA,Europe,Eastern Europe,Ukraine,Sebastopol City,,Sevastopol
 78.30.254.13,4,10,sevstar.net,UA,Europe,Eastern Europe,Ukraine,Sebastopol City,,Sevastopol
 185.68.16.162,4,30,sex-shop.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.219.60.108,4,333,sharikiposhtuchno.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
@@ -1385,63 +1366,63 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.104.45.106,4,7,shopgun.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.234.33.14,4,6,shukach.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
 195.234.4.57,4,15,sifservice.com,UA,Europe,Eastern Europe,Ukraine,,,
-185.252.24.61,4,4,sillanium.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
-5.181.161.78,4,37,silovik.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-193.47.166.208,4,45,simadm.ru,UA,Europe,Eastern Europe,Ukraine,Crimea,,
-89.184.76.76,4,7,simplyroad.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-89.184.94.114,4,7,sinitargaming.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+185.252.24.61,4,0,sillanium.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
+5.181.161.78,4,-2,silovik.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+193.47.166.208,4,-5,simadm.ru,UA,Europe,Eastern Europe,Ukraine,Crimea,,
+89.184.76.76,4,0,simplyroad.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.94.114,4,1,sinitargaming.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.163,4,2,site2b.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.202.109.55,4,18,siteua.org,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.13,4,11,sitniks.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.222.137.178,4,14,skachat-prilozhenie.com,UA,Europe,Eastern Europe,Ukraine,,,
 5.181.161.94,4,5,skyplaza.su,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-89.184.75.57,4,6,slavuta-mvk.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.104.45.14,4,3,slinko.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+89.184.75.57,4,-1,slavuta-mvk.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+185.104.45.14,4,0,slinko.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 130.0.235.80,4,-8,slots-online-ua.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.156.41.194,4,6,slovnyk.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.156.41.194,4,0,slovnyk.ua,UA,Europe,Eastern Europe,Ukraine,,,
 195.189.246.9,4,2,slovopedia.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.121,4,6,slovoproslovo.info,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.61,4,4,smartdesigne.biz,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.61,4,0,smartdesigne.biz,UA,Europe,Eastern Europe,Ukraine,,,
 45.94.158.182,4,11,smartil.net,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 31.131.22.61,4,20,smartlandacademy.com,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 77.87.194.115,4,12,smarttech.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.202.75.140,4,212640,smida.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.235.219.7,4,22,snu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv Oblast,,
-185.253.218.91,4,44,snu.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.253.218.91,4,1,snu.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.233.42.228,4,6,socportal.info,UA,Europe,Eastern Europe,Ukraine,,,
 194.44.147.22,4,-19,sofs.org.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
-195.64.225.95,4,31,softlira.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+195.64.225.95,4,1,softlira.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.241.109.188,4,0,softlist.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 194.28.85.112,4,15,soippo.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.47,4,9,sophie-decor.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.38,4,15,soprano-terrace.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.39,4,7,spec-kor.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.69,4,88,spiderhoodieshop.org,UA,Europe,Eastern Europe,Ukraine,,,
-195.191.25.159,4,3,spool.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+195.191.25.159,4,0,spool.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.77.112,4,12,sport-engine.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.211,4,13,sport-power.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.210.190.123,4,10,sportanalytic.com,UA,Europe,Eastern Europe,Ukraine,,,
 194.54.81.46,4,10,sporthappy.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-91.200.40.64,4,9,sportsbettingoperator.com,UA,Europe,Eastern Europe,Ukraine,,,
-185.233.119.59,4,10,sportsummit.ua,UA,Europe,Eastern Europe,Ukraine,,,
+91.200.40.64,4,0,sportsbettingoperator.com,UA,Europe,Eastern Europe,Ukraine,,,
+185.233.119.59,4,-1,sportsummit.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.66.91.211,4,20,springfieldspringfield.co.uk,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 5.181.161.99,4,28,stacks.foundation,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.253.218.233,4,309,stavki.ua,UA,Europe,Eastern Europe,Ukraine,,,
-213.133.160.37,4,10,stockworld.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+213.133.160.37,4,2,stockworld.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.164,4,41,stroimvmeste.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.67,4,26,stud-point.com,UA,Europe,Eastern Europe,Ukraine,,,
 91.200.221.84,4,18,su6733.com,UA,Europe,Eastern Europe,Ukraine,,,
-77.87.193.182,4,7,sundaynews.info,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+77.87.193.182,4,2,sundaynews.info,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.19.55,4,9,sunmall.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.48,4,-5,super-boss-casino.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 194.28.173.100,4,38,superagronom.com,UA,Europe,Eastern Europe,Ukraine,,,
-91.239.233.23,4,99,superkniga.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.67.1.196,4,42,supersound.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.156.42.49,4,12,svetlovodsk.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+91.239.233.23,4,0,superkniga.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.67.1.196,4,0,supersound.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.156.42.49,4,1,svetlovodsk.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 176.105.232.151,4,5,sviato.top,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
-194.28.84.97,4,18,svit-matrasiv.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-91.210.190.138,4,5,svitlodar.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
-91.200.40.21,4,882,svitmedu.com,UA,Europe,Eastern Europe,Ukraine,,,
+194.28.84.97,4,-2,svit-matrasiv.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+91.210.190.138,4,1,svitlodar.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
+91.200.40.21,4,2362,svitmedu.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.158,4,3,sweetbonanzza.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.156.42.22,4,11,sworld.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.150,4,-1,sys2biz.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
@@ -1450,20 +1431,20 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 5.181.161.75,4,-7,tarusov.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.239.234.99,4,-8,tashkenttimes.uz,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.72,4,11,taurus-2000.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-45.87.90.120,4,16,tavriya.com.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
+45.87.90.120,4,-1,tavriya.com.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 93.170.13.1,4,-13798,tcc.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-195.138.80.34,4,4,te.net.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
+195.138.80.34,4,2,te.net.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
 185.104.45.126,4,11,techukraine.org,UA,Europe,Eastern Europe,Ukraine,,,
 194.1.182.203,4,14,teddyclub.info,UA,Europe,Eastern Europe,Ukraine,,,
 195.137.240.87,4,10,telekritika.ua,UA,Europe,Eastern Europe,Ukraine,,,
 195.137.240.107,4,48,telekritika.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.69.152.107,4,24,tellme.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 45.94.159.104,4,6,tellur.com.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
-185.104.45.101,4,72,tellur.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-77.87.195.44,4,23,temis.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+185.104.45.101,4,0,tellur.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+77.87.195.44,4,1,temis.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.105,4,10,tennismag.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 194.28.87.113,4,-16,tennisua.org,UA,Europe,Eastern Europe,Ukraine,,,
-185.104.45.164,4,45,teplahatka.com,UA,Europe,Eastern Europe,Ukraine,,,
+185.104.45.164,4,0,teplahatka.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.50,4,8,teplo-hata.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.230.89.59,4,20,teploecodom.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
 185.104.45.130,4,18,teplostart.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
@@ -1471,22 +1452,21 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.68.16.57,4,19,ternovka4school.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 195.137.240.104,4,18,tet.tv,UA,Europe,Eastern Europe,Ukraine,,,
 195.137.240.84,4,9,tet.tv,UA,Europe,Eastern Europe,Ukraine,,,
-185.104.45.167,4,4,texbi.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.104.45.167,4,0,texbi.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.125,4,11,thealphacentauri.net,UA,Europe,Eastern Europe,Ukraine,,,
-195.3.246.75,4,4,theatreyalta.com,UA,Europe,Eastern Europe,Ukraine,Crimea,,
+195.3.246.75,4,-18,theatreyalta.com,UA,Europe,Eastern Europe,Ukraine,Crimea,,
 91.234.32.2,4,11,thehost.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
 91.234.33.3,4,17,thehost.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
-5.181.161.235,4,19,tilda.cc,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-5.181.161.249,4,335,tilda.education,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-5.181.161.9,4,22,tilda.ws,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-5.181.161.8,4,4,tilda.ws,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-5.181.161.7,4,29,tilda.ws,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-176.97.113.27,4,2,timebusinessnews.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+5.181.161.235,4,-1,tilda.cc,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+5.181.161.249,4,-2,tilda.education,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+5.181.161.9,4,-2,tilda.ws,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+5.181.161.8,4,-3,tilda.ws,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+5.181.161.7,4,-2,tilda.ws,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+176.97.113.27,4,8,timebusinessnews.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 89.184.79.31,4,-1,timeua.info,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-195.138.69.237,4,4,tochmash.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
+195.138.69.237,4,2,tochmash.ua,UA,Europe,Eastern Europe,Ukraine,Odesa,,Odesa
 5.181.161.96,4,13,toda.ae,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.124,4,15,top-level.ua,UA,Europe,Eastern Europe,Ukraine,,,
-77.120.21.51,4,-51418,topnews.media,UA,Europe,Eastern Europe,Ukraine,Khmelnytskyi Oblast,,Khmelnytskyi
 185.68.19.144,4,13,toprating.casino,UA,Europe,Eastern Europe,Ukraine,,,
 185.233.41.175,4,2,torgsoft.ua,UA,Europe,Eastern Europe,Ukraine,,,
 77.87.199.90,4,11,totalaction.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
@@ -1494,9 +1474,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 89.184.69.28,4,28,trademaster.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.210,4,21,tribun.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 62.182.86.209,4,15,trilema.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.68.16.108,4,2,trioteks.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.108,4,1,trioteks.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 194.54.83.126,4,24,tripland.info,UA,Europe,Eastern Europe,Ukraine,,,
-195.191.24.212,4,-181,tsoua.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.166,4,9,tt-kotel.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.152,4,24,turii.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 77.123.138.205,4,9,tuthost.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
@@ -1510,7 +1489,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.68.16.49,4,10,uaa.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 77.87.193.181,4,27,uaf.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 195.78.93.245,4,15,uafilmacademy.org,UA,Europe,Eastern Europe,Ukraine,,,
-194.28.86.203,4,20,ualifeline.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+194.28.86.203,4,1,ualifeline.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 195.248.225.110,4,501,uamarket.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.102,4,10,uanimals.org,UA,Europe,Eastern Europe,Ukraine,,,
 195.64.225.206,4,11,uaport.net,UA,Europe,Eastern Europe,Ukraine,,,
@@ -1518,7 +1497,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.91.75.28,4,20,uareview.com,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 195.137.240.108,4,18,uatoday.tv,UA,Europe,Eastern Europe,Ukraine,,,
 195.137.240.88,4,11,uatoday.tv,UA,Europe,Eastern Europe,Ukraine,,,
-185.237.206.6,4,5,uazakon.com,UA,Europe,Eastern Europe,Ukraine,,,
+185.237.206.6,4,-1,uazakon.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.173,4,15,uchkombinat.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 5.181.161.11,4,20,udance.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 93.190.40.164,4,5,udau.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
@@ -1529,12 +1508,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.67.3.147,4,25,ukr-inform.com,UA,Europe,Eastern Europe,Ukraine,,,
 31.131.22.243,4,2,ukrainaincognita.com,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 185.39.224.104,4,34,ukraine.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-217.196.160.115,4,18,ukraineforum.com.ua,UA,Europe,Eastern Europe,Ukraine,Ternopil Oblast,,Ternopil
-185.68.16.75,4,1,ukrainepravo.com,UA,Europe,Eastern Europe,Ukraine,,,
+217.196.160.115,4,0,ukraineforum.com.ua,UA,Europe,Eastern Europe,Ukraine,Ternopil Oblast,,Ternopil
+185.68.16.75,4,0,ukrainepravo.com,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.90.29,4,-3,ukraineworld.org,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 194.113.32.159,4,-13,ukrainian-casinos.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
-31.28.162.148,4,-212,ukrainochka.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.65.244.90,4,17,ukrajina.today,UA,Europe,Eastern Europe,Ukraine,,,
+185.65.244.90,4,1,ukrajina.today,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.96,4,15,ukrbilliard.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 176.111.63.7,4,-4286,ukrboard.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 88.81.234.98,4,-862,ukrbook.net,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
@@ -1544,11 +1522,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 77.87.199.95,4,10,ukrfunds.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 173.242.57.10,4,26,ukrhealth.net,UA,Europe,Eastern Europe,Ukraine,,,
 91.203.4.142,4,39,ukrinformer.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.68.16.179,4,5,ukrion.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.179,4,0,ukrion.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 194.54.83.122,4,24,ukrlib.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 77.120.104.30,4,15,ukrlife.org,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-193.200.255.34,4,-1378,ukrlife.org,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.137,4,1,ukrlife.tv,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.137,4,0,ukrlife.tv,UA,Europe,Eastern Europe,Ukraine,,,
 62.149.0.11,4,14,ukrlit.org,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.63,4,13,ukrnafta.com,UA,Europe,Eastern Europe,Ukraine,,,
 91.231.84.4,4,232,ukrnames.com,UA,Europe,Eastern Europe,Ukraine,,,
@@ -1564,57 +1541,53 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.68.16.88,4,-5,uku.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 77.120.113.139,4,14,ukurier.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.79,4,0,ula.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.196,4,17,ulf.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.196,4,0,ulf.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.181,4,4,ulf.ua,UA,Europe,Eastern Europe,Ukraine,,,
 31.131.18.24,4,30,ulibrv.com.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 91.205.16.133,4,10,ulichka.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-217.20.175.5,4,42,ultras.lv,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+217.20.175.5,4,2,ultras.lv,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 193.169.189.180,4,15,umo.edu.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 77.87.192.133,4,9,un.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 171.25.204.49,4,14,uni-sport.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
-171.25.204.51,4,731,uni-sport.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
+171.25.204.51,4,269,uni-sport.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.175,4,22,unique-u.biz,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.125,4,11,unit.city,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.76.203,4,9,universalna.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 194.28.87.25,4,14,upl.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.250.20.192,4,14,usfa.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.12,4,8,usubc.org,UA,Europe,Eastern Europe,Ukraine,,,
-77.87.195.27,4,9,utp.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+77.87.195.27,4,0,utp.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 77.120.102.145,4,9,utro.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.83,4,9,uu.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
 45.89.91.78,4,8,uw0wu.com,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 89.184.89.250,4,6,uwf.org.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.233.36.29,4,5,uzhgorod.in,UA,Europe,Eastern Europe,Ukraine,,,
-185.104.45.27,4,21,uzhhorodka.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.233.36.29,4,0,uzhgorod.in,UA,Europe,Eastern Europe,Ukraine,,,
+185.104.45.27,4,0,uzhhorodka.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 176.105.232.25,4,6,uzhnu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
 193.200.255.9,4,18,v.ua,UA,Europe,Eastern Europe,Ukraine,,,
-193.200.255.44,4,1612,v.ua,UA,Europe,Eastern Europe,Ukraine,,,
+193.200.255.44,4,7247251,v.ua,UA,Europe,Eastern Europe,Ukraine,,,
 195.60.70.5,4,-3,VAK Ltd.,UA,Europe,Eastern Europe,Ukraine,Poltava Oblast,,Poltava
 77.222.135.210,4,102,vaks.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.196.54.115,4,-2,varta1.com.ua,UA,Europe,Eastern Europe,Ukraine,Lviv,,Lviv
-185.68.16.97,4,7,vashbit.com,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.97,4,0,vashbit.com,UA,Europe,Eastern Europe,Ukraine,,,
 194.28.84.104,4,20,vasilkov.info,UA,Europe,Eastern Europe,Ukraine,,,
 193.200.255.30,4,189332,vdd.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.10,4,14,vdruzhkovke.net,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.10,4,0,vdruzhkovke.net,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.150,4,12,velesritual.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.104.45.65,4,49,velles-shop.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.104.45.65,4,0,velles-shop.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.239.232.65,4,5,velomania.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 173.242.53.224,4,42,velopuls.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.104,4,9,velorout.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-95.67.14.185,4,4,veneto.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+95.67.14.185,4,-1,veneto.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 88.218.191.98,4,27,venko.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
 77.87.195.219,4,15,ventels.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.235.218.120,4,-15,verselrstudio.com,UA,Europe,Eastern Europe,Ukraine,Kyiv Oblast,,
 185.67.2.5,4,600,vertical-soft.com,UA,Europe,Eastern Europe,Ukraine,,,
 194.54.83.123,4,9,veryuseful.website,UA,Europe,Eastern Europe,Ukraine,,,
 212.68.160.1,4,222,viaduk.net,UA,Europe,Eastern Europe,Ukraine,,,
-185.68.16.183,4,38,viagra911.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.68.16.183,4,0,viagra911.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.218.212.199,4,11,vibori.co.ua,UA,Europe,Eastern Europe,Ukraine,,,
 193.0.61.245,4,12,victoriasecret.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-62.122.152.21,4,-773576,videoprobki.ua,UA,Europe,Eastern Europe,Ukraine,,,
-62.122.152.22,4,-773574,videoprobki.ua,UA,Europe,Eastern Europe,Ukraine,,,
-62.122.152.23,4,-773574,videoprobki.ua,UA,Europe,Eastern Europe,Ukraine,,,
-62.122.152.24,4,-773575,videoprobki.ua,UA,Europe,Eastern Europe,Ukraine,,,
 94.179.155.180,4,29,vidi.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.205.18.70,4,12,vidiani.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.108,4,12,vidpochynok.net,UA,Europe,Eastern Europe,Ukraine,,,
@@ -1622,17 +1595,17 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 194.28.174.227,4,22,vinbazar.com,UA,Europe,Eastern Europe,Ukraine,,,
 81.30.160.44,4,13,vinnitsa.com,UA,Europe,Eastern Europe,Ukraine,Vinnytsia,,Vinnytsia
 93.190.41.90,4,11,vipautokiev.com,UA,Europe,Eastern Europe,Ukraine,,,
-77.87.193.210,4,7,vipyork.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-91.239.233.24,4,7,virtusinterpress.org,UA,Europe,Eastern Europe,Ukraine,,,
+77.87.193.210,4,0,vipyork.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+91.239.233.24,4,2,virtusinterpress.org,UA,Europe,Eastern Europe,Ukraine,,,
 195.64.225.20,4,5,visti.net,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.91.146,4,8,vitannya.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.91.146,4,-1,vitannya.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 31.41.222.126,4,9,vitatv.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 194.180.10.31,4,19,vitava.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.41,4,13,vivatbets.fi,UA,Europe,Eastern Europe,Ukraine,,,
 178.20.156.15,4,7,vk-kp.info,UA,Europe,Eastern Europe,Ukraine,,,
-45.135.0.30,4,28,vkruiz.com,UA,Europe,Eastern Europe,Ukraine,,,
+45.135.0.30,4,0,vkruiz.com,UA,Europe,Eastern Europe,Ukraine,,,
 176.97.124.188,4,6,vkspeed.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.66.91.103,4,73,vkspeed.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+185.66.91.103,4,-1,vkspeed.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 176.114.8.40,4,1,vkurse.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
 91.228.146.5,4,20,vlasenko.net,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.80,4,13,vlasno.info,UA,Europe,Eastern Europe,Ukraine,,,
@@ -1640,9 +1613,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.177.236.76,4,-16319,vnmu.edu.ua,UA,Europe,Eastern Europe,Ukraine,Vinnytsia,,Vinnytsia
 194.146.143.10,4,7,vntu.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
 176.102.34.146,4,46,vobu.ua,UA,Europe,Eastern Europe,Ukraine,,,
-91.200.40.89,4,-11,vodenet.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-31.41.216.85,4,70,voltolinacomponents.com,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.77.102,4,37,volyninfo.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+31.41.216.85,4,1,voltolinacomponents.com,UA,Europe,Eastern Europe,Ukraine,,,
+89.184.77.102,4,2,volyninfo.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 77.87.194.57,4,8,volynonline.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.18,4,12,vorskla.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 94.131.246.43,4,-2,vpoltave.info,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
@@ -1652,10 +1624,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 77.120.117.86,4,17,vse.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 194.1.195.46,4,21,vsei.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 89.184.74.127,4,0,vsekolesa.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-185.104.45.148,4,51,vsi-slova.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.104.45.148,4,0,vsi-slova.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.203.4.62,4,18,vsirazom.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.174.174.220,4,7,vspu.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
-176.111.61.25,4,0,vsupport.club,UA,Europe,Eastern Europe,Ukraine,,,
+176.111.61.25,4,1,vsupport.club,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.76.177,4,10,vtei.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.222.136.250,4,16,vtochku.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.37,4,8,vtop-shop.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
@@ -1667,38 +1639,37 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 89.184.73.225,4,20,walton.biz,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 195.66.214.191,4,-3,waploaded.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.81,4,11,water-house.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.254.197.149,4,14,wavesense.info,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+185.254.197.149,4,0,wavesense.info,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.31,4,18,wd.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.124.9.122,4,15,web-creator.org,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.20,4,9,web-promo.ua,UA,Europe,Eastern Europe,Ukraine,,,
-5.181.161.80,4,326,web-sollet.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+5.181.161.80,4,0,web-sollet.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.25,4,6,web3.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.123,4,5,webmax.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.218.214.32,4,-769263,webplus.info,UA,Europe,Eastern Europe,Ukraine,,,
-185.104.45.11,4,30,webpromotion.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.104.45.11,4,0,webpromotion.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.115,4,9,webvision.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.73.158,4,16,wedding.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.238.103.106,4,28,weekend.today,UA,Europe,Eastern Europe,Ukraine,,,
-89.184.74.196,4,9,wellcrypto.io,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+89.184.74.196,4,0,wellcrypto.io,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 89.184.94.25,4,-11,weltex.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 176.114.9.56,4,17,wem.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,
 185.104.45.113,4,24,westernboots.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 195.191.24.169,4,6,wildtour.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.222.137.223,4,4,winnerauto.ua,UA,Europe,Eastern Europe,Ukraine,,,
-91.239.234.30,4,10,wlm.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.222.136.151,4,4,wmax.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 88.81.252.221,4,8,wog.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 89.184.68.106,4,38,womanadvice.ru,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 91.206.200.104,4,9,womenshop.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-91.200.40.74,4,815,wonderbox.ua,UA,Europe,Eastern Europe,Ukraine,,,
-185.104.45.110,4,15,world-press.org,UA,Europe,Eastern Europe,Ukraine,,,
+91.200.40.74,4,1896,wonderbox.ua,UA,Europe,Eastern Europe,Ukraine,,,
+185.104.45.110,4,-1,world-press.org,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.137,4,5,wp-puzzle.com,UA,Europe,Eastern Europe,Ukraine,,,
 89.184.79.27,4,5,wpcalc.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.104.45.77,4,14,writeontrack.ie,UA,Europe,Eastern Europe,Ukraine,,,
 91.200.40.77,4,1650,x-terra.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
-91.222.136.87,4,1,xado.com,UA,Europe,Eastern Europe,Ukraine,,,
+91.222.136.87,4,-1,xado.com,UA,Europe,Eastern Europe,Ukraine,,,
 93.190.45.5,4,5,xn--41-4lcpj.xn--j1amh,UA,Europe,Eastern Europe,Ukraine,,,
-195.12.59.57,4,72,xn--80aaahwfaullzm.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
+195.12.59.57,4,-1,xn--80aaahwfaullzm.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.233.38.92,4,10,xn--80adgeboqrpy5j.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 91.222.136.253,4,12,xn--90aamhd6acpq0s.xn--j1amh,UA,Europe,Eastern Europe,Ukraine,,,
 193.47.166.204,4,6,xn--e1afeoglahgd.xn--p1ai,UA,Europe,Eastern Europe,Ukraine,Crimea,,
@@ -1713,18 +1684,18 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 85.198.140.58,4,13,yuzhmash.com,UA,Europe,Eastern Europe,Ukraine,Dnipropetrovsk Oblast,,Dnipro
 94.153.136.150,4,-54,yuzhmash.com,UA,Europe,Eastern Europe,Ukraine,Dnipropetrovsk Oblast,,Dnipro
 89.184.78.152,4,10,zagorodna.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-195.54.163.133,4,1613,zai4atka.com,UA,Europe,Eastern Europe,Ukraine,,,
-212.1.100.6,4,7,zakarpat-rada.gov.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Uzhhorod
+195.54.163.133,4,-4,zai4atka.com,UA,Europe,Eastern Europe,Ukraine,,,
+212.1.100.6,4,-9,zakarpat-rada.gov.ua,UA,Europe,Eastern Europe,Ukraine,Zakarpattia Oblast,,Uzhhorod
 91.223.223.113,4,9,zakvaski.com,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.120,4,2,zapravka-remont.net,UA,Europe,Eastern Europe,Ukraine,,,
 77.123.131.90,4,1707311,zarya-lugansk.com,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 185.68.16.151,4,2,zaryadni-stancii.co.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.68.16.11,4,3,zdolbunivcity.net,UA,Europe,Eastern Europe,Ukraine,,,
-91.210.190.92,4,12,zdorovia.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+91.210.190.92,4,0,zdorovia.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.116,4,-10,zdorovyablago.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.69.152.109,4,8,zdravoe.com,UA,Europe,Eastern Europe,Ukraine,,,
 91.235.128.91,4,3,zefirka.net.ua,UA,Europe,Eastern Europe,Ukraine,,,
-91.200.40.69,4,967,zelenadacha.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
+91.200.40.69,4,2128,zelenadacha.com.ua,UA,Europe,Eastern Europe,Ukraine,,,
 5.181.161.89,4,3,zemits.co.uk,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 5.181.161.29,4,7,zemits.com.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
 193.107.74.184,4,1,zht.gov.ua,UA,Europe,Eastern Europe,Ukraine,Zhytomyr,,Zhytomyr
@@ -1736,8 +1707,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 46.164.150.220,4,-11,zoda.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
 185.104.45.76,4,3,zokb.org.ua,UA,Europe,Eastern Europe,Ukraine,,,
 88.81.239.203,4,7,zp.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-80.254.6.205,4,-3,zp.gov.ua,UA,Europe,Eastern Europe,Ukraine,Kyiv City,,Kyiv
-94.179.117.178,4,-4,zp.gov.ua,UA,Europe,Eastern Europe,Ukraine,,,
 93.190.41.73,4,1,zsmu.edu.ua,UA,Europe,Eastern Europe,Ukraine,,,
 195.69.222.130,4,3,zt.ua,UA,Europe,Eastern Europe,Ukraine,Zhytomyr,,Zhytomyr
 91.200.40.54,4,720,zubrag.com,UA,Europe,Eastern Europe,Ukraine,,,

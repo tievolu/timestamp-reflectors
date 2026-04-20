@@ -2,15 +2,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 94.139.39.10,4,35,amazone.be,BE,Europe,Western Europe,Belgium,Wallonia,Namur Province,Gembloux
 213.177.64.28,4,-15,brocanteterre.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Flémalle
 139.165.51.100,4,-2,chuliege.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
-91.177.143.183,4,89,DNS Server: 183.143-177-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Wallonia,Walloon Brabant Province,Nivelles
-87.66.50.41,4,11,DNS Server: 41.50-66-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Wallonia,Hainaut Province,Charleroi
 91.182.59.41,4,-1,DNS Server: 41.59-182-91.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
 79.132.242.65,4,-66,DNS Server: 79.132.242.65.fix.adsl.edpnet.net,BE,Europe,Western Europe,Belgium,Wallonia,Hainaut Province,Morlanwelz-Mariemont
 87.65.84.87,4,46,DNS Server: 87.84-65-87.adsl-dyn.isp.belgacom.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
 83.134.123.101,4,65,DNS Server: ip-83-134-123-101.dsl.scarlet.be,BE,Europe,Western Europe,Belgium,Wallonia,Hainaut Province,La Louvière
 193.190.182.53,4,-4,DoH server: dns.belnet.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
 185.99.48.223,4,-1061776,exalto.be,BE,Europe,Western Europe,Belgium,Wallonia,Hainaut Province,Montigny-le-Tilleul
-139.165.57.26,4,3,fsagx.ac.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
+139.165.57.26,4,0,fsagx.ac.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
 139.165.160.20,4,-15,gmsh.info,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Awans
 46.16.240.100,4,4,intermarche.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège
 193.190.183.132,4,-30,kmska.be,BE,Europe,Western Europe,Belgium,Wallonia,Liège Province,Liège

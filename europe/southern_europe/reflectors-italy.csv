@@ -1,14 +1,14 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-213.225.201.14,4,5,01ilpolicentro.it,IT,Europe,Southern Europe,Italy,,,
+213.225.201.14,4,1,01ilpolicentro.it,IT,Europe,Southern Europe,Italy,,,
 159.213.236.43,4,-39,055055.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Florence,Florence
 149.3.144.224,4,6,21luglio.org,IT,Europe,Southern Europe,Italy,,,
 86.107.37.44,4,597,2duerighe.com,IT,Europe,Southern Europe,Italy,,,
 213.158.84.101,4,-2,2espadrilles.com,IT,Europe,Southern Europe,Italy,,,
 89.40.174.51,4,7,2morrow.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
-46.252.158.176,4,1,3x3.it,IT,Europe,Southern Europe,Italy,,,
+46.252.158.176,4,0,3x3.it,IT,Europe,Southern Europe,Italy,,,
 213.158.86.49,4,-4,45amigos.com,IT,Europe,Southern Europe,Italy,,,
 78.138.45.207,4,-3,6717hotelspa.com,IT,Europe,Southern Europe,Italy,Piedmont,Province of Alessandria,Casale Monferrato
-89.40.173.233,4,531,77games.io,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
+89.40.173.233,4,0,77games.io,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 213.158.84.123,4,0,99sushibar.com,IT,Europe,Southern Europe,Italy,,,
 86.107.38.11,4,-1861,a-m-a.it,IT,Europe,Southern Europe,Italy,,,
 81.88.52.64,4,12,abarloarart.com,IT,Europe,Southern Europe,Italy,,,
@@ -16,19 +16,19 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 5.134.122.207,4,-1,ablaweb.com,IT,Europe,Southern Europe,Italy,,,
 45.154.75.56,4,-2,abn.ru,IT,Europe,Southern Europe,Italy,,,
 34.154.211.151,4,19,abouna.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-185.31.66.122,4,367,abruzzoweb.it,IT,Europe,Southern Europe,Italy,,,
+185.31.66.122,4,521,abruzzoweb.it,IT,Europe,Southern Europe,Italy,,,
 81.88.53.168,4,2,ac-jete.it,IT,Europe,Southern Europe,Italy,,,
-185.2.4.100,4,39,ac-jete.it,IT,Europe,Southern Europe,Italy,,,
+185.2.4.100,4,4,ac-jete.it,IT,Europe,Southern Europe,Italy,,,
 80.88.87.200,4,-388,achillecontento.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 188.213.168.185,4,20,acri.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-178.255.74.54,4,876,across.it,IT,Europe,Southern Europe,Italy,,,
-46.252.150.94,4,27,ad-theme.com,IT,Europe,Southern Europe,Italy,,,
+178.255.74.54,4,551,across.it,IT,Europe,Southern Europe,Italy,,,
+46.252.150.94,4,0,ad-theme.com,IT,Europe,Southern Europe,Italy,,,
 46.254.34.176,4,-3,adbpo.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 188.219.106.19,4,1,addictus.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Padua,Padua
-94.177.48.8,4,604,addiopizzo.org,IT,Europe,Southern Europe,Italy,,,
+94.177.48.8,4,1,addiopizzo.org,IT,Europe,Southern Europe,Italy,,,
 194.76.116.212,4,7757,admo.it,IT,Europe,Southern Europe,Italy,,,
 217.194.10.101,4,9,aemmedi.it,IT,Europe,Southern Europe,Italy,Lazio,Province of Frosinone,Frosinone
-149.62.189.224,4,39,aeroportidipuglia.it,IT,Europe,Southern Europe,Italy,,,
+149.62.189.224,4,-2,aeroportidipuglia.it,IT,Europe,Southern Europe,Italy,,,
 185.23.29.136,4,7,aeroportoditorino.it,IT,Europe,Southern Europe,Italy,,,
 149.3.145.123,4,-4,afolmet.it,IT,Europe,Southern Europe,Italy,,,
 185.221.172.76,4,4,agapedesign.it,IT,Europe,Southern Europe,Italy,,,
@@ -41,12 +41,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 77.39.208.70,4,-11,aicel.org,IT,Europe,Southern Europe,Italy,,,
 86.107.36.84,4,-10776,aiom.it,IT,Europe,Southern Europe,Italy,,,
 46.252.155.53,4,4,aipd.it,IT,Europe,Southern Europe,Italy,,,
-46.252.150.201,4,19,aipd.it,IT,Europe,Southern Europe,Italy,,,
+46.252.150.201,4,-2,aipd.it,IT,Europe,Southern Europe,Italy,,,
 213.187.10.117,4,-73,aiti.org,IT,Europe,Southern Europe,Italy,Veneto,Province of Padua,Piazzola sul Brenta
 57.131.38.141,4,-18,alanews.it,IT,Europe,Southern Europe,Italy,,,
-80.88.87.204,4,49,albanesecerchi.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+80.88.87.204,4,380,albanesecerchi.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 213.158.86.111,4,-29,alberguepintueles.es,IT,Europe,Southern Europe,Italy,,,
-85.159.150.38,4,11,alde.eu,IT,Europe,Southern Europe,Italy,,,
+85.159.150.38,4,0,alde.eu,IT,Europe,Southern Europe,Italy,,,
 80.88.87.162,4,412,alessandrotricarico.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 93.186.249.202,4,22,alguer.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 46.28.2.183,4,26,alinari.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
@@ -58,46 +58,46 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 5.249.135.26,4,5,alvolante.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 176.107.150.180,4,-3,alvolante.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 212.35.217.49,4,15,alzheimer.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-195.231.84.136,4,6,amathsdictionaryforkids.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+195.231.84.136,4,1,amathsdictionaryforkids.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 80.88.87.160,4,235,ambrogiorobot.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 81.29.215.110,4,10,amcham.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 93.186.242.177,4,-2,amexeuro.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 89.40.174.116,4,8,amicidellaterra.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
-185.170.139.172,4,7,amicodelpopolo.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Belluno,Santa Giustina
+185.170.139.172,4,1,amicodelpopolo.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Belluno,Santa Giustina
 213.158.86.200,4,-3,amit-es.org,IT,Europe,Southern Europe,Italy,,,
 77.39.212.66,4,-1,amref.it,IT,Europe,Southern Europe,Italy,,,
 185.2.4.29,4,1,anabf.org,IT,Europe,Southern Europe,Italy,,,
 85.235.129.83,4,4,anbi.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-89.40.172.201,4,189,andindi.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
-185.201.65.215,4,43,andrologia-online.it,IT,Europe,Southern Europe,Italy,,,
-80.88.87.232,4,176,anev.org,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+89.40.172.201,4,-1,andindi.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
+185.201.65.215,4,-3,andrologia-online.it,IT,Europe,Southern Europe,Italy,,,
+80.88.87.232,4,265,anev.org,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 37.156.244.103,4,0,anfia.it,IT,Europe,Southern Europe,Italy,Sicily,Province of Palermo,Palermo
 151.2.101.57,4,177,anica.it,IT,Europe,Southern Europe,Italy,,,
 185.2.4.118,4,6,anipi-italia.org,IT,Europe,Southern Europe,Italy,,,
 81.31.158.31,4,1,anpeq.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
-84.33.1.29,4,20,antherica.com,IT,Europe,Southern Europe,Italy,,,
+84.33.1.29,4,-31,antherica.com,IT,Europe,Southern Europe,Italy,,,
 81.88.53.113,4,25,antichecarampane.com,IT,Europe,Southern Europe,Italy,,,
 149.62.189.157,4,3,antimafiaduemila.com,IT,Europe,Southern Europe,Italy,,,
 213.171.184.206,4,-323094,antoniolupi.it,IT,Europe,Southern Europe,Italy,Lazio,Province of Frosinone,Frosinone
-192.188.248.218,4,4,aogoi.it,IT,Europe,Southern Europe,Italy,,,
-194.76.118.226,4,1097,apc.it,IT,Europe,Southern Europe,Italy,,,
-217.70.146.134,4,11,appenninobianco.it,IT,Europe,Southern Europe,Italy,,,
+192.188.248.218,4,1,aogoi.it,IT,Europe,Southern Europe,Italy,,,
+194.76.118.226,4,2534,apc.it,IT,Europe,Southern Europe,Italy,,,
+217.70.146.134,4,1,appenninobianco.it,IT,Europe,Southern Europe,Italy,,,
 213.158.86.8,4,7,aprendergratis.es,IT,Europe,Southern Europe,Italy,,,
 185.142.154.214,4,418,apricaonline.com,IT,Europe,Southern Europe,Italy,,,
 185.2.5.8,4,-2,aproni.org,IT,Europe,Southern Europe,Italy,,,
 85.94.221.211,4,-14,archaeologiemuseum.it,IT,Europe,Southern Europe,Italy,Lazio,Province of Frosinone,Frosinone
 89.40.175.253,4,2,archimediatrust.org,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
-80.88.87.239,4,686,archiviodistatovenezia.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+80.88.87.239,4,188,archiviodistatovenezia.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 195.14.102.127,4,-4,areasciencepark.it,IT,Europe,Southern Europe,Italy,Friuli Venezia Giulia,Trieste,Trieste
 151.8.40.20,4,0,ariete.net,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Modena,Cavezzo
 89.40.173.64,4,18,armandoalpantheon.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
-89.40.173.157,4,58,armandoalpantheon.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
+89.40.173.157,4,0,armandoalpantheon.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 185.205.41.82,4,-1,armandoeditore.it,IT,Europe,Southern Europe,Italy,,,
 93.57.88.250,4,4,arsial.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 185.221.173.93,4,893,artbonus.gov.it,IT,Europe,Southern Europe,Italy,,,
-85.159.145.37,4,58,artceram.it,IT,Europe,Southern Europe,Italy,,,
-46.252.151.94,4,3,artelagunaprize.com,IT,Europe,Southern Europe,Italy,,,
-95.110.232.137,4,13,asalink.net,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+85.159.145.37,4,1,artceram.it,IT,Europe,Southern Europe,Italy,,,
+46.252.151.94,4,0,artelagunaprize.com,IT,Europe,Southern Europe,Italy,,,
+95.110.232.137,4,2,asalink.net,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 213.158.84.119,4,-3,ascun.org.co,IT,Europe,Southern Europe,Italy,,,
 86.107.33.17,4,2101,asgi.it,IT,Europe,Southern Europe,Italy,,,
 77.39.211.98,4,37,asia-ngo.org,IT,Europe,Southern Europe,Italy,,,
@@ -107,45 +107,44 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 89.46.227.214,4,4,aslcn2.it,IT,Europe,Southern Europe,Italy,,,
 94.177.48.37,4,5410,aslive.it,IT,Europe,Southern Europe,Italy,,,
 34.154.237.33,4,8,asmel.eu,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-156.54.202.233,4,7,asmel.eu,IT,Europe,Southern Europe,Italy,,,
+156.54.202.233,4,1,asmel.eu,IT,Europe,Southern Europe,Italy,,,
 156.54.202.232,4,-1,asmenet.it,IT,Europe,Southern Europe,Italy,,,
 185.2.4.134,4,3,aspide.it,IT,Europe,Southern Europe,Italy,,,
 46.252.158.143,4,-4,assocalciatori.it,IT,Europe,Southern Europe,Italy,,,
 46.254.36.110,4,-7,associazionelucacoscioni.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 93.95.216.221,4,-7,assoenologi.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-185.221.175.31,4,41,assosoftware.it,IT,Europe,Southern Europe,Italy,,,
+185.221.175.31,4,5,assosoftware.it,IT,Europe,Southern Europe,Italy,,,
 93.186.242.194,4,-4,assosrlservizi.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-62.212.5.250,4,21,asst-lariana.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Como,Novedrate
+62.212.5.250,4,0,asst-lariana.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Como,Novedrate
 149.3.144.102,4,-20,astedolomia.com,IT,Europe,Southern Europe,Italy,,,
-83.136.107.36,4,24,astronomia.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+83.136.107.36,4,0,astronomia.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 213.158.84.20,4,-2,ate.org.ar,IT,Europe,Southern Europe,Italy,,,
-149.3.145.80,4,16,atipica.org,IT,Europe,Southern Europe,Italy,,,
+149.3.145.80,4,1,atipica.org,IT,Europe,Southern Europe,Italy,,,
 213.158.84.29,4,27,atlantida.edu.ar,IT,Europe,Southern Europe,Italy,,,
 89.40.172.88,4,9,atlasinstitute.org,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 185.131.214.166,4,-1,atvo.it,IT,Europe,Southern Europe,Italy,,,
 89.46.229.115,4,-6,audioglobe.it,IT,Europe,Southern Europe,Italy,,,
-89.46.226.125,4,7,audioglobe.it,IT,Europe,Southern Europe,Italy,,,
+89.46.226.125,4,-3,audioglobe.it,IT,Europe,Southern Europe,Italy,,,
 213.158.86.221,4,48,aulacm.com,IT,Europe,Southern Europe,Italy,,,
 213.158.84.22,4,17,aulamedica.es,IT,Europe,Southern Europe,Italy,,,
 185.17.107.71,4,1282,auroravision.it,IT,Europe,Southern Europe,Italy,,,
 94.177.223.60,4,27,autobelle.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-46.252.157.154,4,4,autodromogiannideluca.it,IT,Europe,Southern Europe,Italy,,,
+46.252.157.154,4,0,autodromogiannideluca.it,IT,Europe,Southern Europe,Italy,,,
 86.107.36.77,4,13999,autodromoimola.it,IT,Europe,Southern Europe,Italy,,,
 46.254.34.192,4,3,autoemotodepoca.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 185.2.4.38,4,24,autonovamilano.it,IT,Europe,Southern Europe,Italy,,,
 46.252.150.241,4,-6,autoracer.it,IT,Europe,Southern Europe,Italy,,,
 95.110.231.155,4,9,avmagazine.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-46.252.151.157,4,12,avsportingteam.com,IT,Europe,Southern Europe,Italy,,,
+46.252.151.157,4,0,avsportingteam.com,IT,Europe,Southern Europe,Italy,,,
 46.252.144.52,4,4,avvisopubblico.it,IT,Europe,Southern Europe,Italy,,,
 80.88.84.235,4,7,avvocatodistrada.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 81.88.53.97,4,-45,azabachefilms.com,IT,Europe,Southern Europe,Italy,,,
 62.149.199.50,4,9822,azzurroservice.net,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-86.107.36.122,4,-9241,b-line.it,IT,Europe,Southern Europe,Italy,,,
 185.81.0.45,4,-2,badshoes.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-46.30.244.134,4,8,bagnidibormio.it,IT,Europe,Southern Europe,Italy,,,
+46.30.244.134,4,0,bagnidibormio.it,IT,Europe,Southern Europe,Italy,,,
 213.158.86.14,4,-42,balonmanopetrer.com,IT,Europe,Southern Europe,Italy,,,
 86.107.32.58,4,3,bandamusicale.it,IT,Europe,Southern Europe,Italy,,,
-46.252.153.165,4,13,barpompi.it,IT,Europe,Southern Europe,Italy,,,
+46.252.153.165,4,0,barpompi.it,IT,Europe,Southern Europe,Italy,,,
 194.76.116.193,4,0,basilicadeifrari.it,IT,Europe,Southern Europe,Italy,,,
 195.231.8.205,4,2295121,basilicasanclemente.com,IT,Europe,Southern Europe,Italy,,,
 62.149.172.216,4,534,basilicasannicola.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
@@ -158,30 +157,29 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.114.109.4,4,-3,beinternet.it,IT,Europe,Southern Europe,Italy,,,
 31.185.99.35,4,0,bellaumbria.net,IT,Europe,Southern Europe,Italy,,,
 149.62.185.142,4,-9,bellunopress.it,IT,Europe,Southern Europe,Italy,,,
-81.29.150.209,4,1,benchmarkreviews.com,IT,Europe,Southern Europe,Italy,,,
+81.29.150.209,4,0,benchmarkreviews.com,IT,Europe,Southern Europe,Italy,,,
 89.40.173.177,4,-1,bennybenassi.com,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
-93.95.216.49,4,20,berberepizza.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+93.95.216.49,4,-3,berberepizza.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 212.78.10.101,4,36259,berlucchi.it,IT,Europe,Southern Europe,Italy,,,
 81.88.52.111,4,22,bernard-guericolas.eu,IT,Europe,Southern Europe,Italy,,,
-5.8.101.21,4,641,beta-tools.com,IT,Europe,Southern Europe,Italy,Lombardy,,
+5.8.101.21,4,32,beta-tools.com,IT,Europe,Southern Europe,Italy,Lombardy,,
 86.107.37.24,4,-27016,betamotor.com,IT,Europe,Southern Europe,Italy,,,
 89.40.173.129,4,81,betoncandeo.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 89.46.65.227,4,0,bettingsites24.ng,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-86.107.36.62,4,602,biancolavoro.it,IT,Europe,Southern Europe,Italy,,,
+86.107.36.62,4,7704,biancolavoro.it,IT,Europe,Southern Europe,Italy,,,
 93.95.216.174,4,-3,bibliotecheinnovative.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 185.2.4.123,4,8,bicerin.it,IT,Europe,Southern Europe,Italy,,,
-80.88.84.222,4,39,biennaledemocrazia.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+80.88.84.222,4,0,biennaledemocrazia.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 62.149.196.253,4,32,bigliettoveloce.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 176.107.150.179,4,70,bimbisaniebelli.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 5.249.135.25,4,6,bimbisaniebelli.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-93.186.249.113,4,58,bimfilm.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+93.186.249.113,4,0,bimfilm.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 213.158.84.34,4,-1,bioecoactual.com,IT,Europe,Southern Europe,Italy,,,
 93.186.242.161,4,9,bioinst.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-185.17.107.33,4,3670,biondisanti.it,IT,Europe,Southern Europe,Italy,,,
-95.110.154.135,4,-40,bioversityinternational.org,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+185.17.107.33,4,5470,biondisanti.it,IT,Europe,Southern Europe,Italy,,,
 15.160.32.153,4,8,bisazza.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 93.186.249.105,4,5,bistrotdevenise.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-89.40.173.198,4,613,bitesforfoodies.com,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
+89.40.173.198,4,-2,bitesforfoodies.com,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 85.235.142.142,4,-7,bitubo.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.2.4.132,4,6,bjcem.org,IT,Europe,Southern Europe,Italy,,,
 185.2.4.78,4,63,blcp.ie,IT,Europe,Southern Europe,Italy,,,
@@ -192,57 +190,58 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 93.95.216.226,4,-5,bodeguero.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 62.149.171.87,4,534,boffi.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 85.94.204.146,4,0,bofh.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-212.237.47.33,4,229767,bolina.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+212.237.47.33,4,-1675,bolina.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.100.16.20,4,-2,bollettinoadapt.it,IT,Europe,Southern Europe,Italy,,,
 37.156.244.62,4,11,bolognafiere.it,IT,Europe,Southern Europe,Italy,Sicily,Province of Palermo,Palermo
-86.107.36.25,4,14,bonci.it,IT,Europe,Southern Europe,Italy,,,
-80.88.87.168,4,111,bonex.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+86.107.36.25,4,2373,bonci.it,IT,Europe,Southern Europe,Italy,,,
+80.88.87.168,4,176,bonex.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 194.76.116.230,4,7579,book-of-ra-online.it,IT,Europe,Southern Europe,Italy,,,
 93.186.242.128,4,-3,borghitalia.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-185.2.5.52,4,19,borgosantandrea.it,IT,Europe,Southern Europe,Italy,,,
+185.2.5.52,4,-1,borgosantandrea.it,IT,Europe,Southern Europe,Italy,,,
 80.88.87.218,4,27,bozzetto.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.114.108.125,4,-64,brandstormadv.com,IT,Europe,Southern Europe,Italy,,,
-46.252.152.156,4,4,btobaby.it,IT,Europe,Southern Europe,Italy,,,
+46.252.152.156,4,0,btobaby.it,IT,Europe,Southern Europe,Italy,,,
 185.81.0.14,4,-3,buggeacostruzioni.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 95.174.17.60,4,20,buonacausa.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 185.2.5.14,4,0,buongustoabruzzo.it,IT,Europe,Southern Europe,Italy,,,
+46.252.147.232,4,0,burdu976.com,IT,Europe,Southern Europe,Italy,,,
 95.110.224.167,4,0,burghuegel.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 85.235.159.251,4,1271,cagliaricalcio.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 66.71.163.15,4,-4,cairoeditore.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-194.76.118.100,4,974,calabriadirettanews.com,IT,Europe,Southern Europe,Italy,,,
+194.76.118.100,4,0,calabriadirettanews.com,IT,Europe,Southern Europe,Italy,,,
 93.57.74.11,4,10,calciocasteddu.it,IT,Europe,Southern Europe,Italy,,,
-46.254.34.54,4,9,calcioefinanza.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+46.254.34.54,4,0,calcioefinanza.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 5.249.153.98,4,-6,calcionapoli24.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-85.235.130.71,4,34,calibersrl.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+85.235.130.71,4,0,calibersrl.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 46.252.149.84,4,7,camaldoli.it,IT,Europe,Southern Europe,Italy,,,
 93.186.249.62,4,56,camar.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 95.174.30.114,4,11,cameraitacina.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 85.235.153.28,4,-5,camperlife.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 109.233.124.209,4,-3,camperonline.it,IT,Europe,Southern Europe,Italy,,,
 80.88.87.187,4,-85,campingamicidilazise.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+93.186.242.203,4,0,canaleitalia.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 46.28.0.133,4,17,canicattiweb.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 46.252.150.104,4,20,cantalamessa.org,IT,Europe,Southern Europe,Italy,,,
 94.177.171.238,4,10,cantierino.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 93.186.242.142,4,-6,cantinachitarra.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-185.221.175.16,4,-182,cantinanegrar.it,IT,Europe,Southern Europe,Italy,,,
 185.81.0.24,4,-2,caorle.eu,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 81.88.53.154,4,0,capitolium.org,IT,Europe,Southern Europe,Italy,,,
-185.2.5.67,4,6,capritiberiopalace.it,IT,Europe,Southern Europe,Italy,,,
+185.2.5.67,4,-1,capritiberiopalace.it,IT,Europe,Southern Europe,Italy,,,
 213.212.133.254,4,2,caremar.it,IT,Europe,Southern Europe,Italy,,,
 86.107.32.62,4,2768,caritasroma.it,IT,Europe,Southern Europe,Italy,,,
 185.17.107.89,4,153,carmelitaniscalzi.com,IT,Europe,Southern Europe,Italy,,,
-185.2.6.11,4,6,carmelites.ie,IT,Europe,Southern Europe,Italy,,,
-185.81.2.87,4,36,carnisostenibili.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+185.2.6.11,4,2,carmelites.ie,IT,Europe,Southern Europe,Italy,,,
+185.81.2.87,4,-4,carnisostenibili.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 81.88.52.118,4,2,carnivalofvenice.com,IT,Europe,Southern Europe,Italy,,,
-80.88.87.229,4,276,carpentecnica.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+80.88.87.229,4,-72,carpentecnica.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 195.62.190.247,4,32,carpidiem.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Reggio Emilia,Correggio
 87.248.33.248,4,-3,carpinet.it,IT,Europe,Southern Europe,Italy,,,
 34.154.15.12,4,-3,cartitleloansplus.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 185.2.4.54,4,-16,casabresciani.it,IT,Europe,Southern Europe,Italy,,,
 185.142.154.190,4,-101,casadelcinema.it,IT,Europe,Southern Europe,Italy,,,
 81.88.52.20,4,10,casadobrasildelisboa.pt,IT,Europe,Southern Europe,Italy,,,
-185.25.207.54,4,32,case1euro.it,IT,Europe,Southern Europe,Italy,,,
-185.81.6.13,4,15,casea1euro.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+185.25.207.54,4,-2,case1euro.it,IT,Europe,Southern Europe,Italy,,,
+185.81.6.13,4,-1,casea1euro.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 91.212.246.19,4,2829,casepariurionline.ro,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 185.205.40.116,4,41,casino-sicuri.com,IT,Europe,Southern Europe,Italy,,,
 185.2.4.130,4,-2,casinodamadeira.com,IT,Europe,Southern Europe,Italy,,,
@@ -251,11 +250,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.31.67.90,4,-5,castellobanfi.com,IT,Europe,Southern Europe,Italy,,,
 185.201.65.222,4,0,castellodirivoli.org,IT,Europe,Southern Europe,Italy,,,
 86.107.33.25,4,-1201,castelsantangelo.com,IT,Europe,Southern Europe,Italy,,,
-185.25.206.39,4,26,castelvetranoselinunte.it,IT,Europe,Southern Europe,Italy,,,
+185.25.206.39,4,-1,castelvetranoselinunte.it,IT,Europe,Southern Europe,Italy,,,
 213.158.86.57,4,-12,catalunyaenminiatura.com,IT,Europe,Southern Europe,Italy,,,
 86.107.36.161,4,-11444,cattedralereggiocalabria.it,IT,Europe,Southern Europe,Italy,,,
 46.252.155.188,4,-5,cavallinomatto.it,IT,Europe,Southern Europe,Italy,,,
-89.190.181.195,4,16,cavit.it,IT,Europe,Southern Europe,Italy,Trentino-Alto Adige,South Tyrol,Bolzano
+89.190.181.195,4,0,cavit.it,IT,Europe,Southern Europe,Italy,Trentino-Alto Adige,South Tyrol,Bolzano
 185.2.4.99,4,-1,cbei.pt,IT,Europe,Southern Europe,Italy,,,
 46.16.91.62,4,13,cbmitalia.org,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 178.250.64.229,4,4,cdcloud.it,IT,Europe,Southern Europe,Italy,,,
@@ -263,9 +262,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 66.22.43.101,4,-4,cdpventurecapital.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 185.31.65.219,4,-3,cdrf.it,IT,Europe,Southern Europe,Italy,,,
 185.2.5.45,4,10,cealex.org,IT,Europe,Southern Europe,Italy,,,
-185.31.66.31,4,183,cefaonlus.it,IT,Europe,Southern Europe,Italy,,,
+185.31.66.31,4,405,cefaonlus.it,IT,Europe,Southern Europe,Italy,,,
 5.182.242.131,4,42,celebremagazine.world,IT,Europe,Southern Europe,Italy,,,
-149.3.144.190,4,8,cellteklab.it,IT,Europe,Southern Europe,Italy,,,
+149.3.144.190,4,0,cellteklab.it,IT,Europe,Southern Europe,Italy,,,
 95.110.254.114,4,26,centrocedir.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 195.231.22.106,4,-41,centroditerapiastrategica.com,IT,Europe,Southern Europe,Italy,,,
 46.254.38.21,4,-20,centroingrossocina.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
@@ -276,57 +275,57 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 209.227.231.188,4,13,ceramicaglobo.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 93.186.242.234,4,-14,ceramichesassuoloshop.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 194.76.116.18,4,14,cerasa.it,IT,Europe,Southern Europe,Italy,,,
-185.81.2.67,4,31,cercofabbroamilano.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+185.81.2.67,4,0,cercofabbroamilano.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 5.249.153.141,4,11,cerutisrl.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 212.19.118.114,4,17,cesar.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Verona,Verona
 46.252.144.22,4,26,cesie.org,IT,Europe,Southern Europe,Italy,,,
-46.252.149.69,4,5,cesie.org,IT,Europe,Southern Europe,Italy,,,
+46.252.149.69,4,-2,cesie.org,IT,Europe,Southern Europe,Italy,,,
 86.107.32.149,4,11643,chairsoutlet.com,IT,Europe,Southern Europe,Italy,,,
 86.107.36.132,4,-97,charis.international,IT,Europe,Southern Europe,Italy,,,
 178.255.74.137,4,-20,chetariffa.it,IT,Europe,Southern Europe,Italy,,,
-93.95.216.35,4,10,chiarapassion.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+93.95.216.35,4,16,chiarapassion.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 217.73.238.52,4,12,chiariglione.org,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 89.40.172.102,4,12,chicnic.org,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 93.191.241.111,4,-5007,chieri.info,IT,Europe,Southern Europe,Italy,,,
 195.231.74.56,4,3,chiesiusa.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 81.88.52.77,4,20,chigio.it,IT,Europe,Southern Europe,Italy,,,
 77.39.213.110,4,-4,chioggia.org,IT,Europe,Southern Europe,Italy,,,
-46.254.39.158,4,11,chioggia.org,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+46.254.39.158,4,3,chioggia.org,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 172.232.219.173,4,-10,chios.gr,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-86.107.36.138,4,67,chiostrisanteustorgio.it,IT,Europe,Southern Europe,Italy,,,
+86.107.36.138,4,-32443,chiostrisanteustorgio.it,IT,Europe,Southern Europe,Italy,,,
 46.37.17.32,4,4,chopin.museum,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 213.158.86.33,4,-2,ciberprotector.com,IT,Europe,Southern Europe,Italy,,,
-94.177.205.6,4,1195,cibo360.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-80.88.87.219,4,507,ciclotte.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-62.149.192.226,4,173,cidim.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+94.177.205.6,4,49452,cibo360.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+80.88.87.219,4,705,ciclotte.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+62.149.192.226,4,774,cidim.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 46.252.146.13,4,-22,cilentoediano.it,IT,Europe,Southern Europe,Italy,,,
 149.3.144.47,4,12,cimafoundation.org,IT,Europe,Southern Europe,Italy,,,
 213.158.84.78,4,11,cimamujerescineastas.es,IT,Europe,Southern Europe,Italy,,,
 185.56.8.44,4,-10,cimonesci.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 81.88.53.15,4,15,cinechronicle.com,IT,Europe,Southern Europe,Italy,,,
 213.158.86.119,4,-6,cineconn.es,IT,Europe,Southern Europe,Italy,,,
-217.169.104.197,4,23,cinefile.biz,IT,Europe,Southern Europe,Italy,,,
+217.169.104.197,4,61,cinefile.biz,IT,Europe,Southern Europe,Italy,,,
 89.46.226.52,4,-6,cinetecadibologna.it,IT,Europe,Southern Europe,Italy,,,
 86.107.36.107,4,-3918,cioccolatobanchini.com,IT,Europe,Southern Europe,Italy,,,
-46.252.144.49,4,64,cir.it,IT,Europe,Southern Europe,Italy,,,
+46.252.144.49,4,-1,cir.it,IT,Europe,Southern Europe,Italy,,,
 93.191.242.19,4,4517,circololavela.org,IT,Europe,Southern Europe,Italy,,,
 86.107.36.143,4,195,cisaragrigento.it,IT,Europe,Southern Europe,Italy,,,
-80.88.87.188,4,714,cislscuolavibovalentia.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+80.88.87.188,4,300,cislscuolavibovalentia.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 212.35.217.55,4,-22,cittadinanzattiva.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 85.18.173.126,4,-5,cittametropolitanaroma.it,IT,Europe,Southern Europe,Italy,Campania,Naples,Naples
 195.231.54.128,4,7,citterio.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Bergamo
 213.158.84.70,4,-13,ciudadano2cero.com,IT,Europe,Southern Europe,Italy,,,
-93.186.248.94,4,145,clal.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+93.186.248.94,4,287,clal.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 90.147.188.164,4,16,clarin-it.it,IT,Europe,Southern Europe,Italy,Liguria,Province of Genoa,Recco
 81.29.150.196,4,10,clarkconnect.com,IT,Europe,Southern Europe,Italy,,,
 77.39.213.99,4,6,cleansealife.it,IT,Europe,Southern Europe,Italy,,,
-94.177.176.33,4,61,climalteranti.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+94.177.176.33,4,0,climalteranti.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 194.124.73.18,4,8,clipperz.com,IT,Europe,Southern Europe,Italy,,,
-83.211.227.158,4,21,clouditalia.com,IT,Europe,Southern Europe,Italy,Veneto,Province of Padua,Vigonza
-185.2.5.40,4,3,clubtriatloncoruna.org,IT,Europe,Southern Europe,Italy,,,
+83.211.227.158,4,-14,clouditalia.com,IT,Europe,Southern Europe,Italy,Veneto,Province of Padua,Vigonza
+185.2.5.40,4,4,clubtriatloncoruna.org,IT,Europe,Southern Europe,Italy,,,
 85.235.131.223,4,-1,cmamacchineagricole.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 81.88.53.21,4,0,cme-espana.org,IT,Europe,Southern Europe,Italy,,,
-185.247.212.193,4,4,cna.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Forlì-Cesena,Castrocaro Terme
+185.247.212.193,4,-1,cna.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Forlì-Cesena,Castrocaro Terme
 95.110.158.136,4,-12,cnos-fap.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 46.254.38.78,4,-5,codemotionworld.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 46.254.34.25,4,8,collaltimmobiliare.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
@@ -337,7 +336,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.62.179.113,4,-2166170108,comunecervia.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Reggio Emilia,Correggio
 81.88.53.131,4,1,comunedisanremo.it,IT,Europe,Southern Europe,Italy,,,
 84.38.57.15,4,7394667,comunesbt.it,IT,Europe,Southern Europe,Italy,The Marches,Province of Ancona,Ancona
-84.38.57.4,4,5,comunesbt.it,IT,Europe,Southern Europe,Italy,The Marches,Province of Ancona,Ancona
+84.38.57.4,4,-4,comunesbt.it,IT,Europe,Southern Europe,Italy,The Marches,Province of Ancona,Ancona
 213.171.164.42,4,3,comunicati.net,IT,Europe,Southern Europe,Italy,Lazio,Province of Frosinone,Frosinone
 88.49.250.34,4,-3,comunicazioni.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 95.141.35.146,4,0,concorsi.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
@@ -356,21 +355,21 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.2.4.75,4,-24,corazonistas.org,IT,Europe,Southern Europe,Italy,,,
 93.186.252.118,4,15,corep.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 81.31.156.8,4,-11,corrieresalentino.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
-81.31.156.148,4,66,corrieresalentino.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
+81.31.156.148,4,2,corrieresalentino.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 80.88.84.213,4,39,corriereuniv.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 66.22.43.21,4,16,cortecostituzionale.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 77.39.208.94,4,-31,cortedegliangeli2020.com,IT,Europe,Southern Europe,Italy,,,
 86.107.32.74,4,2310,cortinaexpress.it,IT,Europe,Southern Europe,Italy,,,
-31.3.182.7,4,10,cortonamaec.org,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Forlì-Cesena,Cesena
+31.3.182.7,4,0,cortonamaec.org,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Forlì-Cesena,Cesena
 86.107.37.22,4,64776,cortonaonthemove.com,IT,Europe,Southern Europe,Italy,,,
 5.249.135.27,4,-1,cosedicasa.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-176.107.150.181,4,116,cosedicasa.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-194.76.119.30,4,289,cosmed.com,IT,Europe,Southern Europe,Italy,,,
-89.40.174.166,4,20,cosoni.net,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
+176.107.150.181,4,0,cosedicasa.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+194.76.119.30,4,3,cosmed.com,IT,Europe,Southern Europe,Italy,,,
+89.40.174.166,4,0,cosoni.net,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 185.2.4.143,4,0,craniosacral.co.uk,IT,Europe,Southern Europe,Italy,,,
 89.46.226.82,4,-24,criticalcase.com,IT,Europe,Southern Europe,Italy,,,
 172.232.216.232,4,-13,crlab.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-93.95.216.173,4,14,crmpulizie.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+93.95.216.173,4,0,crmpulizie.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 217.61.37.63,4,19,cronachefermane.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 95.110.184.149,4,-3313,cronachemaceratesi.it,IT,Europe,Southern Europe,Italy,,,
 212.35.197.237,4,10,crowdfundme.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
@@ -379,42 +378,42 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.81.4.109,4,-6,ctstorino.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 80.88.84.221,4,1,cuneoairport.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 81.31.158.38,4,-3,curamagazine.com,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
-46.254.39.144,4,28,curreriviaggi.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-146.48.123.9,4,1,d4science.org,IT,Europe,Southern Europe,Italy,Tuscany,Province of Pisa,Pisa
+46.254.39.144,4,0,curreriviaggi.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+146.48.123.9,4,5,d4science.org,IT,Europe,Southern Europe,Italy,Tuscany,Province of Pisa,Pisa
 62.149.215.178,4,8531,dagtur.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 89.40.227.89,4,10,daidegasforum.com,IT,Europe,Southern Europe,Italy,,,
 192.121.191.142,4,-51,dailymobile.se,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 85.94.202.95,4,5,dailyonline.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 185.81.4.127,4,-7,dalfmotors.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 89.40.227.248,4,474,dallicardillospa.com,IT,Europe,Southern Europe,Italy,,,
-185.58.192.249,4,6,dalpescatore.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+185.58.192.249,4,1,dalpescatore.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 89.40.175.117,4,17,danielebondi.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
-185.2.4.60,4,182,datalinktechnologies.org,IT,Europe,Southern Europe,Italy,,,
+185.2.4.60,4,4,datalinktechnologies.org,IT,Europe,Southern Europe,Italy,,,
 86.107.32.196,4,3859,davide-pedersoli.com,IT,Europe,Southern Europe,Italy,,,
-212.237.16.219,4,34,davinotti.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-185.19.185.68,4,12,dcentproject.eu,IT,Europe,Southern Europe,Italy,,,
-185.2.4.128,4,38,deboliceramiche.it,IT,Europe,Southern Europe,Italy,,,
-195.231.25.172,4,96,decora.it,IT,Europe,Southern Europe,Italy,,,
+212.237.16.219,4,731,davinotti.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+185.19.185.68,4,-2,dcentproject.eu,IT,Europe,Southern Europe,Italy,,,
+185.2.4.128,4,4,deboliceramiche.it,IT,Europe,Southern Europe,Italy,,,
+195.231.25.172,4,0,decora.it,IT,Europe,Southern Europe,Italy,,,
 217.194.6.139,4,-7,deghi.it,IT,Europe,Southern Europe,Italy,Lazio,Province of Frosinone,Frosinone
 217.194.6.138,4,-7,deghi.it,IT,Europe,Southern Europe,Italy,Lazio,Province of Frosinone,Frosinone
-37.9.239.218,4,5,deghi.it,IT,Europe,Southern Europe,Italy,,,
-37.9.239.217,4,17,deghi.it,IT,Europe,Southern Europe,Italy,,,
-5.249.144.124,4,14,dehoniane.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-46.252.158.28,4,47,delcambio.it,IT,Europe,Southern Europe,Italy,,,
-95.110.189.211,4,8258,delphina.it,IT,Europe,Southern Europe,Italy,,,
+37.9.239.218,4,0,deghi.it,IT,Europe,Southern Europe,Italy,,,
+37.9.239.217,4,0,deghi.it,IT,Europe,Southern Europe,Italy,,,
+5.249.144.124,4,-3,dehoniane.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+46.252.158.28,4,-3,delcambio.it,IT,Europe,Southern Europe,Italy,,,
+95.110.189.211,4,2653,delphina.it,IT,Europe,Southern Europe,Italy,,,
 80.88.87.159,4,384,demos.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 149.62.185.222,4,20,denaro.it,IT,Europe,Southern Europe,Italy,,,
 185.142.121.27,4,17,dequo.it,IT,Europe,Southern Europe,Italy,,,
 185.2.6.17,4,-5,dglonet.com,IT,Europe,Southern Europe,Italy,,,
 46.16.90.152,4,3,diabolik.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 213.158.86.217,4,-7,diariodegastronomia.com,IT,Europe,Southern Europe,Italy,,,
-195.231.87.26,4,8,diariodelweb.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-185.251.127.222,4,88084,diblasi.co.uk,IT,Europe,Southern Europe,Italy,Sicily,Catania,Grammichele
+195.231.87.26,4,3,diariodelweb.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+185.251.127.222,4,2,diblasi.co.uk,IT,Europe,Southern Europe,Italy,Sicily,Catania,Grammichele
 95.110.224.24,4,-7,digital-sat.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 46.254.34.179,4,-10,dimsport.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 46.28.4.190,4,16,disabiliabili.net,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 46.16.90.179,4,5,discoverbrombal.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-185.81.4.25,4,6,dnaconcerti.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+185.81.4.25,4,-5,dnaconcerti.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 185.110.20.144,4,4,DNS Server: 0144.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
 185.110.21.52,4,-4,DNS Server: 1052.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
 185.110.21.66,4,-4,DNS Server: 1066.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
@@ -437,7 +436,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 2.229.85.92,4,-8,DNS Server: 2-229-85-92.ip195.fastwebnet.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Modena,Ravarino
 185.204.85.208,4,-2,DNS Server: 208.85.204.185.in-addr.arpa,IT,Europe,Southern Europe,Italy,Lazio,Rome,Nettuno
 185.110.22.154,4,19,DNS Server: 2154.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
-185.110.22.200,4,11,DNS Server: 2200.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
+185.110.22.200,4,6,DNS Server: 2200.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
 185.110.22.242,4,0,DNS Server: 2242.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
 185.110.22.253,4,-14,DNS Server: 2253.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
 185.110.23.32,4,-5,DNS Server: 3032.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
@@ -446,6 +445,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.110.23.127,4,-3,DNS Server: 3127.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
 185.110.23.134,4,-1,DNS Server: 3134.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
 185.110.23.135,4,-4,DNS Server: 3135.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
+185.110.23.145,4,0,DNS Server: 3145.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
 185.110.23.173,4,-16,DNS Server: 3173.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
 185.110.23.239,4,-4,DNS Server: 3239.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
 185.110.23.244,4,-3,DNS Server: 3244.extnet.it,IT,Europe,Southern Europe,Italy,Apulia,Province of Bari,Altamura
@@ -600,7 +600,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.13.221.170,4,4832,DNS Server: static-185-13-221-170.customers.jcomwifi.net,IT,Europe,Southern Europe,Italy,Sicily,Province of Palermo,Palermo
 77.83.219.111,4,-1248734623,DNS Server: static-net-111-219-83-77.hosts.televar.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Padua,Limena
 77.83.218.13,4,691,DNS Server: static-net-13-218-83-77.hosts.televar.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Padua,Limena
-54.37.220.84,4,24,doc-diy.net,IT,Europe,Southern Europe,Italy,Sicily,Province of Trapani,Paceco
+54.37.220.84,4,-1,doc-diy.net,IT,Europe,Southern Europe,Italy,Sicily,Province of Trapani,Paceco
 217.138.219.219,4,-9,DoH server: cs-milan,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 82.118.16.121,4,-3,DoH server: dnscry.pt-milan-ipv4,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 91.201.67.107,4,3,DoH server: dnscry.pt-palermo-ipv4,IT,Europe,Southern Europe,Italy,Sicily,Province of Palermo,Palermo
@@ -608,9 +608,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 80.211.133.9,4,-3,DoH server: nsec.arnor.org,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 86.107.36.124,4,7756,dolomitiunesco.info,IT,Europe,Southern Europe,Italy,,,
 185.205.40.169,4,7,domenicocataniadentista.it,IT,Europe,Southern Europe,Italy,,,
-81.31.156.162,4,9,donantoniopizza.com,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
-195.231.50.139,4,431,donnapop.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Bergamo
-86.107.36.12,4,28,dottorini.com,IT,Europe,Southern Europe,Italy,,,
+81.31.156.162,4,-3,donantoniopizza.com,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
+195.231.50.139,4,1424,donnapop.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Bergamo
+86.107.36.12,4,-13377,dottorini.com,IT,Europe,Southern Europe,Italy,,,
 213.158.84.10,4,-6,down21.org,IT,Europe,Southern Europe,Italy,,,
 81.88.52.191,4,10,drivingitalia.net,IT,Europe,Southern Europe,Italy,,,
 86.107.32.140,4,5666,drogbaster.it,IT,Europe,Southern Europe,Italy,,,
@@ -620,21 +620,21 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 50.117.4.18,4,0,dwin-global.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Figino
 93.186.242.28,4,-17,e-bag.biz,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 37.156.244.60,4,-6,e-duesse.it,IT,Europe,Southern Europe,Italy,Sicily,Province of Palermo,Palermo
-81.31.156.141,4,13,e-duesse.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
+81.31.156.141,4,1,e-duesse.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 46.28.4.50,4,-6,eastjournal.net,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 5.249.157.113,4,-20,eatalyworld.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-185.17.107.7,4,2470,ebiemme.it,IT,Europe,Southern Europe,Italy,,,
+185.17.107.7,4,6525,ebiemme.it,IT,Europe,Southern Europe,Italy,,,
 46.252.158.173,4,-16,ebruni.it,IT,Europe,Southern Europe,Italy,,,
 193.31.248.3,4,2,ecoaltomolise.net,IT,Europe,Southern Europe,Italy,,,
 31.14.128.84,4,-7,ecohouseitaly.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 213.158.84.229,4,-30,ecoseed.org,IT,Europe,Southern Europe,Italy,,,
 95.110.185.91,4,347,ecoseven.net,IT,Europe,Southern Europe,Italy,,,
 213.158.84.72,4,15,ecosfron.org,IT,Europe,Southern Europe,Italy,,,
-217.64.198.218,4,3730,ecovicentino.it,IT,Europe,Southern Europe,Italy,Lazio,Province of Frosinone,Frosinone
+217.64.198.218,4,7372,ecovicentino.it,IT,Europe,Southern Europe,Italy,Lazio,Province of Frosinone,Frosinone
 62.149.182.56,4,24,ecsc.eu,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 2.228.12.135,4,1229659,edc-online.org,IT,Europe,Southern Europe,Italy,Lazio,Rome,Marino
 80.88.87.246,4,729,ediliziaoggi.casa,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-178.255.74.172,4,1026,ediscom.it,IT,Europe,Southern Europe,Italy,,,
+178.255.74.172,4,946,ediscom.it,IT,Europe,Southern Europe,Italy,,,
 81.88.53.86,4,19,editions-memo.fr,IT,Europe,Southern Europe,Italy,,,
 195.231.18.13,4,59101,educazionedigitale.it,IT,Europe,Southern Europe,Italy,,,
 185.2.4.58,4,2,eduopen.org,IT,Europe,Southern Europe,Italy,,,
@@ -643,19 +643,19 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 78.26.127.115,4,7,efpfanfic.net,IT,Europe,Southern Europe,Italy,,,
 62.149.215.25,4,8340,egass.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.2.4.137,4,-10,eglises.org,IT,Europe,Southern Europe,Italy,,,
-80.88.87.234,4,100,egoluce.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+80.88.87.234,4,604,egoluce.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 79.98.45.44,4,15,ehiweb.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Parma,Parma
-95.110.130.25,4,89,elbareport.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+95.110.130.25,4,1,elbareport.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 81.88.52.229,4,-20,elcomun.es,IT,Europe,Southern Europe,Italy,,,
 37.9.228.213,4,6,elettricitafutura.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 217.194.10.106,4,-7,elite-it.com,IT,Europe,Southern Europe,Italy,Lazio,Province of Frosinone,Frosinone
 185.175.124.54,4,-2,ellenaspa.com,IT,Europe,Southern Europe,Italy,,,
 213.158.86.69,4,3,elobrero.es,IT,Europe,Southern Europe,Italy,,,
-185.81.4.68,4,18,elodea.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+185.81.4.68,4,-1,elodea.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 93.95.216.129,4,0,elvenking.net,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 185.228.39.37,4,47,emailchef.com,IT,Europe,Southern Europe,Italy,,,
 46.28.2.13,4,-17,emaily.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-95.141.35.187,4,7,emdr-europe.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+95.141.35.187,4,1177,emdr-europe.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 185.81.2.125,4,-12,emfscientist.org,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 85.159.145.70,4,-17,emo-milan.com,IT,Europe,Southern Europe,Italy,,,
 213.158.84.88,4,-20,empresas-enventa.com,IT,Europe,Southern Europe,Italy,,,
@@ -663,32 +663,31 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.26.198.133,4,-974512,endsummercamp.org,IT,Europe,Southern Europe,Italy,,,
 93.95.216.131,4,-3,enec.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 185.131.214.200,4,-29,enic-naric.net,IT,Europe,Southern Europe,Italy,,,
-185.78.67.218,4,145,enic-naric.net,IT,Europe,Southern Europe,Italy,,,
+185.78.67.218,4,-1,enic-naric.net,IT,Europe,Southern Europe,Italy,,,
 46.252.149.126,4,2,enit.it,IT,Europe,Southern Europe,Italy,,,
 185.2.4.26,4,-16,enotecapinchiorri.it,IT,Europe,Southern Europe,Italy,,,
-149.3.144.101,4,8,enzodalmonte.it,IT,Europe,Southern Europe,Italy,,,
-93.191.242.15,4,2044,erbeofficinali.org,IT,Europe,Southern Europe,Italy,,,
-86.105.14.64,4,77,ermeshotels.com,IT,Europe,Southern Europe,Italy,Sicily,Province of Palermo,Palermo
+149.3.144.101,4,0,enzodalmonte.it,IT,Europe,Southern Europe,Italy,,,
+93.191.242.15,4,28,erbeofficinali.org,IT,Europe,Southern Europe,Italy,,,
+86.105.14.64,4,0,ermeshotels.com,IT,Europe,Southern Europe,Italy,Sicily,Province of Palermo,Palermo
 86.107.32.129,4,16820,eroica.cc,IT,Europe,Southern Europe,Italy,,,
-85.159.148.143,4,27,esaote.com,IT,Europe,Southern Europe,Italy,,,
+85.159.148.143,4,0,esaote.com,IT,Europe,Southern Europe,Italy,,,
 213.158.86.91,4,-11,esdi.es,IT,Europe,Southern Europe,Italy,,,
 81.29.205.177,4,-11830511,eso.net,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-185.201.65.59,4,45,espcar.it,IT,Europe,Southern Europe,Italy,,,
-89.31.200.13,4,12,esprimo.com,IT,Europe,Southern Europe,Italy,,,
+185.201.65.59,4,-1,espcar.it,IT,Europe,Southern Europe,Italy,,,
+89.31.200.13,4,0,esprimo.com,IT,Europe,Southern Europe,Italy,,,
 81.88.53.31,4,14,estense.com,IT,Europe,Southern Europe,Italy,,,
 94.188.237.154,4,14,esteri.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 95.110.230.146,4,-10,esteticamagazine.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 212.35.202.147,4,353,estra.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 195.182.210.27,4,-8765,eticostat.it,IT,Europe,Southern Europe,Italy,,,
-89.40.173.176,4,3,eufcn.com,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
+89.40.173.176,4,1,eufcn.com,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 86.107.33.23,4,441,euricse.eu,IT,Europe,Southern Europe,Italy,,,
 89.40.174.228,4,-9,eurispes.eu,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 46.252.153.213,4,-21,eurocultura.it,IT,Europe,Southern Europe,Italy,,,
 146.48.123.22,4,-2,europeanfilmgateway.eu,IT,Europe,Southern Europe,Italy,Tuscany,Province of Pisa,Pisa
 185.205.40.105,4,13,europeanpapers.eu,IT,Europe,Southern Europe,Italy,,,
 86.107.32.187,4,-290,europeanreview.org,IT,Europe,Southern Europe,Italy,,,
-77.43.14.82,4,19,eurotexts.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-86.107.36.126,4,-17812,euroweb.com,IT,Europe,Southern Europe,Italy,,,
+77.43.14.82,4,-2,eurotexts.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 46.252.158.76,4,2,eutanasialegale.it,IT,Europe,Southern Europe,Italy,,,
 213.215.222.107,4,3,eutekne.info,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 185.241.64.138,4,1977,eventiesagre.it,IT,Europe,Southern Europe,Italy,,,
@@ -720,21 +719,21 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 46.16.91.20,4,5,federscherma.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 185.145.193.3,4,1898,feedaty.com,IT,Europe,Southern Europe,Italy,,,
 149.62.185.18,4,11,feeldesain.com,IT,Europe,Southern Europe,Italy,,,
-159.213.236.60,4,29,feelflorence.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Florence,Florence
+159.213.236.60,4,5,feelflorence.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Florence,Florence
 93.95.221.194,4,1,ferpress.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 15.161.77.42,4,1,ferrarainfo.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 212.35.216.193,4,12,ferrovie.info,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 46.16.95.158,4,-1,fiabitalia.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-82.180.47.169,4,7,fiamma.com,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Bologna,Bologna
+82.180.47.169,4,0,fiamma.com,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Bologna,Bologna
 195.130.253.192,4,-5,fibrosicistica.it,IT,Europe,Southern Europe,Italy,,,
 158.58.173.6,4,0,fic.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 86.107.33.26,4,-6014,fieracavalli.it,IT,Europe,Southern Europe,Italy,,,
 149.3.145.128,4,-6,fifaultimateteam.it,IT,Europe,Southern Europe,Italy,,,
 46.254.39.37,4,-14,filastrocche.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 80.88.88.60,4,1003845,filmup.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-85.235.157.114,4,32,filtriindustriali.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+85.235.157.114,4,0,filtriindustriali.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 80.88.87.178,4,940,fimmg.org,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-91.212.246.84,4,822,financiarul.ro,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+91.212.246.84,4,2236,financiarul.ro,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 86.105.14.100,4,2,fioranese.it,IT,Europe,Southern Europe,Italy,Sicily,Province of Palermo,Palermo
 46.28.4.48,4,3,fip.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 93.186.249.46,4,-3,fipsas.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
@@ -748,7 +747,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 212.35.204.71,4,-7,flai.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 195.62.190.71,4,-14,flashgiovani.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Reggio Emilia,Correggio
 185.2.4.83,4,8,flavikerpisa.it,IT,Europe,Southern Europe,Italy,,,
-46.252.157.207,4,61,flowerburger.it,IT,Europe,Southern Europe,Italy,,,
+46.252.157.207,4,-2,flowerburger.it,IT,Europe,Southern Europe,Italy,,,
 46.254.36.111,4,-5,fnovi.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 2.228.12.137,4,-7,focolare.org,IT,Europe,Southern Europe,Italy,Lazio,Rome,Marino
 81.88.53.77,4,0,fondation-giacometti.fr,IT,Europe,Southern Europe,Italy,,,
@@ -761,22 +760,22 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 5.144.171.112,4,2,fondorepubblicadigitale.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 46.252.158.180,4,1,fontodi.com,IT,Europe,Southern Europe,Italy,,,
 46.254.37.229,4,20,foodsovereignty.org,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-89.40.173.57,4,221,formazionenautilus.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
-80.88.87.198,4,278,fornopasticceriasarti.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+89.40.173.57,4,0,formazionenautilus.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
+80.88.87.198,4,306,fornopasticceriasarti.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 213.158.86.68,4,-9,foronuclear.org,IT,Europe,Southern Europe,Italy,,,
-80.88.87.211,4,69,forumdipace.org,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+80.88.87.211,4,-525,forumdipace.org,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 86.107.36.134,4,-8235,forumdisuguaglianzediversita.org,IT,Europe,Southern Europe,Italy,,,
 46.252.146.98,4,-6,fotografi.org,IT,Europe,Southern Europe,Italy,,,
 149.3.145.33,4,-7,fqts2020.it,IT,Europe,Southern Europe,Italy,,,
 46.28.4.163,4,-2,freefoot.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 213.158.86.115,4,-5,freepussyriot.org,IT,Europe,Southern Europe,Italy,,,
-185.2.5.5,4,44,frenchiecoventgarden.com,IT,Europe,Southern Europe,Italy,,,
+185.2.5.5,4,-1,frenchiecoventgarden.com,IT,Europe,Southern Europe,Italy,,,
 212.35.217.212,4,7,friendofthesea.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-80.88.95.65,4,5842443,friulanapanini.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+80.88.95.65,4,9072666,friulanapanini.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.17.106.251,4,15,friulioggi.it,IT,Europe,Southern Europe,Italy,,,
 185.2.6.21,4,-39,fromthemurkydepths.co.uk,IT,Europe,Southern Europe,Italy,,,
-46.21.182.20,4,13,fruitbookmagazine.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Dalmine
-185.2.4.57,4,3,fsm.it,IT,Europe,Southern Europe,Italy,,,
+46.21.182.20,4,6,fruitbookmagazine.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Dalmine
+185.2.4.57,4,4,fsm.it,IT,Europe,Southern Europe,Italy,,,
 185.81.0.142,4,-27,fulgar.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 94.177.181.18,4,-20,fullgadgets.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 86.107.37.30,4,1265,fullstoreweb.it,IT,Europe,Southern Europe,Italy,,,
@@ -784,51 +783,51 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 81.88.52.186,4,-26,fundaciongsr.org,IT,Europe,Southern Europe,Italy,,,
 85.94.200.172,4,-4,funghiitaliani.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 93.186.242.56,4,-4,fuoriluogo.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-185.116.60.197,4,5,futuroprossimo.it,IT,Europe,Southern Europe,Italy,,,
+185.116.60.197,4,-1,futuroprossimo.it,IT,Europe,Southern Europe,Italy,,,
 185.2.4.81,4,-13,gaber.it,IT,Europe,Southern Europe,Italy,,,
-89.40.173.153,4,333,gabrielegalimberti.com,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
+89.40.173.153,4,-2,gabrielegalimberti.com,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 194.76.118.59,4,3956,gabrielerusso.it,IT,Europe,Southern Europe,Italy,,,
 176.221.51.116,4,-2,gaggia.com,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
-185.31.67.114,4,6,gaia-onlus.org,IT,Europe,Southern Europe,Italy,,,
+185.31.67.114,4,-3,gaia-onlus.org,IT,Europe,Southern Europe,Italy,,,
 81.88.52.18,4,2,galerie-photo.com,IT,Europe,Southern Europe,Italy,,,
 185.2.4.146,4,-1,galleriacolonna.it,IT,Europe,Southern Europe,Italy,,,
 151.11.50.223,4,-1,galleriacontinua.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Florence,Florence
-62.149.199.218,4,732,galluccifaibano.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+62.149.199.218,4,46565,galluccifaibano.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 194.76.116.37,4,-4,galluraoggi.it,IT,Europe,Southern Europe,Italy,,,
 95.110.230.196,4,-6,garanteinfanzia.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-195.231.17.51,4,17,garanteinfanzia.org,IT,Europe,Southern Europe,Italy,,,
+195.231.17.51,4,1,garanteinfanzia.org,IT,Europe,Southern Europe,Italy,,,
 95.110.230.195,4,0,gardiol.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-95.110.230.204,4,6,gardiol.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+95.110.230.204,4,-1,gardiol.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 149.62.185.168,4,7,garneteurope.com,IT,Europe,Southern Europe,Italy,,,
 213.158.86.35,4,-4,gaussianos.com,IT,Europe,Southern Europe,Italy,,,
 195.211.165.22,4,6,gazzettaufficiale.biz,IT,Europe,Southern Europe,Italy,,,
 80.88.87.210,4,-891,gbcitalia.org,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-185.2.4.42,4,3,gdvajra.it,IT,Europe,Southern Europe,Italy,,,
+185.2.4.42,4,4,gdvajra.it,IT,Europe,Southern Europe,Italy,,,
 81.88.53.165,4,0,gemmaandpartners.com,IT,Europe,Southern Europe,Italy,,,
 188.213.169.243,4,9,genderbender.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 81.88.53.155,4,-16,generazioniconnesse.it,IT,Europe,Southern Europe,Italy,,,
 149.62.188.164,4,-16,genoacfc.it,IT,Europe,Southern Europe,Italy,,,
 213.158.86.93,4,28,geografiainfinita.com,IT,Europe,Southern Europe,Italy,,,
 81.88.53.104,4,-2,gesi.org,IT,Europe,Southern Europe,Italy,,,
-151.101.243.10,4,4,gfps.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+151.101.243.10,4,0,gfps.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 46.254.34.61,4,-6,ghislieri.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-185.2.4.127,4,13,giardinidivillamelzi.it,IT,Europe,Southern Europe,Italy,,,
+185.2.4.127,4,-1,giardinidivillamelzi.it,IT,Europe,Southern Europe,Italy,,,
 46.252.146.68,4,-5,giffonihub.com,IT,Europe,Southern Europe,Italy,,,
 85.235.146.211,4,-2,giglionews.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 194.76.116.40,4,-8,gioca-responsabile.it,IT,Europe,Southern Europe,Italy,,,
 217.70.146.17,4,-4,gioco-legale-italia.it,IT,Europe,Southern Europe,Italy,,,
-89.40.173.248,4,20,gioielleriagalli.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
+89.40.173.248,4,0,gioielleriagalli.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 46.252.148.119,4,-2,giorgiocasa.it,IT,Europe,Southern Europe,Italy,,,
 84.33.37.195,4,2,giorgiomoroder.com,IT,Europe,Southern Europe,Italy,,,
-149.3.148.172,4,11,giorgionadaeditore.it,IT,Europe,Southern Europe,Italy,,,
+149.3.148.172,4,-1,giorgionadaeditore.it,IT,Europe,Southern Europe,Italy,,,
 94.188.237.163,4,-4,giovani2030.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 159.213.160.19,4,-9,giovanisi.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Florence,Campi Bisenzio
-185.221.175.53,4,1485,girlgeekdinnersmilano.com,IT,Europe,Southern Europe,Italy,,,
+185.221.175.53,4,3212,girlgeekdinnersmilano.com,IT,Europe,Southern Europe,Italy,,,
 213.158.84.61,4,-1,gironanoticies.com,IT,Europe,Southern Europe,Italy,,,
 81.31.156.205,4,-4,giurisprudenzapenale.com,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 194.76.118.69,4,-2,giustiziainsieme.it,IT,Europe,Southern Europe,Italy,,,
 185.81.2.104,4,11,glassonline.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-185.31.65.181,4,384,glg-doors.com,IT,Europe,Southern Europe,Italy,,,
+185.31.65.181,4,553,glg-doors.com,IT,Europe,Southern Europe,Italy,,,
 86.107.32.188,4,-20660,gliasinirivista.org,IT,Europe,Southern Europe,Italy,,,
 195.130.247.171,4,22,globalgeografia.com,IT,Europe,Southern Europe,Italy,,,
 45.141.57.227,4,17,globalist.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
@@ -837,7 +836,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 85.94.202.214,4,0,glossariomarketing.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 86.107.36.69,4,-15061,gmricerche.it,IT,Europe,Southern Europe,Italy,,,
 185.2.4.114,4,-5,go-vespa.pt,IT,Europe,Southern Europe,Italy,,,
-185.2.4.148,4,26,go-vespa.pt,IT,Europe,Southern Europe,Italy,,,
+185.2.4.148,4,-2,go-vespa.pt,IT,Europe,Southern Europe,Italy,,,
 46.37.25.190,4,-9,go2.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 86.107.32.92,4,-25607,gogoverdiamond.com,IT,Europe,Southern Europe,Italy,,,
 86.107.36.88,4,48,goldwellnessacademy.it,IT,Europe,Southern Europe,Italy,,,
@@ -845,16 +844,16 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 46.252.150.158,4,-16,gothabeach.it,IT,Europe,Southern Europe,Italy,,,
 62.149.227.100,4,26219431,gotoandplay.biz,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 89.40.173.60,4,0,gradara.org,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
-185.221.174.14,4,559,grancaffegambrinus.com,IT,Europe,Southern Europe,Italy,,,
+185.221.174.14,4,3211,grancaffegambrinus.com,IT,Europe,Southern Europe,Italy,,,
 151.11.83.19,4,36,grandhotelnizza.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Florence,Bagno a Ripoli
 5.134.124.25,4,46,grandpriximola.it,IT,Europe,Southern Europe,Italy,,,
 46.254.34.101,4,5,granfo.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-80.211.143.106,4,41,gratis.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+80.211.143.106,4,2,gratis.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 213.158.84.47,4,-1,greatplacetowork.es,IT,Europe,Southern Europe,Italy,,,
-195.231.50.137,4,1186,greenbiz.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Bergamo
+195.231.50.137,4,470,greenbiz.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Bergamo
 195.231.50.133,4,474,greenme.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Bergamo
 93.186.242.235,4,-6,greenreport.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-93.186.242.145,4,27,greenreport.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+93.186.242.145,4,-1,greenreport.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.2.4.61,4,-2,gresiniracing.com,IT,Europe,Southern Europe,Italy,,,
 195.130.247.104,4,-150337,grnet.it,IT,Europe,Southern Europe,Italy,,,
 185.2.4.51,4,-21,groenlandiagroup.com,IT,Europe,Southern Europe,Italy,,,
@@ -864,7 +863,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 213.158.84.38,4,-5,gruposmedia.com,IT,Europe,Southern Europe,Italy,,,
 151.0.187.146,4,581,guerini.it,IT,Europe,Southern Europe,Italy,Lombardy,,
 89.46.225.78,4,6,guerravanni.com,IT,Europe,Southern Europe,Italy,,,
-93.95.216.216,4,24,guidaconsumatore.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+93.95.216.216,4,-2,guidaconsumatore.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 95.110.225.183,4,-3,guidasicilia.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 89.40.172.16,4,-16,guideincalabria.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 178.255.74.135,4,232,gustissimo.it,IT,Europe,Southern Europe,Italy,,,
@@ -872,7 +871,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 178.255.74.104,4,683,gustissimo.it,IT,Europe,Southern Europe,Italy,,,
 46.254.38.69,4,6,har-cert.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 212.35.217.69,4,9,harken.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-80.88.87.209,4,467,hcconsultingsrl.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+80.88.87.209,4,651,hcconsultingsrl.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 81.88.52.173,4,-3,hdf-energy.com,IT,Europe,Southern Europe,Italy,,,
 89.46.199.230,4,2,hdmotori.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 86.107.36.91,4,-32953,healthdesk.it,IT,Europe,Southern Europe,Italy,,,
@@ -880,7 +879,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 77.39.213.181,4,-19,hellonetlab.it,IT,Europe,Southern Europe,Italy,,,
 86.107.36.113,4,557,helpconsumatori.it,IT,Europe,Southern Europe,Italy,,,
 213.204.11.53,4,30,helsinn.com,IT,Europe,Southern Europe,Italy,,,
-195.88.4.7,4,28,highhopes.com,IT,Europe,Southern Europe,Italy,,,
+195.88.4.7,4,2,highhopes.com,IT,Europe,Southern Europe,Italy,,,
 95.110.158.208,4,-18,hiho.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 81.88.53.10,4,-6,hilarium.cat,IT,Europe,Southern Europe,Italy,,,
 213.158.86.40,4,-21,hispanatolia.com,IT,Europe,Southern Europe,Italy,,,
@@ -888,7 +887,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 89.40.175.119,4,-5,hnh.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 185.31.67.105,4,-17,hostingvirtuale.com,IT,Europe,Southern Europe,Italy,,,
 89.40.173.150,4,-19,hoteladriaticpalace.com,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
-85.235.159.231,4,5,hotelbaglioni.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+85.235.159.231,4,-12,hotelbaglioni.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 86.107.34.12,4,-18713,hotelbrunelleschi.it,IT,Europe,Southern Europe,Italy,,,
 5.252.44.200,4,626,hotelsclick.com,IT,Europe,Southern Europe,Italy,,,
 86.107.36.135,4,132,hotelvillacimbrone.com,IT,Europe,Southern Europe,Italy,,,
@@ -898,65 +897,62 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.184.136.233,4,0,i-ticket.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of L'Aquila,Collelongo
 195.231.24.247,4,5,iamcalcio.it,IT,Europe,Southern Europe,Italy,,,
 85.235.137.192,4,-24,ianseo.net,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-93.95.221.24,4,8,iapb.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 93.186.242.121,4,-8,ibreviary.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.121.38.19,4,-6,iccrom.org,IT,Europe,Southern Europe,Italy,,,
 81.88.52.182,4,3,icea.bio,IT,Europe,Southern Europe,Italy,,,
 185.81.1.167,4,-4,icems.eu,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-46.30.247.142,4,10,icems.eu,IT,Europe,Southern Europe,Italy,,,
+46.30.247.142,4,0,icems.eu,IT,Europe,Southern Europe,Italy,,,
 213.158.84.106,4,-3,icmab.es,IT,Europe,Southern Europe,Italy,,,
 89.40.175.82,4,7,ideaginger.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 85.239.164.42,4,-15,ifom.eu,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 81.88.53.64,4,11,igm-care.it,IT,Europe,Southern Europe,Italy,,,
 80.88.87.243,4,-395,iihl.org,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-93.186.242.32,4,7,iiscecchi.edu.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+93.186.242.32,4,0,iiscecchi.edu.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 90.147.26.120,4,-1,iit.it,IT,Europe,Southern Europe,Italy,Liguria,Province of Genoa,Genoa
-185.2.4.80,4,80,iklectikartlab.com,IT,Europe,Southern Europe,Italy,,,
+185.2.4.80,4,-1,iklectikartlab.com,IT,Europe,Southern Europe,Italy,,,
 89.31.200.14,4,0,ilbustese.it,IT,Europe,Southern Europe,Italy,,,
 217.194.3.217,4,-4,ilcambiamento.it,IT,Europe,Southern Europe,Italy,Lazio,Province of Frosinone,Frosinone
 66.71.163.56,4,-11,ilcentro.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 81.31.158.17,4,11,ilchiccodisenape.org,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 89.46.226.202,4,-2,ilcinemaritrovato.it,IT,Europe,Southern Europe,Italy,,,
 93.186.249.198,4,-1,ilcorrieredelgiorno.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-84.33.192.146,4,-310,ilcorrieredellacitta.com,IT,Europe,Southern Europe,Italy,,,
-185.116.60.77,4,54,ildenaro.it,IT,Europe,Southern Europe,Italy,,,
+185.116.60.77,4,-1,ildenaro.it,IT,Europe,Southern Europe,Italy,,,
 86.107.98.137,4,10077,ildispaccio.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 37.9.227.163,4,-24,ilfattoalimentare.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 185.2.5.47,4,-3,ilgiocatoreonline.it,IT,Europe,Southern Europe,Italy,,,
-185.19.184.186,4,43,ilgiornaledelcibo.it,IT,Europe,Southern Europe,Italy,,,
+185.19.184.186,4,-1,ilgiornaledelcibo.it,IT,Europe,Southern Europe,Italy,,,
 217.70.144.247,4,-1514,ilgiornaledellaprotezionecivile.it,IT,Europe,Southern Europe,Italy,,,
 185.205.41.21,4,0,ilgrandecolibri.com,IT,Europe,Southern Europe,Italy,,,
 83.158.240.200,4,39,iliad.it,IT,Europe,Southern Europe,Italy,,,
 89.40.173.23,4,-2,ilikepuglia.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
-86.107.36.114,4,7084,illatini.com,IT,Europe,Southern Europe,Italy,,,
+86.107.36.114,4,17223,illatini.com,IT,Europe,Southern Europe,Italy,,,
 193.27.202.149,4,-5,illibraio.it,IT,Europe,Southern Europe,Italy,,,
 89.40.173.246,4,30,ilmulinoavento.org,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
-62.149.199.117,4,751,ilnarratore.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-95.110.222.153,4,31,ilpaesenuovo.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+95.110.222.153,4,0,ilpaesenuovo.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 188.213.169.251,4,-14,ilquotidiano.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.81.1.165,4,-19,ilquotidianodellazio.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 185.2.4.65,4,-2,ilramo.org,IT,Europe,Southern Europe,Italy,,,
 89.46.229.67,4,-1,ilriformista.it,IT,Europe,Southern Europe,Italy,,,
 5.144.169.59,4,6,ilromanista.eu,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-185.81.6.11,4,8,iltamtam.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+185.81.6.11,4,-2,iltamtam.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 185.56.168.188,4,5,iltorinese.it,IT,Europe,Southern Europe,Italy,,,
 89.31.200.149,4,-5,ilvibonese.it,IT,Europe,Southern Europe,Italy,,,
 45.147.250.86,4,24,imiglioricasinoonline.net,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 185.2.4.62,4,3,immaginarioscientifico.it,IT,Europe,Southern Europe,Italy,,,
 81.88.52.28,4,-39,impresademartin.it,IT,Europe,Southern Europe,Italy,,,
 85.159.148.127,4,-11,imq.it,IT,Europe,Southern Europe,Italy,,,
-86.107.32.78,4,5,inas.it,IT,Europe,Southern Europe,Italy,,,
+86.107.32.78,4,3126,inas.it,IT,Europe,Southern Europe,Italy,,,
 149.62.189.95,4,-4,inca.it,IT,Europe,Southern Europe,Italy,,,
 194.76.118.119,4,522,incinqueterre.com,IT,Europe,Southern Europe,Italy,,,
 185.127.134.109,4,-60,inda.net,IT,Europe,Southern Europe,Italy,Lombardy,Province of Brescia,Brescia
 95.110.198.60,4,2772,indettaglio.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-193.22.139.131,4,79,indomio.es,IT,Europe,Southern Europe,Italy,,,
+193.22.139.131,4,0,indomio.es,IT,Europe,Southern Europe,Italy,,,
 213.158.86.48,4,-5,ined21.com,IT,Europe,Southern Europe,Italy,,,
-89.46.70.24,4,215,inewsletter.cloud,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+89.46.70.24,4,221,inewsletter.cloud,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.31.67.99,4,5024,infinitidesign.it,IT,Europe,Southern Europe,Italy,,,
 46.252.147.120,4,11,infinitoedizioni.it,IT,Europe,Southern Europe,Italy,,,
 131.154.52.188,4,-10,infn.it,IT,Europe,Southern Europe,Italy,,,
-193.206.84.44,4,25,infn.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Frascati
+193.206.84.44,4,0,infn.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Frascati
 86.107.36.89,4,-30616,infobuildproducts.com,IT,Europe,Southern Europe,Italy,,,
 185.17.107.156,4,8482,infocasino.it,IT,Europe,Southern Europe,Italy,,,
 91.212.246.76,4,2685,infocultural.eu,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
@@ -964,7 +960,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.88.7.207,4,-10,informazionecorretta.com,IT,Europe,Southern Europe,Italy,,,
 185.2.4.77,4,4,infos-jeunes.fr,IT,Europe,Southern Europe,Italy,,,
 86.107.33.21,4,465,ingenere.it,IT,Europe,Southern Europe,Italy,,,
-86.107.36.14,4,5,ingenere.it,IT,Europe,Southern Europe,Italy,,,
+86.107.36.14,4,-13376,ingenere.it,IT,Europe,Southern Europe,Italy,,,
 77.39.212.163,4,12,inpgi.it,IT,Europe,Southern Europe,Italy,,,
 5.249.135.23,4,-3,insella.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 176.107.150.177,4,-6,insella.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
@@ -973,15 +969,15 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 212.35.217.95,4,2,inter-news.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 213.158.86.21,4,2,intered.org,IT,Europe,Southern Europe,Italy,,,
 62.149.215.208,4,7742,interferenza.net,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-34.154.111.100,4,86,interiors3d.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+34.154.111.100,4,-1,interiors3d.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 79.98.45.14,4,8,interlex.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Parma,Parma
 217.61.15.222,4,-5,internetclub.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 84.33.193.121,4,-16,interris.it,IT,Europe,Southern Europe,Italy,,,
-84.33.2.209,4,1607,interris.it,IT,Europe,Southern Europe,Italy,,,
+84.33.2.209,4,3849,interris.it,IT,Europe,Southern Europe,Italy,,,
 86.107.32.148,4,47,intersos.org,IT,Europe,Southern Europe,Italy,,,
 46.252.144.51,4,9,intesigroup.com,IT,Europe,Southern Europe,Italy,,,
 185.2.4.45,4,8,intimuscare.com,IT,Europe,Southern Europe,Italy,,,
-193.33.99.173,4,6,intravino.com,IT,Europe,Southern Europe,Italy,,,
+193.33.99.173,4,2,intravino.com,IT,Europe,Southern Europe,Italy,,,
 46.254.38.17,4,13,ionexfilters.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 85.159.146.101,4,17,ipomeriggi.it,IT,Europe,Southern Europe,Italy,,,
 213.158.86.117,4,-2,irbarcelona.org,IT,Europe,Southern Europe,Italy,,,
@@ -995,32 +991,31 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 86.107.32.99,4,-300,isolamentoacappotto.com,IT,Europe,Southern Europe,Italy,,,
 80.88.87.206,4,114,istitalianodicultura.org,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.201.65.118,4,-20,istoreto.it,IT,Europe,Southern Europe,Italy,,,
-185.2.4.102,4,14,istruttorecinofilo.it,IT,Europe,Southern Europe,Italy,,,
+185.2.4.102,4,4,istruttorecinofilo.it,IT,Europe,Southern Europe,Italy,,,
 195.62.175.67,4,-2,istruzioneer.gov.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Bologna,Bologna
 87.250.74.87,4,41,istruzionepiemonte.it,IT,Europe,Southern Europe,Italy,Piedmont,Province of Novara,Novara
 93.186.242.78,4,1,istruzioneveneto.gov.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 86.107.32.108,4,5,italamp.com,IT,Europe,Southern Europe,Italy,,,
 46.28.2.60,4,2928,italia24.tv,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 94.177.174.192,4,-6,italiachiamaitalia.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-86.107.36.15,4,34,italiadonna.it,IT,Europe,Southern Europe,Italy,,,
-194.113.88.123,4,86,italiafruit.net,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Reggio Emilia,Cavriago
-46.252.149.216,4,54,italianbark.com,IT,Europe,Southern Europe,Italy,,,
-149.3.148.83,4,28,italianieuropei.it,IT,Europe,Southern Europe,Italy,,,
-185.81.2.164,4,8,italiaregina.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+86.107.36.15,4,-13372,italiadonna.it,IT,Europe,Southern Europe,Italy,,,
+194.113.88.123,4,-3,italiafruit.net,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Reggio Emilia,Cavriago
+46.252.149.216,4,-1,italianbark.com,IT,Europe,Southern Europe,Italy,,,
+149.3.148.83,4,0,italianieuropei.it,IT,Europe,Southern Europe,Italy,,,
+185.81.2.164,4,3,italiaregina.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 85.37.146.55,4,10,italy-museum.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Florence,Florence
-151.1.181.119,4,69427,italylawyer.net,IT,Europe,Southern Europe,Italy,,,
+151.1.181.119,4,102645,italylawyer.net,IT,Europe,Southern Europe,Italy,,,
 93.95.216.150,4,9,itsweb.org,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 46.16.90.69,4,2,iuss.org,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-86.107.36.96,4,-9037,iuss.org,IT,Europe,Southern Europe,Italy,,,
 95.110.254.126,4,-279556,ivo128.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 185.81.1.166,4,-7,izsvenezie.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 217.19.153.5,4,49128,jacabook.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 86.107.32.146,4,2717,jacobinitalia.it,IT,Europe,Southern Europe,Italy,,,
-86.107.36.80,4,23,jacobinitalia.it,IT,Europe,Southern Europe,Italy,,,
+86.107.36.80,4,13588,jacobinitalia.it,IT,Europe,Southern Europe,Italy,,,
 46.252.150.164,4,-5,jamesmagazine.it,IT,Europe,Southern Europe,Italy,,,
 185.2.4.116,4,-1,jamonibericoonline.com,IT,Europe,Southern Europe,Italy,,,
 213.158.86.27,4,-4,janegoodall.es,IT,Europe,Southern Europe,Italy,,,
-185.2.4.90,4,6,japanstory.co.uk,IT,Europe,Southern Europe,Italy,,,
+185.2.4.90,4,-2,japanstory.co.uk,IT,Europe,Southern Europe,Italy,,,
 185.2.4.43,4,-3,javana.es,IT,Europe,Southern Europe,Italy,,,
 185.2.4.136,4,5,jdata.it,IT,Europe,Southern Europe,Italy,,,
 213.158.84.217,4,-2,jeanleon.com,IT,Europe,Southern Europe,Italy,,,
@@ -1029,15 +1024,15 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 213.158.86.75,4,27,joaquin-rodrigo.com,IT,Europe,Southern Europe,Italy,,,
 77.39.210.42,4,-6,joborienta.net,IT,Europe,Southern Europe,Italy,,,
 91.212.246.4,4,2681,jobsineuropa.ro,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-194.76.118.158,4,1534,jollyb.it,IT,Europe,Southern Europe,Italy,,,
+194.76.118.158,4,2900,jollyb.it,IT,Europe,Southern Europe,Italy,,,
 80.88.87.240,4,498,journal-of-nuclear-physics.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-185.2.4.70,4,3,judgejules.net,IT,Europe,Southern Europe,Italy,,,
+185.2.4.70,4,4,judgejules.net,IT,Europe,Southern Europe,Italy,,,
 86.107.33.32,4,739,julskitchen.com,IT,Europe,Southern Europe,Italy,,,
 185.145.195.71,4,-4,juzaphoto.com,IT,Europe,Southern Europe,Italy,,,
 213.158.86.78,4,18,kampaoh.com,IT,Europe,Southern Europe,Italy,,,
 185.81.4.217,4,-6,kbandi.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 80.211.178.185,4,1,keats-shelley-house.org,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-185.17.106.200,4,1,keliweb.it,IT,Europe,Southern Europe,Italy,,,
+185.17.106.200,4,2,keliweb.it,IT,Europe,Southern Europe,Italy,,,
 185.81.2.127,4,-3,khatod.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 213.171.186.98,4,16,kinoweb.it,IT,Europe,Southern Europe,Italy,Lazio,Province of Frosinone,Frosinone
 81.29.150.207,4,-10,kismac-ng.org,IT,Europe,Southern Europe,Italy,,,
@@ -1046,27 +1041,26 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 86.107.32.95,4,3052,kyotoclub.org,IT,Europe,Southern Europe,Italy,,,
 66.71.163.97,4,-3,la7.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.81.2.183,4,-7,laboratorioapprendimento.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-188.213.165.221,4,12,labottegadiparigi.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-185.205.41.52,4,54,laboutiquedellacornice.com,IT,Europe,Southern Europe,Italy,,,
+188.213.165.221,4,0,labottegadiparigi.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+185.205.41.52,4,0,laboutiquedellacornice.com,IT,Europe,Southern Europe,Italy,,,
 81.88.53.25,4,15,labtravel.it,IT,Europe,Southern Europe,Italy,,,
-46.252.146.45,4,396,lacarrara.it,IT,Europe,Southern Europe,Italy,,,
+46.252.146.45,4,0,lacarrara.it,IT,Europe,Southern Europe,Italy,,,
 81.31.156.32,4,12,lacrunadellago.net,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 185.221.175.60,4,-2,lacunacoil.com,IT,Europe,Southern Europe,Italy,,,
-62.149.199.208,4,706,lagallerianazionale.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+62.149.199.208,4,47249,lagallerianazionale.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 213.158.86.56,4,-2,lagranjatc.com,IT,Europe,Southern Europe,Italy,,,
 217.61.44.5,4,3,lakecomoschool.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 195.231.23.184,4,5083,lakegarda.com,IT,Europe,Southern Europe,Italy,,,
 176.107.149.201,4,-16,lamarzocco.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 93.42.238.30,4,-3,lamortella.org,IT,Europe,Southern Europe,Italy,Lazio,Rome,Monte Porzio Catone
-93.42.238.94,4,23,lamortella.org,IT,Europe,Southern Europe,Italy,Lazio,Rome,Monte Porzio Catone
+93.42.238.94,4,0,lamortella.org,IT,Europe,Southern Europe,Italy,Lazio,Rome,Monte Porzio Catone
 185.31.67.115,4,2,lancos.com,IT,Europe,Southern Europe,Italy,,,
 185.31.65.180,4,551,langa.tv,IT,Europe,Southern Europe,Italy,,,
 212.35.194.214,4,-3,lanotiziagiornale.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-81.208.42.104,4,8,lanotterosa.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-86.107.36.111,4,21362,lanuova.net,IT,Europe,Southern Europe,Italy,,,
+81.208.42.104,4,1,lanotterosa.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 93.95.221.23,4,-4,lanuovaecologia.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 77.39.212.47,4,21,lapresse.it,IT,Europe,Southern Europe,Italy,,,
-195.231.75.111,4,25,laprovinciadibiella.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+195.231.75.111,4,4,laprovinciadibiella.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 80.88.87.175,4,899,larioenergy.net,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 195.231.85.111,4,-132,latestatamagazine.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 93.186.242.213,4,3,laurapausini.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
@@ -1080,8 +1074,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 86.107.32.166,4,2,lavorare.eu,IT,Europe,Southern Europe,Italy,,,
 77.39.212.52,4,-12,lavorosi.it,IT,Europe,Southern Europe,Italy,,,
 195.231.70.124,4,2,laziodisco.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-46.30.247.188,4,4,lazzaris.com,IT,Europe,Southern Europe,Italy,,,
-185.2.5.1,4,2,lebeccherie.it,IT,Europe,Southern Europe,Italy,,,
+46.30.247.188,4,0,lazzaris.com,IT,Europe,Southern Europe,Italy,,,
+185.2.5.1,4,-1,lebeccherie.it,IT,Europe,Southern Europe,Italy,,,
 81.88.52.226,4,7,leblogducommunicant2-0.com,IT,Europe,Southern Europe,Italy,,,
 217.64.197.6,4,13,lecconotizie.com,IT,Europe,Southern Europe,Italy,Lazio,Province of Frosinone,Frosinone
 85.235.139.116,4,-51,ledicola.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
@@ -1090,39 +1084,39 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 212.35.217.161,4,-2,lega-pro.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 46.252.148.247,4,-1,legabasketfemminile.it,IT,Europe,Southern Europe,Italy,,,
 46.252.150.25,4,-22,legalcalt.com,IT,Europe,Southern Europe,Italy,,,
-46.252.153.202,4,35,legalweeddelivery.it,IT,Europe,Southern Europe,Italy,,,
+46.252.153.202,4,-1,legalweeddelivery.it,IT,Europe,Southern Europe,Italy,,,
 80.211.115.101,4,2398,leganavale.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-193.42.14.146,4,43,legatumoribg.it,IT,Europe,Southern Europe,Italy,,,
+193.42.14.146,4,0,legatumoribg.it,IT,Europe,Southern Europe,Italy,,,
 95.110.191.122,4,2,legavolleyfemminile.it,IT,Europe,Southern Europe,Italy,,,
 81.88.53.36,4,-55,legraziemilano.it,IT,Europe,Southern Europe,Italy,,,
-195.231.20.198,4,51,lentepubblica.it,IT,Europe,Southern Europe,Italy,,,
+195.231.20.198,4,1,lentepubblica.it,IT,Europe,Southern Europe,Italy,,,
 212.19.96.2,4,-24,Leonet4cloud srl,IT,Europe,Southern Europe,Italy,Tuscany,Province of Florence,Empoli
 195.62.162.208,4,-37,lepida.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Bologna,Bologna
 176.223.164.44,4,-40,lepida.net,IT,Europe,Southern Europe,Italy,,,
-212.35.196.18,4,66,lestanzedelvetro.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-84.33.9.3,4,-370,lettoquotidiano.it,IT,Europe,Southern Europe,Italy,,,
+212.35.196.18,4,-2,lestanzedelvetro.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 213.158.86.11,4,-2,leyendasdelrockfestival.com,IT,Europe,Southern Europe,Italy,,,
-46.252.147.218,4,3,libertasicilia.it,IT,Europe,Southern Europe,Italy,,,
+46.252.147.218,4,-3,libertasicilia.it,IT,Europe,Southern Europe,Italy,,,
 193.27.202.154,4,128,libraccio.it,IT,Europe,Southern Europe,Italy,,,
 145.14.173.45,4,-5,libraweb.net,IT,Europe,Southern Europe,Italy,,,
 93.56.6.135,4,14,libreriauniversitaria.it,IT,Europe,Southern Europe,Italy,,,
-84.33.1.189,4,2354,lice.it,IT,Europe,Southern Europe,Italy,,,
+84.33.1.189,4,923,lice.it,IT,Europe,Southern Europe,Italy,,,
 46.252.148.148,4,-14,lifebeyondtourism.org,IT,Europe,Southern Europe,Italy,,,
 80.88.84.244,4,626,lifemuscles.eu,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 89.46.227.10,4,-3,lifewolfalps.eu,IT,Europe,Southern Europe,Italy,,,
 82.112.214.171,4,25,lineapelle-fair.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 91.143.199.161,4,0,linksmt.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Florence,Florence
+212.35.217.209,4,1,linkware.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 213.254.12.150,4,4,linux.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
-185.205.41.31,4,5,lisolachenoncera.it,IT,Europe,Southern Europe,Italy,,,
+185.205.41.31,4,1,lisolachenoncera.it,IT,Europe,Southern Europe,Italy,,,
 46.37.14.18,4,-3,live-score.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 93.186.249.209,4,-17,livellara.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-195.96.198.22,4,5,liveticket.it,IT,Europe,Southern Europe,Italy,The Marches,Province of Ancona,San Marcello
+195.96.198.22,4,0,liveticket.it,IT,Europe,Southern Europe,Italy,The Marches,Province of Ancona,San Marcello
 185.81.4.203,4,-13284,livornocalcio.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 172.232.217.210,4,12,loaloaa.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-86.107.32.153,4,615,localaromas.com,IT,Europe,Southern Europe,Italy,,,
+86.107.32.153,4,-7781,localaromas.com,IT,Europe,Southern Europe,Italy,,,
 149.62.185.88,4,28,localistorici.it,IT,Europe,Southern Europe,Italy,,,
-195.231.67.171,4,336391,locandacipriani.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-86.107.36.128,4,248,loccidentale.it,IT,Europe,Southern Europe,Italy,,,
+195.231.67.171,4,26616,locandacipriani.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+86.107.36.128,4,9366,loccidentale.it,IT,Europe,Southern Europe,Italy,,,
 46.252.147.230,4,-3,lofficinadelsapere.it,IT,Europe,Southern Europe,Italy,,,
 86.107.36.46,4,-1120,longeridavid.it,IT,Europe,Southern Europe,Italy,,,
 89.40.174.140,4,4,loremipzum.com,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
@@ -1130,12 +1124,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 66.22.43.237,4,0,lotto-italia.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 193.42.14.120,4,1,lovatoelectric.com,IT,Europe,Southern Europe,Italy,,,
 213.158.86.99,4,1,lovelyconfetti.com,IT,Europe,Southern Europe,Italy,,,
-84.33.193.171,4,13,lpr.it,IT,Europe,Southern Europe,Italy,,,
+84.33.193.171,4,1,lpr.it,IT,Europe,Southern Europe,Italy,,,
 86.107.32.84,4,-1995,lucartgroup.com,IT,Europe,Southern Europe,Italy,,,
-185.81.2.105,4,5,lucartgroup.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+185.81.2.105,4,0,lucartgroup.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 46.252.144.70,4,7,lucianoberio.org,IT,Europe,Southern Europe,Italy,,,
 5.249.145.231,4,-17,ludomedia.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-81.31.156.113,4,78,luinonotizie.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
+81.31.156.113,4,-3,luinonotizie.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 81.88.52.177,4,0,lumieresdelaville.fr,IT,Europe,Southern Europe,Italy,,,
 217.194.2.54,4,-15,lumsa.it,IT,Europe,Southern Europe,Italy,Lazio,Province of Frosinone,Frosinone
 95.110.158.77,4,143798,lunarossachallenge.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
@@ -1147,16 +1141,16 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 213.158.84.98,4,0,madridfilmoffice.com,IT,Europe,Southern Europe,Italy,,,
 212.35.217.118,4,-21,magellanoconcerti.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 89.40.173.161,4,3,magicstore.cloud,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
-213.215.222.200,4,35,magnetimarelli.com,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
+213.215.222.200,4,0,magnetimarelli.com,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 213.158.86.203,4,3,maidertomasena.com,IT,Europe,Southern Europe,Italy,,,
 185.228.39.66,4,4,mailtrack.me,IT,Europe,Southern Europe,Italy,,,
 94.188.237.121,4,-2,mairetecnimont.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 46.252.148.111,4,-2,make-group.it,IT,Europe,Southern Europe,Italy,,,
 149.3.148.56,4,-7,malpensa24.it,IT,Europe,Southern Europe,Italy,,,
 86.107.37.33,4,-18069,mantellini.it,IT,Europe,Southern Europe,Italy,,,
-86.107.36.17,4,31,mantellini.it,IT,Europe,Southern Europe,Italy,,,
+86.107.36.17,4,4539,mantellini.it,IT,Europe,Southern Europe,Italy,,,
 213.158.85.110,4,5,mappinggis.com,IT,Europe,Southern Europe,Italy,,,
-94.23.73.76,4,50,marcar.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+94.23.73.76,4,-1,marcar.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 79.98.45.31,4,10,marconiexpress.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Parma,Parma
 213.158.84.48,4,-13,marianaeguaras.com,IT,Europe,Southern Europe,Italy,,,
 80.88.87.166,4,944,mariancrc.org,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
@@ -1167,10 +1161,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.205.40.124,4,1,marziasantella.it,IT,Europe,Southern Europe,Italy,,,
 81.29.150.62,4,-18,massivedynamic.co,IT,Europe,Southern Europe,Italy,,,
 160.80.2.46,4,179,mastercapitaleumano.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-188.213.170.205,4,623,mastroberardino.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+188.213.170.205,4,823,mastroberardino.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 46.252.150.252,4,-11,matera-basilicata2019.it,IT,Europe,Southern Europe,Italy,,,
 86.107.32.192,4,-33065,mauriziolacava.com,IT,Europe,Southern Europe,Italy,,,
-172.232.218.172,4,5,maxvalle.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+172.232.218.172,4,-1,maxvalle.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 213.158.86.85,4,37,mbechile.cl,IT,Europe,Southern Europe,Italy,,,
 46.252.157.159,4,0,mbn.it,IT,Europe,Southern Europe,Italy,,,
 86.107.34.18,4,262,mcmtechno.it,IT,Europe,Southern Europe,Italy,,,
@@ -1178,7 +1172,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.205.41.113,4,5,mediciperidirittiumani.org,IT,Europe,Southern Europe,Italy,,,
 85.94.220.144,4,1,medicisenzafrontiere.it,IT,Europe,Southern Europe,Italy,Lazio,Province of Frosinone,Frosinone
 195.231.71.5,4,87,medicitalia.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-89.40.173.145,4,-15,mediltech.com,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 81.88.52.188,4,5,medusa.it,IT,Europe,Southern Europe,Italy,,,
 185.205.41.116,4,-1,meeting2up.it,IT,Europe,Southern Europe,Italy,,,
 95.110.134.48,4,-1,megamodo.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
@@ -1187,14 +1180,14 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 46.252.150.114,4,93,meltemieditore.it,IT,Europe,Southern Europe,Italy,,,
 81.29.150.223,4,-14,mepis.org,IT,Europe,Southern Europe,Italy,,,
 213.158.84.83,4,15,mercadocolon.es,IT,Europe,Southern Europe,Italy,,,
-86.107.32.132,4,558,meridiananotizie.it,IT,Europe,Southern Europe,Italy,,,
-89.40.172.227,4,8,meridionaltecna.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
+86.107.32.132,4,9250,meridiananotizie.it,IT,Europe,Southern Europe,Italy,,,
+89.40.172.227,4,-2,meridionaltecna.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 185.19.184.178,4,-23,mescalina.it,IT,Europe,Southern Europe,Italy,,,
 109.233.129.165,4,-10,messagenet.com,IT,Europe,Southern Europe,Italy,,,
 46.252.148.69,4,16,metalgiotto.it,IT,Europe,Southern Europe,Italy,,,
 178.255.79.71,4,-2606,metanoauto.com,IT,Europe,Southern Europe,Italy,,,
-213.183.128.99,4,4,meteofuno.it,IT,Europe,Southern Europe,Italy,,,
-80.88.87.249,4,383,meteopiateda.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+213.183.128.99,4,0,meteofuno.it,IT,Europe,Southern Europe,Italy,,,
+80.88.87.249,4,474,meteopiateda.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 195.231.39.150,4,1,mgpg.it,IT,Europe,Southern Europe,Italy,,,
 185.221.175.3,4,1192,mgshopdesign.com,IT,Europe,Southern Europe,Italy,,,
 185.142.154.160,4,363,miamarket.it,IT,Europe,Southern Europe,Italy,,,
@@ -1204,7 +1197,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 80.211.120.192,4,-4,midaticket.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 93.95.216.160,4,-15,miela.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 185.19.185.57,4,-6,milanoweekend.it,IT,Europe,Southern Europe,Italy,,,
-46.252.146.26,4,3,milanowineweek.com,IT,Europe,Southern Europe,Italy,,,
+46.252.146.26,4,-2,milanowineweek.com,IT,Europe,Southern Europe,Italy,,,
 217.61.36.188,4,10,millionaire.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 217.61.51.61,4,1,minervaedizioni.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 89.40.175.233,4,-1,minimaetmoralia.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
@@ -1213,11 +1206,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 213.158.86.19,4,7,miradormadrid.com,IT,Europe,Southern Europe,Italy,,,
 149.62.186.184,4,-13,miroarchitetti.com,IT,Europe,Southern Europe,Italy,,,
 149.3.148.51,4,-1,misna.org,IT,Europe,Southern Europe,Italy,,,
-86.105.14.101,4,4,missoc.org,IT,Europe,Southern Europe,Italy,Sicily,Province of Palermo,Palermo
+86.105.14.101,4,-1,missoc.org,IT,Europe,Southern Europe,Italy,Sicily,Province of Palermo,Palermo
 85.94.193.150,4,13,missonihome.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 217.171.46.55,4,-719504,mitsubishielectric.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 213.158.84.73,4,-13,miuc.org,IT,Europe,Southern Europe,Italy,,,
-81.31.158.18,4,8,mkportal.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
+81.31.158.18,4,0,mkportal.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 81.88.53.73,4,26,mnbagessanejament.cat,IT,Europe,Southern Europe,Italy,,,
 213.158.84.81,4,13,mochileandoporelmundo.com,IT,Europe,Southern Europe,Italy,,,
 195.250.236.135,4,11,modellismo.eu,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
@@ -1225,13 +1218,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 89.46.225.174,4,9,modula.eu,IT,Europe,Southern Europe,Italy,,,
 89.46.228.204,4,0,mohd.it,IT,Europe,Southern Europe,Italy,,,
 95.110.145.91,4,-3,moked.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-80.211.237.85,4,27,molinari.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+80.211.237.85,4,0,molinari.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.81.0.120,4,-29,momo.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 77.39.209.58,4,34,momo.it,IT,Europe,Southern Europe,Italy,,,
 213.158.84.27,4,2,monasteriopiedra.com,IT,Europe,Southern Europe,Italy,,,
 81.88.53.140,4,8,monclick.it,IT,Europe,Southern Europe,Italy,,,
 185.2.5.31,4,33,mondeovalves.com,IT,Europe,Southern Europe,Italy,,,
-193.33.99.134,4,6,mondino.it,IT,Europe,Southern Europe,Italy,,,
+193.33.99.134,4,4,mondino.it,IT,Europe,Southern Europe,Italy,,,
 95.141.32.27,4,34,mondo3.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 45.138.201.50,4,12,mondobalneare.com,IT,Europe,Southern Europe,Italy,,,
 194.79.204.96,4,169,mondodigitale.org,IT,Europe,Southern Europe,Italy,Lazio,Rome,Fiumicino
@@ -1244,25 +1237,25 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 46.252.145.127,4,2565,montiebarabino.it,IT,Europe,Southern Europe,Italy,,,
 86.107.36.36,4,8048,monumentiaperti.com,IT,Europe,Southern Europe,Italy,,,
 212.35.217.64,4,-20,monzanet.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-46.252.155.41,4,33639,morellinieditore.it,IT,Europe,Southern Europe,Italy,,,
+46.252.155.41,4,-2,morellinieditore.it,IT,Europe,Southern Europe,Italy,,,
 213.158.86.103,4,1,morenafilms.com,IT,Europe,Southern Europe,Italy,,,
 212.35.217.108,4,10,moroso.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 188.213.161.42,4,-13,motoclub-tingavert.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-80.88.88.240,4,61402,motoclub-tingavert.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+80.88.88.240,4,67193,motoclub-tingavert.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 95.110.149.207,4,6126,motori.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 46.254.39.108,4,11,mototrial.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 212.35.217.2,4,1,mou-online.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 217.61.63.132,4,5,movimentolento.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-91.203.220.120,4,4,mpmarredamenti.it,IT,Europe,Southern Europe,Italy,,,
+91.203.220.120,4,0,mpmarredamenti.it,IT,Europe,Southern Europe,Italy,,,
 185.205.40.216,4,4,msg.it,IT,Europe,Southern Europe,Italy,,,
 109.168.97.34,4,750,mtmteatro.it,IT,Europe,Southern Europe,Italy,,,
 185.228.39.61,4,2,mtrack.me,IT,Europe,Southern Europe,Italy,,,
 81.31.156.160,4,22,mulinocaputo.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 81.88.52.12,4,29,museimpresa.com,IT,Europe,Southern Europe,Italy,,,
-185.2.4.113,4,60,museitrieste.it,IT,Europe,Southern Europe,Italy,,,
-185.2.4.48,4,2,museoarcheologiconapoli.it,IT,Europe,Southern Europe,Italy,,,
+185.2.4.113,4,3,museitrieste.it,IT,Europe,Southern Europe,Italy,,,
+185.2.4.48,4,-2,museoarcheologiconapoli.it,IT,Europe,Southern Europe,Italy,,,
 86.107.32.185,4,-26679,museoauto.com,IT,Europe,Southern Europe,Italy,,,
-86.107.36.13,4,6,museoauto.com,IT,Europe,Southern Europe,Italy,,,
+86.107.36.13,4,-13374,museoauto.com,IT,Europe,Southern Europe,Italy,,,
 86.107.36.109,4,930,museoauto.it,IT,Europe,Southern Europe,Italy,,,
 213.158.84.57,4,31,museoblaisten.com,IT,Europe,Southern Europe,Italy,,,
 77.39.209.51,4,5,museocanova.it,IT,Europe,Southern Europe,Italy,,,
@@ -1270,11 +1263,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 213.158.84.64,4,8,museocasanataldecervantes.org,IT,Europe,Southern Europe,Italy,,,
 209.227.233.39,4,-9,museoman.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 86.107.33.41,4,-999,museonazionaleromano.it,IT,Europe,Southern Europe,Italy,,,
-93.186.244.80,4,8,museosetacomo.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+93.186.244.80,4,0,museosetacomo.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 81.88.52.100,4,2,museusdesitges.cat,IT,Europe,Southern Europe,Italy,,,
 85.235.140.47,4,-19,musicfestperugia.net,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.81.4.132,4,-20,mybestplace.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-95.110.224.120,4,656,mygladix.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+95.110.224.120,4,-208,mygladix.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 95.110.227.120,4,14,myhealthbox.eu,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 46.252.158.52,4,6,mymida.it,IT,Europe,Southern Europe,Italy,,,
 34.154.58.175,4,3,myparking.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
@@ -1288,14 +1281,14 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 89.40.172.111,4,2,netsons.org,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 185.56.169.152,4,-110797,neuromed.it,IT,Europe,Southern Europe,Italy,,,
 213.158.84.37,4,1,neuropediatra.org,IT,Europe,Southern Europe,Italy,,,
-149.62.187.144,4,102,nevecosmetics.it,IT,Europe,Southern Europe,Italy,,,
+149.62.187.144,4,-2,nevecosmetics.it,IT,Europe,Southern Europe,Italy,,,
 85.235.142.73,4,-8,neveitalia.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-159.253.217.169,4,29,newburghgazette.com,IT,Europe,Southern Europe,Italy,,,
+159.253.217.169,4,-1,newburghgazette.com,IT,Europe,Southern Europe,Italy,,,
 91.212.246.81,4,2625,newlifebio.eu,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 195.36.2.41,4,2,nexodigital.it,IT,Europe,Southern Europe,Italy,,,
 46.28.2.29,4,14,nibirumail.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 192.12.192.40,4,129,nic.it,IT,Europe,Southern Europe,Italy,,,
-185.221.174.147,4,1105,nienteansia.it,IT,Europe,Southern Europe,Italy,,,
+185.221.174.147,4,2535,nienteansia.it,IT,Europe,Southern Europe,Italy,,,
 195.231.66.243,4,75268,nigrizia.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 171.22.182.176,4,147,nikeoutletstore.us,IT,Europe,Southern Europe,Italy,Sicily,Province of Palermo,Palermo
 95.110.224.52,4,5,nikepretaventes.fr,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
@@ -1313,32 +1306,30 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 46.16.91.54,4,-5,nonnapaperina.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 95.110.159.30,4,0,nonsolocap.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.78.66.122,4,5,nonsprecare.it,IT,Europe,Southern Europe,Italy,,,
-185.17.106.190,4,927,noortravels.it,IT,Europe,Southern Europe,Italy,,,
+185.17.106.190,4,-6768446,noortravels.it,IT,Europe,Southern Europe,Italy,,,
 81.88.52.45,4,-8,nordest.biz,IT,Europe,Southern Europe,Italy,,,
 195.130.253.199,4,22,nordicwalkingetna.it,IT,Europe,Southern Europe,Italy,,,
 86.107.32.110,4,-12206,nordur.it,IT,Europe,Southern Europe,Italy,,,
 93.95.216.171,4,-1,northwall.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-195.231.60.33,4,12,notiziaoggi.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Bergamo
+195.231.60.33,4,5,notiziaoggi.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Bergamo
 81.208.42.66,4,1621,novamont.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 185.2.5.21,4,6,novembre.it,IT,Europe,Southern Europe,Italy,,,
 66.71.132.20,4,1037,novoceram.fr,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 62.94.74.180,4,1,ntr24.tv,IT,Europe,Southern Europe,Italy,Liguria,Province of La Spezia,Vezzano Ligure
 95.110.185.242,4,66333,nuovavimaplast.it,IT,Europe,Southern Europe,Italy,,,
-81.31.158.39,4,27,nuoviprofili.com,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
+81.31.158.39,4,-2,nuoviprofili.com,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 81.88.52.149,4,4,nuovoeutile.it,IT,Europe,Southern Europe,Italy,,,
 195.231.87.73,4,11,oasport.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 213.158.84.97,4,2,observatorioviolencia.org,IT,Europe,Southern Europe,Italy,,,
-185.56.218.202,4,-100,occhionotizie.it,IT,Europe,Southern Europe,Italy,,,
 195.231.4.64,4,64,oceanreefgroup.com,IT,Europe,Southern Europe,Italy,,,
-192.71.245.69,4,31,odessa-daily.com.ua,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Cologno Monzese
+192.71.245.69,4,-1,odessa-daily.com.ua,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Cologno Monzese
 86.107.36.185,4,-6291,off-gridhouse.it,IT,Europe,Southern Europe,Italy,,,
-195.231.19.217,4,6,officinagrandi.it,IT,Europe,Southern Europe,Italy,,,
-80.88.87.189,4,-84,officinalagana.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+195.231.19.217,4,1,officinagrandi.it,IT,Europe,Southern Europe,Italy,,,
 46.28.4.133,4,10,officinaparfum.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-93.95.216.175,4,4,ofm.org,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+93.95.216.175,4,0,ofm.org,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 46.252.155.48,4,28,ofmconv.net,IT,Europe,Southern Europe,Italy,,,
 89.46.227.83,4,23,oglioponews.it,IT,Europe,Southern Europe,Italy,,,
-185.91.240.65,4,7,oikos.it,IT,Europe,Southern Europe,Italy,,,
+185.91.240.65,4,-1,oikos.it,IT,Europe,Southern Europe,Italy,,,
 185.81.4.70,4,4,olioroccia.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 66.71.175.7,4,10,oltremare.org,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 94.177.195.150,4,924,omnimoto.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
@@ -1369,7 +1360,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.26.198.132,4,-1,Ookla Speedtest Server 5914: speedtest.4isp.it,IT,Europe,Southern Europe,Italy,,,
 62.102.152.34,4,-4,Ookla Speedtest Server 6129: st1.admmax.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Palestrina
 185.44.214.246,4,-8,Ookla Speedtest Server 6339: speedtest.3psystem.net,IT,Europe,Southern Europe,Italy,Veneto,Province of Venice,Fiesso d'Artico
-185.44.215.252,4,349,Ookla Speedtest Server 6339: speedtest.3psystem.net,IT,Europe,Southern Europe,Italy,Veneto,Province of Venice,Fiesso d'Artico
+185.44.215.252,4,-4,Ookla Speedtest Server 6339: speedtest.3psystem.net,IT,Europe,Southern Europe,Italy,Veneto,Province of Venice,Fiesso d'Artico
 185.8.24.202,4,101,Ookla Speedtest Server 6857: speedtest.stel.it,IT,Europe,Southern Europe,Italy,Sardinia,Province of Sassari,San Teodoro
 185.171.36.10,4,65,Ookla Speedtest Server 6901: speedtestmm01.interplanet.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Verona,San Bonifacio
 185.40.212.20,4,-21872,Ookla Speedtest Server 7020: speedtest.net.nhm.it,IT,Europe,Southern Europe,Italy,Campania,Province of Caserta,Aversa
@@ -1388,7 +1379,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.100.33.18,4,29832,Ookla Speedtest Server 15920: speedtest1.interfibra.it,IT,Europe,Southern Europe,Italy,Molise,Province of Isernia,Montaquila
 185.244.236.15,4,307415,Ookla Speedtest Server 15928: speedtest.velcom.it,IT,Europe,Southern Europe,Italy,Lazio,Provincia di Latina,Latina
 185.215.140.4,4,6,Ookla Speedtest Server 17155: speedtest1.farecom.it,IT,Europe,Southern Europe,Italy,Campania,Province of Salerno,Campagna
-185.215.140.10,4,205,Ookla Speedtest Server 17155: speedtest1.farecom.it,IT,Europe,Southern Europe,Italy,Campania,Province of Salerno,Campagna
+185.215.140.10,4,-6,Ookla Speedtest Server 17155: speedtest1.farecom.it,IT,Europe,Southern Europe,Italy,Campania,Province of Salerno,Campagna
 185.231.208.12,4,13,Ookla Speedtest Server 17277: st1.connetta.it,IT,Europe,Southern Europe,Italy,Lazio,Province of Frosinone,Sora
 188.8.12.174,4,-19,Ookla Speedtest Server 17474: speedtest.we-link.it,IT,Europe,Southern Europe,Italy,Sicily,Province of Caltanissetta,Niscemi
 185.144.120.34,4,-2,Ookla Speedtest Server 17928: serverookla.wishnet.it,IT,Europe,Southern Europe,Italy,Sicily,Province of Agrigento,Sciacca
@@ -1420,7 +1411,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 5.1.42.222,4,-3,Ookla Speedtest Server 30460: speedtest.mikronet.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Pavia,Sannazzaro de' Burgondi
 178.255.116.50,4,-4,Ookla Speedtest Server 31495: speedaprilia.teleimpiantisrl.net,IT,Europe,Southern Europe,Italy,Lazio,Provincia di Latina,Aprilia
 178.255.116.52,4,-13,Ookla Speedtest Server 31496: speedcisterna.teleimpiantisrl.net,IT,Europe,Southern Europe,Italy,Lazio,Provincia di Latina,Aprilia
-178.255.116.54,4,353,Ookla Speedtest Server 31497: speednettuno.teleimpiantisrl.net,IT,Europe,Southern Europe,Italy,Lazio,Provincia di Latina,Aprilia
+178.255.116.54,4,-1,Ookla Speedtest Server 31497: speednettuno.teleimpiantisrl.net,IT,Europe,Southern Europe,Italy,Lazio,Provincia di Latina,Aprilia
 178.255.116.53,4,9,Ookla Speedtest Server 31498: speedcori.teleimpiantisrl.net,IT,Europe,Southern Europe,Italy,Lazio,Provincia di Latina,Aprilia
 178.255.116.56,4,10,Ookla Speedtest Server 31499: speedsabaudia.teleimpiantisrl.net,IT,Europe,Southern Europe,Italy,Lazio,Provincia di Latina,Aprilia
 178.255.116.55,4,-3,Ookla Speedtest Server 31500: speedpriverno.teleimpiantisrl.net,IT,Europe,Southern Europe,Italy,Lazio,Provincia di Latina,Aprilia
@@ -1462,7 +1453,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 82.85.147.132,4,3,Ookla Speedtest Server 53173: ookla-ca.tech.tiscali.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 46.28.121.114,4,-2,Ookla Speedtest Server 54292: speedtest-vi.wifiweb.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Vicenza,Sovizzo
 46.28.121.118,4,-3,Ookla Speedtest Server 54323: speedtest-pd.wifiweb.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Vicenza,Sovizzo
-89.21.196.251,4,124,Ookla Speedtest Server 55199: speedtest.convergenze.it,IT,Europe,Southern Europe,Italy,Campania,Province of Salerno,Capaccio Paestum
+89.21.196.251,4,-4,Ookla Speedtest Server 55199: speedtest.convergenze.it,IT,Europe,Southern Europe,Italy,Campania,Province of Salerno,Capaccio Paestum
 89.21.196.252,4,16,Ookla Speedtest Server 55285: speedtest2.convergenze.it,IT,Europe,Southern Europe,Italy,Campania,Province of Salerno,Capaccio Paestum
 94.126.12.10,4,19,Ookla Speedtest Server 55371: speedtest-vr.wifiweb.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Vicenza,Trissino
 94.126.12.11,4,-2,Ookla Speedtest Server 55373: speedtest-valdagno.wifiweb.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Vicenza,Trissino
@@ -1511,30 +1502,30 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 194.183.16.174,4,6,Ookla Speedtest Server: speed.unidata.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Monterotondo
 193.24.124.8,4,13,opapisa.it,IT,Europe,Southern Europe,Italy,,,
 5.134.122.118,4,-1,opbyte.it,IT,Europe,Southern Europe,Italy,,,
-80.211.139.78,4,38,opencaching.us,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+80.211.139.78,4,467,opencaching.us,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.205.41.249,4,-11,operapadrepio.it,IT,Europe,Southern Europe,Italy,,,
 185.2.5.97,4,0,opsmatters.com,IT,Europe,Southern Europe,Italy,,,
 185.81.6.28,4,3,ordineavvocatimilano.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 77.39.211.47,4,16,ordinepsicologiveneto.it,IT,Europe,Southern Europe,Italy,,,
 213.158.86.106,4,0,orellutmobile.es,IT,Europe,Southern Europe,Italy,,,
-194.183.4.26,4,8,originalmarines.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-194.183.4.19,4,22,originalmarines.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+194.183.4.26,4,0,originalmarines.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+194.183.4.19,4,1,originalmarines.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 217.61.43.22,4,5817,orologi-rolex.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-178.255.74.101,4,430,oroscopissimi.it,IT,Europe,Southern Europe,Italy,,,
+178.255.74.101,4,132,oroscopissimi.it,IT,Europe,Southern Europe,Italy,,,
 86.107.33.22,4,-12478,orsoludo.com,IT,Europe,Southern Europe,Italy,,,
 185.17.107.190,4,642,ortobotanico1545.it,IT,Europe,Southern Europe,Italy,,,
 89.40.174.34,4,21,ortodialberico.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 80.88.84.220,4,3,orvietonews.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 86.107.36.145,4,13434,ospedaleniguarda.it,IT,Europe,Southern Europe,Italy,,,
-194.132.31.85,4,219,ossuary.eu,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+194.132.31.85,4,40184,ossuary.eu,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 46.252.148.242,4,-2,other-news.info,IT,Europe,Southern Europe,Italy,,,
 80.88.87.242,4,-246,otticasalvagente.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 89.40.174.184,4,-5,oubliettemagazine.com,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 176.126.175.173,4,3,owlhosting.cloud,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 86.107.37.15,4,49126,pacinieditore.it,IT,Europe,Southern Europe,Italy,,,
-86.107.36.11,4,12,pacinieditore.it,IT,Europe,Southern Europe,Italy,,,
+86.107.36.11,4,17221,pacinieditore.it,IT,Europe,Southern Europe,Italy,,,
 86.107.33.34,4,-15032,pacinimedicina.it,IT,Europe,Southern Europe,Italy,,,
-185.56.218.127,4,1073,padelfip.com,IT,Europe,Southern Europe,Italy,,,
+185.56.218.127,4,2530,padelfip.com,IT,Europe,Southern Europe,Italy,,,
 194.76.116.13,4,6856,pagina99.it,IT,Europe,Southern Europe,Italy,,,
 93.186.242.157,4,14,paginainizio.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 217.64.197.245,4,-7,paginemediche.it,IT,Europe,Southern Europe,Italy,Lazio,Province of Frosinone,Frosinone
@@ -1544,27 +1535,26 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 212.237.7.166,4,16,palazzoblu.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.221.174.12,4,3205,palazzomediciriccardi.it,IT,Europe,Southern Europe,Italy,,,
 86.107.36.178,4,-6705,palazzorealedinapoli.org,IT,Europe,Southern Europe,Italy,,,
-89.46.228.62,4,74,palazzorealedinapoli.org,IT,Europe,Southern Europe,Italy,,,
+89.46.228.62,4,-1,palazzorealedinapoli.org,IT,Europe,Southern Europe,Italy,,,
 185.221.172.204,4,510,palazzostrozzi.org,IT,Europe,Southern Europe,Italy,,,
-185.221.172.182,4,730,palazzostrozzi.org,IT,Europe,Southern Europe,Italy,,,
-194.76.116.191,4,2846,palermitanoscacchi.it,IT,Europe,Southern Europe,Italy,,,
+185.221.172.182,4,-285,palazzostrozzi.org,IT,Europe,Southern Europe,Italy,,,
+194.76.116.191,4,251,palermitanoscacchi.it,IT,Europe,Southern Europe,Italy,,,
 213.158.86.52,4,-10,palermonline.com.ar,IT,Europe,Southern Europe,Italy,,,
 86.107.32.147,4,26,palombaserafini.com,IT,Europe,Southern Europe,Italy,,,
 46.252.153.118,4,16,pandorarivista.it,IT,Europe,Southern Europe,Italy,,,
 80.88.87.215,4,380,panevinomilano.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.221.175.52,4,5902,pangea.news,IT,Europe,Southern Europe,Italy,,,
-86.107.36.101,4,-9267,pangeaonlus.org,IT,Europe,Southern Europe,Italy,,,
 212.66.96.16,4,-11,panservice.it,IT,Europe,Southern Europe,Italy,Lazio,Provincia di Latina,Latina
 57.131.50.128,4,5,pantallasamigas.net,IT,Europe,Southern Europe,Italy,,,
 86.107.36.117,4,182,paolinocapri.com,IT,Europe,Southern Europe,Italy,,,
 80.88.84.240,4,729,paolofresu.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 46.252.151.232,4,22,parcoetna.it,IT,Europe,Southern Europe,Italy,,,
-185.169.25.5,4,3,parconaturaviva.it,IT,Europe,Southern Europe,Italy,,,
+185.169.25.5,4,0,parconaturaviva.it,IT,Europe,Southern Europe,Italy,,,
 46.28.4.71,4,37,parconazionaledelvesuvio.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 195.231.22.127,4,11,parcosila.it,IT,Europe,Southern Europe,Italy,,,
 178.250.64.52,4,27,parentini.com,IT,Europe,Southern Europe,Italy,,,
 91.212.246.86,4,2577,pariu.online,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-185.205.41.143,4,69,paroledascoprire.it,IT,Europe,Southern Europe,Italy,,,
+185.205.41.143,4,1,paroledascoprire.it,IT,Europe,Southern Europe,Italy,,,
 213.158.84.105,4,1,pasosonline.org,IT,Europe,Southern Europe,Italy,,,
 185.2.6.14,4,4,passengerassistcambs.co.uk,IT,Europe,Southern Europe,Italy,,,
 62.149.215.60,4,6538,pasta-garofalo.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
@@ -1574,9 +1564,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 194.28.116.93,4,2641,pastificiodasso.com,IT,Europe,Southern Europe,Italy,,,
 213.158.84.35,4,-20,pastrycampus.com,IT,Europe,Southern Europe,Italy,,,
 57.131.22.251,4,16,patatrak-ct.it,IT,Europe,Southern Europe,Italy,,,
-185.25.207.58,4,9,peach.cool,IT,Europe,Southern Europe,Italy,,,
+185.25.207.58,4,-1,peach.cool,IT,Europe,Southern Europe,Italy,,,
 212.35.196.10,4,9,pedemontana.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-46.252.150.103,4,27,peeta.net,IT,Europe,Southern Europe,Italy,,,
+46.252.150.103,4,0,peeta.net,IT,Europe,Southern Europe,Italy,,,
 77.39.211.162,4,0,pelatelli.com,IT,Europe,Southern Europe,Italy,,,
 46.252.158.78,4,1,pellicanohotels.com,IT,Europe,Southern Europe,Italy,,,
 81.88.53.151,4,21,pennes-mirabeau.org,IT,Europe,Southern Europe,Italy,,,
@@ -1588,22 +1578,21 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 212.39.9.98,4,2127771,perugiatiming.com,IT,Europe,Southern Europe,Italy,Umbria,Province of Perugia,San Leo Bastia
 85.94.203.210,4,7,pgdue.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 194.21.38.143,4,5,pharmanutra.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-89.40.174.137,4,37,photobasement.com,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
+89.40.174.137,4,0,photobasement.com,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 194.147.219.171,4,-2,photocity.it,IT,Europe,Southern Europe,Italy,,,
 89.40.173.56,4,25,photographers.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 158.58.172.4,4,-1,pianetabambini.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 46.252.146.80,4,4,pianetabatterie.it,IT,Europe,Southern Europe,Italy,,,
 84.33.192.223,4,-1368,pianetacellulare.it,IT,Europe,Southern Europe,Italy,,,
-94.177.174.140,4,2229912,piattaformasolidale.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-193.33.99.113,4,12,piazzaduomoalba.it,IT,Europe,Southern Europe,Italy,,,
+94.177.174.140,4,138322,piattaformasolidale.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+193.33.99.113,4,2,piazzaduomoalba.it,IT,Europe,Southern Europe,Italy,,,
 46.37.14.19,4,-3,piazze.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-95.110.225.244,4,-54555,picamemag.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 81.88.52.245,4,7,piksel.com,IT,Europe,Southern Europe,Italy,,,
 81.29.150.11,4,-2,ping.fm,IT,Europe,Southern Europe,Italy,,,
 5.134.126.114,4,24,pink-floyd.org,IT,Europe,Southern Europe,Italy,,,
 185.2.4.72,4,-8,pinko.it,IT,Europe,Southern Europe,Italy,,,
 85.94.203.206,4,60,pistoletto.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-95.110.252.45,4,681,placetobet.net,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+95.110.252.45,4,46623,placetobet.net,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 213.158.84.21,4,5,planbnoticias.com.ar,IT,Europe,Southern Europe,Italy,,,
 45.145.250.40,4,49462,playlogiq.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 149.3.148.209,4,-8,pleinair.it,IT,Europe,Southern Europe,Italy,,,
@@ -1612,14 +1601,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 144.168.46.82,4,27,podtepeto.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 93.95.216.60,4,18,pointofnews.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 81.88.53.50,4,16,pol-len.cat,IT,Europe,Southern Europe,Italy,,,
-80.211.129.70,4,-6209,polistampa.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 57.131.6.68,4,11,politerapico.it,IT,Europe,Southern Europe,Italy,,,
 185.114.108.108,4,320,polovw.it,IT,Europe,Southern Europe,Italy,,,
 46.252.146.202,4,-9,ponderosa.it,IT,Europe,Southern Europe,Italy,,,
 185.81.2.54,4,10,popcorntv.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 149.62.186.21,4,0,popolis.it,IT,Europe,Southern Europe,Italy,,,
 213.158.86.16,4,-1,portalalba.org,IT,Europe,Southern Europe,Italy,,,
-185.81.2.16,4,19,porte-legno-massello.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+185.81.2.16,4,-1,porte-legno-massello.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 46.28.4.129,4,24,portoantico.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 89.40.172.34,4,24,portofelice.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 86.107.37.32,4,-20129,portorossi.com,IT,Europe,Southern Europe,Italy,,,
@@ -1633,11 +1621,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 46.37.14.11,4,13,previsionideltempo.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 81.31.158.53,4,2,primapaginanews.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 213.158.85.114,4,33,primicias24.com,IT,Europe,Southern Europe,Italy,,,
-185.2.4.103,4,39,printedita.it,IT,Europe,Southern Europe,Italy,,,
+185.2.4.103,4,-1,printedita.it,IT,Europe,Southern Europe,Italy,,,
 213.158.86.101,4,17,proexca.es,IT,Europe,Southern Europe,Italy,,,
 77.39.211.111,4,33,profumeriaweb.com,IT,Europe,Southern Europe,Italy,,,
-185.205.41.118,4,104,progettoelisa.it,IT,Europe,Southern Europe,Italy,,,
-86.107.32.157,4,192,progettomatrimonio.it,IT,Europe,Southern Europe,Italy,,,
+185.205.41.118,4,1,progettoelisa.it,IT,Europe,Southern Europe,Italy,,,
+86.107.32.157,4,11853,progettomatrimonio.it,IT,Europe,Southern Europe,Italy,,,
 149.62.191.249,4,7,progrip.com,IT,Europe,Southern Europe,Italy,,,
 95.110.229.86,4,42,proiezionidiborsa.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 95.141.32.132,4,-716,proimpianti.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
@@ -1648,10 +1636,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.36.72.213,4,-1127,promhotelsriccione.it,IT,Europe,Southern Europe,Italy,,,
 185.2.4.121,4,10,proraso.com,IT,Europe,Southern Europe,Italy,,,
 66.71.173.230,4,13162,prosciuttodiparma.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-81.29.208.212,4,14357444,prosciuttodiparma.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+81.29.208.212,4,-1,prosciuttodiparma.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 80.88.87.247,4,961,prosecco.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 213.158.86.80,4,2,protecciondatos-lopd.com,IT,Europe,Southern Europe,Italy,,,
-185.205.41.27,4,49,protecgroup.it,IT,Europe,Southern Europe,Italy,,,
+185.205.41.27,4,-1,protecgroup.it,IT,Europe,Southern Europe,Italy,,,
 86.107.36.93,4,-36,proteko.it,IT,Europe,Southern Europe,Italy,,,
 213.158.86.15,4,11,proyectohombre.es,IT,Europe,Southern Europe,Italy,,,
 81.88.53.44,4,10,psychanalyse-paris.com,IT,Europe,Southern Europe,Italy,,,
@@ -1691,45 +1679,45 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 149.62.189.47,4,24,radiomarte.it,IT,Europe,Southern Europe,Italy,,,
 46.37.24.63,4,16,radionovelli.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 80.88.84.210,4,25,radiopico.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-80.88.84.242,4,1044,radiopico.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-212.237.29.67,4,22150,radiopuntonuovo.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+80.88.84.242,4,1024,radiopico.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+212.237.29.67,4,41580,radiopuntonuovo.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 89.40.174.32,4,-19,raduni.org,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 94.177.202.112,4,15,railfaneurope.net,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 81.88.52.160,4,30,raise-environment.eu,IT,Europe,Southern Europe,Italy,,,
 194.76.118.23,4,2374,rassegnaletterariavigevano.com,IT,Europe,Southern Europe,Italy,,,
-95.110.222.131,4,6,ravaglioli.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+95.110.222.131,4,3,ravaglioli.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 212.66.96.20,4,6,ravellofestival.com,IT,Europe,Southern Europe,Italy,Lazio,Provincia di Latina,Latina
 213.209.214.8,4,9,ravennamosaici.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Ravenna,Ravenna
-185.221.175.17,4,627,rcrevolution.net,IT,Europe,Southern Europe,Italy,,,
+185.221.175.17,4,1043,rcrevolution.net,IT,Europe,Southern Europe,Italy,,,
 193.43.199.117,4,-17,rdueb.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Bologna,Bologna
 81.88.52.80,4,16,realclubdegolfdelaspalmas.com,IT,Europe,Southern Europe,Italy,,,
-185.2.4.122,4,26,rebelnews.ie,IT,Europe,Southern Europe,Italy,,,
+185.2.4.122,4,-2,rebelnews.ie,IT,Europe,Southern Europe,Italy,,,
 46.252.150.63,4,20,recialde.it,IT,Europe,Southern Europe,Italy,,,
 86.107.36.38,4,9340,recommon.org,IT,Europe,Southern Europe,Italy,,,
 46.254.34.70,4,2,redcasavacanzemarotta.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 84.33.1.155,4,-1412,reggiotv.it,IT,Europe,Southern Europe,Italy,,,
-185.2.4.44,4,49,reginachain.net,IT,Europe,Southern Europe,Italy,,,
+185.2.4.44,4,-2,reginachain.net,IT,Europe,Southern Europe,Italy,,,
 86.107.32.163,4,3,rema-eemn.net,IT,Europe,Southern Europe,Italy,,,
 89.46.224.196,4,5,remail.it,IT,Europe,Southern Europe,Italy,,,
-89.40.173.242,4,192,remothered.com,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
+89.40.173.242,4,0,remothered.com,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 80.88.84.233,4,-8,rentlux.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 213.158.84.43,4,11,repacar.org,IT,Europe,Southern Europe,Italy,,,
-77.81.230.185,4,30,repetidora.ar,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+77.81.230.185,4,1,repetidora.ar,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 46.252.157.33,4,24,reportdifesa.it,IT,Europe,Southern Europe,Italy,,,
 213.158.86.120,4,8,reporteasia.com,IT,Europe,Southern Europe,Italy,,,
 93.186.242.185,4,30,reportergourmet.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-149.3.148.145,4,4,reportpistoia.com,IT,Europe,Southern Europe,Italy,,,
+149.3.148.145,4,0,reportpistoia.com,IT,Europe,Southern Europe,Italy,,,
 46.252.155.39,4,5,resantieleoni.com,IT,Europe,Southern Europe,Italy,,,
-185.2.5.30,4,16,reseau-cotravaux.org,IT,Europe,Southern Europe,Italy,,,
-93.95.216.132,4,43,reseauvoltaire.net,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-91.193.5.232,4,692,reset-service.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-46.252.158.43,4,20,residencemareo.com,IT,Europe,Southern Europe,Italy,,,
+185.2.5.30,4,3,reseau-cotravaux.org,IT,Europe,Southern Europe,Italy,,,
+93.95.216.132,4,0,reseauvoltaire.net,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+91.193.5.232,4,1096,reset-service.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+46.252.158.43,4,0,residencemareo.com,IT,Europe,Southern Europe,Italy,,,
 89.46.225.93,4,18,restructura.com,IT,Europe,Southern Europe,Italy,,,
-86.107.99.182,4,19,retegas.org,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
+86.107.99.182,4,-1,retegas.org,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 213.158.86.26,4,15,revistaempresarial.com,IT,Europe,Southern Europe,Italy,,,
 213.158.84.68,4,7,revistaganamas.com.pe,IT,Europe,Southern Europe,Italy,,,
 213.158.86.86,4,7,revistasanitariadeinvestigacion.com,IT,Europe,Southern Europe,Italy,,,
-86.107.32.169,4,166,rexadesign.it,IT,Europe,Southern Europe,Italy,,,
+86.107.32.169,4,-16292,rexadesign.it,IT,Europe,Southern Europe,Italy,,,
 185.201.65.61,4,-31,ricambiperauto.biz,IT,Europe,Southern Europe,Italy,,,
 85.235.131.222,4,2711,ricasoli.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 89.40.173.156,4,13,riccardo-foti.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
@@ -1743,13 +1731,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 213.92.101.98,4,0,rikorda.it,IT,Europe,Southern Europe,Italy,Liguria,Province of Genoa,Genoa
 195.62.176.170,4,12,riminiturismo.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Reggio Emilia,Correggio
 185.81.2.75,4,4,risorse.net,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-46.252.148.20,4,15,ristorantealcovo.com,IT,Europe,Southern Europe,Italy,,,
-85.235.157.118,4,1728,ristoranteyuri2.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+46.252.148.20,4,-1,ristorantealcovo.com,IT,Europe,Southern Europe,Italy,,,
+85.235.157.118,4,3342,ristoranteyuri2.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.201.65.137,4,3,ristretti.org,IT,Europe,Southern Europe,Italy,,,
 185.81.0.146,4,5,riva1920.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 149.3.145.98,4,23,rivistanatura.com,IT,Europe,Southern Europe,Italy,,,
-217.61.55.228,4,1197,rivoire.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-195.88.4.88,4,6,rmc2.net,IT,Europe,Southern Europe,Italy,,,
+217.61.55.228,4,326,rivoire.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+195.88.4.88,4,0,rmc2.net,IT,Europe,Southern Europe,Italy,,,
 80.88.84.208,4,13,roars.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 213.158.84.75,4,7,robotplus.es,IT,Europe,Southern Europe,Italy,,,
 86.107.32.137,4,25584,rockon.it,IT,Europe,Southern Europe,Italy,,,
@@ -1757,7 +1745,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 172.232.204.186,4,11,rollersports.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 185.145.193.18,4,258,romacinemafest.it,IT,Europe,Southern Europe,Italy,,,
 149.62.189.112,4,-2,romaeuropa.net,IT,Europe,Southern Europe,Italy,,,
-149.62.191.247,4,19,romagiallorossa.it,IT,Europe,Southern Europe,Italy,,,
+149.62.191.247,4,0,romagiallorossa.it,IT,Europe,Southern Europe,Italy,,,
 66.22.43.75,4,61,romamobilita.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 185.30.108.63,4,4,romasegreta.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 93.95.216.222,4,7,romasette.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
@@ -1768,17 +1756,17 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 86.107.32.63,4,4521,rovigo.news,IT,Europe,Southern Europe,Italy,,,
 95.110.160.185,4,4,rovigooggi.it,IT,Europe,Southern Europe,Italy,,,
 213.158.86.72,4,17,rrhhpress.com,IT,Europe,Southern Europe,Italy,,,
-185.17.106.195,4,30,rsvp-parrucchieri.it,IT,Europe,Southern Europe,Italy,,,
-93.95.216.194,4,4,rubinosrl.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+185.17.106.195,4,1,rsvp-parrucchieri.it,IT,Europe,Southern Europe,Italy,,,
+93.95.216.194,4,0,rubinosrl.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 46.252.150.168,4,16,runjesolo.it,IT,Europe,Southern Europe,Italy,,,
 46.252.158.36,4,15,rutulicantores.it,IT,Europe,Southern Europe,Italy,,,
-185.2.4.23,4,1,rvnld.com.br,IT,Europe,Southern Europe,Italy,,,
-152.89.170.41,4,4,s0.world,IT,Europe,Southern Europe,Italy,Lazio,Rome,Pomezia
+185.2.4.23,4,3,rvnld.com.br,IT,Europe,Southern Europe,Italy,,,
+152.89.170.41,4,-3,s0.world,IT,Europe,Southern Europe,Italy,Lazio,Rome,Pomezia
 89.188.131.249,4,156060,saabwayclub.it,IT,Europe,Southern Europe,Italy,,,
 86.107.32.126,4,3939,sabadi.it,IT,Europe,Southern Europe,Italy,,,
 194.49.76.189,4,14235,sabotino.com,IT,Europe,Southern Europe,Italy,Piedmont,Province of Biella,Biella
 5.134.122.44,4,12,saccatennis.net,IT,Europe,Southern Europe,Italy,,,
-93.95.216.213,4,44,sacrobosco.eu,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+93.95.216.213,4,-1,sacrobosco.eu,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 185.2.4.88,4,1,safaripark.it,IT,Europe,Southern Europe,Italy,,,
 185.48.33.222,4,5,salamedivarzidop.it,IT,Europe,Southern Europe,Italy,,,
 86.107.36.146,4,15380,salernoeditrice.it,IT,Europe,Southern Europe,Italy,,,
@@ -1786,23 +1774,23 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 46.252.146.25,4,11,salonesapori.it,IT,Europe,Southern Europe,Italy,,,
 213.158.84.241,4,33,saltaconmigo.com,IT,Europe,Southern Europe,Italy,,,
 86.107.38.15,4,30049,samautomotive.it,IT,Europe,Southern Europe,Italy,,,
-194.76.118.58,4,2742,sannicolac5.it,IT,Europe,Southern Europe,Italy,,,
+194.76.118.58,4,644936,sannicolac5.it,IT,Europe,Southern Europe,Italy,,,
 81.88.53.87,4,8,sanpatrignano.org,IT,Europe,Southern Europe,Italy,,,
-89.40.175.232,4,159,sansirostadium.com,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
+89.40.175.232,4,-2,sansirostadium.com,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 46.252.149.179,4,27,santeodoro.it,IT,Europe,Southern Europe,Italy,,,
 46.254.34.166,4,7,santeustachioilcaffe.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 213.171.167.46,4,8,santodelgiorno.it,IT,Europe,Southern Europe,Italy,Lazio,Province of Frosinone,Frosinone
 185.114.109.135,4,-106,sanvitoweb.com,IT,Europe,Southern Europe,Italy,,,
-62.149.201.153,4,23,sardegnalive.net,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+62.149.201.153,4,-1,sardegnalive.net,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.116.60.71,4,6,sardiniapost.it,IT,Europe,Southern Europe,Italy,,,
 185.30.109.158,4,2150,savimballaggi.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 81.31.156.201,4,6,sayoga.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 158.180.168.31,4,40,sbn.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 85.94.220.66,4,32,scacco.it,IT,Europe,Southern Europe,Italy,Lazio,Province of Frosinone,Frosinone
-80.88.87.196,4,337,scaleinlegnosrl.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-193.42.14.130,4,23,scame.com,IT,Europe,Southern Europe,Italy,,,
+80.88.87.196,4,597,scaleinlegnosrl.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+193.42.14.130,4,0,scame.com,IT,Europe,Southern Europe,Italy,,,
 212.35.217.26,4,16,scattidigusto.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-185.81.4.99,4,4,scaturchio.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+185.81.4.99,4,-2,scaturchio.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 185.221.172.123,4,9,scenari-immobiliari.it,IT,Europe,Southern Europe,Italy,,,
 85.235.130.70,4,1456,scfelettrotecnica.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 149.3.148.179,4,7,schiratti.com,IT,Europe,Southern Europe,Italy,,,
@@ -1810,12 +1798,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 178.23.13.163,4,9,sciroccoh.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 79.98.40.52,4,25,scs-europe.net,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Parma,Parma
 89.46.229.181,4,8,scuolacomics.com,IT,Europe,Southern Europe,Italy,,,
-86.107.36.137,4,-30,scuolacomics.com,IT,Europe,Southern Europe,Italy,,,
 185.81.0.202,4,3,seceda.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 209.227.244.126,4,53,secoloditalia.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 185.2.6.10,4,14,securitysenses.com,IT,Europe,Southern Europe,Italy,,,
 37.9.239.140,4,16,seeweb.it,IT,Europe,Southern Europe,Italy,,,
-185.31.67.111,4,6,sentina.it,IT,Europe,Southern Europe,Italy,,,
+185.31.67.111,4,-1,sentina.it,IT,Europe,Southern Europe,Italy,,,
 95.110.129.222,4,-29,seozoom.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 213.158.86.12,4,7,serielizados.com,IT,Europe,Southern Europe,Italy,,,
 212.237.48.35,4,873,sermig.org,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
@@ -1826,11 +1813,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 46.28.0.61,4,35,sfscon.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 185.2.4.46,4,20,sfsp.fr,IT,Europe,Southern Europe,Italy,,,
 80.247.66.109,4,19,shantisrl.com,IT,Europe,Southern Europe,Italy,,,
-185.56.9.37,4,755,sharebot.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-185.206.86.71,4,5,shiny.net,IT,Europe,Southern Europe,Italy,,,
+185.56.9.37,4,0,sharebot.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+185.206.86.71,4,-2,shiny.net,IT,Europe,Southern Europe,Italy,,,
 185.206.85.84,4,-127,shinystat.com,IT,Europe,Southern Europe,Italy,,,
 185.206.85.88,4,-115,shinystat.it,IT,Europe,Southern Europe,Italy,,,
-46.252.146.100,4,44,shopbrandbelts.com,IT,Europe,Southern Europe,Italy,,,
+46.252.146.100,4,0,shopbrandbelts.com,IT,Europe,Southern Europe,Italy,,,
 217.73.228.2,4,1719,sibillini.net,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 46.252.152.251,4,5,sicilyboatdreams.it,IT,Europe,Southern Europe,Italy,,,
 212.35.196.168,4,7,sicis.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
@@ -1855,40 +1842,39 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 46.252.150.88,4,13,sisdisinfestazioni.it,IT,Europe,Southern Europe,Italy,,,
 81.88.52.248,4,12,sistemamuseo.it,IT,Europe,Southern Europe,Italy,,,
 194.76.116.15,4,7706,sistemapenale.it,IT,Europe,Southern Europe,Italy,,,
-185.221.175.32,4,387,sistemapenale.it,IT,Europe,Southern Europe,Italy,,,
+185.221.175.32,4,1,sistemapenale.it,IT,Europe,Southern Europe,Italy,,,
 89.40.175.99,4,9,sitbusshuttle.com,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
-95.110.225.29,4,59,sitbusshuttle.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+95.110.225.29,4,1,sitbusshuttle.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 46.37.14.27,4,12,siti.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-37.156.244.118,4,12,sitiscommesse.com,IT,Europe,Southern Europe,Italy,Sicily,Province of Palermo,Palermo
+37.156.244.118,4,0,sitiscommesse.com,IT,Europe,Southern Europe,Italy,Sicily,Province of Palermo,Palermo
 95.174.22.44,4,7,sive.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 195.231.27.52,4,6,skiforum.it,IT,Europe,Southern Europe,Italy,,,
 194.124.74.26,4,503,skilla.com,IT,Europe,Southern Europe,Italy,,,
-85.235.142.21,4,26,skills4u.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+85.235.142.21,4,-3,skills4u.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 46.252.148.189,4,6,slacky.eu,IT,Europe,Southern Europe,Italy,,,
 80.88.87.192,4,-85,slamservice.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 89.40.175.78,4,6,slope.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 81.88.53.157,4,6,slot.it,IT,Europe,Southern Europe,Italy,,,
 149.62.187.51,4,11,smartleaks.cloud,IT,Europe,Southern Europe,Italy,,,
 77.39.213.180,4,16,snewsonline.com,IT,Europe,Southern Europe,Italy,,,
-46.252.149.129,4,9,socialstreet.it,IT,Europe,Southern Europe,Italy,,,
+46.252.149.129,4,1,socialstreet.it,IT,Europe,Southern Europe,Italy,,,
 213.158.84.213,4,16,sociedadgeologica.es,IT,Europe,Southern Europe,Italy,,,
 89.36.209.120,4,1,softpointer.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 46.16.91.18,4,9,solaniasrl.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 195.231.65.68,4,12,soldioggi.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 31.3.182.17,4,7,soleluna.com,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Forlì-Cesena,Cesena
-46.16.95.7,4,3,soleviola.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+46.16.95.7,4,1,soleviola.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 185.201.65.177,4,32,solopine.com,IT,Europe,Southern Europe,Italy,,,
-80.88.87.205,4,338,soluzionidarredosrl.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-95.110.227.15,4,32,songstube.net,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+80.88.87.205,4,131,soluzionidarredosrl.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+95.110.227.15,4,0,songstube.net,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 213.158.86.70,4,15,sonoramaribera.com,IT,Europe,Southern Europe,Italy,,,
 185.201.65.235,4,18,soprintendenzaspecialeroma.it,IT,Europe,Southern Europe,Italy,,,
-185.2.4.79,4,12,sovet.com,IT,Europe,Southern Europe,Italy,,,
+185.2.4.79,4,4,sovet.com,IT,Europe,Southern Europe,Italy,,,
 57.131.32.195,4,13,soydezaragoza.es,IT,Europe,Southern Europe,Italy,,,
 86.107.32.150,4,12103,spaceupstudio.it,IT,Europe,Southern Europe,Italy,,,
 213.158.84.66,4,-1,spainsif.es,IT,Europe,Southern Europe,Italy,,,
-93.191.243.63,4,-1042,spanottica.it,IT,Europe,Southern Europe,Italy,,,
-31.3.182.1,4,26,spazio38.com,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Forlì-Cesena,Cesena
-185.81.1.60,4,58,spazioreale.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+31.3.182.1,4,1,spazio38.com,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Forlì-Cesena,Cesena
+185.81.1.60,4,6348,spazioreale.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 62.48.49.169,4,601,speziacalcio.com,IT,Europe,Southern Europe,Italy,,,
 80.88.84.205,4,10,spindial.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.81.0.180,4,7,spoletonline.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
@@ -1896,12 +1882,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 5.144.162.82,4,12,sportando.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 89.40.175.151,4,26,sportflash24.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 89.40.175.203,4,18,sportsnutrition.org,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
-185.2.4.10,4,35,sprezzatura.it,IT,Europe,Southern Europe,Italy,,,
+185.2.4.10,4,4,sprezzatura.it,IT,Europe,Southern Europe,Italy,,,
 89.40.227.242,4,9,sr-m.it,IT,Europe,Southern Europe,Italy,,,
 193.205.80.99,4,20,sssup.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Pisa,Pisa
 185.205.41.14,4,-4,stampalternativa.it,IT,Europe,Southern Europe,Italy,,,
 185.31.65.104,4,153,stampaprint.net,IT,Europe,Southern Europe,Italy,,,
-80.211.239.100,4,50,stanzeinaffitto.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+80.211.239.100,4,-1,stanzeinaffitto.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 77.39.212.131,4,57,startromagna.it,IT,Europe,Southern Europe,Italy,,,
 89.40.174.206,4,3,startupeuropepartnership.eu,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 185.81.2.128,4,8,statoquotidiano.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
@@ -1915,13 +1901,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 5.253.198.35,4,16,stresafestival.eu,IT,Europe,Southern Europe,Italy,,,
 213.158.84.17,4,18,stucaweb.com,IT,Europe,Southern Europe,Italy,,,
 46.252.151.11,4,7,studiobonfrate.it,IT,Europe,Southern Europe,Italy,,,
-185.2.4.27,4,38,studioitaliadesign.com,IT,Europe,Southern Europe,Italy,,,
+185.2.4.27,4,4,studioitaliadesign.com,IT,Europe,Southern Europe,Italy,,,
 86.107.33.45,4,-4277,studiolegalemanzo.com,IT,Europe,Southern Europe,Italy,,,
-80.88.87.203,4,732,studiolegaleterrazzano.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+80.88.87.203,4,163,studiolegaleterrazzano.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 46.252.151.223,4,10,studiomassaro.net,IT,Europe,Southern Europe,Italy,,,
 85.235.150.18,4,0,studiopragelato.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 89.40.173.113,4,25,studistorici.com,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
-93.95.216.37,4,96,stupormundi.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+93.95.216.37,4,0,stupormundi.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 94.23.73.16,4,4,sumac.space,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 195.36.1.104,4,15,summagallicana.it,IT,Europe,Southern Europe,Italy,,,
 93.186.242.249,4,18,summer-festival.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
@@ -1933,14 +1919,14 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 213.158.84.109,4,11,suzuserver.dk,IT,Europe,Southern Europe,Italy,,,
 46.252.150.123,4,26,synesthesia.it,IT,Europe,Southern Europe,Italy,,,
 80.211.123.197,4,8,tabbles.net,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-46.252.150.61,4,1,taormina.it,IT,Europe,Southern Europe,Italy,,,
+46.252.150.61,4,0,taormina.it,IT,Europe,Southern Europe,Italy,,,
 172.232.197.9,4,11,taregalelaj.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 89.31.200.24,4,13,targatocn.it,IT,Europe,Southern Europe,Italy,,,
 5.144.175.34,4,26,tartaclubitalia.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-195.231.38.174,4,45,tartarugando.it,IT,Europe,Southern Europe,Italy,,,
+195.231.38.174,4,1,tartarugando.it,IT,Europe,Southern Europe,Italy,,,
 89.46.229.93,4,10,taxidrivers.it,IT,Europe,Southern Europe,Italy,,,
-86.107.36.41,4,1012,taxidrivers.it,IT,Europe,Southern Europe,Italy,,,
-185.221.172.121,4,477,tazionuvolari.it,IT,Europe,Southern Europe,Italy,,,
+86.107.36.41,4,15338,taxidrivers.it,IT,Europe,Southern Europe,Italy,,,
+185.221.172.121,4,117,tazionuvolari.it,IT,Europe,Southern Europe,Italy,,,
 86.107.36.141,4,-5330,tbabystore.it,IT,Europe,Southern Europe,Italy,,,
 77.39.209.172,4,19,tcbo.it,IT,Europe,Southern Europe,Italy,,,
 217.27.76.154,4,2,tcvi.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Vicenza,Bassano del Grappa
@@ -1948,32 +1934,32 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 213.158.84.54,4,30,teambuildings.es,IT,Europe,Southern Europe,Italy,,,
 66.22.43.140,4,16,teamsystem.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 86.107.36.131,4,-269,teatroabrescia.it,IT,Europe,Southern Europe,Italy,,,
-46.252.149.127,4,44,teatrobellini.it,IT,Europe,Southern Europe,Italy,,,
+46.252.149.127,4,-3,teatrobellini.it,IT,Europe,Southern Europe,Italy,,,
 85.235.159.226,4,-66486,teatrodellatoscana.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-213.204.11.14,4,4,teatrodellatosse.it,IT,Europe,Southern Europe,Italy,,,
+213.204.11.14,4,-1,teatrodellatosse.it,IT,Europe,Southern Europe,Italy,,,
 209.227.245.67,4,11,teatrodonizetti.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 62.149.194.73,4,19,teatroliricodicagliari.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.201.65.117,4,10,teatropubblicopugliese.it,IT,Europe,Southern Europe,Italy,,,
 86.107.36.140,4,176,teatrosocialecomo.it,IT,Europe,Southern Europe,Italy,,,
 193.150.60.193,4,21,teatrostabiletorino.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,La Loggia
-46.30.244.53,4,70,teatrovascello.it,IT,Europe,Southern Europe,Italy,,,
+46.30.244.53,4,-1,teatrovascello.it,IT,Europe,Southern Europe,Italy,,,
 185.2.5.19,4,6,techearthblog.it,IT,Europe,Southern Europe,Italy,,,
 94.177.207.141,4,65,techfromthenet.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 46.252.155.100,4,29,technologyreview.it,IT,Europe,Southern Europe,Italy,,,
 86.107.36.172,4,14385,tecnomedicina.it,IT,Europe,Southern Europe,Italy,,,
-46.252.153.241,4,50,teleambiente.it,IT,Europe,Southern Europe,Italy,,,
+46.252.153.241,4,0,teleambiente.it,IT,Europe,Southern Europe,Italy,,,
 95.110.149.199,4,5701,telefonino.net,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.81.6.73,4,-20,telepace.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 95.110.132.79,4,45,teleradiopadrepio.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 86.107.32.98,4,-24821,ten-engineering.eu,IT,Europe,Southern Europe,Italy,,,
-185.25.206.13,4,61,tennisitaliano.it,IT,Europe,Southern Europe,Italy,,,
+185.25.206.13,4,-1,tennisitaliano.it,IT,Europe,Southern Europe,Italy,,,
 62.173.164.31,4,16,terabee.com,IT,Europe,Southern Europe,Italy,Veneto,Province of Vicenza,Vicenza
-85.159.150.190,4,51,termedeipapi.it,IT,Europe,Southern Europe,Italy,,,
+85.159.150.190,4,1,termedeipapi.it,IT,Europe,Southern Europe,Italy,,,
 37.156.244.70,4,8,termedisirmione.com,IT,Europe,Southern Europe,Italy,Sicily,Province of Palermo,Palermo
 185.81.1.27,4,8,termemontecatini.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 212.112.91.162,4,18,terranuova.it,IT,Europe,Southern Europe,Italy,,,
 212.35.197.255,4,18,terratintagroup.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-195.62.190.245,4,70,terredargine.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Reggio Emilia,Correggio
+195.62.190.245,4,-2,terredargine.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Reggio Emilia,Correggio
 194.76.118.57,4,5241,terredipisa.it,IT,Europe,Southern Europe,Italy,,,
 213.158.84.96,4,11,teruel.es,IT,Europe,Southern Europe,Italy,,,
 89.46.227.159,4,8,terzobinario.it,IT,Europe,Southern Europe,Italy,,,
@@ -1992,13 +1978,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 172.232.206.217,4,9,tibetstrumentiarmonici.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 213.158.86.59,4,24,ticketrona.com,IT,Europe,Southern Europe,Italy,,,
 81.88.52.239,4,17,tiemmespa.it,IT,Europe,Southern Europe,Italy,,,
-34.154.174.227,4,3,tigota.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-89.40.172.136,4,15,tipoteca.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
+34.154.174.227,4,-1,tigota.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+89.40.172.136,4,-2,tipoteca.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 86.107.36.139,4,3105,tiramisuworldcup.com,IT,Europe,Southern Europe,Italy,,,
 81.208.42.151,4,14,tizianoferro.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 95.110.186.60,4,17,tmcit.net,IT,Europe,Southern Europe,Italy,,,
-77.39.208.11,4,2,todis.it,IT,Europe,Southern Europe,Italy,,,
-89.46.224.69,4,-4722,tomstardust.com,IT,Europe,Southern Europe,Italy,,,
+77.39.208.11,4,-1,todis.it,IT,Europe,Southern Europe,Italy,,,
 86.107.32.181,4,32,tonite.eu,IT,Europe,Southern Europe,Italy,,,
 194.116.72.20,4,9,top-ix.org,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 185.116.60.70,4,16,topcampings.com,IT,Europe,Southern Europe,Italy,,,
@@ -2009,33 +1994,33 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 46.254.39.217,4,31,torredeilamberti.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 94.87.20.162,4,23,torrossa.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Florence,Florence
 57.131.38.97,4,3,tosca.gr,IT,Europe,Southern Europe,Italy,,,
-185.56.171.36,4,41,totallympics.com,IT,Europe,Southern Europe,Italy,,,
-185.2.4.117,4,7,totumbuild.com,IT,Europe,Southern Europe,Italy,,,
+185.56.171.36,4,1,totallympics.com,IT,Europe,Southern Europe,Italy,,,
+185.2.4.117,4,4,totumbuild.com,IT,Europe,Southern Europe,Italy,,,
 37.156.244.182,4,17,tourvespucci.it,IT,Europe,Southern Europe,Italy,Sicily,Province of Palermo,Palermo
-81.31.151.44,4,6,traghettionline.net,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
+81.31.151.44,4,-2,traghettionline.net,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 81.31.157.10,4,8,traghettiper-sardegna.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 86.107.37.11,4,52370,tramin.com,IT,Europe,Southern Europe,Italy,,,
 46.252.152.44,4,10,transdairy.net,IT,Europe,Southern Europe,Italy,,,
-46.252.152.22,4,281,trapanishuttle.com,IT,Europe,Southern Europe,Italy,,,
+46.252.152.22,4,-1,trapanishuttle.com,IT,Europe,Southern Europe,Italy,,,
 80.88.84.211,4,12,trapaniwelcome.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 86.107.37.17,4,-19368,trapizzino.it,IT,Europe,Southern Europe,Italy,,,
-46.16.90.124,4,8,trapizzino.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+46.16.90.124,4,-8,trapizzino.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 5.249.153.198,4,12,trasparenzarifiuti.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 85.94.207.169,4,1,trasportoeuropa.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 81.88.52.41,4,20,trastersg24.com,IT,Europe,Southern Europe,Italy,,,
 185.81.1.75,4,16,travelquotidiano.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 80.88.87.157,4,973,treedesign.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 86.107.36.102,4,-18871,trendyuniform.shop,IT,Europe,Southern Europe,Italy,,,
-109.205.108.254,4,31,trentinosviluppo.it,IT,Europe,Southern Europe,Italy,Trentino-Alto Adige,Province of Trente,Trento
+109.205.108.254,4,1,trentinosviluppo.it,IT,Europe,Southern Europe,Italy,Trentino-Alto Adige,Province of Trente,Trento
 46.252.152.21,4,9,trepisrl.com,IT,Europe,Southern Europe,Italy,,,
 213.158.86.122,4,23,triatlon.org,IT,Europe,Southern Europe,Italy,,,
-185.2.4.91,4,2,triave.pt,IT,Europe,Southern Europe,Italy,,,
+185.2.4.91,4,3,triave.pt,IT,Europe,Southern Europe,Italy,,,
 213.158.86.36,4,0,tribunafeminista.org,IT,Europe,Southern Europe,Italy,,,
 194.76.118.24,4,4848,tristandark.com,IT,Europe,Southern Europe,Italy,,,
-80.211.13.81,4,768,trivenetogoal.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+80.211.13.81,4,-13033,trivenetogoal.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 89.40.173.117,4,19,trovaweb.net,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 81.31.156.200,4,8,truenumbers.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
-37.156.244.102,4,5,truffa.net,IT,Europe,Southern Europe,Italy,Sicily,Province of Palermo,Palermo
+37.156.244.102,4,-2,truffa.net,IT,Europe,Southern Europe,Italy,Sicily,Province of Palermo,Palermo
 95.141.32.225,4,11,turbolab.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 86.107.36.64,4,15156,turismoforlivese.it,IT,Europe,Southern Europe,Italy,,,
 89.40.172.168,4,11,turismoitalianews.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
@@ -2049,43 +2034,41 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 83.217.190.87,4,301621,tuttobiciweb.it,IT,Europe,Southern Europe,Italy,Lombardy,,
 46.16.91.125,4,23,tuttocalciatori.net,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 213.215.222.58,4,15,tuttogare.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
-89.40.173.61,4,-28,tuttoperglianimali.com,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
 185.81.1.161,4,14,tuttoreti.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 81.31.156.71,4,26,tvqui.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
-185.2.5.96,4,2,twinfactory.co.uk,IT,Europe,Southern Europe,Italy,,,
+185.2.5.96,4,4,twinfactory.co.uk,IT,Europe,Southern Europe,Italy,,,
 57.131.27.150,4,26,uagna.it,IT,Europe,Southern Europe,Italy,,,
 213.158.87.103,4,13,uam.edu.ni,IT,Europe,Southern Europe,Italy,,,
 193.27.202.146,4,24,ubiklibri.it,IT,Europe,Southern Europe,Italy,,,
 89.46.227.70,4,13,ubitennis.com,IT,Europe,Southern Europe,Italy,,,
 46.28.4.43,4,9,uccronline.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 109.168.97.32,4,104,uec.ch,IT,Europe,Southern Europe,Italy,,,
-185.205.40.30,4,11,ufficiovisti.com,IT,Europe,Southern Europe,Italy,,,
+185.205.40.30,4,1,ufficiovisti.com,IT,Europe,Southern Europe,Italy,,,
 85.94.218.130,4,8,ufficioweb.com,IT,Europe,Southern Europe,Italy,Lazio,Province of Frosinone,Frosinone
 81.31.145.134,4,7,ugg--australia.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 86.107.36.183,4,-33060,ultimavoce.it,IT,Europe,Southern Europe,Italy,,,
-172.232.206.252,4,47,ultimouomo.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+172.232.206.252,4,1,ultimouomo.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 77.89.51.37,4,16,umbertocesariartcontest.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Forlì-Cesena,Forlì
 185.201.65.29,4,22,umbriajournal.com,IT,Europe,Southern Europe,Italy,,,
 185.201.65.187,4,11,unacom.it,IT,Europe,Southern Europe,Italy,,,
-93.95.216.137,4,4,unadonna.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
+93.95.216.137,4,0,unadonna.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 46.252.150.187,4,17,unasocietaperamore.org,IT,Europe,Southern Europe,Italy,,,
 57.131.25.6,4,16,underbrain.com,IT,Europe,Southern Europe,Italy,,,
-185.2.4.21,4,8,undesa.it,IT,Europe,Southern Europe,Italy,,,
+185.2.4.21,4,5,undesa.it,IT,Europe,Southern Europe,Italy,,,
 81.88.53.20,4,17,undo.net,IT,Europe,Southern Europe,Italy,,,
-81.88.62.2,4,16,undo.net,IT,Europe,Southern Europe,Italy,,,
+81.88.62.2,4,4,undo.net,IT,Europe,Southern Europe,Italy,,,
 93.95.216.161,4,21,uniamo.org,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 94.188.237.75,4,14,uniba.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 185.81.6.171,4,19,unicalag.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-185.11.152.8,4,-21923,unicattolica.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 213.158.86.66,4,10,unideusto.org,IT,Europe,Southern Europe,Italy,,,
-89.96.212.248,4,22,uniecampus.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-192.167.219.48,4,22,unife.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Ferrara,Ferrara
+89.96.212.248,4,-149,uniecampus.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+192.167.219.48,4,-91723,unife.it,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Ferrara,Ferrara
 150.217.3.39,4,9,unifi.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Florence,Florence
 176.107.151.132,4,571,unifortunato.eu,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
-140.105.46.210,4,16,unijos.edu.ng,IT,Europe,Southern Europe,Italy,Friuli Venezia Giulia,Trieste,Trieste
+140.105.46.210,4,-2,unijos.edu.ng,IT,Europe,Southern Europe,Italy,Friuli Venezia Giulia,Trieste,Trieste
 85.18.101.33,4,9,unilink.it,IT,Europe,Southern Europe,Italy,Veneto,Province of Verona,Verona
 213.158.84.36,4,11,unincca.edu.co,IT,Europe,Southern Europe,Italy,,,
-5.8.111.82,4,32,unioncamerelombardia.it,IT,Europe,Southern Europe,Italy,Lombardy,,
+5.8.111.82,4,0,unioncamerelombardia.it,IT,Europe,Southern Europe,Italy,Lombardy,,
 149.3.148.151,4,21,unioneprofessionisti.com,IT,Europe,Southern Europe,Italy,,,
 131.114.73.85,4,10,unipi.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Pisa,Pisa
 93.191.243.146,4,21,unisal.it,IT,Europe,Southern Europe,Italy,,,
@@ -2101,23 +2084,23 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.81.4.85,4,16,urbanfile.org,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 77.39.212.48,4,9,urbanphotoawards.com,IT,Europe,Southern Europe,Italy,,,
 86.107.32.160,4,4605,urdesignmag.com,IT,Europe,Southern Europe,Italy,,,
-163.171.138.116,4,17,usafis.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-151.1.210.142,4,33,usag.it,IT,Europe,Southern Europe,Italy,,,
+163.171.138.116,4,-1,usafis.org,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+151.1.210.142,4,2,usag.it,IT,Europe,Southern Europe,Italy,,,
 93.45.105.73,4,-38407,usb.it,IT,Europe,Southern Europe,Italy,,,
 77.39.210.168,4,18,uslecce.it,IT,Europe,Southern Europe,Italy,,,
 178.250.66.212,4,12,usound.com,IT,Europe,Southern Europe,Italy,,,
 89.40.173.144,4,-15,ussalernitana1919.it,IT,Europe,Southern Europe,Italy,Abruzzo,Province of Pescara,Pescara
-46.252.158.165,4,2,ussalernitana1919.it,IT,Europe,Southern Europe,Italy,,,
+46.252.158.165,4,-2,ussalernitana1919.it,IT,Europe,Southern Europe,Italy,,,
 95.110.165.204,4,38460,utorpheus.com,IT,Europe,Southern Europe,Italy,,,
-194.185.40.14,4,953,v-valley.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+194.185.40.14,4,87,v-valley.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 46.16.90.87,4,8,vaielettrico.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 213.158.84.13,4,34,valenciabonita.es,IT,Europe,Southern Europe,Italy,,,
 185.81.4.16,4,11,valentinalabstore.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
-95.110.154.27,4,5,valigiablu.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+95.110.154.27,4,0,valigiablu.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 185.2.4.105,4,15,vallebrembana.org,IT,Europe,Southern Europe,Italy,,,
 77.220.80.15,4,32,vallelunga.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Varese,Varese
 212.31.253.25,4,9,valored.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-195.231.75.213,4,21,valseriananews.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
+195.231.75.213,4,3,valseriananews.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Bergamo,Ponte San Pietro
 93.186.244.190,4,37,valtline.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 81.21.26.116,4,14,varesenews.it,IT,Europe,Southern Europe,Italy,,,
 81.21.26.117,4,9,varesenews.it,IT,Europe,Southern Europe,Italy,,,
@@ -2133,29 +2116,28 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 46.252.157.162,4,-13,venturaspharma.it,IT,Europe,Southern Europe,Italy,,,
 37.247.48.95,4,13,verexif.com,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 185.2.4.138,4,12,verrazzano.com,IT,Europe,Southern Europe,Italy,,,
-185.2.4.129,4,26,verrazzano.com,IT,Europe,Southern Europe,Italy,,,
+185.2.4.129,4,-1,verrazzano.com,IT,Europe,Southern Europe,Italy,,,
 185.2.4.200,4,18,verrazzano.org,IT,Europe,Southern Europe,Italy,,,
 213.158.84.103,4,13,veterinariadigital.com,IT,Europe,Southern Europe,Italy,,,
 172.232.206.88,4,36,vetriolovenerdisanto.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-77.39.213.104,4,11,vhernier.com,IT,Europe,Southern Europe,Italy,,,
+77.39.213.104,4,-11,vhernier.com,IT,Europe,Southern Europe,Italy,,,
 185.2.5.15,4,17,viaferrata-fr.net,IT,Europe,Southern Europe,Italy,,,
 138.66.64.221,4,1465,viaggiareinpuglia.it,IT,Europe,Southern Europe,Italy,,,
 213.158.84.11,4,9,viajeroscallejeros.com,IT,Europe,Southern Europe,Italy,,,
 86.107.33.20,4,11120,vialattea.net,IT,Europe,Southern Europe,Italy,,,
-185.221.175.249,4,1,viasatonline.it,IT,Europe,Southern Europe,Italy,,,
+185.221.175.249,4,-1,viasatonline.it,IT,Europe,Southern Europe,Italy,,,
 213.158.86.24,4,0,vidaeconomica.com,IT,Europe,Southern Europe,Italy,,,
-81.29.150.14,4,1,video2mp3.net,IT,Europe,Southern Europe,Italy,,,
-95.110.149.200,4,113,videogame.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+81.29.150.14,4,0,video2mp3.net,IT,Europe,Southern Europe,Italy,,,
+95.110.149.200,4,6252,videogame.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 46.37.14.14,4,11,videoitaliaproduction.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 80.88.84.231,4,12,vigezzinacentovalli.com,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 89.46.197.35,4,20,vigilfuoco.tv,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 86.107.36.81,4,-7067,vignaclarablog.it,IT,Europe,Southern Europe,Italy,,,
 86.107.32.138,4,3557,villabardini.it,IT,Europe,Southern Europe,Italy,,,
-93.186.242.141,4,-12467,villacarlotta.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
 37.156.244.112,4,14,villacrespi.it,IT,Europe,Southern Europe,Italy,Sicily,Province of Palermo,Palermo
 95.110.132.15,4,17,villadeicedri.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-46.37.26.82,4,35,villadeicedri.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-193.206.236.9,4,355,villafarnesina.it,IT,Europe,Southern Europe,Italy,Sicily,Catania,Mascali
+46.37.26.82,4,3,villadeicedri.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
+193.206.236.9,4,1,villafarnesina.it,IT,Europe,Southern Europe,Italy,Sicily,Catania,Mascali
 89.46.229.82,4,10,villalamassa.com,IT,Europe,Southern Europe,Italy,,,
 46.252.148.35,4,12,villaottoboni.com,IT,Europe,Southern Europe,Italy,,,
 5.253.198.41,4,33,villataranto.it,IT,Europe,Southern Europe,Italy,,,
@@ -2163,13 +2145,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 81.88.53.150,4,12,vimondmateriaux.com,IT,Europe,Southern Europe,Italy,,,
 81.88.53.79,4,15,viquilletra.com,IT,Europe,Southern Europe,Italy,,,
 80.211.147.57,4,16,virtus.it,IT,Europe,Southern Europe,Italy,Tuscany,Province of Arezzo,Arezzo
-81.31.156.192,4,15,visionbiz.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
+81.31.156.192,4,1,visionbiz.it,IT,Europe,Southern Europe,Italy,Piedmont,Turin,Turin
 86.107.36.121,4,19,visitdolomites.com,IT,Europe,Southern Europe,Italy,,,
-95.174.12.69,4,2,visitferrara.eu,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+95.174.12.69,4,-1,visitferrara.eu,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 86.107.36.97,4,-18399,visitrovereto.it,IT,Europe,Southern Europe,Italy,,,
 46.254.34.212,4,11,visitsirmione.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 95.174.20.82,4,8050737,visitverona.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
-185.2.4.93,4,21,vislab.it,IT,Europe,Southern Europe,Italy,,,
+185.2.4.93,4,-1,vislab.it,IT,Europe,Southern Europe,Italy,,,
 149.3.145.169,4,16,viterbonews24.it,IT,Europe,Southern Europe,Italy,,,
 185.2.5.79,4,15,vitoriasbeauty.pt,IT,Europe,Southern Europe,Italy,,,
 46.252.151.14,4,6,vivaldiroberto.com,IT,Europe,Southern Europe,Italy,,,
@@ -2180,9 +2162,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.81.4.152,4,8,w-plat.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 185.81.2.100,4,-3,wabbit-translations.com,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome
 81.88.52.179,4,28,wearecascais.com,IT,Europe,Southern Europe,Italy,,,
-86.107.36.16,4,8,webaccessibile.org,IT,Europe,Southern Europe,Italy,,,
-185.221.175.62,4,499,webbyslot.com,IT,Europe,Southern Europe,Italy,,,
-86.107.32.164,4,22,webdomus.net,IT,Europe,Southern Europe,Italy,,,
+86.107.36.16,4,240,webaccessibile.org,IT,Europe,Southern Europe,Italy,,,
+185.221.175.62,4,892,webbyslot.com,IT,Europe,Southern Europe,Italy,,,
+86.107.32.164,4,-2,webdomus.net,IT,Europe,Southern Europe,Italy,,,
 213.158.84.206,4,8,webempresa.eu,IT,Europe,Southern Europe,Italy,,,
 217.171.39.158,4,8,webtic.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 77.39.211.115,4,27,welovefur.com,IT,Europe,Southern Europe,Italy,,,
@@ -2193,7 +2175,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.19.186.5,4,5,witoor.com,IT,Europe,Southern Europe,Italy,,,
 86.107.32.183,4,1578,women.it,IT,Europe,Southern Europe,Italy,,,
 86.107.36.48,4,-10130,womenews.net,IT,Europe,Southern Europe,Italy,,,
-185.31.67.113,4,6,womenews.net,IT,Europe,Southern Europe,Italy,,,
+185.31.67.113,4,0,womenews.net,IT,Europe,Southern Europe,Italy,,,
 185.2.5.16,4,12,woolrich.eu,IT,Europe,Southern Europe,Italy,,,
 45.14.185.174,4,18,wordpress-it.it,IT,Europe,Southern Europe,Italy,,,
 185.2.5.88,4,8,worldeconomicsassociation.org,IT,Europe,Southern Europe,Italy,,,
@@ -2204,17 +2186,16 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 86.107.36.149,4,14387,y-40.com,IT,Europe,Southern Europe,Italy,,,
 81.88.53.146,4,6,yacreader.com,IT,Europe,Southern Europe,Italy,,,
 79.98.45.12,4,0,yamamay.com,IT,Europe,Southern Europe,Italy,Emilia-Romagna,Province of Parma,Parma
-172.232.208.181,4,6,yeppon.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
+172.232.208.181,4,1,yeppon.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 213.158.84.46,4,2,yllana.com,IT,Europe,Southern Europe,Italy,,,
 213.158.84.59,4,12,yoriento.com,IT,Europe,Southern Europe,Italy,,,
 213.158.84.63,4,16,yoseomarketing.com,IT,Europe,Southern Europe,Italy,,,
-194.76.118.11,4,3933,youfriend.it,IT,Europe,Southern Europe,Italy,,,
+194.76.118.11,4,5395,youfriend.it,IT,Europe,Southern Europe,Italy,,,
 89.46.224.9,4,9,youtvrs.it,IT,Europe,Southern Europe,Italy,,,
 213.158.86.100,4,-37,zacatecasonline.com.mx,IT,Europe,Southern Europe,Italy,,,
 151.101.242.132,4,9,zg.ch,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 5.134.124.102,4,849,zibaldoni.it,IT,Europe,Southern Europe,Italy,,,
 46.252.148.188,4,4,zipgenius.it,IT,Europe,Southern Europe,Italy,,,
-185.114.108.117,4,-24,zivillica.it,IT,Europe,Southern Europe,Italy,,,
 46.252.158.168,4,10,zogeloveniceboat.com,IT,Europe,Southern Europe,Italy,,,
 149.62.185.242,4,5,zoosafari.it,IT,Europe,Southern Europe,Italy,,,
 185.81.0.56,4,-8,zpc.it,IT,Europe,Southern Europe,Italy,Lazio,Rome,Rome

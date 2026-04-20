@@ -1,8 +1,7 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-201.148.107.155,4,-2,247noticias.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
-186.64.118.180,4,25,aarqhos.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
-201.238.235.2,4,14,acauch.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
-200.54.18.149,4,7,acauch.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
+186.64.118.180,4,-3,aarqhos.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
+201.238.235.2,4,1,acauch.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
+200.54.18.149,4,0,acauch.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 200.63.97.146,4,637,acn-chile.org,CL,Americas,Latin America and the Caribbean,Chile,,,
 34.176.70.135,4,-5,actualidadambiental.pe,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 201.148.107.86,4,5,agenciase.org,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
@@ -16,12 +15,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 201.148.105.191,4,-27,ansertechperu.com,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 201.148.105.37,4,6,apioarquitectos.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 179.61.12.109,4,-21,aquijaime.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
-45.236.165.191,4,1077,artedelvalle.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
+45.236.165.191,4,89,artedelvalle.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 45.239.111.49,4,0,artequin.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Providencia
 201.159.173.189,4,4,audaxitaliano.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 200.27.54.210,4,-2,avianca.com.br,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Ñuñoa
 201.148.104.226,4,156,balance.pe,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
-167.86.51.16,4,2,bancociudad.com.ar,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Colina
+167.86.51.16,4,-37,bancociudad.com.ar,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Colina
 200.35.157.65,4,-40,bauen.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 201.217.242.159,4,-5,belpro.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 138.117.148.92,4,0,blackboxenergy.net,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
@@ -29,18 +28,15 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 201.148.104.8,4,-9,bonustrack.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 131.72.237.10,4,7,borago.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 179.61.12.110,4,384,caminos.pe,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
-200.27.62.70,4,2,ccs.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Ñuñoa
+200.27.62.70,4,9,ccs.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Ñuñoa
 200.29.152.151,4,2,cdcobresal.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 190.110.123.245,4,-638,cdms.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 151.101.222.133,4,-5,cepal.org,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 200.63.98.28,4,-2,cesfamsantamaria.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 200.24.13.60,4,-221,cftdelosrios.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
-131.72.236.103,4,-326682,cgsbim.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 34.176.95.94,4,11,chile.travel,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 201.148.107.251,4,-2,chilebio.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 192.141.168.45,4,21,chilebosque.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
-200.68.34.99,4,-6,chileestuyo.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
-190.196.214.221,4,-8,chilehacedeporte.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 129.151.110.186,4,-5,chilevalora.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 190.110.123.237,4,-418,cinechile.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 163.247.128.10,4,-19,ciren.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
@@ -48,9 +44,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 66.22.101.245,4,-3,clinicabupasantiago.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Colina
 170.246.172.226,4,1,cmiescolar.com,CL,Americas,Latin America and the Caribbean,Chile,,,
 168.195.130.42,4,-2,codimed.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
-138.117.148.157,4,51,comunidadmujer.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
+138.117.148.157,4,495849,comunidadmujer.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 170.246.172.89,4,2072,concepcion.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
-190.110.124.28,4,292,concepcion.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
+190.110.124.28,4,-43,concepcion.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 207.210.102.120,4,-15,condor.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 201.148.104.124,4,-7,cootemp.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 201.238.194.109,4,-19,costaneracenter.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
@@ -58,13 +54,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 200.9.100.95,4,8,cr2.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 186.64.116.235,4,-7,csafamilia.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
 186.64.114.80,4,-7,cyltalentohumano.com,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
-66.22.101.13,4,14,davila.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Colina
+66.22.101.13,4,27,davila.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Colina
 201.159.173.154,4,-26,deporteazul.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
-192.140.57.50,4,452,desmar.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
+192.140.57.50,4,-60,desmar.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 64.176.11.245,4,-5,diarioelargentino.com,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 138.0.120.84,4,-8,diarioelheraldo.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 190.107.176.89,4,31,diariolaprensa.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
-186.64.118.105,4,-2691,dimap.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
 181.212.39.92,4,6989,DNS Server: 181-212-39-92.baf.movistar.cl,CL,Americas,Latin America and the Caribbean,Chile,Ñuble,,Chillán
 186.103.167.190,4,20195111,DNS Server: 186-103-167-190.static.tie.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,San Bernardo
 186.103.175.74,4,-11,DNS Server: 186-103-175-74.static.tie.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,San Bernardo
@@ -77,7 +72,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 186.64.123.31,4,-11,DNS Server: cl.zzls.xyz,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
 201.148.106.124,4,-16,DNS Server: dns2-out.nethelp.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 138.255.103.162,4,8719,DNS Server: host-162-103-255-138.static.zglobalhost.com,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,La Florida
-190.110.164.194,4,-49,DNS Server: host190.110.164.194.dynamic.pacificonet.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 216.241.25.83,4,-9751,DNS Server: host83.216.241.25.ifxnw.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 190.114.255.115,4,-17,DNS Server: karman.ie,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
 152.230.112.34,4,12878,DNS Server: static.152.230.112.34.gtdinternet.com,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,San Bernardo
@@ -95,14 +89,14 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 201.217.243.137,4,2727,efe.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 138.117.149.180,4,-17,elconquistadorconcepcion.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 45.7.230.100,4,-5,eldivisadero.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
-138.186.10.133,4,57,elperiodista.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
+138.186.10.133,4,1,elperiodista.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 138.117.148.171,4,-12,elsiglo.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
-190.107.177.83,4,57,elsiglo.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
+190.107.177.83,4,-37,elsiglo.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 138.117.148.129,4,-17,eltrabajo.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 190.107.178.30,4,52,emagenic.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 182.160.25.59,4,15,esan.edu.pe,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 190.113.0.206,4,-16,eure.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
-200.35.157.161,4,6,expomin.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
+200.35.157.161,4,-8,expomin.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 190.107.177.87,4,-15,factoriapatagonia.com,CL,Americas,Latin America and the Caribbean,Chile,,,
 181.190.11.200,4,-14,feriachilenadellibro.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 200.27.60.90,4,-5,feriachilenadellibro.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Ñuñoa
@@ -123,15 +117,14 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 146.155.154.27,4,9,iglesia.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 186.64.118.45,4,-1,iglesiacristianalaserena.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
 45.228.210.12,4,0,imcabodehornos.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
-186.64.116.145,4,-403136,impactis.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
-45.239.218.16,4,5383,impulsadorescapacitacion.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
+45.239.218.16,4,-3,impulsadorescapacitacion.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 119.8.151.60,4,-3,inatel.br,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 201.148.107.201,4,1134,indicelatam.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 200.24.13.98,4,332,intermodales.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 200.73.17.150,4,-5,iplacex.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 179.61.12.116,4,-7,isl.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 201.148.105.157,4,1488,itg.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
-190.110.123.211,4,522,iweise.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
+190.110.123.211,4,-581,iweise.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 200.14.81.200,4,-4,josegatica.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 138.255.103.130,4,2391,kompu.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,La Florida
 167.86.51.95,4,-19,laaraucana.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Colina
@@ -139,32 +132,31 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 200.73.113.141,4,3,lapanera.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 138.255.101.194,4,-3,laretro.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,La Florida
 170.246.173.179,4,2,laserena.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
-34.176.142.36,4,29,laslenas.com,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
+34.176.142.36,4,0,laslenas.com,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 186.64.116.225,4,-6,learnchile.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
 201.148.104.205,4,397,librosmaravillosos.com,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 190.114.252.15,4,-6,lidereseducativos.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
-190.171.146.234,4,32,litoralpress.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
+190.171.146.234,4,56,litoralpress.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 170.239.64.176,4,12,losandesonline.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 34.176.45.183,4,-8,lucaedu.com,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
-190.110.124.52,4,2,maac.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
+190.110.124.52,4,-37,maac.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 170.246.172.159,4,7,maho.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
-186.64.116.195,4,28,make360.net,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
-190.107.177.43,4,5,martespa.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
+186.64.116.195,4,-3,make360.net,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
+190.107.177.43,4,-32,martespa.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 200.24.13.63,4,-9,maviocaro.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 192.140.57.17,4,5,mcclure.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 201.148.107.220,4,491,metrocal.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 201.217.241.118,4,1043,metrosantiago.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 45.239.111.173,4,-6,mgnacional.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Providencia
 201.148.104.97,4,-13,mineracampanario.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
-186.64.119.150,4,-556,misscaprichos.com.co,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
 201.148.104.200,4,-7,miuraautos.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 69.6.227.77,4,-31,mocasasboutique.cl,CL,Americas,Latin America and the Caribbean,Chile,Región de Valparaíso,,Curauma
 179.0.17.217,4,4,movix.com,CL,Americas,Latin America and the Caribbean,Chile,,,
-200.24.13.97,4,937,mulleryperez.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
+200.24.13.97,4,903,mulleryperez.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 201.71.0.51,4,-1,mumevirtual.com,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 190.113.1.105,4,-2,municipalidadantofagasta.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 200.73.116.149,4,-11,museodelamemoria.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
-186.64.118.115,4,580,nas.edu.co,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
+186.64.118.115,4,-3,nas.edu.co,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
 190.113.1.150,4,-9,netexplora.com,CL,Americas,Latin America and the Caribbean,Chile,,,
 200.7.7.3,4,11,nic.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 201.148.105.124,4,1052,nietoystone.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
@@ -172,7 +164,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 64.176.15.60,4,-5,normalconcordia.com,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 190.110.123.228,4,0,nuevopoder.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 186.64.119.245,4,6,observatorio.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
-186.64.116.100,4,82,observatorio.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
+186.64.116.100,4,-2,observatorio.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
 190.151.98.195,4,-142928,Ookla Speedtest Server 1858: speedtest1.entelchile.net,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 200.27.128.215,4,0,Ookla Speedtest Server 8017: speedtest.clarochile.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 143.202.140.18,4,7,Ookla Speedtest Server 8793: speedtest.convergia.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
@@ -186,7 +178,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.234.224.3,4,1400092,Ookla Speedtest Server 18784: speedtest.intelcom.cl,CL,Americas,Latin America and the Caribbean,Chile,Coquimbo Region,,Coquimbo
 200.73.121.228,4,10,Ookla Speedtest Server 18894: speedtest.mundopacifico.cl,CL,Americas,Latin America and the Caribbean,Chile,Región del Biobío,,Concepción
 200.73.121.229,4,-1,Ookla Speedtest Server 18894: speedtest.mundopacifico.cl,CL,Americas,Latin America and the Caribbean,Chile,Región del Biobío,,Concepción
-170.150.159.35,4,311,Ookla Speedtest Server 18894: speedtest.mundopacifico.cl,CL,Americas,Latin America and the Caribbean,Chile,Región del Biobío,,Concepción
+170.150.159.35,4,-1,Ookla Speedtest Server 18894: speedtest.mundopacifico.cl,CL,Americas,Latin America and the Caribbean,Chile,Región del Biobío,,Concepción
 131.196.178.44,4,-17,Ookla Speedtest Server 18948: speedtest.intersurtv.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Retiro
 45.225.132.5,4,-25,Ookla Speedtest Server 20880: speedtest.masconectados.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 200.29.48.201,4,-21,Ookla Speedtest Server 21436: speedtest-h5-10g.movistarplay.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
@@ -304,17 +296,17 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 190.113.0.150,4,1,parquecultural.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 45.239.111.96,4,-6,parqueoncol.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Providencia
 201.148.104.39,4,1208,paulaescobar.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
-131.72.236.118,4,44,pinturaintegral.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
+131.72.236.118,4,-3,pinturaintegral.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 201.148.104.41,4,1251,planetariochile.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 152.230.114.153,4,-361632,planetsoft.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,San Bernardo
 200.63.96.8,4,33,polimaq.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 45.182.116.198,4,-11,presslatam.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Las Condes
 170.246.173.162,4,1804,prodemu.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
-131.72.236.168,4,18,prohab.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
+131.72.236.168,4,-2,prohab.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 200.73.115.82,4,5,promecchile.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 190.110.123.230,4,22,propiedadesrya.com,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 207.210.102.110,4,11,prosoluc.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
-131.108.209.191,4,71,providencia.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
+131.108.209.191,4,-7,providencia.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 201.148.104.210,4,8,pruebaadnpaternidad.com,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 192.140.57.80,4,16,pwcc.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 201.71.0.33,4,-5,radioestacion.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
@@ -322,11 +314,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.239.111.63,4,-4,redbikers.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Providencia
 131.72.237.121,4,681,reddigital.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 138.117.148.163,4,6,regionalista.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
-138.117.148.158,4,30,regionalista.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
+138.117.148.158,4,-47,regionalista.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 159.138.117.243,4,7,registrodeempresasysociedades.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 201.148.104.98,4,9,remil.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 34.176.246.204,4,-2,renca.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
-138.117.148.65,4,33,rimisp.org,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 201.148.104.105,4,-5,rossipropiedades.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 201.148.105.97,4,-16,rutadelosparques.org,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 138.255.101.196,4,6,saludaysen.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,La Florida
@@ -337,10 +328,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.7.228.160,4,18,segurosobando.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 200.91.46.98,4,9,senado.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 34.176.150.226,4,8,sernatur.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
-170.239.85.93,4,4167,serviatiende.com,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
+170.239.85.93,4,2399,serviatiende.com,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
 170.239.86.171,4,47991,smat-c.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
 179.61.12.112,4,4,smsolutionsperu.com,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 45.239.216.34,4,-2,sochipe.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
+186.64.118.205,4,-3,solaser.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
 200.73.76.59,4,-1222,sonami.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 34.176.144.30,4,8,spda.org.pe,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 201.148.105.162,4,417,sportmotors.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
@@ -348,14 +340,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 186.64.119.165,4,4,starkingpropiedades.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
 190.110.123.76,4,-731,studiorein.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 161.0.162.164,4,75063,subpesca.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
-186.64.114.25,4,24,sumaservicios.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
-200.73.113.124,4,1,sunnylandschool.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
+186.64.114.25,4,-3,sumaservicios.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
 190.113.1.133,4,-9,tahai.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 190.110.123.241,4,4,tbmusica.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 189.84.61.9,4,20,teacompanamosenelcancer.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 200.73.115.83,4,12,teatroregional.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
-201.148.105.146,4,56,tecmifor.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
-189.126.8.209,4,29,telefonicadelpacifico.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
+201.148.105.146,4,-10,tecmifor.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
+189.126.8.209,4,236749,telefonicadelpacifico.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 200.1.123.75,4,2,tercera.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 190.113.0.152,4,1,themissioncollege.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 138.255.101.224,4,14,tlink.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,La Florida
@@ -367,16 +358,15 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 200.9.100.67,4,9,u-cursos.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 119.8.159.118,4,10,ucontinental.edu.pe,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 152.74.16.83,4,2,udec.cl,CL,Americas,Latin America and the Caribbean,Chile,Región del Biobío,,Concepción
-186.64.118.31,4,26,ugel-islay.edu.pe,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
+186.64.118.31,4,-3,ugel-islay.edu.pe,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
 190.113.0.109,4,7,upla.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 190.110.100.248,4,32,utalca.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 167.86.51.149,4,11,uv.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Colina
 186.64.119.90,4,13,vigilanciaweb.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
 207.210.83.90,4,3,visempropiedades.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
-186.64.119.120,4,-2093,vitromaule.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
 186.64.118.65,4,4,vituem.cl,CL,Americas,Latin America and the Caribbean,Chile,Maule Region,,Curicó
 200.73.116.100,4,10,webautoadministrable.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 200.73.116.160,4,2856938,webseo.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Santiago
 138.255.101.220,4,5,wilcom.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,La Florida
-190.113.0.194,4,3,windmaster.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
+190.113.0.194,4,-8,windmaster.cl,CL,Americas,Latin America and the Caribbean,Chile,,,
 45.225.94.58,4,844,yoggie.cl,CL,Americas,Latin America and the Caribbean,Chile,Santiago Metropolitan,,Maipú

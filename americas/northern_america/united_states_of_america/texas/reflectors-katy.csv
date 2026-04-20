@@ -1,6 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 216.230.233.39,4,-4,drown.org,US,Americas,Northern America,United States of America,Texas,,Katy
-76.241.26.223,4,51,lemmy.nexus,US,Americas,Northern America,United States of America,Texas,,Katy
+76.241.26.223,4,-2,lemmy.nexus,US,Americas,Northern America,United States of America,Texas,,Katy
 216.230.233.65,4,9,morningstarministries.org,US,Americas,Northern America,United States of America,Texas,,Katy
 216.230.233.12,4,5,oasisdesign.net,US,Americas,Northern America,United States of America,Texas,,Katy
 156.47.167.70,4,2,Ookla Speedtest Server 71180: speedtest2.tx.mycci.net,US,Americas,Northern America,United States of America,Texas,,Katy

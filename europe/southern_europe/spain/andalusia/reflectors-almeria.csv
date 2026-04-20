@@ -1,5 +1,5 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
-88.148.3.209,4,4,agustinoszaragoza.com,ES,Europe,Southern Europe,Spain,Andalusia,Almeria,Alfoquia
+88.148.3.209,4,0,agustinoszaragoza.com,ES,Europe,Southern Europe,Spain,Andalusia,Almeria,Alfoquia
 185.92.244.178,4,2,andaluciarustica.com,ES,Europe,Southern Europe,Spain,Andalusia,Almeria,Almería
 80.27.0.158,4,6,DNS Server: 158.red-80-27-0.staticip.rima-tde.net,ES,Europe,Southern Europe,Spain,Andalusia,Almeria,Santa Fe de Mondújar
 80.27.0.161,4,238155,DNS Server: 161.red-80-27-0.staticip.rima-tde.net,ES,Europe,Southern Europe,Spain,Andalusia,Almeria,Santa Fe de Mondújar
@@ -10,6 +10,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 85.62.216.201,4,-8,DNS Server: 85-62-216-201.static.orange.es,ES,Europe,Southern Europe,Spain,Andalusia,Almeria,Velez-Rubio
 185.92.246.223,4,-121,lecturafacil.net,ES,Europe,Southern Europe,Spain,Andalusia,Almeria,Almería
 185.105.37.164,4,-5,Ookla Speedtest Server 70015: speedtest10.digimobil.es,ES,Europe,Southern Europe,Spain,Andalusia,Almeria,Almería
-185.92.244.76,4,14,representacionesluislopez.com,ES,Europe,Southern Europe,Spain,Andalusia,Almeria,Almería
-185.92.245.252,4,3,tlaxcala.es,ES,Europe,Southern Europe,Spain,Andalusia,Almeria,Almería
+185.92.244.76,4,1,representacionesluislopez.com,ES,Europe,Southern Europe,Spain,Andalusia,Almeria,Almería
+185.92.245.252,4,0,tlaxcala.es,ES,Europe,Southern Europe,Spain,Andalusia,Almeria,Almería
 193.146.156.245,4,15,upsa.es,ES,Europe,Southern Europe,Spain,Andalusia,Almeria,Tabernas

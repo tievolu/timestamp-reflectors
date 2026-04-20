@@ -1,7 +1,7 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 103.78.52.16,4,1313,aandagroupbd.com,BD,Asia,Southern Asia,Bangladesh,,,
 115.187.18.21,4,12,admissionnotice.com,BD,Asia,Southern Asia,Bangladesh,,,
-103.138.150.6,4,1283,ajkalbazar.xyz,BD,Asia,Southern Asia,Bangladesh,,,
+103.138.150.6,4,37,ajkalbazar.xyz,BD,Asia,Southern Asia,Bangladesh,,,
 160.250.193.74,4,8,ajkalerkhobor.net,BD,Asia,Southern Asia,Bangladesh,,,
 103.174.153.117,4,-20,al-ihsan.net,BD,Asia,Southern Asia,Bangladesh,,,
 118.179.220.228,4,-46,amberit.com.bd,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
@@ -13,7 +13,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.159.36.226,4,39,bdgovt.info,BD,Asia,Southern Asia,Bangladesh,,,
 103.134.69.3,4,-48,bdtradeinfo.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.159.37.110,4,-5,bdwaterpurifier.com,BD,Asia,Southern Asia,Bangladesh,,,
-115.187.18.121,4,579,bestwpware.com,BD,Asia,Southern Asia,Bangladesh,,,
+115.187.18.121,4,1540,bestwpware.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.174.153.125,4,-28,bholarkotha.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.169.160.118,4,885,biddabari.com,BD,Asia,Southern Asia,Bangladesh,,,
 49.143.249.16,4,-32,bijoybarta24.com,BD,Asia,Southern Asia,Bangladesh,,,
@@ -29,14 +29,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.159.2.159,4,0,cu.ac.bd,BD,Asia,Southern Asia,Bangladesh,,,
 103.140.181.54,4,47,cvasu.ac.bd,BD,Asia,Southern Asia,Bangladesh,,,
 163.61.188.5,4,-9,cwi.org.ng,BD,Asia,Southern Asia,Bangladesh,,,
-103.29.180.14,4,2,dainikamadershomoy.com,BD,Asia,Southern Asia,Bangladesh,,,
+103.29.180.14,4,1051,dainikamadershomoy.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.174.51.227,4,-5,dainikazadi.net,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
-203.26.151.73,4,2,dainiksokalerbarta.com,BD,Asia,Southern Asia,Bangladesh,,,
+203.26.151.73,4,27338079,dainiksokalerbarta.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.213.38.234,4,6,defendconsortium.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.213.38.228,4,-3,deshprotikhon.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.163.246.84,4,26,diabetesstore.com.bd,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
 103.159.36.162,4,76,diamu.com.bd,BD,Asia,Southern Asia,Bangladesh,,,
-203.190.11.3,4,-157,dic.edu.bd,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
 103.112.54.34,4,424,DNS Server: 103-112-54-34.Dhaka.carnival.com.bd,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
 103.204.84.50,4,-1696665173,DNS Server: 103.204.84.50.xpress.ltd,BD,Asia,Southern Asia,Bangladesh,,,
 123.200.11.90,4,6186,DNS Server: 11.90.aries.link3.net,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
@@ -68,16 +67,16 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.102.136.102,4,-42,DNS Server: ns1.cmclbd.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.174.51.71,4,-5,DoH server: dnscry.pt-dhaka-ipv4,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
 163.227.239.172,4,5,dokanpat.com.bd,BD,Asia,Southern Asia,Bangladesh,,,
-180.211.137.55,4,4166818,dpe.gov.bd,BD,Asia,Southern Asia,Bangladesh,,,
-103.148.14.50,4,1,drhealthbd.com,BD,Asia,Southern Asia,Bangladesh,,,
+180.211.137.55,4,4522117,dpe.gov.bd,BD,Asia,Southern Asia,Bangladesh,,,
+103.148.14.50,4,-1,drhealthbd.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.221.252.190,4,21,du.ac.bd,BD,Asia,Southern Asia,Bangladesh,,,
-103.221.255.104,4,3681201,du.ac.bd,BD,Asia,Southern Asia,Bangladesh,,,
+103.221.255.104,4,-2133430,du.ac.bd,BD,Asia,Southern Asia,Bangladesh,,,
 163.47.38.218,4,-31,easternuni.edu.bd,BD,Asia,Southern Asia,Bangladesh,,,
 103.16.74.246,4,13,ekushey-tv.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.163.247.115,4,9,electromart.com.bd,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
 103.48.119.160,4,1219,estemedicalbd.com,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
 14.128.14.6,4,390,estilo-bd.com,BD,Asia,Southern Asia,Bangladesh,,,
-103.204.80.147,4,1153,finlandtimes.fi,BD,Asia,Southern Asia,Bangladesh,,,
+103.204.80.147,4,893,finlandtimes.fi,BD,Asia,Southern Asia,Bangladesh,,,
 163.53.151.171,4,-34,flynovoair.com,BD,Asia,Southern Asia,Bangladesh,,,
 165.101.227.20,4,10121,forexpipsclub.com,BD,Asia,Southern Asia,Bangladesh,Rajshahi Division,Natore,Natore
 103.191.241.194,4,64191791,fragranticabangladesh.com,BD,Asia,Southern Asia,Bangladesh,,,
@@ -90,20 +89,20 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 151.158.44.18,4,-404,genesysltd.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.159.37.98,4,-1,gpxbangladesh.com,BD,Asia,Southern Asia,Bangladesh,,,
 43.229.15.145,4,-23,grs.gov.bd,BD,Asia,Southern Asia,Bangladesh,,,
-103.29.180.42,4,32,hathazarisangbad.com,BD,Asia,Southern Asia,Bangladesh,,,
+103.29.180.42,4,24,hathazarisangbad.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.153.241.53,4,-9,hatimfurniturebd.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.159.37.242,4,13,hirakraja.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.213.38.36,4,64901220,holyquraneducationbd.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.65.138.230,4,-3,hostseba.com,BD,Asia,Southern Asia,Bangladesh,,,
-103.29.180.37,4,17,hostseba.com,BD,Asia,Southern Asia,Bangladesh,,,
+103.29.180.37,4,-8,hostseba.com,BD,Asia,Southern Asia,Bangladesh,,,
 163.53.180.178,4,3832,iamzoyah.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.157.135.91,4,21,iau.edu.bd,BD,Asia,Southern Asia,Bangladesh,,,
 36.255.69.193,4,9,icab.org.bd,BD,Asia,Southern Asia,Bangladesh,,,
-103.159.36.116,4,8,iercbd.com,BD,Asia,Southern Asia,Bangladesh,,,
+103.159.36.116,4,35,iercbd.com,BD,Asia,Southern Asia,Bangladesh,,,
 203.80.191.60,4,-24,iiuc.ac.bd,BD,Asia,Southern Asia,Bangladesh,,,
-203.80.191.56,4,17,iiuc.ac.bd,BD,Asia,Southern Asia,Bangladesh,,,
-203.80.191.57,4,7,iiuc.ac.bd,BD,Asia,Southern Asia,Bangladesh,,,
-103.48.17.195,4,2986394,incometax.gov.bd,BD,Asia,Southern Asia,Bangladesh,,,
+203.80.191.56,4,-16,iiuc.ac.bd,BD,Asia,Southern Asia,Bangladesh,,,
+203.80.191.57,4,-15,iiuc.ac.bd,BD,Asia,Southern Asia,Bangladesh,,,
+103.48.17.195,4,3843205,incometax.gov.bd,BD,Asia,Southern Asia,Bangladesh,,,
 202.74.244.9,4,1121,infoexbd.com,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
 103.138.150.2,4,855,innovabd.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.81.70.7,4,80,iub.ac.bd,BD,Asia,Southern Asia,Bangladesh,,,
@@ -129,7 +128,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.191.241.218,4,2,montahafoodservice.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.138.150.62,4,895,motorcyclevalley.com,BD,Asia,Southern Asia,Bangladesh,,,
 151.158.44.99,4,1343,mrguestposting.com,BD,Asia,Southern Asia,Bangladesh,,,
-103.174.50.14,4,-91771,muktipotro.com,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
 103.112.62.87,4,-55,multiplanbd.net,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
 43.229.14.122,4,-14,nbr.gov.bd,BD,Asia,Southern Asia,Bangladesh,,,
 115.187.18.37,4,-10,ncisbd.com,BD,Asia,Southern Asia,Bangladesh,,,
@@ -140,11 +138,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 131.186.51.242,4,-4,nilmrc.gov.bd,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Gazipur,Gazipur
 123.49.56.15,4,1558893,nothi.gov.bd,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
 123.49.56.35,4,566928,nothi.gov.bd,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
-123.49.56.17,4,1229113,nothi.gov.bd,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
-123.49.56.13,4,1229113,nothi.gov.bd,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
+123.49.56.17,4,1560798,nothi.gov.bd,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
+123.49.56.13,4,1560783,nothi.gov.bd,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
 151.158.159.100,4,1608,novatrampolinelaw.com,BD,Asia,Southern Asia,Bangladesh,,,
 151.158.44.100,4,2058,nursingtakecarebd.com,BD,Asia,Southern Asia,Bangladesh,,,
-116.206.56.211,4,1371,obsidian.com.bd,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
+116.206.56.211,4,869,obsidian.com.bd,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
 103.16.74.157,4,144095,onebank.com.bd,BD,Asia,Southern Asia,Bangladesh,,,
 121.200.60.28,4,278419,onushilon.org,BD,Asia,Southern Asia,Bangladesh,,,
 103.138.125.34,4,-22,Ookla Speedtest Server 4609: speedtest.linktech.net.bd,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
@@ -189,10 +187,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.118.76.234,4,534544,Ookla Speedtest Server 50042: speed.visiontech.com.bd,BD,Asia,Southern Asia,Bangladesh,Rajshahi Division,Pabna,Pābna
 103.103.89.18,4,65176564,Ookla Speedtest Server 52701: speedtest.easyctg.net,BD,Asia,Southern Asia,Bangladesh,,,
 103.185.24.132,4,-41,Ookla Speedtest Server 53118: ns3.connect3.net.bd,BD,Asia,Southern Asia,Bangladesh,Chittagong,Chittagong,Chittagong
-103.185.24.234,4,264,Ookla Speedtest Server 53118: ns3.connect3.net.bd,BD,Asia,Southern Asia,Bangladesh,Chittagong,Chittagong,Chittagong
+103.185.24.234,4,25,Ookla Speedtest Server 53118: ns3.connect3.net.bd,BD,Asia,Southern Asia,Bangladesh,Chittagong,Chittagong,Chittagong
 103.189.246.246,4,7,Ookla Speedtest Server 53371: ns3.minjuonline.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.235.162.33,4,-10,Ookla Speedtest Server 53548: speedtest.ispwifibd.net,BD,Asia,Southern Asia,Bangladesh,,,
 103.120.166.228,4,18,Ookla Speedtest Server 53575: speedtest.discoveryinternet.com.bd,BD,Asia,Southern Asia,Bangladesh,,,
+103.99.180.34,4,-4,Ookla Speedtest Server 53587: speedtest.unicommultisystem.net,BD,Asia,Southern Asia,Bangladesh,,,
 103.103.239.10,4,-20,Ookla Speedtest Server 53930: speedtest.epnetbd.com,BD,Asia,Southern Asia,Bangladesh,,,
 203.18.159.173,4,14,Ookla Speedtest Server 54289: ookla.errorx.net,BD,Asia,Southern Asia,Bangladesh,,,
 103.179.128.237,4,213428,Ookla Speedtest Server 54554: speedtest.fmnetworks.net,BD,Asia,Southern Asia,Bangladesh,Rajshahi Division,Rajshahi,Chāndpur
@@ -293,12 +292,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.159.2.118,4,42,pust.ac.bd,BD,Asia,Southern Asia,Bangladesh,,,
 103.65.138.29,4,14,rahmaniyapump.com,BD,Asia,Southern Asia,Bangladesh,,,
 43.229.15.121,4,11,rakub.org.bd,BD,Asia,Southern Asia,Bangladesh,,,
-202.40.176.34,4,1171,rankspowertech.com,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
+202.40.176.34,4,1204,rankspowertech.com,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
 103.159.36.34,4,536,reongrouprealestate.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.159.36.10,4,15,rezviconstructionltd.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.16.74.150,4,-78530,risingtradingltd.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.65.138.226,4,4,rongbahar.com,BD,Asia,Southern Asia,Bangladesh,,,
-103.157.135.60,4,1891,ruet.ac.bd,BD,Asia,Southern Asia,Bangladesh,,,
+103.157.135.60,4,213,ruet.ac.bd,BD,Asia,Southern Asia,Bangladesh,,,
 49.0.48.29,4,205,rupayangroup.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.65.138.22,4,-1,sabrorganico.com,BD,Asia,Southern Asia,Bangladesh,,,
 159.13.21.218,4,9,satkhiramc.gov.bd,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Gazipur,Gazipur
@@ -315,7 +314,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.134.89.234,4,40,stamforduniversity.edu.bd,BD,Asia,Southern Asia,Bangladesh,,,
 202.4.96.80,4,-43,standardbankbd.com,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
 103.213.38.115,4,15,stunnermart.com,BD,Asia,Southern Asia,Bangladesh,,,
-103.84.159.5,4,-5173,sust.edu,BD,Asia,Southern Asia,Bangladesh,,,
 115.187.19.25,4,-12,sustpressclub.org,BD,Asia,Southern Asia,Bangladesh,,,
 159.13.21.17,4,1,sylhet.gov.bd,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Gazipur,Gazipur
 103.98.76.5,4,6,tahafamilybd.com,BD,Asia,Southern Asia,Bangladesh,,,
@@ -331,6 +329,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 118.67.213.132,4,-3,thedailycampus.com,BD,Asia,Southern Asia,Bangladesh,,,
 163.61.188.2,4,9,thekargodelivery.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.159.37.34,4,603,themehour.net,BD,Asia,Southern Asia,Bangladesh,,,
+115.187.18.122,4,1535,themesvila.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.159.37.42,4,14,thikanavalley.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.48.119.71,4,846,tkfoodsbd.com,BD,Asia,Southern Asia,Bangladesh,Dhaka Division,Dhaka,Dhaka
 103.132.96.100,4,16,tkgroupbd.com,BD,Asia,Southern Asia,Bangladesh,,,
@@ -353,5 +352,4 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 14.128.13.34,4,722,wondersbd.com,BD,Asia,Southern Asia,Bangladesh,,,
 103.14.23.90,4,15,worldgearbd.com,BD,Asia,Southern Asia,Bangladesh,Khulna Division,Khulna,Khulna
 182.252.82.81,4,-1081,wpelitee.com,BD,Asia,Southern Asia,Bangladesh,,,
-103.245.204.118,4,-21,xiclassadmission.gov.bd,BD,Asia,Southern Asia,Bangladesh,,,
 115.187.18.214,4,-11,zenestable.com,BD,Asia,Southern Asia,Bangladesh,,,

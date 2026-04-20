@@ -3,4 +3,4 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 102.222.144.105,4,3,Ookla Speedtest Server 37610: speedtest.tandaa.africa,KE,Africa,Sub-Saharan Africa,Kenya,Mombasa County,,Mombasa
 102.208.180.8,4,22,Ookla Speedtest Server 72240: speedtest.rain.co.ke,KE,Africa,Sub-Saharan Africa,Kenya,Mombasa County,,Mombasa
 102.204.152.15,4,28,Ookla Speedtest Server 72951: speedtest.sharenetwork.io,KE,Africa,Sub-Saharan Africa,Kenya,Mombasa County,,Mombasa
-105.16.115.20,4,12,seacom.mu,KE,Africa,Sub-Saharan Africa,Kenya,Mombasa County,,Mombasa
+105.16.115.20,4,-1,seacom.mu,KE,Africa,Sub-Saharan Africa,Kenya,Mombasa County,,Mombasa

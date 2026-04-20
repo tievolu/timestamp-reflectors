@@ -1,6 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 35.229.134.56,4,0,1680380.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-34.80.142.182,4,8,1687370.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+34.80.142.182,4,-1,1687370.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 156.234.231.31,4,25,188988.vip,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 156.234.231.32,4,24,188988.vip,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 156.234.231.36,4,24,188988.vip,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
@@ -25,13 +25,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 203.204.183.147,4,9,8fun.net,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 203.99.146.66,4,-4,aaumax.com.tw,TW,Asia,Eastern Asia,Taiwan,,,
 125.227.253.159,4,9,abonmax.com.tw,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Taichung
-103.118.26.155,4,21,acd.com.tw,TW,Asia,Eastern Asia,Taiwan,,,
+103.118.26.155,4,9,acd.com.tw,TW,Asia,Eastern Asia,Taiwan,,,
 61.216.6.208,4,-126615,aiot7.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-103.118.24.39,4,14101,akagrant.com,TW,Asia,Eastern Asia,Taiwan,,,
+103.118.24.39,4,4114,akagrant.com,TW,Asia,Eastern Asia,Taiwan,,,
 43.254.19.69,4,-23683,allmetalworking.com,TW,Asia,Eastern Asia,Taiwan,,,
 210.65.47.53,4,-3,amtb.tw,TW,Asia,Eastern Asia,Taiwan,,,
 60.248.187.195,4,945,andestech.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-210.244.72.15,4,10624,archi.com.tw,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
+210.244.72.15,4,10138460,archi.com.tw,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 210.65.113.35,4,0,asuswebstorage.com,TW,Asia,Eastern Asia,Taiwan,,,
 211.20.47.40,4,45,attend.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 104.199.182.238,4,5,backpackers.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
@@ -39,14 +39,14 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 104.199.162.225,4,-2,bbkz.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 59.124.95.211,4,-1757132714,beetles.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 35.194.237.172,4,-3,best-legal.jp,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-103.144.33.71,4,8,bghut.com,TW,Asia,Eastern Asia,Taiwan,,,
+103.144.33.71,4,11,bghut.com,TW,Asia,Eastern Asia,Taiwan,,,
 103.153.177.19,4,43,bigfang.tw,TW,Asia,Eastern Asia,Taiwan,,,
 103.138.106.47,4,14,bingo98.com.tw,TW,Asia,Eastern Asia,Taiwan,,,
-103.118.24.38,4,58,bizph.com,TW,Asia,Eastern Asia,Taiwan,,,
-104.155.230.5,4,6,bookfere.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+103.118.24.38,4,52,bizph.com,TW,Asia,Eastern Asia,Taiwan,,,
+104.155.230.5,4,2,bookfere.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 104.199.214.191,4,-5,brilio.net,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 112.121.107.62,4,2,businessweekly.com.tw,TW,Asia,Eastern Asia,Taiwan,,,
-211.23.95.250,4,4,carstuff.com.tw,TW,Asia,Eastern Asia,Taiwan,Miaoli,,Miaoli
+211.23.95.250,4,20,carstuff.com.tw,TW,Asia,Eastern Asia,Taiwan,Miaoli,,Miaoli
 103.17.9.237,4,643,catholic.org.tw,TW,Asia,Eastern Asia,Taiwan,,,
 123.241.182.121,4,-5,ccmtw.com,TW,Asia,Eastern Asia,Taiwan,Taoyuan,,Taoyuan District
 203.66.68.66,4,19,ccr.com.tw,TW,Asia,Eastern Asia,Taiwan,Tainan,,Tainan
@@ -54,15 +54,14 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.129.178.18,4,19,chung-pei.com,TW,Asia,Eastern Asia,Taiwan,,,
 35.221.247.38,4,-9,clibo.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 35.234.49.191,4,26,cmmedia.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-103.129.176.84,4,2564,colofor.com.tw,TW,Asia,Eastern Asia,Taiwan,,,
+103.129.176.84,4,505,colofor.com.tw,TW,Asia,Eastern Asia,Taiwan,,,
 61.221.12.52,4,15,coolaler.com,TW,Asia,Eastern Asia,Taiwan,Tainan,,Nanqu
 140.112.30.240,4,32,csie.org,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 103.129.178.168,4,891,cyuanmei.com,TW,Asia,Eastern Asia,Taiwan,,,
-210.65.10.197,4,34994,da-vinci.com.tw,TW,Asia,Eastern Asia,Taiwan,,,
-112.121.121.186,4,-4,darencademy.com,TW,Asia,Eastern Asia,Taiwan,,,
-203.145.220.155,4,20,dataportal.asia,TW,Asia,Eastern Asia,Taiwan,,,
-104.155.230.68,4,6,daviteq.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-61.60.143.215,4,3,dean-cpa.com,TW,Asia,Eastern Asia,Taiwan,,,
+210.65.10.197,4,97962,da-vinci.com.tw,TW,Asia,Eastern Asia,Taiwan,,,
+203.145.220.155,4,-2,dataportal.asia,TW,Asia,Eastern Asia,Taiwan,,,
+104.155.230.68,4,0,daviteq.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+61.60.143.215,4,11,dean-cpa.com,TW,Asia,Eastern Asia,Taiwan,,,
 35.229.212.107,4,-4,deepradai.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 1.160.143.224,4,109,DNS Server: 1-160-143-224.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taoyuan,,Zhongli District
 1.160.152.52,4,21331,DNS Server: 1-160-152-52.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taoyuan,,Zhongli District
@@ -87,6 +86,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 1.161.65.56,4,81,DNS Server: 1-161-65-56.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 1.161.70.24,4,-14,DNS Server: 1-161-70-24.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 1.161.76.193,4,21,DNS Server: 1-161-76-193.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
+1.161.76.240,4,-132,DNS Server: 1-161-76-240.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 1.161.77.178,4,38497,DNS Server: 1-161-77-178.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 1.161.77.224,4,-38,DNS Server: 1-161-77-224.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 1.161.90.84,4,7,DNS Server: 1-161-90-84.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
@@ -110,6 +110,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 1.163.116.192,4,57600471,DNS Server: 1-163-116-192.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 1.163.121.36,4,16,DNS Server: 1-163-121-36.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 1.163.128.138,4,19545,DNS Server: 1-163-128-138.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
+1.163.144.129,4,-95,DNS Server: 1-163-144-129.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 1.163.204.189,4,-87,DNS Server: 1-163-204-189.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 1.163.206.85,4,1656,DNS Server: 1-163-206-85.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 1.163.210.136,4,202047,DNS Server: 1-163-210-136.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
@@ -124,6 +125,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 1.163.85.8,4,118,DNS Server: 1-163-85-8.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 1.163.98.115,4,174121,DNS Server: 1-163-98-115.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 1.163.99.234,4,-58,DNS Server: 1-163-99-234.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+1.164.103.15,4,22621133,DNS Server: 1-164-103-15.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Hsinchu City,,Hsinchu
 1.164.117.195,4,76643752,DNS Server: 1-164-117-195.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Hsinchu City,,Hsinchu
 1.164.13.74,4,-36,DNS Server: 1-164-13-74.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taoyuan,,Zhongli District
 1.164.187.228,4,1517,DNS Server: 1-164-187-228.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
@@ -134,11 +136,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 1.164.38.106,4,23,DNS Server: 1-164-38-106.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taoyuan,,Taoyuan District
 1.164.46.40,4,1939,DNS Server: 1-164-46-40.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taoyuan,,Taoyuan District
 1.164.84.31,4,57598110,DNS Server: 1-164-84-31.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Hsinchu City,,Hsinchu
+1.165.109.122,4,-49,DNS Server: 1-165-109-122.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Taichung
 1.165.119.247,4,-509,DNS Server: 1-165-119-247.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Taichung
 1.165.129.8,4,41909155,DNS Server: 1-165-129-8.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Taichung
 1.165.139.196,4,-48,DNS Server: 1-165-139-196.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Taichung
 1.165.145.130,4,-107,DNS Server: 1-165-145-130.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Taichung
 1.165.147.49,4,-19,DNS Server: 1-165-147-49.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Taichung
+1.165.161.82,4,4,DNS Server: 1-165-161-82.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Taichung
 1.165.169.138,4,57603141,DNS Server: 1-165-169-138.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Taichung
 1.165.169.36,4,-8,DNS Server: 1-165-169-36.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Taichung
 1.165.207.91,4,-4267,DNS Server: 1-165-207-91.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Taichung
@@ -161,9 +165,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 1.168.215.109,4,92,DNS Server: 1-168-215-109.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Nantou,,Nantou City
 1.168.221.72,4,57598094,DNS Server: 1-168-221-72.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Nantou,,Nantou City
 1.168.226.195,4,3,DNS Server: 1-168-226-195.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Nantou,,Nantou City
+1.168.228.19,4,1885,DNS Server: 1-168-228-19.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Nantou,,Nantou City
+1.168.229.130,4,184328,DNS Server: 1-168-229-130.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Nantou,,Nantou City
 1.168.236.226,4,-39,DNS Server: 1-168-236-226.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Nantou,,Nantou City
 1.168.24.23,4,20,DNS Server: 1-168-24-23.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Taichung
 1.168.245.230,4,7,DNS Server: 1-168-245-230.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Nantou,,Nantou City
+1.168.250.26,4,2272,DNS Server: 1-168-250-26.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Nantou,,Nantou City
 1.168.252.103,4,2095,DNS Server: 1-168-252-103.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Nantou,,Nantou City
 1.168.34.61,4,57596787,DNS Server: 1-168-34-61.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Taichung
 1.168.35.121,4,-67,DNS Server: 1-168-35-121.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Taichung
@@ -177,7 +184,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 1.168.82.215,4,2234,DNS Server: 1-168-82-215.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Taichung
 1.168.9.165,4,82,DNS Server: 1-168-9-165.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Taichung
 1.168.96.92,4,2202,DNS Server: 1-168-96-92.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Taichung
-1.168.97.101,4,694,DNS Server: 1-168-97-101.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Taichung
 1.169.165.201,4,-3076436637,DNS Server: 1-169-165-201.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taoyuan,,Taoyuan District
 1.169.217.95,4,19807,DNS Server: 1-169-217-95.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Hsinchu City,,Hsinchu
 1.169.224.199,4,32,DNS Server: 1-169-224-199.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Hsinchu City,,Hsinchu
@@ -219,7 +225,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 1.172.104.247,4,-74,DNS Server: 1-172-104-247.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Tainan,,Tainan
 1.172.141.232,4,57598662,DNS Server: 1-172-141-232.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kinmen County,,
 1.172.155.162,4,-299,DNS Server: 1-172-155-162.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kinmen County,,
+1.172.157.200,4,2168,DNS Server: 1-172-157-200.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kinmen County,,
 1.172.170.204,4,0,DNS Server: 1-172-170-204.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
+1.172.178.132,4,100,DNS Server: 1-172-178-132.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
+1.172.179.226,4,48,DNS Server: 1-172-179-226.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 1.172.228.178,4,27123043,DNS Server: 1-172-228-178.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 1.172.230.72,4,57600264,DNS Server: 1-172-230-72.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 1.172.4.13,4,11035176,DNS Server: 1-172-4-13.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Chiayi,,Chiayi City
@@ -273,19 +282,23 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 1.174.86.125,4,191,DNS Server: 1-174-86-125.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 1.174.86.170,4,-8,DNS Server: 1-174-86-170.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 1.174.86.220,4,57600167,DNS Server: 1-174-86-220.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
+1.174.92.23,4,408,DNS Server: 1-174-92-23.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 1.174.95.187,4,-9,DNS Server: 1-174-95-187.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 1.175.11.24,4,-2,DNS Server: 1-175-11-24.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Chiayi,,Chiayi City
+1.175.113.160,4,-33319,DNS Server: 1-175-113-160.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 1.175.130.5,4,7188648,DNS Server: 1-175-130-5.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Tainan,,Tainan
 1.175.134.210,4,1840,DNS Server: 1-175-134-210.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Tainan,,Tainan
 1.175.145.90,4,1808,DNS Server: 1-175-145-90.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Tainan,,Tainan
 1.175.158.210,4,1551,DNS Server: 1-175-158-210.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Tainan,,Tainan
 1.175.18.101,4,57600159,DNS Server: 1-175-18-101.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Chiayi,,Chiayi City
 1.175.187.142,4,2073,DNS Server: 1-175-187-142.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Tainan,,Tainan
+1.175.192.61,4,11,DNS Server: 1-175-192-61.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 1.175.203.121,4,37,DNS Server: 1-175-203-121.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 1.175.5.129,4,32,DNS Server: 1-175-5-129.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Chiayi,,Chiayi City
 1.175.50.91,4,2054,DNS Server: 1-175-50-91.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Chiayi,,Chiayi City
 1.175.53.84,4,85,DNS Server: 1-175-53-84.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Chiayi,,Chiayi City
 1.175.64.29,4,-43,DNS Server: 1-175-64-29.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
+1.175.7.179,4,112,DNS Server: 1-175-7-179.dynamic-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Chiayi,,Chiayi City
 1.34.139.19,4,29,DNS Server: 1-34-139-19.hinet-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 1.34.173.230,4,88,DNS Server: 1-34-173-230.hinet-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taoyuan,,Taoyuan District
 1.34.29.58,4,3037,DNS Server: 1-34-29-58.hinet-ip.hinet.net,TW,Asia,Eastern Asia,Taiwan,Taoyuan,,Zhongli District
@@ -425,24 +438,24 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 104.199.233.184,4,-22,enermax.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 219.84.168.188,4,1036,eprice.com.hk,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 219.84.168.168,4,1020,eprice.com.tw,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
-203.69.238.170,4,4,eternity.com.tw,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,Sanchong District
-210.242.49.19,4,9,f-2.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-60.251.60.22,4,7,farmsbiotech.com,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
+203.69.238.170,4,16,eternity.com.tw,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,Sanchong District
+210.242.49.19,4,-79912,f-2.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+60.251.60.22,4,16,farmsbiotech.com,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 125.228.20.62,4,-5,fcliu.net,TW,Asia,Eastern Asia,Taiwan,Tainan,,Tainan
 34.81.70.65,4,-4,fftc.org.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-103.118.24.35,4,125,fftc.org.tw,TW,Asia,Eastern Asia,Taiwan,,,
+103.118.24.35,4,43,fftc.org.tw,TW,Asia,Eastern Asia,Taiwan,,,
 34.80.32.212,4,5945764,finguider.cc,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 107.167.182.246,4,2,forbeautylove.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 59.120.254.212,4,-956,foxpro.com.tw,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 60.248.124.228,4,16,fst.tw,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 103.129.178.72,4,128,fswl.com.hk,TW,Asia,Eastern Asia,Taiwan,,,
 122.146.41.161,4,-14,gainward.com,TW,Asia,Eastern Asia,Taiwan,Keelung City,,Keelung
-34.80.246.181,4,10,gamebase.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+34.80.246.181,4,-2,gamebase.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 35.234.39.85,4,33,greenpeace.org.cn,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 104.199.236.4,4,-6,groupbuyforms.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-45.43.59.201,4,2,growthman.cn,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+45.43.59.201,4,8,growthman.cn,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 114.34.121.114,4,-2,gslin.org,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
-118.194.253.217,4,1,gsoc.cn,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+118.194.253.217,4,8,gsoc.cn,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 104.199.184.118,4,-25,gugu.fund,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 130.211.253.109,4,-10,gwangju2015.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 60.250.52.46,4,19,hakkanews.tw,TW,Asia,Eastern Asia,Taiwan,Taoyuan,,Taoyuan District
@@ -452,21 +465,21 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.136.211.216,4,10,ho.net.tw,TW,Asia,Eastern Asia,Taiwan,,,
 35.234.58.5,4,24,hockeycurve.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 60.249.45.239,4,539,hottown.com.tw,TW,Asia,Eastern Asia,Taiwan,Taichung City,,North
-219.87.145.180,4,0,ibase.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Xinyi
+219.87.145.180,4,-7,ibase.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Xinyi
 103.153.177.10,4,17,incar.tw,TW,Asia,Eastern Asia,Taiwan,,,
 125.227.102.220,4,-119391,inpad.com.tw,TW,Asia,Eastern Asia,Taiwan,Chiayi,,Chiayi City
 192.83.191.8,4,1756,isu.edu.tw,TW,Asia,Eastern Asia,Taiwan,,,
-211.75.158.225,4,-2,iware.com.tw,TW,Asia,Eastern Asia,Taiwan,Taoyuan,,Taoyuan District
 211.72.198.2,4,11349,jiye.com.tw,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
-175.183.3.134,4,26,jofu.tw,TW,Asia,Eastern Asia,Taiwan,,,
-103.153.177.40,4,5,kocpc.com.tw,TW,Asia,Eastern Asia,Taiwan,,,
+175.183.3.134,4,-1,jofu.tw,TW,Asia,Eastern Asia,Taiwan,,,
+103.153.177.40,4,24,kocpc.com.tw,TW,Asia,Eastern Asia,Taiwan,,,
 165.154.195.214,4,25,komoejoy.com,TW,Asia,Eastern Asia,Taiwan,,,
-103.118.26.55,4,2,kuangta.com.tw,TW,Asia,Eastern Asia,Taiwan,,,
-103.118.26.53,4,5,kuos.com,TW,Asia,Eastern Asia,Taiwan,,,
+103.118.26.55,4,23,kuangta.com.tw,TW,Asia,Eastern Asia,Taiwan,,,
+103.118.26.53,4,17,kuos.com,TW,Asia,Eastern Asia,Taiwan,,,
 149.104.153.23,4,-17,kxqcxs.com,TW,Asia,Eastern Asia,Taiwan,,,
 203.99.146.58,4,0,lannerinc.com,TW,Asia,Eastern Asia,Taiwan,,,
 104.199.232.106,4,16,lia-roc.org.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-34.81.152.152,4,3,lia-roc.org.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+34.81.152.152,4,-2,lia-roc.org.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+60.249.179.122,4,-731,lionfree.net,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 35.185.141.245,4,5,liskul.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 103.116.68.58,4,813,lius.com.tw,TW,Asia,Eastern Asia,Taiwan,,,
 175.181.38.134,4,-3,longwin.com.tw,TW,Asia,Eastern Asia,Taiwan,Hualien County,,Hualien City
@@ -474,14 +487,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 104.199.252.254,4,10,mainpi.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 114.32.146.202,4,-3085021951,manyhit.com,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,Sanchong District
 154.55.77.25,4,-11,mapagbigay.com,TW,Asia,Eastern Asia,Taiwan,,,
-104.155.219.139,4,2,mashup.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+104.155.219.139,4,0,mashup.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 103.129.178.4,4,129,meiman.org.tw,TW,Asia,Eastern Asia,Taiwan,,,
-125.228.212.38,4,29,microsys.com.tw,TW,Asia,Eastern Asia,Taiwan,Tainan,,Tainan
+125.228.212.38,4,20,microsys.com.tw,TW,Asia,Eastern Asia,Taiwan,Tainan,,Tainan
 45.121.50.90,4,-13,mobileaction.com,TW,Asia,Eastern Asia,Taiwan,,,
 35.194.215.179,4,-1,mofang.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-163.22.17.50,4,-3,moztw.org,TW,Asia,Eastern Asia,Taiwan,,,
 103.144.33.167,4,-19,mqrfix.com,TW,Asia,Eastern Asia,Taiwan,,,
-113.196.137.217,4,9,navman.com,TW,Asia,Eastern Asia,Taiwan,,,
 104.199.165.123,4,0,neti.cc,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 104.199.204.72,4,-1,neticrm.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 113.196.55.130,4,6870,New Century InfoComm Tech Co. Ltd.,TW,Asia,Eastern Asia,Taiwan,Hualien County,,Hualien City
@@ -489,9 +500,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 59.124.223.222,4,-335622,nj192.com.tw,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,Xizhi District
 115.165.234.10,4,-10,norbelbaby.com.tw,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 59.120.253.7,4,-8,norbelbaby.com.tw,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
-210.70.253.15,4,394,npu.edu.tw,TW,Asia,Eastern Asia,Taiwan,,,
+210.70.253.15,4,13,npu.edu.tw,TW,Asia,Eastern Asia,Taiwan,,,
 35.221.132.18,4,3,ntccf.org,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-149.104.189.136,4,11,okdhhs.net,TW,Asia,Eastern Asia,Taiwan,,,
+149.104.189.136,4,-25,okdhhs.net,TW,Asia,Eastern Asia,Taiwan,,,
 118.163.22.250,4,18,okurataipei.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 60.199.147.33,4,24,Ookla Speedtest Server 5334: spttp1_tc.taiwanmobile.com,TW,Asia,Eastern Asia,Taiwan,,,
 106.105.105.66,4,17,Ookla Speedtest Server 7429: speedtest1.taipeinet.com.tw,TW,Asia,Eastern Asia,Taiwan,,,
@@ -545,7 +556,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 123.195.236.110,4,5,Ookla Speedtest Server: ntp-sptest.kbro.com.tw,TW,Asia,Eastern Asia,Taiwan,Taoyuan,,Taoyuan District
 211.77.43.1,4,14,Ookla Speedtest Server: spt1.seed.net.tw,TW,Asia,Eastern Asia,Taiwan,,,
 125.228.191.157,4,7,origtek.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-103.118.26.7,4,6,ownlines.com,TW,Asia,Eastern Asia,Taiwan,,,
+103.118.26.7,4,11,ownlines.com,TW,Asia,Eastern Asia,Taiwan,,,
 223.27.52.19,4,18,paper88.com.tw,TW,Asia,Eastern Asia,Taiwan,,,
 140.137.1.17,4,450685,pccu.edu.tw,TW,Asia,Eastern Asia,Taiwan,,,
 61.221.12.18,4,18,pdi.com.tw,TW,Asia,Eastern Asia,Taiwan,Tainan,,Nanqu
@@ -572,7 +583,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 61.221.155.233,4,56067514,sinlonn.com,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 211.20.50.36,4,20,soe-parrot.com,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Taichung
 34.80.106.104,4,8,spacecraft.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-149.104.188.154,4,9,spjxsb.cn,TW,Asia,Eastern Asia,Taiwan,,,
+149.104.188.154,4,-26,spjxsb.cn,TW,Asia,Eastern Asia,Taiwan,,,
 103.129.169.61,4,18,ssstc.com,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 125.227.94.21,4,30,ssv.com.tw,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Taichung
 43.254.19.58,4,11,steachs.com,TW,Asia,Eastern Asia,Taiwan,,,
@@ -580,15 +591,15 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 163.16.5.180,4,18,study-area.org,TW,Asia,Eastern Asia,Taiwan,Kaohsiung,,Kaohsiung
 210.61.130.19,4,23,sunnyhills.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 113.196.136.168,4,1428,sunplus.com,TW,Asia,Eastern Asia,Taiwan,,,
-35.221.158.12,4,6,superbowlcommercials.tv,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+35.221.158.12,4,-3,superbowlcommercials.tv,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 103.1.221.109,4,240,t-repair.com.tw,TW,Asia,Eastern Asia,Taiwan,,,
 60.249.45.225,4,27,t-s-c.org.tw,TW,Asia,Eastern Asia,Taiwan,Taichung City,,North
 101.101.101.101,4,-6,Taiwan Network Information Center 1,TW,Asia,Eastern Asia,Taiwan,,,
 101.102.103.104,4,-5,Taiwan Network Information Center 2,TW,Asia,Eastern Asia,Taiwan,,,
-35.185.142.145,4,5,taiwan-healthcare.org,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-114.34.39.114,4,24,taiwanschoolnet.org,TW,Asia,Eastern Asia,Taiwan,Taoyuan,,Pingzhen
+35.185.142.145,4,0,taiwan-healthcare.org,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+114.34.39.114,4,28,taiwanschoolnet.org,TW,Asia,Eastern Asia,Taiwan,Taoyuan,,Pingzhen
 104.199.225.102,4,17,taiwantimes.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-125.228.135.114,4,295,talk.tw,TW,Asia,Eastern Asia,Taiwan,Hsinchu City,,Hsinchu
+125.228.135.114,4,304,talk.tw,TW,Asia,Eastern Asia,Taiwan,Hsinchu City,,Hsinchu
 59.125.33.123,4,53,tattpe.org.tw,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Taichung
 35.229.254.224,4,368,tbc-diecast.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 61.66.121.235,4,39,tcbbank.com.tw,TW,Asia,Eastern Asia,Taiwan,,,
@@ -596,12 +607,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.153.177.11,4,34,tech-girlz.com,TW,Asia,Eastern Asia,Taiwan,,,
 60.248.81.189,4,-2340,terasic.com.tw,TW,Asia,Eastern Asia,Taiwan,Hsinchu County,,Zhubei
 59.124.185.55,4,14,theonestyle.com,TW,Asia,Eastern Asia,Taiwan,Hsinchu City,,Hsinchu
-59.124.185.58,4,11,theonestyle.com,TW,Asia,Eastern Asia,Taiwan,Hsinchu City,,Hsinchu
-149.104.178.51,4,4,tj-hl.com.cn,TW,Asia,Eastern Asia,Taiwan,,,
-211.21.23.49,4,146,tmst.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+59.124.185.58,4,8,theonestyle.com,TW,Asia,Eastern Asia,Taiwan,Hsinchu City,,Hsinchu
+149.104.178.51,4,-25,tj-hl.com.cn,TW,Asia,Eastern Asia,Taiwan,,,
+211.21.23.49,4,581,tmst.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 60.249.45.229,4,33,tou-ming.com,TW,Asia,Eastern Asia,Taiwan,Taichung City,,North
 103.144.33.75,4,38,tpof.org,TW,Asia,Eastern Asia,Taiwan,,,
-103.118.26.245,4,6,tpof.org,TW,Asia,Eastern Asia,Taiwan,,,
+103.118.26.245,4,-5,tpof.org,TW,Asia,Eastern Asia,Taiwan,,,
 59.125.33.57,4,1049,trolley-store.com.tw,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Taichung
 202.39.11.215,4,33,tshopping.com.tw,TW,Asia,Eastern Asia,Taiwan,Hsinchu City,,Hsinchu
 34.80.36.145,4,11,twmotel.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
@@ -613,7 +624,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 34.80.38.188,4,6,uukt.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 122.146.41.56,4,23,uuu.com.tw,TW,Asia,Eastern Asia,Taiwan,Keelung City,,Keelung
 203.99.146.68,4,28,valueup9.com,TW,Asia,Eastern Asia,Taiwan,,,
-104.199.204.141,4,8,vegas338.com.in,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+104.199.204.141,4,2,vegas338.com.in,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 34.80.170.74,4,11,vigattintourism.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 211.21.137.6,4,144,waibel.com.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Daan
 60.250.97.158,4,27,wanyuantemple.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
@@ -623,11 +634,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 61.220.206.139,4,913,wunan.com.tw,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 104.199.239.202,4,5,wuwuji.tw,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 35.194.254.221,4,5,xdg.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-35.229.163.10,4,3,xm-studios.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
+35.229.163.10,4,0,xm-studios.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 34.80.255.179,4,3,xn--950bs8ev3e04c98p79cca198u.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
 202.153.205.97,4,-559,xyzprinting.com,TW,Asia,Eastern Asia,Taiwan,,,
 103.129.176.146,4,3836,yachiyo.com.tw,TW,Asia,Eastern Asia,Taiwan,,,
 211.72.215.60,4,183,ysolife.com,TW,Asia,Eastern Asia,Taiwan,Taichung City,,Beitun
-103.129.178.67,4,3,yu-kuang.com.tw,TW,Asia,Eastern Asia,Taiwan,,,
+103.129.178.67,4,8,yu-kuang.com.tw,TW,Asia,Eastern Asia,Taiwan,,,
 35.236.168.25,4,1,zhupiter.com,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
-149.104.189.146,4,-20,zjyuesao.net,TW,Asia,Eastern Asia,Taiwan,,,

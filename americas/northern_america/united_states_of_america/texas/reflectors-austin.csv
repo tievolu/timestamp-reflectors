@@ -1,14 +1,14 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 136.49.170.217,4,9,asonix.dog,US,Americas,Northern America,United States of America,Texas,,Austin
-71.42.236.91,4,13,broadband-hamnet.org,US,Americas,Northern America,United States of America,Texas,,Austin
+71.42.236.91,4,4,broadband-hamnet.org,US,Americas,Northern America,United States of America,Texas,,Austin
 97.105.100.20,4,8,DNS Server: 097-105-100-020.biz.spectrum.com,US,Americas,Northern America,United States of America,Texas,,Austin
 66.68.41.121,4,2107,DNS Server: cpe-66-68-41-121.austin.res.rr.com,US,Americas,Northern America,United States of America,Texas,,Austin
 24.28.97.72,4,94205,DNS Server: mta-24-28-97-72.tx.rr.com,US,Americas,Northern America,United States of America,Texas,,Austin
-146.6.100.163,4,1171,earthdate.org,US,Americas,Northern America,United States of America,Texas,,Austin
-146.6.162.200,4,4,eskeletons.org,US,Americas,Northern America,United States of America,Texas,,Austin
-136.62.35.46,4,16,isthisthingon.org,US,Americas,Northern America,United States of America,Texas,,Austin
+146.6.100.163,4,9086,earthdate.org,US,Americas,Northern America,United States of America,Texas,,Austin
+146.6.162.200,4,-1,eskeletons.org,US,Americas,Northern America,United States of America,Texas,,Austin
+136.62.35.46,4,-1,isthisthingon.org,US,Americas,Northern America,United States of America,Texas,,Austin
 146.6.162.203,4,0,notevenpast.org,US,Americas,Northern America,United States of America,Texas,,Austin
-130.250.4.191,4,3,onlineagency.com,US,Americas,Northern America,United States of America,Texas,,Austin
+130.250.4.191,4,1,onlineagency.com,US,Americas,Northern America,United States of America,Texas,,Austin
 146.6.21.55,4,-4,Ookla Speedtest Server 16089: speedtest.network.utexas.edu,US,Americas,Northern America,United States of America,Texas,,Austin
 146.6.162.220,4,11,texasbeyondhistory.net,US,Americas,Northern America,United States of America,Texas,,Austin
 128.83.214.52,4,8,txarchives.org,US,Americas,Northern America,United States of America,Texas,,Austin

@@ -4,5 +4,5 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 82.77.63.193,4,12494,DNS Server: 82-77-63-193.static.rdsor.ro,RO,Europe,Eastern Europe,Romania,Bihor County,,Oradea
 86.125.39.49,4,3506,DNS Server: static-86-125-39-49.rdsnet.ro,RO,Europe,Eastern Europe,Romania,Bihor County,,Oradea
 185.207.125.100,4,-4,DoH server: dnscry.pt-oradea-ipv4,RO,Europe,Eastern Europe,Romania,Bihor County,,Oradea
-86.127.118.246,4,8,Ookla Speedtest Server: speedtest.rdsor.ro,RO,Europe,Eastern Europe,Romania,Bihor County,,Oradea
+86.127.118.246,4,-2,Ookla Speedtest Server: speedtest.rdsor.ro,RO,Europe,Eastern Europe,Romania,Bihor County,,Oradea
 82.77.63.44,4,14,univagora.ro,RO,Europe,Eastern Europe,Romania,Bihor County,,Oradea

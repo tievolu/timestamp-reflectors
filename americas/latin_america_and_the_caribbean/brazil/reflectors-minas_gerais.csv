@@ -12,11 +12,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 177.154.174.10,4,71067685,DNS Server: 177-154-174-10.gointec.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Rio Pomba
 177.184.176.34,4,32214,DNS Server: 177-184-176-34.netcartelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Carbonita
 177.184.176.5,4,-11,DNS Server: 177-184-176-5.netcartelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Carbonita
-177.22.121.130,4,3,DNS Server: 177-22-121-130.rev.netcorporativa.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Pouso Alegre
+177.22.121.130,4,11,DNS Server: 177-22-121-130.rev.netcorporativa.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Pouso Alegre
 177.23.107.190,4,-1,DNS Server: 177-23-107-190.proveminas.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Botumirim
 177.67.9.54,4,10972,DNS Server: 177-67-9-54.sempre.tec.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Brumadinho
 177.85.7.49,4,-2,DNS Server: 177-85-7-49-static.onnettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Patrocínio
-177.91.75.139,4,-569,DNS Server: 177-91-75-139.rev.netcorporativa.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Belo Horizonte
 177.206.84.130,4,3697,DNS Server: 177.206.84.130.static.gvt.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Contagem
 186.250.183.91,4,2519,DNS Server: 186-250-183-091.cangere.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Campos Gerais
 187.109.2.228,4,-17,DNS Server: 187-109-2-228.sempre.tec.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Belo Horizonte
@@ -56,8 +55,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 177.85.104.157,4,2,Ookla Speedtest Server 5253: sp1.mcinfor.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Turmalina
 177.85.7.178,4,-5,Ookla Speedtest Server 5687: speedtest.onnettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Patrocínio
 191.243.212.22,4,-6,Ookla Speedtest Server 5846: serv1.nossanettelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Naque
-138.0.137.218,4,2,Ookla Speedtest Server 6266: speed.digitalsattelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Araxá
 138.0.136.218,4,-1,Ookla Speedtest Server 6266: velocimetro.digitalsattelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Araxá
+138.0.137.218,4,2,Ookla Speedtest Server 6266: speed.digitalsattelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Araxá
 177.44.71.251,4,0,Ookla Speedtest Server 6568: vel-ija.soumaster.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Divinópolis
 191.240.1.22,4,-6,Ookla Speedtest Server 7070: vel-ptu.soumaster.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Belo Horizonte
 191.240.3.2,4,12,Ookla Speedtest Server 7164: vel-bhe.soumaster.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Belo Horizonte
@@ -119,7 +118,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 187.73.240.240,4,0,Ookla Speedtest Server 22874: speedtest.konnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Governador Valadares
 45.168.204.3,4,2,Ookla Speedtest Server 22976: speedtest.homefibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Monte Verde
 187.45.32.73,4,-1,Ookla Speedtest Server 23032: speedtest.eloinet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Elói Mendes
-186.235.64.203,4,946420,Ookla Speedtest Server 23593: velocidade.conectinfo.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Ipatinga
+186.235.64.203,4,2564004,Ookla Speedtest Server 23593: velocidade.conectinfo.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Ipatinga
 181.189.0.18,4,-5,Ookla Speedtest Server 23726: speedtest.masterlinktelecom.net,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,João Monlevade
 181.191.49.245,4,164479,Ookla Speedtest Server 23790: server.neticabo.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Itaobim
 177.10.39.41,4,2,Ookla Speedtest Server 24290: speedtest2.isnetmg.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,São João do Oriente
@@ -181,7 +180,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.176.77.226,4,-1,Ookla Speedtest Server 34399: teste.expertinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Buritizeiro
 177.66.208.58,4,-92156,Ookla Speedtest Server 34416: velocidade.rnova.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Ribeirão das Neves
 200.50.222.19,4,1,Ookla Speedtest Server 34681: velocidade.cescomputadores.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Morada Nova de Minas
-177.124.20.2,4,327,Ookla Speedtest Server 35181: speedtest.r2net.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Cristina
+177.124.20.2,4,13,Ookla Speedtest Server 35181: speedtest.r2net.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Cristina
 45.5.252.14,4,1,Ookla Speedtest Server 35405: speed.teleart.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Itabirinha
 177.185.240.28,4,-21,Ookla Speedtest Server 35511: velocidade-iat.goxinternet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Itaúna
 45.171.176.11,4,7,Ookla Speedtest Server 35814: speedtest.planextelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Contagem
@@ -320,7 +319,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 170.150.51.29,4,-10,Ookla Speedtest Server 55884: fiberpaineirasnet.rbsti.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Paineiras
 38.196.218.194,4,12212,Ookla Speedtest Server 55897: f5net.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Caparaó
 138.186.49.138,4,44349,Ookla Speedtest Server 55905: speedtest.rscambui.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Cambuí
-160.238.228.8,4,312,Ookla Speedtest Server 56231: velocimetro-brs.lvnetwork.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Igarapé
+160.238.228.8,4,107986,Ookla Speedtest Server 56231: velocimetro-brs.lvnetwork.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Igarapé
 177.190.159.6,4,0,Ookla Speedtest Server 56253: speedtest.alkatelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Passos
 170.231.41.45,4,16,Ookla Speedtest Server 56260: globalfibra.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Belo Horizonte
 187.102.48.54,4,-11,Ookla Speedtest Server 56955: fiberaxnet.axnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Machado
@@ -335,7 +334,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 179.49.139.19,4,-11,Ookla Speedtest Server 57630: speedtest.conect-ti.com,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Frutal
 131.196.140.65,4,-3,Ookla Speedtest Server 57637: test.dnsventurafibra.com,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Betim
 45.237.32.4,4,28,Ookla Speedtest Server 57860: ibnetfiber.rbsti.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Itinga
-200.187.104.62,4,291,Ookla Speedtest Server 57865: speedtest.rjkonect.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Frutal
+200.187.104.62,4,9,Ookla Speedtest Server 57865: speedtest.rjkonect.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Frutal
 45.167.44.37,4,9,Ookla Speedtest Server 58061: velocimetro.suprinetfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Capelinha
 170.245.127.3,4,2,Ookla Speedtest Server 58362: speed.infornetmg.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Coronel Fabriciano
 187.94.4.30,4,9,Ookla Speedtest Server 58380: velocidade.bhnettelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Contagem
@@ -488,9 +487,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 177.73.168.135,4,-145,Ookla Speedtest Server 74359: clicknetmoc.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
 177.54.33.18,4,34,Ookla Speedtest Server 74360: ookla.novanetudi.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Araguari
 200.24.91.21,4,29,Ookla Speedtest Server 74401: speedtest.mgx.udi.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Uberlândia
-45.229.153.243,4,-3667,Ookla Speedtest Server: ibnetfiber.rbsti.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Virgem da Lapa
-186.232.94.18,4,52,Ookla Speedtest Server: speedtest.volkerfibra.com,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Belo Horizonte
-192.145.204.253,4,67392,Ookla Speedtest Server: teste.vibconexao.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Guaraciama
+186.232.94.18,4,8,Ookla Speedtest Server: speedtest.volkerfibra.com,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Belo Horizonte
+192.145.204.253,4,148935,Ookla Speedtest Server: teste.vibconexao.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Guaraciama
 177.130.128.1,4,50248,Ookla Speedtest Server: velocimetro-poc.mastercabo.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Lavras
 189.50.144.15,4,10184067,Ookla Speedtest Server: www.paintweb.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,São Lourenço
 187.32.229.76,4,4,sampi.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Belo Horizonte
@@ -498,6 +496,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 150.164.250.1,4,23,ufmg.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Belo Horizonte
 200.131.62.17,4,9,uftm.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Uberaba
 200.131.252.174,4,13,ufvjm.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
-200.131.252.165,4,1320,ufvjm.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
+200.131.252.165,4,1,ufvjm.edu.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Montes Claros
 45.182.148.28,4,5,univale.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Governador Valadares
-177.69.11.237,4,23,wk.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Passos
+177.69.11.237,4,-12,wk.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Passos

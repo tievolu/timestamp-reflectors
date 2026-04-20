@@ -21,17 +21,15 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 41.72.216.234,4,46256,DNS Server: 41.72.216.234.liquidtelecom.net,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
 154.159.248.54,4,38203,DNS Server: 54-248-159-154.r.airtelkenya.com,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
 196.200.29.50,4,9773,DNS Server: mail.pelicansigns.biz,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
-41.89.1.225,4,-1,egerton.ac.ke,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
 102.212.246.115,4,771,emofoundation.ng,KE,Africa,Sub-Saharan Africa,Kenya,,,
 102.212.246.122,4,1731,eretail.com.ng,KE,Africa,Sub-Saharan Africa,Kenya,,,
-156.232.88.6,4,6,essayhelper.us,KE,Africa,Sub-Saharan Africa,Kenya,,,
+156.232.88.6,4,830,essayhelper.us,KE,Africa,Sub-Saharan Africa,Kenya,,,
 196.223.164.242,4,15,gallant-technologies.com,KE,Africa,Sub-Saharan Africa,Kenya,,,
 41.204.161.167,4,32550,jooust.ac.ke,KE,Africa,Sub-Saharan Africa,Kenya,,,
 197.136.17.40,4,2660877,kabarak.ac.ke,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
 197.136.17.38,4,-5,kabianga.ac.ke,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
 102.212.247.147,4,-22116,kaoli.com.ng,KE,Africa,Sub-Saharan Africa,Kenya,,,
 197.136.12.32,4,3397,karu.ac.ke,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
-197.136.17.51,4,-4,kemu.ac.ke,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
 41.80.37.32,4,-17,kenha.co.ke,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
 102.212.247.139,4,-40,kenyaobituaries.com,KE,Africa,Sub-Saharan Africa,Kenya,,,
 102.216.119.92,4,14,kenyaweb.com,KE,Africa,Sub-Saharan Africa,Kenya,,,
@@ -42,7 +40,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 156.232.88.2,4,77742,kwintech.co.ke,KE,Africa,Sub-Saharan Africa,Kenya,,,
 156.232.88.10,4,4,microscan.co.ke,KE,Africa,Sub-Saharan Africa,Kenya,,,
 197.136.12.83,4,-21,mu.ac.ke,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
-197.136.17.21,4,2740,must.ac.ke,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
+197.136.17.21,4,55300,must.ac.ke,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
 102.212.246.90,4,-233,mustafaesen.com,KE,Africa,Sub-Saharan Africa,Kenya,,,
 41.223.57.249,4,-15,Ookla Speedtest Server 8402: speedtest.ke.airtel.com,KE,Africa,Sub-Saharan Africa,Kenya,,,
 102.209.18.243,4,14,Ookla Speedtest Server 9072: speed.veenet.africa,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
@@ -73,13 +71,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 102.205.188.6,4,20,Ookla Speedtest Server 73747: speedtest.lavatecnetworks.com,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
 102.205.219.69,4,-7,Ookla Speedtest Server 73749: speedtest.gln.co.ke,KE,Africa,Sub-Saharan Africa,Kenya,,,
 102.209.90.250,4,-8,Ookla Speedtest Server 74428: speedtest.ltc.co.ke,KE,Africa,Sub-Saharan Africa,Kenya,,,
-41.80.37.28,4,3,optimumtmc.com,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
+41.80.37.28,4,-14,optimumtmc.com,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
 102.212.247.91,4,5304,parklandsmosque.co.ke,KE,Africa,Sub-Saharan Africa,Kenya,,,
 105.27.237.134,4,6,posta.co.ke,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
-41.89.129.38,4,16,pu.ac.ke,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
+41.89.129.38,4,13,pu.ac.ke,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
 102.212.246.83,4,1469,sa-youth.org.za,KE,Africa,Sub-Saharan Africa,Kenya,,,
 62.12.117.31,4,-9,sameer-group.com,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
-105.16.115.20,4,12,seacom.mu,KE,Africa,Sub-Saharan Africa,Kenya,Mombasa County,,Mombasa
+105.16.115.20,4,-1,seacom.mu,KE,Africa,Sub-Saharan Africa,Kenya,Mombasa County,,Mombasa
 102.212.247.187,4,90,sovrenwear.com,KE,Africa,Sub-Saharan Africa,Kenya,,,
 102.212.246.67,4,-705,striketips.com,KE,Africa,Sub-Saharan Africa,Kenya,,,
 102.212.246.99,4,-1109,tedwatsexpeditionsafrica.com,KE,Africa,Sub-Saharan Africa,Kenya,,,
@@ -92,6 +90,6 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 197.136.17.32,4,-8,uoeld.ac.ke,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
 41.204.161.206,4,868,uonbi.ac.ke,KE,Africa,Sub-Saharan Africa,Kenya,,,
 197.136.12.70,4,307,usiu.ac.ke,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
-41.204.167.84,4,2485049,usiu.ac.ke,KE,Africa,Sub-Saharan Africa,Kenya,,,
+41.204.167.84,4,444865,usiu.ac.ke,KE,Africa,Sub-Saharan Africa,Kenya,,,
 41.80.37.34,4,-8,wikiintel.com,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
 197.136.17.14,4,50484,zetech.ac.ke,KE,Africa,Sub-Saharan Africa,Kenya,Nairobi County,,Nairobi
