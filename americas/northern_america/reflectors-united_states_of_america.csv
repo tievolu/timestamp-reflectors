@@ -8404,14 +8404,14 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 5.161.194.22,4,-6,DoH server: adguard.ihatemy.live,US,Americas,Northern America,United States of America,Virginia,,Ashburn
 50.116.59.251,4,-1,DoH server: adguard.shoupperuser.com,US,Americas,Northern America,United States of America,New Jersey,,Cedar Knolls
 108.61.82.9,4,-4,DoH server: adguard1.jsanagustin.net,US,Americas,Northern America,United States of America,New Jersey,,Piscataway
-185.228.168.10,4,-2,DoH server: adult-filter-dns.cleanbrowsing.org, doh.cleanbrowsing.org,US,Americas,Northern America,United States of America,,,
+185.228.168.10,4,-2,DoH server: adult-filter-dns.cleanbrowsing.org doh.cleanbrowsing.org,US,Americas,Northern America,United States of America,,,
 194.242.2.9,4,-4,DoH server: all.dns.mullvad.net,US,Americas,Northern America,United States of America,California,,Los Angeles
-45.90.28.0,4,-1,DoH server: anycast.dns.nextdns.io, dns.nextdns.io,US,Americas,Northern America,United States of America,,,
+45.90.28.0,4,-1,DoH server: anycast.dns.nextdns.io dns.nextdns.io,US,Americas,Northern America,United States of America,,,
 170.249.237.154,4,-2,DoH server: atl01.dnscry.pt,US,Americas,Northern America,United States of America,,,
 194.242.2.4,4,-4,DoH server: base.dns.mullvad.net,US,Americas,Northern America,United States of America,California,,Los Angeles
 169.48.27.179,4,1022325,DoH server: ca02.dns4me.net,US,Americas,Northern America,United States of America,,,
-213.227.173.235,4,-13,DoH server: chromium.dns.nextdns.io, dns.nextdns.io, dns1.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io,US,Americas,Northern America,United States of America,Virginia,,Manassas
-170.39.224.134,4,-6,DoH server: chromium.dns.nextdns.io, dns.nextdns.io, dns2.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io,US,Americas,Northern America,United States of America,Virginia,,Ashburn
+213.227.173.235,4,-13,DoH server: chromium.dns.nextdns.io dns.nextdns.io dns1.nextdns.io firefox.dns.nextdns.io steering.nextdns.io,US,Americas,Northern America,United States of America,Virginia,,Manassas
+170.39.224.134,4,-6,DoH server: chromium.dns.nextdns.io dns.nextdns.io dns2.nextdns.io firefox.dns.nextdns.io steering.nextdns.io,US,Americas,Northern America,United States of America,Virginia,,Ashburn
 185.228.168.168,4,-2,DoH server: cleanbrowsing-family,US,Americas,Northern America,United States of America,,,
 185.228.168.9,4,-2,DoH server: cleanbrowsing-security,US,Americas,Northern America,United States of America,,,
 8.20.247.2,4,-9,DoH server: comodo-02,US,Americas,Northern America,United States of America,,,
@@ -8437,7 +8437,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 159.65.244.135,4,-3,DoH server: dns.moog.sh,US,Americas,Northern America,United States of America,New Jersey,,Clifton
 5.161.43.197,4,1,DoH server: dns.nextdns.io,US,Americas,Northern America,United States of America,Virginia,,Ashburn
 45.79.33.43,4,91335,DoH server: dns.phillipjberry.net,US,Americas,Northern America,United States of America,Texas,,Richardson
-70.253.80.157,4,-4,DoH server: dns.sarak.as, dns.sarakas.net,US,Americas,Northern America,United States of America,Missouri,,City of Saint Peters
+70.253.80.157,4,-4,DoH server: dns.sarak.as dns.sarakas.net,US,Americas,Northern America,United States of America,Missouri,,City of Saint Peters
 104.156.231.119,4,-1,DoH server: dns.suhaila.dev,US,Americas,Northern America,United States of America,California,,Santa Clara
 9.9.9.12,4,-1,DoH server: dns12.quad9.net,US,Americas,Northern America,United States of America,,,
 9.9.9.13,4,-2,DoH server: dns13.quad9.net,US,Americas,Northern America,United States of America,,,
@@ -8474,7 +8474,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 63.133.223.138,4,4,DoH server: dnscry.pt-taos-ipv4,US,Americas,Northern America,United States of America,New Mexico,,Taos
 71.135.4.118,4,20649,DoH server: doh.aaaab3n.moe,US,Americas,Northern America,United States of America,North Carolina,,Garner
 104.128.62.173,4,-2,DoH server: doh.dns.sb,US,Americas,Northern America,United States of America,Illinois,,Chicago
-45.67.219.208,4,-4,DoH server: doh.la.ahadns.net, dot.la.ahadns.net,US,Americas,Northern America,United States of America,California,,Los Angeles
+45.67.219.208,4,-4,DoH server: doh.la.ahadns.net dot.la.ahadns.net,US,Americas,Northern America,United States of America,California,,Los Angeles
 194.242.2.5,4,30,DoH server: extended.dns.mullvad.net,US,Americas,Northern America,United States of America,California,,Los Angeles
 194.242.2.6,4,-3,DoH server: family.dns.mullvad.net,US,Americas,Northern America,United States of America,California,,Los Angeles
 103.94.185.123,4,-3,DoH server: hostdare.qtxd.net,US,Americas,Northern America,United States of America,California,,Los Angeles
@@ -22219,8 +22219,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 216.228.32.255,4,5,Ookla Speedtest Server 17120: speedtest.midrivers.com,US,Americas,Northern America,United States of America,Montana,,Sidney
 64.202.47.141,4,5,Ookla Speedtest Server 17165: nmpts-mox.bektel.com,US,Americas,Northern America,United States of America,North Dakota,,Mandan
 204.13.40.62,4,4791,Ookla Speedtest Server 17193: rubidium.burlingtontelecom.net,US,Americas,Northern America,United States of America,Vermont,,Burlington
-209.195.128.11,4,-2,Ookla Speedtest Server 17243: speedtest.pa.mycci.net,US,Americas,Northern America,United States of America,Pennsylvania,,Renfrew
 206.193.232.255,4,6553,Ookla Speedtest Server 17243: speedtest2.pa.mycci.net,US,Americas,Northern America,United States of America,Pennsylvania,,Pittsburgh
+209.195.128.11,4,-2,Ookla Speedtest Server 17243: speedtest.pa.mycci.net,US,Americas,Northern America,United States of America,Pennsylvania,,Renfrew
 66.220.80.50,4,-5,Ookla Speedtest Server 17314: ospeedtest.futiva.biz,US,Americas,Northern America,United States of America,Illinois,,Marion
 207.177.9.250,4,2,Ookla Speedtest Server 17317: speedtest.westianet.com,US,Americas,Northern America,United States of America,Iowa,,Carroll
 63.224.243.207,4,0,Ookla Speedtest Server 17358: eugene.speedtest.centurylink.net,US,Americas,Northern America,United States of America,Oregon,,Portland

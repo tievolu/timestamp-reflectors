@@ -350,7 +350,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.179.44.73,4,-3,DoH server: dnscry.pt-singapore02-ipv4,SG,Asia,South-eastern Asia,Singapore,,,Singapore
 146.190.89.252,4,1,DoH server: doh.futa.app,SG,Asia,South-eastern Asia,Singapore,,,Singapore
 174.138.21.128,4,2,DoH server: doh.tiar.app,SG,Asia,South-eastern Asia,Singapore,,,Singapore
-174.138.29.175,4,41,DoH server: doh.tiar.app, dot.tiar.app,SG,Asia,South-eastern Asia,Singapore,,,Singapore
+174.138.29.175,4,41,DoH server: doh.tiar.app dot.tiar.app,SG,Asia,South-eastern Asia,Singapore,,,Singapore
 185.250.38.138,4,3,DoH server: kilabit.info,SG,Asia,South-eastern Asia,Singapore,,,Singapore
 92.118.188.53,4,-3,DoH server: sg-sin.doh.sb,SG,Asia,South-eastern Asia,Singapore,,,Singapore
 64.120.95.36,4,-19,DoH server: sg-w-f-1.nashkan.net,SG,Asia,South-eastern Asia,Singapore,,,Singapore

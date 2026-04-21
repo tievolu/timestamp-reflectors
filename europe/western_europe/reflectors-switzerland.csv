@@ -384,11 +384,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.186.4.192,4,-4,DNS Server: vip-1.zhh-psp.bluewin.ch,CH,Europe,Western Europe,Switzerland,,,
 195.15.223.184,4,20,doctors4covidethics.org,CH,Europe,Western Europe,Switzerland,,,
 80.74.153.5,4,-6,doebe.li,CH,Europe,Western Europe,Switzerland,,,
-185.95.218.42,4,-1,DoH server: dns.digitale-gesellschaft.ch, dns1.digitale-gesellschaft.ch,CH,Europe,Western Europe,Switzerland,,,
-185.95.218.43,4,-1,DoH server: dns.digitale-gesellschaft.ch, dns2.digitale-gesellschaft.ch,CH,Europe,Western Europe,Switzerland,,,
+185.95.218.42,4,-1,DoH server: dns.digitale-gesellschaft.ch dns1.digitale-gesellschaft.ch,CH,Europe,Western Europe,Switzerland,,,
+185.95.218.43,4,-1,DoH server: dns.digitale-gesellschaft.ch dns2.digitale-gesellschaft.ch,CH,Europe,Western Europe,Switzerland,,,
 185.195.69.126,4,-2,DoH server: dns.l337.site,CH,Europe,Western Europe,Switzerland,Zug,,Hünenberg
 45.90.59.193,4,-4,DoH server: dnscry.pt-geneva-ipv4,CH,Europe,Western Europe,Switzerland,Geneva,,Geneva
-212.60.61.246,4,0,DoH server: doh.quickline.ch, dot.quickline.ch,CH,Europe,Western Europe,Switzerland,Solothurn,,Wolfwil
+212.60.61.246,4,0,DoH server: doh.quickline.ch dot.quickline.ch,CH,Europe,Western Europe,Switzerland,Solothurn,,Wolfwil
 213.196.191.96,4,5,DoH server: ibksturm.synology.me,CH,Europe,Western Europe,Switzerland,Saint Gallen,,Wil
 80.254.79.157,4,-3,DoH server: zrh1-ns01.monzoon.net,CH,Europe,Western Europe,Switzerland,Zurich,,Zweidlen-Dorf
 83.166.130.243,4,-4,dokeos.com,CH,Europe,Western Europe,Switzerland,,,

@@ -219,7 +219,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 89.187.160.91,4,-6,DNS Server: unn-89-187-160-91.cdn77.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Tokyo
 5.104.83.43,4,-7,DNS Server: vmi1386712.contaboserver.net,JP,Asia,Eastern Asia,Japan,Tokyo,,Tokyo
 113.149.245.210,4,2,DNS Server: zz20204028967195F5D2.userreverse.dion.ne.jp,JP,Asia,Eastern Asia,Japan,Tokyo,,Adachi
-150.107.200.31,4,-3,DoH server: aqua.is.my.waifu.cz, darkness.is.my.waifu.cz, megumin.is.my.waifu.cz, yunyun.is.my.waifu.cz,JP,Asia,Eastern Asia,Japan,Tokyo,,Tokyo
+150.107.200.31,4,-3,DoH server: aqua.is.my.waifu.cz darkness.is.my.waifu.cz megumin.is.my.waifu.cz yunyun.is.my.waifu.cz,JP,Asia,Eastern Asia,Japan,Tokyo,,Tokyo
 45.77.31.67,4,-8,DoH server: at.pzhg.me,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 146.70.31.43,4,0,DoH server: cs-tokyo,JP,Asia,Eastern Asia,Japan,Tokyo,,Tokyo
 167.179.78.123,4,-1,DoH server: dns.fullaccesstointernet.jp.eu.org,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa

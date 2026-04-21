@@ -1090,8 +1090,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 51.89.26.38,4,-1,DoH server: adguard.oms-ctr.ru,GB,Europe,Northern Europe,United Kingdom,England,,London
 5.11.11.5,4,-4,DoH server: africadns1.liquidtelecom.net,GB,Europe,Northern Europe,United Kingdom,,,
 5.11.11.11,4,-4,DoH server: africadns2.liquidtelecom.net,GB,Europe,Northern Europe,United Kingdom,,,
-217.154.52.156,4,-3,DoH server: ahoj.email, princez.uk,GB,Europe,Northern Europe,United Kingdom,,,
-87.106.103.65,4,-4,DoH server: ahoj.email, princez.uk, zakaria.website,GB,Europe,Northern Europe,United Kingdom,England,City of Westminster,City of Westminster
+217.154.52.156,4,-3,DoH server: ahoj.email princez.uk,GB,Europe,Northern Europe,United Kingdom,,,
+87.106.103.65,4,-4,DoH server: ahoj.email princez.uk zakaria.website,GB,Europe,Northern Europe,United Kingdom,England,City of Westminster,City of Westminster
 37.252.230.153,4,-2,DoH server: chromium.dns.nextdns.io,GB,Europe,Northern Europe,United Kingdom,England,City of London,City of London
 78.129.248.67,4,-2,DoH server: cs-london,GB,Europe,Northern Europe,United Kingdom,,,
 45.155.37.165,4,-4,DoH server: cvt01.dnscry.pt,GB,Europe,Northern Europe,United Kingdom,England,Coventry,Coventry

@@ -3742,8 +3742,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 212.200.230.251,4,-2,Ookla Speedtest Server 20191: speedtest2.mts.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 46.253.47.208,4,-2,Ookla Speedtest Server 20416: speedtest.anxanet.com,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,Vilanova i la Geltrú
 185.86.11.34,4,8,Ookla Speedtest Server 20672: msibitnap.apfutura.net,ES,Europe,Southern Europe,Spain,Catalonia,Barcelona,L'Hospitalet de Llobregat
-46.37.230.51,4,-1719,Ookla Speedtest Server 20680: speedtest.iptelecom.it,IT,Europe,Southern Europe,Italy,,,
 46.37.230.50,4,7,Ookla Speedtest Server 20680: ookla.iptelecom.it,IT,Europe,Southern Europe,Italy,,,
+46.37.230.51,4,-1719,Ookla Speedtest Server 20680: speedtest.iptelecom.it,IT,Europe,Southern Europe,Italy,,,
 37.200.80.18,4,-1,Ookla Speedtest Server 20809: speedtest.freecomsrl.com,IT,Europe,Southern Europe,Italy,Sicily,Province of Ragusa,Comiso
 185.26.64.36,4,7,Ookla Speedtest Server 20937: speedtest-1.apvinvestimenti.it,IT,Europe,Southern Europe,Italy,,,
 5.61.220.239,4,8,Ookla Speedtest Server 21160: test.netoip.com,IT,Europe,Southern Europe,Italy,The Marches,Province of Macerata,Recanati
@@ -3832,8 +3832,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.23.36.55,4,-18,Ookla Speedtest Server 34330: speedtest01.tedra.es,ES,Europe,Southern Europe,Spain,Madrid,Madrid,Velilla de San Antonio
 185.208.23.255,4,-2,Ookla Speedtest Server 34507: speedtestlm.emartinez.es,ES,Europe,Southern Europe,Spain,Murcia,Murcia,Cartagena
 93.63.138.6,4,-38,Ookla Speedtest Server 34822: speedtest2.ermeslink.com,IT,Europe,Southern Europe,Italy,,,
-95.176.233.25,4,-5,Ookla Speedtest Server 35092: speedtest-mb.telekom.si,SI,Europe,Southern Europe,Slovenia,Municipality of Medvode,,Medvode
 95.176.233.28,4,-5,Ookla Speedtest Server 35092: speedtest-mb2.telekom.si,SI,Europe,Southern Europe,Slovenia,Municipality of Medvode,,Medvode
+95.176.233.25,4,-5,Ookla Speedtest Server 35092: speedtest-mb.telekom.si,SI,Europe,Southern Europe,Slovenia,Municipality of Medvode,,Medvode
 185.65.67.27,4,-2,Ookla Speedtest Server 35209: sp1.wifibaleares.com,ES,Europe,Southern Europe,Spain,Balearic Islands,Balearic Islands,Cala Millor
 45.84.208.131,4,-3,Ookla Speedtest Server 35211: speedtest.datos101.com,ES,Europe,Southern Europe,Spain,,,
 185.249.208.28,4,-4,Ookla Speedtest Server 35379: speed.telecablecartaya.es,ES,Europe,Southern Europe,Spain,,,
@@ -3876,8 +3876,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 185.219.120.7,4,7,Ookla Speedtest Server 41587: speedtest.fibra-amg.com,ES,Europe,Southern Europe,Spain,Andalusia,Granada,Granada
 109.233.191.194,4,20,Ookla Speedtest Server 41771: speedtest.nextfiber.rs,RS,Europe,Southern Europe,Serbia,Belgrade,,Belgrade
 185.30.147.108,4,15,Ookla Speedtest Server 41794: speedtest.maxcom.al,AL,Europe,Southern Europe,Albania,Tirana,,Tirana
-89.143.248.252,4,-7,Ookla Speedtest Server 41998: speedtest-lj.telekom.si,SI,Europe,Southern Europe,Slovenia,Municipality of Ravne na Koroškem,,Ravne na Koroškem
 89.143.198.181,4,-110438,Ookla Speedtest Server 41998: speedtest-lj2.telekom.si,SI,Europe,Southern Europe,Slovenia,Municipality of Izola,,Izola
+89.143.248.252,4,-7,Ookla Speedtest Server 41998: speedtest-lj.telekom.si,SI,Europe,Southern Europe,Slovenia,Municipality of Ravne na Koroškem,,Ravne na Koroškem
 185.239.228.14,4,-7,Ookla Speedtest Server 42137: speedtest1.movitel.tv,ES,Europe,Southern Europe,Spain,Valencia,Alicante,Castalla
 194.150.77.249,4,3,Ookla Speedtest Server 42213: speedtestlamezia.ktsolutions.it,IT,Europe,Southern Europe,Italy,Lombardy,Province of Milan,Milan
 91.227.109.99,4,-5,Ookla Speedtest Server 42512: speedtest.antennadsl.com,IT,Europe,Southern Europe,Italy,Lazio,Province of Viterbo,Viterbo

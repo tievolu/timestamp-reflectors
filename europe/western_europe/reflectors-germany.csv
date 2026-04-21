@@ -3828,7 +3828,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 141.144.233.11,4,-3,DoH server: dns.pierzchlewicz.pl,DE,Europe,Western Europe,Germany,Hesse,,Frankfurt am Main
 185.245.97.150,4,-3,DoH server: dns.rbn.gr,DE,Europe,Western Europe,Germany,Hesse,,Frankfurt am Main
 116.203.72.235,4,-4,DoH server: dns.rin.sh,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
-45.11.45.11,4,-4,DoH server: dns.sb, doh.sb, public-dns-b.dns.sb,DE,Europe,Western Europe,Germany,,,
+45.11.45.11,4,-4,DoH server: dns.sb doh.sb public-dns-b.dns.sb,DE,Europe,Western Europe,Germany,,,
 176.9.25.158,4,-3,DoH server: dns.svoi.dev,DE,Europe,Western Europe,Germany,Saxony,,Falkenstein
 185.132.53.173,4,-3,DoH server: dns.sy.st,DE,Europe,Western Europe,Germany,,,
 167.235.31.95,4,-2,DoH server: dns.technologycage.com,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
@@ -3859,10 +3859,10 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 188.68.50.215,4,-5,DoH server: dukun.de,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
 49.12.222.213,4,-4,DoH server: hard.dnsforge.de,DE,Europe,Western Europe,Germany,Saxony,,Falkenstein
 142.132.188.241,4,-3,DoH server: hole.elbschloss.xyz,DE,Europe,Western Europe,Germany,Saxony,,Falkenstein
-152.53.15.127,4,-3,DoH server: jabber-germany.de, www.jabber-germany.de,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
+152.53.15.127,4,-3,DoH server: jabber-germany.de www.jabber-germany.de,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
 159.69.123.239,4,-4,DoH server: mail.data.haus,DE,Europe,Western Europe,Germany,Saxony,,Falkenstein
 130.61.121.181,4,-4,DoH server: mainframe.dewed.de,DE,Europe,Western Europe,Germany,Hesse,,Frankfurt am Main
-152.53.119.76,4,-1,DoH server: masters-of-cloud.de, www.masters-of-cloud.de,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
+152.53.119.76,4,-1,DoH server: masters-of-cloud.de www.masters-of-cloud.de,DE,Europe,Western Europe,Germany,Bavaria,,Nuremberg
 5.75.228.192,4,5197,DoH server: ns.data.haus,DE,Europe,Western Europe,Germany,Saxony,,Falkenstein
 213.202.211.221,4,-3,DoH server: ns2.opennameserver.org,DE,Europe,Western Europe,Germany,North Rhine-Westphalia,,Düsseldorf
 81.169.136.222,4,-5,DoH server: ns3.opennameserver.org,DE,Europe,Western Europe,Germany,,,

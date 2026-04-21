@@ -1392,7 +1392,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 106.55.44.79,4,10,DoH server: dns.b612.me,CN,Asia,Eastern Asia,China,Guangdong,,Guangzhou
 58.87.96.15,4,29,DoH server: dns.beardic.cn,CN,Asia,Eastern Asia,China,Beijing,,Beijing
 60.205.247.82,4,-7,DoH server: dns.imaicool.com,CN,Asia,Eastern Asia,China,Beijing,,Beijing
-1.12.12.12,4,-5,DoH server: dns.pub, doh.pub, dot.pub,CN,Asia,Eastern Asia,China,Guangdong,,Guangzhou
+1.12.12.12,4,-5,DoH server: dns.pub doh.pub dot.pub,CN,Asia,Eastern Asia,China,Guangdong,,Guangzhou
 101.6.6.6,4,-58,DoH server: dns.tuna.tsinghua.edu.cn,CN,Asia,Eastern Asia,China,Beijing,,Beijing
 49.235.74.116,4,27,DoH server: dns.zzuhacker.cn,CN,Asia,Eastern Asia,China,Shanghai,,Shanghai
 218.75.4.130,4,34,DoH server: hshh.org,CN,Asia,Eastern Asia,China,,,

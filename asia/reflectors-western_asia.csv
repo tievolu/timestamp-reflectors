@@ -494,9 +494,9 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 95.174.68.73,4,-34,DoH server: ae-fuj-w-p-3.nashkan.net,AE,Asia,Western Asia,United Arab Emirates,Emirate of Fujairah,,Fujairah
 195.244.44.44,4,-1,DoH server: cubedns.com,TR,Asia,Western Asia,Turkey,İzmir Province,,Izmir
 94.140.14.49,4,-3,DoH server: d.adguard-dns.com,CY,Asia,Western Asia,Cyprus,,,
-94.140.15.16,4,-4,DoH server: dns-family.adguard.com, family.adguard-dns.com,CY,Asia,Western Asia,Cyprus,,,
-94.140.14.141,4,-6,DoH server: dns-unfiltered.adguard.com, unfiltered.adguard-dns.com,CY,Asia,Western Asia,Cyprus,,,
-94.140.15.15,4,-6,DoH server: dns.adguard-dns.com, dns.adguard.com,CY,Asia,Western Asia,Cyprus,,,
+94.140.15.16,4,-4,DoH server: dns-family.adguard.com family.adguard-dns.com,CY,Asia,Western Asia,Cyprus,,,
+94.140.14.141,4,-6,DoH server: dns-unfiltered.adguard.com unfiltered.adguard-dns.com,CY,Asia,Western Asia,Cyprus,,,
+94.140.15.15,4,-6,DoH server: dns.adguard-dns.com dns.adguard.com,CY,Asia,Western Asia,Cyprus,,,
 83.229.70.182,4,-6,DoH server: dns.yatima.tv,IL,Asia,Western Asia,Israel,Tel Aviv,,Tel Aviv
 180.149.44.22,4,-4,DoH server: dnscry.pt-baku-ipv4,AZ,Asia,Western Asia,Azerbaijan,Baku City,,Baku
 89.36.162.76,4,-6,DoH server: dnscry.pt-fujairah-ipv4,AE,Asia,Western Asia,United Arab Emirates,Emirate of Fujairah,,Fujairah
@@ -505,7 +505,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 5.188.227.13,4,2,DoH server: dnscry.pt-telaviv-ipv4,IL,Asia,Western Asia,Israel,Tel Aviv,,
 85.90.207.199,4,0,DoH server: dnscry.pt-yerevan-ipv4,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
 147.78.0.8,4,-42,DoH server: dotdns.cryptroute.com,AE,Asia,Western Asia,United Arab Emirates,Umm al Qaywayn,,Muhadhdhib
-83.110.6.192,4,-3426735709,DoH server: inpssh.online, www.inpssh.online,AE,Asia,Western Asia,United Arab Emirates,Abu Dhabi,,Al Ain City
+83.110.6.192,4,-3426735709,DoH server: inpssh.online www.inpssh.online,AE,Asia,Western Asia,United Arab Emirates,Abu Dhabi,,Al Ain City
 77.245.150.130,4,4091,dokuteknoloji.com,TR,Asia,Western Asia,Turkey,,,
 31.40.206.29,4,-24,dorukmak.com.tr,TR,Asia,Western Asia,Turkey,Istanbul,,Istanbul
 46.45.130.50,4,-12,dovizborsa.com,TR,Asia,Western Asia,Turkey,,,
@@ -1393,8 +1393,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 176.240.234.22,4,-3,Ookla Speedtest Server 69160: st-tekirdagcorlu-1.turksatkablo.com.tr,TR,Asia,Western Asia,Turkey,Tekirdağ,,Çorlu
 46.196.142.22,4,-4,Ookla Speedtest Server 69187: st-balikesirbandirma-1.turksatkablo.com.tr,TR,Asia,Western Asia,Turkey,Balıkesir,,Panderma
 188.41.245.28,4,2,Ookla Speedtest Server 69378: esn1speedtest.turktelekom.com.tr,TR,Asia,Western Asia,Turkey,,,
-149.86.137.204,4,-10,Ookla Speedtest Server 69494: jrjisa.babeltik.com,TR,Asia,Western Asia,Turkey,Konya,,Selçuklu
 131.222.253.90,4,1143,Ookla Speedtest Server 69494: babeltik.com,SY,Asia,Western Asia,Syrian Arab Republic,Idlib Governorate,,Aţmah
+149.86.137.204,4,-10,Ookla Speedtest Server 69494: jrjisa.babeltik.com,TR,Asia,Western Asia,Turkey,Konya,,Selçuklu
 195.87.107.253,4,-5,Ookla Speedtest Server 69672: sp.esim-international.net,TR,Asia,Western Asia,Turkey,Hatay,,Reyhanlı
 109.230.125.42,4,9,Ookla Speedtest Server 69686: speedtest.gccitcom.com,IQ,Asia,Western Asia,Iraq,Baghdad,,Baghdad
 185.206.126.244,4,10,Ookla Speedtest Server 70110: karbala.cloudns.nz,IQ,Asia,Western Asia,Iraq,Karbala Governorate,,Karbala

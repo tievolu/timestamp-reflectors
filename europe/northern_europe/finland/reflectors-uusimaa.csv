@@ -368,7 +368,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 95.216.187.185,4,-5,DoH server: fuchur.pentament.de,FI,Europe,Northern Europe,Finland,Uusimaa,,Helsinki
 95.217.163.17,4,-2,DoH server: juuri.hagezi.org,FI,Europe,Northern Europe,Finland,Uusimaa,,Helsinki
 135.181.103.31,4,-4,DoH server: kids.ns.nwps.fi,FI,Europe,Northern Europe,Finland,Uusimaa,,Helsinki
-95.217.11.63,4,-3,DoH server: ns.nwps.fi, public.ns.nwps.fi,FI,Europe,Northern Europe,Finland,Uusimaa,,Helsinki
+95.217.11.63,4,-3,DoH server: ns.nwps.fi public.ns.nwps.fi,FI,Europe,Northern Europe,Finland,Uusimaa,,Helsinki
 37.27.218.33,4,-3,DoH server: resolver.rferee.dev,FI,Europe,Northern Europe,Finland,Uusimaa,,Helsinki
 95.216.213.181,4,-5,DoH server: truta.org,FI,Europe,Northern Europe,Finland,Uusimaa,,Helsinki
 65.108.245.35,4,4,domario.ru,FI,Europe,Northern Europe,Finland,Uusimaa,,Helsinki

@@ -187,7 +187,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.86.96.107,4,0,DoH server: dns-malwaresec.nordthreatprotection.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 103.86.96.100,4,-4,DoH server: dns1.nordvpn.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 195.114.14.74,4,-4,DoH server: dnscry.pt-sydney02-ipv4,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
-45.76.113.31,4,0,DoH server: doh-2.seby.io, doh.seby.io, dot.seby.io,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
+45.76.113.31,4,0,DoH server: doh-2.seby.io doh.seby.io dot.seby.io,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 192.250.232.89,4,3,dolawofattraction.com,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 27.50.78.89,4,593,dragonboat.sport,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney
 54.79.62.207,4,-3,drakes.com.au,AU,Oceania,Australia and New Zealand,Australia,New South Wales,,Sydney

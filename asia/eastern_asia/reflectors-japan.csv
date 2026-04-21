@@ -1119,8 +1119,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 59.106.213.203,4,-20,docker.jp,JP,Asia,Eastern Asia,Japan,,,
 151.101.89.55,4,-3,doclasse.com,JP,Asia,Eastern Asia,Japan,Osaka,,Osaka
 153.121.70.148,4,-9,dogo.jp,JP,Asia,Eastern Asia,Japan,,,
-202.172.26.36,4,-9,DoH server: adg.rueiliu.space, adguard.johanliebert.top, dns.edgeburnmedia.com, dns.huas.me, dns.labnekotest.site, dns.zui.lol, hydra.plan9-ns1.com,JP,Asia,Eastern Asia,Japan,,,
-150.107.200.31,4,-3,DoH server: aqua.is.my.waifu.cz, darkness.is.my.waifu.cz, megumin.is.my.waifu.cz, yunyun.is.my.waifu.cz,JP,Asia,Eastern Asia,Japan,Tokyo,,Tokyo
+202.172.26.36,4,-9,DoH server: adg.rueiliu.space adguard.johanliebert.top dns.edgeburnmedia.com dns.huas.me dns.labnekotest.site dns.zui.lol hydra.plan9-ns1.com,JP,Asia,Eastern Asia,Japan,,,
+150.107.200.31,4,-3,DoH server: aqua.is.my.waifu.cz darkness.is.my.waifu.cz megumin.is.my.waifu.cz yunyun.is.my.waifu.cz,JP,Asia,Eastern Asia,Japan,Tokyo,,Tokyo
 45.77.31.67,4,-8,DoH server: at.pzhg.me,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 146.70.31.43,4,0,DoH server: cs-tokyo,JP,Asia,Eastern Asia,Japan,Tokyo,,Tokyo
 150.230.197.227,4,538285,DoH server: dns.354688.xyz,JP,Asia,Eastern Asia,Japan,Chiba,,Inzai

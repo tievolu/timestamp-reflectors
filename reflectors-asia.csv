@@ -6642,7 +6642,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 141.148.211.172,4,-4,DoH server: adblock.indianets.net,IN,Asia,Southern Asia,India,Maharashtra,,Mumbai
 139.99.44.3,4,2,DoH server: adblock.krctech.dev,SG,Asia,South-eastern Asia,Singapore,,,Singapore
 64.118.135.26,4,-4,DoH server: adg.geili.me,HK,Asia,Eastern Asia,Hong Kong,Kwai Tsing District,,Ha Kwai Chung
-202.172.26.36,4,-9,DoH server: adg.rueiliu.space, adguard.johanliebert.top, dns.edgeburnmedia.com, dns.huas.me, dns.labnekotest.site, dns.zui.lol, hydra.plan9-ns1.com,JP,Asia,Eastern Asia,Japan,,,
+202.172.26.36,4,-9,DoH server: adg.rueiliu.space adguard.johanliebert.top dns.edgeburnmedia.com dns.huas.me dns.labnekotest.site dns.zui.lol hydra.plan9-ns1.com,JP,Asia,Eastern Asia,Japan,,,
 94.140.14.14,4,-6,DoH server: adguard-dns-doh,CY,Asia,Western Asia,Cyprus,,,
 94.140.14.15,4,-3,DoH server: adguard-dns-family,CY,Asia,Western Asia,Cyprus,,,
 94.140.14.140,4,-3,DoH server: adguard-dns-unfiltered,CY,Asia,Western Asia,Cyprus,,,
@@ -6652,7 +6652,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 1.230.209.26,4,1173,DoH server: agh.kyusang.win,KR,Asia,Eastern Asia,South Korea,Seoul,,Seocho-gu
 47.100.62.161,4,28,DoH server: agh.xinfeng16m.top,CN,Asia,Eastern Asia,China,Shanghai,,Shanghai
 146.56.160.153,4,8,DoH server: ant.dns.qwer.pw,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-150.107.200.31,4,-3,DoH server: aqua.is.my.waifu.cz, darkness.is.my.waifu.cz, megumin.is.my.waifu.cz, yunyun.is.my.waifu.cz,JP,Asia,Eastern Asia,Japan,Tokyo,,Tokyo
+150.107.200.31,4,-3,DoH server: aqua.is.my.waifu.cz darkness.is.my.waifu.cz megumin.is.my.waifu.cz yunyun.is.my.waifu.cz,JP,Asia,Eastern Asia,Japan,Tokyo,,Tokyo
 185.111.159.59,4,1,DoH server: asia.tri-dns.net,SG,Asia,South-eastern Asia,Singapore,,,Singapore
 45.77.31.67,4,-8,DoH server: at.pzhg.me,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 46.250.226.242,4,3,DoH server: blahdns-sg-doh,SG,Asia,South-eastern Asia,Singapore,,,Singapore
@@ -6667,11 +6667,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 195.244.44.44,4,-1,DoH server: cubedns.com,TR,Asia,Western Asia,Turkey,İzmir Province,,Izmir
 94.140.14.49,4,-3,DoH server: d.adguard-dns.com,CY,Asia,Western Asia,Cyprus,,,
 103.181.143.111,4,-10403,DoH server: d.apemlegit.my.id,ID,Asia,South-eastern Asia,Indonesia,,,
-94.140.15.16,4,-4,DoH server: dns-family.adguard.com, family.adguard-dns.com,CY,Asia,Western Asia,Cyprus,,,
-94.140.14.141,4,-6,DoH server: dns-unfiltered.adguard.com, unfiltered.adguard-dns.com,CY,Asia,Western Asia,Cyprus,,,
+94.140.15.16,4,-4,DoH server: dns-family.adguard.com family.adguard-dns.com,CY,Asia,Western Asia,Cyprus,,,
+94.140.14.141,4,-6,DoH server: dns-unfiltered.adguard.com unfiltered.adguard-dns.com,CY,Asia,Western Asia,Cyprus,,,
 150.230.197.227,4,538285,DoH server: dns.354688.xyz,JP,Asia,Eastern Asia,Japan,Chiba,,Inzai
 20.239.160.119,4,17,DoH server: dns.888654.xyz,HK,Asia,Eastern Asia,Hong Kong,,,Hong Kong
-94.140.15.15,4,-6,DoH server: dns.adguard-dns.com, dns.adguard.com,CY,Asia,Western Asia,Cyprus,,,
+94.140.15.15,4,-6,DoH server: dns.adguard-dns.com dns.adguard.com,CY,Asia,Western Asia,Cyprus,,,
 106.55.44.79,4,10,DoH server: dns.b612.me,CN,Asia,Eastern Asia,China,Guangdong,,Guangzhou
 58.87.96.15,4,29,DoH server: dns.beardic.cn,CN,Asia,Eastern Asia,China,Beijing,,Beijing
 160.250.227.196,4,-3,DoH server: dns.bebasid.com,ID,Asia,South-eastern Asia,Indonesia,West Java,,
@@ -6690,12 +6690,12 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 168.138.198.14,4,8274,DoH server: dns.koala.us.to,JP,Asia,Eastern Asia,Japan,Chiba,,Inzai
 109.123.236.250,4,5,DoH server: dns.marasov.id,SG,Asia,South-eastern Asia,Singapore,,,Singapore
 43.129.183.116,4,-2,DoH server: dns.mbrjun.cn,HK,Asia,Eastern Asia,Hong Kong,,,Hong Kong
-103.150.116.100,4,-3,DoH server: dns.ningkelle.id, family.dns.ningkelle.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
+103.150.116.100,4,-3,DoH server: dns.ningkelle.id family.dns.ningkelle.id,ID,Asia,South-eastern Asia,Indonesia,West Java,,Bogor
 52.199.8.149,4,-6,DoH server: dns.nodoa.me,JP,Asia,Eastern Asia,Japan,Tokyo,,Tokyo
-1.12.12.12,4,-5,DoH server: dns.pub, doh.pub, dot.pub,CN,Asia,Eastern Asia,China,Guangdong,,Guangzhou
+1.12.12.12,4,-5,DoH server: dns.pub doh.pub dot.pub,CN,Asia,Eastern Asia,China,Guangdong,,Guangzhou
 178.22.122.100,4,-20,DoH server: dns.shecan.ir,IR,Asia,Southern Asia,Iran,Tehran,,Tehran
-185.51.200.2,4,10,DoH server: dns.shecan.ir, free.shecan.ir,IR,Asia,Southern Asia,Iran,,,
-116.49.169.214,4,-3,DoH server: dns.sitdns.com, sitdns.com,HK,Asia,Eastern Asia,Hong Kong,,,
+185.51.200.2,4,10,DoH server: dns.shecan.ir free.shecan.ir,IR,Asia,Southern Asia,Iran,,,
+116.49.169.214,4,-3,DoH server: dns.sitdns.com sitdns.com,HK,Asia,Eastern Asia,Hong Kong,,,
 207.2.122.94,4,0,DoH server: dns.syaifullah.com,SG,Asia,South-eastern Asia,Singapore,,,Singapore
 118.163.170.2,4,34,DoH server: dns.tipsy.coffee,TW,Asia,Eastern Asia,Taiwan,Taichung City,,
 101.6.6.6,4,-58,DoH server: dns.tuna.tsinghua.edu.cn,CN,Asia,Eastern Asia,China,Beijing,,Beijing
@@ -6730,13 +6730,13 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 85.90.207.199,4,0,DoH server: dnscry.pt-yerevan-ipv4,AM,Asia,Western Asia,Armenia,Yerevan,,Yerevan
 159.65.149.35,4,-4,DoH server: do.shimul.me,IN,Asia,Southern Asia,India,Karnataka,,Bengaluru
 146.56.176.39,4,-6,DoH server: dog.dns.qwer.pw,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-23.189.248.99,4,2979,DoH server: doh.beauty, doh.buzz,HK,Asia,Eastern Asia,Hong Kong,Kwai Tsing District,,Kwai Chung
+23.189.248.99,4,2979,DoH server: doh.beauty doh.buzz,HK,Asia,Eastern Asia,Hong Kong,Kwai Tsing District,,Kwai Chung
 139.59.48.222,4,8,DoH server: doh.captnemo.in,IN,Asia,Southern Asia,India,Karnataka,,Bengaluru
 146.190.89.252,4,1,DoH server: doh.futa.app,SG,Asia,South-eastern Asia,Singapore,,,Singapore
 203.153.116.132,4,6,DoH server: doh.infracell.net,ID,Asia,South-eastern Asia,Indonesia,,,
 103.102.15.8,4,-5,DoH server: doh.max.net.id,ID,Asia,South-eastern Asia,Indonesia,,,
 174.138.21.128,4,2,DoH server: doh.tiar.app,SG,Asia,South-eastern Asia,Singapore,,,Singapore
-174.138.29.175,4,41,DoH server: doh.tiar.app, dot.tiar.app,SG,Asia,South-eastern Asia,Singapore,,,Singapore
+174.138.29.175,4,41,DoH server: doh.tiar.app dot.tiar.app,SG,Asia,South-eastern Asia,Singapore,,,Singapore
 124.219.110.49,4,-11,DoH server: doh.viatech.com.tw,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 147.78.0.8,4,-42,DoH server: dotdns.cryptroute.com,AE,Asia,Western Asia,United Arab Emirates,Umm al Qaywayn,,Muhadhdhib
 140.238.10.79,4,4,DoH server: frog.dns.qwer.pw,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
@@ -6744,7 +6744,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.219.194.252,4,-4,DoH server: hk2.ooroot.com,HK,Asia,Eastern Asia,Hong Kong,,,Hong Kong
 218.75.4.130,4,34,DoH server: hshh.org,CN,Asia,Eastern Asia,China,,,
 143.244.128.32,4,-10,DoH server: in-blr.doh.sb,IN,Asia,Southern Asia,India,Karnataka,,Bengaluru
-83.110.6.192,4,-3426735709,DoH server: inpssh.online, www.inpssh.online,AE,Asia,Western Asia,United Arab Emirates,Abu Dhabi,,Al Ain City
+83.110.6.192,4,-3426735709,DoH server: inpssh.online www.inpssh.online,AE,Asia,Western Asia,United Arab Emirates,Abu Dhabi,,Al Ain City
 103.29.68.118,4,-5,DoH server: jp-dns1.bancuh.com,JP,Asia,Eastern Asia,Japan,Tokyo,,Tokyo
 202.5.222.2,4,0,DoH server: jp-kix.doh.sb,JP,Asia,Eastern Asia,Japan,Osaka,,Osaka
 45.8.222.99,4,-4,DoH server: jp-nrt.doh.sb,JP,Asia,Eastern Asia,Japan,Tokyo,,Tokyo
@@ -18871,8 +18871,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 103.76.189.62,4,-82,Ookla Speedtest Server 69439: speedtest2.alacriynetsystem.net,IN,Asia,Southern Asia,India,Tamil Nadu,,Nagapattinam
 103.107.176.8,4,5,Ookla Speedtest Server 69442: speedtest3.mconnect.co.id,ID,Asia,South-eastern Asia,Indonesia,Bali,,Denpasar
 103.111.39.120,4,-5,Ookla Speedtest Server 69454: notakst.ghinternet.com,PK,Asia,Southern Asia,Pakistan,Punjab,,Notak
-149.86.137.204,4,-10,Ookla Speedtest Server 69494: jrjisa.babeltik.com,TR,Asia,Western Asia,Turkey,Konya,,Selçuklu
 131.222.253.90,4,1143,Ookla Speedtest Server 69494: babeltik.com,SY,Asia,Western Asia,Syrian Arab Republic,Idlib Governorate,,Aţmah
+149.86.137.204,4,-10,Ookla Speedtest Server 69494: jrjisa.babeltik.com,TR,Asia,Western Asia,Turkey,Konya,,Selçuklu
 103.189.83.6,4,33,Ookla Speedtest Server 69504: srmaklko.hostycare.in,IN,Asia,Southern Asia,India,Uttar Pradesh,,Lucknow
 117.18.16.37,4,84992,Ookla Speedtest Server 69506: speedtest.gopal.my.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Jombang
 117.18.16.33,4,36,Ookla Speedtest Server 69520: jombang.gopalnet.id,ID,Asia,South-eastern Asia,Indonesia,East Java,,Jombang

@@ -495,7 +495,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 5.161.108.185,4,12,doctranslator.com,US,Americas,Northern America,United States of America,Virginia,,Ashburn
 77.247.127.107,4,-3,DoH server: abn01.dnscry.pt,US,Americas,Northern America,United States of America,Virginia,,Ashburn
 5.161.194.22,4,-6,DoH server: adguard.ihatemy.live,US,Americas,Northern America,United States of America,Virginia,,Ashburn
-170.39.224.134,4,-6,DoH server: chromium.dns.nextdns.io, dns.nextdns.io, dns2.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io,US,Americas,Northern America,United States of America,Virginia,,Ashburn
+170.39.224.134,4,-6,DoH server: chromium.dns.nextdns.io dns.nextdns.io dns2.nextdns.io firefox.dns.nextdns.io steering.nextdns.io,US,Americas,Northern America,United States of America,Virginia,,Ashburn
 5.161.43.197,4,1,DoH server: dns.nextdns.io,US,Americas,Northern America,United States of America,Virginia,,Ashburn
 150.136.138.221,4,-3,DoH server: o.rsaikat.com,US,Americas,Northern America,United States of America,Virginia,,Ashburn
 54.172.110.180,4,-5,DoH server: us02.dns4me.net,US,Americas,Northern America,United States of America,Virginia,,Ashburn

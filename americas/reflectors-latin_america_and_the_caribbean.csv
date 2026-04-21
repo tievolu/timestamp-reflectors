@@ -2105,8 +2105,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 190.211.224.39,4,1,Ookla Speedtest Server 6172: digital.bo,BO,Americas,Latin America and the Caribbean,Bolivia,,,
 191.242.248.111,4,-4,Ookla Speedtest Server 6231: speedtest.conectainter.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Santa Catarina,,Araranguá
 200.58.73.25,4,4,Ookla Speedtest Server 6235: speed.supernet.com.bo,BO,Americas,Latin America and the Caribbean,Bolivia,Departamento de Cochabamba,,Cochabamba
-138.0.136.218,4,-1,Ookla Speedtest Server 6266: velocimetro.digitalsattelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Araxá
 138.0.137.218,4,2,Ookla Speedtest Server 6266: speed.digitalsattelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Araxá
+138.0.136.218,4,-1,Ookla Speedtest Server 6266: velocimetro.digitalsattelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Araxá
 131.108.116.20,4,0,Ookla Speedtest Server 6313: sp1.soucbnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Catalão
 132.255.80.8,4,13,Ookla Speedtest Server 6315: speedtest.almeidaparente.eti.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Frecheirinha
 138.0.72.2,4,23,Ookla Speedtest Server 6333: speedtest.ultranetce.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Ceará,,Pacujá
@@ -3735,8 +3735,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 179.49.92.91,4,1,Ookla Speedtest Server 36562: speedtest.xlinetelecom.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Pedregulho
 45.5.24.10,4,-1,Ookla Speedtest Server 36574: speedtest.netlinkpe.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Olinda
 190.8.168.27,4,-2,Ookla Speedtest Server 36604: gancomcbo.com,VE,Americas,Latin America and the Caribbean,Venezuela,,,
-45.7.217.251,4,3,Ookla Speedtest Server 36605: velocidade2.sagelink.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Londrina
 45.65.164.42,4,-5,Ookla Speedtest Server 36605: speed.localnetrs.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Guaíba
+45.7.217.251,4,3,Ookla Speedtest Server 36605: velocidade2.sagelink.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Londrina
 138.204.196.27,4,13,Ookla Speedtest Server 36609: velocidade.iubtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Buriti Alegre
 200.6.143.12,4,21,Ookla Speedtest Server 36647: teste.mov.pro.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Santarém
 45.226.86.46,4,-30,Ookla Speedtest Server 36661: test.softxbr.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Salvador
@@ -3860,8 +3860,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 177.152.100.30,4,-15,Ookla Speedtest Server 37991: speedtest.b2networks.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Arujá
 200.25.42.28,4,7,Ookla Speedtest Server 38008: spt-poa1.edgeuno.com,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Porto Alegre
 45.187.128.117,4,359846,Ookla Speedtest Server 38021: teste.dwtelecom.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Maranhão,,Cândido Mendes
-179.109.32.116,4,54282,Ookla Speedtest Server 38039: speedtest.loviz.com.vc,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Fazenda Rio Grande
 179.109.32.210,4,7,Ookla Speedtest Server 38039: velocidade.loviz.com.vc,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Fazenda Rio Grande
+179.109.32.116,4,54282,Ookla Speedtest Server 38039: speedtest.loviz.com.vc,BR,Americas,Latin America and the Caribbean,Brazil,Paraná,,Fazenda Rio Grande
 170.247.76.134,4,7,Ookla Speedtest Server 38049: speedtest.redcentro.org,AR,Americas,Latin America and the Caribbean,Argentina,Santa Fe,,Ceres
 45.225.36.82,4,146204,Ookla Speedtest Server 38051: ookla.mundialstation.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Belo Jardim
 45.173.176.17,4,1,Ookla Speedtest Server 38063: teste.koberturatelecom.com,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São Paulo
@@ -5756,8 +5756,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.234.64.242,4,17,Ookla Speedtest Server 59504: velocidade.ilimitech.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Jussara
 45.182.212.135,4,39,Ookla Speedtest Server 59528: speedtest.speedboost.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Camaçari
 170.84.39.243,4,-18,Ookla Speedtest Server 59532: velocidade.nextelecom.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Salvador
-200.6.81.220,4,11,Ookla Speedtest Server 59536: solucaonet.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Catalão
 190.115.99.250,4,-10,Ookla Speedtest Server 59536: ookla.solucaors.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Sobradinho
+200.6.81.220,4,11,Ookla Speedtest Server 59536: solucaonet.brsserver.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Goiás,,Catalão
 170.239.55.5,4,-9,Ookla Speedtest Server 59560: speedteodoro.pontalnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Mirante do Paranapanema
 170.239.55.6,4,-4,Ookla Speedtest Server 59561: speedmirante.pontalnet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Mirante do Paranapanema
 138.97.208.14,4,786620,Ookla Speedtest Server 59566: teste.fernandesinfornet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pernambuco,,Caruaru
@@ -5847,8 +5847,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 177.128.39.131,4,-1,Ookla Speedtest Server 60056: spd.clite.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,São Francisco
 201.174.171.30,4,-107822,Ookla Speedtest Server 60065: speedtest.konet.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Yucatán,,Mérida
 177.74.80.5,4,-4,Ookla Speedtest Server 60068: hyper01.fokusnet.net.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,Dracena
-177.184.232.0,4,79982,Ookla Speedtest Server 60069: speedtest.cyberdata.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Ananindeua
 138.117.37.156,4,80266,Ookla Speedtest Server 60069: speedtest.cyberdata.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Colares
+177.184.232.0,4,79982,Ookla Speedtest Server 60069: speedtest.cyberdata.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Ananindeua
 131.72.104.7,4,2,Ookla Speedtest Server 60073: speedtest.hoby.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso do Sul,,Sidrolândia
 200.59.21.27,4,0,Ookla Speedtest Server 60075: st.fratec.net,CR,Americas,Latin America and the Caribbean,Costa Rica,,,
 177.246.73.10,4,-4,Ookla Speedtest Server 60079: speedtest.ags.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Aguascalientes,,Aguascalientes
@@ -6091,8 +6091,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 209.14.6.14,4,4,Ookla Speedtest Server 61777: speedtest.dalink.com.br,BR,Americas,Latin America and the Caribbean,Brazil,São Paulo,,São José do Rio Preto
 45.173.110.13,4,2,Ookla Speedtest Server 61781: ookla.classea.net,BR,Americas,Latin America and the Caribbean,Brazil,Pará,,Eldorado dos Carajás
 103.239.234.255,4,-3,Ookla Speedtest Server 61783: velocidad.solit.com.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Tehuacán
-168.232.174.3,4,-4,Ookla Speedtest Server 61789: stcla.soniknet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Itapecerica
 168.232.174.6,4,-18,Ookla Speedtest Server 61789: speedtestclaudio.sonik.cloud,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Cláudio
+168.232.174.3,4,-4,Ookla Speedtest Server 61789: stcla.soniknet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Minas Gerais,,Itapecerica
 190.60.36.24,4,9,Ookla Speedtest Server 61799: speedtest.mundodigitaltvsas.com,CO,Americas,Latin America and the Caribbean,Colombia,Departamento de Bolívar,,Calamar
 179.0.44.12,4,6,Ookla Speedtest Server 61820: speedteste.floppynet.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Rio Largo
 189.126.88.74,4,4,Ookla Speedtest Server 61821: medidor.netcomweb.info,BR,Americas,Latin America and the Caribbean,Brazil,Mato Grosso,,Água Boa
@@ -6504,8 +6504,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 187.103.126.186,4,-9,Ookla Speedtest Server 64855: speedtest1.optimusfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Bahia,,Salvador
 38.158.83.4,4,23,Ookla Speedtest Server 64868: speedtest.fiberred.pe,PE,Americas,Latin America and the Caribbean,Peru,Arequipa,,Arequipa
 45.237.95.212,4,-10,Ookla Speedtest Server 64870: ookla.turbonet.srv.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,Arapiraca
-38.56.112.128,4,10,Ookla Speedtest Server 64872: speedtest.interflash.pe,PE,Americas,Latin America and the Caribbean,Peru,Arequipa,,Arequipa
 179.43.98.105,4,-8894605,Ookla Speedtest Server 64872: speedtest.interflashfo.com,PE,Americas,Latin America and the Caribbean,Peru,Arequipa,,Arequipa
+38.56.112.128,4,10,Ookla Speedtest Server 64872: speedtest.interflash.pe,PE,Americas,Latin America and the Caribbean,Peru,Arequipa,,Arequipa
 138.97.196.18,4,-4,Ookla Speedtest Server 64876: spdteste.vamo.net.br,BR,Americas,Latin America and the Caribbean,Brazil,Alagoas,,São José da Laje
 45.177.184.200,4,-15,Ookla Speedtest Server 64885: americasnetfibra.com.br,BR,Americas,Latin America and the Caribbean,Brazil,Rio Grande do Sul,,Capão do Leão
 187.244.49.3,4,-22,Ookla Speedtest Server 64887: speedtest.ajlpn.megared.net.mx,MX,Americas,Latin America and the Caribbean,Mexico,Puebla,,Ajalpan

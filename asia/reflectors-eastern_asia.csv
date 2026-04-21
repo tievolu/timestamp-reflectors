@@ -3719,11 +3719,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 193.227.103.251,4,25,dogyun.com,HK,Asia,Eastern Asia,Hong Kong,,,
 218.154.183.208,4,3,DoH server: 2.dns.noridev.moe,KR,Asia,Eastern Asia,South Korea,Gyeongsangnam-do,,Jinju
 64.118.135.26,4,-4,DoH server: adg.geili.me,HK,Asia,Eastern Asia,Hong Kong,Kwai Tsing District,,Ha Kwai Chung
-202.172.26.36,4,-9,DoH server: adg.rueiliu.space, adguard.johanliebert.top, dns.edgeburnmedia.com, dns.huas.me, dns.labnekotest.site, dns.zui.lol, hydra.plan9-ns1.com,JP,Asia,Eastern Asia,Japan,,,
+202.172.26.36,4,-9,DoH server: adg.rueiliu.space adguard.johanliebert.top dns.edgeburnmedia.com dns.huas.me dns.labnekotest.site dns.zui.lol hydra.plan9-ns1.com,JP,Asia,Eastern Asia,Japan,,,
 1.230.209.26,4,1173,DoH server: agh.kyusang.win,KR,Asia,Eastern Asia,South Korea,Seoul,,Seocho-gu
 47.100.62.161,4,28,DoH server: agh.xinfeng16m.top,CN,Asia,Eastern Asia,China,Shanghai,,Shanghai
 146.56.160.153,4,8,DoH server: ant.dns.qwer.pw,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-150.107.200.31,4,-3,DoH server: aqua.is.my.waifu.cz, darkness.is.my.waifu.cz, megumin.is.my.waifu.cz, yunyun.is.my.waifu.cz,JP,Asia,Eastern Asia,Japan,Tokyo,,Tokyo
+150.107.200.31,4,-3,DoH server: aqua.is.my.waifu.cz darkness.is.my.waifu.cz megumin.is.my.waifu.cz yunyun.is.my.waifu.cz,JP,Asia,Eastern Asia,Japan,Tokyo,,Tokyo
 45.77.31.67,4,-8,DoH server: at.pzhg.me,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 43.161.215.96,4,-4,DoH server: blog.kimiblock.top,HK,Asia,Eastern Asia,Hong Kong,,,Hong Kong
 34.80.137.209,4,7,DoH server: bluemood.me,TW,Asia,Eastern Asia,Taiwan,Taipei City,,Taipei
@@ -3743,8 +3743,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 168.138.198.14,4,8274,DoH server: dns.koala.us.to,JP,Asia,Eastern Asia,Japan,Chiba,,Inzai
 43.129.183.116,4,-2,DoH server: dns.mbrjun.cn,HK,Asia,Eastern Asia,Hong Kong,,,Hong Kong
 52.199.8.149,4,-6,DoH server: dns.nodoa.me,JP,Asia,Eastern Asia,Japan,Tokyo,,Tokyo
-1.12.12.12,4,-5,DoH server: dns.pub, doh.pub, dot.pub,CN,Asia,Eastern Asia,China,Guangdong,,Guangzhou
-116.49.169.214,4,-3,DoH server: dns.sitdns.com, sitdns.com,HK,Asia,Eastern Asia,Hong Kong,,,
+1.12.12.12,4,-5,DoH server: dns.pub doh.pub dot.pub,CN,Asia,Eastern Asia,China,Guangdong,,Guangzhou
+116.49.169.214,4,-3,DoH server: dns.sitdns.com sitdns.com,HK,Asia,Eastern Asia,Hong Kong,,,
 118.163.170.2,4,34,DoH server: dns.tipsy.coffee,TW,Asia,Eastern Asia,Taiwan,Taichung City,,
 101.6.6.6,4,-58,DoH server: dns.tuna.tsinghua.edu.cn,CN,Asia,Eastern Asia,China,Beijing,,Beijing
 131.186.19.137,4,2,DoH server: dns.txq.life,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
@@ -3758,7 +3758,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 45.67.86.123,4,-4,DoH server: dnscry.pt-tokyo-ipv4,JP,Asia,Eastern Asia,Japan,Tokyo,,Minamishinagawa
 103.179.45.6,4,-6,DoH server: dnscry.pt-tokyo02-ipv4,JP,Asia,Eastern Asia,Japan,Tokyo,,Tokyo
 146.56.176.39,4,-6,DoH server: dog.dns.qwer.pw,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
-23.189.248.99,4,2979,DoH server: doh.beauty, doh.buzz,HK,Asia,Eastern Asia,Hong Kong,Kwai Tsing District,,Kwai Chung
+23.189.248.99,4,2979,DoH server: doh.beauty doh.buzz,HK,Asia,Eastern Asia,Hong Kong,Kwai Tsing District,,Kwai Chung
 124.219.110.49,4,-11,DoH server: doh.viatech.com.tw,TW,Asia,Eastern Asia,Taiwan,New Taipei City,,New Taipei City
 140.238.10.79,4,4,DoH server: frog.dns.qwer.pw,KR,Asia,Eastern Asia,South Korea,Seoul,,Seoul
 45.125.0.26,4,-2,DoH server: hk-hkg.doh.sb,HK,Asia,Eastern Asia,Hong Kong,,,

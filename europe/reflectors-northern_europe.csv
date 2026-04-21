@@ -2351,8 +2351,8 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 51.89.26.38,4,-1,DoH server: adguard.oms-ctr.ru,GB,Europe,Northern Europe,United Kingdom,England,,London
 5.11.11.5,4,-4,DoH server: africadns1.liquidtelecom.net,GB,Europe,Northern Europe,United Kingdom,,,
 5.11.11.11,4,-4,DoH server: africadns2.liquidtelecom.net,GB,Europe,Northern Europe,United Kingdom,,,
-217.154.52.156,4,-3,DoH server: ahoj.email, princez.uk,GB,Europe,Northern Europe,United Kingdom,,,
-87.106.103.65,4,-4,DoH server: ahoj.email, princez.uk, zakaria.website,GB,Europe,Northern Europe,United Kingdom,England,City of Westminster,City of Westminster
+217.154.52.156,4,-3,DoH server: ahoj.email princez.uk,GB,Europe,Northern Europe,United Kingdom,,,
+87.106.103.65,4,-4,DoH server: ahoj.email princez.uk zakaria.website,GB,Europe,Northern Europe,United Kingdom,England,City of Westminster,City of Westminster
 37.252.230.153,4,-2,DoH server: chromium.dns.nextdns.io,GB,Europe,Northern Europe,United Kingdom,England,City of London,City of London
 192.121.119.19,4,-4,DoH server: cph01.dnscry.pt,DK,Europe,Northern Europe,Denmark,Capital Region,,Copenhagen
 83.143.242.43,4,-40,DoH server: cs-finland,FI,Europe,Northern Europe,Finland,Uusimaa,,Helsinki
@@ -2394,7 +2394,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 54.77.124.213,4,-4,DoH server: ie01.dns4me.net,IE,Europe,Northern Europe,Ireland,Leinster,,Dublin
 95.217.163.17,4,-2,DoH server: juuri.hagezi.org,FI,Europe,Northern Europe,Finland,Uusimaa,,Helsinki
 135.181.103.31,4,-4,DoH server: kids.ns.nwps.fi,FI,Europe,Northern Europe,Finland,Uusimaa,,Helsinki
-95.217.11.63,4,-3,DoH server: ns.nwps.fi, public.ns.nwps.fi,FI,Europe,Northern Europe,Finland,Uusimaa,,Helsinki
+95.217.11.63,4,-3,DoH server: ns.nwps.fi public.ns.nwps.fi,FI,Europe,Northern Europe,Finland,Uusimaa,,Helsinki
 185.181.61.24,4,-4,DoH server: ns4.opennameserver.org,NO,Europe,Northern Europe,Norway,Vestfold,,Sandefjord
 46.227.200.52,4,-1,DoH server: pdns.faelix.net,GB,Europe,Northern Europe,United Kingdom,England,Manchester,Manchester
 37.156.68.20,4,-3,DoH server: resolv.flokinet.net,IS,Europe,Northern Europe,Iceland,,,

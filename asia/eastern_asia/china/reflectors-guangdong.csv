@@ -166,7 +166,7 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 120.77.79.127,4,33,dofun.cc,CN,Asia,Eastern Asia,China,Guangdong,,Shenzhen
 120.76.76.102,4,20,dofun.cc,CN,Asia,Eastern Asia,China,Guangdong,,Shenzhen
 106.55.44.79,4,10,DoH server: dns.b612.me,CN,Asia,Eastern Asia,China,Guangdong,,Guangzhou
-1.12.12.12,4,-5,DoH server: dns.pub, doh.pub, dot.pub,CN,Asia,Eastern Asia,China,Guangdong,,Guangzhou
+1.12.12.12,4,-5,DoH server: dns.pub doh.pub dot.pub,CN,Asia,Eastern Asia,China,Guangdong,,Guangzhou
 47.106.121.203,4,14,dongjiancorp.com,CN,Asia,Eastern Asia,China,Guangdong,,Shenzhen
 120.24.76.217,4,19,dongpeng.net,CN,Asia,Eastern Asia,China,Guangdong,,Shenzhen
 112.74.169.36,4,19,dossen.com,CN,Asia,Eastern Asia,China,Guangdong,,Shenzhen

@@ -637,11 +637,11 @@ reflector_ip,ip_version,offset,description,country_code,region,sub_region,countr
 43.154.23.198,4,-4,DoH server: cloud.198.games,HK,Asia,Eastern Asia,Hong Kong,,,Hong Kong
 20.239.160.119,4,17,DoH server: dns.888654.xyz,HK,Asia,Eastern Asia,Hong Kong,,,Hong Kong
 43.129.183.116,4,-2,DoH server: dns.mbrjun.cn,HK,Asia,Eastern Asia,Hong Kong,,,Hong Kong
-116.49.169.214,4,-3,DoH server: dns.sitdns.com, sitdns.com,HK,Asia,Eastern Asia,Hong Kong,,,
+116.49.169.214,4,-3,DoH server: dns.sitdns.com sitdns.com,HK,Asia,Eastern Asia,Hong Kong,,,
 96.9.228.27,4,-6,DoH server: dnscry.pt-hongkong-ipv4,HK,Asia,Eastern Asia,Hong Kong,,,Hong Kong
 151.242.64.36,4,-4,DoH server: dnscry.pt-hongkong02-ipv4,HK,Asia,Eastern Asia,Hong Kong,Central and Western District,,Central
 45.123.188.129,4,0,DoH server: dnscry.pt-hongkong03-ipv4,HK,Asia,Eastern Asia,Hong Kong,,,
-23.189.248.99,4,2979,DoH server: doh.beauty, doh.buzz,HK,Asia,Eastern Asia,Hong Kong,Kwai Tsing District,,Kwai Chung
+23.189.248.99,4,2979,DoH server: doh.beauty doh.buzz,HK,Asia,Eastern Asia,Hong Kong,Kwai Tsing District,,Kwai Chung
 45.125.0.26,4,-2,DoH server: hk-hkg.doh.sb,HK,Asia,Eastern Asia,Hong Kong,,,
 103.219.194.252,4,-4,DoH server: hk2.ooroot.com,HK,Asia,Eastern Asia,Hong Kong,,,Hong Kong
 47.243.233.55,4,-2,DoH server: sunnygyl.com,HK,Asia,Eastern Asia,Hong Kong,,,Hong Kong

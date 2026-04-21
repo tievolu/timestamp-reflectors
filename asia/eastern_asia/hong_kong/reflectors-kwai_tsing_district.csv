@@ -1,6 +1,6 @@
 reflector_ip,ip_version,offset,description,country_code,region,sub_region,country_name,sub_division_1,sub_division_2,city
 64.118.135.26,4,-4,DoH server: adg.geili.me,HK,Asia,Eastern Asia,Hong Kong,Kwai Tsing District,,Ha Kwai Chung
-23.189.248.99,4,2979,DoH server: doh.beauty, doh.buzz,HK,Asia,Eastern Asia,Hong Kong,Kwai Tsing District,,Kwai Chung
+23.189.248.99,4,2979,DoH server: doh.beauty doh.buzz,HK,Asia,Eastern Asia,Hong Kong,Kwai Tsing District,,Kwai Chung
 149.88.67.167,4,0,easy-sheds.com,HK,Asia,Eastern Asia,Hong Kong,Kwai Tsing District,,Kwai Chung
 149.88.80.51,4,-8,ebsss.cn,HK,Asia,Eastern Asia,Hong Kong,Kwai Tsing District,,Kwai Chung
 149.88.90.152,4,-52,huzhan.com,HK,Asia,Eastern Asia,Hong Kong,Kwai Tsing District,,Kwai Chung
